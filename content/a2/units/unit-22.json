@@ -1,0 +1,873 @@
+{
+  "number": 22,
+  "title": "Technology and communication",
+  "lessons": [
+    {
+      "day": 169,
+      "unit": 22,
+      "title": "Ask about the controls on an unfamiliar device",
+      "goal": "I can name a simple screen control and ask which action applies before trying an unfamiliar interface.",
+      "newItems": [
+        {
+          "word": "device",
+          "ipa": "/dɪˈvaɪs/",
+          "pos": "noun",
+          "definition": "A piece of equipment made for a particular purpose, such as a phone or tablet.",
+          "example": "This device has a screen and a keyboard.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "touchpad",
+          "ipa": "/ˈtʌtʃˌpæd/",
+          "pos": "noun",
+          "definition": "A flat area on a computer used to move a pointer with a finger.",
+          "example": "Move your finger on the touchpad to move the pointer.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "cursor",
+          "ipa": "/ˈkɝsɚ/",
+          "pos": "noun",
+          "definition": "A visible mark on a screen showing a position or where an action will happen.",
+          "example": "The cursor is beside the box where I can type.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "icon",
+          "ipa": "/ˈaɪkɑn/",
+          "pos": "noun",
+          "definition": "A small picture or symbol on a screen representing a function, item or program.",
+          "example": "The speaker icon controls the lesson sound.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "click on",
+          "ipa": "/klɪk ɑn/",
+          "pos": "fixed phrase",
+          "definition": "Select an on-screen item using a mouse or a similar control.",
+          "example": "Click on the speaker icon to hear the practice sentence.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "screen",
+        "keyboard",
+        "mouse",
+        "picture",
+        "music"
+      ],
+      "mainWord": {
+        "word": "device",
+        "ipa": "/dɪˈvaɪs/",
+        "pos": "noun",
+        "definition": "A piece of equipment made for a particular purpose, such as a phone or tablet.",
+        "example": "This device has a screen and a keyboard.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Device, touchpad, cursor and icon are countable nouns. Cursor can refer to a text-position mark or, in some use, a pointer; name the location when asking for help. An icon’s picture may suggest a function, but its label explains the actual control.",
+      "wordTask": "Can a tablet and a laptop both be described as a device?",
+      "wordSample": "Yes. Both are pieces of equipment made for particular purposes.",
+      "expression": "Which control should I use?",
+      "use": "Ask about the particular screen and device instead of assuming that every interface uses the same action.",
+      "context": [
+        "Which control should I use?",
+        "On this laptop, click on the speaker icon beside the sentence."
+      ],
+      "expressionTask": "Help a partner find the sound control on an unfamiliar learning screen. Identify the item and the device before giving the action.",
+      "grammar": "This with singular and these with plural nouns",
+      "pattern": "this + singular noun; these + plural noun",
+      "example": "This device has a touchpad.",
+      "task": "This ___ has a touchpad.",
+      "answer": "device",
+      "sound": "Device has stress on VICE and ends with S. Cursor has stress on CUR with the American R-colored vowel. Icon begins with the vowel in eye.",
+      "model": "This device has a screen and a keyboard.",
+      "dialogue": [
+        "I have not used this device before. Which control should I use for the sound?",
+        "On this laptop, click on the speaker icon beside the sentence.",
+        "I can see the icon, but where is the cursor?",
+        "Move your finger on the touchpad and watch the pointer move across the screen.",
+        "It is beside the speaker now. I will check the label before selecting it.",
+        "Good. A different device may use a touch screen, so we should describe the control that is actually here."
+      ],
+      "reading": "Bella uses an unfamiliar laptop for a class lesson. The device has a keyboard and a touchpad. Moving her finger on the touchpad moves the screen pointer, often called a cursor. She wants to hear a sentence, so she finds the speaker icon and reads its label. Fenrir tells her to click on that icon on this laptop. They describe the control visible on this screen rather than pretending that every phone, tablet and computer has the same layout. Naming the item and its position makes the short instruction easier to follow.",
+      "readingQ": "What helps Bella identify the sound control rather than guess from the whole screen?",
+      "readingA": "The speaker icon’s label and its position beside the sentence.",
+      "writing": "Write 45–65 words helping a partner locate a lesson’s sound control on this laptop. Identify the device, control and position.",
+      "writingSample": "On this laptop, the lesson sound control is the speaker icon beside the sentence. Move the pointer with the touchpad, check the icon’s label and click on it. If you are using a different device, tell me what you can see so that we can describe the actual screen rather than guess.",
+      "listening": "On this class laptop, the speaker icon is beside the example sentence. The large picture at the top is only an illustration. Use the touchpad to move the pointer to the labeled speaker, then select that control for the sentence sound.",
+      "question": "Which item controls the sentence sound?",
+      "correct": "The labeled speaker icon beside the sentence",
+      "other": "The large illustration at the top",
+      "speaking": "Ask a partner to describe the sound control without pointing. Repeat its location and the action before trying it.",
+      "speakingSample": "Which control should I use for the sentence sound? Is it the speaker icon beside the example? I can move the pointer there with the touchpad and check its label. Please tell me if your screen looks different."
+    },
+    {
+      "day": 170,
+      "unit": 22,
+      "title": "Keep a web page while opening another one",
+      "goal": "I can follow a short browser instruction and distinguish a new tab from replacing the current page.",
+      "newItems": [
+        {
+          "word": "browser",
+          "ipa": "/ˈbraʊzɚ/",
+          "pos": "noun",
+          "definition": "A program used to open and view websites.",
+          "example": "The browser shows the library website.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "tab",
+          "ipa": "/tæb/",
+          "pos": "noun",
+          "definition": "A section within a browser window used to hold a separate web page.",
+          "example": "Keep the timetable in one tab while opening the map in another.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "open a new tab",
+          "ipa": "/ˈoʊpən ə nuː tæb/",
+          "pos": "fixed phrase",
+          "definition": "Create another page space in the browser without replacing the current tab.",
+          "example": "Open a new tab for the visitor map.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "type in",
+          "ipa": "/taɪp ɪn/",
+          "pos": "fixed phrase",
+          "definition": "Enter text in a box or field using a keyboard or similar input.",
+          "example": "Type in the address shown on the notice.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "scroll down",
+          "ipa": "/skroʊl daʊn/",
+          "pos": "fixed phrase",
+          "definition": "Move the page view to see content lower on the same page.",
+          "example": "Scroll down to find the visitor times below the picture.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "website",
+        "link",
+        "map",
+        "address",
+        "page"
+      ],
+      "mainWord": {
+        "word": "browser",
+        "ipa": "/ˈbraʊzɚ/",
+        "pos": "noun",
+        "definition": "A program used to open and view websites.",
+        "example": "The browser shows the library website.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Browser and tab are countable nouns here. Opening a new tab adds another page space; scrolling changes which part of the same page is visible. Type in needs the intended field or information to be clear. A new tab is not automatically a new browser window.",
+      "wordTask": "What is a browser used for?",
+      "wordSample": "It is a program used to open and view websites.",
+      "expression": "Will this replace the page I am using?",
+      "use": "Check whether an action will keep the current information available before following it.",
+      "context": [
+        "Will this replace the page I am using?",
+        "No. We will open the map in a new tab and keep the timetable here."
+      ],
+      "expressionTask": "Help a visitor keep a timetable visible while opening a map separately. Explain which action changes pages and which moves within a page.",
+      "grammar": "Keep with an object and a place",
+      "pattern": "keep + object + place phrase",
+      "example": "Keep the timetable in this tab.",
+      "task": "Keep the timetable ___ this tab.",
+      "answer": "in",
+      "sound": "Browser begins with B followed directly by R and has a voiced Z sound. Scroll begins with S, K and R together. Tab ends with B, not P.",
+      "model": "The browser shows the library website.",
+      "dialogue": [
+        "I need the map, but I do not want to lose the timetable. Will this replace the page I am using?",
+        "We can open a new tab for the map and keep this tab.",
+        "Should I type in the address from the visitor notice?",
+        "Yes, in the new tab’s address field. On the map page, scroll down to the visitor section.",
+        "So scrolling does not open another page?",
+        "Right. It shows a lower part of the same page. We can switch back to the timetable tab when needed."
+      ],
+      "reading": "Bella has the library timetable open in her browser. She also needs a visitor map. Fenrir suggests that she open a new tab, keeping the timetable in the first one. She can type in the map address shown on the visitor notice in the new tab. Once the map page is open, she needs to scroll down to the visitor section beneath the picture. These are separate actions: opening a tab adds another page space, while scrolling shows more of the current page. Bella can return to the timetable by selecting its tab.",
+      "readingQ": "How does Bella keep the timetable available while viewing the map?",
+      "readingA": "She opens the map in a new tab and keeps the timetable in the original tab.",
+      "writing": "Write 45–65 words explaining how to keep a timetable while viewing a map. Distinguish opening a new tab from scrolling.",
+      "writingSample": "Keep the timetable in its current browser tab. Open a new tab and enter the map address from the visitor notice there. When the map appears, scroll down to its visitor section. Scrolling shows a lower part of that page; it does not create another tab. Select the timetable tab to return.",
+      "listening": "Keep the timetable tab open. Create a second tab for the map, then scroll down on the map page to the visitor section. Do not close the timetable. You will need it again when comparing the opening time with the bus arrival.",
+      "question": "What should remain open for later comparison?",
+      "correct": "The original timetable tab",
+      "other": "Only the map, with the timetable closed",
+      "speaking": "Give a partner a three-step plan for keeping one web page while viewing another. Ask the partner to explain the difference between a tab change and a scroll.",
+      "speakingSample": "Keep the timetable here, open a new tab for the map, then scroll down within the map page to the visitor section. We can select the timetable tab again afterward. Does scrolling change the tab, or only the part of the page we see?"
+    },
+    {
+      "day": 171,
+      "unit": 22,
+      "title": "Save a copy without losing the original",
+      "goal": "I can distinguish an original document from a working copy and describe where each file is stored.",
+      "newItems": [
+        {
+          "word": "folder",
+          "ipa": "/ˈfoʊldɚ/",
+          "pos": "noun",
+          "definition": "A named space used to organize files on a computer or storage service.",
+          "example": "Keep the original in the class folder.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "file",
+          "ipa": "/faɪl/",
+          "pos": "noun",
+          "definition": "A named collection of information stored as one item on a computer or similar system.",
+          "example": "The timetable is stored as a PDF file.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "rename",
+          "ipa": "/riːˈneɪm/",
+          "pos": "verb",
+          "definition": "Give something a different name.",
+          "example": "Rename the working copy so that you can recognize it.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "save a copy",
+          "ipa": "/seɪv ə ˈkɑpi/",
+          "pos": "fixed phrase",
+          "definition": "Store an additional version while keeping the existing item.",
+          "example": "Save a copy before adding your notes.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "back up",
+          "ipa": "/bæk ʌp/",
+          "pos": "phrasal verb",
+          "definition": "Make an additional stored copy that can help if the working data is lost.",
+          "example": "Back up your work in the class’s separate backup location.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "document",
+        "copy",
+        "name",
+        "list",
+        "backup"
+      ],
+      "mainWord": {
+        "word": "folder",
+        "ipa": "/ˈfoʊldɚ/",
+        "pos": "noun",
+        "definition": "A named space used to organize files on a computer or storage service.",
+        "example": "Keep the original in the class folder.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Folder and file are countable nouns with different meanings: a folder organizes items, while a file holds particular data. Rename changes a name; it does not by itself make another copy. Back up is a verb phrase; backup is the related noun already learned.",
+      "wordTask": "Which item organizes several stored documents: a folder or a single file?",
+      "wordSample": "A folder can organize several files or documents.",
+      "expression": "Am I changing the original or a copy?",
+      "use": "Check which version you are editing before adding notes to a shared or supplied document.",
+      "context": [
+        "Am I changing the original or a copy?",
+        "Use a separate working copy and leave the original timetable unchanged."
+      ],
+      "expressionTask": "Describe how to keep an original timetable, make a working version and name it clearly before adding personal notes.",
+      "grammar": "Before with an -ing form in a practical instruction",
+      "pattern": "imperative + before + -ing form",
+      "example": "Save a copy before adding your notes.",
+      "task": "Save a copy before ___ your notes.",
+      "answer": "adding",
+      "sound": "Folder has stress on FOLD. File is one syllable in this model, with a vowel glide before L. Rename has stress on NAME.",
+      "model": "The folder contains the original timetable.",
+      "dialogue": [
+        "I want to add my bus times to the class timetable. Am I changing the original or a copy?",
+        "Check the file you opened. The original is in the shared class folder.",
+        "Then I should save a copy for my own notes.",
+        "Yes. Rename that working copy so that you can identify it. Renaming the original alone would not make a second file.",
+        "Where should I back up my finished notes?",
+        "Use the separate backup location specified by the class and confirm that the copy is there."
+      ],
+      "reading": "The class folder contains an original timetable file. Bella wants to add personal travel notes without changing the supplied version. She decides to save a copy and rename the new file as her working timetable. Changing a name alone would not create a second version, so she checks that the original still exists. After adding notes, she will back up the work in the class’s separate backup location. She checks the saved items rather than relying on the words copy or backup in a filename. The aim is to recognize what each stored version actually contains.",
+      "readingQ": "Why is renaming the original not enough to preserve a separate original and working copy?",
+      "readingA": "Renaming changes its name but does not by itself create another file.",
+      "writing": "Write 45–65 words explaining how to add notes while preserving a supplied timetable. Separate making a copy, naming it and backing it up.",
+      "writingSample": "Keep the original timetable in the class folder. Save a separate copy before adding personal notes, then rename that working file clearly. Check that the original is still present. After finishing, back up the notes in the specified separate location and confirm that the saved copy contains your changes.",
+      "listening": "The file called Timetable notes is only a renamed original; no second file was created. Before adding your notes, save a separate copy and check that both versions are present. A new name alone does not make a backup.",
+      "question": "What is missing after simply renaming the original?",
+      "correct": "A separate copy",
+      "other": "A different filename",
+      "speaking": "Explain the difference between a folder, a file and a copy using a timetable example. Ask your partner which version will receive notes.",
+      "speakingSample": "The folder organizes our timetable files. Keep the original file unchanged and save a separate copy for notes. Renaming helps us recognize the working copy, but it does not create a new one by itself. Which version are you about to edit?"
+    },
+    {
+      "day": 172,
+      "unit": 22,
+      "title": "Describe a connection problem precisely",
+      "goal": "I can report what is visible during a connection problem without confusing stored content with current online access.",
+      "newItems": [
+        {
+          "word": "connection",
+          "ipa": "/kəˈnɛkʃən/",
+          "pos": "noun",
+          "definition": "A link that allows devices or services to communicate.",
+          "example": "The internet connection stopped during the lesson.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "network",
+          "ipa": "/ˈnɛtˌwɝk/",
+          "pos": "noun",
+          "definition": "A group of connected devices or systems that can exchange information.",
+          "example": "This laptop is connected to the classroom network.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "wireless",
+          "ipa": "/ˈwaɪrləs/",
+          "pos": "adjective",
+          "definition": "Using radio signals rather than a physical wire for a connection.",
+          "example": "The classroom has a wireless network.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "signal",
+          "ipa": "/ˈsɪɡnəl/",
+          "pos": "noun",
+          "definition": "An electrical or radio transmission that carries information.",
+          "example": "The wireless signal is weak beside this wall.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "offline",
+          "ipa": "/ˌɔfˈlaɪn/",
+          "pos": "adjective",
+          "definition": "Not currently connected to an online service or the internet.",
+          "example": "The page says the device is offline.",
+          "category": "new_word",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "screen",
+        "page",
+        "message",
+        "classroom",
+        "laptop"
+      ],
+      "mainWord": {
+        "word": "connection",
+        "ipa": "/kəˈnɛkʃən/",
+        "pos": "noun",
+        "definition": "A link that allows devices or services to communicate.",
+        "example": "The internet connection stopped during the lesson.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Connection, network and signal are countable nouns here; wireless and offline describe conditions. A visible network connection does not by itself prove that a particular online service is reachable. A document stored on the device may remain readable offline.",
+      "wordTask": "What does internet connection mean in this lesson?",
+      "wordSample": "It means the link that lets the device communicate with internet services.",
+      "expression": "What can you still open?",
+      "use": "Ask which functions remain available to help describe the actual problem rather than saying everything is broken.",
+      "context": [
+        "What can you still open?",
+        "My saved timetable opens, but the live map page says offline."
+      ],
+      "expressionTask": "Report that a saved file works but an online page does not. Describe the displayed message without claiming to know the technical cause.",
+      "grammar": "Still for a continuing situation",
+      "pattern": "subject + can still + base verb",
+      "example": "I can still open the saved timetable.",
+      "task": "I can still ___ the saved timetable.",
+      "answer": "open",
+      "sound": "Connection has stress on NEC. Network has stress on NET, wireless on WIRE and signal on SIG. Offline has stress on LINE in this model.",
+      "model": "The connection stopped during the lesson.",
+      "dialogue": [
+        "My map page is not loading. It says the device is offline.",
+        "What can you still open?",
+        "The timetable file saved on the laptop opens normally.",
+        "Then describe those two results to the class helper. Are you using the classroom’s wireless network?",
+        "Yes. The network name is visible, but that does not tell me whether the internet connection is working.",
+        "Right. We can report the message and the weak signal shown here without guessing the cause."
+      ],
+      "reading": "During a lesson, Bella’s live map stops loading and displays an offline message. Her saved timetable still opens on the laptop. The classroom uses a wireless network, and the screen shows a weak signal at her seat. Bella reports what she can observe: the network name is visible, the online map is unavailable, and a stored file still works. She does not assume that the visible network name proves every internet connection or service is working. Fenrir helps her give the class helper a precise description instead of saying that the whole device is broken.",
+      "readingQ": "Why can Bella still read the saved timetable while the online map is unavailable?",
+      "readingA": "The timetable is stored on the device and does not require that live page to load.",
+      "writing": "Write 45–65 words reporting this connection problem. Include the displayed message, what still works and one observation about the network without inventing a cause.",
+      "writingSample": "The online map is not loading and displays an offline message. I can still open the timetable stored on my laptop. The classroom network name is visible, but the signal indicator is weak at my seat. I do not know the cause. Could the class helper check the connection with me?",
+      "listening": "The saved timetable opens, but the online map says offline. A wireless network name is visible on the screen. That observation does not tell us whether the map service is reachable. Tell the helper the exact message and which file still works.",
+      "question": "Which item is still available?",
+      "correct": "The timetable stored on the laptop",
+      "other": "The live map that displays offline",
+      "speaking": "Report a digital problem using observations: the message, the affected task and what still works. Avoid replacing the observations with a guessed cause.",
+      "speakingSample": "The live map says offline and will not load. My saved timetable still opens. I can see the classroom network name, but the signal shown at this seat is weak. I do not know which part is causing the problem. Could you help me check?"
+    },
+    {
+      "day": 173,
+      "unit": 22,
+      "title": "Send the right file to the intended people",
+      "goal": "I can identify the recipient, subject and attachment in an email and distinguish replying from forwarding.",
+      "newItems": [
+        {
+          "word": "recipient",
+          "ipa": "/rɪˈsɪpiənt/",
+          "pos": "noun",
+          "definition": "A person intended to receive a message or item.",
+          "example": "Nina is the recipient of the timetable email.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "attach",
+          "ipa": "/əˈtætʃ/",
+          "pos": "verb",
+          "definition": "Add a file to an email or other message.",
+          "example": "Attach the finished timetable to your email.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "subject line",
+          "ipa": "/ˈsʌbdʒɛkt laɪn/",
+          "pos": "fixed phrase",
+          "definition": "The short title field explaining what an email is about.",
+          "example": "Write Saturday timetable in the subject line.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "reply all",
+          "ipa": "/rɪˈplaɪ ɔl/",
+          "pos": "fixed phrase",
+          "definition": "Send a reply to the sender and other addresses included by the email service’s reply-all function.",
+          "example": "Check the addresses before choosing reply all.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "forward a message",
+          "ipa": "/ˈfɔrwɚd ə ˈmɛsɪdʒ/",
+          "pos": "fixed phrase",
+          "definition": "Send an existing message onward to another recipient.",
+          "example": "Ask whether to forward a message when another person needs the same notice.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "email",
+        "attachment",
+        "address",
+        "message",
+        "timetable"
+      ],
+      "mainWord": {
+        "word": "recipient",
+        "ipa": "/rɪˈsɪpiənt/",
+        "pos": "noun",
+        "definition": "A person intended to receive a message or item.",
+        "example": "Nina is the recipient of the timetable email.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Recipient is a countable noun. Attach is the verb; attachment is the related noun already learned. A subject line describes the email but does not itself contain an attached file. Reply all and forward are different actions, so check who will receive the result.",
+      "wordTask": "Who is the recipient of an email addressed to Nina?",
+      "wordSample": "Nina is the intended recipient.",
+      "expression": "Should this go to everyone or just Nina?",
+      "use": "Clarify the intended audience before replying to a group message or sending an attachment.",
+      "context": [
+        "Should this go to everyone or just Nina?",
+        "Just Nina. She is collecting the finished timetables."
+      ],
+      "expressionTask": "Prepare an email with a timetable attachment. Confirm the intended recipient and explain why a group reply is not needed.",
+      "grammar": "To for an intended recipient",
+      "pattern": "send + object + to + recipient",
+      "example": "Send the timetable to Nina.",
+      "task": "Send the timetable ___ Nina.",
+      "answer": "to",
+      "sound": "Recipient has stress on CIP and attach on TACH. Subject as the title noun has stress on SUB. Forward has stress on FOR in this model.",
+      "model": "Nina is the recipient of the email.",
+      "dialogue": [
+        "My timetable is finished. Should this go to everyone or just Nina?",
+        "Just Nina. She is collecting the files.",
+        "I will check her address, write Saturday timetable in the subject line and attach my file.",
+        "Good. The earlier email was sent to the whole group, but you do not need reply all for your individual file.",
+        "What if another class member needs the original notice?",
+        "Check what they need and whether it is appropriate to forward that message, rather than sending everyone your timetable."
+      ],
+      "reading": "Nina is collecting the class’s finished timetables. Bella checks the intended recipient before preparing her email. She writes a clear subject line and uses attach to add the timetable file. The original instruction was sent to the whole class, but an individual timetable does not need a reply all response. Forward a message means send an existing message onward, which is different from replying with a new attachment. Bella checks the recipient address and the actual attached file before sending. The message title alone would not prove that the correct document is included.",
+      "readingQ": "Why is reply all unnecessary for Bella’s finished timetable?",
+      "readingA": "Nina alone is collecting the individual files; the whole class does not need Bella’s attachment.",
+      "writing": "Write a 45–65-word email to Nina submitting a fictional timetable. Give a clear subject separately, name the attachment and ask for confirmation of receipt.",
+      "writingSample": "Subject: Saturday timetable. Hello Nina, I have attached my finished timetable for Saturday’s class visit. It includes my arrival time and the meeting place. I am sending it to you as the person collecting our individual files. Please let me know whether the attachment opens correctly. Thank you, Bella.",
+      "listening": "Please send your individual timetable to Nina only. Put Saturday timetable in the subject line and attach the file itself. Do not reply to the whole class with your personal copy. If you have no attachment, the title alone will not submit the timetable.",
+      "question": "Who should receive the individual timetable?",
+      "correct": "Nina only",
+      "other": "The whole class through reply all",
+      "speaking": "Explain your email plan to a partner before sending a fictional file. Identify the recipient, subject and attachment, then distinguish it from forwarding the original notice.",
+      "speakingSample": "Nina is the recipient because she is collecting the timetables. My subject is Saturday timetable, and I will attach the finished file. I do not need to reply to everyone. Forwarding the original notice would send that earlier message, not submit my new timetable by itself."
+    },
+    {
+      "day": 174,
+      "unit": 22,
+      "title": "Make a short video conversation easier to follow",
+      "goal": "I can manage turn-taking in a video call and use a spoken follow-up when a short written reaction is unclear.",
+      "newItems": [
+        {
+          "word": "mute",
+          "ipa": "/mjuːt/",
+          "pos": "verb",
+          "definition": "Turn off the sound being sent or played through a control.",
+          "example": "Mute your microphone while the group listens to the example.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "unmute",
+          "ipa": "/ʌnˈmjuːt/",
+          "pos": "verb",
+          "definition": "Turn a muted audio channel back on.",
+          "example": "Unmute your microphone before answering.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "emoji",
+          "ipa": "/ɪˈmoʊdʒi/",
+          "pos": "noun",
+          "definition": "A small digital picture used to express an idea or reaction in a message.",
+          "example": "An emoji alone may not explain whether a plan is confirmed.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "voice message",
+          "ipa": "/vɔɪs ˈmɛsɪdʒ/",
+          "pos": "fixed phrase",
+          "definition": "A recorded spoken message that someone can listen to later.",
+          "example": "I will send a voice message with the meeting time.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "video call",
+          "ipa": "/ˈvɪdiˌoʊ kɔl/",
+          "pos": "fixed phrase",
+          "definition": "A live conversation using sound and moving images over a connection.",
+          "example": "We will have a short video call to confirm the plan.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "screen",
+        "meeting",
+        "question",
+        "reply",
+        "time"
+      ],
+      "mainWord": {
+        "word": "mute",
+        "ipa": "/mjuːt/",
+        "pos": "verb",
+        "definition": "Turn off the sound being sent or played through a control.",
+        "example": "Mute your microphone while the group listens to the example.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Mute and unmute are verbs naming opposite control actions. Emoji is countable. A voice message is normally listened to after recording; a video call is a live exchange. A smiling emoji may express a reaction without confirming every practical detail.",
+      "wordTask": "What does mute do to the microphone channel when you use that control?",
+      "wordSample": "It turns off the sound being sent through that microphone channel.",
+      "expression": "Can you hear me now?",
+      "use": "Check that your sound reaches the other person before continuing with important details.",
+      "context": [
+        "Can you hear me now?",
+        "Yes. Your microphone is on, and I can hear the time clearly."
+      ],
+      "expressionTask": "Practice a short video call. Check sound, take turns and confirm a time with words rather than relying only on a reaction picture.",
+      "grammar": "Before with a short present-tense clause",
+      "pattern": "imperative + before + subject + present simple",
+      "example": "Unmute your microphone before you answer.",
+      "task": "Unmute your microphone before you ___.",
+      "answer": "answer",
+      "sound": "Mute begins with M followed by the Y sound before the long vowel. Unmute has stress on MUTE. Emoji has stress on MO.",
+      "model": "Mute your microphone during the example.",
+      "dialogue": [
+        "Welcome to our video call. Please mute your microphone while the example plays.",
+        "All right. I have a question afterward.",
+        "The example is finished. You can unmute now.",
+        "Can you hear me now? I want to confirm that we meet at ten.",
+        "Yes, I can hear you. Ten is correct. Your earlier smiling emoji did not tell me whether you agreed to the time.",
+        "Next time I will confirm in words or send a short voice message if I cannot join live."
+      ],
+      "reading": "The class holds a video call to confirm a visit plan. Everyone is asked to mute their microphone while listening to an example. Fenrir then uses unmute before speaking and asks whether Bella can hear him. They confirm the ten o’clock meeting in words. An earlier emoji had shown a friendly reaction, but Bella had not treated it as a clear answer about the time. If someone cannot join the live conversation, they may send a voice message later. The class distinguishes a real-time exchange from a recording and uses explicit words for the practical agreement.",
+      "readingQ": "Why do they confirm ten o’clock in words instead of relying on the earlier emoji?",
+      "readingA": "The emoji showed a reaction but did not clearly confirm the meeting time.",
+      "writing": "Write 45–65 words summarizing a video-call agreement for an absent classmate. Include the confirmed time and how they can reply later.",
+      "writingSample": "We confirmed on the video call that the group will meet at ten. Please reply in words so that we know whether you can attend; an emoji alone may not make the time clear. If you cannot join a live call, you can send a short voice message with your answer.",
+      "listening": "You are muted, so we cannot hear your answer yet. Please unmute before speaking. We meet at ten, not ten thirty. If your connection stops, send a voice message afterward confirming which time you heard.",
+      "question": "What time does the speaker confirm?",
+      "correct": "Ten",
+      "other": "Ten thirty",
+      "speaking": "Role-play a video call: check sound, ask one timing question and repeat the confirmed answer. Offer a recorded follow-up if a live reply is impossible.",
+      "speakingSample": "Can you hear me now? Thank you. Is the meeting at ten or ten thirty? All right, ten. I will repeat that in the written message as well. If I lose the connection, I can send a short voice message confirming the same time."
+    },
+    {
+      "day": 175,
+      "unit": 22,
+      "title": "Ask who can view and change a shared file",
+      "goal": "I can distinguish receiving a link from receiving editing permission and ask about a message notification.",
+      "newItems": [
+        {
+          "word": "notification",
+          "ipa": "/ˌnoʊtɪfɪˈkeɪʃən/",
+          "pos": "noun",
+          "definition": "A message or signal informing someone that something has happened.",
+          "example": "The notification says Nina has shared a timetable.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "privacy",
+          "ipa": "/ˈpraɪvəsi/",
+          "pos": "noun",
+          "definition": "Control over personal information and freedom from unwanted access or attention.",
+          "example": "The class discusses privacy before sharing personal notes.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "share a link",
+          "ipa": "/ʃɛr ə lɪŋk/",
+          "pos": "fixed phrase",
+          "definition": "Send or make available an address leading to an online item.",
+          "example": "Nina will share a link to the class timetable.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "view only",
+          "ipa": "/vjuː ˈoʊnli/",
+          "pos": "fixed phrase",
+          "definition": "Allowed to look at an item but not change it through that permission.",
+          "example": "The timetable link is view only for visitors.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "edit access",
+          "ipa": "/ˈɛdɪt ˈæksɛs/",
+          "pos": "fixed phrase",
+          "definition": "Permission to change an online document or item.",
+          "example": "Only Nina has edit access to the original timetable in this example.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "link",
+        "permission",
+        "document",
+        "name",
+        "copy"
+      ],
+      "mainWord": {
+        "word": "notification",
+        "ipa": "/ˌnoʊtɪfɪˈkeɪʃən/",
+        "pos": "noun",
+        "definition": "A message or signal informing someone that something has happened.",
+        "example": "The notification says Nina has shared a timetable.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Notification is countable; privacy is usually uncountable. A notification is an alert, not proof that every requested action is complete. View only and edit access describe different permissions. Sending an address does not itself tell you who can open or change the item.",
+      "wordTask": "What does a notification do when a timetable is shared?",
+      "wordSample": "It informs the recipient that the sharing event has happened.",
+      "expression": "Can I view it or also change it?",
+      "use": "Ask about the actual permission on a shared document before trying to edit the original.",
+      "context": [
+        "Can I view it or also change it?",
+        "This link is view only. Ask Nina if you need a correction to the original."
+      ],
+      "expressionTask": "Explain a shared timetable link and ask how to suggest a correction without changing the original yourself.",
+      "grammar": "Only with the person allowed to act",
+      "pattern": "Only + person + has + permission noun phrase",
+      "example": "Only Nina has edit access.",
+      "task": "Only Nina ___ edit access.",
+      "answer": "has",
+      "sound": "Notification has its strongest beat on CA. Privacy has stress on PRI, with the vowel in eye in this American model. View begins with V, not F.",
+      "model": "The notification says a timetable was shared.",
+      "dialogue": [
+        "I received a notification about Nina’s timetable. Can I view it or also change it?",
+        "In this example, she has chosen view only for the class link.",
+        "What if I notice a wrong meeting time?",
+        "Send Nina the correction. Only she has edit access to the original.",
+        "I also have personal travel notes. Should I add those to the shared version?",
+        "Keep those in your own copy. We agreed to check privacy and the intended audience before we share a link to personal notes."
+      ],
+      "reading": "Nina sends a notification when she shares the class timetable link. Bella can open the document, but its permission is view only. Nina alone has edit access to the original. Bella notices a possible mistake and sends a correction rather than assuming she can change the document. Her personal travel notes remain in a separate copy. During their discussion of privacy, the class agrees to check the intended audience before choosing to share a link to those notes. The alert, the link and the permission describe different parts of the arrangement.",
+      "readingQ": "How should Bella suggest a correction when her access is view only?",
+      "readingA": "Send the proposed correction to Nina, who has edit access to the original.",
+      "writing": "Write 45–65 words asking Nina about a possible timetable correction. State your current access and keep personal notes separate.",
+      "writingSample": "Hello Nina, I can view the timetable, but I do not have edit access to the original. Could you check whether the meeting time should be ten rather than ten thirty? My personal travel notes are in a separate copy. Please let me know if you need the specific timetable line I noticed.",
+      "listening": "The notification contains a link to the class timetable. Your permission is view only. Nina has edit access and will handle corrections to the original. If you can read the file but cannot change it, that matches the permission described here; it does not by itself mean the link is broken.",
+      "question": "What does being able to read but not change the timetable match?",
+      "correct": "View-only permission",
+      "other": "Proof that the link is broken",
+      "speaking": "Ask about a shared file’s permissions, propose a correction and identify which information belongs in a personal copy.",
+      "speakingSample": "Can I view this timetable or also change it? I see that it is view only. I will send the proposed time correction to Nina rather than edit the original. My personal travel notes can stay in my own copy, separate from the class document."
+    },
+    {
+      "day": 176,
+      "unit": 22,
+      "title": "Explain a loading problem and the next agreed step",
+      "goal": "I can report a screen message, distinguish refreshing a page from restarting a device and confirm a helper’s next instruction.",
+      "newItems": [
+        {
+          "word": "refresh",
+          "ipa": "/rɪˈfrɛʃ/",
+          "pos": "verb",
+          "definition": "Ask a browser or app to get an updated version of its current content.",
+          "example": "The helper asks me to refresh the timetable page.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "restart",
+          "ipa": "/riːˈstɑrt/",
+          "pos": "verb",
+          "definition": "Stop a program or device and start it again.",
+          "example": "Restarting the laptop is different from refreshing one page.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "load",
+          "ipa": "/loʊd/",
+          "pos": "verb",
+          "definition": "Bring a page, file or program into a state where it can be used or displayed.",
+          "example": "The map page will not load.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "error message",
+          "ipa": "/ˈɛrɚ ˈmɛsɪdʒ/",
+          "pos": "fixed phrase",
+          "definition": "Text or another alert describing a problem in a program or system.",
+          "example": "Tell the helper the words in the error message.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "try once more",
+          "ipa": "/traɪ wʌns mɔr/",
+          "pos": "fixed phrase",
+          "definition": "Make one additional attempt.",
+          "example": "After the helper checks the page, try once more.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "page",
+        "guide",
+        "file",
+        "screen",
+        "time"
+      ],
+      "mainWord": {
+        "word": "refresh",
+        "ipa": "/rɪˈfrɛʃ/",
+        "pos": "verb",
+        "definition": "Ask a browser or app to get an updated version of its current content.",
+        "example": "The helper asks me to refresh the timetable page.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Refresh, restart and load are verbs. Refreshing a page does not mean restarting the whole device. An error message reports a problem but may not identify its complete cause. Before any action that could lose unsaved work, tell the helper what is still open.",
+      "wordTask": "Does refresh this page mean restart the whole laptop?",
+      "wordSample": "No. Refresh refers to the current page, while restarting the laptop is a different action.",
+      "expression": "Do you mean this page or the whole device?",
+      "use": "Clarify the scope of an instruction before doing a larger action than the helper intended.",
+      "context": [
+        "Do you mean this page or the whole device?",
+        "Only this saved timetable page. Keep your unfinished notes open."
+      ],
+      "expressionTask": "Report a page-loading problem and repeat the helper’s limited instruction. Mention any unsaved work before acting.",
+      "grammar": "Do you mean with two alternatives",
+      "pattern": "Do you mean + option A + or + option B?",
+      "example": "Do you mean this page or the whole device?",
+      "task": "Do you mean this page ___ the whole device?",
+      "answer": "or",
+      "sound": "Refresh has stress on FRESH and restart on START. Load has the vowel in go. Keep the final D in load before the next word.",
+      "model": "The helper asks me to refresh this page.",
+      "dialogue": [
+        "The map will not load. The error message says the page is temporarily unavailable.",
+        "What other work is still open?",
+        "My unfinished notes are in another tab. Should I restart the laptop?",
+        "Not yet. First I will check the map service. Then we may try refreshing that page.",
+        "Do you mean this page or the whole device?",
+        "Only the map page, not the laptop. Keep the notes tab open, and try once more after I confirm the check."
+      ],
+      "reading": "During a class task, the online map does not load. Bella reads the error message to the helper instead of closing everything immediately. Her unfinished notes remain open in another tab. The helper checks the map service and explains a limited next step: refresh the map page, not restart the whole laptop. Bella repeats the instruction to confirm its scope. She will try once more after the helper’s check. The exchange does not promise that one action fixes every loading problem; it practices reporting the screen message and following the specific instruction agreed in this situation.",
+      "readingQ": "Why does Bella clarify page versus whole device?",
+      "readingA": "She needs to follow the limited instruction without closing unrelated unfinished work.",
+      "writing": "Write 45–65 words reporting the map problem and the helper’s next step. Include the error message, unfinished work and what should remain open.",
+      "writingSample": "The map page will not load and says it is temporarily unavailable. My unfinished notes are in another tab. The helper is checking the map service. After that, I should refresh only the map page and try once more. I should keep the notes tab open rather than restart the whole laptop.",
+      "listening": "The helper has checked the map service. Please refresh only the map page and try once more. Keep your unfinished notes open in the other tab. This instruction does not ask you to close the browser or restart the laptop.",
+      "question": "What action does the helper ask for?",
+      "correct": "Refresh only the map page",
+      "other": "Restart the whole laptop and close the notes",
+      "speaking": "Report a loading problem to a partner acting as a helper. Read the displayed message, state what else is open and clarify the scope of the proposed action.",
+      "speakingSample": "The map page will not load. Its message says temporarily unavailable. My notes are unfinished in another tab. When you say refresh, do you mean only the map page or the whole device? I will keep the notes open and follow the specific step after your check.",
+      "transferCheck": {
+        "source": "Lena sends a link to the class visit timetable. Her message says: everyone may view it, but only Lena can edit the original. Omar has added personal bus notes to his own separate copy. During a video call, he is muted and cannot be heard. Later, the online map displays Temporarily unavailable, while his saved timetable still opens. The helper says to refresh only the map page after a service check and keep the unfinished notes tab open.",
+        "dictation": "Only Lena can edit the original timetable.",
+        "tasks": [
+          [
+            "1 · Read the permission",
+            "Can Omar change the original through the stated class permission? What should he do about a correction?"
+          ],
+          [
+            "2 · Separate live audio from a later message",
+            "Which microphone action is needed before he speaks on the call? What recorded format could he send if he cannot join live?"
+          ],
+          [
+            "3 · Follow the limited instruction",
+            "What should he refresh, and which work should remain open?"
+          ],
+          [
+            "4 · Listen and write",
+            "Write the dictation sentence and identify the person with editing permission."
+          ],
+          [
+            "5 · Write a help message",
+            "Write 40–60 words reporting the map problem. Include the displayed message, what still works and the limited next step, without claiming that all files are lost."
+          ]
+        ],
+        "answer": "1. No. The class permission is view only; he should send Lena a proposed correction. 2. Unmute the microphone before speaking. He could send a voice message later if he cannot join live. 3. Refresh only the map page after the service check; keep the unfinished notes tab open. 4. Only Lena can edit the original timetable. Lena has editing permission. 5. Sample: The online map displays Temporarily unavailable, but my saved timetable still opens. My personal notes are unfinished in another tab. The helper is checking the service. After that, I should refresh only the map page and try again, keeping the notes open. I am not restarting the whole device."
+      }
+    }
+  ]
+}

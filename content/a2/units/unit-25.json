@@ -1,0 +1,885 @@
+{
+  "number": 25,
+  "title": "Telling a connected story",
+  "lessons": [
+    {
+      "day": 193,
+      "unit": 25,
+      "title": "Tell the beginning and ending of a small surprise",
+      "goal": "I can recount a short event in order and connect a feeling to the moment that caused it.",
+      "newItems": [
+        {
+          "word": "laugh",
+          "ipa": "/læf/",
+          "pos": "verb",
+          "definition": "Make the sounds and movements that show amusement or happiness.",
+          "example": "We laughed when we saw the funny cake decoration.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "shout",
+          "ipa": "/ʃaʊt/",
+          "pos": "verb",
+          "definition": "Speak or call in a loud voice.",
+          "example": "My friends shouted Surprise when I arrived.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "cry",
+          "ipa": "/kraɪ/",
+          "pos": "verb",
+          "definition": "Have tears coming from the eyes, often with strong emotion.",
+          "example": "I cried a little because I was so happy.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "luckily",
+          "ipa": "/ˈlʌkɪli/",
+          "pos": "adverb",
+          "definition": "Used to say that something good happened by good fortune.",
+          "example": "Luckily, the rain stopped before the picnic.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "after a while",
+          "ipa": "/ˈæftɚ ə waɪl/",
+          "pos": "fixed phrase",
+          "definition": "After some time has passed.",
+          "example": "After a while, we sat down to eat the cake.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "friend",
+        "cake",
+        "picnic",
+        "rain",
+        "happy"
+      ],
+      "mainWord": {
+        "word": "laugh",
+        "ipa": "/læf/",
+        "pos": "verb",
+        "definition": "Make the sounds and movements that show amusement or happiness.",
+        "example": "We laughed when we saw the funny cake decoration.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Laugh and shout add -ed in the past: laughed, shouted. Cry changes Y to I: cried. These are forms of the same targets, not additional new words. Crying can show happiness as well as sadness; the reason in the story tells the listener which.",
+      "wordTask": "If friends laugh at a funny cake decoration, what feeling do their sounds usually show?",
+      "wordSample": "Their laughter shows amusement or happiness.",
+      "expression": "What happened next, and how did you feel?",
+      "use": "Invite both the next event and the speaker’s reaction so that a short story has a clear connection.",
+      "context": [
+        "What happened next, and how did you feel?",
+        "They brought out a cake, and I felt so happy that I cried a little."
+      ],
+      "expressionTask": "Tell a three-part surprise story: arrival, a surprise and what happened afterward. Connect one feeling to a specific moment.",
+      "grammar": "Past forms in a short sequence",
+      "pattern": "past simple clause + then + past simple clause",
+      "example": "We laughed, then we shared the cake.",
+      "task": "We laughed, ___ we shared the cake.",
+      "answer": "then",
+      "sound": "Laugh ends with F. Laughed stays one syllable with a final T after F. Shouted has two syllables because the base ends with T. Cried ends with D.",
+      "model": "We laughed, then shared the cake.",
+      "pronunciationTarget": {
+        "word": "laughed",
+        "ipa": "/læft/"
+      },
+      "dialogue": [
+        "What happened when you arrived at the picnic?",
+        "My friends shouted Surprise and brought out a cake.",
+        "What happened next, and how did you feel?",
+        "I laughed at the funny decoration, then cried a little because I was happy.",
+        "Did the rain interrupt everything?",
+        "Luckily, it stopped before we arrived. After a while, we sat down and shared the cake."
+      ],
+      "reading": "Bella thought she was meeting two friends for a small picnic. Luckily, the rain stopped before she arrived. Several friends were waiting, and they began to shout Surprise as she came through the gate. A cake had a funny picture of her dog on it. Everyone began to laugh, and Bella started to cry a little because she felt happy and cared for. After a while, the group sat down to eat. Her story connects the arrival, the unexpected cake and the shared meal, with a feeling attached to each important moment.",
+      "readingQ": "Why does Bella cry in this story?",
+      "readingA": "She is happy and feels cared for, rather than sad about the picnic.",
+      "writing": "Write 45–65 words about a real or invented pleasant surprise. Give the beginning, the surprising moment and the ending, with one clear feeling.",
+      "writingSample": "I went to the park expecting a small picnic. Luckily, the rain stopped before I arrived. My friends shouted Surprise and brought out a cake with a funny dog picture. We laughed, and I cried a little because I was happy. After a while, we sat down and shared the cake.",
+      "listening": "I cried at the picnic, but not because I was sad. My friends had surprised me with a cake, and I felt very happy. We laughed at its funny picture. The rain stopped before the picnic, so that was not the reason for the tears.",
+      "question": "What explains the speaker’s tears?",
+      "correct": "Happiness at the surprise",
+      "other": "Sadness because rain ruined the picnic",
+      "speaking": "Tell a short surprise story in three stages. Ask your listener to repeat what caused the feeling, not just the order of events.",
+      "speakingSample": "I arrived expecting a quiet picnic. Then my friends shouted Surprise and brought out a funny cake. I laughed and cried a little because I felt happy. After a while, we ate together. What caused the tears in my story?"
+    },
+    {
+      "day": 194,
+      "unit": 25,
+      "title": "Describe a difficult start and a better ending",
+      "goal": "I can use time links to tell how an experience changed and explain a strong reaction with a concrete reason.",
+      "newItems": [
+        {
+          "word": "amazing",
+          "ipa": "/əˈmeɪzɪŋ/",
+          "pos": "adjective",
+          "definition": "Very surprising or impressive in a way that attracts strong interest.",
+          "example": "The guide’s model of the old town was amazing.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "awful",
+          "ipa": "/ˈɔfəl/",
+          "pos": "adjective",
+          "definition": "Very bad or unpleasant from the speaker’s point of view.",
+          "example": "Waiting in the cold rain felt awful.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "almost",
+          "ipa": "/ˈɔlmoʊst/",
+          "pos": "adverb",
+          "definition": "Very nearly, but not completely or not actually.",
+          "example": "We almost missed the bus, but arrived just before it left.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "to my surprise",
+          "ipa": "/tuː maɪ sɚˈpraɪz/",
+          "pos": "fixed phrase",
+          "definition": "Used to introduce something that the speaker did not expect.",
+          "example": "To my surprise, the guide had a model of our old street.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "a moment later",
+          "ipa": "/ə ˈmoʊmənt ˈleɪtɚ/",
+          "pos": "fixed phrase",
+          "definition": "A short time after the event just mentioned.",
+          "example": "A moment later, the guide opened the model room.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "bus",
+        "guide",
+        "rain",
+        "street",
+        "room"
+      ],
+      "mainWord": {
+        "word": "amazing",
+        "ipa": "/əˈmeɪzɪŋ/",
+        "pos": "adjective",
+        "definition": "Very surprising or impressive in a way that attracts strong interest.",
+        "example": "The guide’s model of the old town was amazing.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Amazing describes what causes a strong reaction; amazed describes a person’s feeling. Awful is a strong negative description, so give the reason. Almost missed means the bus was nearly missed but was caught in this story. To my surprise can introduce either a pleasant or unpleasant unexpected event.",
+      "wordTask": "Does an amazing model have to be frightening?",
+      "wordSample": "No. Amazing can mean very impressive or surprisingly interesting.",
+      "expression": "How did the experience change after that?",
+      "use": "Ask how the later part differed from the beginning instead of assuming the first problem describes the whole event.",
+      "context": [
+        "How did the experience change after that?",
+        "The wet wait felt awful, but the model room made the visit amazing for me."
+      ],
+      "expressionTask": "Tell a story with an unpleasant beginning and a positive later moment. State whether the bus was actually missed.",
+      "grammar": "Almost with a past event that narrowly did not happen",
+      "pattern": "almost + past simple verb",
+      "example": "We almost missed the bus.",
+      "task": "We ___ missed the bus.",
+      "answer": "almost",
+      "sound": "Amazing has stress on MAZE. Awful has stress on AW and a light ending. Almost has stress on AL. Do not give the second syllable the main beat.",
+      "model": "The model room was amazing.",
+      "dialogue": [
+        "You said the beginning of your visit felt awful. What happened?",
+        "We waited in cold rain and almost missed the bus, but we reached it before it left.",
+        "How did the experience change after that?",
+        "The guide welcomed us inside. A moment later, she opened a room with a model of the old town.",
+        "Did you know it included your street?",
+        "No. To my surprise, it did. The details were amazing, so the difficult start was only one part of the visit."
+      ],
+      "reading": "The beginning of Fenrir’s town visit felt awful to him because the group waited in cold rain. They almost missed the bus, but reached it before departure. Inside the visitor center, the guide led them to a quiet room. A moment later, she opened a model of the old town. Fenrir said, “To my surprise, my old street was there.” He found the small buildings amazing and asked several questions. His account includes both the difficult start and the enjoyable discovery, rather than giving one label to every part of the day.",
+      "readingQ": "Did the group miss the bus, and what later improved the visit?",
+      "readingA": "They caught the bus; seeing the detailed old-town model made the later part enjoyable.",
+      "writing": "Write 45–65 words about a difficult start followed by an enjoyable moment. Use almost accurately and explain both reactions.",
+      "writingSample": "Our visit began with an awful wait in cold rain. We almost missed the bus, but arrived before it left. At the center, the guide opened a model room. To my surprise, the model included my old street. Its small buildings were amazing, and I enjoyed asking about them. The later experience changed how I remembered the day.",
+      "listening": "We almost missed the bus. That means we caught it just in time, not that we stayed behind. The wet wait was unpleasant, but the model room afterward was amazing. My story has a difficult beginning and a much better ending.",
+      "question": "Which statement matches the story?",
+      "correct": "They caught the bus and enjoyed the model room later",
+      "other": "They missed the bus and never reached the center",
+      "speaking": "Describe an experience that changed during the day. Give a time link and a specific reason for the early and later feelings.",
+      "speakingSample": "The wait felt awful because it was cold and wet. We almost missed the bus, but caught it just in time. A moment later at the center, the guide showed us a detailed model. To my surprise, it included my old street, and I found it amazing."
+    },
+    {
+      "day": 195,
+      "unit": 25,
+      "title": "Use an object to tell a short travel memory",
+      "goal": "I can connect a small object with where it came from and what happened later in the story.",
+      "newItems": [
+        {
+          "word": "unwrap",
+          "ipa": "/ʌnˈræp/",
+          "pos": "verb",
+          "definition": "Remove the paper or other material covering something.",
+          "example": "I began to unwrap the small gift after the trip.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "souvenir",
+          "ipa": "/ˌsuːvəˈnɪr/",
+          "pos": "noun",
+          "definition": "An object kept or bought to remember a place or experience.",
+          "example": "The little bridge model is a souvenir of our visit.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "keyring",
+          "ipa": "/ˈkiːrɪŋ/",
+          "pos": "noun",
+          "definition": "A ring or small connected holder used to keep keys together.",
+          "example": "The keyring has a tiny model of the old bridge.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "tell me more",
+          "ipa": "/tɛl miː mɔr/",
+          "pos": "fixed phrase",
+          "definition": "A request for additional information about what someone has mentioned.",
+          "example": "That souvenir sounds interesting. Tell me more.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "later that day",
+          "ipa": "/ˈleɪtɚ ðæt deɪ/",
+          "pos": "fixed phrase",
+          "definition": "At a time afterward within the same day already being discussed.",
+          "example": "Later that day, I opened the gift at home.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "gift",
+        "bridge",
+        "trip",
+        "paper",
+        "key"
+      ],
+      "mainWord": {
+        "word": "unwrap",
+        "ipa": "/ʌnˈræp/",
+        "pos": "verb",
+        "definition": "Remove the paper or other material covering something.",
+        "example": "I began to unwrap the small gift after the trip.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Unwrap is a verb; unwrapped and unwrapping double the final P in spelling. Souvenir and keyring are countable nouns. Key ring and keychain are also used for similar key holders; the spellings and related name are not extra new targets. A souvenir links an object to a memory.",
+      "wordTask": "What do you remove when you unwrap a gift?",
+      "wordSample": "The paper or other material covering it.",
+      "expression": "What does that object remind you of?",
+      "use": "Ask about the experience connected with an object rather than only its appearance.",
+      "context": [
+        "What does that object remind you of?",
+        "The day we crossed the old bridge and found the small market."
+      ],
+      "expressionTask": "Tell a short travel memory using an object. Explain where it came from and what you did with it later the same day.",
+      "grammar": "Later that day links events within one day",
+      "pattern": "Later that day, + past simple clause",
+      "example": "Later that day, I opened the gift.",
+      "task": "Later ___ day, I opened the gift.",
+      "answer": "that",
+      "sound": "Unwrap has stress on WRAP, and the W is silent. Unwrapped ends with T after P. Souvenir has its strongest beat near the end, on NEER.",
+      "model": "I unwrapped the gift after the trip.",
+      "pronunciationTarget": {
+        "word": "unwrapped",
+        "ipa": "/ʌnˈræpt/"
+      },
+      "dialogue": [
+        "That is an unusual keyring. What does that object remind you of?",
+        "A town visit with my sister. We crossed the old bridge and found a small market.",
+        "Tell me more. Did you buy it there?",
+        "My sister bought it as a souvenir and gave it to me in paper.",
+        "When did you see the little bridge on it?",
+        "Later that day, at home. I began to unwrap the gift and found the model bridge. Now I use it for my house key."
+      ],
+      "reading": "Bella shows Fenrir a keyring with a tiny bridge. It is a souvenir of a visit with her sister. In the morning, they crossed the old bridge and found a small market. Her sister bought the keyring and wrapped it as a gift. Later that day, Bella sat at home and began to unwrap it. The bridge model brought back the morning’s walk. Fenrir says, “Tell me more,” and she adds the market story. She does not need a long list of everything she saw; the object gives her short account a clear connection.",
+      "readingQ": "How does the keyring connect the morning visit with the later part of the story?",
+      "readingA": "Its bridge model recalls the bridge they crossed before the gift was opened at home.",
+      "writing": "Write 45–65 words about an object that reminds someone of a trip. Include where it came from, when it was opened or used and the memory it connects with.",
+      "writingSample": "My sister bought a keyring at a small market during our town visit. It was wrapped as a gift. Later that day, I opened it at home and saw a tiny model of the bridge we had crossed that morning. The souvenir now holds my house key and reminds me of our walk together.",
+      "listening": "The keyring was bought at the market during the morning visit. Bella did not open the gift at the market. Later that day, she unwrapped it at home and saw the little bridge model. The object reminds her of the earlier walk with her sister.",
+      "question": "When and where did Bella first see the bridge model inside the wrapping?",
+      "correct": "Later that day at home",
+      "other": "At the market before the gift was wrapped",
+      "speaking": "Choose a real or invented souvenir and tell its story in three steps: the experience, getting the object and using or opening it later.",
+      "speakingSample": "This keyring reminds me of a walk with my sister. We crossed an old bridge and visited a market. She bought the small gift there. Later that day, I unwrapped it at home and found the bridge model. Now it holds my house key."
+    },
+    {
+      "day": 196,
+      "unit": 25,
+      "title": "Tell a listener what surprised you on a park visit",
+      "goal": "I can describe a short sequence of observations and explain a moment when I misunderstood a sound.",
+      "newItems": [
+        {
+          "word": "swan",
+          "ipa": "/swɑn/",
+          "pos": "noun",
+          "definition": "A large water bird with a long neck.",
+          "example": "A swan moved across the pond.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "parrot",
+          "ipa": "/ˈpærət/",
+          "pos": "noun",
+          "definition": "A bird with a curved beak; some kinds can imitate sounds or human words.",
+          "example": "The park’s parrot called Hello from its bird house.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "bee",
+          "ipa": "/biː/",
+          "pos": "noun",
+          "definition": "A flying insect that often visits flowers; some kinds make honey.",
+          "example": "A bee landed on a flower beside the path.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "butterfly",
+          "ipa": "/ˈbʌtɚflaɪ/",
+          "pos": "noun",
+          "definition": "An insect with two pairs of broad, often colorful wings.",
+          "example": "An orange butterfly moved between the flowers.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "just then",
+          "ipa": "/dʒʌst ðɛn/",
+          "pos": "fixed phrase",
+          "definition": "At the particular moment in the story being described.",
+          "example": "Just then, we heard someone say Hello.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "pond",
+        "gift",
+        "path",
+        "bird",
+        "visit"
+      ],
+      "mainWord": {
+        "word": "swan",
+        "ipa": "/swɑn/",
+        "pos": "noun",
+        "definition": "A large water bird with a long neck.",
+        "example": "A swan moved across the pond.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Swan, parrot, bee and butterfly are countable nouns. The plural of butterfly is butterflies, not another new target. In this story, one particular parrot imitates Hello; the description does not say that every bird does so. Just then marks a moment, not a separate later day.",
+      "wordTask": "Which bird in today’s list has a long neck and lives around water?",
+      "wordSample": "A swan is the long-necked water bird in the list.",
+      "expression": "What did you think it was at first?",
+      "use": "Ask about an initial interpretation before the speaker explains what they discovered.",
+      "context": [
+        "What did you think it was at first?",
+        "A visitor saying hello, but then I saw the parrot in the bird house."
+      ],
+      "expressionTask": "Tell a short park story: two things you saw, a sound that surprised you and what made its source clear.",
+      "grammar": "Thought for an initial idea in a past story",
+      "pattern": "subject + thought + clause",
+      "example": "I thought a visitor was saying hello.",
+      "task": "I ___ a visitor was saying hello.",
+      "answer": "thought",
+      "sound": "Swan begins with S and W together. Bee has the long vowel in see. Butterfly has stress on BUT, while parrot has stress on PAR.",
+      "model": "The swan moved across the pond.",
+      "dialogue": [
+        "What did you see on your park visit?",
+        "First a swan on the pond, then a bee and an orange butterfly by the flowers.",
+        "Was that when you heard Hello?",
+        "Yes. Just then, a voice came from beside the bird house.",
+        "What did you think it was at first?",
+        "A visitor. Then I saw the parrot and heard it repeat the same word. That was the surprise I remembered most."
+      ],
+      "reading": "Bella’s park story starts beside the pond, where she saw a swan moving across the water. Farther along the path, a bee landed on a flower and an orange butterfly moved nearby. Just then, she heard Hello from beside the bird house. At first, she thought a visitor was greeting her. Then she saw the park’s parrot and heard the same word again. The source of the sound became clear. Bella tells the observations in order and ends with the moment that surprised her, instead of naming four animals without connecting the events.",
+      "readingQ": "What changed Bella’s understanding of the greeting?",
+      "readingA": "She saw the parrot and heard it repeat the word, identifying where the sound came from.",
+      "writing": "Write 45–65 words about this park visit. Give two observations before the sound, then explain the first idea and the discovery.",
+      "writingSample": "At the pond, I saw a swan on the water. Along the path, a bee and an orange butterfly were beside the flowers. Just then, I heard Hello near the bird house. I thought a visitor was greeting me, but then I saw the parrot and heard it repeat the word. That was my surprise.",
+      "listening": "Bella saw the swan first and the flower insects afterward. The Hello came later, near the bird house. She first thought it was a visitor, then saw the parrot repeat it. The swan was not the source of the greeting.",
+      "question": "What was the source of the greeting in this story?",
+      "correct": "The parrot near the bird house",
+      "other": "The swan on the pond",
+      "speaking": "Tell the park story in order. Include one initial misunderstanding and the observation that explained it, then ask a partner to repeat the surprise.",
+      "speakingSample": "First I saw a swan, then a bee and a butterfly by the flowers. Just then, I heard Hello. I thought a visitor was talking, but the parrot in the bird house repeated the word. What explained the greeting in my story?"
+    },
+    {
+      "day": 197,
+      "unit": 25,
+      "title": "Tell how a school performance finished",
+      "goal": "I can give the order of a short performance story and answer a question about its ending.",
+      "newItems": [
+        {
+          "word": "costume",
+          "ipa": "/ˈkɑstuːm/",
+          "pos": "noun",
+          "definition": "Clothes worn to look like a particular person, animal or character.",
+          "example": "My brother wore a rabbit costume in the school play.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "cheer",
+          "ipa": "/tʃɪr/",
+          "pos": "verb",
+          "definition": "Call out to show support or pleasure.",
+          "example": "The children cheered when the rabbit found its way home.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "from start to finish",
+          "ipa": "/frəm stɑrt tə ˈfɪnɪʃ/",
+          "pos": "fixed phrase",
+          "definition": "Throughout the whole event, from its beginning to its end.",
+          "example": "We watched the play from start to finish.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "how did it end",
+          "ipa": "/haʊ dɪd ɪt ɛnd/",
+          "pos": "fixed phrase",
+          "definition": "A question asking what happened at the end of a past event or story.",
+          "example": "You told me about the lost rabbit. How did it end?",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "a happy ending",
+          "ipa": "/ə ˈhæpi ˈɛndɪŋ/",
+          "pos": "fixed phrase",
+          "definition": "A final part of a story in which things turn out well.",
+          "example": "The rabbit came home, so the play had a happy ending.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "play",
+        "brother",
+        "rabbit",
+        "home",
+        "audience"
+      ],
+      "mainWord": {
+        "word": "costume",
+        "ipa": "/ˈkɑstuːm/",
+        "pos": "noun",
+        "definition": "Clothes worn to look like a particular person, animal or character.",
+        "example": "My brother wore a rabbit costume in the school play.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Costume is countable: one costume, two costumes. Cheer is a verb here: cheer, cheered, cheering. Ending is a noun inside the expression a happy ending; these forms are not counted as additional new words.",
+      "wordTask": "What could an actor wear to look like a rabbit?",
+      "wordSample": "A rabbit costume.",
+      "expression": "How did it end?",
+      "use": "Ask for the final event after listening to the earlier part of a story.",
+      "context": [
+        "My brother played a rabbit that could not find its home.",
+        "How did it end?"
+      ],
+      "expressionTask": "Explain the end of a school play. Include what changed for the main character and how the audience reacted.",
+      "grammar": "Ask about a completed story with did",
+      "pattern": "How + did + subject + base verb?",
+      "example": "How did it end?",
+      "task": "How ___ it end?",
+      "answer": "did",
+      "sound": "Costume has stress on COS. Cheer begins with the sound at the start of chair. In from start to finish, keep the main beats on START and FINISH.",
+      "model": "The rabbit costume was ready for the play.",
+      "dialogue": [
+        "Did you see your brother in the school play?",
+        "Yes, from start to finish. He wore a rabbit costume.",
+        "What happened to the rabbit?",
+        "It got lost while looking for food in the forest.",
+        "How did it end?",
+        "Its friend helped it find the way home. The children cheered. It was a happy ending."
+      ],
+      "reading": "Bella watched her brother’s school play from start to finish. He wore a rabbit costume and played a rabbit lost in a forest. First, it tried the wrong path. Then it met a friend who knew the way home. Fenrir hears this part and asks, “How did it end?” Bella explains that the rabbit returned home with its friend. The children began to cheer. The play had a happy ending because the rabbit was safe again. Bella tells the final event before describing the audience, so her listener knows why they were pleased.",
+      "readingQ": "Why did the children cheer at the end?",
+      "readingA": "The lost rabbit found its way home with help from a friend.",
+      "writing": "Write 45–65 words about the school play. Include the costume, the problem, the ending and the audience’s reaction.",
+      "writingSample": "My brother wore a rabbit costume in the school play. I watched from start to finish. His rabbit got lost and took the wrong path. Then a friend showed it the way home. The children cheered when it returned safely. I liked the happy ending because the friends solved the problem together.",
+      "listening": "The rabbit took the wrong path at first. It did not find the way home alone. A friend showed it the right way, and both returned safely. The children cheered after they saw the rabbit arrive home.",
+      "question": "What helped the rabbit get home?",
+      "correct": "A friend showed it the way",
+      "other": "It found the right way without help",
+      "speaking": "Tell the play story in four steps. Your partner asks How did it end? before you explain the final step.",
+      "speakingSample": "My brother was a rabbit in a school play. First the rabbit got lost. Then a friend showed it the way. At the end, they arrived home and the children cheered."
+    },
+    {
+      "day": 198,
+      "unit": 25,
+      "title": "Give the short version of a real experience",
+      "goal": "I can select the main events of an experience and make its outcome clear.",
+      "newItems": [
+        {
+          "word": "medal",
+          "ipa": "/ˈmɛdəl/",
+          "pos": "noun",
+          "definition": "A small metal object given as an award or to mark an achievement.",
+          "example": "Every runner who finished received a medal.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "halfway through",
+          "ipa": "/ˌhæfˈweɪ θruː/",
+          "pos": "fixed phrase",
+          "definition": "At the middle point of an event or activity.",
+          "example": "Halfway through the race, I stopped for water.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "earlier that morning",
+          "ipa": "/ˈɝliɚ ðæt ˈmɔrnɪŋ/",
+          "pos": "fixed phrase",
+          "definition": "Before the time being described, on the same morning.",
+          "example": "Earlier that morning, I checked my running shoes.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "a true story",
+          "ipa": "/ə truː ˈstɔri/",
+          "pos": "fixed phrase",
+          "definition": "An account of events that really happened rather than an invented story.",
+          "example": "This is a true story about my first race.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "the short version",
+          "ipa": "/ðə ʃɔrt ˈvɝʒən/",
+          "pos": "fixed phrase",
+          "definition": "A brief account that keeps the main points and leaves out less important details.",
+          "example": "Here is the short version: I finished, but I did not win.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "race",
+        "runner",
+        "finish",
+        "water",
+        "shoe"
+      ],
+      "mainWord": {
+        "word": "medal",
+        "ipa": "/ˈmɛdəl/",
+        "pos": "noun",
+        "definition": "A small metal object given as an award or to mark an achievement.",
+        "example": "Every runner who finished received a medal.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Medal is a countable noun: a medal, two medals. It is not the same word as metal. Halfway through can introduce an event, such as halfway through the race. Earlier that morning points back within the same morning.",
+      "wordTask": "Does receiving a medal always mean that a runner came first?",
+      "wordSample": "No. In this race, every runner who finished received one.",
+      "expression": "Would you like the short version?",
+      "use": "Offer a brief account when a listener has limited time. Include the result rather than stopping before the end.",
+      "context": [
+        "I have two minutes before my class. How was your first race?",
+        "Would you like the short version?"
+      ],
+      "expressionTask": "Give a brief account of a real or clearly invented race. Say whether the runner finished and whether they won.",
+      "grammar": "Earlier that morning adds a short look back",
+      "pattern": "Earlier that morning, + past simple clause",
+      "example": "Earlier that morning, I checked my shoes before the race.",
+      "task": "Earlier that ___, I checked my shoes before the race.",
+      "answer": "morning",
+      "sound": "Medal has stress on MED. Keep the first vowel different from the vowel in middle. Halfway has a clear beat on WAY; the L in half is silent.",
+      "model": "Every runner who finished received a medal.",
+      "dialogue": [
+        "How was your first race? I have only two minutes before class.",
+        "Would you like the short version? It is a true story with a good result.",
+        "Yes. Did you win?",
+        "No. Earlier that morning, I worried about finishing at all. Halfway through, I stopped for water.",
+        "Did you manage to finish?",
+        "Yes, slowly. Every runner who finished received a medal, including me. That was my goal."
+      ],
+      "reading": "Fenrir has two minutes before class, so Bella offers the short version of her first race. It is a true story about finishing, not winning. Earlier that morning, she checked her shoes and worried about the distance. Halfway through the race, she stopped for water. Then she continued and crossed the finish line slowly. Every runner who finished received a medal. Bella includes the worry, one important moment and the result. She leaves out the bus journey and what she ate afterward because those details are not needed to understand her main point.",
+      "readingQ": "Why is the medal not evidence that Bella won the race?",
+      "readingA": "Every runner who finished received one, and Bella says she did not win.",
+      "writing": "Write 45–65 words giving the short version of the race. Include an earlier event, a moment during the race and the result.",
+      "writingSample": "Earlier that morning, I checked my shoes and worried about the race. Halfway through, I stopped for water. Then I continued slowly and crossed the finish line. I did not win, but every runner who finished received a medal. My goal was to finish my first race, so I was pleased with the result.",
+      "listening": "Bella stopped for water halfway through the race, then continued. She finished slowly and received a medal. The medal was for finishing, not for first place. She tells the short version because Fenrir has a class soon.",
+      "question": "What was Bella’s personal goal?",
+      "correct": "To finish her first race",
+      "other": "To come first and win the race",
+      "speaking": "Give a thirty-second version of an experience. Keep an important moment and the result. Say clearly if your account is invented rather than calling it a true story.",
+      "speakingSample": "Here is the short version of an invented race story. Earlier that morning, I worried about finishing. Halfway through, I stopped for water. Then I carried on and finished slowly. I received a medal for finishing, not for winning."
+    },
+    {
+      "day": 199,
+      "unit": 25,
+      "title": "Give an invented story a clear beginning and end",
+      "goal": "I can tell a simple invented story with connected events and make clear that it is fiction.",
+      "newItems": [
+        {
+          "word": "dragon",
+          "ipa": "/ˈdræɡən/",
+          "pos": "noun",
+          "definition": "A large imaginary creature, often shown with wings and the ability to breathe fire.",
+          "example": "The dragon in our story could not fly.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "giant",
+          "ipa": "/ˈdʒaɪənt/",
+          "pos": "noun",
+          "definition": "An imaginary person much larger than an ordinary person.",
+          "example": "A friendly giant carried the dragon to the hill.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "fairy",
+          "ipa": "/ˈfɛri/",
+          "pos": "noun",
+          "definition": "A small imaginary being with magical powers, often shown with wings.",
+          "example": "A fairy helped the dragon repair its wing.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "to begin with",
+          "ipa": "/tə bɪˈɡɪn wɪð/",
+          "pos": "fixed phrase",
+          "definition": "At the first stage of the situation being described.",
+          "example": "To begin with, the dragon could not fly.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "at the very end",
+          "ipa": "/ət ðə ˈvɛri ɛnd/",
+          "pos": "fixed phrase",
+          "definition": "In the final part, with emphasis on how late it happens.",
+          "example": "At the very end, the dragon flew home.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "story",
+        "wing",
+        "friend",
+        "help",
+        "fly"
+      ],
+      "mainWord": {
+        "word": "dragon",
+        "ipa": "/ˈdræɡən/",
+        "pos": "noun",
+        "definition": "A large imaginary creature, often shown with wings and the ability to breathe fire.",
+        "example": "The dragon in our story could not fly.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Dragon, giant and fairy are countable nouns. Fairy becomes fairies in the plural. Giant is a noun for a story character here, rather than the adjective meaning very large. The examples are invented events.",
+      "wordTask": "Is the dragon in this lesson a real animal or an imaginary story creature?",
+      "wordSample": "It is an imaginary story creature.",
+      "expression": "This is an invented story.",
+      "use": "Introduce fiction clearly before telling events that did not really happen.",
+      "context": [
+        "This is an invented story. It is about a dragon with a hurt wing.",
+        "What happened to it?"
+      ],
+      "expressionTask": "Tell an invented story with one problem, one helpful action and a connected ending.",
+      "grammar": "Past ability with could and could not",
+      "pattern": "subject + could not + base verb",
+      "example": "The dragon could not fly.",
+      "task": "The dragon could not ___.",
+      "answer": "fly",
+      "sound": "Dragon begins with D and R together. Giant starts with the sound at the start of jump. Fairy has stress on FAIR.",
+      "model": "The dragon could not fly.",
+      "dialogue": [
+        "Is this a true story?",
+        "No. This is an invented story about a dragon. To begin with, it could not fly.",
+        "Who helped it?",
+        "A giant carried it to a hill, where a fairy helped repair its wing.",
+        "Did it fly away immediately?",
+        "No, it rested first. At the very end, it flew home and thanked both friends."
+      ],
+      "reading": "Bella introduces an invented story, not a true account. To begin with, a dragon could not fly because its wing was hurt. A friendly giant carried it to a hill. There, a fairy helped repair the wing. The dragon wanted to fly at once, but it still needed rest. It waited with its two friends until it felt stronger. At the very end, it flew home and called down a thank-you. The helpful actions connect the problem to the ending; the characters do more than simply appear in a list.",
+      "readingQ": "Why does the dragon wait after the fairy helps it?",
+      "readingA": "It still needs rest before it is strong enough to fly.",
+      "writing": "Write 45–65 words retelling the invented story. State the problem, explain the help and include what happened before the final flight.",
+      "writingSample": "This is an invented story. To begin with, a dragon could not fly because its wing was hurt. A giant carried it to a hill, and a fairy helped repair the wing. The dragon rested with them before trying again. At the very end, it flew home and thanked its two friends.",
+      "listening": "The giant carried the dragon to the hill. The fairy helped with its wing there. The dragon did not fly immediately after that help. It rested, felt stronger and finally flew home. This account is an invented story.",
+      "question": "What happened between the repair and the flight?",
+      "correct": "The dragon rested with its friends",
+      "other": "The dragon flew away immediately",
+      "speaking": "Tell a different invented story using a dragon, a giant or a fairy. Give a reason for the ending instead of only naming the characters.",
+      "speakingSample": "This is an invented story. To begin with, a giant could not cross a river. A dragon carried a rope to the other side. The giant used it to cross safely. At the very end, they shared a meal."
+    },
+    {
+      "day": 200,
+      "unit": 25,
+      "title": "Help a listener follow and check a short story",
+      "goal": "I can retell an event, answer follow-up questions and distinguish a stated fact from a missing detail.",
+      "newItems": [
+        {
+          "word": "let me think",
+          "ipa": "/lɛt miː θɪŋk/",
+          "pos": "fixed phrase",
+          "definition": "A short expression used to ask for a moment to remember or consider an answer.",
+          "example": "Let me think. We reached the park at about ten.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "who was with you",
+          "ipa": "/huː wəz wɪð juː/",
+          "pos": "fixed phrase",
+          "definition": "A question asking which people were present with the listener at a past event.",
+          "example": "Who was with you when you found the bag?",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "where did this happen",
+          "ipa": "/wɛr dɪd ðɪs ˈhæpən/",
+          "pos": "fixed phrase",
+          "definition": "A question asking for the place of the event just mentioned.",
+          "example": "Where did this happen? At the station or the park?",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "how long did it last",
+          "ipa": "/haʊ lɔŋ dɪd ɪt læst/",
+          "pos": "fixed phrase",
+          "definition": "A question asking about the duration of a past event.",
+          "example": "How long did it last? About twenty minutes.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "what happened after that",
+          "ipa": "/wʌt ˈhæpənd ˈæftɚ ðæt/",
+          "pos": "fixed phrase",
+          "definition": "A question asking for the next event in an account.",
+          "example": "You gave the bag to the helper. What happened after that?",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "bag",
+        "cousin",
+        "owner",
+        "wait",
+        "park"
+      ],
+      "mainWord": {
+        "word": "let me think",
+        "ipa": "/lɛt miː θɪŋk/",
+        "pos": "fixed phrase",
+        "definition": "A short expression used to ask for a moment to remember or consider an answer.",
+        "example": "Let me think. We reached the park at about ten.",
+        "category": "fixed_phrase",
+        "status": "new"
+      },
+      "mainWordForms": "These are question or conversation chunks, not five additional single words. With did, use happen and last rather than happened and lasted. Who was with you asks about people; how long asks about duration.",
+      "wordTask": "Which expression can give you a moment to remember a detail?",
+      "wordSample": "Let me think.",
+      "expression": "What happened after that?",
+      "use": "Ask for the next event when a speaker has stopped before the outcome. Listen to the answer before asking another question.",
+      "context": [
+        "I took the bag to the park helper.",
+        "What happened after that?"
+      ],
+      "expressionTask": "Ask two different follow-up questions about the found bag. Make one about people or place and one about the sequence or duration.",
+      "grammar": "Duration questions with how long",
+      "pattern": "How long + did + subject + last?",
+      "example": "How long did it last?",
+      "task": "How long ___ it last?",
+      "answer": "did",
+      "sound": "Think ends with the voiceless TH sound and K. In let me think, make THINK the main beat. In how long did it last, stress LONG and LAST.",
+      "model": "Let me think. We waited for twenty minutes.",
+      "pronunciationTarget": {
+        "word": "think",
+        "ipa": "/θɪŋk/"
+      },
+      "dialogue": [
+        "You found a bag? Where did this happen?",
+        "Beside a bench in the park.",
+        "Who was with you?",
+        "My cousin. We took it to the park helper.",
+        "What happened after that? How long did the wait last?",
+        "Let me think. We waited about twenty minutes, and then the owner collected it."
+      ],
+      "reading": "Bella tells Fenrir that she found a bag beside a park bench. He asks, “Who was with you?” She explains that her cousin was there. They took the bag to the park helper instead of carrying it away. Fenrir asks, “What happened after that?” Bella says, “Let me think,” then remembers that they waited about twenty minutes before the owner collected it. “How long did it last?” is useful for checking the wait, while “Where did this happen?” checks the place. Different questions bring out different information without making Bella repeat the whole account.",
+      "readingQ": "What happened after Bella and her cousin took the bag to the helper?",
+      "readingA": "They waited about twenty minutes, then the owner collected the bag.",
+      "writing": "Write 45–65 words giving the account of the found bag. Include the place, the people, what they did and how the event ended.",
+      "writingSample": "My cousin and I found a bag beside a bench in the park. We took it to the park helper and stayed nearby. After about twenty minutes, the owner came to collect it. We were pleased that the bag was back with its owner. Then my cousin and I continued our walk.",
+      "listening": "Bella found the bag with her cousin in the park. They gave it to the park helper and waited about twenty minutes. The owner then collected it. Bella does not say what was inside the bag, so that detail is unknown.",
+      "question": "Which detail is not given?",
+      "correct": "What was inside the bag",
+      "other": "Who was with Bella",
+      "speaking": "Retell the bag story. Your partner asks about a person, a place and the sequence. Say when a detail is not given rather than inventing it.",
+      "speakingSample": "Bella found a bag in the park with her cousin. They took it to the helper. After about twenty minutes, its owner collected it. We do not know what was inside the bag.",
+      "transferCheck": {
+        "source": "At the sports center on Saturday, Luis and his sister found a blue jacket on a seat. They gave it to the desk assistant at 10:20. At 10:35, a runner collected it. Luis and his sister then went to their swimming lesson. The account does not say what was in the pockets.",
+        "tasks": [
+          [
+            "1 · Identify the people and place",
+            "Who was with Luis, and where did they find the jacket?"
+          ],
+          [
+            "2 · Work out the duration",
+            "How many minutes passed between handing it in and the runner collecting it?"
+          ],
+          [
+            "3 · Notice missing information",
+            "Can you name anything inside a pocket? Explain your answer."
+          ],
+          [
+            "4 · Listen and write",
+            "Write the sentence you hear."
+          ],
+          [
+            "5 · Retell and answer",
+            "Tell the event in order, including who, where, the times and what happened afterward. Then answer one follow-up question."
+          ]
+        ],
+        "dictation": "They gave the jacket to the desk assistant.",
+        "answer": "1. His sister; on a seat at the sports center. 2. Fifteen minutes, from 10:20 to 10:35. 3. No. The account does not say what was inside the pockets. 4. They gave the jacket to the desk assistant. 5. Sample: Luis and his sister found a blue jacket on a seat at the sports center on Saturday. They handed it to the desk assistant at 10:20. A runner collected it at 10:35. After that, Luis and his sister went to their swimming lesson. Follow-up: Who collected it? A runner."
+      }
+    }
+  ]
+}

@@ -1,0 +1,873 @@
+{
+  "number": 24,
+  "title": "Unexpected problems",
+  "lessons": [
+    {
+      "day": 185,
+      "unit": 24,
+      "title": "Describe what is wrong with a delivered item",
+      "goal": "I can describe a visible mark or missing component and ask the seller to check the specific problem.",
+      "newItems": [
+        {
+          "word": "damage",
+          "ipa": "/ˈdæmɪdʒ/",
+          "pos": "noun",
+          "definition": "Physical harm affecting an object’s condition, appearance or use.",
+          "example": "The delivery note records damage to the outer case.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "scratch",
+          "ipa": "/skrætʃ/",
+          "pos": "noun",
+          "definition": "A thin mark made by something sharp or rough moving over a surface.",
+          "example": "There is a scratch across the lid.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "dent",
+          "ipa": "/dɛnt/",
+          "pos": "noun",
+          "definition": "A hollow mark pushed into a surface by pressure or a hit.",
+          "example": "The metal case has a dent near one corner.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "crack",
+          "ipa": "/kræk/",
+          "pos": "noun",
+          "definition": "A narrow split in a surface or material.",
+          "example": "There is a crack along the plastic edge.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "missing part",
+          "ipa": "/ˈmɪsɪŋ pɑrt/",
+          "pos": "fixed phrase",
+          "definition": "A component that should be present but cannot be found.",
+          "example": "The handle screw is a missing part in this kit.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "delivery",
+        "case",
+        "lid",
+        "corner",
+        "plastic"
+      ],
+      "mainWord": {
+        "word": "damage",
+        "ipa": "/ˈdæmɪdʒ/",
+        "pos": "noun",
+        "definition": "Physical harm affecting an object’s condition, appearance or use.",
+        "example": "The delivery note records damage to the outer case.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Damage is uncountable as a general condition here; scratch, dent and crack are countable. A missing part is different from a surface mark. These descriptions state what is visible; they do not by themselves prove when or how a problem occurred.",
+      "wordTask": "Does damage name a specific thin mark, or a general condition of physical harm?",
+      "wordSample": "It names the general condition; scratch names a particular thin surface mark.",
+      "expression": "Could you check this specific problem?",
+      "use": "Direct attention to the visible issue instead of describing the whole item only as bad.",
+      "context": [
+        "Could you check this specific problem?",
+        "Yes. Please show me the crack on the edge and tell me which part is missing."
+      ],
+      "expressionTask": "Report a delivered case with a crack and one missing component. Give its location and ask what information the seller needs.",
+      "grammar": "There is with a singular countable problem",
+      "pattern": "There is + a + singular noun + place phrase",
+      "example": "There is a crack along the edge.",
+      "task": "There is ___ crack along the edge.",
+      "answer": "a",
+      "sound": "Damage has stress on DAM. Scratch begins with S, K and R together. Crack ends with K; do not add a vowel after it.",
+      "model": "The note records damage to the case.",
+      "dialogue": [
+        "My delivered case has a problem. Could you check this specific problem?",
+        "Please describe what you can see. Is it a scratch or a dent?",
+        "There is a crack along the plastic edge. I also cannot find the screw for the handle.",
+        "Then we should record the surface damage and the missing part separately.",
+        "I can give you the order number and a clear picture of the edge.",
+        "Thank you. We will check the item details and tell you the available next steps."
+      ],
+      "reading": "Bella opens a delivered case and finds a crack along one plastic edge. She also cannot find the handle screw shown on the parts list. When contacting the seller, she separates the damage from the missing part. A scratch would be a thin surface mark, and a dent a pushed-in area; neither describes the split she sees. Bella gives the order number, location and a clear picture. She asks the seller to check the issue rather than guessing how it happened. The seller can then explain the next steps for that order.",
+      "readingQ": "Why does Bella describe a crack rather than only say the case is bad?",
+      "readingA": "The specific description identifies the visible split and helps the seller check the right problem.",
+      "writing": "Write 45–65 words reporting the case problem. State the location of the damage, the missing component and the information you can supply.",
+      "writingSample": "Hello, my delivered case has a crack along the plastic edge near the handle. I also cannot find the handle screw shown on the parts list. I can provide the order number and a clear photograph. Could you check these two problems and tell me what information you need for the next step?",
+      "listening": "The customer reports a split along the plastic edge, not a pushed-in metal corner. The handle screw is also absent. Record a crack and a missing part. Do not replace the specific description with a dent if that is not what the customer sees.",
+      "question": "Which description matches the report?",
+      "correct": "A crack and a missing handle screw",
+      "other": "Only a dent in a metal corner",
+      "speaking": "Describe a visible item problem to a partner acting as a seller. Name the location and separate a surface issue from a missing component.",
+      "speakingSample": "Could you check this specific problem? There is a crack along the plastic edge near the handle, and the handle screw is missing. I can send a picture and the order number. What information do you need to check the available next steps?"
+    },
+    {
+      "day": 186,
+      "unit": 24,
+      "title": "Explain an accidental spill and ask for help",
+      "goal": "I can describe what happened, distinguish a spill from a remaining mark and ask what help is available.",
+      "newItems": [
+        {
+          "word": "spill",
+          "ipa": "/spɪl/",
+          "pos": "verb",
+          "definition": "Cause liquid or small loose pieces to fall out of a container, often accidentally.",
+          "example": "I spilled some tea on the table.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "stain",
+          "ipa": "/steɪn/",
+          "pos": "noun",
+          "definition": "A colored mark that remains on a material, often after a liquid or substance touches it.",
+          "example": "A tea stain remains on the paper cover.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "by accident",
+          "ipa": "/baɪ ˈæksɪdənt/",
+          "pos": "fixed phrase",
+          "definition": "Without intending the result.",
+          "example": "I knocked the cup over by accident.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "paper towel",
+          "ipa": "/ˈpeɪpɚ ˈtaʊəl/",
+          "pos": "fixed phrase",
+          "definition": "An absorbent sheet of paper used for drying or cleaning.",
+          "example": "Could I have a paper towel for the table?",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "clean it up",
+          "ipa": "/kliːn ɪt ʌp/",
+          "pos": "fixed phrase",
+          "definition": "Remove the mess being referred to.",
+          "example": "I will ask the cafe helper how to clean it up.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "tea",
+        "cup",
+        "table",
+        "cover",
+        "help"
+      ],
+      "mainWord": {
+        "word": "spill",
+        "ipa": "/spɪl/",
+        "pos": "verb",
+        "definition": "Cause liquid or small loose pieces to fall out of a container, often accidentally.",
+        "example": "I spilled some tea on the table.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Spill is a verb here, with the past spilled; spilt is also used. Stain is a countable mark, not the same as the liquid itself. By accident describes intention. Clean it up puts it between clean and up.",
+      "wordTask": "What happened if someone spilled tea from a cup onto a table?",
+      "wordSample": "The tea accidentally came out of the cup onto the table.",
+      "expression": "Could you help me with this spill?",
+      "use": "Tell the responsible helper what happened and ask for suitable help in that setting.",
+      "context": [
+        "Could you help me with this spill?",
+        "Of course. Tell me which surface is wet, and I will bring what we use here."
+      ],
+      "expressionTask": "Report a small accidental spill in a cafe. Identify the wet surface and a marked paper cover, then ask the helper what to do.",
+      "grammar": "Past simple for an accidental event",
+      "pattern": "subject + past simple verb + object",
+      "example": "I spilled tea on the table.",
+      "task": "I ___ tea on the table.",
+      "answer": "spilled",
+      "sound": "Spill starts with S and P together. Stain begins with S and T and has the vowel in day. Accident has stress on AC. Spilled stays one syllable, with a final D sound after L.",
+      "model": "I spilled tea on the table.",
+      "dialogue": [
+        "Excuse me. I knocked my cup over by accident. Could you help me with this spill?",
+        "Of course. Is it only on the table?",
+        "Yes. My paper cover has a tea stain, but the bag underneath is dry.",
+        "I will bring a paper towel and the materials we use for this table.",
+        "Thank you. Do you need me to move these dry papers?",
+        "Yes, please. Put them on the other table while I check this one."
+      ],
+      "reading": "At a cafe, Bella knocks a cup over by accident and spills a little tea on the table. She tells the helper exactly which surface is wet. A paper cover has a stain, but the bag underneath is dry. The spill is the event and wet mess; the stain is the mark left on the cover. Bella asks, “Could you help me clean it up?” and checks which dry papers should be moved. The helper brings a paper towel and the cafe’s cleaning materials. Bella moves her dry papers aside after checking where the liquid went.",
+      "readingQ": "What is the difference between the spill and the stain in this situation?",
+      "readingA": "The spill is the tea coming out and wetting the table; the stain is the remaining mark on the paper cover.",
+      "writing": "Write 45–65 words explaining the accident to a cafe helper. State what is wet, what is marked and what remains dry, then ask for help.",
+      "writingSample": "Excuse me, I knocked the tea cup over by accident and spilled a little tea on the table. The paper cover has a stain, but the bag underneath is dry. Could you help me with the spill and tell me what to move? Could I have a paper towel while you help with the table?",
+      "listening": "The tea is on the table, and a mark remains on the paper cover. The bag below is dry. Please tell the helper these details. The customer did not spill tea inside the bag, so do not report that as part of the accident.",
+      "question": "Which item remains dry?",
+      "correct": "The bag underneath",
+      "other": "The paper cover with the tea mark",
+      "speaking": "Role-play reporting an accident. Describe the spill, its location and one item not affected, then ask the helper for a suitable next step.",
+      "speakingSample": "Could you help me with this spill? I knocked the cup over by accident. The table is wet and the paper cover has a tea stain, but my bag is dry. Please tell me what to move while you bring what you use here."
+    },
+    {
+      "day": 187,
+      "unit": 24,
+      "title": "Tell a friend why a journey has stopped",
+      "goal": "I can repeat a driver’s stated problem, distinguish a confirmed delay from an unconfirmed arrival time and ask for the next update.",
+      "newItems": [
+        {
+          "word": "tire",
+          "ipa": "/taɪr/",
+          "pos": "noun",
+          "definition": "The rubber outer part of a vehicle wheel, often filled with air.",
+          "example": "The driver says one tire is flat.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "puncture",
+          "ipa": "/ˈpʌŋktʃɚ/",
+          "pos": "noun",
+          "definition": "A small hole made by something sharp, especially in a tire.",
+          "example": "The driver is checking whether the tire has a puncture.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "flat tire",
+          "ipa": "/flæt taɪr/",
+          "pos": "fixed phrase",
+          "definition": "A tire that has lost enough air that it is not in its normal usable condition.",
+          "example": "The minibus has stopped because of a flat tire.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "break down",
+          "ipa": "/breɪk daʊn/",
+          "pos": "phrasal verb",
+          "definition": "Stop working, especially when talking about a vehicle or machine.",
+          "example": "Another bus had to stop when its engine began to break down.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "roadside help",
+          "ipa": "/ˈroʊdsaɪd hɛlp/",
+          "pos": "fixed phrase",
+          "definition": "Assistance for a vehicle that has a problem beside a road.",
+          "example": "The driver has contacted roadside help.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "wheel",
+        "driver",
+        "bus",
+        "delay",
+        "arrival"
+      ],
+      "mainWord": {
+        "word": "tire",
+        "ipa": "/taɪr/",
+        "pos": "noun",
+        "definition": "The rubber outer part of a vehicle wheel, often filled with air.",
+        "example": "The driver says one tire is flat.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Tire is the American spelling; tyre is British, not a separate new target. A flat tire describes its condition, while puncture names a possible hole. Break down is a verb phrase; broke down is its past form. Roadside help does not itself state how soon a journey can restart.",
+      "wordTask": "Which part of a wheel does tire describe?",
+      "wordSample": "It describes the rubber outer part around the wheel.",
+      "expression": "When will you have the next update?",
+      "use": "Ask when more information will be available if an exact arrival time is not yet known.",
+      "context": [
+        "When will you have the next update?",
+        "The driver will update us at eleven; that is not a confirmed arrival time."
+      ],
+      "expressionTask": "Send a friend an update from a stopped minibus. Repeat the stated problem and distinguish the next information time from your arrival time.",
+      "grammar": "Will with a time for a promised update",
+      "pattern": "subject + will + base verb + time phrase",
+      "example": "The driver will update us at eleven.",
+      "task": "The driver will ___ us at eleven.",
+      "answer": "update",
+      "sound": "Tire has a vowel glide followed by R in the American model. Puncture has stress on PUNC and a CH sound. Break ends with K before the next word.",
+      "model": "The tire is flat, and the bus has stopped.",
+      "dialogue": [
+        "Our minibus has stopped. The driver says one tire is flat.",
+        "Did the whole engine break down?",
+        "The driver has only reported a flat tire and is checking for a puncture. Roadside help has been contacted.",
+        "When will you have the next update?",
+        "At eleven. That is when the driver will speak to us again, not when we will arrive.",
+        "Thanks. I will tell the group that your arrival time is not confirmed yet."
+      ],
+      "reading": "Bella’s minibus stops during a trip. The driver reports a flat tire and checks whether there is a puncture. Bella tells Fenrir what the driver has actually said rather than describing an engine problem. Break down can describe a vehicle stopping because it no longer works, but the driver’s specific report is more useful here. Roadside help has been contacted. The driver promises an update at eleven, while the arrival time remains unknown. Bella’s message keeps those times separate, so the waiting group does not expect her at eleven by mistake.",
+      "readingQ": "Why should Fenrir not treat eleven as Bella’s arrival time?",
+      "readingA": "Eleven is the promised time of the next update; arrival has not been confirmed.",
+      "writing": "Write 45–65 words to a waiting friend. Include the reported vehicle problem, the help requested and the next update time without inventing an arrival time.",
+      "writingSample": "Our minibus has stopped because the driver reports a flat tire. The driver is checking for a puncture and has contacted roadside help. We will receive the next update at eleven. That is not our arrival time, which is still unconfirmed. I will message you when the driver has more information.",
+      "listening": "The driver reports a flat tire and has called roadside help. The next announcement is at eleven. We cannot give an arrival time yet. Please tell anyone waiting that eleven is the information update, not the time the minibus will reach the town.",
+      "question": "What does eleven refer to?",
+      "correct": "The next information update",
+      "other": "A confirmed arrival in town",
+      "speaking": "Explain a travel interruption to a partner. State the reported problem, the next update time and which time is not yet known.",
+      "speakingSample": "The driver says the minibus has a flat tire and is checking it. Roadside help has been contacted. We expect another update at eleven, but we do not know our arrival time yet. I will pass on the driver’s next message rather than guess."
+    },
+    {
+      "day": 188,
+      "unit": 24,
+      "title": "Agree on a temporary replacement clearly",
+      "goal": "I can ask about a substitute item and keep its return deadline separate from an estimated repair time.",
+      "newItems": [
+        {
+          "word": "replacement",
+          "ipa": "/rɪˈpleɪsmənt/",
+          "pos": "noun",
+          "definition": "A person or thing that takes the place of another.",
+          "example": "The center offers a replacement projector for the class.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "temporary",
+          "ipa": "/ˈtɛmpəˌrɛri/",
+          "pos": "adjective",
+          "definition": "Lasting for a limited period rather than permanently.",
+          "example": "The loan is a temporary arrangement.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "fault",
+          "ipa": "/fɔlt/",
+          "pos": "noun",
+          "definition": "A problem in something that prevents it from working as expected.",
+          "example": "The technician will check the projector’s fault.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "in the meantime",
+          "ipa": "/ɪn ðə ˈmiːnˌtaɪm/",
+          "pos": "fixed phrase",
+          "definition": "During the period while waiting for something else.",
+          "example": "In the meantime, the class can use the loan projector.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "sort it out",
+          "ipa": "/sɔrt ɪt aʊt/",
+          "pos": "fixed phrase",
+          "definition": "Deal with the stated problem or arrangement.",
+          "example": "We will contact the equipment desk to sort it out.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "class",
+        "date",
+        "return",
+        "repair",
+        "desk"
+      ],
+      "mainWord": {
+        "word": "replacement",
+        "ipa": "/rɪˈpleɪsmənt/",
+        "pos": "noun",
+        "definition": "A person or thing that takes the place of another.",
+        "example": "The center offers a replacement projector for the class.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Replacement and fault are countable nouns; temporary describes a limited duration. In the meantime refers to a waiting period. A loan deadline may be fixed even when the repair completion is only an estimate, so ask about both.",
+      "wordTask": "What does replacement mean when a class receives another projector for one day?",
+      "wordSample": "It means an item taking the place of the unavailable projector.",
+      "expression": "Which date is confirmed, and which is an estimate?",
+      "use": "Separate an agreed deadline from a possible completion time when arranging a temporary item.",
+      "context": [
+        "Which date is confirmed, and which is an estimate?",
+        "The loan must return Friday; the repair may finish Thursday, but that is only an estimate."
+      ],
+      "expressionTask": "Arrange a temporary class projector. Confirm its return date and ask how the class will get an update about the original.",
+      "grammar": "May for an uncertain future possibility",
+      "pattern": "subject + may + base verb",
+      "example": "The repair may finish on Thursday.",
+      "task": "The repair may ___ on Thursday.",
+      "answer": "finish",
+      "sound": "Replacement has stress on PLACE, temporary on TEM and meantime on MEAN. Fault ends with L followed by T.",
+      "model": "The replacement projector is a temporary loan.",
+      "dialogue": [
+        "The projector has a fault. How can we sort it out before the class?",
+        "The equipment desk can lend a replacement. In the meantime, the original will be checked.",
+        "Which date is confirmed, and which is an estimate?",
+        "You must return the temporary projector Friday. The repair may finish Thursday, but that is only an estimate.",
+        "Then I should not promise the original will be ready Thursday.",
+        "Right. Ask the desk for an update, and keep the confirmed loan return date on the calendar."
+      ],
+      "reading": "The class projector has a fault, so Bella contacts the equipment desk to sort it out. The desk offers a replacement as a temporary loan. In the meantime, a technician will check the original. The return deadline for the loan is Friday. A possible Thursday repair completion is only an estimate. Bella writes the two details separately rather than treating both as firm promises. She also asks when the desk can update the class. The loan helps with the next lesson without establishing exactly when the original equipment will be ready.",
+      "readingQ": "Which date is a firm deadline in this arrangement?",
+      "readingA": "The temporary loan must be returned on Friday; Thursday is only an estimated repair completion.",
+      "writing": "Write 45–65 words confirming the temporary arrangement. Include the return deadline, estimated repair time and a request for an update.",
+      "writingSample": "Thank you for offering a replacement projector as a temporary loan. I understand that I must return it on Friday. The original may be repaired by Thursday, but that is an estimate, not a confirmed completion. Could you tell us when the next update will be available? We will keep the loan deadline separately on our calendar.",
+      "listening": "Please return the loan projector Friday. The technician hopes the original may be ready Thursday, but has not confirmed that date. Using the temporary item does not change its Friday return deadline. Call the desk for an update about the repair.",
+      "question": "Which statement is confirmed?",
+      "correct": "The loan projector must return Friday",
+      "other": "The original will definitely be repaired Thursday",
+      "speaking": "Confirm a temporary equipment loan with a partner. Repeat the firm deadline and the uncertain estimate, then ask about the next update.",
+      "speakingSample": "The replacement is a temporary loan, and I will return it Friday. The original may be ready Thursday, but I understand that is not confirmed. When should I contact the desk for the next update? I will keep the two dates separate."
+    },
+    {
+      "day": 189,
+      "unit": 24,
+      "title": "Identify a missing jacket using useful details",
+      "goal": "I can describe a garment clearly enough to distinguish it from a similar item.",
+      "newItems": [
+        {
+          "word": "stripe",
+          "ipa": "/straɪp/",
+          "pos": "noun",
+          "definition": "A long narrow band of color different from the surface around it.",
+          "example": "The jacket has one white stripe across the back.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "plain",
+          "ipa": "/pleɪn/",
+          "pos": "adjective",
+          "definition": "Without a pattern or decoration in this description.",
+          "example": "The front of the jacket is plain blue.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "patterned",
+          "ipa": "/ˈpætɚnd/",
+          "pos": "adjective",
+          "definition": "Decorated with a repeated design.",
+          "example": "The lining is patterned, with small shapes.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "spotted",
+          "ipa": "/ˈspɑtɪd/",
+          "pos": "adjective",
+          "definition": "Having a pattern of small round marks.",
+          "example": "The scarf is spotted, with white dots on red.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "cuff",
+          "ipa": "/kʌf/",
+          "pos": "noun",
+          "definition": "The end part of a sleeve around the wrist.",
+          "example": "One cuff has a small red button.",
+          "category": "new_word",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "jacket",
+        "blue",
+        "back",
+        "scarf",
+        "button"
+      ],
+      "mainWord": {
+        "word": "stripe",
+        "ipa": "/straɪp/",
+        "pos": "noun",
+        "definition": "A long narrow band of color different from the surface around it.",
+        "example": "The jacket has one white stripe across the back.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Stripe and cuff are countable nouns. Plain contrasts with patterned; spotted is one kind of pattern. Striped is the related adjective for a stripe pattern, not another separately counted target today. Describe the part of the garment so apparently different details can both be true.",
+      "wordTask": "What does one white stripe describe on a blue jacket?",
+      "wordSample": "One long narrow white band across part of the blue surface.",
+      "expression": "What detail would distinguish it from the others?",
+      "use": "Add a clear feature that separates a missing item from similar items at a desk.",
+      "context": [
+        "What detail would distinguish it from the others?",
+        "It has one white stripe across the back and a red button on one cuff."
+      ],
+      "expressionTask": "Describe a missing blue jacket to a reception helper. Use two features beyond color and say which part each belongs to.",
+      "grammar": "Has with a distinctive garment feature",
+      "pattern": "item + has + feature + place phrase",
+      "example": "The jacket has a white stripe across the back.",
+      "task": "The jacket ___ a white stripe across the back.",
+      "answer": "has",
+      "sound": "Stripe begins with S, T and R together. Plain begins with P and L together. Cuff ends with F, with air moving gently between the lower lip and upper teeth.",
+      "model": "The stripe is white against the blue jacket.",
+      "dialogue": [
+        "I cannot find my blue jacket. Have any been handed in?",
+        "We have two blue jackets. What detail would distinguish yours from the others?",
+        "The front is plain blue, but there is one white stripe across the back.",
+        "Does it have anything unusual on the sleeves?",
+        "One cuff has a red button. The lining is patterned, but my red spotted scarf is not attached to it.",
+        "That helps. I will check those features on the jacket at the desk."
+      ],
+      "reading": "Bella reports a missing blue jacket at reception. Two blue jackets have been handed in, so color alone is not enough. Her jacket is plain at the front, with one white stripe across the back. Its lining is patterned, and one cuff has a red button. Bella also describes her spotted red scarf, but explains that it was separate and is not part of the jacket. The helper checks the back and sleeve rather than guessing from the color. Specific features make the description useful even when two items look similar from the front.",
+      "readingQ": "Which two outside features distinguish Bella’s jacket beyond its blue color?",
+      "readingA": "The white stripe across the back and the red button on one cuff.",
+      "writing": "Write 45–65 words reporting the missing jacket. Give its color and two distinguishing features, and clarify that the scarf is separate.",
+      "writingSample": "I am looking for a blue jacket. The front is plain, but it has one white stripe across the back. One cuff has a red button, and the lining is patterned. My red spotted scarf was separate, not attached to the jacket. Could you check these details against the two jackets at reception?",
+      "listening": "There are two blue jackets. The first has a plain back and black cuff buttons. The second has one white stripe across the back and a red button on one cuff. Bella described the second set of features. Her spotted scarf is a separate item.",
+      "question": "Which jacket matches Bella’s description?",
+      "correct": "The one with a white back stripe and red cuff button",
+      "other": "The one with a plain back and black buttons",
+      "speaking": "Describe an invented missing garment to a partner. Give color, a feature on the back and a sleeve detail, then answer one clarifying question.",
+      "speakingSample": "My jacket is blue, with a plain front and one white stripe across the back. One cuff has a red button. It has a patterned lining too. Which detail do you need me to repeat so you can compare it with the items at the desk?"
+    },
+    {
+      "day": 190,
+      "unit": 24,
+      "title": "Resolve a small mix-up at a cafe",
+      "goal": "I can explain which order is mine, respond to an apology and ask for a practical correction politely.",
+      "newItems": [
+        {
+          "word": "mix-up",
+          "ipa": "/ˈmɪksʌp/",
+          "pos": "noun",
+          "definition": "A mistake caused by confusing people, things or arrangements.",
+          "example": "There has been a mix-up between the two table orders.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "apology",
+          "ipa": "/əˈpɑlədʒi/",
+          "pos": "noun",
+          "definition": "Words or an action expressing regret for a mistake or problem.",
+          "example": "The server gives an apology for bringing the wrong plate.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "swap",
+          "ipa": "/swɑp/",
+          "pos": "verb",
+          "definition": "Exchange one thing for another.",
+          "example": "The server checks whether the two order cards were swapped.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "the wrong one",
+          "ipa": "/ðə rɔŋ wʌn/",
+          "pos": "fixed phrase",
+          "definition": "The item that is not the intended or requested one.",
+          "example": "This is the wrong one; I ordered the salad.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "as ordered",
+          "ipa": "/æz ˈɔrdɚd/",
+          "pos": "fixed phrase",
+          "definition": "Matching what was requested in the order.",
+          "example": "The new plate arrives as ordered, with the dressing separate.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "order",
+        "salad",
+        "plate",
+        "table",
+        "server"
+      ],
+      "mainWord": {
+        "word": "mix-up",
+        "ipa": "/ˈmɪksʌp/",
+        "pos": "noun",
+        "definition": "A mistake caused by confusing people, things or arrangements.",
+        "example": "There has been a mix-up between the two table orders.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Mix-up and apology are countable nouns. Swap means exchange; it does not mean change every part of an order. The wrong one refers to an item already clear in context. As ordered focuses on matching the request.",
+      "wordTask": "What is a mix-up between two table orders?",
+      "wordSample": "A mistake caused by confusing which order belongs to which table.",
+      "expression": "I think this belongs to the other table.",
+      "use": "Point out a likely order confusion politely and identify what you actually requested.",
+      "context": [
+        "I think this belongs to the other table.",
+        "Thank you for telling me. What did you order?"
+      ],
+      "expressionTask": "Tell a cafe server you received soup instead of your salad. Repeat your original request and respond to the server’s apology.",
+      "grammar": "Ordered for a completed request",
+      "pattern": "subject + ordered + requested item",
+      "example": "I ordered the salad with dressing separate.",
+      "task": "I ___ the salad with dressing separate.",
+      "answer": "ordered",
+      "sound": "Mix-up has stress on MIX, apology on POL and ordered on OR. In swap, keep the initial S and W together.",
+      "model": "There has been a mix-up with the orders.",
+      "dialogue": [
+        "Excuse me. I think this belongs to the other table.",
+        "Thank you for telling me. What did you order?",
+        "The salad with dressing separate, but this is soup.",
+        "I am sorry. There has been a mix-up. I will check the two order cards and bring your salad.",
+        "Thank you for the apology. I would be happy with the salad as ordered.",
+        "Of course. I have checked your request and will bring the correct plate."
+      ],
+      "reading": "At a cafe, Bella receives soup even though she ordered a salad. She tells the server that it may belong to the other table and repeats her request: salad with dressing separate. The server gives an apology and checks the order cards. There has been a mix-up between two orders. A helper swapped the two order cards by mistake. The server needs to swap them back before bringing Bella’s salad. Bella describes the soup as the wrong one for her request, not as a bad dish. Her salad then arrives as ordered. A short, specific explanation helps the server correct the mistake.",
+      "readingQ": "Why does Bella repeat salad with dressing separate?",
+      "readingA": "It gives the server the specific original request needed to correct the order.",
+      "writing": "Write a 45–65-word description of the cafe mix-up and its resolution. Include the original request, wrong item and polite correction.",
+      "writingSample": "I ordered a salad with the dressing separate, but the server brought soup. I said politely that it might belong to the other table and repeated my request. The server apologized and checked the order cards. There was a mix-up. The correct salad arrived as ordered, and I thanked the server.",
+      "listening": "The customer ordered salad with dressing separate. Soup arrived by mistake. The server is checking the order cards and will bring a correct plate. The customer is not changing the request from salad to soup; the original order remains the same.",
+      "question": "What does the customer still want?",
+      "correct": "Salad with dressing separate",
+      "other": "Soup instead of the original salad",
+      "speaking": "Role-play a cafe correction. Identify the wrong item, repeat the original request and respond politely to an apology.",
+      "speakingSample": "Excuse me, I think this belongs to the other table. I ordered the salad with dressing separate, not soup. Thank you for checking the order card. I would like the salad as ordered, please. I appreciate your help with the mix-up."
+    },
+    {
+      "day": 191,
+      "unit": 24,
+      "title": "Apologize for a small misunderstanding",
+      "goal": "I can explain my own mistake, acknowledge another person’s feelings and agree on a clear next arrangement.",
+      "newItems": [
+        {
+          "word": "upset",
+          "ipa": "/ʌpˈsɛt/",
+          "pos": "adjective",
+          "definition": "Unhappy, worried or angry because of something that happened.",
+          "example": "Bella was upset when she thought her friend had forgotten the meeting.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "confused",
+          "ipa": "/kənˈfjuːzd/",
+          "pos": "adjective",
+          "definition": "Not understanding clearly or mixing up different details.",
+          "example": "I was confused about which cafe we had agreed on.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "relaxed",
+          "ipa": "/rɪˈlækst/",
+          "pos": "adjective",
+          "definition": "Feeling calm and without much worry or tension.",
+          "example": "We felt more relaxed after explaining the mistake.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "sorry about that",
+          "ipa": "/ˈsɑri əˈbaʊt ðæt/",
+          "pos": "fixed phrase",
+          "definition": "An apology referring to the problem or action just mentioned.",
+          "example": "I went to the wrong cafe. Sorry about that.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "my mistake",
+          "ipa": "/maɪ mɪˈsteɪk/",
+          "pos": "fixed phrase",
+          "definition": "Used to acknowledge that you made the error being discussed.",
+          "example": "I read the old message, not the new one. My mistake.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "friend",
+        "cafe",
+        "meeting",
+        "message",
+        "sorry"
+      ],
+      "mainWord": {
+        "word": "upset",
+        "ipa": "/ʌpˈsɛt/",
+        "pos": "adjective",
+        "definition": "Unhappy, worried or angry because of something that happened.",
+        "example": "Bella was upset when she thought her friend had forgotten the meeting.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Upset, confused and relaxed describe feelings here. Confused describes the person; confusing describes what causes difficulty. Relaxed ends with a T sound in this adjective. My mistake accepts responsibility for an error without blaming the person who points it out.",
+      "wordTask": "How might someone feel if they think a friend has forgotten an agreed meeting?",
+      "wordSample": "They might feel upset, meaning unhappy or worried about what happened.",
+      "expression": "I understand why that bothered you.",
+      "use": "Acknowledge a person’s reaction before explaining or repairing a small mistake.",
+      "context": [
+        "I understand why that bothered you.",
+        "Thank you. I was worried when I could not find you."
+      ],
+      "expressionTask": "Apologize to a friend for going to the old meeting place. Explain the confusion, acknowledge their worry and confirm where to meet next.",
+      "grammar": "Was or were with a feeling adjective",
+      "pattern": "subject + was or were + feeling adjective",
+      "example": "I was confused about the cafe.",
+      "task": "I ___ confused about the cafe.",
+      "answer": "was",
+      "sound": "Upset has stress on SET, confused on FUSED and relaxed on LAXED. Relaxed ends with K, S and T together, without an extra syllable.",
+      "model": "I was upset when I could not find you.",
+      "dialogue": [
+        "I waited at the garden cafe and thought you had forgotten our meeting.",
+        "I read our old message and went to the station cafe. My mistake. Sorry about that.",
+        "I was upset because I could not find you and did not know what happened.",
+        "I understand why that bothered you. I was confused about the updated place, but I should have checked.",
+        "Thank you for explaining. I feel more relaxed now.",
+        "Let us meet at the garden cafe at eleven and send one clear confirmation so we both use the same plan."
+      ],
+      "reading": "Bella waits at the garden cafe while Fenrir goes to the station cafe from an older message. She feels upset when she cannot find him. Once they speak, Fenrir says, “That was my mistake. Sorry about that.” He explains that he was confused about the updated place and acknowledges her worry. Bella feels more relaxed after the explanation. The friends do not spend the whole conversation repeating the blame. They agree on the garden cafe at eleven and send a single clear confirmation. Explaining the misunderstanding and confirming the new plan gives both people a way forward.",
+      "readingQ": "What do the friends do after explaining their different cafe locations?",
+      "readingA": "They agree on the garden cafe at eleven and send one clear confirmation.",
+      "writing": "Write 45–65 words apologizing for using an old meeting message. Acknowledge the friend’s worry and give the newly agreed place and time.",
+      "writingSample": "I am sorry I went to the station cafe. I read our old message and missed the updated place. That was my mistake, and I understand why you were upset when you could not find me. We have now agreed on the garden cafe at eleven. I will use this confirmation as our current plan.",
+      "listening": "I went to the station cafe because I read the old message. The updated plan was the garden cafe. I have apologized, and we now agree to meet at the garden cafe at eleven. Please use that confirmation, not the earlier station message.",
+      "question": "What is the current agreed meeting?",
+      "correct": "The garden cafe at eleven",
+      "other": "The station cafe from the old message",
+      "speaking": "Role-play a small meeting misunderstanding. Accept your part in the mistake, acknowledge the other person’s feeling and repeat the corrected plan.",
+      "speakingSample": "My mistake. I read the old place and went to the station cafe. Sorry about that. I understand why you were upset. Thank you for explaining. Our current plan is the garden cafe at eleven, and I will confirm that in one message."
+    },
+    {
+      "day": 192,
+      "unit": 24,
+      "title": "Choose a focused way to put a problem right",
+      "goal": "I can stay clear about what is missing, ask for useful information and decide whether one step or the whole task needs repeating.",
+      "newItems": [
+        {
+          "word": "calm",
+          "ipa": "/kɑm/",
+          "pos": "adjective",
+          "definition": "Not very worried, angry or excited, and able to respond steadily.",
+          "example": "The helper stayed calm while checking the missing card.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "ask around",
+          "ipa": "/æsk əˈraʊnd/",
+          "pos": "phrasal verb",
+          "definition": "Ask several people for information or help.",
+          "example": "We can ask around at the desks to find the missing card.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "start over",
+          "ipa": "/stɑrt ˈoʊvɚ/",
+          "pos": "fixed phrase",
+          "definition": "Begin an activity again; especially common in American English.",
+          "example": "We may not need to start over if just one card is missing.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "never mind",
+          "ipa": "/ˈnɛvɚ maɪnd/",
+          "pos": "fixed phrase",
+          "definition": "Used here to reassure someone that a small problem need not worry them too much.",
+          "example": "Never mind. We can print the missing card together.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "put things right",
+          "ipa": "/pʊt θɪŋz raɪt/",
+          "pos": "fixed phrase",
+          "definition": "Take action to correct a problem or mistake.",
+          "example": "A replacement name card will help put things right.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "card",
+        "name",
+        "printer",
+        "desk",
+        "mistake"
+      ],
+      "mainWord": {
+        "word": "calm",
+        "ipa": "/kɑm/",
+        "pos": "adjective",
+        "definition": "Not very worried, angry or excited, and able to respond steadily.",
+        "example": "The helper stayed calm while checking the missing card.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Calm has a silent L in this American model. Ask around means ask several people, not necessarily search every place. Start over is an alternative expression for start again, not a newly counted basic concept. Never mind can reassure; it should not replace a clear answer when an important task still needs action.",
+      "wordTask": "What does calm describe about the helper’s response?",
+      "wordSample": "The helper responds steadily rather than becoming very worried or angry.",
+      "expression": "What is the smallest useful step now?",
+      "use": "Choose an action that addresses the actual problem while preserving work already completed.",
+      "context": [
+        "What is the smallest useful step now?",
+        "Print the one missing name card. The other cards are complete."
+      ],
+      "expressionTask": "One name card is missing from a completed set. Ask where it may be, acknowledge a small mistake and agree a focused correction.",
+      "grammar": "Only with a limited quantity",
+      "pattern": "Only + quantity + noun + needs + -ing form",
+      "example": "Only one card needs replacing.",
+      "task": "Only one card ___ replacing.",
+      "answer": "needs",
+      "sound": "Calm has one syllable and no L sound. Around has stress on ROUND. In things, begin with unvoiced TH and finish with a voiced Z sound.",
+      "model": "The calm helper checks the name list.",
+      "dialogue": [
+        "One visitor card is missing. Do we have to start over with the whole set?",
+        "Let us stay calm. What is the smallest useful step now?",
+        "We can ask around at the desks first in case someone has it.",
+        "Good. I checked the list: the other eleven cards are complete.",
+        "I think I forgot to print the last name. My mistake.",
+        "Never mind. We can print that one together and put things right without repeating the finished cards."
+      ],
+      "reading": "Before a class visit, Bella notices one missing name card. The helper stays calm and asks what is actually incomplete. They decide to ask around at the desks before printing another one. Bella then remembers that she omitted the last name. The other eleven cards are complete, so they do not need to start over with the whole set. The helper says, “Never mind. We can print it together.” They put things right by making the one missing card and checking its name. The reassurance is followed by a useful action rather than leaving the task unfinished.",
+      "readingQ": "Why is printing one card a better match to the problem than repeating the whole set?",
+      "readingA": "Only one card is missing; the other eleven are already complete.",
+      "writing": "Write 45–65 words explaining the missing-card problem and its resolution. Include the completed work, the mistake and the focused next action.",
+      "writingSample": "One visitor name card was missing, but the other eleven were complete. We asked around at the desks, then I realized I had not printed the last name. The helper stayed calm and said we could fix that one together. We printed the missing card and checked its name rather than repeating the whole set.",
+      "listening": "We found that eleven cards are complete. Mina’s card was never printed, so only that one is missing. Please print Mina’s card and check the spelling. You do not need to restart the whole twelve-card task.",
+      "question": "What action matches the missing work?",
+      "correct": "Print and check Mina’s one card",
+      "other": "Repeat all twelve completed and missing cards",
+      "speaking": "Help a partner with a small task mistake. Identify the completed work, suggest an information check and agree the smallest useful correction.",
+      "speakingSample": "Let us check what is missing before we start over. Eleven cards are complete, and Mina’s card is absent. We can ask around first; if it was not printed, we only need that one. Never mind—we can put things right by printing it and checking the spelling together.",
+      "transferCheck": {
+        "source": "At a library desk, two green coats have been handed in. Omar’s coat has a spotted lining and a blue stripe on its left sleeve. The other coat has a plain lining and no sleeve stripe. Omar is using a temporary library access card until Friday because his own membership card is missing. Friday is the replacement return deadline, not a promise that the original will be found. His membership number is M42. The desk asks him to send that number and the coat details.",
+        "dictation": "Friday is the return deadline for the temporary card.",
+        "tasks": [
+          [
+            "1 · Give a useful description",
+            "Which features identify Omar’s coat beyond its green color?"
+          ],
+          [
+            "2 · Separate a deadline from a hoped-for result",
+            "Does Friday mean the original membership card will definitely be found by then? Explain."
+          ],
+          [
+            "3 · Ask for a focused next step",
+            "Write one question confirming which membership and coat information the desk needs."
+          ],
+          [
+            "4 · Listen and write",
+            "Write the dictation sentence without changing its meaning to a promised finding date."
+          ],
+          [
+            "5 · Write a helpful message",
+            "Write 40–60 words giving the coat’s identifying features and Omar’s membership number. Confirm when he must return the temporary card and ask about the next update."
+          ]
+        ],
+        "answer": "1. Its spotted lining and the blue stripe on its left sleeve. The other green coat has a plain lining and no stripe. 2. No. Friday is the confirmed temporary-card return deadline, not a promise that the original card will be found. 3. Sample: Do you need my membership number and the coat details before your next check? 4. Friday is the return deadline for the temporary card. 5. Sample: My green coat has a spotted lining and a blue stripe on its left sleeve. My membership number is M42. I understand that I must return the temporary library card by Friday. Please tell me when the next update about my original card will be available."
+      }
+    }
+  ]
+}

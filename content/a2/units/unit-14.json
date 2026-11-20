@@ -1,0 +1,846 @@
+{
+  "number": 14,
+  "title": "Family events and celebrations",
+  "lessons": [
+    {
+      "day": 105,
+      "unit": 14,
+      "title": "Read the order of a wedding day",
+      "goal": "I can distinguish the ceremony from the meal and explain when people will arrive.",
+      "newItems": [
+        {
+          "word": "bride",
+          "ipa": "/braɪd/",
+          "pos": "noun",
+          "definition": "A woman who is getting married or has just got married.",
+          "example": "The bride arrives with her sister.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "groom",
+          "ipa": "/ɡruːm/",
+          "pos": "noun",
+          "definition": "A man who is getting married or has just got married.",
+          "example": "The groom waits near the door.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "wedding",
+          "ipa": "/ˈwɛdɪŋ/",
+          "pos": "noun",
+          "definition": "An event at which two people get married.",
+          "example": "Their wedding is on Saturday.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "ceremony",
+          "ipa": "/ˈsɛrəˌmoʊni/",
+          "pos": "noun",
+          "definition": "A formal event with an arranged order of actions.",
+          "example": "The ceremony begins at eleven.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "get married",
+          "ipa": "/ɡɛt ˈmærid/",
+          "pos": "fixed phrase",
+          "definition": "To begin being married to someone.",
+          "example": "They will get married in June.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "invitation",
+        "guest",
+        "reception",
+        "relative",
+        "married"
+      ],
+      "mainWord": {
+        "word": "bride",
+        "ipa": "/braɪd/",
+        "pos": "noun",
+        "definition": "A woman who is getting married or has just got married.",
+        "example": "The bride arrives with her sister.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Bride is a countable noun: one bride, two brides. Groom also has a plural: grooms. Wedding names the event; married describes a person’s relationship status.",
+      "wordTask": "Which word names the woman getting married, rather than a person invited to watch?",
+      "wordSample": "The bride is the woman getting married; a guest is invited to attend.",
+      "expression": "Are we invited to the ceremony too?",
+      "use": "Check which parts of an event your invitation includes before making arrangements.",
+      "context": [
+        "Are we invited to the ceremony too? I only noticed the meal address.",
+        "Both. Please arrive at the hall by ten forty-five."
+      ],
+      "expressionTask": "An invitation mentions lunch but you are unsure about the earlier event. Ask which parts you can attend.",
+      "grammar": "Before and after with a noun or an action",
+      "pattern": "before/after + noun; before/after + subject + verb",
+      "example": "We will have lunch after the ceremony ends.",
+      "task": "We will have lunch ___ the ceremony ends.",
+      "answer": "after",
+      "sound": "Bride begins with /br/: move straight from the voiced B into R. Keep the final /d/ distinct from the final /t/ in bright. Do not add an extra syllable.",
+      "model": "The bride arrives before the ceremony.",
+      "dialogue": [
+        "The invitation says the wedding starts at eleven. Shall we arrive then?",
+        "Let us arrive fifteen minutes earlier. The ceremony starts at eleven.",
+        "Are we invited to the ceremony too? I only noticed the meal address.",
+        "Yes. The first page gives the hall address; the meal is somewhere else.",
+        "I see. The bride and groom will get married at the hall, then everyone goes to lunch.",
+        "Exactly. I will save both addresses so we do not go to the wrong place."
+      ],
+      "reading": "Maya and Leo will get married on Saturday. Their wedding invitation gives two addresses. The ceremony begins at eleven in a small hall. The bride and groom ask guests to arrive fifteen minutes early. Lunch begins at one at a restaurant across town. Bella first notices only the restaurant address. When she reads the first page again, she finds the hall address. She writes both places in her calendar and leaves time for the journey between them.",
+      "readingQ": "Why does Bella record two addresses?",
+      "readingA": "The ceremony and lunch are at different places.",
+      "writing": "Write a 40–60-word message to another guest. Explain the two locations, the arrival time and what happens after the ceremony.",
+      "writingSample": "Please meet me at the hall at ten forty-five, before the eleven o’clock ceremony. Maya and Leo will get married there. Lunch is at a different address, at one. We should check the journey to the restaurant and leave enough time to get there.",
+      "listening": "The hall doors open at ten thirty. Please take your seat by ten forty-five. The ceremony begins at eleven. Lunch is at one, at the restaurant named on page two of your invitation.",
+      "question": "By what time should guests be in their seats?",
+      "correct": "Ten forty-five",
+      "other": "Eleven o’clock",
+      "speaking": "Use the invitation details to explain the order of the day. Your partner should ask which address to use first.",
+      "speakingSample": "First, go to the hall and take your seat by ten forty-five. The ceremony starts at eleven. After it ends, travel to the restaurant for lunch at one. The restaurant address is on the second page."
+    },
+    {
+      "day": 106,
+      "unit": 14,
+      "title": "Choose a suitable anniversary message",
+      "goal": "I can distinguish a wedding from an anniversary and write a short personal message.",
+      "newItems": [
+        {
+          "word": "anniversary",
+          "ipa": "/ˌænəˈvɝsəri/",
+          "pos": "noun",
+          "definition": "The date in a later year when an important event happened.",
+          "example": "Today is the anniversary of their wedding.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "anniversary card",
+          "ipa": "/ˌænəˈvɝsəri kɑrd/",
+          "pos": "fixed phrase",
+          "definition": "A card sent to celebrate the date of an important event in a later year.",
+          "example": "She chooses an anniversary card for her friends.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "marriage",
+          "ipa": "/ˈmærɪdʒ/",
+          "pos": "noun",
+          "definition": "The relationship between two people who are married.",
+          "example": "They are celebrating twenty years of marriage.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "wedding anniversary",
+          "ipa": "/ˈwɛdɪŋ ˌænəˈvɝsəri/",
+          "pos": "fixed phrase",
+          "definition": "The date in a later year on which a couple were married.",
+          "example": "We sent a card for their wedding anniversary.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "raise a glass",
+          "ipa": "/reɪz ə ɡlæs/",
+          "pos": "fixed phrase",
+          "definition": "To lift a drink as a way of celebrating or wishing someone well.",
+          "example": "We raise a glass of juice to the couple.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "year",
+        "card",
+        "celebrate",
+        "together",
+        "drink"
+      ],
+      "mainWord": {
+        "word": "anniversary",
+        "ipa": "/ˌænəˈvɝsəri/",
+        "pos": "noun",
+        "definition": "The date in a later year when an important event happened.",
+        "example": "Today is the anniversary of their wedding.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Anniversary is countable: anniversaries. It can refer to a wedding or another important event. Marriage describes the relationship; a wedding is the event.",
+      "wordTask": "A shop opened five years ago today. Can today be an anniversary even though no one is getting married?",
+      "wordSample": "Yes. It is the anniversary of the shop’s opening.",
+      "expression": "Here is to another happy year together.",
+      "use": "Offer a warm wish during a celebration. People can use any drink, including water or juice.",
+      "context": [
+        "Here is to another happy year together.",
+        "Thank you. We are pleased you could celebrate with us."
+      ],
+      "expressionTask": "Offer a brief, friendly wish at an anniversary meal without assuming which drink anyone has.",
+      "grammar": "For with a length of time",
+      "pattern": "have or has + past participle + for + period",
+      "example": "They have been married for twenty years.",
+      "task": "They have been married ___ twenty years.",
+      "answer": "for",
+      "sound": "Anniversary has its main stress on VER: an-ni-VER-sa-ry. Couple ends with a quiet syllable /əl/, not a full extra stressed word.",
+      "model": "It is their twentieth wedding anniversary.",
+      "dialogue": [
+        "This card says congratulations on your wedding. Is that right for today?",
+        "They got married twenty years ago. We need an anniversary card.",
+        "Of course. We can mention their twenty years of marriage.",
+        "And add a personal wish, because we know the couple well.",
+        "Shall we raise a glass when everyone has a drink?",
+        "Yes. I have juice, and you can use your water."
+      ],
+      "reading": "Today is a special anniversary for Ana and Sam: they are celebrating twenty years of marriage. Their daughter invites a few friends to dinner. Bella nearly buys a wedding card, then remembers that the couple are not getting married today. She chooses a wedding anniversary card and writes about their kindness to her family. Before the meal, everyone can raise a glass to the couple. Some guests have juice and others have water. The important part is the shared wish.",
+      "readingQ": "Why does Bella choose a different card?",
+      "readingA": "The couple are celebrating an anniversary, not getting married today.",
+      "writing": "Write a 40–60-word anniversary message. Include how long the people have been married and one personal detail. Use invented details if you prefer.",
+      "writingSample": "Happy twentieth wedding anniversary, Ana and Sam. You have been married for twenty years, and you still make time to help your friends. Thank you for welcoming us when we moved here. We hope you enjoy this evening and another happy year together.",
+      "listening": "The dinner is for our tenth wedding anniversary, not our wedding. We got married ten years ago. Please come at seven. We will have a short welcome before eating at seven thirty.",
+      "question": "What are the hosts celebrating?",
+      "correct": "Ten years of marriage",
+      "other": "Their wedding today",
+      "speaking": "Explain why an anniversary card fits this occasion better than a wedding card. Then offer a personal wish.",
+      "speakingSample": "This is their twentieth wedding anniversary. They got married twenty years ago, so a wedding card would describe the wrong occasion. I would thank them for being kind friends and wish them another happy year together."
+    },
+    {
+      "day": 107,
+      "unit": 14,
+      "title": "Prepare a present and check the guests",
+      "goal": "I can describe simple party preparations and distinguish something finished from something still needed.",
+      "newItems": [
+        {
+          "word": "ribbon",
+          "ipa": "/ˈrɪbən/",
+          "pos": "noun",
+          "definition": "A narrow strip of material used for tying or decorating things.",
+          "example": "A blue ribbon goes around the box.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "decorate",
+          "ipa": "/ˈdɛkəˌreɪt/",
+          "pos": "verb",
+          "definition": "To make a place or object look attractive by adding things to it.",
+          "example": "We decorate the room with paper flowers.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "bouquet",
+          "ipa": "/boʊˈkeɪ/",
+          "pos": "noun",
+          "definition": "A group of flowers arranged together for someone to hold or receive.",
+          "example": "She carries a small bouquet.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "wrap a present",
+          "ipa": "/ræp ə ˈprɛzənt/",
+          "pos": "fixed phrase",
+          "definition": "To cover a gift with paper or another suitable material.",
+          "example": "I will wrap a present before the party.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "guest list",
+          "ipa": "/ɡɛst lɪst/",
+          "pos": "fixed phrase",
+          "definition": "A written record of the people invited to an event.",
+          "example": "Check the guest list before making name cards.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "gift",
+        "paper",
+        "guest",
+        "name",
+        "box"
+      ],
+      "mainWord": {
+        "word": "ribbon",
+        "ipa": "/ˈrɪbən/",
+        "pos": "noun",
+        "definition": "A narrow strip of material used for tying or decorating things.",
+        "example": "A blue ribbon goes around the box.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Ribbon can be uncountable material or a countable piece: some ribbon; two ribbons. Decorate changes to decorates, decorated and decorating.",
+      "wordTask": "Name a narrow strip of material used to tie around a gift box.",
+      "wordSample": "A ribbon can be tied around a gift box.",
+      "expression": "What is still left to do?",
+      "use": "Find out which tasks remain after some preparations are finished.",
+      "context": [
+        "What is still left to do?",
+        "We need to wrap the present and check the names. The room is ready."
+      ],
+      "expressionTask": "The room is ready, but you do not know which other tasks remain. Ask your partner, then offer to take one task.",
+      "grammar": "Already and yet for preparations",
+      "pattern": "have/has already + past participle; have/has not + past participle + yet",
+      "example": "We have already decorated the room, but we have not wrapped the present yet.",
+      "task": "We have already decorated the room, but we have not wrapped the present ___.",
+      "answer": "yet",
+      "sound": "The W in wrap is silent: /ræp/. Bouquet has stress on the last syllable: boo-KAY. Look up unfamiliar spellings rather than sounding every written letter.",
+      "model": "Wrap the present and tie the ribbon.",
+      "dialogue": [
+        "I have already decorated the room. What is still left to do?",
+        "The guest list needs checking, and the present is still in its box.",
+        "I can wrap a present while you check the names. Where is the ribbon?",
+        "In the drawer beside the paper. Please use the blue one.",
+        "Is the bouquet for the table or for our guest?",
+        "For our guest. Leave it in water until she arrives."
+      ],
+      "reading": "Bella and Fenrir prepare a small welcome party. They decorate the room first, using paper flowers they can keep for another occasion. The guest list has twelve names, but only eleven name cards are ready. Fenrir checks which name is missing. Bella needs to wrap a present, so she finds some paper and a blue ribbon. A neighbor brings a bouquet for the guest. They leave the flowers in water instead of putting them inside the gift box. Before anyone arrives, they compare their remaining tasks.",
+      "readingQ": "Why does Fenrir check the guest list?",
+      "readingA": "There are twelve guests but only eleven name cards.",
+      "writing": "Write a 40–60-word preparation update. Say what is already done, name two remaining tasks and say who will do them.",
+      "writingSample": "We have already decorated the room with paper flowers. We have not checked all the name cards yet, so Fenrir will compare them with the guest list. I will wrap the present and add the blue ribbon. Please leave the bouquet in water until our guest arrives.",
+      "listening": "The room is ready and the flowers are in water. We still need one name card for Nina. Bella will cover the gift with paper, and Fenrir will write Nina’s card. The blue ribbon is in the drawer.",
+      "question": "Which preparation is still missing?",
+      "correct": "Nina’s name card",
+      "other": "The room decorations",
+      "speaking": "Give a partner a preparation update with already and yet. Include one completed task, one remaining task and who will do it.",
+      "speakingSample": "We have already decorated the room. We have not wrapped the present yet, so I will do that next. Can you check the guest list and finish the missing name card? Then we can compare our lists before the guests arrive."
+    },
+    {
+      "day": 108,
+      "unit": 14,
+      "title": "Plan a short graduation speech",
+      "goal": "I can organize a short celebration speech with a clear beginning, thanks and a final wish.",
+      "newItems": [
+        {
+          "word": "graduation",
+          "ipa": "/ˌɡrædʒuˈeɪʃən/",
+          "pos": "noun",
+          "definition": "The completion of a course at a school, college or university, or the event that celebrates it.",
+          "example": "Her family came to her graduation.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "congratulate",
+          "ipa": "/kənˈɡrætʃəˌleɪt/",
+          "pos": "verb",
+          "definition": "To tell someone you are pleased about something good they have done or received.",
+          "example": "We congratulate her on finishing the course.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "speech",
+          "ipa": "/spiːtʃ/",
+          "pos": "noun",
+          "definition": "A formal talk given to a group of people.",
+          "example": "He prepares a short speech for the family.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "graduation party",
+          "ipa": "/ˌɡrædʒuˈeɪʃən ˈpɑrti/",
+          "pos": "fixed phrase",
+          "definition": "An event where people celebrate someone finishing a course of study.",
+          "example": "The graduation party is at her home.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "give a speech",
+          "ipa": "/ɡɪv ə spiːtʃ/",
+          "pos": "fixed phrase",
+          "definition": "To deliver a prepared talk to a group of listeners.",
+          "example": "She will give a speech before dinner.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "course",
+        "finish",
+        "study",
+        "teacher",
+        "thank"
+      ],
+      "mainWord": {
+        "word": "graduation",
+        "ipa": "/ˌɡrædʒuˈeɪʃən/",
+        "pos": "noun",
+        "definition": "The completion of a course at a school, college or university, or the event that celebrates it.",
+        "example": "Her family came to her graduation.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Graduation is usually uncountable for completing study; a graduation can mean a particular event. Speech is countable: speeches. Say congratulate someone on something.",
+      "wordTask": "What word can name the event celebrating completion of a college course?",
+      "wordSample": "Graduation can name the event celebrating the completion of a course.",
+      "expression": "I would like to thank everyone who helped me.",
+      "use": "Thank the people who supported you during a short talk.",
+      "context": [
+        "I would like to thank everyone who helped me.",
+        "You worked hard too. We are pleased to celebrate with you."
+      ],
+      "expressionTask": "Begin a short thank-you to two people who supported your learning. Make the reason for each thank-you clear.",
+      "grammar": "On followed by an -ing form after congratulate",
+      "pattern": "congratulate + person + on + noun or -ing form",
+      "example": "We congratulate Nina on completing her course.",
+      "task": "We congratulate Nina on ___ her course.",
+      "answer": "completing",
+      "sound": "Speech starts with /sp/ and ends with /tʃ/. Keep it one syllable. In graduation, the strongest syllable is A: grad-u-A-tion.",
+      "model": "I will give a short speech at the graduation party.",
+      "dialogue": [
+        "Nina asked me to give a speech at her graduation party. I do not want it to be too long.",
+        "What do you want the guests to remember?",
+        "That she completed a difficult course while working, and that we are proud of her.",
+        "Begin with that. Then congratulate her and mention one example of her hard work.",
+        "Should I list every lesson she took?",
+        "No. A short example and a warm final wish will be clearer."
+      ],
+      "reading": "Nina finishes her evening course after two years of study. Her family organizes a graduation party at home. Fenrir agrees to give a speech, but his first plan is much too long. Bella asks him to choose one main idea. He decides to congratulate Nina on completing her course while working. He remembers how she studied on the bus instead of giving a list of every class. At the graduation celebration, his speech has a short beginning, one personal example and a final wish. Nina thanks the people who helped her.",
+      "readingQ": "How does Fenrir make his speech shorter and more personal?",
+      "readingA": "He chooses one example of Nina’s effort instead of listing every class.",
+      "writing": "Write a 45–65-word celebration speech. Congratulate someone on finishing a course, include one specific example and end with a wish.",
+      "writingSample": "Nina, we congratulate you on completing your course. You studied after work and even read your notes on the bus. That took real effort. Thank you for showing us that small steps can lead to an important result. We hope you enjoy your graduation party and the next part of your learning.",
+      "listening": "Please keep your talk to two minutes. Begin by congratulating Nina, then give one example of her work. Thank the guests for coming and finish with a wish. Dinner follows the speeches at seven.",
+      "question": "How many examples should the speaker include?",
+      "correct": "One example",
+      "other": "Every class Nina attended",
+      "speaking": "Give a short speech for someone who has finished a course. Use one concrete detail rather than a list of general compliments.",
+      "speakingSample": "Nina, congratulations on finishing your course. I remember you reading your notes on the bus after a long day at work. We are proud of your effort. Thank you for letting us celebrate with you, and good luck with your next plans."
+    },
+    {
+      "day": 109,
+      "unit": 14,
+      "title": "Reply clearly to a party invitation",
+      "goal": "I can accept or decline a simple invitation and check a shared meal arrangement.",
+      "newItems": [
+        {
+          "word": "buffet",
+          "ipa": "/bəˈfeɪ/",
+          "pos": "noun",
+          "definition": "A meal where people choose and serve themselves from food placed on a table.",
+          "example": "There is a buffet in the dining room.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "bring a dish",
+          "ipa": "/brɪŋ ə dɪʃ/",
+          "pos": "fixed phrase",
+          "definition": "To take a prepared food item to a shared meal.",
+          "example": "Each guest can bring a dish for the buffet.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "decline an invitation",
+          "ipa": "/dɪˈklaɪn ən ˌɪnvɪˈteɪʃən/",
+          "pos": "fixed phrase",
+          "definition": "To say politely that you cannot accept a request to attend an event.",
+          "example": "You can decline an invitation and still thank the host.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "at the last minute",
+          "ipa": "/æt ðə læst ˈmɪnɪt/",
+          "pos": "fixed phrase",
+          "definition": "Just before something happens or must be done.",
+          "example": "Tell the host early instead of changing plans at the last minute.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "surprise party",
+          "ipa": "/sərˈpraɪz ˈpɑrti/",
+          "pos": "fixed phrase",
+          "definition": "A party planned without telling the person it celebrates.",
+          "example": "Please do not tell Leo about his surprise party.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "invitation",
+        "reply",
+        "food",
+        "guest",
+        "host"
+      ],
+      "mainWord": {
+        "word": "buffet",
+        "ipa": "/bəˈfeɪ/",
+        "pos": "noun",
+        "definition": "A meal where people choose and serve themselves from food placed on a table.",
+        "example": "There is a buffet in the dining room.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Buffet is countable: a buffet, two buffets. Here dish means prepared food, not the empty plate or bowl. Decline is a polite verb meaning refuse.",
+      "wordTask": "Which meal arrangement lets guests choose food from a table rather than receive a fixed meal at their seat?",
+      "wordSample": "At a buffet, guests choose food from a table.",
+      "expression": "Thank you for asking, but I cannot make it.",
+      "use": "Decline a social invitation politely. In this expression, make it means attend or arrive successfully.",
+      "context": [
+        "Thank you for asking, but I cannot make it.",
+        "Thanks for letting me know. Perhaps we can meet another time."
+      ],
+      "expressionTask": "You cannot attend because you are visiting family. Give a clear, polite reply and thank the host.",
+      "grammar": "Would like to followed by a verb",
+      "pattern": "would like to + base verb",
+      "example": "I would like to come, but I am working that evening.",
+      "task": "I would like ___ come, but I am working that evening.",
+      "answer": "to",
+      "sound": "Buffet has stress on the second syllable: buh-FAY. The final T is silent. Say the final consonant in dish clearly before the next word.",
+      "model": "Could I bring a dish for the buffet?",
+      "dialogue": [
+        "Is Saturday’s meal a buffet? I can bring a dish.",
+        "Yes, but please tell me what you plan to bring so we do not have six desserts.",
+        "I can make a vegetable dish. Will Leo be there?",
+        "Yes, and it is a surprise party for him. Please keep the plan quiet.",
+        "Understood. My sister cannot come. She will reply this evening.",
+        "That helps. It is better to know now than at the last minute."
+      ],
+      "reading": "Bella receives an invitation to Leo’s surprise party. The host plans a buffet and asks guests to bring a dish if they can. Bella offers vegetables and checks the plan before cooking. Her sister needs to decline an invitation to the same event because she is working. She thanks the host and replies that evening. She does not wait until the day of the party: changes at the last minute make it harder to arrange the food. Neither sister mentions the surprise to Leo.",
+      "readingQ": "Why does Bella check what food to bring?",
+      "readingA": "The host needs different dishes rather than many of the same kind.",
+      "writing": "Write a 40–60-word reply accepting or declining the invitation. Make your decision clear and include one practical detail.",
+      "writingSample": "Thank you for inviting me to Leo’s party. I would like to come on Saturday. I can bring a vegetable dish for the buffet if that would help. Please let me know whether someone else is already bringing one. I will keep the surprise quiet.",
+      "listening": "Thanks for offering to cook. We already have two desserts, so vegetables would be helpful. You do not need to bring plates. Please arrive at six, half an hour before Leo. Remember that he does not know about the party.",
+      "question": "What should the guest bring?",
+      "correct": "A vegetable dish",
+      "other": "Another dessert",
+      "speaking": "Reply to the host with a clear decision. If you accept, check one useful detail; if you decline, thank the host and give a brief explanation.",
+      "speakingSample": "Thank you for asking, but I cannot make it on Saturday because I am working. I wanted to tell you early so you could arrange the meal. I hope Leo enjoys the surprise. Perhaps we can celebrate together another day."
+    },
+    {
+      "day": 110,
+      "unit": 14,
+      "title": "Describe a family photograph",
+      "goal": "I can connect an object with a personal memory and explain why it matters.",
+      "newItems": [
+        {
+          "word": "memory",
+          "ipa": "/ˈmɛməri/",
+          "pos": "noun",
+          "definition": "Something remembered from a past experience.",
+          "example": "That picture brings back a happy memory.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "photograph",
+          "ipa": "/ˈfoʊtəˌɡræf/",
+          "pos": "noun",
+          "definition": "A picture made using a camera.",
+          "example": "This photograph shows my cousins in the garden.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "childhood",
+          "ipa": "/ˈtʃaɪldˌhʊd/",
+          "pos": "noun",
+          "definition": "The part of someone’s life when they are a child.",
+          "example": "This picture reminds him of his childhood.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "family reunion",
+          "ipa": "/ˈfæməli riˈjuːnjən/",
+          "pos": "fixed phrase",
+          "definition": "An occasion when members of a family meet again, often after time apart.",
+          "example": "We meet our cousins at a family reunion.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "best wishes",
+          "ipa": "/bɛst ˈwɪʃɪz/",
+          "pos": "fixed phrase",
+          "definition": "A friendly expression of hope that good things will happen to someone.",
+          "example": "She ends her message with best wishes.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "family",
+        "cousin",
+        "picture",
+        "remember",
+        "album"
+      ],
+      "mainWord": {
+        "word": "memory",
+        "ipa": "/ˈmɛməri/",
+        "pos": "noun",
+        "definition": "Something remembered from a past experience.",
+        "example": "That picture brings back a happy memory.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Memory is countable for an experience remembered: one memory, many memories. Photograph and photo mean the same thing here; this is a second word form to recognize, not two objects.",
+      "wordTask": "Which word means a remembered experience rather than a picture of it?",
+      "wordSample": "A memory is a remembered experience. A photograph can help someone remember it.",
+      "expression": "That reminds me of our day in the garden.",
+      "use": "Connect something you see or hear with a past experience.",
+      "context": [
+        "That reminds me of our day in the garden.",
+        "Yes. We were all together for the first time in years."
+      ],
+      "expressionTask": "Choose a personal or invented picture and connect it with one past experience. Explain the connection.",
+      "grammar": "The past continuous for an activity in a picture",
+      "pattern": "was or were + verb-ing",
+      "example": "We were eating in the garden when my cousin took the picture.",
+      "task": "We ___ eating in the garden when my cousin took the picture.",
+      "answer": "were",
+      "sound": "Photograph has its main stress on PHO. The PH spelling represents /f/. Album has stress on AL, and its second syllable is quiet.",
+      "model": "This photograph holds a happy memory.",
+      "dialogue": [
+        "Who is standing beside you in this photograph?",
+        "My cousin. We did not see each other for several years before that visit.",
+        "Was it taken at the family reunion?",
+        "Yes. We were eating in the garden when someone called us together.",
+        "I like the note in the album: best wishes from everyone.",
+        "My aunt wrote that. The words help me remember who was there."
+      ],
+      "reading": "Fenrir opens an old album and finds a photograph from a family reunion. In the picture, his cousins are sitting in a garden. The scene reminds him of his childhood. He remembers the meal, but Bella notices a person at the side whom she does not recognize. Fenrir explains that it is a neighbor who helped prepare the food. A note underneath ends with best wishes from the family. For him, the photograph holds a memory of people helping each other, not just a record of faces. He adds the neighbor’s name while he still remembers it.",
+      "readingQ": "Why does Fenrir add the neighbor’s name?",
+      "readingA": "To preserve who the person was and how they helped.",
+      "writing": "Write a 45–65-word caption for a real or imagined family picture. Include who, where, what people were doing and why you remember it.",
+      "writingSample": "This photograph is from our family reunion in my aunt’s garden. My cousins were eating when our neighbor called everyone together. He helped prepare the food before the meal. I remember how welcome he made us feel. I am adding his name to the album so that we will remember him too.",
+      "listening": "This picture is from last summer, not my birthday. We were in my aunt’s garden for a family reunion. The person on the left is our neighbor. He helped with the food, and my cousin took the photograph.",
+      "question": "Who is the person on the left?",
+      "correct": "The family’s neighbor",
+      "other": "The cousin who took the picture",
+      "speaking": "Describe a picture to someone who cannot see it. Identify two people or objects, say what was happening and explain one memory.",
+      "speakingSample": "This photograph shows my cousins and our neighbor in my aunt’s garden. They were eating at a family reunion. My cousin took the picture after everyone had helped with the food. It reminds me of how welcome our neighbor made us feel."
+    },
+    {
+      "day": 111,
+      "unit": 14,
+      "title": "Include people in a celebration",
+      "goal": "I can invite someone into a group activity while respecting their preferences.",
+      "newItems": [
+        {
+          "word": "greeting",
+          "ipa": "/ˈɡriːtɪŋ/",
+          "pos": "noun",
+          "definition": "Words or actions used when meeting or welcoming someone.",
+          "example": "She gives each guest a friendly greeting.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "take a group photo",
+          "ipa": "/teɪk ə ɡruːp ˈfoʊtoʊ/",
+          "pos": "fixed phrase",
+          "definition": "To make a photograph showing several people together.",
+          "example": "We can take a group photo after lunch.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "write a card",
+          "ipa": "/raɪt ə kɑrd/",
+          "pos": "fixed phrase",
+          "definition": "To put a short personal message in a card for someone.",
+          "example": "Let us write a card for our host.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "save a seat",
+          "ipa": "/seɪv ə siːt/",
+          "pos": "fixed phrase",
+          "definition": "To keep a place for someone who will sit there later.",
+          "example": "Can you save a seat for my sister?",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "join the celebration",
+          "ipa": "/dʒɔɪn ðə ˌsɛləˈbreɪʃən/",
+          "pos": "fixed phrase",
+          "definition": "To take part in an event marking a happy occasion.",
+          "example": "Our neighbor can join the celebration after work.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "guest",
+        "neighbor",
+        "seat",
+        "message",
+        "photo"
+      ],
+      "mainWord": {
+        "word": "greeting",
+        "ipa": "/ˈɡriːtɪŋ/",
+        "pos": "noun",
+        "definition": "Words or actions used when meeting or welcoming someone.",
+        "example": "She gives each guest a friendly greeting.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Greeting is a countable noun: greetings. Greet is the verb. A greeting can be spoken or written; it does not have to involve touching someone.",
+      "wordTask": "What is the noun for words or actions used to welcome someone?",
+      "wordSample": "A greeting is used to welcome someone.",
+      "expression": "Would you like to be in the picture?",
+      "use": "Offer someone a choice before including them in a photograph.",
+      "context": [
+        "Would you like to be in the picture?",
+        "No, thank you. I am happy to help take it instead."
+      ],
+      "expressionTask": "Ask a guest whether they want to be in a photo. Respond politely if they prefer not to.",
+      "grammar": "Would like followed by a noun or to plus a verb",
+      "pattern": "Would you like + noun? Or: Would you like to + verb?",
+      "example": "Would you like to join us?",
+      "task": "Would you like ___ join us?",
+      "answer": "to",
+      "sound": "Greeting begins with /ɡr/. Keep the long /iː/ sound in greet. In group photo, do not add a vowel between the final P and the following F sound.",
+      "model": "A warm greeting can help. Would you like to be in the group photo?",
+      "dialogue": [
+        "I do not know many people here. Where should I sit?",
+        "Come with me. I can save a seat beside mine.",
+        "Thank you. Everyone gave me a kind greeting at the door.",
+        "We are glad you could join the celebration. Would you like to be in the picture?",
+        "I would rather take it, if that is all right.",
+        "Of course. Later we can write a card for the host together."
+      ],
+      "reading": "A new neighbor arrives late and receives a warm greeting. Bella offers to save a seat so the guest can join the celebration without searching for a place alone. After lunch, the guests want to take a group photo. They ask who would like to be included rather than pulling everyone into the picture. The new neighbor prefers to hold the camera. Later, several guests write a card to thank the host. Everyone can take part in a way that feels comfortable, and nobody has to appear in the photograph.",
+      "readingQ": "How can the new neighbor take part without appearing in the photograph?",
+      "readingA": "The neighbor can take the photo and help write the thank-you card.",
+      "writing": "Write a 40–60-word welcome message for a new guest. Offer a place to sit, mention an activity and make clear that taking part is a choice.",
+      "writingSample": "Welcome to our celebration. I can save a seat beside mine if you would like to sit with someone you know. After lunch, we are planning a group photo. You can be in it, help take it or leave that activity out. We are glad you are here.",
+      "listening": "We are taking a picture in five minutes. Please join us if you would like to be in it. If you prefer not to appear, you can stay at your table. Nina has offered to hold the camera, so we do not need another photographer.",
+      "question": "What can guests do if they do not want to be in the photo?",
+      "correct": "Stay at their table",
+      "other": "Hold the camera instead of Nina",
+      "speaking": "Welcome a new guest, offer one practical choice and invite them into an activity without insisting.",
+      "speakingSample": "Welcome. Would you like to sit beside me? I can save a seat for you. We will take a photo later, but you do not have to be in it. You could help us write a card for the host if you prefer."
+    },
+    {
+      "day": 112,
+      "unit": 14,
+      "title": "Follow up after a family event",
+      "goal": "I can write a clear thank-you message, keep an agreed action and explain a photo choice.",
+      "newItems": [
+        {
+          "word": "thank-you note",
+          "ipa": "/ˈθæŋk juː noʊt/",
+          "pos": "fixed phrase",
+          "definition": "A short written message expressing thanks for something someone did.",
+          "example": "I sent a thank-you note after the meal.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "all the best",
+          "ipa": "/ɔl ðə bɛst/",
+          "pos": "fixed phrase",
+          "definition": "A friendly expression used to wish someone well or close a message.",
+          "example": "She ends her note with all the best.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "keep a promise",
+          "ipa": "/kiːp ə ˈprɑmɪs/",
+          "pos": "fixed phrase",
+          "definition": "To do what you said you would do.",
+          "example": "I keep a promise when I send the pictures as agreed.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "say goodbye to",
+          "ipa": "/seɪ ɡʊdˈbaɪ tuː/",
+          "pos": "fixed phrase",
+          "definition": "To speak farewell words to a person when leaving.",
+          "example": "We say goodbye to the host before leaving.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "in the background",
+          "ipa": "/ɪn ðə ˈbækˌɡraʊnd/",
+          "pos": "fixed phrase",
+          "definition": "In the part of a picture or scene behind the main people or objects.",
+          "example": "A neighbor is visible in the background of the photo.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "message",
+        "picture",
+        "send",
+        "agree",
+        "group"
+      ],
+      "mainWord": {
+        "word": "thank-you note",
+        "ipa": "/ˈθæŋk juː noʊt/",
+        "pos": "fixed phrase",
+        "definition": "A short written message expressing thanks for something someone did.",
+        "example": "I sent a thank-you note after the meal.",
+        "category": "fixed_phrase",
+        "status": "new"
+      },
+      "mainWordForms": "Thank-you is hyphenated before a noun such as note or card. Keep changes to kept in the past; kept is not a second new verb. Background is a noun.",
+      "wordTask": "Name a short written message sent to thank a host after an event.",
+      "wordSample": "A thank-you note is a short written message of thanks.",
+      "expression": "Is it all right if I share this photo?",
+      "use": "Ask before sending or posting a photograph of another person. A yes for one use is not a yes for every use.",
+      "context": [
+        "Is it all right if I share this photo?",
+        "Please send it only to the family group, not to a public page."
+      ],
+      "expressionTask": "Ask permission to share a photograph. Specify who would see it and respond to a request to keep it private.",
+      "grammar": "If for a possible situation and its result",
+      "pattern": "If + present simple, will + base verb",
+      "example": "If you agree, I will send the photo to the family group.",
+      "task": "If you agree, I ___ send the photo to the family group.",
+      "answer": "will",
+      "sound": "In thank-you, TH is the unvoiced /θ/: let the air pass gently between the tongue tip and the teeth. Do not change it to T or S. Keep the second syllable of background quiet.",
+      "model": "I wrote a thank-you note. Thank you for having us.",
+      "dialogue": [
+        "Before we say goodbye to the host, shall we ask about the photo?",
+        "Yes. Our neighbor is in the background, and we have not asked her yet.",
+        "Is it all right if I share this photo in our family group?",
+        "She says that is fine, but please do not put it on a public page.",
+        "Then I will keep that promise. I will also send a thank-you note tomorrow.",
+        "Good idea. Mention the meal and her help, so the thanks are personal."
+      ],
+      "reading": "Before leaving, Bella wants to say goodbye to the host and check one last detail. A neighbor appears in the background of the group picture. The neighbor agrees to a copy in the private family group, but not on a public page. Bella plans to keep a promise by respecting that limit. The next day, she sends a thank-you note naming the meal and the welcome she enjoyed. She closes with all the best. She sends the picture only to the agreed group, rather than treating one permission as permission for every use.",
+      "readingQ": "What limit does Bella agree to respect?",
+      "readingA": "She can share the photo in the private family group, but not on a public page.",
+      "writing": "Write a 45–65-word thank-you note. Mention one specific detail, confirm an agreed action and close warmly. Do not include private contact details.",
+      "writingSample": "Thank you for welcoming us yesterday. I enjoyed the shared meal and talking with your neighbors. As agreed, I will send the photograph only to the private family group. I will not put it on a public page. Please thank everyone who helped prepare the food. All the best, Bella.",
+      "listening": "You can send this picture to the private family group. Please do not post it publicly because another guest is visible behind us. I have not asked that guest about public sharing. Thank you for checking before sending it.",
+      "question": "Which use has been agreed?",
+      "correct": "Sending the photo to the private family group",
+      "other": "Posting the photo on a public page",
+      "speaking": "Explain your plan after the event: thank the host, say who may see the photograph and describe how you will respect the agreement.",
+      "speakingSample": "I will thank the host for the meal and the warm welcome. I have permission to send the picture to our private family group, so that is what I will do. I will not post it publicly. Another guest appears behind us, and we have not asked about that use."
+    }
+  ]
+}

@@ -1,0 +1,995 @@
+{
+ "number": 30,
+ "title": "Final transfer checks and consolidation",
+ "lessons": [
+  {
+   "unit": 30,
+   "day": 233,
+   "title": "Plan a goodbye party for a teacher",
+   "goal": "I can plan a goodbye party and invite people to it.",
+   "newItems": [
+    {
+     "word": "hug",
+     "ipa": "/hʌɡ/",
+     "pos": "verb",
+     "definition": "A warm way to say hello or goodbye with your arms.",
+     "example": "We will give Ms. Reed a big hug.",
+     "category": "new_word",
+     "status": "new"
+    },
+    {
+     "word": "silly",
+     "ipa": "/ˈsɪli/",
+     "pos": "adjective",
+     "definition": "Funny in a happy and not serious way.",
+     "example": "We can play a silly game at the party.",
+     "category": "new_word",
+     "status": "new"
+    },
+    {
+     "word": "come and join us",
+     "ipa": "/kʌm ənd dʒɔɪn ʌs/",
+     "pos": "fixed phrase",
+     "definition": "A friendly way to ask people to come to a party or a game.",
+     "example": "Come and join us at the party.",
+     "category": "fixed_phrase",
+     "status": "new"
+    },
+    {
+     "word": "a goodbye party",
+     "ipa": "/ə ˈɡʊdˌbaɪ ˈpɑrti/",
+     "pos": "fixed phrase",
+     "definition": "A party to say goodbye to a person who is leaving.",
+     "example": "We plan a goodbye party for Ms. Reed.",
+     "category": "fixed_phrase",
+     "status": "new"
+    },
+    {
+     "word": "take a look",
+     "ipa": "/teɪk ə lʊk/",
+     "pos": "fixed phrase",
+     "definition": "A way to ask someone to look at something.",
+     "example": "Take a look at our plan for the party.",
+     "category": "fixed_phrase",
+     "status": "new"
+    }
+   ],
+   "reviewWords": [
+    "friend",
+    "party",
+    "teacher",
+    "school",
+    "morning"
+   ],
+   "mainWord": {
+    "word": "hug",
+    "ipa": "/hʌɡ/",
+    "pos": "verb",
+    "definition": "A warm way to say hello or goodbye with your arms.",
+    "example": "We will give Ms. Reed a big hug.",
+    "category": "new_word",
+    "status": "new"
+   },
+   "mainWordForms": "Hug is a verb. The past is hugged. A hug is a warm way to say hello or goodbye with your arms.",
+   "pronunciationTarget": {
+    "word": "hug",
+    "ipa": "/hʌɡ/"
+   },
+   "expression": "Come and join us at the goodbye party.",
+   "use": "Plan a goodbye party and invite people to it.",
+   "expressionTask": "Tell Noah about the goodbye party. Invite him to join us.",
+   "grammar": "Come and join us at + noun",
+   "pattern": "Come and join us at + noun",
+   "task": "Come and join us ___ the party.",
+   "answer": "at",
+   "example": "Come and join us at the party.",
+   "context": [
+    "Ms. Reed is leaving our school next week. The class wants to plan a goodbye party for her.",
+    "Come and join us at the goodbye party. Take a look at our plan for Friday."
+   ],
+   "dialogue": [
+    "Ms. Reed is leaving our school next week. Let us plan a goodbye party for her.",
+    "Good idea. Come and join us at the party on Friday. We can sing songs.",
+    "Yes. We can play a silly game too. What food do we need?",
+    "Let us take a look at our plan. We need a cake and drinks.",
+    "I will bring a cake. Can you bring the drinks?",
+    "Yes. At the party, we will give Ms. Reed a hug and say thank you."
+   ],
+   "listening": "Ms. Reed is leaving our school next week. Mia and Noah plan a goodbye party for her. They will sing songs and play a silly game. Come and join us at the party. They will give Ms. Reed a hug and say thank you.",
+   "question": "When is the goodbye party?",
+   "correct": "On Friday",
+   "other": "On Sunday morning",
+   "reading": "Ms. Reed is leaving our school next week. Her class wants to plan a goodbye party for her. Mia says, “Come and join us at the party. We can sing songs and play a silly game.” Noah says, “Good idea. Let us take a look at our plan. We need food and drinks.” Mia smiles and says, “Yes. I will bring a cake. You can bring drinks.” Noah says, “Good. At the party, we will give Ms. Reed a hug and say thank you. She is a good teacher, and we will miss her.”",
+   "readingQ": "What will they give Ms. Reed at the party?",
+   "readingA": "A hug.",
+   "speaking": "Plan a goodbye party with a partner. Say who the party is for, say what you will do, and invite your partner to join.",
+   "speakingSample": "We want to plan a goodbye party for Ms. Reed. Come and join us at the party on Friday. We can sing songs and play a silly game. Let us take a look at our plan. We will give Ms. Reed a hug and say thank you.",
+   "writing": "Write 45–65 words about a goodbye party for a teacher. Say who the party is for, say what you will do, and invite people to join.",
+   "writingSample": "Ms. Reed is leaving our school next week. Her class wants to plan a goodbye party for her. Mia says, “Come and join us at the party. We can sing songs and play a silly game.” Noah says, “Good idea. Let us take a look at our plan.” At the party, we will give Ms. Reed a hug and say thank you.",
+   "sound": "Hug has its strongest beat on HUG. In silly, say SIL clearly. In take a look, say LOOK clearly at the end.",
+   "model": "Come and join us at the party. We will give Ms. Reed a hug.",
+   "wordSample": "We will give Ms. Reed a big hug.",
+   "wordTask": "What will the class give Ms. Reed?"
+  },
+  {
+   "unit": 30,
+   "day": 234,
+   "title": "Ask about a swimming class on the phone",
+   "goal": "I can ask for information about a class on the phone.",
+   "newItems": [
+    {
+     "word": "brave",
+     "ipa": "/breɪv/",
+     "pos": "adjective",
+     "definition": "Not afraid of something new or difficult.",
+     "example": "Be brave and try the swimming class.",
+     "category": "new_word",
+     "status": "new"
+    },
+    {
+     "word": "changing room",
+     "ipa": "/ˈtʃeɪndʒɪŋ rum/",
+     "pos": "fixed phrase",
+     "definition": "A small room where you change your clothes.",
+     "example": "You can change in the changing room.",
+     "category": "fixed_phrase",
+     "status": "new"
+    },
+    {
+     "word": "per month",
+     "ipa": "/pɚ mʌnθ/",
+     "pos": "fixed phrase",
+     "definition": "A way to say the price for one month.",
+     "example": "The class costs ten dollars per month.",
+     "category": "fixed_phrase",
+     "status": "new"
+    },
+    {
+     "word": "hurry up",
+     "ipa": "/ˈhɚi ʌp/",
+     "pos": "fixed phrase",
+     "definition": "A way to tell someone to be quick.",
+     "example": "Hurry up, Leo. The class starts at four.",
+     "category": "fixed_phrase",
+     "status": "new"
+    },
+    {
+     "word": "by myself",
+     "ipa": "/baɪ maɪˈsɛlf/",
+     "pos": "fixed phrase",
+     "definition": "A way to say you do something alone, with no other people.",
+     "example": "I go to the class by myself.",
+     "category": "fixed_phrase",
+     "status": "new"
+    }
+   ],
+   "reviewWords": [
+    "friend",
+    "morning",
+    "class",
+    "phone",
+    "week"
+   ],
+   "mainWord": {
+    "word": "brave",
+    "ipa": "/breɪv/",
+    "pos": "adjective",
+    "definition": "Not afraid of something new or difficult.",
+    "example": "Be brave and try the swimming class.",
+    "category": "new_word",
+    "status": "new"
+   },
+   "mainWordForms": "Brave is an adjective. A brave person is not afraid of something new. Be brave and try the class.",
+   "pronunciationTarget": {
+    "word": "brave",
+    "ipa": "/breɪv/"
+   },
+   "expression": "I go to the class by myself.",
+   "use": "Ask for information about a class on the phone.",
+   "expressionTask": "Phone the sports centre. Ask about the class and say you go by yourself.",
+   "grammar": "It costs + money + per month",
+   "pattern": "It costs ten dollars per month",
+   "task": "The class costs ten dollars ___ month.",
+   "answer": "per",
+   "example": "The class costs ten dollars per month.",
+   "context": [
+    "Leo phones the sports centre to ask about a swimming class for children.",
+    "I go to the class by myself. The class costs ten dollars per month."
+   ],
+   "photo": {
+    "id": "40719514",
+    "asset": "assets/a2-photos/40719514.jpg",
+    "sourceURL": "https://www.pexels.com/photo/swimming-lesson-at-outdoor-pool-with-coach-40719514/",
+    "credit": "Skytech Aviation · Pexels",
+    "licenseURL": "https://www.pexels.com/license/",
+    "caption": "Children learn to swim with their coach in an outdoor pool.",
+    "alt": "Children learning to swim with a coach in an outdoor pool.",
+    "fit": "cover",
+    "focalY": 0.5,
+    "dimensions": [
+     1400,
+     933
+    ]
+   },
+   "dialogue": [
+    "Hurry up, Leo. Phone the sports centre now.",
+    "Hello. I want to join a swimming class. How much does it cost?",
+    "It costs ten dollars per month. How old are you?",
+    "I am nine years old. Where can I change my clothes?",
+    "You can change in the changing room. Be brave and try the class.",
+    "Thank you. I will come on Monday. I go to the class by myself."
+   ],
+   "listening": "Leo phones the sports centre to ask about a swimming class. It costs ten dollars per month. He can change in the changing room. Leo is brave and he will try the class. Mum says, “Hurry up, Leo. The class starts at four.”",
+   "question": "How much does the swimming class cost?",
+   "correct": "Ten dollars per month",
+   "other": "Ten dollars per week",
+   "reading": "Leo phones the sports centre to ask about a swimming class for children. A man says, “Hello. How can I help you?” Leo says, “I want to join a swimming class. How much does it cost?” The man says, “It costs ten dollars per month. You can change in the changing room. Be brave and try the class.” Leo smiles and says, “Good. I go to the class by myself. Mum says, ‘Hurry up, Leo. The class starts at four.’” Leo says, “Thank you. I am happy. I will see you on Monday.”",
+   "readingQ": "Where can Leo change his clothes?",
+   "readingA": "In the changing room.",
+   "speaking": "Ask about a swimming class on the phone with a partner. Ask the price, ask where to change, and say you will go by yourself.",
+   "speakingSample": "I want to join a swimming class. How much does it cost? It costs ten dollars per month. You can change in the changing room. Be brave and try the class. I go to the class by myself. Mum says, “Hurry up, Leo. The class starts at four.”",
+   "writing": "Write 45–65 words about a phone call to a sports centre. Ask about a swimming class, ask the price, and say you will go by yourself.",
+   "writingSample": "Leo phones the sports centre to ask about a swimming class for children. He says, “I want to join a swimming class. How much does it cost?” The man says, “It costs ten dollars per month. You can change in the changing room. Be brave and try the class.” Leo says, “Good. I go to the class by myself.”",
+   "sound": "Brave has its strongest beat on BRAVE. In changing room, say CHANG clearly. In per month, say MONTH clearly at the end.",
+   "model": "Be brave and try the class. You can change in the changing room.",
+   "wordSample": "Be brave and try the class.",
+   "wordTask": "What should Leo be?"
+  },
+  {
+   "unit": 30,
+   "day": 235,
+   "title": "Choose a holiday: mountains or seaside",
+   "goal": "I can choose a holiday and say why I prefer it.",
+   "newItems": [
+    {
+     "word": "narrow",
+     "ipa": "/ˈnæroʊ/",
+     "pos": "adjective",
+     "definition": "Not wide; a narrow road is small from side to side.",
+     "example": "The path to the lake is narrow.",
+     "category": "new_word",
+     "status": "new"
+    },
+    {
+     "word": "silent",
+     "ipa": "/ˈsaɪlənt/",
+     "pos": "adjective",
+     "definition": "Very quiet, with no sound.",
+     "example": "The lake is silent in the morning.",
+     "category": "new_word",
+     "status": "new"
+    },
+    {
+     "word": "strange",
+     "ipa": "/streɪndʒ/",
+     "pos": "adjective",
+     "definition": "Not usual; something you do not know or do not expect.",
+     "example": "There is a strange old house near the lake.",
+     "category": "new_word",
+     "status": "new"
+    },
+    {
+     "word": "shy",
+     "ipa": "/ʃaɪ/",
+     "pos": "adjective",
+     "definition": "Quiet with new people; a shy person does not talk a lot.",
+     "example": "I am a little shy, but I like to meet new people.",
+     "category": "new_word",
+     "status": "new"
+    },
+    {
+     "word": "I'd prefer",
+     "ipa": "/aɪd prəˈfɚ/",
+     "pos": "fixed phrase",
+     "definition": "A polite way to say you like one thing more than another.",
+     "example": "I'd prefer the mountains.",
+     "category": "fixed_phrase",
+     "status": "new"
+    }
+   ],
+   "reviewWords": [
+    "friend",
+    "weekend",
+    "mountain",
+    "trip",
+    "weather"
+   ],
+   "mainWord": {
+    "word": "narrow",
+    "ipa": "/ˈnæroʊ/",
+    "pos": "adjective",
+    "definition": "Not wide; a narrow road is small from side to side.",
+    "example": "The path to the lake is narrow.",
+    "category": "new_word",
+    "status": "new"
+   },
+   "mainWordForms": "Narrow is an adjective. A narrow road is not wide. The path to the lake is narrow.",
+   "pronunciationTarget": {
+    "word": "narrow",
+    "ipa": "/ˈnæroʊ/"
+   },
+   "expression": "I'd prefer the mountains.",
+   "use": "Choose a holiday and say why you prefer it.",
+   "expressionTask": "Tell Noah about the holiday. Say you prefer the mountains.",
+   "grammar": "I'd prefer + noun",
+   "pattern": "I'd prefer the mountains",
+   "task": "I'd prefer the ___.",
+   "answer": "mountains",
+   "example": "I'd prefer the mountains.",
+   "context": [
+    "Mia and Noah plan a holiday. They can go to the mountains or to the seaside.",
+    "I'd prefer the mountains. The lake is silent, and the path is narrow."
+   ],
+   "photo": {
+    "id": "163912",
+    "asset": "assets/a2-photos/163912.jpg",
+    "sourceURL": "https://www.pexels.com/photo/green-island-surrounded-by-water-163912/",
+    "credit": "Bob Krustev · Pexels",
+    "licenseURL": "https://www.pexels.com/license/",
+    "caption": "A calm lake lies silent in the morning between misty mountains.",
+    "alt": "A still mountain lake surrounded by misty mountains.",
+    "fit": "cover",
+    "focalY": 0.5,
+    "dimensions": [
+     1400,
+     846
+    ]
+   },
+   "dialogue": [
+    "We can go to the mountains or to the seaside. Which holiday do you like?",
+    "I'd prefer the mountains. The lake is silent in the morning.",
+    "Yes, but the path is narrow. Is it a good place for us?",
+    "Yes. There is a strange old house near the lake. We can see it.",
+    "I am a little shy, but I like to meet new people on holiday.",
+    "Good. Let us go to the mountains on Saturday."
+   ],
+   "listening": "Mia and Noah plan a holiday. They can go to the mountains or to the seaside. Mia says, “I'd prefer the mountains. The lake is silent, and the path is narrow.” Noah likes the seaside, but Mia likes the mountains. They will go on Saturday.",
+   "question": "What does Mia prefer?",
+   "correct": "The mountains",
+   "other": "The seaside",
+   "reading": "Mia and Noah plan a holiday. They can go to the mountains or to the seaside. Mia says, “I'd prefer the mountains. The lake is silent in the morning, and the path is narrow.” Noah says, “I like the seaside. But the mountains are good too. Is there a strange old house near the lake?” Mia says, “Yes. It is very old, but it is a good place to see. I am a little shy, but I like to meet new people.” Noah says, “Good. Let us go to the mountains on Saturday.”",
+   "readingQ": "What is near the lake?",
+   "readingA": "A strange old house.",
+   "speaking": "Choose a holiday with a partner. Say the two places, say what you prefer, and say why.",
+   "speakingSample": "We plan a holiday. We can go to the mountains or to the seaside. I'd prefer the mountains. The lake is silent in the morning, and the path is narrow. There is a strange old house near the lake. I am shy, but I like to meet new people.",
+   "writing": "Write 45–65 words about a holiday choice. Say the two places, say what you prefer, and say why.",
+   "writingSample": "Mia and Noah plan a holiday. They can go to the mountains or to the seaside. Mia says, “I'd prefer the mountains. The lake is silent in the morning, and the path is narrow.” Noah says, “I like the seaside.” Mia says, “There is a strange old house near the lake. I am a little shy, but I like to meet new people.”",
+   "sound": "Narrow has its strongest beat on NAR. In silent, say SI clearly. In I'd prefer, say FER clearly at the end.",
+   "model": "The path is narrow and silent. I'd prefer the mountains.",
+   "wordSample": "The path to the lake is narrow.",
+   "wordTask": "What is narrow?"
+  },
+  {
+   "unit": 30,
+   "day": 236,
+   "title": "Start a community garden",
+   "goal": "I can plan a community garden and say what we will do.",
+   "newItems": [
+    {
+     "word": "seed",
+     "ipa": "/sid/",
+     "pos": "noun",
+     "definition": "A small thing you put in the ground; a plant grows from it.",
+     "example": "Put the seed in the ground.",
+     "category": "new_word",
+     "status": "new"
+    },
+    {
+     "word": "plant",
+     "ipa": "/plænt/",
+     "pos": "verb",
+     "definition": "To put a seed in the ground so it can grow.",
+     "example": "We plant seeds in the spring.",
+     "category": "new_word",
+     "status": "new"
+    },
+    {
+     "word": "dig",
+     "ipa": "/dɪɡ/",
+     "pos": "verb",
+     "definition": "To make a hole in the ground with your hands or a tool.",
+     "example": "I can dig the ground on Saturday.",
+     "category": "new_word",
+     "status": "new"
+    },
+    {
+     "word": "grow vegetables",
+     "ipa": "/ɡroʊ ˈvɛdʒtəbəlz/",
+     "pos": "fixed phrase",
+     "definition": "A way to say you make vegetables grow in a garden.",
+     "example": "We can grow vegetables here.",
+     "category": "fixed_phrase",
+     "status": "new"
+    },
+    {
+     "word": "water the plants",
+     "ipa": "/ˈwɔtɚ ðə plænts/",
+     "pos": "fixed phrase",
+     "definition": "A way to say you give water to plants so they can grow.",
+     "example": "We plant seeds and water the plants every week.",
+     "category": "fixed_phrase",
+     "status": "new"
+    }
+   ],
+   "reviewWords": [
+    "friend",
+    "school",
+    "time",
+    "help",
+    "week"
+   ],
+   "mainWord": {
+    "word": "seed",
+    "ipa": "/sid/",
+    "pos": "noun",
+    "definition": "A small thing you put in the ground; a plant grows from it.",
+    "example": "Put the seed in the ground.",
+    "category": "new_word",
+    "status": "new"
+   },
+   "mainWordForms": "Seed is a noun. The plural is seeds. A seed is small, and a plant grows from a seed.",
+   "pronunciationTarget": {
+    "word": "seed",
+    "ipa": "/sid/"
+   },
+   "expression": "We can grow vegetables here.",
+   "use": "Plan a community garden and say what we will do.",
+   "expressionTask": "Tell Ana about the garden. Say you can grow vegetables here.",
+   "grammar": "We can grow + noun",
+   "pattern": "We can grow vegetables in the garden",
+   "task": "We can grow ___ in the garden.",
+   "answer": "vegetables",
+   "example": "We can grow vegetables in the garden.",
+   "context": [
+    "Mia, Noah, Leo and Ana want to start a garden on their street.",
+    "We can grow vegetables here. We plant seeds and water the plants every week."
+   ],
+   "photo": {
+    "id": "13059844",
+    "asset": "assets/a2-photos/13059844.jpg",
+    "sourceURL": "https://www.pexels.com/photo/friends-playing-at-the-garden-13059844/",
+    "credit": "Rene Terp · Pexels",
+    "licenseURL": "https://www.pexels.com/license/",
+    "caption": "Children and an adult garden together in a lush green garden.",
+    "alt": "Children and an adult gardening together in a green garden.",
+    "fit": "cover",
+    "focalY": 0.5,
+    "dimensions": [
+     1400,
+     933
+    ]
+   },
+   "dialogue": [
+    "We want to start a garden on our street. What can we grow?",
+    "We can grow vegetables here. We plant seeds and water the plants every week.",
+    "Good idea. I can dig the ground on Saturday. What seeds do we need?",
+    "We need seeds for carrots and beans. Can you bring them?",
+    "Yes. I will bring the seeds on Saturday morning.",
+    "Good. Our garden will be very good for our street."
+   ],
+   "listening": "Mia, Noah, Leo and Ana want to start a garden on their street. They can grow vegetables there. They plant seeds and water the plants every week. Noah can dig the ground on Saturday. Ana will bring seeds for carrots and beans.",
+   "question": "What will Noah do on Saturday?",
+   "correct": "Dig the ground",
+   "other": "Bring the seeds",
+   "reading": "Mia, Noah, Leo and Ana want to start a garden on their street. The garden is near their school. Mia says, “We can grow vegetables here. We plant seeds and water the plants every week.” Noah says, “Good idea. I can dig the ground on Saturday. We need seeds and water.” Ana says, “I will bring seeds for carrots and beans. We can grow vegetables for our families.” Leo says, “Yes. We plant seeds in the spring, and we water the plants every week. Our garden will be very good for our street.”",
+   "readingQ": "What can they grow in the garden?",
+   "readingA": "Vegetables.",
+   "speaking": "Plan a garden with a partner. Say what you will grow, say who will dig, and say what you need.",
+   "speakingSample": "We want to start a garden on our street. We can grow vegetables here. We plant seeds and water the plants every week. I can dig the ground on Saturday. Ana will bring seeds for carrots and beans. Our garden will be very good for our street.",
+   "writing": "Write 45–65 words about a garden on your street. Say what you will grow, say who will dig, and say what you need.",
+   "writingSample": "Mia, Noah, Leo and Ana want to start a garden on their street. Mia says, “We can grow vegetables here. We plant seeds and water the plants every week.” Noah says, “Good idea. I can dig the ground on Saturday. We need seeds and water.” Ana will bring seeds for carrots and beans. Our garden will be very good for our street.",
+   "sound": "Seed has its strongest beat on SEED. In plant, say PLANT clearly. In water the plants, say PLANTS clearly at the end.",
+   "model": "Put the seed in the ground. We plant seeds and water the plants.",
+   "wordSample": "Put the seed in the ground.",
+   "wordTask": "Where do we put the seed?"
+  },
+  {
+   "unit": 30,
+   "day": 237,
+   "title": "Tell the story of a day at the zoo",
+   "goal": "I can tell the story of a day at the zoo and aquarium.",
+   "newItems": [
+    {
+     "word": "penguin",
+     "ipa": "/ˈpɛŋɡwɪn/",
+     "pos": "noun",
+     "definition": "A black and white bird that cannot fly but can swim.",
+     "example": "We saw a penguin at the zoo.",
+     "category": "new_word",
+     "status": "new"
+    },
+    {
+     "word": "owl",
+     "ipa": "/aʊl/",
+     "pos": "noun",
+     "definition": "A bird that sleeps in the day and is awake at night.",
+     "example": "The owl sleeps in the day.",
+     "category": "new_word",
+     "status": "new"
+    },
+    {
+     "word": "eagle",
+     "ipa": "/ˈiɡəl/",
+     "pos": "noun",
+     "definition": "A big bird with a strong beak that flies very high.",
+     "example": "We also saw an eagle.",
+     "category": "new_word",
+     "status": "new"
+    },
+    {
+     "word": "whale",
+     "ipa": "/weɪl/",
+     "pos": "noun",
+     "definition": "A very big animal that lives in the sea.",
+     "example": "We saw a whale and a dolphin.",
+     "category": "new_word",
+     "status": "new"
+    },
+    {
+     "word": "dolphin",
+     "ipa": "/ˈdɑlfɪn/",
+     "pos": "noun",
+     "definition": "A clever sea animal that can swim and jump very well.",
+     "example": "We saw a whale and a dolphin.",
+     "category": "new_word",
+     "status": "new"
+    }
+   ],
+   "reviewWords": [
+    "friend",
+    "morning",
+    "story",
+    "week",
+    "family"
+   ],
+   "mainWord": {
+    "word": "penguin",
+    "ipa": "/ˈpɛŋɡwɪn/",
+    "pos": "noun",
+    "definition": "A black and white bird that cannot fly but can swim.",
+    "example": "We saw a penguin at the zoo.",
+    "category": "new_word",
+    "status": "new"
+   },
+   "mainWordForms": "Penguin is a noun. The plural is penguins. A penguin is a black and white bird. It cannot fly, but it can swim.",
+   "pronunciationTarget": {
+    "word": "penguin",
+    "ipa": "/ˈpɛŋɡwɪn/"
+   },
+   "expression": "We saw a whale and a dolphin.",
+   "use": "Tell the story of a day at the zoo and aquarium.",
+   "expressionTask": "Tell Leo about the zoo. Say you saw a whale and a dolphin.",
+   "grammar": "We saw + noun",
+   "pattern": "We saw a whale at the aquarium",
+   "task": "We saw a ___ at the aquarium.",
+   "answer": "whale",
+   "example": "We saw a whale at the aquarium.",
+   "context": [
+    "Ana tells the story of a day at the zoo and the aquarium with her family.",
+    "We saw a whale and a dolphin. The penguin is funny and the owl is quiet."
+   ],
+   "photo": {
+    "id": "37558733",
+    "asset": "assets/a2-photos/37558733.jpg",
+    "sourceURL": "https://www.pexels.com/photo/gentoo-penguin-in-zoo-habitat-display-37558733/",
+    "credit": "Andres Daza · Pexels",
+    "licenseURL": "https://www.pexels.com/license/",
+    "caption": "A Gentoo penguin stands in its habitat at the zoo.",
+    "alt": "A Gentoo penguin standing in a zoo habitat.",
+    "fit": "cover",
+    "focalY": 0.5,
+    "dimensions": [
+     1400,
+     933
+    ]
+   },
+   "dialogue": [
+    "Ana, tell us the story of your day at the zoo.",
+    "In the morning, we saw a penguin and an owl. The penguin is very funny.",
+    "What does the owl do in the day?",
+    "The owl sleeps in the day. It is a quiet bird.",
+    "What did you see in the afternoon?",
+    "We saw a whale and a dolphin at the aquarium. We also saw an eagle."
+   ],
+   "listening": "Ana tells the story of a day at the zoo. In the morning, she saw a penguin and an owl. In the afternoon, she saw a whale and a dolphin at the aquarium. The whale is very big. She also saw an eagle.",
+   "question": "What did Ana see in the afternoon?",
+   "correct": "A whale and a dolphin",
+   "other": "A penguin and an owl",
+   "reading": "Ana tells the story of a day at the zoo and the aquarium with her family. She says, “In the morning, we saw a penguin and an owl. The penguin is very funny, and the owl sleeps in the day.” Ana says, “In the afternoon, we went to the aquarium. We saw a whale and a dolphin. The whale is very big, and the dolphin is very quick.” Ana smiles and says, “We also saw an eagle. The eagle is a big bird with a strong beak. It was a very good day.”",
+   "readingQ": "What is the eagle?",
+   "readingA": "A big bird.",
+   "speaking": "Tell the story of a day at the zoo with a partner. Say what you saw in the morning and in the afternoon.",
+   "speakingSample": "We went to the zoo and the aquarium. In the morning, we saw a penguin and an owl. The penguin is very funny, and the owl sleeps in the day. In the afternoon, we saw a whale and a dolphin. The whale is very big. We also saw an eagle.",
+   "writing": "Write 45–65 words about a day at the zoo. Say what you saw in the morning and in the afternoon.",
+   "writingSample": "Ana tells the story of a day at the zoo and the aquarium with her family. In the morning, they saw a penguin and an owl. The penguin is very funny, and the owl sleeps in the day. In the afternoon, they saw a whale and a dolphin. The whale is very big. They also saw an eagle.",
+   "sound": "Penguin has its strongest beat on PEN. In owl, say OWL clearly. In dolphin, say DOL clearly at the start.",
+   "model": "The penguin is funny. The owl sleeps in the day.",
+   "wordSample": "We saw a penguin at the zoo.",
+   "wordTask": "What did they see at the zoo?"
+  },
+  {
+   "unit": 30,
+   "day": 238,
+   "title": "Tell a story about an old castle",
+   "goal": "I can tell a story about an old castle.",
+   "newItems": [
+    {
+     "word": "tower",
+     "ipa": "/ˈtaʊɚ/",
+     "pos": "noun",
+     "definition": "A tall part of a castle; you can see far from the top.",
+     "example": "The castle has a very tall tower.",
+     "category": "new_word",
+     "status": "new"
+    },
+    {
+     "word": "treasure",
+     "ipa": "/ˈtrɛʒɚ/",
+     "pos": "noun",
+     "definition": "Gold and jewels that people keep in a secret place.",
+     "example": "In the room, there is a box with a treasure.",
+     "category": "new_word",
+     "status": "new"
+    },
+    {
+     "word": "secret",
+     "ipa": "/ˈsikrət/",
+     "pos": "noun",
+     "definition": "Something that only some people know.",
+     "example": "There is a secret room in the tower.",
+     "category": "new_word",
+     "status": "new"
+    },
+    {
+     "word": "magic",
+     "ipa": "/ˈmædʒɪk/",
+     "pos": "noun",
+     "definition": "A special power that can do strange and wonderful things.",
+     "example": "The magic key opens the door.",
+     "category": "new_word",
+     "status": "new"
+    },
+    {
+     "word": "ghost",
+     "ipa": "/ɡoʊst/",
+     "pos": "noun",
+     "definition": "A white shape of a dead person that some people see at night.",
+     "example": "A ghost lives in the castle.",
+     "category": "new_word",
+     "status": "new"
+    }
+   ],
+   "reviewWords": [
+    "friend",
+    "night",
+    "old",
+    "story",
+    "book"
+   ],
+   "mainWord": {
+    "word": "tower",
+    "ipa": "/ˈtaʊɚ/",
+    "pos": "noun",
+    "definition": "A tall part of a castle; you can see far from the top.",
+    "example": "The castle has a very tall tower.",
+    "category": "new_word",
+    "status": "new"
+   },
+   "mainWordForms": "Tower is a noun. The plural is towers. A tower is a tall part of a castle. You can see far from the top of a tower.",
+   "pronunciationTarget": {
+    "word": "tower",
+    "ipa": "/ˈtaʊɚ/"
+   },
+   "expression": "There is a secret room in the tower.",
+   "use": "Tell a story about an old castle.",
+   "expressionTask": "Tell Mia about the castle. Say there is a secret room in the tower.",
+   "grammar": "There is a + noun + in the tower",
+   "pattern": "There is a secret room in the tower",
+   "task": "There is a secret ___ in the tower.",
+   "answer": "room",
+   "example": "There is a secret room in the tower.",
+   "context": [
+    "Leo tells a story about an old castle on a hill.",
+    "There is a secret room in the tower. The magic key opens the door."
+   ],
+   "photo": {
+    "id": "2832054",
+    "asset": "assets/a2-photos/2832054.jpg",
+    "sourceURL": "https://www.pexels.com/photo/castle-on-cliff-2832054/",
+    "credit": "Felix Mittermeier · Pexels",
+    "licenseURL": "https://www.pexels.com/license/",
+    "caption": "An old medieval castle stands on a forested hill under a cloudy sky.",
+    "alt": "A medieval castle on a forested hill under a cloudy sky.",
+    "fit": "cover",
+    "focalY": 0.5,
+    "dimensions": [
+     1400,
+     773
+    ]
+   },
+   "dialogue": [
+    "Leo, tell us a story about the old castle.",
+    "The castle has a very tall tower. There is a secret room in the tower.",
+    "What opens the door to the room?",
+    "The magic key opens the door. In the room, there is a box with a treasure.",
+    "Is there a ghost in the castle?",
+    "Yes. A ghost lives in the castle. At night, the ghost sings a song."
+   ],
+   "listening": "Leo tells a story about an old castle. The castle has a very tall tower. There is a secret room in the tower. The magic key opens the door. In the room, there is a box with a treasure. A ghost lives in the castle.",
+   "question": "What is in the room?",
+   "correct": "A box with a treasure",
+   "other": "A magic key",
+   "reading": "Leo tells a story about an old castle on a hill. He says, “The castle has a very tall tower. There is a secret room in the tower. The magic key opens the door.” Leo says, “In the room, there is a box with a treasure. The treasure is gold and red jewels. But a ghost lives in the castle. The ghost is white and very quiet.” Leo smiles and says, “At night, the ghost sings a song. The children are not afraid. It is a funny ghost. The children like the story.”",
+   "readingQ": "What colour is the ghost?",
+   "readingA": "White.",
+   "speaking": "Tell a story about an old castle with a partner. Say what is in the tower and what is in the room.",
+   "speakingSample": "Leo tells a story about an old castle. The castle has a very tall tower. There is a secret room in the tower. The magic key opens the door. In the room, there is a box with a treasure. But a ghost lives in the castle.",
+   "writing": "Write 45–65 words about an old castle. Say what is in the tower and what is in the room.",
+   "writingSample": "Leo tells a story about an old castle on a hill. The castle has a very tall tower. There is a secret room in the tower. The magic key opens the door. In the room, there is a box with a treasure. The treasure is gold and red jewels. But a ghost lives in the castle. The ghost is white and very quiet.",
+   "sound": "Tower has its strongest beat on TOW. In treasure, say TREAS clearly. In secret, say SE clearly at the start.",
+   "model": "The tower is very old. There is a secret room in the tower.",
+   "wordSample": "The castle has a very tall tower.",
+   "wordTask": "What does the castle have?"
+  },
+  {
+   "unit": 30,
+   "day": 239,
+   "title": "Spend a day at the museum",
+   "goal": "I can talk about a day at the museum and ask for help.",
+   "newItems": [
+    {
+     "word": "museum",
+     "ipa": "/mjuˈziəm/",
+     "pos": "noun",
+     "definition": "A place with old and interesting things to look at and learn about.",
+     "example": "It is a very famous museum.",
+     "category": "new_word",
+     "status": "new"
+    },
+    {
+     "word": "famous",
+     "ipa": "/ˈfeɪməs/",
+     "pos": "adjective",
+     "definition": "Known by many people; a famous place is one many people know.",
+     "example": "It is a very famous museum.",
+     "category": "new_word",
+     "status": "new"
+    },
+    {
+     "word": "by the way",
+     "ipa": "/baɪ ðə weɪ/",
+     "pos": "fixed phrase",
+     "definition": "A way to add a new idea when you are talking.",
+     "example": "By the way, the museum is open on Sunday.",
+     "category": "fixed_phrase",
+     "status": "new"
+    },
+    {
+     "word": "don't worry",
+     "ipa": "/doʊnt ˈwɚi/",
+     "pos": "fixed phrase",
+     "definition": "A friendly way to tell someone not to be afraid or sad.",
+     "example": "Don't worry, it will be all right.",
+     "category": "fixed_phrase",
+     "status": "new"
+    },
+    {
+     "word": "it will be all right",
+     "ipa": "/ɪt wɪl bi ɔl raɪt/",
+     "pos": "fixed phrase",
+     "definition": "A way to say that a problem will be fine in the end.",
+     "example": "Don't worry, it will be all right.",
+     "category": "fixed_phrase",
+     "status": "new"
+    }
+   ],
+   "reviewWords": [
+    "friend",
+    "morning",
+    "train",
+    "ticket",
+    "city"
+   ],
+   "mainWord": {
+    "word": "museum",
+    "ipa": "/mjuˈziəm/",
+    "pos": "noun",
+    "definition": "A place with old and interesting things to look at and learn about.",
+    "example": "It is a very famous museum.",
+    "category": "new_word",
+    "status": "new"
+   },
+   "mainWordForms": "Museum is a noun. The plural is museums. A museum is a place with old and interesting things. You can look and learn in a museum.",
+   "pronunciationTarget": {
+    "word": "museum",
+    "ipa": "/mjuˈziəm/"
+   },
+   "expression": "Don't worry, it will be all right.",
+   "use": "Talk about a day at the museum and ask for help.",
+   "expressionTask": "Tell Noah about the rain. Say not to worry, it will be all right.",
+   "grammar": "Don't worry, + sentence",
+   "pattern": "Don't worry, it will be all right",
+   "task": "Don't worry, it will be ___ right.",
+   "answer": "all",
+   "example": "Don't worry, it will be all right.",
+   "context": [
+    "Mia and Noah spend a day at the museum in the city. Mia is worried about the rain.",
+    "Don't worry, it will be all right. By the way, the museum is open on Sunday."
+   ],
+   "photo": {
+    "id": "40694925",
+    "asset": "assets/a2-photos/40694925.jpg",
+    "sourceURL": "https://www.pexels.com/photo/visitors-exploring-grand-museum-hall-with-statues-40694925/",
+    "credit": "Kyrylo Velchev · Pexels",
+    "licenseURL": "https://www.pexels.com/license/",
+    "caption": "Visitors walk through a grand museum hall under a high arched ceiling.",
+    "alt": "Visitors in a grand museum hall with statues.",
+    "fit": "cover",
+    "focalY": 0.5,
+    "dimensions": [
+     1400,
+     933
+    ]
+   },
+   "dialogue": [
+    "We spend a day at the museum in the city. Are you worried about the rain?",
+    "Yes. I am worried. What can we do?",
+    "Don't worry, it will be all right. By the way, the museum is open on Sunday.",
+    "Good. I like the museum. Can we see the old trains?",
+    "Yes. The museum has old trains, old cars and old boats.",
+    "It is a very famous museum. I am happy to be here."
+   ],
+   "listening": "Mia and Noah spend a day at the museum in the city. It is a very famous museum. Mia is worried about the rain. Noah says, “Don't worry, it will be all right.” They see old trains and old cars there.",
+   "question": "What is Mia worried about?",
+   "correct": "The rain",
+   "other": "The trains",
+   "reading": "Mia and Noah spend a day at the museum in the city. They go there by train in the morning. It is a very famous museum with old and interesting things. Mia is worried about the rain. Noah says, “Don't worry, it will be all right. By the way, the museum is open on Sunday.” Mia smiles and says, “Good. I like the museum. By the way, can we see the old trains?” Noah says, “Yes. The museum has old trains, old cars and old boats. It is a very good day.”",
+   "readingQ": "What does the museum have?",
+   "readingA": "Old trains, old cars and old boats.",
+   "speaking": "Talk about a day at the museum with a partner. Say how you go there, say what you see, and say not to worry.",
+   "speakingSample": "We spend a day at the museum in the city. We go there by train in the morning. It is a very famous museum. Don't worry, it will be all right. By the way, the museum is open on Sunday. We can see old trains and old cars.",
+   "writing": "Write 45–65 words about a day at the museum. Say how you go there, say what you see, and say not to worry.",
+   "writingSample": "Mia and Noah spend a day at the museum in the city. They go there by train in the morning. It is a famous museum with old and interesting things. Mia is worried about the rain. Noah says, “Don't worry, it will be all right. By the way, the museum is open on Sunday.” The museum has old trains, old cars and old boats.",
+   "sound": "Museum has its strongest beat on SE. In famous, say FAM clearly. In by the way, say WAY clearly at the end.",
+   "model": "The museum is famous. By the way, it is open on Sunday.",
+   "wordSample": "It is a very famous museum.",
+   "wordTask": "What is famous?"
+  },
+  {
+   "unit": 30,
+   "day": 240,
+   "title": "Welcome new neighbours",
+   "goal": "I can welcome new neighbours and help them settle in.",
+   "newItems": [
+    {
+     "word": "settle",
+     "ipa": "/ˈsɛtəl/",
+     "pos": "verb",
+     "definition": "To start to feel at home in a new place.",
+     "example": "We can help them settle in.",
+     "category": "new_word",
+     "status": "new"
+    },
+    {
+     "word": "help them settle in",
+     "ipa": "/hɛlp ðɛm ˈsɛtəl ɪn/",
+     "pos": "fixed phrase",
+     "definition": "A way to say you help new people feel at home.",
+     "example": "We can help them settle in.",
+     "category": "fixed_phrase",
+     "status": "new"
+    },
+    {
+     "word": "meet the neighbours",
+     "ipa": "/mit ðə ˈneɪbɚz/",
+     "pos": "fixed phrase",
+     "definition": "A way to say you say hello to the people near your home for the first time.",
+     "example": "Let us meet the neighbours at a welcome picnic.",
+     "category": "fixed_phrase",
+     "status": "new"
+    },
+    {
+     "word": "new in town",
+     "ipa": "/nu ɪn taʊn/",
+     "pos": "fixed phrase",
+     "definition": "A way to say a person has just come to live in a town.",
+     "example": "A new family, the Browns, is new in town.",
+     "category": "fixed_phrase",
+     "status": "new"
+    },
+    {
+     "word": "a welcome picnic",
+     "ipa": "/ə ˈwɛlkəm ˈpɪknɪk/",
+     "pos": "fixed phrase",
+     "definition": "A picnic to say hello to new people in a friendly way.",
+     "example": "Let us meet the neighbours at a welcome picnic.",
+     "category": "fixed_phrase",
+     "status": "new"
+    }
+   ],
+   "reviewWords": [
+    "friend",
+    "library",
+    "time",
+    "morning",
+    "help"
+   ],
+   "mainWord": {
+    "word": "settle",
+    "ipa": "/ˈsɛtəl/",
+    "pos": "verb",
+    "definition": "To start to feel at home in a new place.",
+    "example": "We can help them settle in.",
+    "category": "new_word",
+    "status": "new"
+   },
+   "mainWordForms": "Settle is a verb. The past is settled. To settle in means to feel at home in a new place. A new family needs time to settle in.",
+   "pronunciationTarget": {
+    "word": "settle",
+    "ipa": "/ˈsɛtəl/"
+   },
+   "expression": "We can help them settle in.",
+   "use": "Welcome new neighbours and help them settle in.",
+   "expressionTask": "Tell Ben about the Browns. Say you can help them settle in.",
+   "grammar": "Help them + verb",
+   "pattern": "We can help them settle in",
+   "task": "We can help them ___ in.",
+   "answer": "settle",
+   "example": "We can help them settle in.",
+   "context": [
+    "A new family, the Browns, is new in town. Emma and Ben want to welcome them.",
+    "We can help them settle in. Let us meet the neighbours at a welcome picnic."
+   ],
+   "dialogue": [
+    "A new family, the Browns, is new in town. How can we welcome them?",
+    "We can help them settle in. Let us meet the neighbours at a welcome picnic.",
+    "Good idea. We can have the picnic in the park on Saturday.",
+    "Yes. I will bring food and drinks. What will you bring?",
+    "I will bring a cake. We can show them our street.",
+    "Good. The Browns will be very happy. A welcome picnic is a good way to meet new people."
+   ],
+   "listening": "A new family, the Browns, is new in town. Emma and Ben want to welcome them. They can help them settle in. They will meet the neighbours at a welcome picnic in the park on Saturday. Ben will bring food and drinks.",
+   "question": "Where is the welcome picnic?",
+   "correct": "In the park",
+   "other": "In the library",
+   "reading": "A new family, the Browns, is new in town. Emma and Ben want to welcome them. Emma says, “We can help them settle in. Let us meet the neighbours at a welcome picnic.” Ben says, “Good idea. We can have the picnic in the park on Saturday. I will bring food and drinks.” Emma says, “I will bring a cake. We can help them settle in and show them our street.” Ben says, “Yes. The Browns will be very happy. A welcome picnic on Saturday is a good way to meet the neighbours.”",
+   "readingQ": "Who is new in town?",
+   "readingA": "The Browns.",
+   "speaking": "Welcome new neighbours with a partner. Say who is new, say how you will help, and say when the picnic is.",
+   "speakingSample": "A new family is new in town. We want to welcome them. We can help them settle in. Let us meet the neighbours at a welcome picnic. We can have the picnic in the park on Saturday. I will bring food and drinks. Emma will bring a cake.",
+   "writing": "Write 45–65 words about new neighbours. Say who is new, say how you will help, and say when the picnic is.",
+   "writingSample": "A new family, the Browns, is new in town. Emma and Ben want to welcome them. Emma says, “We can help them settle in. Let us meet the neighbours at a welcome picnic.” Ben says, “Good idea. We can have the picnic in the park on Saturday. I will bring food and drinks.” Emma will bring a cake. The Browns will be very happy.",
+   "sound": "Settle has its strongest beat on SET. In help them settle in, say TLE clearly at the end. In meet the neighbours, say NAY clearly in the middle.",
+   "model": "We can help them settle in. Let us meet the neighbours at the picnic.",
+   "wordSample": "We can help them settle in.",
+   "wordTask": "What can we help the Browns do?",
+   "transferCheck": {
+    "source": "On Tuesday, Mia's class has a new student. His name is Sam. Sam is new in town, and he does not know the school. Mia says, “We can help him settle in. Let us meet him at lunch and show him our class.” Sam says, “Thank you. I am happy to meet you.” Mia and her friends show Sam the library and the sports hall. Sam likes the school. On Friday, the class has a welcome party for Sam. Sam says, “Thank you all. I am happy to be here.”",
+    "tasks": [
+     [
+      "1 · Identify the people and the new student",
+      "Who is the new student, and what is new about him?"
+     ],
+     [
+      "2 · Work out what Mia and her friends do",
+      "What do Mia and her friends do to help Sam?"
+     ],
+     [
+      "3 · Notice the places and the day",
+      "Which places do they show Sam, and on which day is the welcome party?"
+     ],
+     [
+      "4 · Listen and write",
+      "Write the sentence you hear."
+     ],
+     [
+      "5 · Retell and answer",
+      "Tell the story in order, including the people, the new student, the places, and the welcome party. Then answer one follow-up question."
+     ]
+    ],
+    "dictation": "We can help them settle in.",
+    "answer": "1. The new student is Sam. He is new in town and does not know the school. 2. Mia and her friends help him settle in. They meet him at lunch and show him the class, the library and the sports hall. 3. They show Sam the library and the sports hall. The welcome party is on Friday. 4. We can help them settle in. 5. Sample: On Tuesday, Mia's class has a new student, Sam. Sam is new in town and does not know the school. Mia and her friends help him settle in. They meet him at lunch and show him the class, the library and the sports hall. On Friday, the class has a welcome party for Sam. Follow-up: When is the welcome party? On Friday."
+   }
+  }
+ ]
+}

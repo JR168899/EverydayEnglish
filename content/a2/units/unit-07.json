@@ -1,0 +1,862 @@
+{
+  "number": 7,
+  "title": "Staying away from home",
+  "lessons": [
+    {
+      "day": 49,
+      "unit": 7,
+      "title": "Choose a room that suits the people travelling",
+      "goal": "I can choose a room that suits the people travelling.",
+      "newItems": [
+        {
+          "word": "hostel",
+          "ipa": "/ˈhɑstəl/",
+          "pos": "noun",
+          "definition": "A place offering low-cost rooms or beds, often with some shared facilities.",
+          "example": "We book two beds in a hostel near the station.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "single room",
+          "ipa": "/ˈsɪŋɡəl rum/",
+          "pos": "fixed phrase",
+          "definition": "A room intended for one person to sleep in.",
+          "example": "I need a single room for one night.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "double room",
+          "ipa": "/ˈdʌbəl rum/",
+          "pos": "fixed phrase",
+          "definition": "A room usually containing one bed large enough for two people.",
+          "example": "We would like a double room with one large bed.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "twin room",
+          "ipa": "/ˈtwɪn rum/",
+          "pos": "fixed phrase",
+          "definition": "A room usually containing two separate beds for two people.",
+          "example": "We need a twin room because we want separate beds.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "shared bathroom",
+          "ipa": "/ʃɛrd ˈbæθrum/",
+          "pos": "fixed phrase",
+          "definition": "A bathroom used by people staying in more than one room.",
+          "example": "The cheaper room has a shared bathroom.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "room",
+        "hotel",
+        "bed",
+        "bathroom",
+        "night"
+      ],
+      "mainWord": {
+        "word": "hostel",
+        "ipa": "/ˈhɑstəl/",
+        "pos": "noun",
+        "definition": "A place offering low-cost rooms or beds, often with some shared facilities.",
+        "example": "We book two beds in a hostel near the station.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Noun: hostel; plural: hostels. Some hostels have shared sleeping rooms; others also offer private rooms. Check what the booking includes.",
+      "wordTask": "A place offers low-cost beds with some shared facilities. Name this kind of place to stay.",
+      "wordSample": "It is a hostel. I would ask which facilities are shared before booking.",
+      "expression": "Are the beds separate?",
+      "use": "Confirm the actual bed arrangement rather than relying only on the room label.",
+      "context": [
+        "We have a room for two people.",
+        "Are the beds separate? We would prefer two beds."
+      ],
+      "expressionTask": "Ask about a room for two people. Confirm the number of beds and whether the bathroom is private or shared.",
+      "grammar": "A room for plus a number of people",
+      "pattern": "Use for to identify who or how many people a room is intended for.",
+      "example": "This room is for two people.",
+      "task": "This room is ___ two people.",
+      "answer": "for",
+      "sound": "Hostel has two syllables with the first stronger. Keep the T clear enough to distinguish hostel from hotel.",
+      "model": "The hostel has a room for two people.",
+      "dialogue": [
+        "We are looking for a room for two nights.",
+        "Would you like a double room?",
+        "Are the beds separate? We would prefer two beds.",
+        "Then a twin room would suit you. It has a shared bathroom.",
+        "Is a private bathroom available?",
+        "Yes, but that room costs ten dollars more each night."
+      ],
+      "reading": "Bella and her cousin compare places to stay. A hostel offers a single room for one person, a double room with one large bed and a twin room with two separate beds. They choose the twin room because they each want their own bed. Its shared bathroom is outside the room. Before paying, they confirm the number of nights and the full price. Room labels can vary, so asking about the actual beds helps.",
+      "readingQ": "Why do they choose a twin room?",
+      "readingA": "They each want a separate bed rather than sharing one large bed.",
+      "writing": "Write a room enquiry giving the number of people, nights and beds. Ask one question about the bathroom.",
+      "listening": "The private twin room is available on Friday and Saturday. It has two separate beds. A bathroom is shared with one other room. The price is forty dollars each night for the whole room, not forty dollars for each person.",
+      "question": "How much does the whole room cost for two nights?",
+      "correct": "Eighty dollars",
+      "other": "One hundred sixty dollars",
+      "speaking": "Choose accommodation with a partner. Explain who is travelling, compare two bed arrangements and confirm the total price.",
+      "speakingSample": "We are two people staying for two nights. We would prefer a twin room with separate beds. Is the bathroom shared with another room? Forty dollars for the whole room each night means eighty dollars altogether. Please confirm that total before we book.",
+      "writingSample": "Hello, we are two adults staying for three nights. We need two separate beds, so please tell us whether a twin room is available. Is the bathroom private or shared? Thank you."
+    },
+    {
+      "day": 50,
+      "unit": 7,
+      "title": "Find the room and check its facilities",
+      "goal": "I can find the room and check its facilities.",
+      "newItems": [
+        {
+          "word": "lift",
+          "ipa": "/lɪft/",
+          "pos": "noun",
+          "definition": "A machine that carries people between floors in a building, especially in British English.",
+          "example": "Take the lift to the third floor.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "air conditioning",
+          "ipa": "/ˈɛr kənˌdɪʃənɪŋ/",
+          "pos": "fixed phrase",
+          "definition": "A system that cools the air inside a room or building.",
+          "example": "The room has air conditioning for warm days.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "spare key",
+          "ipa": "/spɛr ki/",
+          "pos": "fixed phrase",
+          "definition": "An extra key kept for use when another key is unavailable or another person needs one.",
+          "example": "Could we have a spare key for the second guest?",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "a room with a view",
+          "ipa": "/ə rum wɪð ə vju/",
+          "pos": "fixed phrase",
+          "definition": "A room whose window looks onto scenery or another interesting sight.",
+          "example": "We would like a room with a view of the river.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "in working order",
+          "ipa": "/ɪn ˈwɝkɪŋ ˌɔrdɚ/",
+          "pos": "fixed phrase",
+          "definition": "Functioning correctly and ready to use.",
+          "example": "Please check that the room’s fan is in working order.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "floor",
+        "stairs",
+        "window",
+        "door",
+        "view"
+      ],
+      "mainWord": {
+        "word": "lift",
+        "ipa": "/lɪft/",
+        "pos": "noun",
+        "definition": "A machine that carries people between floors in a building, especially in British English.",
+        "example": "Take the lift to the third floor.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Noun: lift; plural: lifts. Elevator is the common American word for this machine. The two labels refer to the same kind of equipment here.",
+      "wordTask": "Ask how to reach the third floor without using the stairs.",
+      "wordSample": "Where is the lift to the third floor, please?",
+      "expression": "Could you show me how it works?",
+      "use": "Ask for a demonstration of unfamiliar equipment instead of guessing.",
+      "context": [
+        "The air conditioning is controlled from this panel.",
+        "Could you show me how it works? I would like to make the room cooler."
+      ],
+      "expressionTask": "Ask a member of staff to demonstrate a room control. Explain the change you want and confirm how to stop it.",
+      "grammar": "How followed by a clause",
+      "pattern": "After show me how, use statement word order: how it works, rather than how does it work.",
+      "example": "Please show me how it works.",
+      "task": "Please show me how ___ works.",
+      "answer": "it",
+      "sound": "Lift ends with F and T close together. Let air pass for F, then make the short T closure without adding another syllable.",
+      "model": "The lift is in working order.",
+      "dialogue": [
+        "How do we reach our room on the third floor?",
+        "The lift is behind you. Here is a spare key.",
+        "Thank you. We booked a room with a view.",
+        "Yes, your window faces the park. The air conditioning is in working order too.",
+        "Could you show me how it works?",
+        "Certainly. This button lowers the temperature, and this one turns it off."
+      ],
+      "reading": "Bella takes the lift to her room and gives her cousin the spare key. They have paid for a room with a view of the park. The room is warm, so Bella asks someone to demonstrate the air conditioning. The system is in working order; she simply has not used this kind of control before. After the demonstration, she can change the temperature and turn the system off herself.",
+      "readingQ": "Why does Bella need help with the air conditioning?",
+      "readingA": "It works correctly, but she has not used that kind of control before.",
+      "writing": "Write a short message asking how to use one room facility. State the result you want without claiming the equipment is broken.",
+      "listening": "The lift is behind reception. For the garden rooms, take it to the second floor and follow the green signs. The stairs beside the lift lead to the same floor. If you need help with your bags, please ask a member of staff.",
+      "question": "Which floor has the garden rooms?",
+      "correct": "The second floor",
+      "other": "The third floor",
+      "speaking": "Act as a guest arriving in a room. Ask for directions and a spare key, then request a demonstration of one facility.",
+      "speakingSample": "Could you tell me where the lift is? Our room is on the third floor, and we would like a spare key for the second guest. The air conditioning seems to work, but I do not know this control. Could you show me how to make the room cooler?",
+      "writingSample": "Hello, I would like to make the room cooler, but I am not sure how to use the air conditioning. Could you show me the controls and explain how to choose a comfortable setting?"
+    },
+    {
+      "day": 51,
+      "unit": 7,
+      "title": "Ask about useful hotel services",
+      "goal": "I can ask about useful hotel services.",
+      "newItems": [
+        {
+          "word": "heating",
+          "ipa": "/ˈhitɪŋ/",
+          "pos": "noun",
+          "definition": "A system or equipment used to make rooms in a building warmer.",
+          "example": "The heating comes on in the evening.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "heater",
+          "ipa": "/ˈhitɚ/",
+          "pos": "noun",
+          "definition": "A device that produces heat to make a place or object warmer.",
+          "example": "There is a small heater in the bathroom.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "room service",
+          "ipa": "/ˈrum ˌsɝvɪs/",
+          "pos": "fixed phrase",
+          "definition": "A hotel service that brings ordered food or drink to a guest’s room.",
+          "example": "Room service is available until nine.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "wake-up call",
+          "ipa": "/ˈweɪk ʌp kɔl/",
+          "pos": "fixed phrase",
+          "definition": "A telephone call arranged to wake someone at a chosen time.",
+          "example": "Please arrange a wake-up call for six.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "breakfast included",
+          "ipa": "/ˈbrɛkfəst ɪnˈkludɪd/",
+          "pos": "fixed phrase",
+          "definition": "A booking description saying that breakfast is covered by the stated price.",
+          "example": "The booking says breakfast included.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "warm",
+        "sleep",
+        "temperature",
+        "blanket",
+        "breakfast"
+      ],
+      "mainWord": {
+        "word": "heating",
+        "ipa": "/ˈhitɪŋ/",
+        "pos": "noun",
+        "definition": "A system or equipment used to make rooms in a building warmer.",
+        "example": "The heating comes on in the evening.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Noun: heating, usually uncountable for a building’s warming system. Heater names a particular device. These nouns are different from the verb heat in Heat the milk.",
+      "wordTask": "Explain that the room is cold and ask how to make it warmer.",
+      "wordSample": "The room is cold. Could you show me how to turn on the heating?",
+      "expression": "Is there a separate charge?",
+      "use": "Check whether a service costs more than the price already agreed.",
+      "context": [
+        "Could we order breakfast through room service? Is there a separate charge?",
+        "Yes. Breakfast downstairs is included, but delivery to your room costs extra."
+      ],
+      "expressionTask": "Ask about a hotel service and its hours. Confirm whether there is an extra cost before requesting it.",
+      "grammar": "Can for available services",
+      "pattern": "Use can plus a base verb to ask whether a service is available or an action is possible.",
+      "example": "Can you arrange a wake-up call?",
+      "task": "Can you ___ a wake-up call?",
+      "answer": "arrange",
+      "sound": "Heating begins with the long EE vowel and has a lighter second syllable. Finish NG at the back of the mouth, without adding a separate G sound.",
+      "model": "The heating makes the room warmer.",
+      "dialogue": [
+        "The room is a little cold. How does the heating work?",
+        "Use the wall control, not the separate bathroom heater.",
+        "Thank you. Could we have a wake-up call at six?",
+        "Certainly. Would you like information about breakfast?",
+        "Our booking says breakfast included. Is there a separate charge for room service?",
+        "Breakfast downstairs is included. Delivery to your room costs extra."
+      ],
+      "reading": "Bella learns how to use the heating and asks about the small bathroom heater. She and her cousin have an early journey, so they arrange a wake-up call for six. Their booking says breakfast included. However, room service has a delivery charge. They decide to eat downstairs instead. A service may be available without being included in the room price, so Bella checks before choosing.",
+      "readingQ": "Why do they decide to eat breakfast downstairs?",
+      "readingA": "Breakfast downstairs is included, but room service has a separate delivery charge.",
+      "writing": "Write three short questions about services you may need. Ask about availability, time and any extra cost.",
+      "listening": "Breakfast in the dining room begins at six thirty. It is included in your booking. Room service begins at seven and has a four-dollar delivery charge. Wake-up calls are free; please arrange one at reception before ten in the evening.",
+      "question": "Which breakfast service is available at six thirty?",
+      "correct": "Breakfast in the dining room",
+      "other": "Room service",
+      "speaking": "You have an early departure. Ask about a wake-up call and breakfast, compare the timing and cost, then choose a suitable plan.",
+      "speakingSample": "Could you arrange a wake-up call at six, please? We need to leave before seven. Is breakfast downstairs available at six thirty? That suits us, and it is included in our booking. We will eat downstairs rather than pay for room service that starts later.",
+      "writingSample": "Is room service available this evening? What time can I arrange a wake-up call for tomorrow? Is breakfast included in my room price, or is there an extra charge?"
+    },
+    {
+      "day": 52,
+      "unit": 7,
+      "title": "Report a room problem clearly",
+      "goal": "I can report a room problem clearly.",
+      "newItems": [
+        {
+          "word": "leak",
+          "ipa": "/lik/",
+          "pos": "noun",
+          "definition": "A place where liquid or gas escapes through a hole or gap that should be closed.",
+          "example": "There is a water leak under the sink.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "send up",
+          "ipa": "/sɛnd ʌp/",
+          "pos": "fixed phrase",
+          "definition": "To arrange for someone or something to go to a higher floor or place.",
+          "example": "Could you send someone up to room twelve?",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "as soon as possible",
+          "ipa": "/əz sun əz ˈpɑsəbəl/",
+          "pos": "fixed phrase",
+          "definition": "At the earliest time when something can reasonably be done.",
+          "example": "Please check the problem as soon as possible.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "out of service",
+          "ipa": "/aʊt əv ˈsɝvɪs/",
+          "pos": "fixed phrase",
+          "definition": "Not available for use because something is not working or is not being operated.",
+          "example": "The lift is out of service this morning.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "bucket",
+          "ipa": "/ˈbʌkɪt/",
+          "pos": "noun",
+          "definition": "An open container with a handle, used for carrying or holding things such as water.",
+          "example": "A member of staff brings a bucket to collect the water.",
+          "category": "new_word",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "water",
+        "bathroom",
+        "shower",
+        "problem",
+        "help"
+      ],
+      "mainWord": {
+        "word": "leak",
+        "ipa": "/lik/",
+        "pos": "noun",
+        "definition": "A place where liquid or gas escapes through a hole or gap that should be closed.",
+        "example": "There is a water leak under the sink.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Noun: leak; plural: leaks. A water leak means water is escaping where it should not. Leak can also be a verb, as in Water is leaking; the noun is today’s target.",
+      "wordTask": "Water is coming from a gap below the sink. Report the problem and identify the room.",
+      "wordSample": "There is a water leak under the sink in room twelve. Could someone check it, please?",
+      "expression": "Could someone come and check it?",
+      "use": "Ask for a person to examine a problem. Give the location and what you can observe.",
+      "context": [
+        "There is water on the bathroom floor in room twelve. Could someone come and check it?",
+        "Yes. Please tell me whether the water is still coming from the sink."
+      ],
+      "expressionTask": "Report one observable room problem. Give the room number, describe what is happening and ask what you should do next.",
+      "grammar": "There is for a singular problem",
+      "pattern": "Use there is before one countable thing. Use there are before more than one.",
+      "example": "There is a leak under the sink.",
+      "task": "There ___ a leak under the sink.",
+      "answer": "is",
+      "sound": "Leak has one syllable with a long EE vowel. Keep it distinct from lick, which has a shorter relaxed vowel. Finish with K, without an extra vowel.",
+      "model": "There is a leak under the sink.",
+      "dialogue": [
+        "I need to report a problem in room twelve.",
+        "What can you see?",
+        "There is a water leak under the sink. Could someone come and check it?",
+        "Yes. I will send someone up as soon as possible.",
+        "Thank you. Should we wait in the room?",
+        "Please wait near reception. The lift is out of service, so use the stairs if you can do so comfortably."
+      ],
+      "reading": "Bella phones reception to report a problem. There is a water leak under the sink in room twelve. She describes the water she can see instead of guessing which part is broken. The receptionist will send someone up as soon as possible. A staff member will bring a bucket to collect the water. A notice says the lift is out of service. Bella asks where she should wait and follows the staff member’s instructions. She does not try to repair unfamiliar equipment herself.",
+      "readingQ": "Why does Bella describe what she can see rather than naming a broken part?",
+      "readingA": "She does not know the cause, but an accurate description helps staff understand the problem.",
+      "writing": "Write a short problem report giving a location, an observable problem and a request for help. Do not invent a cause.",
+      "listening": "We have received your report about room twelve. A member of staff will meet you at reception in ten minutes. Please bring your room key. You do not need to wait in the bathroom or move any equipment. We will explain the next step when you arrive.",
+      "question": "Where should the guest meet the member of staff?",
+      "correct": "At reception",
+      "other": "In the bathroom",
+      "speaking": "Act as a guest reporting a room problem. Your partner asks one question. Give the information you know and confirm the next action.",
+      "speakingSample": "I am in room twelve, and there is water under the bathroom sink. I do not know the cause. Could someone come and check it? I understand that I should wait at reception with my key. Please let me know when someone is ready to help.",
+      "writingSample": "Hello, I am in room twelve. There is water under the bathroom sink, and I can see more water coming through a gap. Could someone check it? Please tell me where I should wait. I do not know the cause."
+    },
+    {
+      "day": 53,
+      "unit": 7,
+      "title": "Request a practical solution to a room problem",
+      "goal": "I can request a practical solution to a room problem.",
+      "newItems": [
+        {
+          "word": "manager",
+          "ipa": "/ˈmænɪdʒɚ/",
+          "pos": "noun",
+          "definition": "A person responsible for organizing a business, a team or part of an organization.",
+          "example": "The hotel manager helps us agree on a solution.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "make a complaint",
+          "ipa": "/meɪk ə kəmˈpleɪnt/",
+          "pos": "fixed phrase",
+          "definition": "To tell a responsible person that you are not satisfied with something.",
+          "example": "I would like to make a complaint about the noise.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "get a refund",
+          "ipa": "/ɡɛt ə ˈrifʌnd/",
+          "pos": "fixed phrase",
+          "definition": "To receive back money you have paid for something.",
+          "example": "Can I get a refund for the service I did not receive?",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "change rooms",
+          "ipa": "/tʃeɪndʒ rumz/",
+          "pos": "fixed phrase",
+          "definition": "To move from the room you were given to a different room during a stay.",
+          "example": "Could we change rooms because this one is noisy?",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "at no extra cost",
+          "ipa": "/ət noʊ ˈɛkstrə kɔst/",
+          "pos": "fixed phrase",
+          "definition": "Without paying more than the amount already agreed.",
+          "example": "The manager offers another room at no extra cost.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "help",
+        "service",
+        "receipt",
+        "refund",
+        "polite"
+      ],
+      "mainWord": {
+        "word": "manager",
+        "ipa": "/ˈmænɪdʒɚ/",
+        "pos": "noun",
+        "definition": "A person responsible for organizing a business, a team or part of an organization.",
+        "example": "The hotel manager helps us agree on a solution.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Noun: manager; plural: managers. Manage is the related verb. A manager organizes work and may help resolve problems that other staff cannot settle.",
+      "wordTask": "A problem has not been resolved by reception. Politely ask to speak to the person responsible for the hotel.",
+      "wordSample": "Could I speak to the manager about an unresolved room problem, please?",
+      "expression": "What solution is available?",
+      "use": "Ask what can actually be done after clearly describing a problem and its effect.",
+      "context": [
+        "The room is still too noisy for us to sleep. What solution is available?",
+        "We can offer a room on the garden side at the same price."
+      ],
+      "expressionTask": "Explain a room problem without insulting anyone. Ask for a practical solution and confirm any price difference.",
+      "grammar": "Could we for a polite request",
+      "pattern": "Use could we plus a base verb to ask politely whether a group can do something.",
+      "example": "Could we change rooms?",
+      "task": "___ we change rooms?",
+      "answer": "Could",
+      "sound": "Manager has three syllables with the first strongest. The middle consonant is J, as in job. Keep the final syllable light.",
+      "model": "Could I speak to the manager, please?",
+      "dialogue": [
+        "I would like to make a complaint about the noise outside our room.",
+        "I am the manager. What has happened?",
+        "There was loud music until very late. What solution is available?",
+        "We can help you change rooms at no extra cost.",
+        "Thank you. Can I also get a refund for the breakfast delivery that never arrived?",
+        "Let me check that charge with you and confirm the amount before we make the change."
+      ],
+      "reading": "Bella asks to speak to the manager because reception has not resolved a noise problem. She wants to make a complaint, but she explains the facts calmly. The manager offers to help them change rooms at no extra cost. Bella also asks whether she can get a refund for a delivery that did not arrive. They check the charge together. A clear request helps them agree on a specific next step rather than simply repeat that everything was bad.",
+      "readingQ": "What solution does the manager offer for the noise?",
+      "readingA": "The manager offers a different room without an extra charge.",
+      "writing": "Write a short, polite complaint. State the problem, its effect and one solution you would like to discuss.",
+      "listening": "The garden-side room will be ready at three this afternoon. You may keep your present room until then. There is no additional room charge. Please come to reception at three to collect the new key and confirm the separate breakfast-delivery refund.",
+      "question": "When should the guest collect the new key?",
+      "correct": "At three in the afternoon",
+      "other": "Immediately",
+      "speaking": "Work with a partner to resolve a room problem. Describe facts, ask about one possible solution and repeat the agreed action and cost.",
+      "speakingSample": "The music outside our room continued very late, and we could not sleep. What solution is available? A garden-side room at the same price would help. To confirm, we can collect the new key at three, and there is no extra room charge. Thank you.",
+      "writingSample": "Hello, the heater in my room is not working, and the room is too cold for me to sleep comfortably. Could we discuss another room or a repair arrangement? Please explain the available options and any cost before we agree."
+    },
+    {
+      "day": 54,
+      "unit": 7,
+      "title": "Prepare for an overnight camping stay",
+      "goal": "I can prepare for an overnight camping stay.",
+      "newItems": [
+        {
+          "word": "campsite",
+          "ipa": "/ˈkæmpsaɪt/",
+          "pos": "noun",
+          "definition": "An area where people can stay in tents or other camping accommodation.",
+          "example": "Our campsite is beside a small lake.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "sleeping bag",
+          "ipa": "/ˈslipɪŋ bæɡ/",
+          "pos": "fixed phrase",
+          "definition": "A warm bag that a person sleeps inside, especially when camping.",
+          "example": "I pack a sleeping bag for the cold night.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "rucksack",
+          "ipa": "/ˈrʌksæk/",
+          "pos": "noun",
+          "definition": "A bag carried on the back using straps over the shoulders, especially in British English.",
+          "example": "My rucksack holds water and a warm jacket.",
+          "category": "new_word",
+          "status": "new",
+          "usageNote": "Backpack is the familiar alternative, especially in American English. This is a new name for a familiar kind of bag."
+        },
+        {
+          "word": "take down",
+          "ipa": "/teɪk daʊn/",
+          "pos": "fixed phrase",
+          "definition": "To remove or dismantle something that has been put in position.",
+          "example": "We take down the tent before leaving.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "camping stove",
+          "ipa": "/ˈkæmpɪŋ stoʊv/",
+          "pos": "fixed phrase",
+          "definition": "A small portable cooking device made for use on camping trips.",
+          "example": "We ask where the camping stove may be used.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "tent",
+        "bag",
+        "cold",
+        "water",
+        "warm"
+      ],
+      "mainWord": {
+        "word": "campsite",
+        "ipa": "/ˈkæmpsaɪt/",
+        "pos": "noun",
+        "definition": "An area where people can stay in tents or other camping accommodation.",
+        "example": "Our campsite is beside a small lake.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Noun: campsite; plural: campsites. A campsite is the place where people stay. A tent is one kind of shelter used there.",
+      "wordTask": "Name the place you need to book when you want to stay in a tent overnight.",
+      "wordSample": "We need to book a place at a campsite for our tent.",
+      "expression": "What do we need to bring?",
+      "use": "Ask about necessary equipment before leaving, then check the actual list rather than assuming everything is provided.",
+      "context": [
+        "The campsite provides a place for our tent and drinking water. What do we need to bring?",
+        "Our tent, sleeping bags and food. We should also check the weather."
+      ],
+      "expressionTask": "Prepare for a camping stay with a partner. Identify two items provided and two you must bring, then check one campsite rule.",
+      "grammar": "Before plus an activity",
+      "pattern": "Use before plus an -ing form to connect one action to another activity.",
+      "example": "Check the rules before using the stove.",
+      "task": "Check the rules before ___ the stove.",
+      "answer": "using",
+      "sound": "Campsite begins with CAMP and ends with SITE. Keep the P before the S, and glide through the final I sound as in my.",
+      "model": "We will put up our tent at the campsite.",
+      "dialogue": [
+        "What do we need to bring to the campsite?",
+        "A tent and a sleeping bag for each person.",
+        "Shall we put up the tent before making dinner?",
+        "Yes. It is easier while there is still daylight.",
+        "Can we use our camping stove beside it?",
+        "We need to ask staff where cooking is allowed. We will take down the tent tomorrow after breakfast."
+      ],
+      "reading": "Bella and Fenrir reach the campsite in the afternoon. Bella carries water and a jacket in her rucksack. They put up their tent while it is still light. Each person has a sleeping bag for the night. Before using their camping stove, they ask staff about the cooking area and follow the site’s instructions. The next morning, they take down the tent and check that they have packed all their belongings.",
+      "readingQ": "Why do they put up the tent before making dinner?",
+      "readingA": "They want to do it while there is still daylight.",
+      "writing": "Write a short camping plan. Say what to bring, when to arrive and what to check before using cooking equipment.",
+      "listening": "Your tent space is number eight. Drinking water is beside reception. Cooking is permitted only in the marked outdoor cooking area; please follow the equipment instructions. Keep the walking path clear. Before leaving tomorrow, take all your belongings and rubbish with you.",
+      "question": "Where may guests cook?",
+      "correct": "In the marked outdoor cooking area",
+      "other": "Anywhere beside their tent",
+      "speaking": "Plan a camping stay with a partner. Divide the packing, agree when to arrive and confirm where you will ask about rules and facilities.",
+      "speakingSample": "I will bring the tent, and you can bring the sleeping bags. Let us arrive before four so that we can put up the tent in daylight. Before using the camping stove, we will ask staff about the cooking area. We should leave time to pack everything tomorrow.",
+      "photo": {
+        "id": "11346500",
+        "asset": "assets/a2-photos/11346500.jpg",
+        "sourceURL": "https://www.pexels.com/photo/a-camping-tents-under-the-green-trees-11346500/",
+        "credit": "Jonathan Borba · Pexels",
+        "licenseURL": "https://www.pexels.com/license/",
+        "caption": "A campsite with tents set up under trees.",
+        "alt": "Several camping tents standing together on grass under trees at a campsite.",
+        "fit": "cover",
+        "focalY": 0.65,
+        "dimensions": [
+          1125,
+          750
+        ]
+      },
+      "writingSample": "We plan to arrive at the campsite before four. We will bring sleeping bags, water and the equipment listed in the campsite information. Before using a camping stove, we will check that it is permitted and follow the site and equipment instructions."
+    },
+    {
+      "day": 55,
+      "unit": 7,
+      "title": "Arrange a comfortable stay at someone’s home",
+      "goal": "I can arrange a comfortable stay at someone’s home.",
+      "newItems": [
+        {
+          "word": "stay over",
+          "ipa": "/steɪ ˈoʊvɚ/",
+          "pos": "fixed phrase",
+          "definition": "To sleep at someone’s home rather than return to your own home that night.",
+          "example": "You can stay over after dinner if the last bus is too early.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "guest room",
+          "ipa": "/ˈɡɛst rum/",
+          "pos": "fixed phrase",
+          "definition": "A room where visitors can sleep in someone’s home or another building.",
+          "example": "The guest room is next to the bathroom.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "a spare room",
+          "ipa": "/ə spɛr rum/",
+          "pos": "fixed phrase",
+          "definition": "A room that is not needed for its usual occupants and can be used for another purpose.",
+          "example": "We can use the spare room for your visit.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "a good night’s sleep",
+          "ipa": "/ə ɡʊd naɪts slip/",
+          "pos": "fixed phrase",
+          "definition": "Enough comfortable sleep during the night to feel rested afterwards.",
+          "example": "You will want a good night’s sleep before the journey.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "house rules",
+          "ipa": "/ˈhaʊs rulz/",
+          "pos": "fixed phrase",
+          "definition": "Instructions or agreed expectations for people staying in a particular home or building.",
+          "example": "Please tell me your house rules about shoes and quiet hours.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "guest",
+        "sleep",
+        "clean",
+        "quiet",
+        "overnight"
+      ],
+      "mainWord": {
+        "word": "stay over",
+        "ipa": "/steɪ ˈoʊvɚ/",
+        "pos": "fixed phrase",
+        "definition": "To sleep at someone’s home rather than return to your own home that night.",
+        "example": "You can stay over after dinner if the last bus is too early.",
+        "category": "fixed_phrase",
+        "status": "new"
+      },
+      "mainWordForms": "Fixed phrase: stay over; stays over; stayed over; staying over. These are forms of one expression. You can also say stay overnight when the context is clear.",
+      "wordTask": "A friend’s last bus leaves before dinner ends. Offer them a place to sleep in your home.",
+      "wordSample": "You can stay over in our guest room instead of leaving before dinner ends.",
+      "expression": "Is there anything I should know?",
+      "use": "Ask a host about useful information or expectations without assuming every home works like yours.",
+      "context": [
+        "You are welcome to use the guest room tonight.",
+        "Thank you. Is there anything I should know? For example, where should I leave my shoes?"
+      ],
+      "expressionTask": "You are staying with a friend. Thank the host, ask about one practical arrangement and confirm a time for the morning.",
+      "grammar": "Should for advice or expectations",
+      "pattern": "Use should plus a base verb to ask about a suitable action or an expected arrangement.",
+      "example": "What time should I be ready?",
+      "task": "What time ___ I be ready?",
+      "answer": "should",
+      "sound": "Stay begins with S and T together, followed by the AY glide. Join it smoothly to over without adding a separate sound between the words.",
+      "model": "I can stay over in the guest room.",
+      "dialogue": [
+        "It is getting late. Would you like to stay over?",
+        "That would help. I need a good night’s sleep before tomorrow.",
+        "You can use our spare room. It is the guest room beside the bathroom.",
+        "Thank you. Is there anything I should know about the house rules?",
+        "We leave shoes by the door, and breakfast is at seven.",
+        "All right. I will be ready just before seven."
+      ],
+      "reading": "Bella’s friend invites her to stay over after dinner. There is a spare room beside the bathroom, which the family uses as a guest room. Bella asks about the house rules. She learns where to leave her shoes and when breakfast will be ready. She sets an alarm and prepares her bag before bed. A good night’s sleep will help her feel ready for the morning journey. Asking a few questions makes the visit easier for everyone.",
+      "readingQ": "Which two practical arrangements does Bella check?",
+      "readingA": "She checks where to leave her shoes and what time breakfast will be ready.",
+      "writing": "Write a message thanking a friend for an overnight stay. Ask one practical question and confirm your morning plan.",
+      "listening": "You can use the guest room beside the bathroom. There is a towel on the chair. Please leave your shoes by the front door. We are having breakfast at seven, but you can help yourself to water in the kitchen before then. The station bus leaves at seven forty.",
+      "question": "Where should the visitor leave their shoes?",
+      "correct": "By the front door",
+      "other": "On the chair in the guest room",
+      "speaking": "Arrange an overnight visit with a partner. Make an offer, ask about house rules and confirm a morning plan politely.",
+      "speakingSample": "Thank you for letting me stay over. The guest room will be very useful because my bus leaves early tomorrow. Is there anything I should know about your house rules? I will leave my shoes by the door and be ready for breakfast at seven. Does that suit you?",
+      "writingSample": "Thank you for letting me stay tonight. May I ask where to put my bag? I plan to leave at eight tomorrow morning, so I will prepare my things quietly before then. Please tell me if another time would suit you better."
+    },
+    {
+      "day": 56,
+      "unit": 7,
+      "title": "Finish a stay and check your belongings",
+      "goal": "I can finish a stay and check your belongings.",
+      "newItems": [
+        {
+          "word": "guesthouse",
+          "ipa": "/ˈɡɛsthaʊs/",
+          "pos": "noun",
+          "definition": "A small place where paying guests can stay in rooms, sometimes with meals provided.",
+          "example": "We stay at a guesthouse run by a local family.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "check out",
+          "ipa": "/tʃɛk aʊt/",
+          "pos": "fixed phrase",
+          "definition": "To complete the arrangements for leaving a hotel or similar place after a stay.",
+          "example": "We need to check out before eleven.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "keep the change",
+          "ipa": "/kip ðə tʃeɪndʒ/",
+          "pos": "fixed phrase",
+          "definition": "A way to say that the person receiving a cash payment may keep the small amount above the price.",
+          "example": "The snack is three dollars. Here are four; keep the change.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "lost and found",
+          "ipa": "/ˌlɔst ən ˈfaʊnd/",
+          "pos": "fixed phrase",
+          "definition": "A place or service that keeps lost items until their owners collect them, especially in American English.",
+          "example": "Please ask at lost and found about your scarf.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "by mistake",
+          "ipa": "/baɪ mɪˈsteɪk/",
+          "pos": "fixed phrase",
+          "definition": "Without intending to do something; as an error.",
+          "example": "I put your key in my bag by mistake.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "bill",
+        "pay",
+        "receipt",
+        "price",
+        "change"
+      ],
+      "mainWord": {
+        "word": "guesthouse",
+        "ipa": "/ˈɡɛsthaʊs/",
+        "pos": "noun",
+        "definition": "A small place where paying guests can stay in rooms, sometimes with meals provided.",
+        "example": "We stay at a guesthouse run by a local family.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Noun: guesthouse; plural: guesthouses. Also written guest house. The spelling difference does not make it a second new item.",
+      "wordTask": "Ask whether a small guesthouse includes breakfast in the room price.",
+      "wordSample": "Does the guesthouse include breakfast in the room price?",
+      "expression": "Could we check the total together?",
+      "use": "Politely ask to go through a bill before paying, especially when an item or charge is unclear.",
+      "context": [
+        "Could we check the total together? We did not use room service.",
+        "Of course. Let us look at each item before you pay."
+      ],
+      "expressionTask": "Finish a stay. Ask to check one item on the bill and confirm that you have returned the correct key.",
+      "grammar": "Mine for a thing belonging to me",
+      "pattern": "Use mine without a following noun. Use my before a noun: my bag, but the bag is mine.",
+      "example": "The red bag is mine.",
+      "task": "The red bag is ___.",
+      "answer": "mine",
+      "sound": "Guesthouse has two parts. Keep the ST cluster in guest, then begin house with a light H. Do not drop house from the word.",
+      "model": "We will check out of the guesthouse at ten.",
+      "dialogue": [
+        "We would like to check out. Could we check the total together?",
+        "Certainly. The bill includes your room and two snacks.",
+        "That is correct. I also put the spare key in my bag by mistake. Here it is.",
+        "Thank you. Did you collect your scarf from lost and found?",
+        "Yes. The last snack costs three dollars. Here are four; keep the change.",
+        "Thank you. Here is your receipt, and we hope you enjoyed your stay."
+      ],
+      "reading": "Bella is ready to check out of the guesthouse. She returns a spare key that she put in her bag by mistake. She checks the bill and collects a scarf from lost and found. For a separate three-dollar snack, she gives four dollars and says, \"Keep the change.\" This is a choice, not part of the room price. Before leaving, she checks her bag, room and receipt once more.",
+      "readingQ": "Why does Bella return the spare key from her bag?",
+      "readingA": "She packed it by mistake, and it belongs to the guesthouse.",
+      "writing": "Write a short departure message. Confirm that you have returned the key, checked the bill and collected your belongings.",
+      "listening": "Please complete check-out before eleven. Return all room keys to reception. If you think an item on your bill is incorrect, tell us before paying. Ask at reception about lost items; a blue scarf and a black hat were found yesterday. We can show them to their owners.",
+      "question": "Which item was found yesterday?",
+      "correct": "A blue scarf",
+      "other": "A red bag",
+      "speaking": "Complete an accommodation stay with a partner. Check the bill, correct one small mistake, return the key and ask about a missing item.",
+      "speakingSample": "We would like to check out, please. Could we check the total together? I think this delivery charge is a mistake because we ate downstairs. Here are both room keys. I am also looking for a blue scarf. Has anyone handed one in? Thank you for checking.",
+      "writingSample": "I have returned the room key to reception and checked the bill. I have collected my bag, phone and charger. Thank you for your help during my stay. Please let me know if anything else is needed before I leave."
+    }
+  ]
+}

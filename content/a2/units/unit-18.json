@@ -1,0 +1,874 @@
+{
+  "number": 18,
+  "title": "Rules, permission and obligations",
+  "lessons": [
+    {
+      "day": 137,
+      "unit": 18,
+      "title": "Read the rules for a shared study room",
+      "goal": "I can understand a simple room rule, distinguish two areas and ask politely about an exception.",
+      "newItems": [
+        {
+          "word": "rule",
+          "ipa": "/ruːl/",
+          "pos": "noun",
+          "definition": "An instruction stating what people may or may not do in a particular situation.",
+          "example": "The study room has a rule about noise.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "silence",
+          "ipa": "/ˈsaɪləns/",
+          "pos": "noun",
+          "definition": "The absence of speech or other sound.",
+          "example": "People work in silence in the small study room.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "whisper",
+          "ipa": "/ˈwɪspɚ/",
+          "pos": "verb",
+          "definition": "Speak very softly, using breath with little or no voice.",
+          "example": "Please do not whisper in the silent study room.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "keep your voice down",
+          "ipa": "/kiːp jɚ vɔɪs daʊn/",
+          "pos": "fixed phrase",
+          "definition": "Speak more softly so that you do not disturb other people.",
+          "example": "Please keep your voice down in the shared area.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "in silence",
+          "ipa": "/ɪn ˈsaɪləns/",
+          "pos": "fixed phrase",
+          "definition": "Without speaking or making noise.",
+          "example": "We read in silence for ten minutes.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "room",
+        "library",
+        "quiet",
+        "sign",
+        "question"
+      ],
+      "mainWord": {
+        "word": "rule",
+        "ipa": "/ruːl/",
+        "pos": "noun",
+        "definition": "An instruction stating what people may or may not do in a particular situation.",
+        "example": "The study room has a rule about noise.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Rule is countable: one rule, several rules. Silence is normally uncountable in this context. Whisper can be a verb or a countable noun, but the new target here is the verb. A whisper is not the same as complete silence.",
+      "wordTask": "Does a rule allowing no talking also allow whispering?",
+      "wordSample": "No. Whispering is still talking, even when it is very soft.",
+      "expression": "Does that rule apply here too?",
+      "use": "Check the actual area covered by a rule instead of assuming every room has the same rule.",
+      "context": [
+        "Does that rule apply here too?",
+        "No. This shared area allows quiet conversation; the small room is silent."
+      ],
+      "expressionTask": "Compare a silent study room and a shared area for quiet conversation. Ask where a short discussion can take place.",
+      "grammar": "Must not for a prohibition",
+      "pattern": "must not + base verb",
+      "example": "You must not talk in this room.",
+      "task": "You must not ___ in this room.",
+      "answer": "talk",
+      "sound": "Rule begins with R and ends with L. Keep the long vowel between them. Silence starts with the same stressed vowel as side, and whisper starts with W.",
+      "model": "Read the rule before using the room.",
+      "dialogue": [
+        "The sign says we must not talk in the small room. Can we whisper?",
+        "No. People work in silence there.",
+        "Does that rule apply here too?",
+        "No. This shared area allows quiet conversation, but we should keep our voices down.",
+        "Then let us discuss the question here before going inside.",
+        "Good idea. We can ask the librarian if we are unsure about a sign."
+      ],
+      "reading": "Bella and Fenrir arrive at a library with two study areas. The small room has a clear rule: no talking. People read in silence there, so even a whisper would disturb the activity. The larger shared area allows quiet conversation. A notice says, “Please keep your voice down,” rather than asking for complete silence. Bella checks which rule applies before starting a discussion. The friends decide to talk in the shared area and move to the small room later for individual reading. They do not assume that a rule for one space automatically applies to every space.",
+      "readingQ": "Where can the friends have a quiet discussion, and why?",
+      "readingA": "In the larger shared area, because quiet conversation is allowed there.",
+      "writing": "Write 45–65 words explaining the rules for two study areas. Say where a discussion is possible and what is not allowed in the silent room.",
+      "writingSample": "The small study room is for reading in silence. We must not talk there, even in a whisper. The larger shared area allows quiet conversation, but visitors should keep their voices down. We will discuss our question there first, then move to the small room for individual reading.",
+      "listening": "Please remember that the small room is silent. If you need to ask your partner a question, move to the larger shared area. Quiet conversation is fine there. Please do not whisper in the small room, because the no-talking rule still applies.",
+      "question": "Where should partners discuss a question?",
+      "correct": "The larger shared area",
+      "other": "The small silent room",
+      "speaking": "Explain two room rules to a new visitor. Check which activity the visitor wants to do before suggesting an area.",
+      "speakingSample": "Do you want to read alone or discuss something? The small room is for reading in silence, and you must not talk there. You can discuss your question in the larger area, but please keep your voice down."
+    },
+    {
+      "day": 138,
+      "unit": 18,
+      "title": "Ask before using shared equipment",
+      "goal": "I can check permission, identify a shared item and understand a simple return instruction.",
+      "newItems": [
+        {
+          "word": "locker",
+          "ipa": "/ˈlɑkɚ/",
+          "pos": "noun",
+          "definition": "A small cupboard that can be locked to keep personal things in.",
+          "example": "Put your bag in the locker before the activity.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "badge",
+          "ipa": "/bædʒ/",
+          "pos": "noun",
+          "definition": "A small object or card worn to show a name, role or membership.",
+          "example": "The visitor wears a badge with her name.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "with permission",
+          "ipa": "/wɪð pɚˈmɪʃən/",
+          "pos": "fixed phrase",
+          "definition": "After the responsible person has agreed that you may do something.",
+          "example": "Visitors can use the camera with permission.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "without permission",
+          "ipa": "/wɪˈðaʊt pɚˈmɪʃən/",
+          "pos": "fixed phrase",
+          "definition": "When the responsible person has not agreed that you may do something.",
+          "example": "Do not take shared equipment without permission.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "put it back",
+          "ipa": "/pʊt ɪt bæk/",
+          "pos": "fixed phrase",
+          "definition": "Return an object to the place where it belongs.",
+          "example": "After using the camera, put it back on the shelf.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "bag",
+        "camera",
+        "shelf",
+        "key",
+        "name"
+      ],
+      "mainWord": {
+        "word": "locker",
+        "ipa": "/ˈlɑkɚ/",
+        "pos": "noun",
+        "definition": "A small cupboard that can be locked to keep personal things in.",
+        "example": "Put your bag in the locker before the activity.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Locker and badge are countable nouns. Permission is uncountable here: ask for permission, not a permission. In put it back, the pronoun it comes between put and back. Do not say put back it.",
+      "wordTask": "Where can a visitor keep a bag in a small locked cupboard?",
+      "wordSample": "The visitor can keep the bag in a locker.",
+      "expression": "May I use this one?",
+      "use": "Ask the responsible person about a particular shared item before using it.",
+      "context": [
+        "May I use this one?",
+        "Yes, you may use that camera. Please put it back on this shelf afterward."
+      ],
+      "expressionTask": "You are visiting a class workshop. Ask to use a shared camera and confirm where to return it.",
+      "grammar": "May for polite permission",
+      "pattern": "May + subject + base verb?",
+      "example": "May I use this camera?",
+      "task": "May I ___ this camera?",
+      "answer": "use",
+      "sound": "Locker has its main stress on LOCK. Badge ends with the same joined sound as the beginning of jump; do not add an extra vowel after it.",
+      "model": "Put your bag in the locker.",
+      "dialogue": [
+        "Where should I leave my bag before the workshop?",
+        "Use this locker. Here is the key and your visitor badge.",
+        "Thank you. May I use this one—the camera on the shelf?",
+        "Yes, you can use it with permission from the class leader. I will ask her now.",
+        "I will wait. I do not want to take it without permission.",
+        "She says yes. After using it, please put it back on this shelf."
+      ],
+      "reading": "At a class workshop, visitors leave bags in a locker and wear a badge showing their names. Bella sees a shared camera on a shelf. She asks before taking it because visitors may use it only with permission from the class leader. Fenrir checks with the leader and receives an answer. Bella can use the camera, but must put it back on the same shelf afterward. A useful rule is printed beside the equipment: do not take anything without permission. A visitor badge shows who someone is; it does not automatically give permission to use every item.",
+      "readingQ": "Does wearing a visitor badge automatically allow Bella to use the camera?",
+      "readingA": "No. She still needs permission from the class leader.",
+      "writing": "Write 45–65 words telling a visitor where to keep a bag, who can give equipment permission and where to return one item.",
+      "writingSample": "Please keep your bag in the locker and wear your visitor badge. If you want to use the camera, ask the class leader first. The badge does not give automatic permission. After using the camera, put it back on the same shelf so that the next person can find it.",
+      "listening": "Your bag can stay in locker six, and you should wear the name badge during the workshop. The class leader has agreed that you may use the camera. Please return it to the shelf by the door, not to the locker. Keep the key until you collect your bag.",
+      "question": "Where should the camera be returned?",
+      "correct": "The shelf by the door",
+      "other": "Locker six",
+      "speaking": "Act as a visitor. Ask where to keep a bag, request permission to use one item and repeat the return instruction.",
+      "speakingSample": "Where can I keep my bag? Thank you. May I use this camera? I will wait while you check with the class leader. After using it, I will put it back on the shelf by the door, not in my locker."
+    },
+    {
+      "day": 139,
+      "unit": 18,
+      "title": "Understand a room’s waste instructions",
+      "goal": "I can follow a simple disposal notice and ask about an item not covered by the label.",
+      "newItems": [
+        {
+          "word": "litter",
+          "ipa": "/ˈlɪtɚ/",
+          "pos": "noun",
+          "definition": "Small pieces of waste left on the ground or in a public place.",
+          "example": "Please do not leave litter on the floor.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "recycle",
+          "ipa": "/riːˈsaɪkəl/",
+          "pos": "verb",
+          "definition": "Process used material so that it can be used again.",
+          "example": "This center can recycle the clean paper listed on its notice.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "waste",
+          "ipa": "/weɪst/",
+          "pos": "noun",
+          "definition": "Unwanted material that people throw away.",
+          "example": "Read the labels before putting waste in a bin.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "recycling bin",
+          "ipa": "/riːˈsaɪklɪŋ bɪn/",
+          "pos": "fixed phrase",
+          "definition": "A container for used materials collected for recycling.",
+          "example": "Put the listed paper in the recycling bin.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "reusable bottle",
+          "ipa": "/riːˈjuːzəbəl ˈbɑtəl/",
+          "pos": "fixed phrase",
+          "definition": "A bottle designed to be used more than once.",
+          "example": "I bring a reusable bottle instead of taking a new cup.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "paper",
+        "bottle",
+        "floor",
+        "bin",
+        "notice"
+      ],
+      "mainWord": {
+        "word": "litter",
+        "ipa": "/ˈlɪtɚ/",
+        "pos": "noun",
+        "definition": "Small pieces of waste left on the ground or in a public place.",
+        "example": "Please do not leave litter on the floor.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Litter and waste are uncountable nouns in this lesson. Recycle is a verb. Recycling bin names a container with a particular purpose; check its label because accepted materials differ between places. Reusable describes something made to be used again.",
+      "wordTask": "What does litter mean when it is left on a public floor?",
+      "wordSample": "It means small pieces of waste left where they do not belong.",
+      "expression": "Which bin does this go in?",
+      "use": "Ask about a particular item when the local labels do not give a clear answer.",
+      "context": [
+        "Which bin does this go in?",
+        "The label does not mention it. Let us ask the helper."
+      ],
+      "expressionTask": "You have an item not listed on either bin. Ask a helper instead of guessing that all packaging is accepted.",
+      "grammar": "Must for a stated requirement",
+      "pattern": "must + base verb",
+      "example": "You must check the label first.",
+      "task": "You must ___ the label first.",
+      "answer": "check",
+      "sound": "Litter has stress on LIT. In American English, the middle T is often a quick tongue tap. Recycle has stress on CY; keep the first syllable lighter.",
+      "model": "Please do not leave litter on the floor.",
+      "dialogue": [
+        "The notice says we must leave the room tidy. Where should this paper go?",
+        "The recycling bin lists clean paper, so it can go there.",
+        "What about this other piece of packaging? Which bin does this go in?",
+        "The label does not mention it. Let us ask the helper.",
+        "All right. I also brought a reusable bottle so I do not need a cup.",
+        "Good. Before leaving, let us check the floor for litter."
+      ],
+      "reading": "After a class activity, Bella reads the room’s waste notice. The center can recycle the clean paper listed on the recycling bin, but the notice does not say that every material is accepted. Fenrir has a piece of packaging that is not listed, so he asks a helper before choosing a bin. Bella uses a reusable bottle and has no extra cup to throw away. Before they leave, they check for litter on the floor. They follow the instructions for this center rather than assuming that every place collects the same materials.",
+      "readingQ": "Why does Fenrir ask the helper about the packaging?",
+      "readingA": "It is not listed on the bin label, so he cannot tell which instruction applies.",
+      "writing": "Write 45–65 words explaining how your group will leave a room tidy. Include a local bin instruction and what to do if an item is not listed.",
+      "writingSample": "We must leave the room tidy after the activity. The recycling bin accepts the clean paper listed on its label. If an item is not listed, we will ask the helper rather than guess. I will use a reusable bottle, and we will check the floor for litter before leaving.",
+      "listening": "At this center, the blue bin is for the clean paper shown on its label. The bottle on the table belongs to Nina, so do not throw it away. If your packaging is not listed, bring it to the helper and ask. Please leave no litter under the chairs.",
+      "question": "What should you do with packaging not listed on the label?",
+      "correct": "Ask the helper",
+      "other": "Put it in the blue bin automatically",
+      "speaking": "Explain one local bin rule to a partner. Show how to ask about an unlisted item without inventing a disposal rule.",
+      "speakingSample": "This recycling bin lists clean paper. We should check the label before using it. This packaging is not listed, so let us ask the helper which bin it goes in. We also need to check for litter before leaving."
+    },
+    {
+      "day": 140,
+      "unit": 18,
+      "title": "Notice who may enter and how many may join",
+      "goal": "I can distinguish a staff-only area from a visitor activity and follow a simple capacity instruction.",
+      "newItems": [
+        {
+          "word": "responsible",
+          "ipa": "/rɪˈspɑnsəbəl/",
+          "pos": "adjective",
+          "definition": "Having a duty to look after something or make sure a task is done.",
+          "example": "The helper is responsible for checking the visitor list.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "limit",
+          "ipa": "/ˈlɪmɪt/",
+          "pos": "noun",
+          "definition": "The greatest amount or number allowed in a particular situation.",
+          "example": "The activity has a limit of six visitors.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "staff only",
+          "ipa": "/stæf ˈoʊnli/",
+          "pos": "fixed phrase",
+          "definition": "Only people who work there may enter or use the stated area.",
+          "example": "The storage door has a staff only sign.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "follow the rules",
+          "ipa": "/ˈfɑloʊ ðə ruːlz/",
+          "pos": "fixed phrase",
+          "definition": "Act in the way required by the stated instructions.",
+          "example": "Visitors need to follow the rules for the activity.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "wait your turn",
+          "ipa": "/weɪt jɚ tɝn/",
+          "pos": "fixed phrase",
+          "definition": "Wait until it is your time to do something.",
+          "example": "Please wait your turn to use the equipment.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "visitor",
+        "rule",
+        "door",
+        "number",
+        "group"
+      ],
+      "mainWord": {
+        "word": "responsible",
+        "ipa": "/rɪˈspɑnsəbəl/",
+        "pos": "adjective",
+        "definition": "Having a duty to look after something or make sure a task is done.",
+        "example": "The helper is responsible for checking the visitor list.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Responsible is followed by for when naming a duty: responsible for the list. Limit is a countable noun here. Staff only is a short notice, not a complete sentence; it tells visitors that access is restricted to workers.",
+      "wordTask": "What does responsible for the visitor list mean?",
+      "wordSample": "It means having the duty to check and look after the visitor list.",
+      "expression": "Who should I check with?",
+      "use": "Find the person who can confirm a rule or arrangement when a notice is unclear.",
+      "context": [
+        "Who should I check with?",
+        "Ask the helper responsible for the visitor list."
+      ],
+      "expressionTask": "A group is full and you want to join a later session. Ask who can confirm the next available time.",
+      "grammar": "Responsible for a task",
+      "pattern": "be + responsible for + noun or -ing form",
+      "example": "The helper is responsible for checking the list.",
+      "task": "The helper is responsible ___ checking the list.",
+      "answer": "for",
+      "sound": "Responsible has its strongest beat on SPON. Limit has stress on LIM. In staff, finish the F sound before starting the next word.",
+      "model": "The helper is responsible for the list.",
+      "dialogue": [
+        "Can I go through that door to get another chair?",
+        "No. The sign says staff only. Ask a helper instead.",
+        "Who should I check with about joining this activity?",
+        "The helper responsible for the visitor list. There is a limit of six people.",
+        "I see that this group is full. I will ask about the next one.",
+        "Thank you. We all need to follow the rules and wait our turn with the equipment."
+      ],
+      "reading": "At an open day, a helper is responsible for checking the visitor list. Each equipment activity has a limit of six visitors. Bella arrives after the first group is full, so she asks about the next session instead of joining without checking. A nearby door says staff only; visitors must ask a helper if they need something from that room. During the activity, everyone is asked to follow the rules and wait their turn. The signs answer different questions: one identifies a restricted room, while another gives the maximum group size.",
+      "readingQ": "Why does Bella ask about the next session?",
+      "readingA": "The current group already has the maximum six visitors.",
+      "writing": "Write 45–65 words guiding a visitor. Explain who checks the list, the group limit and what the visitor should do when a group is full.",
+      "writingSample": "Please ask the helper responsible for the visitor list before joining. Each group has a limit of six people. If it is full, ask about the next session rather than joining without checking. The storage room is for staff only. During the activity, follow the rules and wait your turn.",
+      "listening": "The first group already has six visitors, which is the limit. The helper at the desk can tell you about the second group at two. Please do not enter the room marked staff only to look for her; she is waiting at the visitor desk.",
+      "question": "Where should a visitor ask about the next group?",
+      "correct": "At the visitor desk",
+      "other": "Inside the staff-only room",
+      "speaking": "Tell a new visitor how to join an activity. Include who to ask, the limit and what to do if the current group is full.",
+      "speakingSample": "Check with the helper at the visitor desk first. She is responsible for the list. There is a limit of six visitors in each group. If this group is full, ask about the next session. Please do not enter the staff-only room."
+    },
+    {
+      "day": 141,
+      "unit": 18,
+      "title": "Tell an optional item from a required action",
+      "goal": "I can distinguish something not required from something not allowed in a course notice.",
+      "newItems": [
+        {
+          "word": "optional",
+          "ipa": "/ˈɑpʃənəl/",
+          "pos": "adjective",
+          "definition": "Available to choose, but not required.",
+          "example": "The printed workbook is optional.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "registration",
+          "ipa": "/ˌrɛdʒɪˈstreɪʃən/",
+          "pos": "noun",
+          "definition": "The process of adding your name and details to an official list.",
+          "example": "Registration closes on Thursday.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "attend",
+          "ipa": "/əˈtɛnd/",
+          "pos": "verb",
+          "definition": "Go to and be present at an event or class.",
+          "example": "You must register before you attend the workshop.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "bring it with you",
+          "ipa": "/brɪŋ ɪt wɪð juː/",
+          "pos": "fixed phrase",
+          "definition": "Take the stated object to the place you are going.",
+          "example": "If you have a notebook, bring it with you.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "leave it at home",
+          "ipa": "/liːv ɪt ət hoʊm/",
+          "pos": "fixed phrase",
+          "definition": "Do not take the stated object away from your home.",
+          "example": "You can leave it at home if you do not need it.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "course",
+        "book",
+        "notebook",
+        "day",
+        "list"
+      ],
+      "mainWord": {
+        "word": "optional",
+        "ipa": "/ˈɑpʃənəl/",
+        "pos": "adjective",
+        "definition": "Available to choose, but not required.",
+        "example": "The printed workbook is optional.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Optional means you may choose; it does not mean forbidden. Registration is a noun. Attend takes the event directly: attend a class, not attend to a class in this meaning. Bring it with you and leave it at home refer to an object already identified.",
+      "wordTask": "A notice says a workbook is optional. Must every learner buy it?",
+      "wordSample": "No. Learners may choose whether to buy the optional workbook.",
+      "expression": "Is that required or just an option?",
+      "use": "Check whether a notice describes an obligation or a choice before buying or bringing an item.",
+      "context": [
+        "Is that required or just an option?",
+        "Registration is required, but the printed workbook is optional."
+      ],
+      "expressionTask": "Ask about a workshop’s registration and printed materials. Explain one action you must take and one choice you can make.",
+      "grammar": "Do not have to means not necessary",
+      "pattern": "do not have to + base verb",
+      "example": "You do not have to buy the workbook.",
+      "task": "You do not have to ___ the workbook.",
+      "answer": "buy",
+      "sound": "Optional has stress on OP, registration on STRA and attend on TEND. The word at in leave it at home is usually light; keep home clear.",
+      "model": "The printed workbook is optional.",
+      "dialogue": [
+        "I want to attend the workshop. Do I have to buy the printed workbook?",
+        "No. It is optional. The teacher will provide the lesson pages.",
+        "Is registration required or just an option?",
+        "It is required. Please add your name before Thursday.",
+        "What about my notebook?",
+        "If you have one, bring it with you. If not, we have paper. You can leave the optional workbook at home."
+      ],
+      "reading": "A workshop notice explains that registration is required before Thursday. Learners must be on the list before they attend. The printed workbook is optional because lesson pages will be provided in class. Bella checks the difference: she must register, but she does not have to buy the book. Fenrir asks about a notebook. The organizer says, “If you have one, bring it with you. We also have paper.” About the optional workbook, she adds, “You can leave it at home.” Not required does not mean not allowed; learners may bring their own copy if they prefer.",
+      "readingQ": "Which action is required, and which purchase is optional?",
+      "readingA": "Registration is required; buying the printed workbook is optional.",
+      "writing": "Write 45–65 words explaining a workshop notice to a friend. Separate one requirement from one choice and explain what materials are provided.",
+      "writingSample": "You must register before Thursday if you want to attend the workshop. You do not have to buy the printed workbook because lesson pages are provided. It is optional, so you may bring a copy if you prefer. Bring a notebook if you have one; otherwise, the organizer has paper.",
+      "listening": "Please complete registration before Thursday. You do not have to buy the printed workbook. You may use a copy if you already own one, but lesson pages are provided. A notebook is useful, and spare paper is available for anyone who needs it.",
+      "question": "What must learners do before attending?",
+      "correct": "Complete registration",
+      "other": "Buy the printed workbook",
+      "speaking": "Explain the difference between not required and not allowed using the workshop notice. Give a clear example of each if a partner asks.",
+      "speakingSample": "The printed workbook is not required, so you do not have to buy it. That does not mean it is forbidden: you may bring a copy. Registration is different. You must complete it before Thursday if you want to attend."
+    },
+    {
+      "day": 142,
+      "unit": 18,
+      "title": "Check a simple form before submitting it",
+      "goal": "I can identify a stated requirement, complete basic details and check what approval is still needed.",
+      "newItems": [
+        {
+          "word": "requirement",
+          "ipa": "/rɪˈkwaɪɚmənt/",
+          "pos": "noun",
+          "definition": "Something that is needed or must be done in a particular situation.",
+          "example": "A name on the booking list is a requirement for this activity.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "registration form",
+          "ipa": "/ˌrɛdʒɪˈstreɪʃən fɔrm/",
+          "pos": "fixed phrase",
+          "definition": "A document used to add someone’s details to a list for a service or event.",
+          "example": "Complete the registration form at the visitor desk.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "sign your name",
+          "ipa": "/saɪn jɚ neɪm/",
+          "pos": "fixed phrase",
+          "definition": "Write your name as a signature in the stated place.",
+          "example": "Read the instructions before you sign your name.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "fill in your details",
+          "ipa": "/fɪl ɪn jɚ ˈdiːteɪlz/",
+          "pos": "fixed phrase",
+          "definition": "Write the information requested about you in the spaces provided.",
+          "example": "Please fill in your details on the first page.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "written permission",
+          "ipa": "/ˈrɪtən pɚˈmɪʃən/",
+          "pos": "fixed phrase",
+          "definition": "Agreement recorded in writing that an action is allowed.",
+          "example": "The club requires written permission before using a visitor’s photograph.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "name",
+        "form",
+        "photo",
+        "address",
+        "permission"
+      ],
+      "mainWord": {
+        "word": "requirement",
+        "ipa": "/rɪˈkwaɪɚmənt/",
+        "pos": "noun",
+        "definition": "Something that is needed or must be done in a particular situation.",
+        "example": "A name on the booking list is a requirement for this activity.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Requirement is countable: one requirement, two requirements. A registration form collects information but does not itself prove that every requested action has been approved. Written permission is permission recorded in writing; read what a form actually asks.",
+      "wordTask": "If a notice says a booking is a requirement, can you join without one?",
+      "wordSample": "No. The stated requirement means a booking is needed.",
+      "expression": "Do I need to complete this part?",
+      "use": "Check an unclear section of a form instead of assuming every space is required.",
+      "context": [
+        "Do I need to complete this part?",
+        "That photo section is optional. Please read it before deciding."
+      ],
+      "expressionTask": "Ask which part of a class registration form is required and which part is a separate choice about photographs.",
+      "grammar": "Need to with a base verb",
+      "pattern": "need to + base verb",
+      "example": "You need to complete the first page.",
+      "task": "You need to ___ the first page.",
+      "answer": "complete",
+      "sound": "Requirement has its strongest beat on QUIRE. Written begins with R; the W is silent. Sign has a silent G, so do not say a separate G before N.",
+      "model": "A booking is a requirement for this activity.",
+      "dialogue": [
+        "I have the registration form. Which page should I start with?",
+        "Please fill in your details on the first page.",
+        "Do I need to complete this part about photographs?",
+        "No. That is a separate choice. The club needs written permission before using a visitor’s photo.",
+        "Then I will read it before I decide. Where do I sign?",
+        "The instructions show where to sign your name after checking the details. Ask the desk if anything is unclear."
+      ],
+      "reading": "A club asks visitors to complete a registration form before a class activity. Being on the booking list is a requirement. The first page says, “Please fill in your details,” and asks for the information needed for the booking. A separate, optional section concerns photographs. The club says it needs written permission before using a visitor’s photo. Bella does not assume that registering also means agreeing to the photo section. She reads both parts and asks about an unclear line. The instruction to sign your name comes after checking the form, not before reading it.",
+      "readingQ": "Does completing registration automatically mean agreeing to the photo section?",
+      "readingA": "No. The photo section is a separate, optional choice requiring written permission.",
+      "writing": "Write 45–65 words explaining what a visitor should check on this form. Keep the booking requirement separate from the optional photo choice.",
+      "writingSample": "Please complete the first page of the registration form for your booking. Check your details before signing. The photo section is a separate choice, not part of the booking requirement. The club needs written permission to use a visitor’s photo. Read that section and ask the desk if any line is unclear.",
+      "listening": "The first page is needed for your booking. The second page asks separately about using photographs, and you may leave that choice unanswered while you ask for an explanation. Please check your name on the first page before signing it. Registering does not automatically approve photo use.",
+      "question": "Which part is needed for the booking?",
+      "correct": "The first page",
+      "other": "Agreeing to photo use",
+      "speaking": "Ask two questions about a form: one about the required information and one about a separate optional section. Do not invent a rule beyond the notice.",
+      "speakingSample": "Which page do I need to complete for the booking? Thank you. Is the photo section a separate choice? I would like to read it before deciding. Could you explain this line so that I know what written permission would cover?"
+    },
+    {
+      "day": 143,
+      "unit": 18,
+      "title": "Tell a class organizer about an absence",
+      "goal": "I can use a stated deadline to report a change and distinguish an early update from a last-minute message.",
+      "newItems": [
+        {
+          "word": "absence",
+          "ipa": "/ˈæbsəns/",
+          "pos": "noun",
+          "definition": "The fact that someone is not at a place or event where they would normally be.",
+          "example": "Please report an absence to the class desk.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "give notice",
+          "ipa": "/ɡɪv ˈnoʊtɪs/",
+          "pos": "fixed phrase",
+          "definition": "Tell someone beforehand that something is going to happen or change.",
+          "example": "Please give notice if you cannot attend.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "as soon as you can",
+          "ipa": "/əz suːn əz juː kæn/",
+          "pos": "fixed phrase",
+          "definition": "At the earliest time that is possible for you.",
+          "example": "Send the update as soon as you can.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "in good time",
+          "ipa": "/ɪn ɡʊd taɪm/",
+          "pos": "fixed phrase",
+          "definition": "Early enough to do what is needed without rushing or being late.",
+          "example": "Tell the organizer in good time so the list can be changed.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "before the deadline",
+          "ipa": "/bɪˈfɔr ðə ˈdɛdˌlaɪn/",
+          "pos": "fixed phrase",
+          "definition": "Earlier than the last stated time for doing something.",
+          "example": "Send the change before the deadline on Thursday.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "class",
+        "message",
+        "time",
+        "date",
+        "change"
+      ],
+      "mainWord": {
+        "word": "absence",
+        "ipa": "/ˈæbsəns/",
+        "pos": "noun",
+        "definition": "The fact that someone is not at a place or event where they would normally be.",
+        "example": "Please report an absence to the class desk.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Absence is a noun: report an absence. Give notice means tell someone beforehand in this lesson; it is not a lesson about legal notice periods. In good time focuses on being early enough. A deadline comes from the stated notice, not from a general rule.",
+      "wordTask": "What does reporting an absence tell the class desk?",
+      "wordSample": "It tells the desk that someone will not be at the class.",
+      "expression": "What is the latest time to tell you?",
+      "use": "Check the actual deadline for reporting a change instead of assuming that any message will be early enough.",
+      "context": [
+        "What is the latest time to tell you?",
+        "For this workshop, please tell us before Thursday at noon."
+      ],
+      "expressionTask": "You cannot attend a workshop. Check the reporting deadline, give the important details and ask for confirmation.",
+      "grammar": "If with a practical instruction",
+      "pattern": "If + present simple, imperative",
+      "example": "If you cannot attend, send a message.",
+      "task": "If you cannot attend, ___ a message.",
+      "answer": "send",
+      "sound": "Absence has stress on AB. In notice, the first syllable is stronger. In good time, keep the D before starting T, without adding a vowel between them.",
+      "model": "Please report an absence to the class desk.",
+      "dialogue": [
+        "I cannot attend Friday’s workshop. What is the latest time to tell you?",
+        "For this workshop, please give notice before Thursday at noon.",
+        "It is Wednesday now. I will send my name and class details as soon as I can.",
+        "Thank you. That will reach us before the deadline.",
+        "Could you confirm that you have received the message?",
+        "Yes. Telling us in good time helps us update the list."
+      ],
+      "reading": "Bella needs to report an absence from Friday’s workshop. The notice asks learners to give notice before Thursday at noon. She checks the instruction rather than assuming that a message sent just before the class will be enough. On Wednesday, she writes her name and the workshop details, then follows the instruction, “Send the update as soon as you can.” Her message arrives before the deadline, giving the organizer time to change the list. The desk confirms receipt. Reporting in good time is useful, but the lesson does not suggest that one workshop’s deadline applies to every course.",
+      "readingQ": "How does Bella know which deadline to use?",
+      "readingA": "She checks this workshop’s notice, which says Thursday at noon.",
+      "writing": "Write 45–65 words reporting that you cannot attend a named workshop. Include the day, the fact that you are writing before its stated deadline and a request for confirmation.",
+      "writingSample": "Hello, I am Bella from the Friday workshop. I cannot attend this week. I am sending this message on Wednesday, before the Thursday noon deadline in your notice. Please update the class list. Could you confirm that you have received my message? Thank you for your help.",
+      "listening": "This message is for the Friday workshop. If you cannot attend, please tell the desk before Thursday at noon. The Saturday class has a different notice. Include your name and the workshop day so that we change the correct list.",
+      "question": "What is the deadline stated for the Friday workshop?",
+      "correct": "Thursday at noon",
+      "other": "Just before Friday’s class",
+      "speaking": "Report an absence in a short call. Identify the class, check the deadline and ask how to confirm that the update reached the organizer.",
+      "speakingSample": "Hello, I am calling about Friday’s workshop. I cannot attend this week. Your notice says I should tell you before Thursday at noon. Is this the right desk to update the list? Could you confirm that you have my name and class day?"
+    },
+    {
+      "day": 144,
+      "unit": 18,
+      "title": "Follow a group plan and check before leaving",
+      "goal": "I can explain a group instruction, check a change with the responsible person and read a new notice accurately.",
+      "newItems": [
+        {
+          "word": "stay together",
+          "ipa": "/steɪ təˈɡɛðɚ/",
+          "pos": "fixed phrase",
+          "definition": "Remain with one another instead of separating.",
+          "example": "Please stay together while we walk to the next room.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "return on time",
+          "ipa": "/rɪˈtɝn ɑn taɪm/",
+          "pos": "fixed phrase",
+          "definition": "Come back at the agreed time, without being late.",
+          "example": "We need to return on time after the break.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "stay with the group",
+          "ipa": "/steɪ wɪð ðə ɡruːp/",
+          "pos": "fixed phrase",
+          "definition": "Remain alongside the people taking part in the same activity.",
+          "example": "Please stay with the group during the guided visit.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "check in with",
+          "ipa": "/tʃɛk ɪn wɪð/",
+          "pos": "fixed phrase",
+          "definition": "Contact someone briefly to report or check a situation.",
+          "example": "Check in with the group leader before changing your plan.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "ask before you leave",
+          "ipa": "/æsk bɪˈfɔr juː liːv/",
+          "pos": "fixed phrase",
+          "definition": "Request permission or clarify an arrangement before going away.",
+          "example": "If you need to leave early, ask before you leave.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "group",
+        "guide",
+        "break",
+        "time",
+        "permission"
+      ],
+      "mainWord": {
+        "word": "stay together",
+        "ipa": "/steɪ təˈɡɛðɚ/",
+        "pos": "fixed phrase",
+        "definition": "Remain with one another instead of separating.",
+        "example": "Please stay together while we walk to the next room.",
+        "category": "fixed_phrase",
+        "status": "new"
+      },
+      "mainIntroduction": "Learn a useful expression and use it yourself.",
+      "mainWordForms": "Stay together and stay with the group describe remaining alongside others. Return on time refers to an agreed time. Check in with a person means contact them; it is different from checking in at a hotel. Ask before you leave does not itself mean permission has been given.",
+      "wordTask": "What should people do when a guide asks them to stay together?",
+      "wordSample": "They should remain with one another rather than separate.",
+      "expression": "Can we confirm the return time?",
+      "use": "Repeat an important time before a break so that everybody is following the same arrangement.",
+      "context": [
+        "Can we confirm the return time?",
+        "Yes. Please be back at the visitor desk at two fifteen."
+      ],
+      "expressionTask": "Confirm a break’s return time and explain whom to ask if you need to leave early.",
+      "grammar": "Before with a present-tense clause",
+      "pattern": "before + subject + present simple",
+      "example": "Ask the leader before you leave.",
+      "task": "Ask the leader before you ___.",
+      "answer": "leave",
+      "sound": "Together has stress on GETH, with a voiced TH. Return has stress on TURN. Keep the important time clear when you repeat a return instruction.",
+      "model": "Please stay together during the visit.",
+      "dialogue": [
+        "The guide asks us to stay together until the break.",
+        "All right. Can we confirm the return time?",
+        "Yes. We need to return on time at two fifteen, at the visitor desk.",
+        "What if I need to leave early?",
+        "Check in with the group leader and ask before you leave.",
+        "Understood. I will stay with the group now and speak to the leader during the break."
+      ],
+      "reading": "During a guided visit, the leader asks everyone to stay together while moving between rooms. Bella repeats the plan to make sure she understands: stay with the group until the break, then return on time at two fifteen. The meeting place is the visitor desk. Fenrir may need to leave early, so he will check in with the leader instead of simply disappearing. The notice says, “If you need to leave early, ask before you leave.” Confirming a time is not the same as receiving permission for a change; the group checks both details separately.",
+      "readingQ": "What should Fenrir do before leaving early?",
+      "readingA": "Check in with the leader and ask about the change before leaving.",
+      "writing": "Write 45–65 words reminding a partner about the group plan. Include the return time, meeting place and what to do before leaving early.",
+      "writingSample": "Please stay with the group while we move between rooms. During the break, remember to return on time at two fifteen. We will meet at the visitor desk. If you need to leave early, check in with the leader and ask before you leave so that the group knows about the change.",
+      "listening": "Our break starts at two. Please return to the visitor desk at two fifteen. The next activity starts at two twenty, so two twenty is not the return time. If you need to leave early, speak to the group leader before going.",
+      "question": "When must the group return to the visitor desk?",
+      "correct": "Two fifteen",
+      "other": "Two twenty",
+      "speaking": "Repeat a group plan to a partner. Confirm the meeting place and return time, then ask about an early departure without assuming permission.",
+      "speakingSample": "We should stay together until the break, then return to the visitor desk at two fifteen. I may need to leave early. Can I check in with the group leader during the break to ask whether that change is possible?",
+      "transferCheck": {
+        "source": "A science club has a morning session on Tuesday. The first group has a limit of five visitors and is already full. The second group starts at eleven; booking is required by Monday at three. A printed guide costs extra and is optional. A door marked Staff only leads to storage. At the break, the second group must return to reception at eleven forty, ten minutes before the next activity. Ask the leader before leaving early.",
+        "dictation": "The printed guide is optional, but booking is required.",
+        "tasks": [
+          [
+            "1 · Find the requirement",
+            "Must a visitor buy the printed guide? What must a visitor do before joining the second group?"
+          ],
+          [
+            "2 · Use the correct time",
+            "What is the booking deadline, and what is the return time after the break?"
+          ],
+          [
+            "3 · Explain a sign",
+            "Can a visitor enter the storage room without asking a member of staff? Explain the sign."
+          ],
+          [
+            "4 · Listen and write",
+            "Write the dictation sentence, then underline the words showing choice and obligation."
+          ],
+          [
+            "5 · Write a useful message",
+            "Write 40–60 words asking to book the second group. Mention the deadline, one optional purchase and how you would check an early departure."
+          ]
+        ],
+        "answer": "1. No. The printed guide is optional. A visitor must book the second group before Monday at three. 2. Booking: before Monday at three. Return: eleven forty, not eleven fifty when the next activity begins. 3. No. Staff only restricts entry to workers; a visitor should ask staff rather than assume access. 4. The printed guide is optional, but booking is required. Optional shows choice; required shows obligation. 5. Sample: Hello, I would like to book Tuesday’s eleven o’clock group before the Monday three o’clock deadline. I understand that the printed guide is optional, so I will decide about it later. If I need to leave early, I will ask the leader before going. Please confirm my booking."
+      }
+    }
+  ]
+}

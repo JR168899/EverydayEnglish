@@ -1,0 +1,888 @@
+{
+  "number": 21,
+  "title": "News and everyday media",
+  "lessons": [
+    {
+      "day": 161,
+      "unit": 21,
+      "title": "Read beyond a headline for the useful detail",
+      "goal": "I can use a short local report to identify the event, place and time rather than relying on its title alone.",
+      "newItems": [
+        {
+          "word": "headline",
+          "ipa": "/ˈhɛdˌlaɪn/",
+          "pos": "noun",
+          "definition": "The title of a news report, usually giving its main subject in a few words.",
+          "example": "The headline says that the town library will reopen.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "article",
+          "ipa": "/ˈɑrtɪkəl/",
+          "pos": "noun",
+          "definition": "A piece of writing about a subject in a newspaper, magazine or website.",
+          "example": "The article gives the reopening date and entrance information.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "reporter",
+          "ipa": "/rɪˈpɔrtɚ/",
+          "pos": "noun",
+          "definition": "A person who collects and presents news.",
+          "example": "The reporter asks the library manager about the opening.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "find out more",
+          "ipa": "/faɪnd aʊt mɔr/",
+          "pos": "fixed phrase",
+          "definition": "Get additional information about something.",
+          "example": "Read the article to find out more about the event.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "in the news",
+          "ipa": "/ɪn ðə nuːz/",
+          "pos": "fixed phrase",
+          "definition": "Being reported or discussed in news reports.",
+          "example": "The library reopening is in the news this week.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "library",
+        "date",
+        "time",
+        "entrance",
+        "manager"
+      ],
+      "mainWord": {
+        "word": "headline",
+        "ipa": "/ˈhɛdˌlaɪn/",
+        "pos": "noun",
+        "definition": "The title of a news report, usually giving its main subject in a few words.",
+        "example": "The headline says that the town library will reopen.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Headline, article and reporter are countable nouns. A headline summarizes a subject but may omit practical details. News is uncountable: some news, not a news. The article here is a piece of writing, not the grammar term for a, an or the.",
+      "wordTask": "Does a headline normally contain every practical detail in the full report?",
+      "wordSample": "No. A headline gives the subject briefly; details are usually in the article.",
+      "expression": "What does the full report say?",
+      "use": "Ask for information from the actual report when a title is too short to answer a practical question.",
+      "context": [
+        "What does the full report say?",
+        "The library opens at ten on Saturday, using the side entrance."
+      ],
+      "expressionTask": "A headline says the library is reopening. Ask for the date, time and entrance before planning a visit.",
+      "grammar": "Will with a base verb for a reported future event",
+      "pattern": "will + base verb",
+      "example": "The library will reopen on Saturday.",
+      "task": "The library will ___ on Saturday.",
+      "answer": "reopen",
+      "sound": "Headline has stress on HEAD. Article has stress on AR, and reporter on PORT. Keep the final N in headline clear before the next word.",
+      "model": "The headline announces the library reopening.",
+      "dialogue": [
+        "The library reopening is in the news. Does that mean it is open today?",
+        "Not necessarily. What does the full report say?",
+        "Let me read the article to find out more. It says Saturday at ten.",
+        "Does the reporter mention the entrance?",
+        "Yes. The manager says visitors should use the side entrance while the front steps are being repaired.",
+        "Then we can plan for Saturday and check the library’s own notice before leaving."
+      ],
+      "reading": "A local headline says the town library will reopen. Bella wants to visit, but the headline does not tell her when to arrive. She reads the article to find out more. A reporter has spoken to the library manager: the opening is on Saturday at ten, and visitors should use the side entrance. The front steps are still being repaired. The reopening is in the news this week, but that does not mean the library is already open today. Bella writes down the details and checks the library’s own current notice before making the journey.",
+      "readingQ": "Why would reading only the headline be insufficient for Bella’s visit?",
+      "readingA": "She also needs the opening day, time and entrance information from the article.",
+      "writing": "Write 45–65 words telling a friend about the reopening. Separate the headline’s general subject from the practical details in the report.",
+      "writingSample": "The headline says that the library will reopen, but the article gives the details we need. It opens on Saturday at ten, and visitors should use the side entrance because the front steps are being repaired. Let us check the library’s current notice before leaving rather than assume it is open today.",
+      "listening": "Today is Thursday. The headline announces the library reopening, but the event is on Saturday at ten. Use the side entrance. The reporter’s visit took place on Wednesday; Wednesday is not the public opening day.",
+      "question": "When is the public opening?",
+      "correct": "Saturday at ten",
+      "other": "Wednesday during the reporter’s visit",
+      "speaking": "Explain a short local report to a partner. Give the event, date, time and place detail, then name one thing to confirm before travelling.",
+      "speakingSample": "The library will reopen on Saturday at ten. The article says to use the side entrance while the front steps are repaired. The headline alone did not give those details. Before we travel, let us check that the library’s current notice still gives the same information.",
+      "photo": {
+        "id": "9566081",
+        "asset": "assets/a2-photos/9566081.jpg",
+        "sourceURL": "https://www.pexels.com/photo/close-up-shot-of-a-person-reading-a-newspaper-9566081/",
+        "credit": "MART PRODUCTION · Pexels",
+        "licenseURL": "https://www.pexels.com/license/",
+        "caption": "A large headline stands out from the smaller newspaper text.",
+        "alt": "A reader holds a newspaper with large headline lettering above smaller columns of text.",
+        "fit": "cover",
+        "focalY": 0.45,
+        "dimensions": [
+          1400,
+          933
+        ]
+      }
+    },
+    {
+      "day": 162,
+      "unit": 21,
+      "title": "Check where a practical claim came from",
+      "goal": "I can identify the source of a simple report and separate a checkable detail from a personal opinion.",
+      "newItems": [
+        {
+          "word": "source",
+          "ipa": "/sɔrs/",
+          "pos": "noun",
+          "definition": "The person, document or place from which information comes.",
+          "example": "The source of the bus update is the transport office’s notice.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "fact",
+          "ipa": "/fækt/",
+          "pos": "noun",
+          "definition": "A piece of information that is true and can be checked.",
+          "example": "The stated closure date can be checked against the notice.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "recent",
+          "ipa": "/ˈriːsənt/",
+          "pos": "adjective",
+          "definition": "Happening or appearing not long before the present time.",
+          "example": "Check whether the report is recent enough for today’s journey.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "official notice",
+          "ipa": "/əˈfɪʃəl ˈnoʊtɪs/",
+          "pos": "fixed phrase",
+          "definition": "A message issued by the person or organization responsible for a matter.",
+          "example": "The official notice gives the bus stop’s temporary location.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "personal opinion",
+          "ipa": "/ˈpɝsənəl əˈpɪnjən/",
+          "pos": "fixed phrase",
+          "definition": "A view held by an individual, rather than a detail proved by the view alone.",
+          "example": "The comment about the prettiest route is a personal opinion.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "bus",
+        "notice",
+        "date",
+        "opinion",
+        "stop"
+      ],
+      "mainWord": {
+        "word": "source",
+        "ipa": "/sɔrs/",
+        "pos": "noun",
+        "definition": "The person, document or place from which information comes.",
+        "example": "The source of the bus update is the transport office’s notice.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Source and fact are countable nouns. Recent is relative to the current time: a recent article can still refer to an older event. A stated claim is not a fact just because someone labels it one; check the relevant evidence. Official describes who issued a notice, not a guarantee that details never change.",
+      "wordTask": "What does source mean when asking about a bus update?",
+      "wordSample": "It means where the information came from, such as the transport office’s notice.",
+      "expression": "Where does that information come from?",
+      "use": "Ask for a claim’s source before using it to make a practical plan.",
+      "context": [
+        "Where does that information come from?",
+        "The transport office’s notice, dated this morning."
+      ],
+      "expressionTask": "A friend says a bus stop has moved. Ask for the source and date, then distinguish the location detail from a comment about the view.",
+      "grammar": "Where for the origin of information",
+      "pattern": "Where + does + subject + come from?",
+      "example": "Where does that information come from?",
+      "task": "Where does that information ___ from?",
+      "answer": "come",
+      "sound": "Source ends with R followed by S in the American model. Fact ends with K and T together. Recent has stress on REE, with a light second syllable.",
+      "model": "The source is the transport office’s notice.",
+      "dialogue": [
+        "Someone says our bus stop has moved beside the park.",
+        "Where does that information come from?",
+        "A recent local article links to the transport office’s official notice.",
+        "What does the notice say, and when was it issued?",
+        "It was issued this morning. The stop is at Park Gate from Friday. The writer also calls it the prettiest route.",
+        "The location is a checkable detail. The prettiest-route comment is a personal opinion, not a fact about every traveller’s experience."
+      ],
+      "reading": "Fenrir reads that a bus stop will move to Park Gate on Friday. Bella asks for the source. The recent article links to an official notice from the transport office, dated that morning. They can check the location and start date against that notice before travelling. The writer also says the route is the prettiest in town. That is a personal opinion; it does not establish a fact about what every passenger will enjoy. The friends separate the practical information they need from the writer’s reaction. They also keep the source date, because arrangements can change.",
+      "readingQ": "Which information can the friends check against the transport notice?",
+      "readingA": "The new stop location and the date when the move starts.",
+      "writing": "Write 45–65 words explaining the bus update to a friend. Include its source and date and identify one comment that is an opinion.",
+      "writingSample": "The bus stop moves to Park Gate from Friday. The source is the transport office’s notice dated this morning, linked in a recent article. We can check the location and start date there. The writer’s comment that it is the prettiest route is a personal opinion, not part of the travel instruction.",
+      "listening": "The article was posted today, but it links to a transport notice dated last month. A newer notice on the transport office’s page says the stop stays where it is until next Monday. Check that newer notice for the current arrangement, rather than using the article’s posting date alone.",
+      "question": "Which detail should guide the current plan?",
+      "correct": "The newer notice says the stop stays until next Monday",
+      "other": "The article’s posting date proves the move has already happened",
+      "speaking": "Ask a partner for the source and date of a simple travel claim. Repeat one checkable detail and label a separate preference as an opinion.",
+      "speakingSample": "Where does that information come from, and what date is on the notice? Let us check the current stop location with the transport office. A writer may prefer the view on one route, but that opinion does not tell us when the stop changes."
+    },
+    {
+      "day": 163,
+      "unit": 21,
+      "title": "Listen for the area and time a report covers",
+      "goal": "I can distinguish a local update from wider news and identify which part affects a particular journey.",
+      "newItems": [
+        {
+          "word": "broadcast",
+          "ipa": "/ˈbrɔdˌkæst/",
+          "pos": "noun",
+          "definition": "A program or message transmitted by radio or television.",
+          "example": "The morning broadcast includes a local travel update.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "listener",
+          "ipa": "/ˈlɪsənɚ/",
+          "pos": "noun",
+          "definition": "Someone who listens, especially to a radio or audio program.",
+          "example": "A listener asks which road is affected.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "national",
+          "ipa": "/ˈnæʃənəl/",
+          "pos": "adjective",
+          "definition": "Relating to a whole country.",
+          "example": "The national news covers events across the country.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "international",
+          "ipa": "/ˌɪntɚˈnæʃənəl/",
+          "pos": "adjective",
+          "definition": "Involving or relating to more than one country.",
+          "example": "The international section reports on events in several countries.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "on the radio",
+          "ipa": "/ɑn ðə ˈreɪdiˌoʊ/",
+          "pos": "fixed phrase",
+          "definition": "Transmitted or heard through a radio service.",
+          "example": "I heard the local update on the radio.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "local",
+        "road",
+        "morning",
+        "country",
+        "travel"
+      ],
+      "mainWord": {
+        "word": "broadcast",
+        "ipa": "/ˈbrɔdˌkæst/",
+        "pos": "noun",
+        "definition": "A program or message transmitted by radio or television.",
+        "example": "The morning broadcast includes a local travel update.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Broadcast and listener are countable nouns. National and international describe scope, not a guarantee of importance to a particular listener. A local update may be the relevant part for one short journey. Listen has a silent T; listener keeps that spelling pattern.",
+      "wordTask": "What does a radio broadcast mean?",
+      "wordSample": "It is a program or message transmitted through a radio service.",
+      "expression": "Which area does that update cover?",
+      "use": "Check the location affected by an announcement before assuming it applies to your route.",
+      "context": [
+        "Which area does that update cover?",
+        "The east side of town, not the station road on the west side."
+      ],
+      "expressionTask": "Explain which part of a radio program affects a local journey and distinguish it from the national and international sections.",
+      "grammar": "Present simple for a program’s regular structure",
+      "pattern": "subject + present simple verb",
+      "example": "The broadcast includes a local travel update.",
+      "task": "The broadcast ___ a local travel update.",
+      "answer": "includes",
+      "sound": "Broadcast has stress on BROAD. Listener begins with LIS and has no T sound. National has stress on NA; international has its strongest beat on NA too.",
+      "model": "The broadcast includes a local travel update.",
+      "dialogue": [
+        "I heard a road closure on the radio. Is our station journey affected?",
+        "Which area does that update cover?",
+        "The east side of town, between nine and eleven.",
+        "Our station road is on the west side. Let us check the road name as well.",
+        "The broadcast also had national and international sections. I almost mixed them with the local message.",
+        "As listeners, we need the exact place and time for our particular journey."
+      ],
+      "reading": "The morning broadcast has national news, international news and a local travel update. Bella hears that a road will close between nine and eleven. As a listener planning a station journey, she needs more than the word closure. She checks the named area: the east side of town. Her station road is on the west side. Fenrir reminds her to check the exact road name before deciding. The update on the radio may be useful, but its location and time determine whether it affects this journey. Wider news sections cover different areas and subjects.",
+      "readingQ": "Which two details help Bella decide whether the closure affects her journey?",
+      "readingA": "The exact road or area and the time of the closure.",
+      "writing": "Write 45–65 words summarizing the local travel message for a friend. Include area and time and state what still needs checking for the station journey.",
+      "writingSample": "The local update in the morning broadcast says a road on the east side will close from nine to eleven. Our station road is on the west side, so we should not assume it is the same road. Let us check the exact name before deciding whether our journey needs to change.",
+      "listening": "This is the local travel update. East Road closes from nine to eleven today. Station Road on the west side remains open. The national news follows after this message. A caller asking about the station should use the road names, not just the phrase local closure.",
+      "question": "Which road does this message say remains open?",
+      "correct": "Station Road on the west side",
+      "other": "East Road from nine to eleven",
+      "speaking": "Repeat a local audio update using the exact place and time. Explain which detail applies to a partner’s journey and which detail needs checking.",
+      "speakingSample": "The local broadcast says East Road closes between nine and eleven. It also says Station Road on the west side stays open. Which road are you using? Let us check the names before changing your plan."
+    },
+    {
+      "day": 164,
+      "unit": 21,
+      "title": "Match a photograph to its written description",
+      "goal": "I can read a caption to distinguish what a photograph shows from what a current report announces.",
+      "newItems": [
+        {
+          "word": "caption",
+          "ipa": "/ˈkæpʃən/",
+          "pos": "noun",
+          "definition": "A short piece of text describing a picture or giving information about it.",
+          "example": "The caption says the photograph was taken last spring.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "editor",
+          "ipa": "/ˈɛdɪtɚ/",
+          "pos": "noun",
+          "definition": "A person who checks and prepares writing or other material for publication.",
+          "example": "The editor checks the date in the picture caption.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "publish",
+          "ipa": "/ˈpʌblɪʃ/",
+          "pos": "verb",
+          "definition": "Make writing or other material available for people to read or view.",
+          "example": "The club will publish its report on Friday.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "photo credit",
+          "ipa": "/ˈfoʊtoʊ ˈkrɛdɪt/",
+          "pos": "fixed phrase",
+          "definition": "Text naming the photographer or image source.",
+          "example": "The photo credit names the person who took the photograph.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "online edition",
+          "ipa": "/ˈɑnlaɪn ɪˈdɪʃən/",
+          "pos": "fixed phrase",
+          "definition": "A version of a publication available through the internet.",
+          "example": "The online edition includes a link to the current event notice.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "photo",
+        "date",
+        "spring",
+        "report",
+        "day"
+      ],
+      "mainWord": {
+        "word": "caption",
+        "ipa": "/ˈkæpʃən/",
+        "pos": "noun",
+        "definition": "A short piece of text describing a picture or giving information about it.",
+        "example": "The caption says the photograph was taken last spring.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Caption and editor are countable nouns; publish is a verb. A photo credit identifies the photographer or source; a caption describes the picture. An online edition is a version of a publication; its publication date can differ from the date of a photograph inside it.",
+      "wordTask": "Where would you look for a photograph’s short description and date information?",
+      "wordSample": "I would read its caption.",
+      "expression": "Was this photo taken at the same event?",
+      "use": "Check whether an illustration actually shows the event being reported or an earlier related occasion.",
+      "context": [
+        "Was this photo taken at the same event?",
+        "No. The caption says last spring; the report announces this Saturday’s event."
+      ],
+      "expressionTask": "A current report uses a photograph from an earlier event. Explain the difference using the picture caption and report details.",
+      "grammar": "Past simple question about when a picture was taken",
+      "pattern": "When + was + subject + past participle?",
+      "example": "When was this photo taken?",
+      "task": "When ___ this photo taken?",
+      "answer": "was",
+      "sound": "Caption has stress on CAP and a SH sound in its ending. Editor has stress on ED. Publish has stress on PUB; keep the final SH without adding a vowel.",
+      "model": "The caption gives the photograph’s date.",
+      "dialogue": [
+        "The online edition has a crowded photo beside the new event report. Was this photo taken at the same event?",
+        "Let us read the picture caption. It says last spring.",
+        "So it does not show that this Saturday’s event has already happened.",
+        "Right. The editor used a photo from the earlier event and gave its date.",
+        "When will the club publish the final details for this Saturday?",
+        "The report says Friday. We should use those details rather than guess from the older picture."
+      ],
+      "reading": "A club plans to publish a report about its next open day. The online edition includes a photograph of visitors from last spring. Its caption gives the earlier date clearly, and a separate photo credit names the photographer. Bella initially wonders whether the crowd shows that the new event has already happened, but the editor’s caption answers that question. The current report announces an event for this Saturday, with final details coming on Friday. The photograph illustrates a related occasion; it is not evidence that the future event is finished. Reading both the caption and the article keeps their dates separate.",
+      "readingQ": "Why does the crowded photo not show that this Saturday’s event has already happened?",
+      "readingA": "Its caption identifies it as a photograph from last spring.",
+      "writing": "Write 45–65 words explaining a current report with an older photograph. Include both dates and where to look for final event information.",
+      "writingSample": "The online report announces the club’s open day for this Saturday. Its photograph is from last spring, as the picture caption explains. The crowd does not show that the new event has happened already. The club will publish final details on Friday, so we should check those before planning our visit.",
+      "listening": "The online report was posted this morning. The photograph beside it is from last spring, which is stated in the caption. This year’s event is on Saturday, and final details will be published on Friday. The photo date and the report’s posting date are different.",
+      "question": "When was the photograph taken?",
+      "correct": "Last spring",
+      "other": "This morning when the report was posted",
+      "speaking": "Explain an article’s picture to a partner who confuses the photo date with the event date. Use the caption and current report as separate evidence.",
+      "speakingSample": "The report was posted this morning, but the caption says the photograph is from last spring. This Saturday’s event is still in the future. Let us check the final details on Friday rather than assume the older crowd picture shows the new event."
+    },
+    {
+      "day": 165,
+      "unit": 21,
+      "title": "Compare information in different printed formats",
+      "goal": "I can identify where a printed format is used and find the practical detail needed for a decision.",
+      "newItems": [
+        {
+          "word": "poster",
+          "ipa": "/ˈpoʊstɚ/",
+          "pos": "noun",
+          "definition": "A large printed notice or picture displayed on a wall or other surface.",
+          "example": "The poster on the wall announces the open day.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "flyer",
+          "ipa": "/ˈflaɪɚ/",
+          "pos": "noun",
+          "definition": "A small printed sheet advertising or announcing something, often handed to people.",
+          "example": "A helper gives visitors a flyer with the event times.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "brochure",
+          "ipa": "/broʊˈʃʊr/",
+          "pos": "noun",
+          "definition": "A small booklet or folded publication giving information about a place, product or service.",
+          "example": "The brochure describes the center’s different activities.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "printed copy",
+          "ipa": "/ˈprɪntɪd ˈkɑpi/",
+          "pos": "fixed phrase",
+          "definition": "A version of a document produced on paper.",
+          "example": "Ask at the desk for a printed copy of the timetable.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "free of charge",
+          "ipa": "/friː əv tʃɑrdʒ/",
+          "pos": "fixed phrase",
+          "definition": "Without payment for the stated item or service.",
+          "example": "The timetable is available free of charge.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "wall",
+        "desk",
+        "paper",
+        "event",
+        "timetable"
+      ],
+      "mainWord": {
+        "word": "poster",
+        "ipa": "/ˈpoʊstɚ/",
+        "pos": "noun",
+        "definition": "A large printed notice or picture displayed on a wall or other surface.",
+        "example": "The poster on the wall announces the open day.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Poster, flyer and brochure are countable. These formats differ in typical use, though size and folding can vary. Free of charge applies to the stated item; a free timetable does not mean every event listed is free.",
+      "wordTask": "Which format is typically displayed as a large notice on a wall?",
+      "wordSample": "A poster is typically displayed on a wall.",
+      "expression": "Does free refer to the leaflet or the activity?",
+      "use": "Check exactly what a no-payment statement covers before assuming it applies to everything advertised.",
+      "context": [
+        "Does free refer to the leaflet or the activity?",
+        "The timetable is free of charge; the workshop has a separate ticket price."
+      ],
+      "expressionTask": "Compare a wall poster, a handout and a detailed booklet. Identify where to find times and whether the stated free item is the activity itself.",
+      "grammar": "Available with a place or condition",
+      "pattern": "subject + be + available + place or condition",
+      "example": "A printed copy is available at the desk.",
+      "task": "A printed copy ___ available at the desk.",
+      "answer": "is",
+      "sound": "Poster has stress on POST and flyer on FLY. Brochure has stress on SHUR in this American model. Charge ends with the joined sound at the end of badge.",
+      "model": "The poster announces the open day.",
+      "dialogue": [
+        "The poster says the center has an open day. Where can we find the times?",
+        "This flyer has the main event times. The brochure gives longer descriptions.",
+        "Can I get a printed copy of the full timetable?",
+        "Yes. It is available free of charge at the desk.",
+        "Does free refer to the handout or the activity?",
+        "The timetable. Some activities have a ticket price, so check the listing for the one you want."
+      ],
+      "reading": "At a community center, a poster on the wall announces an open day. A helper gives Bella a flyer showing the main times. A brochure describes the activities in more detail. Fenrir wants the full timetable, so he asks for a printed copy at the desk. The handout is free of charge, but that statement refers to the paper timetable. It does not make every activity free. One workshop requires a ticket. The friends use the short announcement to find the event and the detailed information to check its time and price.",
+      "readingQ": "Why does the free timetable not establish that the workshop is free?",
+      "readingA": "Free of charge refers to the handout, while the workshop has a separate ticket requirement.",
+      "writing": "Write 45–65 words helping a visitor find the right printed information. Explain the wall notice, detailed descriptions and what is free.",
+      "writingSample": "The poster on the wall announces the open day. Take a flyer for the main times and read the brochure for longer descriptions. A printed copy of the full timetable is free of charge at the desk. That does not mean every activity is free; check the workshop’s separate ticket information.",
+      "listening": "The poster announces the open day, and the brochure describes each activity. The full timetable is a separate sheet at reception, free of charge. The evening workshop costs five dollars. Collecting the free timetable does not give you a workshop ticket.",
+      "question": "What is available without payment?",
+      "correct": "The printed timetable",
+      "other": "The evening workshop ticket",
+      "speaking": "Explain which printed format a visitor should use for a brief announcement, descriptions and a full schedule. Clarify the meaning of free in this notice.",
+      "speakingSample": "Start with the poster for the announcement and the flyer for the main times. The brochure gives activity descriptions. You can collect the full timetable free of charge at the desk, but you still need to check each activity’s own ticket information."
+    },
+    {
+      "day": 166,
+      "unit": 21,
+      "title": "Read a newsletter sign-up notice accurately",
+      "goal": "I can explain what a sign-up provides, how often messages arrive and which details remain separate.",
+      "newItems": [
+        {
+          "word": "subscription",
+          "ipa": "/səbˈskrɪpʃən/",
+          "pos": "noun",
+          "definition": "An arrangement to receive a publication or service regularly, sometimes in return for payment.",
+          "example": "The club offers a free email subscription to its weekly newsletter.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "weekly edition",
+          "ipa": "/ˈwiːkli ɪˈdɪʃən/",
+          "pos": "fixed phrase",
+          "definition": "A version of a publication issued each week.",
+          "example": "The weekly edition arrives on Friday.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "email update",
+          "ipa": "/ˈiːmeɪl ˈʌpˌdeɪt/",
+          "pos": "fixed phrase",
+          "definition": "A message sent by email giving new information.",
+          "example": "The email update lists next week’s activities.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "cancel at any time",
+          "ipa": "/ˈkænsəl æt ˈɛni taɪm/",
+          "pos": "fixed phrase",
+          "definition": "End the arrangement whenever you choose, subject to the stated terms.",
+          "example": "This notice says readers can cancel at any time using its link.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "stay up to date",
+          "ipa": "/steɪ ʌp tuː deɪt/",
+          "pos": "fixed phrase",
+          "definition": "Continue to receive or know the latest relevant information.",
+          "example": "The newsletter helps members stay up to date with club events.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "email",
+        "weekly",
+        "day",
+        "link",
+        "cancel"
+      ],
+      "mainWord": {
+        "word": "subscription",
+        "ipa": "/səbˈskrɪpʃən/",
+        "pos": "noun",
+        "definition": "An arrangement to receive a publication or service regularly, sometimes in return for payment.",
+        "example": "The club offers a free email subscription to its weekly newsletter.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Subscription is a noun; subscribe is the related verb. A subscription can be free or paid, so read the notice. A weekly edition describes frequency. Cancel at any time describes this example’s stated option, not every service’s terms.",
+      "wordTask": "Does the word subscription itself tell you that a service must cost money?",
+      "wordSample": "No. A subscription can be free or paid; the notice should state the terms.",
+      "expression": "What exactly will I receive?",
+      "use": "Check the content and frequency of messages instead of assuming a sign-up includes event bookings or other services.",
+      "context": [
+        "What exactly will I receive?",
+        "One newsletter each Friday. Event tickets are booked separately."
+      ],
+      "expressionTask": "Explain a fictional club newsletter offer using its stated frequency, price and cancellation method. Keep event tickets separate.",
+      "grammar": "Every with a singular time word",
+      "pattern": "every + singular day or period",
+      "example": "The newsletter arrives every Friday.",
+      "task": "The newsletter arrives every ___.",
+      "answer": "Friday",
+      "sound": "Subscription has stress on SCRIP. Edition has stress on DI. In update as a noun, the strongest beat is UP in this model.",
+      "model": "The subscription provides one newsletter a week.",
+      "dialogue": [
+        "The club offers a newsletter subscription. What exactly will I receive?",
+        "One weekly edition by email each Friday, with an email update about the next week’s activities.",
+        "Is there a charge?",
+        "This notice says it is free and readers can cancel at any time using the link in each message.",
+        "Does signing up also book event tickets?",
+        "No. It helps you stay up to date, but each event needs a separate booking."
+      ],
+      "reading": "A club offers a free email subscription to its newsletter. The weekly edition arrives each Friday and includes an email update about coming activities. Bella reads what the sign-up actually provides: one message a week, not automatic event tickets. The notice says readers can cancel at any time through a link in each newsletter. Fenrir wants to stay up to date, so these are the details he checks before deciding. The club’s example has no fee, but the word subscription alone would not establish that every other newsletter or service is free.",
+      "readingQ": "What does joining the newsletter not provide automatically?",
+      "readingA": "It does not automatically book event tickets.",
+      "writing": "Write 45–65 words explaining the fictional newsletter offer. Include frequency, price, cancellation and one thing it does not include.",
+      "writingSample": "The club offers a free newsletter subscription. You receive one email each Friday about the next week’s activities. The notice says you can cancel at any time through the link in a message. It helps you stay up to date, but it does not book event tickets; those need a separate booking.",
+      "listening": "This club newsletter is free and arrives on Fridays. Signing up adds you to the newsletter list only. It does not reserve a place at Saturday’s workshop. To attend the workshop, use its separate booking page and check whether places remain.",
+      "question": "Does newsletter sign-up reserve a workshop place?",
+      "correct": "No, a separate booking is needed",
+      "other": "Yes, the Friday email automatically books it",
+      "speaking": "Summarize a newsletter offer to a partner without signing up. State only the frequency, price and cancellation method supplied in the example.",
+      "speakingSample": "This example offers one free email each Friday. It includes activity news and a cancellation link. It does not automatically reserve tickets. If you want a workshop place, check that workshop’s separate booking information before deciding."
+    },
+    {
+      "day": 167,
+      "unit": 21,
+      "title": "Keep a speaker’s words and the recording time clear",
+      "goal": "I can identify who said a short statement and distinguish a current report from an earlier recording.",
+      "newItems": [
+        {
+          "word": "quotation",
+          "ipa": "/kwoʊˈteɪʃən/",
+          "pos": "noun",
+          "definition": "Words repeated from what someone said or wrote, normally showing their original wording.",
+          "example": "The report includes the manager’s quotation, “We open at ten.”",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "presenter",
+          "ipa": "/prɪˈzɛntɚ/",
+          "pos": "noun",
+          "definition": "A person who introduces and leads a radio, television or other program.",
+          "example": "The presenter introduces the reporter at the library.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "live report",
+          "ipa": "/laɪv rɪˈpɔrt/",
+          "pos": "fixed phrase",
+          "definition": "A report transmitted as the reporting is taking place, rather than played from an earlier recording.",
+          "example": "The live report begins outside the library at nine.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "recorded message",
+          "ipa": "/rɪˈkɔrdɪd ˈmɛsɪdʒ/",
+          "pos": "fixed phrase",
+          "definition": "A message stored earlier so that it can be played later.",
+          "example": "The program plays a recorded message from the manager.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "at the scene",
+          "ipa": "/æt ðə siːn/",
+          "pos": "fixed phrase",
+          "definition": "At the place where the event being discussed is happening or happened.",
+          "example": "The reporter is at the scene of the library reopening.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "manager",
+        "library",
+        "reporter",
+        "time",
+        "voice"
+      ],
+      "mainWord": {
+        "word": "quotation",
+        "ipa": "/kwoʊˈteɪʃən/",
+        "pos": "noun",
+        "definition": "Words repeated from what someone said or wrote, normally showing their original wording.",
+        "example": "The report includes the manager’s quotation, “We open at ten.”",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Quotation and presenter are countable nouns. Live has the vowel in eye when it means transmitted now; it is different from live as a verb meaning reside. A live report can contain an earlier recorded message, so check the introduction to each part.",
+      "wordTask": "What does a quotation show in a report?",
+      "wordSample": "It repeats someone’s words, and the report should identify who said them.",
+      "expression": "Who said that, and when was it recorded?",
+      "use": "Check the speaker and recording time before treating every voice in a current program as speaking now.",
+      "context": [
+        "Who said that, and when was it recorded?",
+        "The manager said it in yesterday’s recorded message; the reporter is speaking live now."
+      ],
+      "expressionTask": "Explain a program containing a live reporter and an earlier manager message. Keep the speaker, time and exact opening statement separate.",
+      "grammar": "Past simple for a statement made earlier",
+      "pattern": "subject + said + quotation",
+      "example": "The manager said, “We open at ten.”",
+      "task": "The manager ___, “We open at ten.”",
+      "answer": "said",
+      "sound": "Quotation has stress on TA. Presenter has stress on ZEN. Live in live report rhymes with five, not give.",
+      "model": "The quotation gives the manager’s words.",
+      "dialogue": [
+        "The presenter says the reporter is at the scene outside the library at nine.",
+        "Is every voice in this live report speaking now?",
+        "No. They just played someone saying, “We open at ten.”",
+        "Who said that, and when was it recorded?",
+        "The manager said it in yesterday’s recorded message. The reporter is live now.",
+        "Then let us keep the quotation, its speaker and the time of that recording clear."
+      ],
+      "reading": "At nine, a presenter introduces a live report from outside the library. The reporter is at the scene and describes people waiting for the opening. The program then plays a recorded message made by the manager the day before. Her quotation is short: “We open at ten.” Bella checks who said those words and when they were recorded. The manager’s voice belongs to an earlier message, even though the whole program is being heard now. Fenrir repeats the opening time without changing the quotation into a claim that the doors are already open at nine.",
+      "readingQ": "Why is the manager’s voice not necessarily live just because the reporter is live?",
+      "readingA": "The program identifies her part as a recorded message from the day before.",
+      "writing": "Write 45–65 words explaining the two parts of this program. Identify the live speaker, the earlier speaker and the opening time.",
+      "writingSample": "The reporter is speaking live outside the library at nine. The presenter then plays the manager’s recorded message from yesterday. In that message, she says, “We open at ten.” The voices come from different times. The quotation gives an opening time of ten; it does not mean the library is already open at nine.",
+      "listening": "You are hearing our reporter live at the library at nine. We will now play a message the manager recorded yesterday: “We open at ten.” After the recording, we return to our reporter outside the entrance. The manager is not speaking live in that section.",
+      "question": "Which part was recorded yesterday?",
+      "correct": "The manager’s message",
+      "other": "The reporter’s current description at nine",
+      "speaking": "Explain the program to a partner who assumes both people are speaking live. Repeat the short quotation accurately and identify its speaker.",
+      "speakingSample": "The reporter is live outside the library now at nine. The manager’s message was recorded yesterday. Her quotation is, “We open at ten.” We should not change that into “The library is open now,” because the current time is only nine."
+    },
+    {
+      "day": 168,
+      "unit": 21,
+      "title": "Give a brief and accurate local update",
+      "goal": "I can summarize a short practical notice while keeping its important time, place and condition.",
+      "newItems": [
+        {
+          "word": "summary",
+          "ipa": "/ˈsʌməri/",
+          "pos": "noun",
+          "definition": "A short account of the main information in something longer.",
+          "example": "The summary keeps the opening time and entrance detail.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "brief",
+          "ipa": "/briːf/",
+          "pos": "adjective",
+          "definition": "Short in time or length.",
+          "example": "Give a brief update with the details visitors need.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "accurate",
+          "ipa": "/ˈækjərət/",
+          "pos": "adjective",
+          "definition": "Correct and matching the facts or information being described.",
+          "example": "An accurate update must keep the date unchanged.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "put it simply",
+          "ipa": "/pʊt ɪt ˈsɪmpli/",
+          "pos": "fixed phrase",
+          "definition": "Explain something in an easy and direct way.",
+          "example": "Put it simply: the main door opens at ten, not nine.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "the key detail",
+          "ipa": "/ðə kiː ˈdiːteɪl/",
+          "pos": "fixed phrase",
+          "definition": "The particular piece of information that is most important for the current purpose.",
+          "example": "For our journey, the key detail is the temporary stop location.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "date",
+        "time",
+        "entrance",
+        "source",
+        "article"
+      ],
+      "mainWord": {
+        "word": "summary",
+        "ipa": "/ˈsʌməri/",
+        "pos": "noun",
+        "definition": "A short account of the main information in something longer.",
+        "example": "The summary keeps the opening time and entrance detail.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Summary is a countable noun; brief and accurate are adjectives. Brief means short, not automatically correct. A useful summary keeps the conditions needed for the listener’s purpose even when it removes extra description.",
+      "wordTask": "What does a summary do with a longer report?",
+      "wordSample": "It gives the main information in a shorter account.",
+      "expression": "Have I kept the important condition?",
+      "use": "Check that shortening a message has not removed a condition needed to use the information correctly.",
+      "context": [
+        "Have I kept the important condition?",
+        "Include that the side entrance is used only before noon."
+      ],
+      "expressionTask": "Summarize a library notice in two or three sentences. Keep its date, time and condition about which entrance visitors should use.",
+      "grammar": "Only before with a time expression",
+      "pattern": "action + only before + time",
+      "example": "Use the side entrance only before noon.",
+      "task": "Use the side entrance only ___ noon.",
+      "answer": "before",
+      "sound": "Summary has stress on SUM, brief is one syllable and accurate has stress on AC. Keep the ending of accurate light rather than adding a strong extra beat.",
+      "model": "The summary keeps the important condition.",
+      "dialogue": [
+        "I wrote a brief summary: “The library opens Saturday at ten. Use the side entrance.”",
+        "Have you kept the important condition from the article?",
+        "The source says the side entrance is only for visits before noon.",
+        "Then add that limit so the update stays accurate.",
+        "All right. To put it simply: open Saturday at ten; use the side entrance before noon and the main entrance afterward.",
+        "Good. For someone arriving later, the key detail is that entrance change."
+      ],
+      "reading": "Bella prepares a summary of a library notice. She wants a brief message, but she also wants it to be accurate. The source says the library opens on Saturday at ten. Visitors use the side entrance before noon and the main entrance from noon onward. If Bella removes the time condition, a later visitor may go to the wrong door. She asks whether she has kept the key detail for someone arriving at one. Fenrir helps her put it simply while preserving the difference between the morning and afternoon arrangements.",
+      "readingQ": "What condition must remain in the summary for a visitor arriving at one?",
+      "readingA": "The main entrance is used from noon onward, so the side-entrance instruction does not apply at one.",
+      "writing": "Write 45–65 words summarizing this notice for someone visiting at one. Keep the opening day and time and the relevant entrance condition.",
+      "writingSample": "The library opens on Saturday at ten. The side entrance is for visitors arriving before noon. From noon onward, use the main entrance. Because you plan to arrive at one, the main entrance is the relevant door for you. Check the current notice before travelling in case an arrangement changes.",
+      "listening": "Here is the brief update. The library opens Saturday at ten. Use the side entrance before noon, then the main entrance from noon onward. If you arrive at one, use the main entrance. The entrance instruction changes at noon, not when the library closes.",
+      "question": "Which entrance should a visitor use at one?",
+      "correct": "The main entrance",
+      "other": "The side entrance",
+      "speaking": "Give a brief update for two visitors arriving at eleven and one. Keep the message short while giving each person the correct entrance.",
+      "speakingSample": "The library opens Saturday at ten. If you arrive at eleven, use the side entrance because it is before noon. If you arrive at one, use the main entrance. That condition is the key detail; a shorter message should not remove it.",
+      "transferCheck": {
+        "source": "A town museum notice, updated Tuesday morning, says its new room opens on Friday at eleven. Before two, visitors use the garden entrance; from two onward, they use the front entrance. A newspaper article posted Tuesday links to that notice. The article’s photograph is from last year, as its caption explains. A separate comment calls the new room “the most beautiful place in town.” A visitor plans to arrive Friday at three.",
+        "dictation": "From two onward, visitors use the front entrance.",
+        "tasks": [
+          [
+            "1 · Identify the useful source",
+            "Which linked source gives the practical opening and entrance arrangements?"
+          ],
+          [
+            "2 · Apply a condition",
+            "Which entrance should the three o’clock visitor use, and why?"
+          ],
+          [
+            "3 · Separate image and opinion",
+            "Does the photograph prove the room opened last year? Is most beautiful a checkable opening instruction? Explain both."
+          ],
+          [
+            "4 · Listen and write",
+            "Write the dictation sentence and keep its time condition."
+          ],
+          [
+            "5 · Write a brief update",
+            "Write 40–60 words for the three o’clock visitor. Include opening day and time, the relevant entrance and what the photograph’s date actually tells you."
+          ]
+        ],
+        "answer": "1. The town museum’s notice updated Tuesday morning. 2. The front entrance, because three is after the two o’clock change. 3. No. The caption dates the photograph to last year, not the opening of the new room. Most beautiful expresses a personal judgment, not an entrance or opening instruction. 4. From two onward, visitors use the front entrance. 5. Sample: The museum’s new room opens on Friday at eleven. Because you plan to arrive at three, use the front entrance; the garden entrance is only for visits before two. The article’s photograph is from last year, as its caption states. It does not show that the new room opened then."
+      }
+    }
+  ]
+}

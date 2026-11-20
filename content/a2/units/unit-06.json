@@ -1,0 +1,865 @@
+{
+  "number": 6,
+  "title": "Local and longer journeys",
+  "lessons": [
+    {
+      "day": 41,
+      "unit": 6,
+      "title": "Compare ways to travel across town",
+      "goal": "I can compare ways to travel across town.",
+      "newItems": [
+        {
+          "word": "bicycle",
+          "ipa": "/ˈbaɪsɪkəl/",
+          "pos": "noun",
+          "definition": "A vehicle with two wheels that you move by pushing pedals with your feet.",
+          "example": "I ride my bicycle to the library.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "scooter",
+          "ipa": "/ˈskutɚ/",
+          "pos": "noun",
+          "definition": "A small two-wheeled vehicle with a narrow board to stand on and a handle to hold.",
+          "example": "She pushes her scooter along the path.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "public transport",
+          "ipa": "/ˈpʌblɪk ˈtrænspɔrt/",
+          "pos": "fixed phrase",
+          "definition": "Buses, trains and similar services that members of the public can use.",
+          "example": "We use public transport when we visit the city.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "bus lane",
+          "ipa": "/ˈbʌs leɪn/",
+          "pos": "fixed phrase",
+          "definition": "A marked part of a road mainly reserved for buses.",
+          "example": "The bus uses a bus lane beside the traffic.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "rush hour",
+          "ipa": "/ˈrʌʃ ˌaʊɚ/",
+          "pos": "fixed phrase",
+          "definition": "The busy time when many people travel to or from work or school.",
+          "example": "The buses are crowded during rush hour.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "bus",
+        "train",
+        "traffic",
+        "travel",
+        "safe"
+      ],
+      "mainWord": {
+        "word": "bicycle",
+        "ipa": "/ˈbaɪsɪkəl/",
+        "pos": "noun",
+        "definition": "A vehicle with two wheels that you move by pushing pedals with your feet.",
+        "example": "I ride my bicycle to the library.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Noun: bicycle; plural: bicycles. Bike is a common shorter word. Ride a bicycle describes the action.",
+      "wordTask": "Tell a friend how you travel on a bicycle, using ride rather than drive.",
+      "wordSample": "I ride my bicycle to the library when the weather is good.",
+      "expression": "Which would be easier today?",
+      "use": "Compare travel choices using the actual weather, time and people involved.",
+      "context": [
+        "We could cycle or use the bus. Which would be easier today?",
+        "The bus, because it is raining and we have bags."
+      ],
+      "expressionTask": "Compare two ways to make a short trip. Give one practical reason and ask which your partner prefers.",
+      "grammar": "Because for a practical reason",
+      "pattern": "Use because before a clause giving the reason for a choice.",
+      "example": "We will take the bus because it is raining.",
+      "task": "We will take the bus ___ it is raining.",
+      "answer": "because",
+      "sound": "Bicycle has three syllables with the first strongest. The first vowel sounds like the I in my. Keep the last two syllables light.",
+      "model": "I ride my bicycle when it is dry.",
+      "dialogue": [
+        "We need to reach the library by nine. Which would be easier today?",
+        "The bus. It is too wet to cycle.",
+        "Will it be crowded during rush hour?",
+        "Probably. We can walk to the bus station and leave a little earlier.",
+        "All right. I will leave my bicycle at home.",
+        "And I will not bring my scooter in this weather."
+      ],
+      "reading": "Bella usually rides a bicycle to the library. Fenrir sometimes uses a scooter on the path near his home. Today it is raining, so they choose public transport instead. Buses are busy during rush hour, but part of the route has a bus lane. They leave early enough to wait for the next service if the first is full. Their usual choice is not always the most practical choice for every day.",
+      "readingQ": "Why do they leave earlier than usual?",
+      "readingA": "Buses are busy during rush hour, so they allow time to wait if a bus is full.",
+      "writing": "Write a travel message comparing your usual way of travelling with today’s choice and give a reason.",
+      "listening": "The number six bus leaves from the bus station every fifteen minutes. During the morning rush hour, allow ten extra minutes for the journey. The road beside the library is closed to cars, but buses can still stop at the usual place.",
+      "question": "Which vehicles can still stop beside the library?",
+      "correct": "Buses",
+      "other": "Cars",
+      "speaking": "Plan a trip across town with a partner. Consider the weather and bags, choose a way to travel and agree when to leave.",
+      "speakingSample": "The bus would be easier today because it is raining and we have two bags. We should leave early because it is rush hour. Let us meet at the bus station at eight. If the first bus is full, we will have time for the next one.",
+      "photo": {
+        "id": "28223675",
+        "asset": "assets/a2-photos/28223675.jpg",
+        "sourceURL": "https://www.pexels.com/photo/a-bicycle-leaning-against-a-road-near-a-mountain-28223675/",
+        "credit": "Allan Carvalho · Pexels",
+        "licenseURL": "https://www.pexels.com/license/",
+        "caption": "The bicycle is parked on the grass at the front left.",
+        "alt": "A bicycle with pedals, two wheels and curved handlebars parked on grass beside a road.",
+        "fit": "cover",
+        "focalY": 0.5,
+        "dimensions": [
+          1000,
+          750
+        ]
+      },
+      "writingSample": "I usually walk to the library, but today I will take the bus. I am carrying several books and the bus stop is close to the entrance. I will allow extra time for the journey."
+    },
+    {
+      "day": 42,
+      "unit": 6,
+      "title": "Choose a ticket for a local journey",
+      "goal": "I can choose a ticket for a local journey.",
+      "newItems": [
+        {
+          "word": "railway",
+          "ipa": "/ˈreɪlweɪ/",
+          "pos": "noun",
+          "definition": "A system of tracks and trains used to carry people or goods.",
+          "example": "The railway connects the two towns.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "tram",
+          "ipa": "/træm/",
+          "pos": "noun",
+          "definition": "An electric vehicle that carries passengers along tracks in a street.",
+          "example": "The tram stops beside the museum.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "underground",
+          "ipa": "/ˈʌndɚɡraʊnd/",
+          "pos": "noun",
+          "definition": "A city train system that runs mainly below the streets, especially in British English.",
+          "example": "In London, we take the underground.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "travel pass",
+          "ipa": "/ˈtrævəl pæs/",
+          "pos": "fixed phrase",
+          "definition": "A ticket or card allowing travel on certain services during a stated period.",
+          "example": "The day travel pass covers several journeys.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "return ticket",
+          "ipa": "/rɪˈtɝn ˈtɪkɪt/",
+          "pos": "fixed phrase",
+          "definition": "A ticket for travelling to a place and back, especially in British English.",
+          "example": "A return ticket is cheaper than two separate tickets here.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "ticket",
+        "station",
+        "platform",
+        "single",
+        "price"
+      ],
+      "mainWord": {
+        "word": "railway",
+        "ipa": "/ˈreɪlweɪ/",
+        "pos": "noun",
+        "definition": "A system of tracks and trains used to carry people or goods.",
+        "example": "The railway connects the two towns.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Noun: railway; plural: railways. Railroad is a common American term. These are alternative names, not two separate new teaching items here.",
+      "wordTask": "Explain whether a railway uses tracks or an ordinary road.",
+      "wordSample": "A railway uses tracks. Trains travel along them.",
+      "expression": "Does this ticket cover the return journey?",
+      "use": "Check whether the price includes travel back, rather than assuming it does.",
+      "context": [
+        "Does this ticket cover the return journey?",
+        "Yes, if you return before midnight today."
+      ],
+      "expressionTask": "Ask about a ticket’s outward and return journeys. Confirm a time condition before buying.",
+      "grammar": "Before plus a time limit",
+      "pattern": "Use before to say that something must happen earlier than a stated time.",
+      "example": "You must return before midnight.",
+      "task": "You must return ___ midnight.",
+      "answer": "before",
+      "sound": "Railway has two strong vowel glides. The first syllable is stronger. Do not add another syllable between rail and way.",
+      "model": "The railway station is near the tram stop.",
+      "dialogue": [
+        "I need to go to the museum and come back tonight.",
+        "You could use the tram or the underground.",
+        "Does this ticket cover the return journey?",
+        "This one is for a single journey. A return ticket costs five dollars.",
+        "Then I will buy that. When must I return?",
+        "Before midnight today."
+      ],
+      "reading": "The museum is near a tram stop and an underground station. Bella compares tickets at the railway station. A return ticket costs five dollars and covers travel there and back before midnight. Two single tickets cost six dollars. There is also a day travel pass for many journeys, but Bella only needs two. She chooses the return ticket because it suits her plans and costs less than two singles.",
+      "readingQ": "Why is the return ticket suitable for Bella?",
+      "readingA": "She will come back before midnight, so she meets its time condition and pays less.",
+      "writing": "Write a short ticket enquiry. State where you want to go, when you plan to return and one condition you need to check.",
+      "listening": "The return ticket is five dollars and is valid until midnight. It covers the tram and the underground within the city. It does not cover the airport bus. Keep the ticket until you have completed both parts of your journey.",
+      "question": "Which service is not covered?",
+      "correct": "The airport bus",
+      "other": "The tram",
+      "speaking": "Buy a ticket from a partner acting as a ticket assistant. Explain both parts of your trip and check a restriction.",
+      "speakingSample": "I am going to the museum and returning this evening. Does this ticket cover the return journey on the tram? Five dollars sounds suitable. Is it valid until midnight? Thank you. I will keep it until I have finished both journeys.",
+      "writingSample": "Hello, I want to travel to Lake Park on Saturday morning and return that afternoon. Which ticket suits this journey? Please confirm whether the return is valid on any afternoon service or only one particular bus."
+    },
+    {
+      "day": 43,
+      "unit": 6,
+      "title": "Recognize transport words on a trip in Britain",
+      "goal": "I can recognize transport words on a trip in Britain.",
+      "newItems": [
+        {
+          "word": "coach",
+          "ipa": "/koʊtʃ/",
+          "pos": "noun",
+          "definition": "A comfortable bus used for longer journeys, especially in British English.",
+          "example": "The coach takes us to another city.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "lorry",
+          "ipa": "/ˈlɔri/",
+          "pos": "noun",
+          "definition": "A large road vehicle for carrying goods, called a truck in American English.",
+          "example": "A lorry carries boxes to the shop.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "motorway",
+          "ipa": "/ˈmoʊtɚweɪ/",
+          "pos": "noun",
+          "definition": "A major road built for fast traffic, with separate sides for each direction, especially in Britain.",
+          "example": "The coach joins the motorway outside town.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "petrol",
+          "ipa": "/ˈpɛtrəl/",
+          "pos": "noun",
+          "definition": "Fuel used in many cars, called gasoline or gas in American English.",
+          "example": "We need to buy petrol before the long drive.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "roundabout",
+          "ipa": "/ˈraʊndəˌbaʊt/",
+          "pos": "noun",
+          "definition": "A circular road junction where traffic moves around a central area.",
+          "example": "The bus turns left after the roundabout.",
+          "category": "new_word",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "bus",
+        "car",
+        "road",
+        "travel",
+        "left"
+      ],
+      "mainWord": {
+        "word": "coach",
+        "ipa": "/koʊtʃ/",
+        "pos": "noun",
+        "definition": "A comfortable bus used for longer journeys, especially in British English.",
+        "example": "The coach takes us to another city.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Noun: coach; plural: coaches. Here coach means a long-distance bus. Coach can also name a person who trains others; that meaning is not the target today.",
+      "wordTask": "You are booking a long-distance bus in Britain. Ask where the coach leaves from.",
+      "wordSample": "Where does the coach leave from?",
+      "expression": "Is that the same as a truck?",
+      "use": "Check an unfamiliar regional word by comparing it with a word you know.",
+      "context": [
+        "The notice says a lorry is blocking the road. Is that the same as a truck?",
+        "Yes. Lorry is the usual British word."
+      ],
+      "expressionTask": "You hear a regional transport word you do not know. Ask for a simple explanation and confirm the meaning.",
+      "grammar": "The same as for an equivalent meaning",
+      "pattern": "Use the same as to compare two things or meanings. Use as, rather than than, in this pattern.",
+      "example": "Is a lorry the same as a truck?",
+      "task": "Is a lorry the same ___ a truck?",
+      "answer": "as",
+      "sound": "Coach has one syllable, with an OH glide and a final CH sound. Keep the final sound short and do not add a vowel.",
+      "model": "The coach is waiting near the roundabout.",
+      "dialogue": [
+        "The coach is late because a lorry is blocking the road.",
+        "Is that the same as a truck?",
+        "Yes. The driver will take another road to the motorway.",
+        "Will we still have a break during the journey?",
+        "Yes, at a place where cars can stop for petrol.",
+        "Thank you. I understand the announcement now."
+      ],
+      "reading": "On a visit to Britain, Bella learns some familiar ideas with different names. Her coach is a long-distance bus. A lorry carrying goods delays it near a roundabout. The coach later joins the motorway, a major road for fast traffic. At a rest stop, Bella sees a sign for petrol. She knows this means gasoline. She checks unfamiliar words in context instead of thinking every new label describes a completely new object.",
+      "readingQ": "What does Bella learn from the petrol sign?",
+      "readingA": "Petrol is the British name for gasoline, a fuel used in many cars.",
+      "writing": "Write a short note explaining two British transport terms to a visitor who knows American English.",
+      "listening": "The coach to Westford is delayed by ten minutes. Please wait at bay four, not beside the roundabout. Bags can go in the space under the coach. Keep medicine, travel documents and anything you need during the journey with you.",
+      "question": "Where should passengers wait?",
+      "correct": "At bay four",
+      "other": "Beside the roundabout",
+      "speaking": "Help a visitor understand two unfamiliar transport words. Give simple equivalents, then confirm where and when to meet.",
+      "speakingSample": "The coach is the long-distance bus, and a lorry is a truck carrying goods. Our coach is ten minutes late. We should wait at bay four, not by the roundabout. Let us keep our tickets with us so that we are ready when it arrives.",
+      "writingSample": "In Britain, a lorry is a truck. The underground is an urban railway below the streets, often called a subway in American English. Check the local signs because transport names can differ between places."
+    },
+    {
+      "day": 44,
+      "unit": 6,
+      "title": "Prepare for a journey across water",
+      "goal": "I can prepare for a journey across water.",
+      "newItems": [
+        {
+          "word": "ferry",
+          "ipa": "/ˈfɛri/",
+          "pos": "noun",
+          "definition": "A boat or ship that carries people, and sometimes vehicles, regularly between places.",
+          "example": "The ferry crosses the river every hour.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "pilot",
+          "ipa": "/ˈpaɪlət/",
+          "pos": "noun",
+          "definition": "A person trained to fly an aircraft.",
+          "example": "The pilot tells passengers about the flight.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "sail",
+          "ipa": "/seɪl/",
+          "pos": "verb",
+          "definition": "To travel on water in a boat or ship.",
+          "example": "We sail across the river in the morning.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "by sea",
+          "ipa": "/baɪ si/",
+          "pos": "fixed phrase",
+          "definition": "Using a boat or ship to travel across water.",
+          "example": "Some visitors travel to the island by sea.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "life jacket",
+          "ipa": "/ˈlaɪf ˌdʒækɪt/",
+          "pos": "fixed phrase",
+          "definition": "A jacket designed to help someone stay afloat in water.",
+          "example": "The crew shows us where the life jackets are.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "boat",
+        "water",
+        "travel",
+        "seat",
+        "bag"
+      ],
+      "mainWord": {
+        "word": "ferry",
+        "ipa": "/ˈfɛri/",
+        "pos": "noun",
+        "definition": "A boat or ship that carries people, and sometimes vehicles, regularly between places.",
+        "example": "The ferry crosses the river every hour.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Noun: ferry; plural: ferries. The ending y changes to ies in the plural.",
+      "wordTask": "Explain how people can cross a river using a ferry.",
+      "wordSample": "People can take a ferry across the river.",
+      "expression": "Where should we wait to board?",
+      "use": "Ask staff where to wait before getting onto a boat or another vehicle.",
+      "context": [
+        "Where should we wait to board?",
+        "Behind the blue line until a crew member calls your group."
+      ],
+      "expressionTask": "Ask staff where to wait, when you can board and where to put a bag for a boat journey.",
+      "grammar": "Until for the end of a waiting period",
+      "pattern": "Use until to identify the event or time when a wait ends.",
+      "example": "Wait here until the crew calls your group.",
+      "task": "Wait here ___ the crew calls your group.",
+      "answer": "until",
+      "sound": "Ferry has two syllables. Stress the first and keep the final EE short. It is different from very, which begins with a voiced V sound.",
+      "model": "The ferry will sail in ten minutes.",
+      "dialogue": [
+        "We could fly, but I would rather travel by sea.",
+        "The ferry only takes forty minutes.",
+        "Where should we wait to board?",
+        "The sign says behind the blue line.",
+        "I will keep my bag close until the crew calls us.",
+        "Good. Once we are on board, we can listen to the safety instructions."
+      ],
+      "reading": "Bella and Fenrir choose a ferry to reach a small island. They will travel by sea rather than take a short flight with a pilot. The ferry will sail at ten. Before boarding, they wait behind a blue line. Once on board, they listen while a crew member points out the life jackets. They keep their bags away from the walking area. Listening to the actual instructions matters more than guessing what to do.",
+      "readingQ": "What do they do after boarding the ferry?",
+      "readingA": "They listen to the crew’s instructions, including where the life jackets are.",
+      "writing": "Write a short message telling a friend when the boat leaves and where you will wait before boarding.",
+      "listening": "Passengers for the island ferry should wait behind the blue line. Boarding begins at nine forty-five, and the ferry leaves at ten. Please have your ticket ready. Keep the path beside the gate clear so that people leaving the arriving ferry can pass.",
+      "question": "When does boarding begin?",
+      "correct": "Nine forty-five",
+      "other": "Ten o’clock",
+      "speaking": "Plan a short ferry trip with a partner. Confirm the departure time, agree where to wait and ask one practical question about boarding.",
+      "speakingSample": "The ferry leaves at ten, but boarding starts at nine forty-five. Let us meet behind the blue line at nine thirty-five. We should have our tickets ready and keep the gate clear. Do you know where we can put our larger bag after boarding?",
+      "writingSample": "The boat leaves at ten thirty. I will wait outside the ticket office at ten, before we board. Please tell me if you are delayed so we can check the next step together."
+    },
+    {
+      "day": 45,
+      "unit": 6,
+      "title": "Read flight times and compare journeys",
+      "goal": "I can read flight times and compare journeys.",
+      "newItems": [
+        {
+          "word": "departure",
+          "ipa": "/dɪˈpɑrtʃɚ/",
+          "pos": "noun",
+          "definition": "The act or time of leaving a place at the start of a journey.",
+          "example": "The flight departure is listed as ten fifteen.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "arrival",
+          "ipa": "/əˈraɪvəl/",
+          "pos": "noun",
+          "definition": "The act or time of reaching the place you are travelling to.",
+          "example": "The arrival time is eleven forty.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "by air",
+          "ipa": "/baɪ ɛr/",
+          "pos": "fixed phrase",
+          "definition": "Using an aircraft to travel.",
+          "example": "Travelling by air saves time on this long journey.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "direct flight",
+          "ipa": "/dəˈrɛkt flaɪt/",
+          "pos": "fixed phrase",
+          "definition": "A flight that keeps the same flight number to the destination, sometimes with a stop.",
+          "example": "Check whether the direct flight makes a stop.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "non-stop",
+          "ipa": "/ˌnɑn ˈstɑp/",
+          "pos": "fixed phrase",
+          "definition": "Continuing without a stop; for a flight, without landing between the starting point and destination.",
+          "example": "The non-stop flight takes two hours.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "flight",
+        "airport",
+        "time",
+        "late",
+        "early"
+      ],
+      "mainWord": {
+        "word": "departure",
+        "ipa": "/dɪˈpɑrtʃɚ/",
+        "pos": "noun",
+        "definition": "The act or time of leaving a place at the start of a journey.",
+        "example": "The flight departure is listed as ten fifteen.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Noun: departure; plural: departures. Departures on an airport sign usually points to the area for people leaving. Arrivals is the area for people reaching the airport.",
+      "wordTask": "A notice lists departure at ten fifteen and arrival at eleven forty. Which is the time the flight leaves?",
+      "wordSample": "The flight leaves at ten fifteen. That is its departure time.",
+      "expression": "Will we need to change planes?",
+      "use": "Check whether a journey requires moving to another aircraft; also check any stops.",
+      "context": [
+        "Will we need to change planes?",
+        "No, but this flight makes one stop. The non-stop option is later."
+      ],
+      "expressionTask": "Compare two flights. Ask about departure, arrival and any stops before choosing.",
+      "grammar": "How long for duration",
+      "pattern": "Use how long to ask about the amount of time a journey takes, rather than the clock time when it starts.",
+      "example": "How long does the flight take?",
+      "task": "How ___ does the flight take?",
+      "answer": "long",
+      "sound": "Departure has three syllables, with the middle one strongest. Keep the final syllable light. Listen for the difference between the noun departure and the verb depart.",
+      "model": "Please check the departure time.",
+      "dialogue": [
+        "Travelling by air will save us several hours.",
+        "Will we need to change planes?",
+        "Not on this direct flight, but it stops once.",
+        "I would prefer a non-stop flight. Is one available?",
+        "Yes. Its departure is at two, and its arrival is at four.",
+        "That works. Let us check the airport and the total price too."
+      ],
+      "reading": "Bella compares two ways to travel by air. One direct flight keeps the same flight number but stops before its final destination. A later flight is non-stop. Its departure is at two and its arrival is at four, with both times shown in the same time zone. Bella checks the airports as well as the times. The word direct alone does not always tell her whether the plane will land during the journey.",
+      "readingQ": "Why does Bella check whether the direct flight stops?",
+      "readingA": "A direct flight can include a stop, while a non-stop flight does not land between the start and destination.",
+      "writing": "Write a short travel choice. Give the departure and arrival times, mention any stop and explain your preference.",
+      "listening": "Flight 240 leaves East Airport at two in the afternoon and arrives at North Airport at four. It is non-stop. Flight 180 leaves at one, makes one stop and arrives at five. Please check the airport name carefully; East Airport is outside the city.",
+      "question": "Which flight reaches North Airport earlier?",
+      "correct": "Flight 240",
+      "other": "Flight 180",
+      "speaking": "Compare two travel options with a partner. Ask about times, stops and the exact airports. Choose one and give a reason.",
+      "speakingSample": "I would choose Flight 240. It leaves at two and arrives at four, so it reaches North Airport earlier than the other flight. It is also non-stop. We should check how to reach East Airport because it is outside the city. Does that plan suit you?",
+      "writingSample": "The first service leaves at eight and arrives at ten without a stop. The second leaves at eight thirty and arrives at eleven after a stop. I prefer the first because arriving earlier matters more to me than leaving later."
+    },
+    {
+      "day": 46,
+      "unit": 6,
+      "title": "Follow directions when a road is closed",
+      "goal": "I can follow directions when a road is closed.",
+      "newItems": [
+        {
+          "word": "traffic jam",
+          "ipa": "/ˈtræfɪk dʒæm/",
+          "pos": "fixed phrase",
+          "definition": "A long line of vehicles moving very slowly or not moving because a road is crowded or blocked.",
+          "example": "The bus is late because of a traffic jam.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "one-way street",
+          "ipa": "/ˌwʌn weɪ ˈstrit/",
+          "pos": "fixed phrase",
+          "definition": "A street where vehicles are allowed to travel in only one direction.",
+          "example": "The station is beside a one-way street.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "zebra crossing",
+          "ipa": "/ˈzibrə ˌkrɔsɪŋ/",
+          "pos": "fixed phrase",
+          "definition": "A marked place with light and dark stripes where people can cross a road, especially in British English.",
+          "example": "There is a zebra crossing outside the school.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "go straight ahead",
+          "ipa": "/ɡoʊ streɪt əˈhɛd/",
+          "pos": "fixed phrase",
+          "definition": "Continue forward without turning left or right.",
+          "example": "Go straight ahead until you reach the bridge.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "turn back",
+          "ipa": "/tɝn bæk/",
+          "pos": "fixed phrase",
+          "definition": "Stop moving towards a place and start going in the direction you came from.",
+          "example": "We need to turn back because this road is closed.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "bridge",
+        "cross",
+        "right",
+        "left",
+        "traffic"
+      ],
+      "mainWord": {
+        "word": "traffic jam",
+        "ipa": "/ˈtræfɪk dʒæm/",
+        "pos": "fixed phrase",
+        "definition": "A long line of vehicles moving very slowly or not moving because a road is crowded or blocked.",
+        "example": "The bus is late because of a traffic jam.",
+        "category": "fixed_phrase",
+        "status": "new"
+      },
+      "mainWordForms": "Fixed phrase: traffic jam; plural: traffic jams. Traffic itself is uncountable here: heavy traffic, not many traffics.",
+      "wordTask": "The vehicles in front of your bus are not moving. Explain why you may be late.",
+      "wordSample": "We are in a traffic jam, so I may arrive late.",
+      "expression": "Is there another way to get there?",
+      "use": "Ask for an alternative route when the usual way is not available.",
+      "context": [
+        "This road is closed. Is there another way to get there?",
+        "Yes. Turn back and use the street beside the park."
+      ],
+      "expressionTask": "Explain that a road is closed, ask for another way and repeat two directions to confirm them.",
+      "grammar": "Until plus a place reached",
+      "pattern": "In directions, until can introduce the point where you should stop one action and start the next.",
+      "example": "Go straight ahead until you reach the bridge.",
+      "task": "Go straight ahead ___ you reach the bridge.",
+      "answer": "until",
+      "sound": "Traffic begins with T and R close together. In traffic jam, keep the final K before the J sound. Do not put an extra vowel between the words.",
+      "model": "There is a traffic jam near the bridge.",
+      "dialogue": [
+        "There is a traffic jam on the road to the station.",
+        "The road sign says the bridge is closed.",
+        "Is there another way to get there?",
+        "We can turn back and walk past the park.",
+        "Then what?",
+        "Go straight ahead to the zebra crossing and cross there. The station is on the right."
+      ],
+      "reading": "Bella’s bus is delayed by a traffic jam. She gets off at a suitable stop near a one-way street. The usual bridge is closed, so she asks for another way to the station. A local person tells her to turn back toward the park. Then she should go straight ahead to the zebra crossing. Bella repeats the directions before starting. She checks the road and the crossing signals as she walks.",
+      "readingQ": "Why does Bella repeat the directions?",
+      "readingA": "She wants to confirm that she has understood the alternative way to the station.",
+      "writing": "Write a short set of directions from a familiar place to a station, including one clear landmark.",
+      "listening": "The bridge is closed to all traffic today. Pedestrians can use the crossing beside the park. Go past the library, then turn right at the next street. The station entrance is opposite the pharmacy. Allow fifteen extra minutes if you usually use the bridge.",
+      "question": "Which crossing can pedestrians use?",
+      "correct": "The crossing beside the park",
+      "other": "The closed bridge",
+      "speaking": "Give a partner a new route because a familiar road is closed. Use two landmarks and ask them to repeat the main steps.",
+      "speakingSample": "The bridge is closed, so we need another way. Turn back toward the park, then go straight ahead to the crossing beside it. The station is on the right after you cross. Could you repeat those steps? We should allow extra time for the walk.",
+      "writingSample": "From the library, walk along River Street to the supermarket. Turn left there and continue past the cafe. The station is on your right, opposite the small park. Look for the large station sign."
+    },
+    {
+      "day": 47,
+      "unit": 6,
+      "title": "Arrange a clear place for a lift",
+      "goal": "I can arrange a clear place for a lift.",
+      "newItems": [
+        {
+          "word": "meeting point",
+          "ipa": "/ˈmitɪŋ pɔɪnt/",
+          "pos": "fixed phrase",
+          "definition": "An agreed place where people will meet.",
+          "example": "The cafe is our meeting point.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "car rental",
+          "ipa": "/ˈkɑr ˌrɛntəl/",
+          "pos": "fixed phrase",
+          "definition": "A service in which you pay to use a car for a limited time.",
+          "example": "The car rental office is beside the station.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "at the entrance",
+          "ipa": "/ət ði ˈɛntrəns/",
+          "pos": "fixed phrase",
+          "definition": "At the place where people go into a building or area.",
+          "example": "Wait at the entrance on Green Street.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "waiting area",
+          "ipa": "/ˈweɪtɪŋ ˌɛriə/",
+          "pos": "fixed phrase",
+          "definition": "A place set aside for people to stay until a service or person is ready.",
+          "example": "Please use the waiting area beside the office.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "parking fee",
+          "ipa": "/ˈpɑrkɪŋ fi/",
+          "pos": "fixed phrase",
+          "definition": "Money charged for leaving a vehicle in a parking place.",
+          "example": "There is a small parking fee after the first ten minutes.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "entrance",
+        "exit",
+        "wait",
+        "driver",
+        "phone"
+      ],
+      "mainWord": {
+        "word": "meeting point",
+        "ipa": "/ˈmitɪŋ pɔɪnt/",
+        "pos": "fixed phrase",
+        "definition": "An agreed place where people will meet.",
+        "example": "The cafe is our meeting point.",
+        "category": "fixed_phrase",
+        "status": "new"
+      },
+      "mainWordForms": "Fixed phrase: meeting point; plural: meeting points. Give an exact place that both people can identify, rather than only the name of a large building.",
+      "wordTask": "A station has three entrances. Suggest an exact meeting point using a street name and a landmark.",
+      "wordSample": "Our meeting point is the entrance on Green Street, beside the small cafe.",
+      "expression": "Which entrance do you mean?",
+      "use": "Clarify an exact meeting place when a building has more than one entrance.",
+      "context": [
+        "I can collect you at the entrance.",
+        "Which entrance do you mean? The one on Green Street?"
+      ],
+      "expressionTask": "Arrange a lift. Clarify the street, entrance and time, and explain how you will contact each other if delayed.",
+      "grammar": "Pronouns inside pick up and drop off",
+      "pattern": "With a person pronoun, put it between the verb and particle: pick me up or drop her off.",
+      "example": "Please pick me up at six.",
+      "task": "Please pick ___ up at six.",
+      "answer": "me",
+      "sound": "Meeting has two syllables, with the first stronger. Keep the final NG as one sound. In meeting point, finish point with a short NT cluster rather than adding a vowel.",
+      "model": "Our meeting point is beside the cafe.",
+      "dialogue": [
+        "I have finished at the car rental office. Could you pick me up?",
+        "Yes. I can meet you at the entrance at six.",
+        "Which entrance do you mean?",
+        "The one on Green Street, beside the small cafe.",
+        "That is a clear meeting point. Could you drop me off at my hotel?",
+        "Of course. Message me if you need more time."
+      ],
+      "reading": "Bella returns a car to the car rental office and waits in its waiting area. Fenrir agrees to collect her at six and take her to her hotel. They choose the station as a meeting point, but it has three entrances. They agree to meet at the entrance on Green Street, beside the cafe. The nearby parking area has a parking fee after ten minutes, so Bella will message when she is ready.",
+      "readingQ": "Why is the station name alone not a clear meeting point?",
+      "readingA": "The station has three entrances, so they need to agree on a particular one.",
+      "writing": "Write a collection message with the time, a named street, an entrance and what to do if either person is delayed.",
+      "listening": "Bella, I am outside the entrance on Green Street. The space beside the cafe is for buses only, so I am waiting in the public parking area across the street. Please use the marked crossing. Send me a message when you have collected your bag.",
+      "question": "Where is the driver waiting?",
+      "correct": "In the public parking area",
+      "other": "In the bus space beside the cafe",
+      "speaking": "Arrange to collect a partner after a trip. Confirm the exact meeting point, a suitable waiting place and the final destination.",
+      "speakingSample": "I can pick you up at six. Let us meet at the entrance on Green Street, beside the cafe. If I cannot stop there, I will wait in the public parking area and message you. I can drop you off at your hotel afterwards. Does that work?",
+      "writingSample": "I will meet you at four outside the east entrance on River Street. Please wait by the blue sign. If either of us is delayed, we should phone before four and agree on what to do next."
+    },
+    {
+      "day": 48,
+      "unit": 6,
+      "title": "Explain a travel problem and agree on a new plan",
+      "goal": "I can explain a travel problem and agree on a new plan.",
+      "newItems": [
+        {
+          "word": "get lost",
+          "ipa": "/ɡɛt lɔst/",
+          "pos": "fixed phrase",
+          "definition": "To become unable to find the correct way to a place.",
+          "example": "We got lost near the station.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "leave behind",
+          "ipa": "/liv bɪˈhaɪnd/",
+          "pos": "fixed phrase",
+          "definition": "To go away without taking a person or thing that should come with you.",
+          "example": "Do not leave your bag behind.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "look out for",
+          "ipa": "/lʊk aʊt fɔr/",
+          "pos": "fixed phrase",
+          "definition": "To watch carefully so that you notice a particular person or thing.",
+          "example": "Look out for the blue sign beside the cafe.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "a change of plan",
+          "ipa": "/ə tʃeɪndʒ əv plæn/",
+          "pos": "fixed phrase",
+          "definition": "A decision to do something differently from what was previously arranged.",
+          "example": "There has been a change of plan: we will meet at the library.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "ahead of time",
+          "ipa": "/əˈhɛd əv taɪm/",
+          "pos": "fixed phrase",
+          "definition": "Before the expected or arranged time.",
+          "example": "Check the meeting place ahead of time.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "delay",
+        "message",
+        "map",
+        "turn back",
+        "meeting point"
+      ],
+      "mainWord": {
+        "word": "get lost",
+        "ipa": "/ɡɛt lɔst/",
+        "pos": "fixed phrase",
+        "definition": "To become unable to find the correct way to a place.",
+        "example": "We got lost near the station.",
+        "category": "fixed_phrase",
+        "status": "new"
+      },
+      "mainWordForms": "Fixed phrase: get lost; gets lost; got lost; getting lost. Lost is the past participle of lose. These forms belong to one target expression, not several new items.",
+      "wordTask": "You cannot find the way to the station. Tell a friend the problem and ask them to wait.",
+      "wordSample": "I got lost near the station. Could you wait while I check the map?",
+      "expression": "Let us confirm the new plan.",
+      "use": "Summarize an agreed change so that everyone understands the same place, time and next action.",
+      "context": [
+        "The cafe is closed, so we will meet outside the library.",
+        "Let us confirm the new plan. Six fifteen at the library on Park Street?"
+      ],
+      "expressionTask": "A meeting place has changed. Explain the reason, agree on another place and repeat the final details.",
+      "grammar": "Past simple of get",
+      "pattern": "Use got for the past simple of get. Get lost becomes got lost when describing a past event.",
+      "example": "We got lost near the station.",
+      "task": "We ___ lost near the station.",
+      "answer": "got",
+      "sound": "Lost finishes with an S and T cluster. Keep the S audible, close briefly for T and do not add a vowel after it.",
+      "model": "We got lost, so we checked the map.",
+      "dialogue": [
+        "I got lost after leaving the station.",
+        "Do you know which street you are on?",
+        "Park Street. There has been a change of plan because the cafe is closed.",
+        "Let us confirm the new plan. We will meet at the library at six fifteen.",
+        "All right. What should I look out for?",
+        "A large blue sign by the entrance. Check that you have not left your bag behind."
+      ],
+      "reading": "Bella checks the meeting place ahead of time, but the cafe closes unexpectedly. There is a change of plan. Fenrir suggests the library. Bella gets lost on a nearby street, so she stops to check the map and phones him. He tells her to look out for a large blue sign. Before moving, she checks that she will not leave her bag behind. They confirm the new place and time instead of making several different guesses.",
+      "readingQ": "What do Bella and Fenrir confirm after the problem?",
+      "readingA": "They confirm the new meeting place and time at the library.",
+      "writing": "Write a short account of a travel problem. Say what happened, how you asked for help and what the new plan was.",
+      "listening": "The cafe next to the station has closed early. Our new meeting point is the library on Park Street at six fifteen. Please message the group when you have read this change. If you cannot find the library, stay in a safe place and call rather than walking around without knowing where you are.",
+      "question": "What should group members do after reading the change?",
+      "correct": "Message the group",
+      "other": "Return to the closed cafe",
+      "speaking": "Solve a travel problem with a partner. Explain the problem, give useful location information, agree on a new plan and repeat the key details.",
+      "speakingSample": "I got lost near the station, and the cafe is closed. I am on Park Street beside a small shop. Could we meet at the library instead? Six fifteen works for me. I will check the map and look out for the blue sign. Please confirm that this is our new plan.",
+      "writingSample": "Our bus could not reach the usual stop because the road was closed. I asked the driver where to get off instead. We used the next stop and walked to the station. I sent my friend the new meeting place.",
+      "pronunciationTarget": {
+        "word": "lost",
+        "ipa": "/lɔst/"
+      }
+    }
+  ]
+}

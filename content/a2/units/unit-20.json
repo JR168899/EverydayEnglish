@@ -1,0 +1,874 @@
+{
+  "number": 20,
+  "title": "Preferences and simple opinions",
+  "lessons": [
+    {
+      "day": 153,
+      "unit": 20,
+      "title": "Explain a preference without choosing for someone else",
+      "goal": "I can state a personal preference, ask what matters to another person and identify when two options are equally acceptable.",
+      "newItems": [
+        {
+          "word": "choice",
+          "ipa": "/tʃɔɪs/",
+          "pos": "noun",
+          "definition": "An act of selecting, or an option available to select.",
+          "example": "We have a choice between a park walk and a museum visit.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "preference",
+          "ipa": "/ˈprɛfərəns/",
+          "pos": "noun",
+          "definition": "A greater liking for one option than another.",
+          "example": "My preference is a quiet walk.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "favorite",
+          "ipa": "/ˈfeɪvərɪt/",
+          "pos": "adjective",
+          "definition": "Liked more than all others of the same kind.",
+          "example": "The park is my favorite local place.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "either is fine",
+          "ipa": "/ˈiːðɚ ɪz faɪn/",
+          "pos": "fixed phrase",
+          "definition": "Both of the two options are acceptable to the speaker.",
+          "example": "Either is fine; I can enjoy the walk or the museum.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "it depends on",
+          "ipa": "/ɪt dɪˈpɛndz ɑn/",
+          "pos": "fixed phrase",
+          "definition": "The answer or result changes according to the stated factor.",
+          "example": "It depends on how much time we have.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "park",
+        "friend",
+        "walk",
+        "time",
+        "prefer"
+      ],
+      "mainWord": {
+        "word": "choice",
+        "ipa": "/tʃɔɪs/",
+        "pos": "noun",
+        "definition": "An act of selecting, or an option available to select.",
+        "example": "We have a choice between a park walk and a museum visit.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Choice and preference are countable here: a choice, a preference. Favorite is an adjective in my favorite place; favourite is the British spelling, not a second new word. Either is fine refers to two acceptable options, not to a strong preference.",
+      "wordTask": "If you have a choice between a walk and a museum visit, what can you do?",
+      "wordSample": "You can select one of the two available activities.",
+      "expression": "Which matters more to you?",
+      "use": "Ask which factor is more important to another person before suggesting a shared choice.",
+      "context": [
+        "Which matters more to you?",
+        "Having time to talk. I do not mind which place we choose."
+      ],
+      "expressionTask": "Compare two local activities. State your preference and ask which factor matters more to your partner.",
+      "grammar": "Prefer a noun or an -ing form",
+      "pattern": "prefer + noun or -ing form",
+      "example": "I prefer walking in the park.",
+      "task": "I prefer ___ in the park.",
+      "answer": "walking",
+      "sound": "Choice ends with S after the vowel glide. Preference has stress on PREF. In favorite, the unstressed middle part is light in the American model.",
+      "model": "We have a choice between two activities.",
+      "dialogue": [
+        "We have a choice between a park walk and a museum visit. What is your preference?",
+        "Either is fine. Which matters more to you?",
+        "Having time to talk. The park is my favorite local place for that.",
+        "Then it depends on the weather and the time we have.",
+        "We have an hour, and the forecast is dry. I prefer walking today.",
+        "That works. Let us choose the park for today and keep the museum for another visit."
+      ],
+      "reading": "Bella and Fenrir have an hour together. Their choice is a park walk or a museum visit. Bella’s preference is the park because she wants time to talk, and it is her favorite local place for a quiet walk. Fenrir says either is fine: he likes both options. He asks which factor matters more rather than choosing for her. Their final decision is not fixed: it depends on the time and weather. With an hour available and dry weather expected, they choose the park today. A personal preference is a reason to discuss, not proof that the other activity is worse.",
+      "readingQ": "Why does the park suit Bella’s preference today?",
+      "readingA": "She wants time to talk, has an hour available and expects dry weather.",
+      "writing": "Write 45–65 words comparing two activities. State a preference and its reason, then name one factor that could change your choice.",
+      "writingSample": "My preference today is a walk in the park rather than a museum visit. I want time to talk with my friend, and the park is my favorite local place for that. We have an hour and expect dry weather. If it rains, I would choose the museum instead.",
+      "listening": "I like both activities, so either is fine. The place is less important to me than having enough time to talk. If we only have twenty minutes, let us stay near the station. With an hour, I would be happy to walk in the park.",
+      "question": "What matters most to this speaker?",
+      "correct": "Having enough time to talk",
+      "other": "Always choosing the park",
+      "speaking": "Choose between two activities with a partner. Give one preference, ask what matters to your partner and state one condition that could change the plan.",
+      "speakingSample": "I prefer a park walk because we can talk. Which matters more to you: being indoors or having more time together? My choice depends on the weather. If it rains, I am happy to visit the museum instead."
+    },
+    {
+      "day": 154,
+      "unit": 20,
+      "title": "Say how an activity feels to you",
+      "goal": "I can give a simple opinion with a specific reason and distinguish my reaction from a claim about everyone.",
+      "newItems": [
+        {
+          "word": "boring",
+          "ipa": "/ˈbɔrɪŋ/",
+          "pos": "adjective",
+          "definition": "Not holding someone’s interest or attention.",
+          "example": "I found the long introduction boring because it repeated the same information.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "interesting",
+          "ipa": "/ˈɪntrəstɪŋ/",
+          "pos": "adjective",
+          "definition": "Holding someone’s attention or making them want to learn more.",
+          "example": "The guide’s story about the old station was interesting.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "exciting",
+          "ipa": "/ɪkˈsaɪtɪŋ/",
+          "pos": "adjective",
+          "definition": "Causing a strong feeling of interest, pleasure or eagerness.",
+          "example": "The final race was exciting because the result was close.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "in my opinion",
+          "ipa": "/ɪn maɪ əˈpɪnjən/",
+          "pos": "fixed phrase",
+          "definition": "Used to mark a statement as the speaker’s own view.",
+          "example": "In my opinion, the shorter introduction works better.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "not really",
+          "ipa": "/nɑt ˈrɪli/",
+          "pos": "fixed phrase",
+          "definition": "A gentle or qualified negative response.",
+          "example": "Did you enjoy the long introduction? Not really.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "film",
+        "story",
+        "race",
+        "reason",
+        "opinion"
+      ],
+      "mainWord": {
+        "word": "boring",
+        "ipa": "/ˈbɔrɪŋ/",
+        "pos": "adjective",
+        "definition": "Not holding someone’s interest or attention.",
+        "example": "I found the long introduction boring because it repeated the same information.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Boring describes what causes a reaction; bored describes the person’s feeling. Interesting and interested, exciting and excited follow the same useful distinction. Today’s new targets are the -ing adjectives, not three additional newly counted -ed words. An opinion needs a relevant reason.",
+      "wordTask": "If an introduction repeats information and does not hold your attention, which adjective describes it?",
+      "wordSample": "Boring describes it from my point of view.",
+      "expression": "What made it interesting for you?",
+      "use": "Ask for a specific reason behind an opinion rather than only collecting a positive or negative label.",
+      "context": [
+        "What made it interesting for you?",
+        "The guide explained how the old station changed the town."
+      ],
+      "expressionTask": "Discuss a story or event. Give a reaction with one detail, then ask your partner why they felt differently.",
+      "grammar": "An adjective followed by a because clause",
+      "pattern": "subject + be + adjective + because + reason",
+      "example": "The story was interesting because it explained the town’s history.",
+      "task": "The story was interesting ___ it explained the town’s history.",
+      "answer": "because",
+      "sound": "Boring has stress on BOR. Interesting has its main stress at the beginning; keep the middle syllables light. Exciting has stress on CI, with the vowel in eye.",
+      "model": "The long introduction was boring for me.",
+      "dialogue": [
+        "Did you enjoy the introduction before the film?",
+        "Not really. I found it boring because it repeated the notice we had already read.",
+        "I liked the story about the old station. What made it interesting for you?",
+        "The guide explained why the station changed the town. That part was interesting.",
+        "And the short race at the end of the film was exciting.",
+        "Yes. In my opinion, a shorter introduction would leave more time for those examples."
+      ],
+      "reading": "After a short film event, Bella and Fenrir compare their reactions. Bella found the introduction boring because it repeated information from a notice. Fenrir agrees about the repetition, but he found the station story interesting: it explained a change in the town. They both describe the final race as exciting because the result stayed close until the end. Their opinions refer to different parts, not to the whole event as one thing. Bella adds, “In my opinion, a shorter introduction would work better.” When asked if she enjoyed every part, she answers, “Not really,” then explains why.",
+      "readingQ": "Why can the speakers describe different parts with different adjectives?",
+      "readingA": "They react to specific features: repeated information, a useful history explanation and a close race.",
+      "writing": "Write 45–65 words giving two reactions to different parts of an event. Include a specific reason for each rather than only saying good or bad.",
+      "writingSample": "I found the introduction boring because it repeated the information on our notice. The station story was interesting because it explained how the town changed. The final race was exciting, with a close result. In my opinion, a shorter introduction would make room for more useful examples.",
+      "listening": "The race was exciting, but I did not enjoy the introduction very much. It repeated the same facts three times. The station story was different: I learned why the town grew. I would keep that story and shorten the repeated introduction.",
+      "question": "Which part would the speaker shorten?",
+      "correct": "The repeated introduction",
+      "other": "The station story",
+      "speaking": "Give two specific reactions to a real or invented event. Use a reason for each and invite a different opinion from your partner.",
+      "speakingSample": "I found the introduction boring because it repeated the notice. The station story was interesting because I learned something new. The race was exciting too. Which part did you enjoy, and what made it interesting for you?"
+    },
+    {
+      "day": 155,
+      "unit": 20,
+      "title": "Compare what suits the people and the plan",
+      "goal": "I can compare practical options using location, purpose and a stated budget rather than price alone.",
+      "newItems": [
+        {
+          "word": "convenient",
+          "ipa": "/kənˈviːnjənt/",
+          "pos": "adjective",
+          "definition": "Easy or useful for someone’s particular situation.",
+          "example": "The cafe beside the station is convenient for our short meeting.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "suitable",
+          "ipa": "/ˈsuːtəbəl/",
+          "pos": "adjective",
+          "definition": "Right or appropriate for a particular person or purpose.",
+          "example": "A quiet room is suitable for recording a conversation.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "affordable",
+          "ipa": "/əˈfɔrdəbəl/",
+          "pos": "adjective",
+          "definition": "Within the amount that someone can pay.",
+          "example": "The ten-dollar room is affordable within our fifteen-dollar budget.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "easy to reach",
+          "ipa": "/ˈiːzi tuː riːtʃ/",
+          "pos": "fixed phrase",
+          "definition": "Not difficult to get to.",
+          "example": "The library is easy to reach by bus.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "sounds good to me",
+          "ipa": "/saʊndz ɡʊd tuː miː/",
+          "pos": "fixed phrase",
+          "definition": "Used to say that you accept or like a suggestion.",
+          "example": "The quiet room at ten sounds good to me.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "station",
+        "meeting",
+        "price",
+        "quiet",
+        "bus"
+      ],
+      "mainWord": {
+        "word": "convenient",
+        "ipa": "/kənˈviːnjənt/",
+        "pos": "adjective",
+        "definition": "Easy or useful for someone’s particular situation.",
+        "example": "The cafe beside the station is convenient for our short meeting.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Convenient describes practical ease; suitable describes a match to the purpose. Affordable depends on the person’s budget. Something can be affordable without being the cheapest choice, and convenient without being suitable for every activity.",
+      "wordTask": "Why might a station cafe be convenient for someone with little time between trains?",
+      "wordSample": "It is close to where they already need to be, so getting there is easy.",
+      "expression": "Does it suit what we need to do?",
+      "use": "Check whether an option matches the task, not only whether it is near or inexpensive.",
+      "context": [
+        "Does it suit what we need to do?",
+        "The cafe is convenient, but the noise makes it unsuitable for recording."
+      ],
+      "expressionTask": "Choose somewhere to record a conversation. Compare access, noise and a stated fifteen-dollar room budget.",
+      "grammar": "Suitable for with a noun or -ing form",
+      "pattern": "suitable for + noun or -ing form",
+      "example": "The room is suitable for recording.",
+      "task": "The room is suitable ___ recording.",
+      "answer": "for",
+      "sound": "Convenient has stress on VEEN, suitable on SUIT and affordable on FORD. Keep the weak endings light so that the important syllables are clear.",
+      "model": "The station cafe is convenient for a short meeting.",
+      "dialogue": [
+        "The station cafe is convenient and easy to reach. Shall we record there?",
+        "Does it suit what we need to do? It is usually noisy.",
+        "Good point. The library has a quiet room for ten dollars.",
+        "That is affordable within our fifteen-dollar budget. Is it available at ten?",
+        "Yes, and the bus stops outside. It looks suitable for recording.",
+        "The library room at ten sounds good to me. Let us book it."
+      ],
+      "reading": "Bella and Fenrir need a place to record a short conversation. The station cafe is convenient because both pass through the station. It is also easy to reach, but it is noisy at their meeting time. A library room costs ten dollars, within their fifteen-dollar budget, so it is affordable for this plan. It is quiet and suitable for recording. After checking that it is available at ten, they choose the room. Bella says, “That sounds good to me.” Their decision considers the purpose, access, availability and budget together rather than assuming the cheapest place is always best.",
+      "readingQ": "Why do they choose the library room rather than the convenient cafe?",
+      "readingA": "The room is quiet, available and within budget, so it suits their recording task.",
+      "writing": "Write 45–65 words recommending a place for this recording. Compare it with the cafe using purpose, access and the stated budget.",
+      "writingSample": "I recommend the library room for our recording. The station cafe is convenient, but it is noisy at ten. The library room is quiet and suitable for the task. It costs ten dollars, which is within our fifteen-dollar budget, and the bus stops outside. The room is available at our meeting time.",
+      "listening": "The cafe is free to use, but a loud event is taking place there at ten. The library room costs ten dollars and is quiet. Our room budget is fifteen dollars. We need a clear recording, so we will choose the library even though it is not free.",
+      "question": "Why does the speaker choose the library room?",
+      "correct": "It suits recording and is within budget",
+      "other": "It is free to use",
+      "speaking": "Recommend a place for a specific task. Compare one convenient but unsuitable option with a suitable option within a stated budget.",
+      "speakingSample": "The cafe is convenient, but it is too noisy for recording at ten. The library room is quiet and costs ten dollars, so it fits our fifteen-dollar budget. It is easy to reach by bus. I would choose the library after confirming the booking."
+    },
+    {
+      "day": 156,
+      "unit": 20,
+      "title": "Disagree with a reason and keep a discussion moving",
+      "goal": "I can disagree politely with a specific proposal and suggest a small change that addresses the problem.",
+      "newItems": [
+        {
+          "word": "disagree",
+          "ipa": "/ˌdɪsəˈɡriː/",
+          "pos": "verb",
+          "definition": "Have a different opinion from someone.",
+          "example": "I disagree about the meeting place, but I agree about the time.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "I agree with you",
+          "ipa": "/aɪ əˈɡriː wɪð juː/",
+          "pos": "fixed phrase",
+          "definition": "Used to say that you share the other person’s opinion.",
+          "example": "I agree with you about starting early.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "I do not think so",
+          "ipa": "/aɪ duː nɑt θɪŋk soʊ/",
+          "pos": "fixed phrase",
+          "definition": "Used to say that you believe a suggestion or statement is not right.",
+          "example": "Is the noisy hall suitable? I do not think so.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "worth a try",
+          "ipa": "/wɝθ ə traɪ/",
+          "pos": "fixed phrase",
+          "definition": "Reasonable to test because it may be useful, even though success is not certain.",
+          "example": "A shorter practice meeting is worth a try.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "a good fit",
+          "ipa": "/ə ɡʊd fɪt/",
+          "pos": "fixed phrase",
+          "definition": "Suitable for the particular people, purpose or situation.",
+          "example": "The quiet room is a good fit for our small group.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "agree",
+        "reason",
+        "plan",
+        "room",
+        "group"
+      ],
+      "mainWord": {
+        "word": "disagree",
+        "ipa": "/ˌdɪsəˈɡriː/",
+        "pos": "verb",
+        "definition": "Have a different opinion from someone.",
+        "example": "I disagree about the meeting place, but I agree about the time.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Disagree is followed by with a person or about a topic: disagree with someone about a plan. You can agree about one detail while disagreeing about another. Worth a try suggests testing an option; it does not promise the result.",
+      "wordTask": "Can you disagree about a place while agreeing about the meeting time?",
+      "wordSample": "Yes. Disagreeing about one detail does not mean rejecting every part of the plan.",
+      "expression": "Could we change just that part?",
+      "use": "Suggest a limited change that addresses a specific concern while keeping agreed parts of a plan.",
+      "context": [
+        "Could we change just that part?",
+        "Yes. Let us keep the time and choose a quieter room."
+      ],
+      "expressionTask": "Keep an agreed meeting time but suggest a quieter room. State where you agree, where you disagree and one reason.",
+      "grammar": "Agree or disagree with a person",
+      "pattern": "agree or disagree + with + person",
+      "example": "I disagree with you about the room.",
+      "task": "I disagree ___ you about the room.",
+      "answer": "with",
+      "sound": "Disagree has its strongest beat on GREE. Worth ends in unvoiced TH; let air pass near the tongue and teeth. Try begins with T and R together.",
+      "model": "I disagree about the meeting place.",
+      "dialogue": [
+        "I suggest meeting at ten in the big hall.",
+        "I agree with you about ten. The time gives us enough practice.",
+        "Do you think the big hall is a good fit?",
+        "I do not think so. Another group will be playing music there. Could we change just that part?",
+        "Yes. The small room is available at ten. A short meeting there is worth a try.",
+        "Good. I disagree about the original place, not about the whole plan."
+      ],
+      "reading": "Bella and Fenrir agree that their practice meeting should start at ten. They disagree about the room. Bella thinks the big hall may be noisy because another group will be playing music. She says, “I agree with you about the time,” before explaining the place problem. When asked whether the hall is a good fit, she answers, “I do not think so,” and gives her reason. Fenrir suggests the smaller room at the same time. They decide that a short practice there is worth a try. The discussion changes one detail while preserving what they already agreed.",
+      "readingQ": "What do the speakers change, and what do they keep?",
+      "readingA": "They change the room but keep the ten o’clock meeting time.",
+      "writing": "Write 45–65 words responding to a meeting proposal. Agree with one detail, disagree with another for a specific reason and propose a limited change.",
+      "writingSample": "I agree with you about starting at ten because we will have enough practice time. I disagree about the big hall, as another group will be playing music there. Could we keep the time and use the smaller room? A short practice there is worth a try, and we can check how it works.",
+      "listening": "Ten o’clock is fine for me, and I want to keep that time. My concern is the hall, because of the music practice next door. Could we use the small room instead? I am suggesting a change of place, not a later start.",
+      "question": "Which change does the speaker suggest?",
+      "correct": "A different room at the same time",
+      "other": "A later meeting in the same hall",
+      "speaking": "Respond to a partner’s plan. Say which detail you accept, give a reason for disagreeing about one other detail and suggest a practical change.",
+      "speakingSample": "I agree with you about meeting at ten. I disagree about the hall because it will be noisy. Could we change just that part and use the smaller room at the same time? It looks like a good fit, and a short practice there is worth a try."
+    },
+    {
+      "day": 157,
+      "unit": 20,
+      "title": "Recommend a story for a particular reader",
+      "goal": "I can use a short description to recommend a story that matches another person’s interest.",
+      "newItems": [
+        {
+          "word": "documentary",
+          "ipa": "/ˌdɑkjəˈmɛntəri/",
+          "pos": "noun",
+          "definition": "A film or program presenting information about real people, events or subjects.",
+          "example": "The documentary describes how the old bridge was built.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "mystery",
+          "ipa": "/ˈmɪstəri/",
+          "pos": "noun",
+          "definition": "A story in which an unexplained event or crime must be solved.",
+          "example": "She chooses a mystery about a missing painting.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "fiction",
+          "ipa": "/ˈfɪkʃən/",
+          "pos": "noun",
+          "definition": "Stories about imagined people or events rather than accounts presented as fact.",
+          "example": "The library keeps fiction on the upper shelves.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "I would recommend",
+          "ipa": "/aɪ wʊd ˌrɛkəˈmɛnd/",
+          "pos": "fixed phrase",
+          "definition": "Used to suggest something because it seems suitable or useful.",
+          "example": "I would recommend this short mystery if you enjoy solving puzzles.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "have a look at",
+          "ipa": "/hæv ə lʊk æt/",
+          "pos": "fixed phrase",
+          "definition": "Look briefly at something to get an idea of it.",
+          "example": "Have a look at the description before choosing.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "story",
+        "film",
+        "book",
+        "puzzle",
+        "history"
+      ],
+      "mainWord": {
+        "word": "documentary",
+        "ipa": "/ˌdɑkjəˈmɛntəri/",
+        "pos": "noun",
+        "definition": "A film or program presenting information about real people, events or subjects.",
+        "example": "The documentary describes how the old bridge was built.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Documentary and mystery are countable nouns in this lesson. Mystery here is a type of story, not every use of the word. Fiction is uncountable as a general category. A documentary presents real subjects, but its claims can still be checked; its label alone does not guarantee accuracy.",
+      "wordTask": "Which type of film presents information about real subjects rather than an invented plot?",
+      "wordSample": "A documentary presents information about real subjects.",
+      "expression": "What kind of story are you looking for?",
+      "use": "Ask about the other person’s interests before recommending something you like yourself.",
+      "context": [
+        "What kind of story are you looking for?",
+        "A short mystery. I enjoy working out what happened."
+      ],
+      "expressionTask": "Recommend a short book or program using the other person’s stated interest and the description, not only your own favorite.",
+      "grammar": "If with a recommendation",
+      "pattern": "If + present simple, I would recommend + noun",
+      "example": "If you enjoy puzzles, I would recommend this mystery.",
+      "task": "If you enjoy puzzles, I would recommend this ___.",
+      "answer": "mystery",
+      "sound": "Documentary has its strongest beat on MEN. Mystery and fiction have stress on the first syllable. Keep fiction’s K before the SH sound.",
+      "model": "The documentary describes the old bridge.",
+      "dialogue": [
+        "What kind of story are you looking for?",
+        "Something short that lets me work out what happened.",
+        "Then I would recommend this mystery about a missing painting. Have a look at the description.",
+        "Is it based on a real event?",
+        "It is fiction. The documentary beside it is about the real history of the bridge.",
+        "I will choose the mystery today and keep the documentary for another time."
+      ],
+      "reading": "Fenrir asks for a short story that gives him a puzzle to solve. Bella does not recommend her own favorite automatically. She asks about his interest, then says, “I would recommend this mystery.” They have a look at the description, which explains that a painting disappears during a gallery event. The story is fiction. A nearby documentary presents the history of a real bridge, but Fenrir wants an invented puzzle today. He chooses the mystery because it matches his stated interest and available time, not because fiction is better than every real-life program.",
+      "readingQ": "Why does the mystery suit Fenrir today?",
+      "readingA": "He wants a short story with a puzzle to solve.",
+      "writing": "Write 45–65 words recommending one of two programs to a person who likes puzzles. Use the description and distinguish the invented story from the real-life subject.",
+      "writingSample": "I would recommend the short mystery about the missing painting. It is fiction and gives you a puzzle to solve. The documentary about the bridge presents a real subject, but it does not match your request as closely today. Have a look at the mystery’s description before deciding.",
+      "listening": "I want a short invented story where I can guess what happened. The bridge documentary sounds useful for learning local history, but that is not my goal this evening. The missing-painting mystery is only twenty minutes, so I will choose it.",
+      "question": "Why does the speaker choose the mystery?",
+      "correct": "It matches the desired puzzle and length",
+      "other": "It presents the real history of the bridge",
+      "speaking": "Ask a partner about a story preference, then recommend one option for a clear reason. Mention a different option without describing it as universally worse.",
+      "speakingSample": "What kind of story are you looking for? If you want a short puzzle, I would recommend the missing-painting mystery. It is fiction and lasts twenty minutes. The bridge documentary may suit you when you want local history. Have a look at both descriptions before choosing."
+    },
+    {
+      "day": 158,
+      "unit": 20,
+      "title": "Explain which part of a song you like",
+      "goal": "I can name a feature behind a music preference without assuming that another listener shares it.",
+      "newItems": [
+        {
+          "word": "melody",
+          "ipa": "/ˈmɛlədi/",
+          "pos": "noun",
+          "definition": "The tune formed by a sequence of musical notes.",
+          "example": "The melody is easy for the class to sing.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "rhythm",
+          "ipa": "/ˈrɪðəm/",
+          "pos": "noun",
+          "definition": "The pattern of strong and weak sounds and pauses in music.",
+          "example": "The rhythm changes between the two parts.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "beat",
+          "ipa": "/biːt/",
+          "pos": "noun",
+          "definition": "A regular pulse that can be followed in music.",
+          "example": "We tap the steady beat together.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "what I like about",
+          "ipa": "/wʌt aɪ laɪk əˈbaʊt/",
+          "pos": "fixed phrase",
+          "definition": "Used to introduce a particular feature that pleases the speaker.",
+          "example": "What I like about this song is its simple melody.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "not my favorite",
+          "ipa": "/nɑt maɪ ˈfeɪvərɪt/",
+          "pos": "fixed phrase",
+          "definition": "Not the option the speaker likes best; this need not mean it is disliked completely.",
+          "example": "It is not my favorite song, but I enjoy the rhythm.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "song",
+        "music",
+        "sing",
+        "slow",
+        "fast"
+      ],
+      "mainWord": {
+        "word": "melody",
+        "ipa": "/ˈmɛlədi/",
+        "pos": "noun",
+        "definition": "The tune formed by a sequence of musical notes.",
+        "example": "The melody is easy for the class to sing.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Melody means tune. Beat is the regular pulse; rhythm is the pattern of sounds and pauses around it, so they are related but not identical. Not my favorite is a personal comparison, not a claim that nobody should enjoy the song.",
+      "wordTask": "Which word names the tune that you can sing?",
+      "wordSample": "Melody names the tune.",
+      "expression": "Which part do you enjoy most?",
+      "use": "Ask a listener to identify a specific feature instead of only asking whether the whole song is good.",
+      "context": [
+        "Which part do you enjoy most?",
+        "The melody. I can remember it after one listen."
+      ],
+      "expressionTask": "Discuss a song using one clear feature, such as its tune or rhythmic pattern. Leave room for a different preference.",
+      "grammar": "What I like about introduces a feature",
+      "pattern": "What I like about + noun + is + noun phrase",
+      "example": "What I like about this song is its melody.",
+      "task": "What I like about this song ___ its melody.",
+      "answer": "is",
+      "sound": "Melody has stress on MEL. Rhythm begins with R and uses voiced TH in the middle. Beat ends with T; do not add a final vowel.",
+      "model": "The melody is easy to remember.",
+      "dialogue": [
+        "Which part of this song do you enjoy most?",
+        "What I like about it is the melody. I can remember the tune easily.",
+        "I notice the rhythm more. The pattern changes in the middle.",
+        "Can you still follow the beat when it changes?",
+        "Yes. The steady pulse continues underneath that new pattern.",
+        "It is not my favorite song, but I enjoy hearing those details when you point them out."
+      ],
+      "reading": "In a music class, Bella and Fenrir listen to the same song. Bella remembers the melody and says, “What I like about this song is its tune.” Fenrir notices the rhythm: the pattern of sounds changes in the middle, while a steady beat continues. They tap the pulse and listen again to the changing pattern. Bella says, “It is not my favorite song,” then explains that she still enjoys the tune. Their different preferences help them notice more features. Neither needs to claim that one personal reaction is the only correct opinion.",
+      "readingQ": "What stays steady while the pattern changes?",
+      "readingA": "The beat, or regular pulse, stays steady.",
+      "writing": "Write 45–65 words about a real or invented song. Name one feature you enjoy and explain how a partner notices a different feature.",
+      "writingSample": "What I like about this song is its simple melody. I can remember and sing the tune after one listen. My partner notices the changing rhythm instead. We can still tap a steady beat through the middle section. It is not my favorite song, but listening together helps me hear more details.",
+      "listening": "I can tap the same regular pulse through the whole song. The pattern of sounds changes in the middle, but the pulse does not become faster. My friend likes the melody most; I enjoy noticing how the changing rhythm fits over the steady beat.",
+      "question": "What remains the same through the song?",
+      "correct": "The regular beat",
+      "other": "Every detail of the rhythmic pattern",
+      "speaking": "Explain one feature behind your music preference. Ask a partner which feature they notice, using melody, rhythm and beat accurately.",
+      "speakingSample": "What I like about this song is the melody because I can remember the tune. The beat stays steady, but the rhythm changes in the middle. Which part do you enjoy most? Your answer may help me hear something I missed."
+    },
+    {
+      "day": 159,
+      "unit": 20,
+      "title": "Compare food and atmosphere separately",
+      "goal": "I can give a specific opinion about a meal and a place without treating one reaction as a judgment of everything.",
+      "newItems": [
+        {
+          "word": "salty",
+          "ipa": "/ˈsɔlti/",
+          "pos": "adjective",
+          "definition": "Having a noticeable taste of salt.",
+          "example": "The soup tastes salty to me.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "flavor",
+          "ipa": "/ˈfleɪvɚ/",
+          "pos": "noun",
+          "definition": "The particular taste of a food or drink.",
+          "example": "I enjoy the lemon flavor in this salad.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "peaceful",
+          "ipa": "/ˈpiːsfəl/",
+          "pos": "adjective",
+          "definition": "Calm and quiet, without much disturbance.",
+          "example": "The small garden cafe is peaceful in the afternoon.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "lively",
+          "ipa": "/ˈlaɪvli/",
+          "pos": "adjective",
+          "definition": "Full of activity and energy.",
+          "example": "The larger cafe has a lively atmosphere during lunch.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "a matter of taste",
+          "ipa": "/ə ˈmætɚ əv teɪst/",
+          "pos": "fixed phrase",
+          "definition": "Something that depends on individual preference rather than one answer for everyone.",
+          "example": "Preferring a quiet cafe to a lively one can be a matter of taste.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "soup",
+        "salad",
+        "lemon",
+        "quiet",
+        "lunch"
+      ],
+      "mainWord": {
+        "word": "salty",
+        "ipa": "/ˈsɔlti/",
+        "pos": "adjective",
+        "definition": "Having a noticeable taste of salt.",
+        "example": "The soup tastes salty to me.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Salty describes taste, not the actual measured amount of salt. Flavor is the American spelling; flavour is British, not a second new word. Peaceful and lively can both be positive, depending on what someone wants. A matter of taste can refer to preferences beyond food.",
+      "wordTask": "Which adjective describes a noticeable taste of salt?",
+      "wordSample": "Salty describes a noticeable salt taste.",
+      "expression": "Are you talking about the food or the place?",
+      "use": "Clarify which part of an experience a comment describes before agreeing or disagreeing.",
+      "context": [
+        "Are you talking about the food or the place?",
+        "The place. I like the meal, but I wanted somewhere more peaceful."
+      ],
+      "expressionTask": "Discuss a meal and its setting separately. Name one food feature you enjoy and explain the atmosphere you prefer for today’s purpose.",
+      "grammar": "Too with an adjective for a particular purpose",
+      "pattern": "too + adjective + for + purpose or person",
+      "example": "The cafe is too lively for a quiet conversation.",
+      "task": "The cafe is too ___ for a quiet conversation.",
+      "answer": "lively",
+      "sound": "Salty has stress on SAL, flavor on FLA and peaceful on PEACE. Lively begins with the vowel glide in lie, not the short vowel in live as a verb.",
+      "model": "The soup tastes salty to me.",
+      "dialogue": [
+        "Did you enjoy lunch at the large cafe?",
+        "I liked the lemon flavor in the salad, but the soup tasted salty to me.",
+        "What about the lively atmosphere?",
+        "Are you talking about the food or the place?",
+        "The place. I enjoyed the activity around us.",
+        "I wanted a peaceful conversation today. The atmosphere was not right for that purpose, although it may be a matter of taste on another day."
+      ],
+      "reading": "Bella and Fenrir discuss lunch at a lively cafe. Bella liked the lemon flavor in her salad, but the soup tasted salty to her. Fenrir enjoyed the activity around them. Bella had wanted a peaceful conversation, so she separates her opinion of the meal from her opinion of the place. She does not claim that a salty taste tells her the measured amount of salt, or that a lively cafe is bad for every occasion. For today’s quiet talk, she would choose somewhere calmer. On another occasion, the atmosphere might simply be a matter of taste.",
+      "readingQ": "Why does Bella prefer a calmer place today?",
+      "readingA": "She wants a peaceful conversation, rather than an active atmosphere.",
+      "writing": "Write 45–65 words reviewing a lunch. Separate a food detail from the atmosphere and connect your preference to today’s purpose.",
+      "writingSample": "I enjoyed the lemon flavor in the salad, although the soup tasted salty to me. The cafe was lively, which my friend liked. I wanted a peaceful conversation today, so I would choose a calmer place next time for that purpose. My food preference and my opinion of the setting are separate.",
+      "listening": "The salad was good, and I enjoyed its lemon flavor. My concern was not the food. We wanted to discuss our project quietly, but the cafe was lively and we could not hear each other easily. I would choose a peaceful place for that conversation next time.",
+      "question": "What would the speaker change for the next project discussion?",
+      "correct": "The atmosphere of the place",
+      "other": "The lemon flavor of the salad",
+      "speaking": "Give a short lunch review. Mention one food feature and one atmosphere feature, then explain how the purpose affects your choice.",
+      "speakingSample": "I liked the lemon flavor of the salad, but the soup tasted salty to me. The cafe was lively. That could be fun with a larger group, but today I wanted a peaceful conversation. I would choose a calmer place for our next project discussion."
+    },
+    {
+      "day": 160,
+      "unit": 20,
+      "title": "Find an option that fits the whole group",
+      "goal": "I can compare individual preferences with a group’s practical needs and explain a shared decision.",
+      "newItems": [
+        {
+          "word": "all of us",
+          "ipa": "/ɔl əv ʌs/",
+          "pos": "fixed phrase",
+          "definition": "Every person in the group that includes the speaker.",
+          "example": "All of us need to be back by four.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "neither of us",
+          "ipa": "/ˈniːðɚ əv ʌs/",
+          "pos": "fixed phrase",
+          "definition": "Not one and not the other of two people including the speaker.",
+          "example": "Neither of us wants a late return.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "not as much as",
+          "ipa": "/nɑt əz mʌtʃ əz/",
+          "pos": "fixed phrase",
+          "definition": "To a lower degree or amount than the stated comparison.",
+          "example": "I enjoy the market, but not as much as the garden.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "not for everyone",
+          "ipa": "/nɑt fɔr ˈɛvriˌwʌn/",
+          "pos": "fixed phrase",
+          "definition": "Not likely to suit or appeal to every person.",
+          "example": "A noisy evening event is not for everyone.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "take your pick",
+          "ipa": "/teɪk jɚ pɪk/",
+          "pos": "fixed phrase",
+          "definition": "Choose whichever you want from the available options.",
+          "example": "Both rooms meet our needs, so take your pick.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "group",
+        "quiet",
+        "market",
+        "time",
+        "choice"
+      ],
+      "mainWord": {
+        "word": "all of us",
+        "ipa": "/ɔl əv ʌs/",
+        "pos": "fixed phrase",
+        "definition": "Every person in the group that includes the speaker.",
+        "example": "All of us need to be back by four.",
+        "category": "fixed_phrase",
+        "status": "new"
+      },
+      "mainIntroduction": "Learn a useful expression and use it yourself.",
+      "mainWordForms": "All of us can refer to two or more people, but neither of us refers specifically to two. With neither of us, a singular verb is a useful model: neither of us wants. Not as much as compares degree, not complete dislike. Take your pick applies after the options have been made clear.",
+      "wordTask": "Does all of us mean only the person who is speaking?",
+      "wordSample": "No. It means every person in the group that includes the speaker.",
+      "expression": "Which option meets everyone’s main needs?",
+      "use": "Move from separate preferences to a shared choice by checking the important requirements of every person.",
+      "context": [
+        "Which option meets everyone’s main needs?",
+        "The garden visit ends early and gives us somewhere quiet to talk."
+      ],
+      "expressionTask": "Compare a lively market and a quieter garden for three friends. Check each person’s main need before inviting a final choice.",
+      "grammar": "Neither of us with a singular verb",
+      "pattern": "neither of us + singular verb",
+      "example": "Neither of us wants a late return.",
+      "task": "Neither of us ___ a late return.",
+      "answer": "wants",
+      "sound": "Neither has voiced TH; both NEE-ther and NYE-ther are used. Everyone has its main stress at the beginning. Keep the final S in wants clear.",
+      "model": "All of us need to be back by four.",
+      "dialogue": [
+        "Three of us are choosing between the garden and the market. Which option meets everyone’s main needs?",
+        "All of us need to be back by four. The garden visit ends at three.",
+        "I enjoy the market, but not as much as the garden. What about you?",
+        "You and I agree that neither of us wants a late return. Nina also wants somewhere quiet to talk.",
+        "Then the garden fits. The noisy market is not for everyone today.",
+        "Good. There are two garden times that both work, so Nina can take her pick."
+      ],
+      "reading": "Three friends compare a lively market with a garden visit. “All of us need to be back by four,” Bella explains. Fenrir enjoys the market, but not as much as the garden, and Nina wants a quiet conversation. Bella and Fenrir agree, “Neither of us wants a late return.” That phrase refers to the two of them, not all three. The garden visit ends at three and meets Nina’s need too. A noisy market is not for everyone on this occasion. After checking the needs, they offer Nina two suitable garden times and say, “Take your pick.”",
+      "readingQ": "Why does the garden meet the group’s main needs?",
+      "readingA": "It ends before four and provides the quiet setting Nina wants.",
+      "writing": "Write 45–65 words explaining a group choice. Mention a shared requirement, one personal preference and the reason the final option fits.",
+      "writingSample": "All of us need to be back by four. I enjoy the market, but not as much as the garden, and Nina wants a quiet conversation. The garden visit ends at three and fits those needs. Two visit times are suitable, so Nina can take her pick after we confirm the booking.",
+      "listening": "There are three of us. Everyone must return by four. Nina wants a quiet place. Bella and I would both prefer an early finish, so neither of us wants the late market visit. The garden ends at three and is quiet. We will choose that option.",
+      "question": "Which combination supports the group’s choice?",
+      "correct": "A quiet place and a finish before four",
+      "other": "A late finish and a noisy setting",
+      "speaking": "Compare two plans for a small group. Separate a shared requirement from one person’s preference and explain why the final choice fits everyone’s main needs.",
+      "speakingSample": "All of us need to return by four, and Nina wants somewhere quiet. I like the market, but not as much as the garden. The garden ends at three, so it meets the shared time requirement and Nina’s preference. Let us check its two available times before choosing.",
+      "transferCheck": {
+        "source": "Three classmates want a Saturday activity. They can spend up to twelve dollars each and must finish by three. Zoe wants to hear everyone clearly. Ravi likes a lively atmosphere but says quiet places are fine too. Elin prefers local history. Option A is a ten-dollar history talk in a quiet room, ending at two thirty. Option B is a free music market ending at four, with loud performances throughout. Option C is a fifteen-dollar quiet exhibition ending at two.",
+        "dictation": "The history talk fits the budget and finishes before three.",
+        "tasks": [
+          [
+            "1 · Compare practical needs",
+            "Which option meets the shared budget and finish-time requirements?"
+          ],
+          [
+            "2 · Connect a preference to evidence",
+            "How does that option also suit Zoe and Elin?"
+          ],
+          [
+            "3 · Separate a preference from a refusal",
+            "Does Ravi’s liking for a lively atmosphere mean he refuses a quiet place? Quote or explain the relevant information."
+          ],
+          [
+            "4 · Listen and write",
+            "Write the dictation sentence and check the price and finish time against the options."
+          ],
+          [
+            "5 · Make a recommendation",
+            "Write 40–60 words recommending one activity. Mention the two shared requirements and one individual preference without saying everyone has identical tastes."
+          ]
+        ],
+        "answer": "1. Option A, the history talk: ten dollars is within the twelve-dollar budget and two thirty is before three. B finishes too late; C costs too much. 2. Its quiet room helps Zoe hear people, and its history subject matches Elin’s preference. 3. No. Ravi says quiet places are fine too; liking a lively atmosphere is not a refusal of every quiet option. 4. The history talk fits the budget and finishes before three. 5. Sample: I would recommend the history talk. It costs ten dollars each, within our twelve-dollar budget, and ends at two thirty, before our three o’clock limit. The quiet room suits Zoe, and the subject interests Elin. Ravi likes lively places but has said a quiet option is fine too."
+      }
+    }
+  ]
+}

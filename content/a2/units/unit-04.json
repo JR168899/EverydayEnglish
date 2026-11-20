@@ -1,0 +1,876 @@
+{
+  "number": 4,
+  "title": "Shopping and making purchases",
+  "lessons": [
+    {
+      "day": 25,
+      "unit": 4,
+      "title": "Read an offer before choosing what to buy",
+      "goal": "I can compare a shop offer with what I actually need.",
+      "newItems": [
+        {
+          "word": "discount",
+          "ipa": "/ˈdɪsˌkaʊnt/",
+          "pos": "noun",
+          "definition": "An amount taken off the normal price.",
+          "example": "Students get a small discount at this shop.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "item",
+          "ipa": "/ˈaɪtəm/",
+          "pos": "noun",
+          "definition": "One thing in a group or list of things.",
+          "example": "There are three items in my basket.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "offer",
+          "ipa": "/ˈɔfɚ/",
+          "pos": "noun",
+          "definition": "Something a shop lets you buy at a particular price or with an extra benefit.",
+          "example": "This offer includes two notebooks for the price of one.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "special",
+          "ipa": "/ˈspɛʃəl/",
+          "pos": "adjective",
+          "definition": "Different from usual and intended for a particular purpose or occasion.",
+          "example": "The shop has a special offer on notebooks.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "on sale",
+          "ipa": "/ɑn seɪl/",
+          "pos": "fixed phrase",
+          "definition": "Available at a reduced price, especially in American English.",
+          "example": "These notebooks are on sale this week.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "local",
+        "useful",
+        "price",
+        "available",
+        "possible"
+      ],
+      "mainWord": {
+        "word": "discount",
+        "ipa": "/ˈdɪsˌkaʊnt/",
+        "pos": "noun",
+        "definition": "An amount taken off the normal price.",
+        "example": "Students get a small discount at this shop.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Noun: discount; plural: discounts. A ten percent discount reduces the original price by ten percent.",
+      "wordTask": "A notebook normally costs ten dollars and has a two-dollar discount. Say the new price.",
+      "expression": "Which offer suits you better?",
+      "use": "Ask which choice is more suitable for a person’s needs, rather than choosing only by the size of a discount.",
+      "context": [
+        "One notebook is three dollars, or two are five dollars. Which offer suits you better?",
+        "I only need one, so I will buy the three-dollar notebook."
+      ],
+      "expressionTask": "Compare buying one item cheaply with buying two for a special price. Ask what your partner needs before choosing.",
+      "grammar": "Comparing total cost with less expensive",
+      "pattern": "Use less expensive than to compare prices. Check whether you are comparing the same number of items.",
+      "example": "One notebook is less expensive than two.",
+      "task": "One notebook is less ___ than two.",
+      "answer": "expensive",
+      "sound": "Discount as a noun has strong stress at the beginning. Keep the final NT together without adding another syllable.",
+      "model": "There is a discount on this item.",
+      "dialogue": [
+        "These notebooks are on sale. Which offer suits you better?",
+        "How much is one notebook?",
+        "Three dollars, or two for five dollars.",
+        "I only need one item today.",
+        "Then the single notebook costs less in total.",
+        "That is the better choice for me."
+      ],
+      "reading": "Bella needs one notebook. At the local shop, several items are on sale. A special offer gives customers two notebooks for five dollars, while one costs three dollars. Bella first looks for the largest discount. Then she checks her shopping list. She only needs one item, so she chooses a single notebook. The offer is useful for someone who needs two, but it does not reduce Bella’s total spending today.",
+      "readingQ": "Why does Bella buy one notebook even though two have a lower price per notebook?",
+      "readingA": "She only needs one. Buying one costs three dollars in total instead of five.",
+      "writing": "Write a short comparison of two simple shop offers. State the prices, say what you need and explain your choice.",
+      "listening": "The student discount is available on weekdays only. Please show your student card before you pay. It does not apply to the notebooks already on sale. Those notebooks have their reduced price on the shelf label.",
+      "question": "Which items cannot receive the student discount?",
+      "correct": "The notebooks already on sale",
+      "other": "All items bought on weekdays",
+      "speaking": "Compare two shop offers with a partner. Ask how many items they need, calculate the total cost and explain which choice suits that need.",
+      "speakingSample": "I need one notebook, so the three-dollar option suits me better than two for five dollars. Two have a lower price each, but I would spend more in total. How many do you actually need? Let’s compare the total prices for that number.",
+      "wordSample": "The new price is eight dollars: ten dollars minus two dollars.",
+      "writingSample": "The first offer costs eight dollars and includes a notebook and pen. The second costs six dollars for a notebook only. I already have a pen, so I would choose the second offer. It gives me what I need for less money."
+    },
+    {
+      "day": 26,
+      "unit": 4,
+      "title": "Describe the clothing you are looking for",
+      "goal": "I can ask for a particular item of clothing and describe useful features.",
+      "newItems": [
+        {
+          "word": "fashion",
+          "ipa": "/ˈfæʃən/",
+          "pos": "noun",
+          "definition": "The styles of clothes and other things that are popular at a particular time.",
+          "example": "She enjoys reading about fashion.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "design",
+          "ipa": "/dɪˈzaɪn/",
+          "pos": "noun",
+          "definition": "The way something looks and how its parts are arranged.",
+          "example": "I like the simple design of this bag.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "leather",
+          "ipa": "/ˈlɛðɚ/",
+          "pos": "uncountable noun",
+          "definition": "A material made from animal skin, used for shoes, bags and other things.",
+          "example": "The label says this bag is made from leather.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "blouse",
+          "ipa": "/blaʊs/",
+          "pos": "noun",
+          "definition": "A shirt for the upper body, often worn with a skirt or trousers.",
+          "example": "The blue blouse has long sleeves.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "swimsuit",
+          "ipa": "/ˈswɪmˌsut/",
+          "pos": "noun",
+          "definition": "Clothing made for swimming.",
+          "example": "I need a swimsuit for the pool.",
+          "category": "new_word",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "item",
+        "special",
+        "discount",
+        "comfortable",
+        "size"
+      ],
+      "mainWord": {
+        "word": "fashion",
+        "ipa": "/ˈfæʃən/",
+        "pos": "noun",
+        "definition": "The styles of clothes and other things that are popular at a particular time.",
+        "example": "She enjoys reading about fashion.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Usually uncountable: fashion. A fashion can mean a particular popular style, but here we discuss clothing styles in general.",
+      "wordTask": "Say whether fashion or comfort is more important when you choose clothes. Give a simple reason.",
+      "expression": "Could I see that one, please?",
+      "use": "Ask an assistant to show you a particular item. Point or describe it so the person knows which one you mean.",
+      "context": [
+        "Could I see that one, please? The blue blouse beside the window.",
+        "Of course. Which size would you like?"
+      ],
+      "expressionTask": "Ask to see one item from a display. Describe its color and position, then ask about its size.",
+      "grammar": "Using one and ones instead of repeating a noun",
+      "pattern": "Use one for a singular countable item and ones for plural items when the listener knows what you mean.",
+      "example": "I prefer the blue one.",
+      "task": "I prefer the blue ___.",
+      "answer": "one",
+      "sound": "Fashion has SH in the middle. Keep airflow moving rather than making a T sound. The last syllable is light and unstressed.",
+      "model": "I read about fashion in this magazine.",
+      "dialogue": [
+        "Could I see that one, please? The blue blouse.",
+        "Certainly. Are you looking for anything else?",
+        "A swimsuit for the pool.",
+        "These have a simple design and come in several sizes.",
+        "I prefer comfortable clothes. Fashion is less important to me.",
+        "Let’s check the size labels first."
+      ],
+      "reading": "Bella is choosing clothes for a short trip. She reads a fashion page but decides to choose what she needs. A blue blouse has a simple design and fits comfortably. She also buys a swimsuit because the hotel has a pool. A bag catches her attention, but its label says leather. She wants a different material, so she asks the assistant about another bag instead.",
+      "readingQ": "Why does Bella need a swimsuit, and why does she ask about another bag?",
+      "readingA": "The hotel has a pool. She wants a bag made from a material other than leather.",
+      "writing": "Describe two items for a trip. Say what each is for and describe a practical feature such as size or material.",
+      "listening": "The blue blouses are beside the window, but the swimsuits have moved upstairs. Please take the stairs to the sports section. The bags on this floor are all leather; the cloth bags are near the upstairs entrance.",
+      "question": "Where are the swimsuits now?",
+      "correct": "Upstairs in the sports section",
+      "other": "Beside the window",
+      "speaking": "Ask a partner acting as an assistant for two different clothing items. Give a purpose, color or size for each, and explain one preference.",
+      "speakingSample": "Could I see the blue blouse beside the window? I need a medium size for a trip. I am also looking for a swimsuit because the hotel has a pool. Comfort matters more to me than fashion. Which sizes are available?",
+      "wordSample": "Comfort is more important to me because I want clothes I can move in easily.",
+      "writingSample": "I will take a light jacket for cool evenings. It folds into my bag and has a pocket for my ticket. I will also take a small water bottle. It is easy to carry during the journey."
+    },
+    {
+      "day": 27,
+      "unit": 4,
+      "title": "Choose a small gift for someone",
+      "goal": "I can describe a gift idea and ask practical questions before buying.",
+      "newItems": [
+        {
+          "word": "jewelry",
+          "ipa": "/ˈdʒuəlri/",
+          "pos": "uncountable noun",
+          "definition": "Things such as rings and necklaces that people wear as decoration.",
+          "example": "The shop sells jewelry made from different materials.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "necklace",
+          "ipa": "/ˈnɛkləs/",
+          "pos": "noun",
+          "definition": "An object worn around the neck as decoration, often a chain or a string of beads.",
+          "example": "The necklace has a small silver star.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "bracelet",
+          "ipa": "/ˈbreɪslət/",
+          "pos": "noun",
+          "definition": "An object worn around the wrist as decoration.",
+          "example": "This bracelet is made from small wooden beads.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "earring",
+          "ipa": "/ˈɪrɪŋ/",
+          "pos": "noun",
+          "definition": "A piece of decoration worn on or through an ear.",
+          "example": "I found one earring beside the mirror.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "perfume",
+          "ipa": "/ˈpɝfjum/",
+          "pos": "noun",
+          "definition": "A liquid with a pleasant smell that people put on their body or clothes.",
+          "example": "Could I smell this perfume before choosing it?",
+          "category": "new_word",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "design",
+        "leather",
+        "item",
+        "gift",
+        "price"
+      ],
+      "mainWord": {
+        "word": "jewelry",
+        "ipa": "/ˈdʒuəlri/",
+        "pos": "uncountable noun",
+        "definition": "Things such as rings and necklaces that people wear as decoration.",
+        "example": "The shop sells jewelry made from different materials.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Usually uncountable: jewelry. Use a piece of jewelry or some jewelry, not a jewelry. Jewellery is the British spelling of the same word.",
+      "wordTask": "Name two types of jewelry and say where people wear them.",
+      "expression": "It’s a gift.",
+      "use": "Explain that you are buying something for another person so the assistant can help with suitable choices or wrapping.",
+      "context": [
+        "Would you like to try the bracelet?",
+        "It’s a gift. Could I check whether the size can be changed?"
+      ],
+      "expressionTask": "Tell an assistant you are choosing a gift. Explain one thing the person likes and ask a practical question about the item.",
+      "grammar": "Questions with who and for",
+      "pattern": "Use who is it for to ask about the person who will receive something. The preposition can come at the end.",
+      "example": "Who is the gift for?",
+      "task": "Who is the gift ___?",
+      "answer": "for",
+      "sound": "Jewelry starts with the voiced J sound. Put the strongest stress on the first syllable. Keep the ending light rather than pronouncing every letter separately.",
+      "model": "This necklace is a piece of jewelry.",
+      "dialogue": [
+        "Are you looking for anything in particular?",
+        "It’s a gift for my friend. They like simple jewelry.",
+        "Would a necklace or bracelet suit them?",
+        "A bracelet might be good. Can the size be changed?",
+        "Yes. We also have earrings and perfume.",
+        "Thank you. I will look at the bracelets first."
+      ],
+      "reading": "Fenrir is choosing a birthday gift. His friend enjoys jewelry, so he looks at a necklace and a bracelet. He also notices a pair of earrings, but he does not know whether his friend wears them. The assistant shows him some perfume. Fenrir is not sure which perfume his friend likes, so he chooses the bracelet instead. He checks that its size can be changed and asks for a gift receipt.",
+      "readingQ": "Why does Fenrir choose the bracelet rather than the earrings or perfume?",
+      "readingA": "He is unsure whether his friend wears earrings or which perfume they like. The bracelet size can be changed.",
+      "writing": "Write a short note about a gift choice. Say who it is for, describe two options and explain why one is more suitable.",
+      "listening": "The bracelet can be changed for another size within fourteen days. Please keep the gift receipt. Perfume can only be returned if the box is unopened. The earrings in this sale cannot be returned, so please check the information before paying.",
+      "question": "Which item can be changed for another size?",
+      "correct": "The bracelet",
+      "other": "The perfume",
+      "speaking": "Choose a gift with a partner. Describe the person’s interests, compare two items and ask about one practical condition before deciding.",
+      "speakingSample": "It is a gift for a friend who likes simple jewelry. This necklace looks attractive, but the bracelet’s size can be changed. Could I have a gift receipt with it? I would choose the bracelet because it gives my friend another size option.",
+      "photo": {
+        "id": "4155250",
+        "asset": "assets/a2-photos/4155250.jpg",
+        "sourceURL": "https://www.pexels.com/photo/a-bracelet-and-a-necklace-on-a-wooden-tray-4155250/",
+        "credit": "Lum3n · Pexels",
+        "licenseURL": "https://www.pexels.com/license/",
+        "caption": "A necklace and bracelet on a wooden tray.",
+        "alt": "A pendant necklace and bracelet displayed on a wooden tray.",
+        "fit": "cover",
+        "focalY": 0.65,
+        "dimensions": [
+          1600,
+          1067
+        ]
+      },
+      "wordSample": "A necklace is worn around the neck. A bracelet is worn around the wrist.",
+      "writingSample": "I am choosing a gift for my sister. One option is a small necklace; the other is a large picture. She enjoys simple jewelry and has little wall space, so I would choose the necklace."
+    },
+    {
+      "day": 28,
+      "unit": 4,
+      "title": "Check a price and choose a way to pay",
+      "goal": "I can understand a simple payment choice and confirm the final price.",
+      "newItems": [
+        {
+          "word": "till",
+          "ipa": "/tɪl/",
+          "pos": "noun",
+          "definition": "The place or machine where customers pay in a shop; common in British English.",
+          "example": "Please take your items to the till.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "credit card",
+          "ipa": "/ˈkrɛdɪt kɑrd/",
+          "pos": "noun phrase",
+          "definition": "A payment card that lets you buy things and pay the card company later.",
+          "example": "The shop accepts a credit card.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "debit card",
+          "ipa": "/ˈdɛbɪt kɑrd/",
+          "pos": "noun phrase",
+          "definition": "A payment card that uses money from your bank account.",
+          "example": "I paid for the notebook with a debit card.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "pay in cash",
+          "ipa": "/peɪ ɪn kæʃ/",
+          "pos": "verb phrase",
+          "definition": "To give coins or paper money as payment.",
+          "example": "Can I pay in cash for this item?",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "half price",
+          "ipa": "/hæf praɪs/",
+          "pos": "fixed phrase",
+          "definition": "Costing half the usual amount.",
+          "example": "The notebook was ten dollars, but today it is half price.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "discount",
+        "offer",
+        "total",
+        "cash",
+        "receipt"
+      ],
+      "mainWord": {
+        "word": "till",
+        "ipa": "/tɪl/",
+        "pos": "noun",
+        "definition": "The place or machine where customers pay in a shop; common in British English.",
+        "example": "Please take your items to the till.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Noun: till; plural: tills. Here till means a checkout, not the preposition meaning until.",
+      "wordTask": "Say where a customer should go to pay for items in a shop.",
+      "expression": "Can I pay in cash?",
+      "use": "Check whether a shop accepts physical money before paying. A shop may have different payment rules.",
+      "context": [
+        "Can I pay in cash?",
+        "Yes. Cash and debit cards are both accepted."
+      ],
+      "expressionTask": "Ask which payment methods are accepted. Then repeat the final price before paying in the role-play.",
+      "grammar": "Polite statements with would like to",
+      "pattern": "Use would like to plus a base verb to say politely what you want to do.",
+      "example": "I would like to pay in cash.",
+      "task": "I would like ___ pay in cash.",
+      "answer": "to",
+      "sound": "Till has the short relaxed vowel in sit. Finish with the tongue tip at the ridge for L. Do not pronounce it like teal, with a long EE vowel.",
+      "model": "Please pay at the till.",
+      "dialogue": [
+        "This item is half price today.",
+        "So the final price is five dollars, right?",
+        "That is right. Would you like to pay by card?",
+        "Can I pay in cash?",
+        "Yes. We accept cash, credit cards and debit cards.",
+        "Thank you. Could I have a receipt?"
+      ],
+      "reading": "Bella takes a notebook to the till. The sign says half price, so its usual price of ten dollars becomes five dollars. She asks whether she can pay in cash. The assistant says that she can, or she can use a debit card or credit card. Bella chooses cash because she already has the correct amount. Before leaving, she checks the receipt and puts it with the notebook.",
+      "readingQ": "What is the final price, and how does Bella choose to pay?",
+      "readingA": "The final price is five dollars. Bella pays in cash.",
+      "writing": "Write a short payment exchange. Check the final price, ask about a payment method and request a receipt.",
+      "listening": "The front till is closed. Please use the one beside the exit. We can accept cash and debit cards there, but our credit card service is not working at the moment. Thank you for your patience.",
+      "question": "Which payment method is unavailable at the moment?",
+      "correct": "Credit cards",
+      "other": "Debit cards",
+      "speaking": "Role-play a shop payment. Check a half-price offer, ask which payment methods are accepted, choose one and request the receipt. Use invented prices only.",
+      "speakingSample": "The label says half price, so the ten-dollar notebook is five dollars now. Can I pay in cash? If that is not accepted, I have a debit card. Before I pay, could you confirm the total and give me a receipt?",
+      "wordSample": "A customer should go to the till or checkout to pay.",
+      "writingSample": "I ask, \"Is the final price twelve dollars? May I pay by card?\" The cashier replies, \"Yes, that is the total, and cards are accepted.\" I say, \"Thank you. Could I have a receipt, please?\""
+    },
+    {
+      "day": 29,
+      "unit": 4,
+      "title": "Check measurements before ordering an item",
+      "goal": "I can read a simple measurement and ask whether an item will meet my needs.",
+      "newItems": [
+        {
+          "word": "kilogram",
+          "ipa": "/ˈkɪləˌɡræm/",
+          "pos": "noun",
+          "definition": "A unit of weight equal to one thousand grams.",
+          "example": "This parcel weighs one kilogram.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "gram",
+          "ipa": "/ɡræm/",
+          "pos": "noun",
+          "definition": "A small unit of weight; one thousand grams make one kilogram.",
+          "example": "The small box weighs two hundred grams.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "per",
+          "ipa": "/pɚ/",
+          "pos": "preposition",
+          "definition": "For each, used when giving a price, amount or rate.",
+          "example": "The price is two dollars per bag.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "length",
+          "ipa": "/lɛŋθ/",
+          "pos": "noun",
+          "definition": "The measurement from one end of something to the other.",
+          "example": "What is the length of the box?",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "puzzle",
+          "ipa": "/ˈpʌzəl/",
+          "pos": "noun",
+          "definition": "A game or problem that you solve by thinking or by fitting parts together.",
+          "example": "The puzzle has a hundred pieces.",
+          "category": "new_word",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "heavy",
+        "square",
+        "deep",
+        "space",
+        "box"
+      ],
+      "mainWord": {
+        "word": "kilogram",
+        "ipa": "/ˈkɪləˌɡræm/",
+        "pos": "noun",
+        "definition": "A unit of weight equal to one thousand grams.",
+        "example": "This parcel weighs one kilogram.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Noun: kilogram; plural: kilograms. The abbreviation is kg. Kilogramme is a British spelling of the same unit.",
+      "wordTask": "A box weighs five hundred grams. Say whether it weighs more or less than one kilogram.",
+      "expression": "Could you check the measurement?",
+      "use": "Ask someone to confirm a size, weight or distance before you make a practical choice.",
+      "context": [
+        "I want to send this puzzle to a friend. Could you check the measurement?",
+        "Yes. The box is thirty centimeters long and weighs half a kilogram."
+      ],
+      "expressionTask": "You need an item to fit in a bag. Ask for its length and weight, then explain the limit you need.",
+      "grammar": "How long for length",
+      "pattern": "Use how long plus be to ask about the length of an object. The answer needs a number and a unit.",
+      "example": "How long is the box?",
+      "task": "How ___ is the box?",
+      "answer": "long",
+      "sound": "Kilogram has its main stress on the first syllable. Keep the final M voiced with both lips closed. Do not add a vowel after M.",
+      "model": "The box weighs one kilogram.",
+      "dialogue": [
+        "Could you check the measurement of this puzzle box?",
+        "It is thirty centimeters long.",
+        "How heavy is it?",
+        "Five hundred grams, or half a kilogram.",
+        "And how much does delivery cost?",
+        "Three dollars per box for this size."
+      ],
+      "reading": "Fenrir wants to order a puzzle as a gift. He checks its box length because it must fit in his travel bag. The box is thirty centimeters long. It weighs five hundred grams, which is half a kilogram. The shop charges three dollars per box for delivery. Fenrir compares the measurements with his bag and decides to collect the puzzle himself because the shop is nearby.",
+      "readingQ": "Why does Fenrir check the length, and why does he choose to collect the puzzle?",
+      "readingA": "It must fit in his travel bag. He collects it because the shop is nearby and delivery costs extra.",
+      "writing": "Write a short product enquiry asking for two measurements. Explain why each measurement matters to your plan.",
+      "listening": "This small parcel weighs eight hundred grams, so it is below the one-kilogram limit. However, the box is too long for the small locker. Please choose a shorter box or use the larger locker. The weight does not need to change.",
+      "question": "What is the problem with the parcel?",
+      "correct": "The box is too long",
+      "other": "It is too heavy",
+      "speaking": "Choose an item to send or carry. Ask your partner for its weight and length, compare them with two simple limits and explain whether it is suitable.",
+      "speakingSample": "How long is the puzzle box, and how much does it weigh? My bag has space for a box thirty centimeters long, and I want to keep the weight below one kilogram. If this one fits both limits, I can collect it instead of paying for delivery.",
+      "wordSample": "Five hundred grams is less than one kilogram. It is half a kilogram.",
+      "writingSample": "Hello, could you confirm the table’s width and height? The width matters because the space beside my window is narrow. The height matters because I need to use my existing chair with it."
+    },
+    {
+      "day": 30,
+      "unit": 4,
+      "title": "Find the right shop for a gift",
+      "goal": "I can ask where to find a product and understand a short direction inside a shop.",
+      "newItems": [
+        {
+          "word": "handbag",
+          "ipa": "/ˈhændˌbæɡ/",
+          "pos": "noun",
+          "definition": "A small bag carried for personal things such as a phone or wallet.",
+          "example": "This handbag has a pocket for my keys.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "doll",
+          "ipa": "/dɑl/",
+          "pos": "noun",
+          "definition": "A toy made to look like a person.",
+          "example": "The child chose a doll with a red coat.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "department store",
+          "ipa": "/dɪˈpɑrtmənt stɔr/",
+          "pos": "noun phrase",
+          "definition": "A large shop with different areas selling different kinds of things.",
+          "example": "The department store sells clothes and toys on different floors.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "bookshop",
+          "ipa": "/ˈbʊkˌʃɑp/",
+          "pos": "noun",
+          "definition": "A shop that sells books; bookstore is also common, especially in American English.",
+          "example": "There is a small bookshop beside the station.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "chemist's",
+          "ipa": "/ˈkɛmɪsts/",
+          "pos": "noun",
+          "definition": "A shop that sells medicines and related products, in British English.",
+          "example": "You can ask at the chemist’s about the medicine.",
+          "category": "new_word",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "necklace",
+        "bracelet",
+        "perfume",
+        "local",
+        "opposite"
+      ],
+      "mainWord": {
+        "word": "handbag",
+        "ipa": "/ˈhændˌbæɡ/",
+        "pos": "noun",
+        "definition": "A small bag carried for personal things such as a phone or wallet.",
+        "example": "This handbag has a pocket for my keys.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Noun: handbag; plural: handbags.",
+      "wordTask": "Name two personal things someone might keep in a handbag.",
+      "expression": "Where can I find it?",
+      "use": "Ask for the place where a product is sold. Name the product first so the listener knows what it refers to.",
+      "context": [
+        "I am looking for a small handbag. Where can I find it?",
+        "The bags are on the first floor, beside the coats."
+      ],
+      "expressionTask": "Ask where to find a gift in a large shop. Repeat the floor and one nearby section to confirm the direction.",
+      "grammar": "Where can I followed by a base verb",
+      "pattern": "Use where can I plus a base verb to ask about a useful place for an action.",
+      "example": "Where can I buy a gift?",
+      "task": "Where can I ___ a gift?",
+      "answer": "buy",
+      "sound": "Handbag is one compound word with stress near the beginning. In natural speech the middle D may be very light. Keep hand and bag joined together.",
+      "model": "My wallet is in my handbag.",
+      "dialogue": [
+        "I am looking for a handbag. Where can I find it?",
+        "On the first floor, beside the coats.",
+        "Does this department store sell dolls too?",
+        "Yes. The toy section is on the second floor.",
+        "And is there a bookshop nearby?",
+        "There is one opposite the chemist’s, just outside this building."
+      ],
+      "reading": "Bella visits a department store to choose gifts. She finds a small handbag on the first floor and a doll in the toy section upstairs. She still wants a book, so she asks about a bookshop. The assistant gives directions to one opposite the chemist’s near the main entrance. Bella repeats the directions before leaving. She decides to look at the books before choosing which gift to buy.",
+      "readingQ": "Where is the bookshop, and what does Bella do before leaving the department store?",
+      "readingA": "The bookshop is opposite the chemist’s near the main entrance. Bella repeats the directions.",
+      "writing": "Write directions to two different product sections in a shop. Give the floor and a nearby feature for each.",
+      "listening": "The gift shop is closing for lunch, but the bookshop next door stays open. If you are looking for toys, the department store has a toy section on the second floor. The chemist’s does not sell dolls.",
+      "question": "Where can the listener look for toys?",
+      "correct": "The department store’s second floor",
+      "other": "The chemist’s",
+      "speaking": "Ask where to find two gifts in different parts of a large shop. Your partner gives directions. Repeat the key details and ask about a nearby shop for another option.",
+      "speakingSample": "Where can I find a handbag? Let me check: first floor, beside the coats. I also need a doll, so I will visit the toy section on the second floor. Is the bookshop opposite the chemist’s outside this building? Thank you for checking the directions.",
+      "wordSample": "Someone might keep a phone and a wallet in a handbag.",
+      "writingSample": "For the food gifts, go to the ground floor and look near the entrance. For the clothing gifts, go to the first floor and look beside the stairs. Ask the shop assistant if a section has moved."
+    },
+    {
+      "day": 31,
+      "unit": 4,
+      "title": "Compare devices by their practical use",
+      "goal": "I can explain what I need a product for and ask what is included.",
+      "newItems": [
+        {
+          "word": "laptop",
+          "ipa": "/ˈlæpˌtɑp/",
+          "pos": "noun",
+          "definition": "A portable computer with a screen and keyboard joined together.",
+          "example": "I use a laptop to write messages for class.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "tablet",
+          "ipa": "/ˈtæblət/",
+          "pos": "noun",
+          "definition": "A small, flat computer controlled mainly by touching its screen.",
+          "example": "She reads the course cards on her tablet.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "printer",
+          "ipa": "/ˈprɪntɚ/",
+          "pos": "noun",
+          "definition": "A machine that puts text or pictures from a computer onto paper.",
+          "example": "The printer has enough paper for ten cards.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "headphones",
+          "ipa": "/ˈhɛdˌfoʊnz/",
+          "pos": "plural noun",
+          "definition": "A pair of small speakers worn over or in the ears for listening privately.",
+          "example": "I use headphones to listen without disturbing other people.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "video",
+          "ipa": "/ˈvɪdioʊ/",
+          "pos": "noun",
+          "definition": "A recording of moving pictures, usually with sound.",
+          "example": "We watched a short video about using the device.",
+          "category": "new_word",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "app",
+        "software",
+        "digital",
+        "download",
+        "equipment"
+      ],
+      "mainWord": {
+        "word": "laptop",
+        "ipa": "/ˈlæpˌtɑp/",
+        "pos": "noun",
+        "definition": "A portable computer with a screen and keyboard joined together.",
+        "example": "I use a laptop to write messages for class.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Noun: laptop; plural: laptops. A laptop is one kind of computer.",
+      "wordTask": "Name one task that is easier for you on a laptop than on a phone. Explain why.",
+      "expression": "Is everything included?",
+      "use": "Check whether the price includes the items you need, rather than assuming that everything in a picture comes with the product.",
+      "context": [
+        "I would like this tablet for class. Is everything included?",
+        "The charger is included, but the headphones are sold separately."
+      ],
+      "expressionTask": "Ask whether a device includes two useful things. Explain which item you need for your learning routine.",
+      "grammar": "Both ... and ... for two shared features",
+      "pattern": "Use both to refer to two things together. Both A and B can introduce two items that share a feature.",
+      "example": "Both the laptop and the tablet can play videos.",
+      "task": "Both the laptop ___ the tablet can play videos.",
+      "answer": "and",
+      "sound": "Laptop has two syllables with stress on the first. Keep the P near the middle brief; do not add a vowel between lap and top.",
+      "model": "The laptop can play the video.",
+      "dialogue": [
+        "Do you need a laptop or a tablet for class?",
+        "I need to write longer texts, so I prefer a laptop.",
+        "Will you need a printer too?",
+        "Not at home. I can print at the library.",
+        "Is everything included with this laptop?",
+        "The charger is included, but these headphones cost extra."
+      ],
+      "reading": "Fenrir compares a laptop with a tablet. Both can play a learning video, but he finds typing easier on the laptop. He does not buy a printer because he can print course cards at the library. He checks whether headphones are included. They are not, but he already has a pair that works with the laptop. He lists what he needs before deciding which product to choose.",
+      "readingQ": "Why does Fenrir prefer the laptop, and which two extra items does he avoid buying?",
+      "readingA": "He finds typing easier on the laptop. He avoids buying a printer and new headphones.",
+      "writing": "Write a short comparison of two devices. Describe your main task, one useful feature and what is or is not included.",
+      "listening": "This tablet price includes a cover and a charger. The keyboard in the picture is not included. You can buy it separately, but the tablet works without it. Please read the list under the picture before choosing.",
+      "question": "Which item costs extra?",
+      "correct": "The keyboard",
+      "other": "The charger",
+      "speaking": "Compare two devices for a specific everyday task. Ask what is included, identify any extra item you actually need and explain your final choice without naming a brand.",
+      "speakingSample": "I need a device for typing longer class texts and listening to videos. I prefer the laptop because I can type more comfortably. Is the charger included? I already have suitable headphones, and I can use the library printer, so I do not need to buy those extra items.",
+      "photo": {
+        "id": "450035",
+        "asset": "assets/a2-photos/450035.jpg",
+        "sourceURL": "https://www.pexels.com/photo/computer-set-up-on-a-workspace-450035/",
+        "credit": "Mateusz Dach · Pexels",
+        "licenseURL": "https://www.pexels.com/license/",
+        "caption": "The laptop on the left has its screen and keyboard joined together.",
+        "alt": "An open laptop on the left of a separate large monitor, with portable devices on the desk.",
+        "fit": "cover",
+        "focalY": 0.6,
+        "dimensions": [
+          1600,
+          1067
+        ]
+      },
+      "wordSample": "Typing a longer message is easier for me on a laptop because the keyboard is bigger than the one on my phone.",
+      "writingSample": "I need a device for writing and sending documents. The laptop has a full keyboard, but a case costs extra. The smaller device is easier to carry and includes a case. I would choose the laptop because writing is my main task."
+    },
+    {
+      "day": 32,
+      "unit": 4,
+      "title": "Check availability and complete a simple shopping plan",
+      "goal": "I can understand whether an item is available and agree on a practical alternative.",
+      "newItems": [
+        {
+          "word": "euro",
+          "ipa": "/ˈjʊroʊ/",
+          "pos": "noun",
+          "definition": "A unit of money used in many European countries.",
+          "example": "The notebook costs three euros.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "penny",
+          "ipa": "/ˈpɛni/",
+          "pos": "noun",
+          "definition": "In American English, a coin worth one cent.",
+          "example": "There is a penny beside the till.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "for sale",
+          "ipa": "/fɚ seɪl/",
+          "pos": "fixed phrase",
+          "definition": "Available for someone to buy; it does not necessarily mean the price is reduced.",
+          "example": "The display chair is not for sale.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "out of stock",
+          "ipa": "/aʊt əv stɑk/",
+          "pos": "fixed phrase",
+          "definition": "Not available to buy because the shop has none left.",
+          "example": "The blue bag is out of stock today.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "in stock",
+          "ipa": "/ɪn stɑk/",
+          "pos": "fixed phrase",
+          "definition": "Available to buy because the shop has some.",
+          "example": "The red bag is still in stock.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "item",
+        "offer",
+        "price",
+        "size",
+        "receipt"
+      ],
+      "mainWord": {
+        "word": "euro",
+        "ipa": "/ˈjʊroʊ/",
+        "pos": "noun",
+        "definition": "A unit of money used in many European countries.",
+        "example": "The notebook costs three euros.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Noun: euro; plural: euros. The symbol is €. Currency names usually use lower-case letters.",
+      "wordTask": "An item costs three euros. Say the total price of two identical items.",
+      "expression": "Is there another option?",
+      "use": "Ask for a different practical choice when the first item, time or arrangement is unavailable.",
+      "context": [
+        "The blue bag is out of stock.",
+        "Is there another option? I need a bag for tomorrow."
+      ],
+      "expressionTask": "Your first choice is unavailable. Ask about a suitable alternative and explain one feature you still need.",
+      "grammar": "If for a real possibility",
+      "pattern": "Use if plus a present-tense clause to describe a possible situation. Can can introduce an available response.",
+      "example": "If it is out of stock, we can choose another color.",
+      "task": "If it is out of stock, we ___ choose another color.",
+      "answer": "can",
+      "sound": "Euro begins with a Y-like glide. Join that glide to the vowel rather than adding a separate syllable before it. Keep the final OH glide smooth.",
+      "model": "The item costs three euros.",
+      "dialogue": [
+        "Is this blue bag for sale?",
+        "That one is only for display. The blue bags are out of stock.",
+        "Is there another option?",
+        "The red one is in stock and has the same pockets.",
+        "How much is it?",
+        "Twelve euros. You can check the price on this label."
+      ],
+      "reading": "Bella sees a blue bag in a shop window. The display bag is not for sale, and the blue bags are out of stock. A red version is in stock for twelve euros. Bella checks that it has the pockets she needs. She decides to choose the red one. Later, she sees an American penny in her wallet. It is a one-cent coin, so she keeps it separate from her euro coins.",
+      "readingQ": "Why can Bella buy the red bag but not the blue display bag?",
+      "readingA": "The red bag is in stock. The display bag is not for sale, and the blue bags are out of stock.",
+      "writing": "Write a short shopping message. State your first choice, an availability problem and the alternative you have agreed to buy.",
+      "listening": "The black headphones are out of stock until Friday. The gray ones are available now at the same price. If you need them for class tomorrow, you can choose the gray pair. Please check that they work with your device before buying.",
+      "question": "Which choice is available for class tomorrow?",
+      "correct": "The gray headphones",
+      "other": "The black headphones",
+      "speaking": "Plan a purchase with a partner acting as an assistant. Check availability, explain two needs, choose a suitable alternative and confirm the price and any important condition.",
+      "speakingSample": "I need headphones for class tomorrow. Are the black ones in stock? If not, is there another option at the same price? The gray ones meet my needs if they work with my device. Let’s check that before confirming the price and paying.",
+      "wordSample": "Two items cost six euros in total: three euros plus three euros.",
+      "writingSample": "I first chose the blue bag, but it is not available in the size I need. The assistant showed me a green one in the correct size. I have agreed to buy the green bag after checking its price and features."
+    }
+  ]
+}

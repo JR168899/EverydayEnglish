@@ -1,0 +1,846 @@
+{
+  "number": 10,
+  "title": "Health and getting help",
+  "lessons": [
+    {
+      "day": 73,
+      "unit": 10,
+      "title": "Describe where you have pain",
+      "goal": "I can explain where something hurts and when it began.",
+      "newItems": [
+        {
+          "word": "toothache",
+          "ipa": "/ˈtuθeɪk/",
+          "pos": "noun",
+          "definition": "Pain in a tooth or teeth.",
+          "example": "I have a toothache on the left side.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "stomachache",
+          "ipa": "/ˈstʌməkeɪk/",
+          "pos": "noun",
+          "definition": "Pain in the stomach or middle part of the body.",
+          "example": "She describes her stomachache to the nurse.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "backache",
+          "ipa": "/ˈbækeɪk/",
+          "pos": "noun",
+          "definition": "Pain in the back.",
+          "example": "His backache started yesterday.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "earache",
+          "ipa": "/ˈɪreɪk/",
+          "pos": "noun",
+          "definition": "Pain inside the ear.",
+          "example": "The child tells the nurse about an earache.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "advice",
+          "ipa": "/ədˈvaɪs/",
+          "pos": "noun",
+          "definition": "Suggestions about what someone should do.",
+          "example": "I ask a health professional for advice.",
+          "category": "new_word",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "pain",
+        "tooth",
+        "back",
+        "ear",
+        "nurse"
+      ],
+      "mainWord": {
+        "word": "toothache",
+        "ipa": "/ˈtuθeɪk/",
+        "pos": "noun",
+        "definition": "Pain in a tooth or teeth.",
+        "example": "I have a toothache on the left side.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Noun: toothache; plural: toothaches. In American English, a toothache is common. Advice is uncountable: some advice, not an advice or advices.",
+      "wordTask": "Your tooth hurts on the left side. Describe the problem in one sentence.",
+      "wordSample": "I have a toothache on the left side.",
+      "expression": "It started yesterday.",
+      "use": "Say when a problem began, separately from saying where it hurts.",
+      "context": [
+        "I have a toothache on the left side. It started yesterday.",
+        "Thank you. I will write that down for the dentist."
+      ],
+      "expressionTask": "Describe where you have pain and when it began, using invented details for practice.",
+      "grammar": "Started plus a past-time expression",
+      "pattern": "Use a past form with a finished time such as yesterday to state when something began.",
+      "example": "The pain started yesterday.",
+      "task": "The pain ___ yesterday.",
+      "answer": "started",
+      "sound": "Toothache joins tooth and ache. Keep the TH sound at the end of tooth, then move into the AY vowel. The CH in ache makes a K sound.",
+      "model": "I have a toothache.",
+      "dialogue": [
+        "I need some advice about a toothache.",
+        "Where does it hurt, and when did it start?",
+        "On the left side. It started yesterday.",
+        "I will pass those details to the dentist.",
+        "Can I describe a stomachache or earache in the same way?",
+        "Yes. Name the place and time clearly. You can describe a backache that way too."
+      ],
+      "reading": "Bella practises describing a toothache to a receptionist. She explains where it hurts and when it started. She does not guess the cause. Her classmates practise with an earache, a backache and a stomachache. Each person gives clear information and asks a health professional for advice. A short description helps the listener understand the problem; the name of a pain alone does not explain its cause.",
+      "readingQ": "Which two details does Bella give about her pain?",
+      "readingA": "She says where it hurts and when it started.",
+      "writing": "Write two sentences describing an invented problem. Include the place and the time it began.",
+      "listening": "This is a reminder from the dental office. Your visit is at ten tomorrow morning. Please arrive ten minutes early and bring the list of medicines you use. If the time no longer suits you, contact reception rather than simply not arriving.",
+      "question": "What time should the visitor arrive?",
+      "correct": "Nine fifty",
+      "other": "Ten ten",
+      "speaking": "Practise a short exchange with reception. Describe a problem, say when it began and ask what information the health professional needs.",
+      "speakingSample": "I have a toothache on the left side. It started yesterday evening. I would like some advice from a health professional. What information should I bring? I can bring a list of the medicines I use and explain when the pain began.",
+      "writingSample": "My tooth hurts on the left side. The pain started yesterday evening."
+    },
+    {
+      "day": 74,
+      "unit": 10,
+      "title": "Give the right information at reception",
+      "goal": "I can ask about an unclear form and confirm my contact details.",
+      "newItems": [
+        {
+          "word": "waiting room",
+          "ipa": "/ˈweɪtɪŋ rum/",
+          "pos": "fixed phrase",
+          "definition": "A room where people sit until someone is ready to see them.",
+          "example": "Please wait in the waiting room near reception.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "health center",
+          "ipa": "/hɛlθ ˈsɛntɚ/",
+          "pos": "fixed phrase",
+          "definition": "A place that provides local health services.",
+          "example": "The health center is beside the library.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "date of birth",
+          "ipa": "/deɪt əv bɝθ/",
+          "pos": "fixed phrase",
+          "definition": "The day, month and year when someone was born.",
+          "example": "The form asks for my date of birth.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "contact details",
+          "ipa": "/ˈkɑntækt ˈditeɪlz/",
+          "pos": "fixed phrase",
+          "definition": "Information such as a phone number or email address that can be used to reach someone.",
+          "example": "Please check that your contact details are correct.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "fill out a form",
+          "ipa": "/fɪl aʊt ə fɔrm/",
+          "pos": "fixed phrase",
+          "definition": "To write the requested information in the spaces on a document.",
+          "example": "I fill out a form before I sit down.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "reception",
+        "form",
+        "address",
+        "phone",
+        "birthday"
+      ],
+      "mainWord": {
+        "word": "waiting room",
+        "ipa": "/ˈweɪtɪŋ rum/",
+        "pos": "fixed phrase",
+        "definition": "A room where people sit until someone is ready to see them.",
+        "example": "Please wait in the waiting room near reception.",
+        "category": "fixed_phrase",
+        "status": "new"
+      },
+      "mainWordForms": "Phrase: waiting room; plural: waiting rooms. Waiting describes the room’s purpose. A waiting room may serve a clinic, station or another service.",
+      "wordTask": "Ask which room you should sit in until the nurse is ready.",
+      "wordSample": "Which waiting room should I use?",
+      "expression": "Could you check these details?",
+      "use": "Ask someone to confirm written information before you submit it.",
+      "context": [
+        "Could you check these details? I have written my phone number here.",
+        "Yes. Please also include the year in your date of birth."
+      ],
+      "expressionTask": "Use invented details to practise completing a reception form. Ask about one unclear field and confirm where to wait.",
+      "grammar": "Need to plus a base verb",
+      "pattern": "Use need to when an action is necessary for the situation.",
+      "example": "You need to include the year.",
+      "task": "You need ___ include the year.",
+      "answer": "to",
+      "sound": "Waiting has two syllables. Stress the first syllable and finish the second with NG, without an extra G release. Link waiting smoothly to room.",
+      "model": "The waiting room is near reception.",
+      "dialogue": [
+        "Is this reception for the health center?",
+        "Yes. Please fill out a form with your contact details.",
+        "Could you check these details? I am not sure about this box.",
+        "It asks for your date of birth, including the year.",
+        "Which waiting room should I use?",
+        "The room on the left. We will call your name there."
+      ],
+      "reading": "Fenrir arrives at the health center and speaks to reception. He needs to fill out a form before taking a seat. The form asks for his date of birth and contact details. He checks an unclear box instead of leaving out information he has been asked to provide. After reception confirms the details, he goes to the waiting room on the left. His birthday alone would not give the year requested on the form.",
+      "readingQ": "Why is writing only the birthday not enough on this form?",
+      "readingA": "The date of birth field also asks for the year.",
+      "writing": "Write a short reception exchange using invented information. Ask what an unclear box means and confirm where to wait.",
+      "listening": "The health center entrance is on River Street. Please use reception on the ground floor. Visitors will wait in room two after checking their details. Room one is being cleaned today and should not be used as a waiting area.",
+      "question": "Where should visitors wait today?",
+      "correct": "Room two",
+      "other": "Room one",
+      "speaking": "Role-play a reception visit with a partner. Check one field on a form, confirm how staff can reach you and ask where to wait.",
+      "speakingSample": "Could you check these details? I have added the day, month and year of my birth. This phone number is the best way to reach me. Is anything else needed on the form? Thank you. Which waiting room should I use while I wait for my name?",
+      "writingSample": "Visitor: Could you check this box on the form? Does date of birth include the year? Reception: Yes, please write the day, month and year. Visitor: Thank you. Where should I wait? Reception: Please use the room on the left."
+    },
+    {
+      "day": 75,
+      "unit": 10,
+      "title": "Ask for a clear explanation at a pharmacy",
+      "goal": "I can ask a pharmacist to explain an unclear instruction.",
+      "newItems": [
+        {
+          "word": "chemist",
+          "ipa": "/ˈkɛmɪst/",
+          "pos": "noun",
+          "definition": "In British English, a pharmacist, or a shop where medicines are sold; the sentence tells you which meaning is intended.",
+          "example": "I ask the chemist to explain the label.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "drugstore",
+          "ipa": "/ˈdrʌɡˌstɔr/",
+          "pos": "noun",
+          "definition": "In American English, a shop that sells medicines and often other everyday products.",
+          "example": "The drugstore has a pharmacy counter at the back.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "take medicine",
+          "ipa": "/teɪk ˈmɛdəsən/",
+          "pos": "fixed phrase",
+          "definition": "To use a medicine in the way directed for you.",
+          "example": "I ask how to take this medicine correctly.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "follow the instructions",
+          "ipa": "/ˈfɑloʊ ði ɪnˈstrʌkʃənz/",
+          "pos": "fixed phrase",
+          "definition": "To do what the written or spoken directions tell you to do.",
+          "example": "I need to understand the label so I can follow the instructions.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "on an empty stomach",
+          "ipa": "/ɑn ən ˈɛmpti ˈstʌmək/",
+          "pos": "fixed phrase",
+          "definition": "Without food in your stomach, in the way explained for a particular medicine or situation.",
+          "example": "I ask the pharmacist what on an empty stomach means for this medicine.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "medicine",
+        "pharmacy",
+        "label",
+        "explain",
+        "understand"
+      ],
+      "mainWord": {
+        "word": "chemist",
+        "ipa": "/ˈkɛmɪst/",
+        "pos": "noun",
+        "definition": "In British English, a pharmacist, or a shop where medicines are sold; the sentence tells you which meaning is intended.",
+        "example": "I ask the chemist to explain the label.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Noun: chemist; plural: chemists. The shop is often written chemist’s in British English. Drugstore names the shop in American English; pharmacist names the qualified person.",
+      "wordTask": "You are in Britain and want a pharmacist to explain a label. Say whom you want to ask.",
+      "wordSample": "I would like to ask the chemist to explain this label.",
+      "expression": "Could you explain this part?",
+      "use": "Point to an unclear instruction and request an explanation before acting on it.",
+      "context": [
+        "Could you explain this part? I want to be sure I understand the label.",
+        "Yes. Let us read it together and check the instructions for your medicine."
+      ],
+      "expressionTask": "Point to an invented unclear label. Ask a pharmacist what it means and repeat the explanation to check it.",
+      "grammar": "How to plus a base verb",
+      "pattern": "Use how to after verbs such as explain and show to refer to the method of doing something.",
+      "example": "Please explain how to use this.",
+      "task": "Please explain how ___ use this.",
+      "answer": "to",
+      "sound": "Chemist starts with the K sound even though it is written CH. Stress CHEM and keep the second syllable shorter.",
+      "model": "The chemist explains the label.",
+      "dialogue": [
+        "Where is the pharmacy counter in this drugstore?",
+        "At the back. You can ask the pharmacist there.",
+        "In Britain, could I ask the chemist instead?",
+        "Yes. That word can refer to a pharmacist or the shop.",
+        "Could you explain this part? It says on an empty stomach.",
+        "Let us ask the pharmacist to explain it for this medicine so you can follow the instructions."
+      ],
+      "reading": "At a drugstore, Bella asks a pharmacist to explain a medicine label. She knows that she must understand how to take medicine, not just recognize its name. She points to on an empty stomach and requests an explanation for this medicine. In Britain, she may hear chemist used for a pharmacist or the shop. She repeats the explanation in her own words to check that she can follow the instructions.",
+      "readingQ": "Why does Bella repeat the explanation in her own words?",
+      "readingA": "She wants to check that she understands and can follow the instructions.",
+      "writing": "Write a short question about an unclear instruction. Ask for an explanation and show how you would check your understanding.",
+      "listening": "The pharmacy counter will close at six today, although the rest of the shop stays open until eight. For questions about medicine instructions, please speak to the pharmacist before six. Buying other shop items later will not mean the pharmacy service is still available.",
+      "question": "When does the pharmacy counter close?",
+      "correct": "At six",
+      "other": "At eight",
+      "speaking": "Role-play asking about an unclear instruction at a pharmacy. Ask a precise question and repeat the explanation, without guessing a medicine schedule.",
+      "speakingSample": "Could you explain this part of the label? I understand the name, but I am not sure what this instruction means for my medicine. Please explain it, and I will repeat the information to check that I have understood. Is there anything on the label I have missed?",
+      "writingSample": "Could you explain this instruction on the label for me? I want to check that I understand how it applies to my medicine. May I repeat your explanation in my own words so you can check it?"
+    },
+    {
+      "day": 76,
+      "unit": 10,
+      "title": "Describe a change in how you feel",
+      "goal": "I can describe a change in how I feel.",
+      "newItems": [
+        {
+          "word": "a runny nose",
+          "ipa": "/ə ˈrʌni noʊz/",
+          "pos": "fixed phrase",
+          "definition": "A nose from which liquid keeps coming.",
+          "example": "I have a runny nose today.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "a blocked nose",
+          "ipa": "/ə blɑkt noʊz/",
+          "pos": "fixed phrase",
+          "definition": "A nose that feels full and makes breathing through it difficult.",
+          "example": "She describes a blocked nose to the nurse.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "have a temperature",
+          "ipa": "/hæv ə ˈtɛmprətʃɚ/",
+          "pos": "fixed phrase",
+          "definition": "To have a body temperature higher than normal; also called having a fever.",
+          "example": "He tells the nurse that he has a temperature.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "get better",
+          "ipa": "/ɡɛt ˈbɛtɚ/",
+          "pos": "fixed phrase",
+          "definition": "To improve, including becoming less ill.",
+          "example": "I am getting better, but I still feel tired.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "get worse",
+          "ipa": "/ɡɛt wɝs/",
+          "pos": "fixed phrase",
+          "definition": "To become less good or more severe.",
+          "example": "She tells the clinician that the pain is getting worse.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "nose",
+        "temperature",
+        "tired",
+        "yesterday",
+        "today"
+      ],
+      "mainWord": {
+        "word": "a runny nose",
+        "ipa": "/ə ˈrʌni noʊz/",
+        "pos": "fixed phrase",
+        "definition": "A nose from which liquid keeps coming.",
+        "example": "I have a runny nose today.",
+        "category": "fixed_phrase",
+        "status": "new"
+      },
+      "mainWordForms": "Phrase: a runny nose. Runny describes liquid coming from the nose. A blocked nose describes difficulty moving air through it; the two descriptions are not identical.",
+      "wordTask": "Liquid keeps coming from your nose. Describe that in a short sentence.",
+      "wordSample": "I have a runny nose.",
+      "expression": "It feels different from yesterday.",
+      "use": "Introduce a comparison when describing a change rather than only naming a problem.",
+      "context": [
+        "It feels different from yesterday. My nose is now blocked.",
+        "Please describe what has changed so the nurse has the right information."
+      ],
+      "expressionTask": "Describe an invented change from yesterday to today. Say what is different without guessing its cause.",
+      "grammar": "Present continuous for a change happening now",
+      "pattern": "Use am, is or are plus an -ing form for a change in progress.",
+      "example": "I am getting better.",
+      "task": "I am ___ better.",
+      "answer": "getting",
+      "sound": "Runny and nose begin with different sounds. Keep the R in runny distinct from the N at the beginning of nose. The final sound in nose is voiced Z.",
+      "model": "I have a runny nose today.",
+      "dialogue": [
+        "It feels different from yesterday. I had a runny nose, but now it is blocked.",
+        "Are you telling the nurse about that change?",
+        "Yes. I also need to say that I have a temperature.",
+        "Will you explain whether the problem is getting better or getting worse?",
+        "Yes. I will describe what has changed and when.",
+        "That gives the health professional clearer information than just saying I feel bad."
+      ],
+      "reading": "In a language activity, Fenrir compares two invented descriptions. Yesterday the person had a runny nose. Today the person describes a blocked nose and says they have a temperature. Fenrir reports the change without naming an illness. He can say that something is getting better or getting worse when that matches the information given. These phrases describe a change; they do not tell him why the change happened.",
+      "readingQ": "Do the phrases getting better and getting worse explain the cause of a change?",
+      "readingA": "No. They describe a change, not its cause.",
+      "writing": "Write two short descriptions using invented details: one for yesterday and one for today. Make the change clear.",
+      "listening": "This message is for the nurse. Yesterday I felt tired in the morning, but by the evening I felt less tired. Today the tiredness has returned. I would like to explain the change and ask what information you need from me.",
+      "question": "What has returned today?",
+      "correct": "The tiredness",
+      "other": "A toothache",
+      "speaking": "Practise reporting a change to a health professional. Contrast yesterday and today and answer a follow-up question about when the change happened.",
+      "speakingSample": "Yesterday I felt tired and had a runny nose. Today my nose feels blocked. It feels different from yesterday. I do not know the cause, so I would like to explain the change to the nurse. Which other details do you need me to describe?",
+      "writingSample": "Yesterday I felt tired and had a runny nose. Today my nose feels blocked, and I still feel tired. I would like to describe the change to the nurse."
+    },
+    {
+      "day": 77,
+      "unit": 10,
+      "title": "Give clear information when asking for urgent help",
+      "goal": "I can give a precise location and observable details in a practice call for help.",
+      "newItems": [
+        {
+          "word": "ambulance",
+          "ipa": "/ˈæmbjələns/",
+          "pos": "noun",
+          "definition": "A vehicle equipped to take people who need urgent medical help to a place where they can receive care.",
+          "example": "An ambulance arrives at the sports center.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "dangerous",
+          "ipa": "/ˈdeɪndʒərəs/",
+          "pos": "adjective",
+          "definition": "Likely to cause injury, damage or another serious problem.",
+          "example": "The notice says the damaged entrance is dangerous.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "call for help",
+          "ipa": "/kɔl fɔr hɛlp/",
+          "pos": "fixed phrase",
+          "definition": "To ask for assistance by shouting, phoning or another clear signal.",
+          "example": "The visitor calls for help and gives the location.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "first aid",
+          "ipa": "/fɝst eɪd/",
+          "pos": "fixed phrase",
+          "definition": "Basic help given to someone who is injured or suddenly ill before fuller medical care is available.",
+          "example": "The notice identifies the staff member trained in first aid.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "emergency contact",
+          "ipa": "/ɪˈmɝdʒənsi ˈkɑntækt/",
+          "pos": "fixed phrase",
+          "definition": "A person whose details are kept so they can be reached in an emergency.",
+          "example": "The form asks for the name of an emergency contact.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "help",
+        "address",
+        "entrance",
+        "hospital",
+        "name"
+      ],
+      "mainWord": {
+        "word": "ambulance",
+        "ipa": "/ˈæmbjələns/",
+        "pos": "noun",
+        "definition": "A vehicle equipped to take people who need urgent medical help to a place where they can receive care.",
+        "example": "An ambulance arrives at the sports center.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Noun: ambulance; plural: ambulances. An ambulance is a vehicle, not a person. The medical staff who attend may have different professional roles.",
+      "wordTask": "Name the vehicle that can bring medical staff and take a person for urgent medical care.",
+      "wordSample": "That vehicle is an ambulance.",
+      "expression": "The exact location is the north entrance of the sports center.",
+      "use": "Give a precise location when someone needs to find you, using a street, building or clear landmark.",
+      "context": [
+        "The exact location is the north entrance of the sports center.",
+        "Please stay on the line and answer the questions."
+      ],
+      "expressionTask": "In a clearly identified practice role-play, give a location and describe what you can actually see. Do not make a real call.",
+      "grammar": "At for a particular entrance",
+      "pattern": "Use at with a specific meeting point or entrance.",
+      "example": "We are at the north entrance.",
+      "task": "We are ___ the north entrance.",
+      "answer": "at",
+      "sound": "Ambulance has three syllables with the first stressed. Start with the vowel in apple, then close the lips for M.",
+      "model": "The ambulance is at the entrance.",
+      "dialogue": [
+        "In this practice call, I am reporting an accident.",
+        "What is the exact location?",
+        "The exact location is the north entrance of the sports center.",
+        "Thank you. Please answer the questions about what you can see.",
+        "Should I give the person’s emergency contact instead of the location?",
+        "First give the information requested. An emergency contact is a person; first aid is help, and an ambulance is a vehicle."
+      ],
+      "reading": "At the sports center, staff practise a response to an accident. One person makes a simulated call for help and gives the exact entrance. Another identifies the trained first aid staff member. The damaged area in the scenario is described as dangerous. The exercise checks that everyone can state a location clearly. The emergency contact on a form is a person to reach, not a replacement for an emergency service. During practice, no real ambulance is requested.",
+      "readingQ": "Is a real ambulance requested during this exercise?",
+      "readingA": "No. This is a simulated practice exercise.",
+      "writing": "Write a practice message giving a precise location and an observable problem. Use invented details and do not make a real call.",
+      "listening": "This is a practice announcement for staff. The exercise takes place at the north entrance, not the main car park. The first aid trainer will meet the group there at two. No real emergency call should be made as part of the exercise.",
+      "question": "Where will the first aid trainer meet the group?",
+      "correct": "At the north entrance",
+      "other": "In the main car park",
+      "speaking": "With a partner, simulate asking for urgent help. State the location, say what you can observe and answer one clarification question. Do not contact a real service.",
+      "speakingSample": "This is a practice call. There has been an accident at the sports center. The exact location is the north entrance on River Street. I can describe what I see and answer your questions. Do you need the building name or the nearest landmark again?",
+      "writingSample": "Practice message: I am at the north entrance of the sports center on River Street. A person has fallen near the doorway. I can describe what I can see and answer questions about the location."
+    },
+    {
+      "day": 78,
+      "unit": 10,
+      "title": "Check access and practical arrangements before a visit",
+      "goal": "I can ask about the route and access arrangements for a visit.",
+      "newItems": [
+        {
+          "word": "eye test",
+          "ipa": "/aɪ tɛst/",
+          "pos": "fixed phrase",
+          "definition": "An examination of how well someone can see and of aspects of eye health.",
+          "example": "I ask how long the eye test usually takes.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "hearing test",
+          "ipa": "/ˈhɪrɪŋ tɛst/",
+          "pos": "fixed phrase",
+          "definition": "An examination of how well someone can hear.",
+          "example": "The hearing test is in room three.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "wheelchair access",
+          "ipa": "/ˈwilˌtʃɛr ˈæksɛs/",
+          "pos": "fixed phrase",
+          "definition": "An arrangement allowing someone using a wheelchair to enter or use a place.",
+          "example": "I phone to ask about wheelchair access.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "step-free access",
+          "ipa": "/ˈstɛp fri ˈæksɛs/",
+          "pos": "fixed phrase",
+          "definition": "A way into or through a place without having to use steps.",
+          "example": "The side entrance has step-free access.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "health insurance",
+          "ipa": "/hɛlθ ɪnˈʃʊrəns/",
+          "pos": "fixed phrase",
+          "definition": "An arrangement that may pay some healthcare costs according to its terms.",
+          "example": "I ask whether the clinic accepts my health insurance.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "visit",
+        "room",
+        "stairs",
+        "entrance",
+        "information"
+      ],
+      "mainWord": {
+        "word": "eye test",
+        "ipa": "/aɪ tɛst/",
+        "pos": "fixed phrase",
+        "definition": "An examination of how well someone can see and of aspects of eye health.",
+        "example": "I ask how long the eye test usually takes.",
+        "category": "fixed_phrase",
+        "status": "new"
+      },
+      "mainWordForms": "Phrase: eye test; plural: eye tests. Eye and I sound the same. A test may include more than reading letters; ask the provider what your visit involves.",
+      "wordTask": "You want to arrange an examination of how well you can see. Ask what the visit involves.",
+      "wordSample": "What does the eye test involve?",
+      "expression": "Is there an entrance without steps?",
+      "use": "Ask about a route that does not require stairs, and check any other access needs separately.",
+      "context": [
+        "Is there an entrance without steps?",
+        "Yes, on the east side. Tell us if you need other arrangements too."
+      ],
+      "expressionTask": "Ask about a visit’s location, step-free route and any support you need, using invented details for practice.",
+      "grammar": "Is there plus a singular noun",
+      "pattern": "Use is there to ask whether a particular facility or thing exists.",
+      "example": "Is there a side entrance?",
+      "task": "___ there a side entrance?",
+      "answer": "Is",
+      "sound": "Eye test begins with the vowel glide in I. Keep eye as one syllable, then begin test clearly with T.",
+      "model": "The eye test is in room two.",
+      "dialogue": [
+        "I have an eye test at ten. Is there an entrance without steps?",
+        "Yes. The east entrance has step-free access.",
+        "Does that mean every room has suitable wheelchair access?",
+        "Let us check the route and room you need, rather than assume.",
+        "My friend has a hearing test. Can we also ask about health insurance?",
+        "Yes. Reception can explain the practical arrangements and what information to check with your insurer."
+      ],
+      "reading": "Before an eye test, Bella checks the entrance and room. Her friend has a hearing test in another part of the building. They ask about step-free access and the specific wheelchair access each route provides. They also check payment information, including whether their health insurance is accepted. They do not assume that the same arrangements apply to every room or policy. Asking in advance gives reception time to check the details.",
+      "readingQ": "Why do Bella and her friend ask about the specific route and room?",
+      "readingA": "They do not assume that access arrangements are the same everywhere in the building.",
+      "writing": "Write a short enquiry about a visit. Ask about the entrance, room and one practical arrangement that matters to you.",
+      "listening": "For tomorrow’s eye tests, use the east entrance. The main entrance has steps. Reception will direct you to room two. Hearing tests are in room three. If you need help with the route, contact reception before your visit so staff can check the arrangements.",
+      "question": "Which entrance should visitors use for tomorrow’s eye tests?",
+      "correct": "The east entrance",
+      "other": "The main entrance",
+      "speaking": "Role-play arranging a visit for yourself or a friend. Ask about a precise access requirement and confirm the route, room and time.",
+      "speakingSample": "I am calling about tomorrow’s eye test at ten. Is there an entrance without steps? Please confirm the route from the east entrance to room two and whether it meets the access needs I have described. I would also like to check the payment information before the visit.",
+      "writingSample": "Hello, I have an eye test tomorrow at ten. Is there an entrance without steps? Please confirm the route to the room and let me know whom to contact about any additional access arrangements."
+    },
+    {
+      "day": 79,
+      "unit": 10,
+      "title": "Change a visit and confirm what happens next",
+      "goal": "I can change an existing booking and confirm the replacement.",
+      "newItems": [
+        {
+          "word": "change an appointment",
+          "ipa": "/tʃeɪndʒ ən əˈpɔɪntmənt/",
+          "pos": "fixed phrase",
+          "definition": "To arrange a different time or date for an existing appointment.",
+          "example": "I need to change an appointment from Tuesday to Friday.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "a medical appointment",
+          "ipa": "/ə ˈmɛdɪkəl əˈpɔɪntmənt/",
+          "pos": "fixed phrase",
+          "definition": "An arranged meeting with a health professional about health or care.",
+          "example": "I have a medical appointment on Friday morning.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "speak to a nurse",
+          "ipa": "/spik tə ə nɝs/",
+          "pos": "fixed phrase",
+          "definition": "To talk directly with a nurse about information or a concern.",
+          "example": "I ask whether I can speak to a nurse about the question.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "go to the dentist",
+          "ipa": "/ɡoʊ tə ðə ˈdɛntɪst/",
+          "pos": "fixed phrase",
+          "definition": "To visit a dental professional for care or an examination.",
+          "example": "I need time away from work to go to the dentist.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "have a checkup",
+          "ipa": "/hæv ə ˈtʃɛkˌʌp/",
+          "pos": "fixed phrase",
+          "definition": "To have an examination intended to check your health or a particular aspect of it.",
+          "example": "I ask what to bring when I have a checkup.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "appointment",
+        "friday",
+        "morning",
+        "available",
+        "call"
+      ],
+      "mainWord": {
+        "word": "change an appointment",
+        "ipa": "/tʃeɪndʒ ən əˈpɔɪntmənt/",
+        "pos": "fixed phrase",
+        "definition": "To arrange a different time or date for an existing appointment.",
+        "example": "I need to change an appointment from Tuesday to Friday.",
+        "category": "fixed_phrase",
+        "status": "new"
+      },
+      "mainWordForms": "Phrase: change an appointment. Change takes an object here. Confirm which booking you mean before agreeing on a new time.",
+      "wordTask": "You cannot attend at nine on Tuesday. Ask to move your existing booking to a different time.",
+      "wordSample": "Could I change my appointment from Tuesday at nine to another available time?",
+      "expression": "Could we move it to Friday?",
+      "use": "Suggest a replacement day after identifying the arrangement you need to change.",
+      "context": [
+        "I cannot attend on Tuesday. Could we move it to Friday?",
+        "There is a time at ten. Let me confirm which booking we are changing."
+      ],
+      "expressionTask": "Identify an existing booking, explain your availability and confirm a replacement date and time.",
+      "grammar": "From ... to ... for a changed arrangement",
+      "pattern": "Use from for the original time and to for the replacement time.",
+      "example": "Please move it from Tuesday to Friday.",
+      "task": "Please move it from Tuesday ___ Friday.",
+      "answer": "to",
+      "sound": "Change begins with CH and ends with J. Keep both sounds clear without adding a vowel after the final sound.",
+      "model": "I need to change an appointment.",
+      "dialogue": [
+        "I need to change an appointment. Could we move it to Friday?",
+        "Which booking is it?",
+        "My medical appointment on Tuesday at nine.",
+        "There is a time on Friday at ten. Do you also need to speak to a nurse?",
+        "Yes, about what to bring. Is that different from when I go to the dentist?",
+        "We can confirm the information for this visit. Please ask what to bring when you have a checkup rather than assume."
+      ],
+      "reading": "Fenrir needs to change an appointment because he cannot attend on Tuesday. Reception identifies the medical appointment before offering Friday at ten. He confirms that he wants to speak to a nurse about what to bring when he has a checkup. His plan to go to the dentist is a separate booking at another office. He writes the two visits separately so that changing one does not confuse the other.",
+      "readingQ": "Does changing Fenrir’s medical appointment also change his dental booking?",
+      "readingA": "No. The dental visit is a separate booking at another office.",
+      "writing": "Write a short request to change a booking. State the original date and time and ask for a suitable replacement.",
+      "listening": "Your Tuesday booking has now been moved to Friday at ten. Please arrive at the same reception desk. This message concerns the visit at the health center only. Any separate booking at another office remains unchanged unless you contact that office yourself.",
+      "question": "When is the new booking?",
+      "correct": "Friday at ten",
+      "other": "Tuesday at ten",
+      "speaking": "Arrange a change by phone in a role-play. Identify the old booking, agree on a new one and repeat the details so the listener can confirm them.",
+      "speakingSample": "I am calling about my medical appointment on Tuesday at nine. Could we move it to Friday? Ten o’clock is suitable. To confirm, the old booking is replaced by Friday at ten at the same reception desk. My separate dental booking has not changed. Is that correct?",
+      "writingSample": "Hello, I need to change my booking on Tuesday at nine. Is Friday morning available instead? Please confirm the new time and whether I should use the same reception desk. Thank you."
+    },
+    {
+      "day": 80,
+      "unit": 10,
+      "title": "Understand written information and check an unclear instruction",
+      "goal": "I can distinguish general service information from my booking details and ask for clarification.",
+      "newItems": [
+        {
+          "word": "leaflet",
+          "ipa": "/ˈliflət/",
+          "pos": "noun",
+          "definition": "A small printed sheet or booklet giving information about a particular subject.",
+          "example": "I ask for a leaflet with information about the service.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "once a day",
+          "ipa": "/wʌns ə deɪ/",
+          "pos": "fixed phrase",
+          "definition": "One time on each day.",
+          "example": "The class checks what once a day means in a fictional example.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "after meals",
+          "ipa": "/ˈæftɚ milz/",
+          "pos": "fixed phrase",
+          "definition": "Following the times when food is eaten.",
+          "example": "The teacher contrasts after meals with before meals.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "before meals",
+          "ipa": "/bɪˈfɔr milz/",
+          "pos": "fixed phrase",
+          "definition": "Earlier than the times when food is eaten.",
+          "example": "Before meals and after meals describe different timing.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "keep out of reach",
+          "ipa": "/kip aʊt əv ritʃ/",
+          "pos": "fixed phrase",
+          "definition": "To put or store something where a stated person cannot get it.",
+          "example": "The printed warning says to keep the item out of reach of children.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "label",
+        "instructions",
+        "chemist",
+        "contact details",
+        "waiting room"
+      ],
+      "mainWord": {
+        "word": "leaflet",
+        "ipa": "/ˈliflət/",
+        "pos": "noun",
+        "definition": "A small printed sheet or booklet giving information about a particular subject.",
+        "example": "I ask for a leaflet with information about the service.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Noun: leaflet; plural: leaflets. A leaflet gives information. It may accompany a product or describe a service; it does not always include personal instructions.",
+      "wordTask": "Ask for a small printed information sheet about a service so you can read it later.",
+      "wordSample": "Could I have a leaflet about the service to read later?",
+      "expression": "I want to check that I understood.",
+      "use": "Introduce a restatement so the other person can correct any misunderstanding.",
+      "context": [
+        "I want to check that I understood. This sheet explains the service, but it does not confirm my booking.",
+        "That is right. Your booking details are in the separate message."
+      ],
+      "expressionTask": "Use a service leaflet and a separate booking message in a role-play. Confirm what each document tells you and ask about one unclear point.",
+      "grammar": "This and these with singular and plural nouns",
+      "pattern": "Use this with one thing and these with more than one thing.",
+      "example": "These leaflets explain the service.",
+      "task": "___ leaflets explain the service.",
+      "answer": "These",
+      "sound": "Leaflet has two syllables. Stress LEAF. Keep the F at the end of the first syllable, then move into L without adding another syllable.",
+      "model": "Could I have a leaflet?",
+      "dialogue": [
+        "Could I have a leaflet about the service?",
+        "Yes. Your personal booking is in a separate message.",
+        "I want to check that I understood. The leaflet is general information.",
+        "Correct. It does not replace instructions given specifically to you.",
+        "In our language exercise, do once a day and after meals mean the same thing?",
+        "No. One describes frequency and the other timing. Before meals is different again. We also learn the warning keep out of reach."
+      ],
+      "reading": "The class reads a service leaflet and a fictional label. Once a day describes frequency. Before meals and after meals describe timing, while keep out of reach describes safe storage away from a stated person, such as a child. The learners do not use the fictional label as instructions for real medicine. They practise identifying unclear words and asking a pharmacist to explain the actual information provided for a particular medicine.",
+      "readingQ": "Which expression in the fictional label describes frequency rather than meal timing?",
+      "readingA": "Once a day describes frequency.",
+      "writing": "Write a question about an unclear part of a service leaflet. Restate what you understood and ask the provider to confirm it.",
+      "listening": "The leaflet describes our general services. It does not show the time of your personal booking. Check the separate confirmation message for your date, time and reception desk. If the message and the leaflet appear to conflict, contact reception so we can explain which details apply.",
+      "question": "Where should a visitor check their personal booking time?",
+      "correct": "In the separate confirmation message",
+      "other": "On the general leaflet",
+      "speaking": "Plan a visit using two short documents. Confirm the booking, ask about an access need and explain how you will clarify information you do not understand.",
+      "speakingSample": "I have the general service leaflet and a separate confirmation for Friday at ten. Please confirm the reception desk and the step-free route. I want to check that I understood the information correctly. If an instruction is unclear, I will ask the appropriate health professional to explain it rather than guess.",
+      "writingSample": "I have read the service leaflet and my separate confirmation. I understand that my visit is on Friday at ten. Does the leaflet’s entrance information apply to this visit too? Please confirm which reception desk I should use."
+    }
+  ]
+}

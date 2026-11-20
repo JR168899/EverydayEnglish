@@ -1,0 +1,905 @@
+{
+ "number": 28,
+ "title": "Discussing and agreeing on options",
+ "lessons": [
+  {
+   "unit": 28,
+   "day": 217,
+   "title": "Compare two options for the weekend",
+   "goal": "I can compare two options and say which one is better for me.",
+   "newItems": [
+    {
+     "word": "option",
+     "ipa": "/ˈɑpʃən/",
+     "pos": "noun",
+     "definition": "A thing you can choose.",
+     "example": "We have two options for Saturday.",
+     "category": "new_word",
+     "status": "new"
+    },
+    {
+     "word": "advantage",
+     "ipa": "/ədˈvæntɪdʒ/",
+     "pos": "noun",
+     "definition": "A good thing about one choice.",
+     "example": "The beach has one big advantage: the warm sun.",
+     "category": "new_word",
+     "status": "new"
+    },
+    {
+     "word": "the first option is",
+     "ipa": "/ðə fɚst ˈɑpʃən ɪz/",
+     "pos": "fixed phrase",
+     "definition": "A way to start to talk about the first choice.",
+     "example": "The first option is the beach.",
+     "category": "fixed_phrase",
+     "status": "new"
+    },
+    {
+     "word": "the second option is",
+     "ipa": "/ðə ˈsɛkənd ˈɑpʃən ɪz/",
+     "pos": "fixed phrase",
+     "definition": "A way to start to talk about the second choice.",
+     "example": "The second option is the mountains.",
+     "category": "fixed_phrase",
+     "status": "new"
+    },
+    {
+     "word": "on the other hand",
+     "ipa": "/ɑn ði ˈʌðɚ hænd/",
+     "pos": "fixed phrase",
+     "definition": "A way to give the other side of a choice.",
+     "example": "On the other hand, the mountains are quiet.",
+     "category": "fixed_phrase",
+     "status": "new"
+    }
+   ],
+   "reviewWords": [
+    "plan",
+    "weekend",
+    "friend",
+    "time",
+    "place"
+   ],
+   "mainWord": {
+    "word": "option",
+    "ipa": "/ˈɑpʃən/",
+    "pos": "noun",
+    "definition": "A thing you can choose.",
+    "example": "We have two options for Saturday.",
+    "category": "new_word",
+    "status": "new"
+   },
+   "mainWordForms": "Option is a noun. The plural is options. We have an option when we can choose between two or more things. We say the first option and the second option to compare them.",
+   "pronunciationTarget": {
+    "word": "option",
+    "ipa": "/ˈɑpʃən/"
+   },
+   "expression": "The first option is the beach.",
+   "use": "Compare two options and talk about the good side of each one.",
+   "expressionTask": "Tell Noah about your two options for Saturday. Say the first option and the second option.",
+   "grammar": "The first option is + noun",
+   "pattern": "The first option is + noun",
+   "task": "The first ___ is the beach.",
+   "answer": "option",
+   "example": "The first option is the beach.",
+   "context": [
+    "Mia and Noah talk about Saturday. They have two options: the beach or the mountains.",
+    "The first option is the beach. The second option is the mountains."
+   ],
+   "dialogue": [
+    "We have two options for Saturday: the beach or the mountains. Which one do you like?",
+    "I like the beach. The first option is the beach, and the sun is warm there.",
+    "The second option is the mountains. One advantage is the cool air and the quiet paths.",
+    "That is true. On the other hand, the mountains are far, and the road is long.",
+    "Yes, the beach is near, and we can swim there. The mountains are good for a walk.",
+    "Let us compare the two options again tomorrow and then choose one."
+   ],
+   "listening": "Mia and Noah talk about Saturday. They have two options: the beach or the mountains. The first option is the beach, and Noah likes the sun there. The second option is the mountains, and one advantage is the cool air. The mountains are far away.",
+   "question": "What is the second option for Saturday?",
+   "correct": "The mountains",
+   "other": "The beach on Sunday",
+   "reading": "Mia and Noah plan Saturday. They have two options: the beach or the mountains. Mia says, “The first option is the beach. We can swim in the sea, and the sun is warm.” Noah answers, “The second option is the mountains. One advantage is the cool air and the quiet paths. We can walk among the green trees.” Mia says, “On the other hand, the mountains are far, and the road is long. The beach is near our home.” Noah says, “Yes, let us compare the two options again tomorrow and then choose one.”",
+   "readingQ": "What are the two options for Saturday?",
+   "readingA": "The beach and the mountains.",
+   "speaking": "Compare two options for your weekend with a partner. Say the first option and the second option, and give one advantage of each one.",
+   "speakingSample": "I have two options for Saturday: the beach or the mountains. The first option is the beach, and one advantage is the warm sun. The second option is the mountains, with cool air. But the mountains are far. I think the beach is better for me.",
+   "writing": "Write 45–65 words about two options for your weekend. Say the first option and the second option, give one advantage of each one, and say which one is better for you.",
+   "writingSample": "On Saturday, I have two options: the beach or the mountains. The first option is the beach. One advantage is the warm sun, and I can swim in the sea. The second option is the mountains. One advantage is the cool air. On the other hand, the mountains are far from my home. The beach is near, so the beach is better for me.",
+   "sound": "Option has its strongest beat on OP. In advantage, say VAN clearly. In on the other hand, say HAND clearly at the end.",
+   "model": "The first option is the beach. The second option is the mountains.",
+   "wordSample": "We have two options for Saturday: the beach or the mountains.",
+   "wordTask": "What are the two options for Saturday?"
+  },
+  {
+   "unit": 28,
+   "day": 218,
+   "title": "Give a reason for your choice",
+   "goal": "I can give a reason for my choice and say why it makes sense.",
+   "newItems": [
+    {
+     "word": "benefit",
+     "ipa": "/ˈbɛnəfɪt/",
+     "pos": "noun",
+     "definition": "A good result of one choice.",
+     "example": "One benefit of the beach is the warm sun.",
+     "category": "new_word",
+     "status": "new"
+    },
+    {
+     "word": "risk",
+     "ipa": "/rɪsk/",
+     "pos": "noun",
+     "definition": "A bad thing that can happen.",
+     "example": "The risk of the mountains is the rain.",
+     "category": "new_word",
+     "status": "new"
+    },
+    {
+     "word": "that makes sense",
+     "ipa": "/ðæt meɪks sɛns/",
+     "pos": "fixed phrase",
+     "definition": "A way to say an idea is clear and good.",
+     "example": "That makes sense. The beach is near.",
+     "category": "fixed_phrase",
+     "status": "new"
+    },
+    {
+     "word": "the best thing about",
+     "ipa": "/ðə bɛst θɪŋ əˈbaʊt/",
+     "pos": "fixed phrase",
+     "definition": "A way to start to talk about the best part of something.",
+     "example": "The best thing about the beach is the sea.",
+     "category": "fixed_phrase",
+     "status": "new"
+    },
+    {
+     "word": "I’d rather",
+     "ipa": "/aɪd ˈræðɚ/",
+     "pos": "fixed phrase",
+     "definition": "A way to say you like one thing more than another.",
+     "example": "I’d rather swim than walk.",
+     "category": "fixed_phrase",
+     "status": "new"
+    }
+   ],
+   "reviewWords": [
+    "friend",
+    "food",
+    "lunch",
+    "time",
+    "weekend"
+   ],
+   "mainWord": {
+    "word": "benefit",
+    "ipa": "/ˈbɛnəfɪt/",
+    "pos": "noun",
+    "definition": "A good result of one choice.",
+    "example": "One benefit of the beach is the warm sun.",
+    "category": "new_word",
+    "status": "new"
+   },
+   "mainWordForms": "Benefit is a noun. The plural is benefits. A benefit is a good result of a choice. We talk about the benefits and the risks before we decide.",
+   "pronunciationTarget": {
+    "word": "benefit",
+    "ipa": "/ˈbɛnəfɪt/"
+   },
+   "expression": "The best thing about the beach is the sea.",
+   "use": "Give a reason for your choice and say why it makes sense.",
+   "expressionTask": "Tell Noah why you like the beach. Give one benefit and say the best thing about it.",
+   "grammar": "The best thing about + noun + is + noun",
+   "pattern": "The best thing about + noun + is + noun",
+   "task": "The best ___ about the beach is the sea.",
+   "answer": "thing",
+   "example": "The best thing about the beach is the sea.",
+   "context": [
+    "Mia tells Noah why she likes the beach for Saturday.",
+    "The best thing about the beach is the sea. I can swim and play in the warm sun."
+   ],
+   "dialogue": [
+    "Why do you like the beach, Mia? Tell me your reason.",
+    "The best thing about the beach is the sea. One benefit is the warm sun and the clean water.",
+    "That makes sense. The beach is near, and we can swim there all day.",
+    "Yes, and the mountains have a risk: it can rain, and the road is long.",
+    "I see. I’d rather swim than walk in the rain.",
+    "Good. The beach is the better choice for Saturday, and the sea is warm."
+   ],
+   "listening": "Mia tells Noah about the beach. The best thing about the beach is the sea, and one benefit is the warm sun. The mountains have a risk: it can rain. Noah says that makes sense, and he would rather swim than walk in the rain.",
+   "question": "What is one benefit of the beach?",
+   "correct": "The warm sun",
+   "other": "The mountains in the afternoon",
+   "reading": "Mia likes the beach for Saturday. She says, “The best thing about the beach is the sea. One benefit is the warm sun and the clean water. We can swim all day.” Noah asks, “What about the mountains?” Mia answers, “The mountains have a risk: it can rain, and the road is long. I like the sea more than the mountains.” Noah says, “That makes sense. The beach is near, and the sea is warm.” Mia smiles and says, “Yes, I’d rather swim in the sea than walk on a wet road.”",
+   "readingQ": "Why does Mia like the beach?",
+   "readingA": "The best thing about the beach is the sea.",
+   "speaking": "Tell a partner why you like one option more than the other. Give one benefit, one risk, and say what you would rather do.",
+   "speakingSample": "I like the beach more than the mountains. The best thing about the beach is the sea. One benefit is the warm sun. The mountains have a risk: it can rain, and the road is long. That makes sense. I’d rather swim than walk in the rain.",
+   "writing": "Write 45–65 words about why you like one option for the weekend. Give one benefit, one risk of the other option, and say what you would rather do.",
+   "writingSample": "I like the beach more than the mountains. The best thing about the beach is the sea. One benefit is the warm sun and the clean water. The mountains have a risk: it can rain, and the road is long. That makes sense to me. I’d rather swim in the warm sea than walk on a wet road.",
+   "sound": "Benefit has its strongest beat on BEN. In risk, say RISK clearly. In I’d rather, say RATHER clearly.",
+   "model": "The best thing about the beach is the sea. One benefit is the warm sun.",
+   "wordSample": "One benefit of the beach is the warm sun.",
+   "wordTask": "What is one benefit of the beach?"
+  },
+  {
+   "unit": 28,
+   "day": 219,
+   "title": "Suggest an option to a friend",
+   "goal": "I can suggest an option and ask a friend what they think.",
+   "newItems": [
+    {
+     "word": "suggestion",
+     "ipa": "/səˈdʒɛstʃən/",
+     "pos": "noun",
+     "definition": "An idea you give to help someone choose.",
+     "example": "I have a suggestion: go to the beach in the morning.",
+     "category": "new_word",
+     "status": "new"
+    },
+    {
+     "word": "idea",
+     "ipa": "/aɪˈdiə/",
+     "pos": "noun",
+     "definition": "A thought about what to do.",
+     "example": "I have an idea: let’s go early.",
+     "category": "new_word",
+     "status": "new"
+    },
+    {
+     "word": "solution",
+     "ipa": "/səˈluʃən/",
+     "pos": "noun",
+     "definition": "A good answer to a problem.",
+     "example": "The solution is to leave home early.",
+     "category": "new_word",
+     "status": "new"
+    },
+    {
+     "word": "why don’t we",
+     "ipa": "/waɪ doʊnt wi/",
+     "pos": "fixed phrase",
+     "definition": "A friendly way to suggest something to do together.",
+     "example": "Why don’t we go to the beach in the morning?",
+     "category": "fixed_phrase",
+     "status": "new"
+    },
+    {
+     "word": "that’s a good idea",
+     "ipa": "/ðæts ə ɡʊd aɪˈdiə/",
+     "pos": "fixed phrase",
+     "definition": "A warm way to say you like someone’s idea.",
+     "example": "That’s a good idea. Let’s go early.",
+     "category": "fixed_phrase",
+     "status": "new"
+    }
+   ],
+   "reviewWords": [
+    "friend",
+    "plan",
+    "time",
+    "morning",
+    "beach"
+   ],
+   "mainWord": {
+    "word": "suggestion",
+    "ipa": "/səˈdʒɛstʃən/",
+    "pos": "noun",
+    "definition": "An idea you give to help someone choose.",
+    "example": "I have a suggestion: go to the beach in the morning.",
+    "category": "new_word",
+    "status": "new"
+   },
+   "mainWordForms": "Suggestion is a noun. The plural is suggestions. A suggestion is an idea you give to help someone choose. We say I have a suggestion when we want to give a good idea.",
+   "pronunciationTarget": {
+    "word": "suggestion",
+    "ipa": "/səˈdʒɛstʃən/"
+   },
+   "expression": "Why don’t we go to the beach in the morning?",
+   "use": "Suggest an option in a friendly way.",
+   "expressionTask": "Suggest a time to go to the beach. Ask Noah if he likes your idea.",
+   "grammar": "Why don’t we + verb",
+   "pattern": "Why don’t we + verb",
+   "task": "Why ___ we go to the beach in the morning?",
+   "answer": "don’t",
+   "example": "Why don’t we go to the beach in the morning?",
+   "context": [
+    "Noah has a problem: the beach is hot at noon. Mia has a suggestion.",
+    "Why don’t we go to the beach in the morning? We can swim before the sun is hot."
+   ],
+   "dialogue": [
+    "The beach is hot at noon. I have a suggestion for our plan.",
+    "What is your idea? Tell me.",
+    "Why don’t we go to the beach in the morning? We can swim before the sun is hot.",
+    "That’s a good idea. The morning is cool, and the water is warm.",
+    "The solution is easy: we leave home at eight and come back at noon.",
+    "Good. I like your suggestion. Let’s go in the morning."
+   ],
+   "listening": "Noah has a problem: the beach is hot at noon. Mia has a suggestion. She says, why don’t we go to the beach in the morning? Noah says that’s a good idea. The solution is to leave home at eight and come back at noon.",
+   "question": "What is Mia’s suggestion?",
+   "correct": "Go to the beach in the morning",
+   "other": "Go to the lake on Sunday",
+   "reading": "Mia and Noah plan their trip to the beach. Noah says, “The beach is hot at noon. What can we do?” Mia has a suggestion. She says, “Why don’t we go to the beach in the morning? We can swim before the sun is hot.” Noah answers, “That’s a good idea. I like your idea. The morning is cool, and the water is warm.” Mia says, “The solution is easy: we leave home at eight and come back at noon.” Noah smiles and says, “Good. Your suggestion is the best one for Saturday.”",
+   "readingQ": "What is Mia’s suggestion?",
+   "readingA": "Go to the beach in the morning.",
+   "speaking": "Suggest an option to a partner. Say your suggestion, give your idea, and ask if they like it.",
+   "speakingSample": "I have a suggestion for Saturday. Why don’t we go to the beach in the morning? We can swim before the sun is hot. The solution is easy: we leave home at eight and come back at noon. That’s a good idea, and I like it. What is your idea?",
+   "writing": "Write 45–65 words to a friend with a suggestion for the weekend. Say your idea, say why it is good, and ask if they like it.",
+   "writingSample": "Hello, Noah. I have a suggestion for Saturday. Why don’t we go to the beach in the morning? We can swim before the sun is hot, and the morning is cool. The solution is easy: we leave home at eight and come back at noon. That’s a good idea, I think. What is your idea? Please tell me today.",
+   "sound": "Suggestion has its strongest beat on JES. In idea, say DEA clearly. In why don’t we, say WE clearly at the end.",
+   "model": "Why don’t we go to the beach in the morning? That is my suggestion.",
+   "wordSample": "I have a suggestion: go to the beach in the morning.",
+   "wordTask": "What does Mia have for Noah?"
+  },
+  {
+   "unit": 28,
+   "day": 220,
+   "title": "Agree with a friend",
+   "goal": "I can agree with a friend and say why I think the same.",
+   "newItems": [
+    {
+     "word": "agreement",
+     "ipa": "/əˈɡriːmənt/",
+     "pos": "noun",
+     "definition": "When two or more people think the same.",
+     "example": "We have an agreement: we go to the beach in the morning.",
+     "category": "new_word",
+     "status": "new"
+    },
+    {
+     "word": "do you agree",
+     "ipa": "/du ju əˈɡriː/",
+     "pos": "fixed phrase",
+     "definition": "A way to ask if someone thinks the same as you.",
+     "example": "Do you agree with the plan?",
+     "category": "fixed_phrase",
+     "status": "new"
+    },
+    {
+     "word": "you’re right",
+     "ipa": "/jʊr raɪt/",
+     "pos": "fixed phrase",
+     "definition": "A warm way to say someone’s idea is good.",
+     "example": "You’re right. The morning is cool.",
+     "category": "fixed_phrase",
+     "status": "new"
+    },
+    {
+     "word": "it’s up to you",
+     "ipa": "/ɪts ʌp tu juː/",
+     "pos": "fixed phrase",
+     "definition": "A way to say the other person can choose.",
+     "example": "It’s up to you: the beach or the mountains?",
+     "category": "fixed_phrase",
+     "status": "new"
+    },
+    {
+     "word": "I agree with that",
+     "ipa": "/aɪ əˈɡriː wɪð ðæt/",
+     "pos": "fixed phrase",
+     "definition": "A way to say you think the same.",
+     "example": "I agree with that. Let’s go in the morning.",
+     "category": "fixed_phrase",
+     "status": "new"
+    }
+   ],
+   "reviewWords": [
+    "friend",
+    "party",
+    "time",
+    "plan",
+    "weekend"
+   ],
+   "mainWord": {
+    "word": "agreement",
+    "ipa": "/əˈɡriːmənt/",
+    "pos": "noun",
+    "definition": "When two or more people think the same.",
+    "example": "We have an agreement: we go to the beach in the morning.",
+    "category": "new_word",
+    "status": "new"
+   },
+   "mainWordForms": "Agreement is a noun. We have an agreement when we think the same about a plan. We say we are in agreement when we both say yes to the same idea.",
+   "pronunciationTarget": {
+    "word": "agreement",
+    "ipa": "/əˈɡriːmənt/"
+   },
+   "expression": "Do you agree with the plan?",
+   "use": "Agree with a friend in a warm, friendly way.",
+   "expressionTask": "Ask Noah if he agrees with the morning plan. Say you agree too.",
+   "grammar": "Do you agree with + noun",
+   "pattern": "Do you agree with + noun",
+   "task": "Do you ___ with the plan?",
+   "answer": "agree",
+   "example": "Do you agree with the plan?",
+   "context": [
+    "Mia and Noah talk about the morning plan for Saturday.",
+    "Do you agree with the plan? We go to the beach in the morning and come back at noon."
+   ],
+   "dialogue": [
+    "Do you agree with the plan? We go to the beach in the morning and come back at noon.",
+    "I agree with that. The morning is cool, and the water is warm.",
+    "You’re right. We can swim before the sun is hot.",
+    "It’s up to you: do we leave at eight or at nine?",
+    "Let’s leave at eight. Do you agree?",
+    "Yes, I agree. We have an agreement: eight in the morning."
+   ],
+   "listening": "Mia asks Noah if he agrees with the plan. Noah says he agrees with that. Mia says you’re right about the cool morning. Noah says it’s up to Mia: leave at eight or at nine. They have an agreement: eight in the morning.",
+   "question": "What time do they leave home?",
+   "correct": "Eight in the morning",
+   "other": "Nine in the evening",
+   "reading": "Mia asks Noah, “Do you agree with the plan? We go to the beach in the morning and come back at noon.” Noah answers, “I agree with that. The morning is cool, and the water is warm.” Mia says, “You’re right. We can swim before the sun is hot.” Noah asks, “It’s up to you: do we leave at eight or at nine?” Mia says, “Let’s leave at eight.” Noah smiles and says, “Yes, I agree. We have an agreement: eight in the morning on Saturday.” Mia says, “Good. See you at eight.”",
+   "readingQ": "What time do Mia and Noah leave home?",
+   "readingA": "Eight in the morning.",
+   "speaking": "Agree with a partner about a weekend plan. Ask if they agree, say you agree too, and say the time you will leave.",
+   "speakingSample": "Do you agree with the plan? We go to the beach in the morning and come back at noon. I agree with that. You’re right: the morning is cool. It’s up to you: eight or nine? We have an agreement: eight in the morning.",
+   "writing": "Write 45–65 words to a friend about a plan you both like. Say you agree, say why, and say the time you will leave.",
+   "writingSample": "Hello, Noah. Do you agree with the plan? We go to the beach in the morning and come back at noon. I agree with that. You’re right: the morning is cool, and the water is warm. It’s up to you: do we leave at eight or at nine? I think eight is good. We have an agreement: eight in the morning on Saturday.",
+   "sound": "Agreement has its strongest beat on GREE. In you’re right, say RIGHT clearly. In it’s up to you, say YOU clearly at the end.",
+   "model": "Do you agree with the plan? We have an agreement.",
+   "wordSample": "We have an agreement: we go to the beach in the morning.",
+   "wordTask": "What do Mia and Noah have about the plan?"
+  },
+  {
+   "unit": 28,
+   "day": 221,
+   "title": "Disagree in a polite way",
+   "goal": "I can disagree in a polite way and show respect for other ideas.",
+   "newItems": [
+    {
+     "word": "respect",
+     "ipa": "/rɪˈspɛkt/",
+     "pos": "noun",
+     "definition": "A good feeling for another person’s idea.",
+     "example": "I have respect for your idea, but I like the beach more.",
+     "category": "new_word",
+     "status": "new"
+    },
+    {
+     "word": "I see your point",
+     "ipa": "/aɪ si jʊr pɔɪnt/",
+     "pos": "fixed phrase",
+     "definition": "A polite way to say you understand someone’s idea.",
+     "example": "I see your point. The mountains are quiet.",
+     "category": "fixed_phrase",
+     "status": "new"
+    },
+    {
+     "word": "I’m not sure about that",
+     "ipa": "/aɪm nɑt ʃʊr əˈbaʊt ðæt/",
+     "pos": "fixed phrase",
+     "definition": "A soft way to say you do not agree.",
+     "example": "I’m not sure about that. Eight is very early.",
+     "category": "fixed_phrase",
+     "status": "new"
+    },
+    {
+     "word": "let’s think about it",
+     "ipa": "/lɛts θɪŋk əˈbaʊt ɪt/",
+     "pos": "fixed phrase",
+     "definition": "A way to ask for more time before you decide.",
+     "example": "Let’s think about it and talk again tomorrow.",
+     "category": "fixed_phrase",
+     "status": "new"
+    },
+    {
+     "word": "maybe you’re right",
+     "ipa": "/ˈmeɪbi jʊr raɪt/",
+     "pos": "fixed phrase",
+     "definition": "A soft way to say the other person can be right.",
+     "example": "Maybe you’re right. The morning is cool.",
+     "category": "fixed_phrase",
+     "status": "new"
+    }
+   ],
+   "reviewWords": [
+    "friend",
+    "time",
+    "party",
+    "plan",
+    "lunch"
+   ],
+   "mainWord": {
+    "word": "respect",
+    "ipa": "/rɪˈspɛkt/",
+    "pos": "noun",
+    "definition": "A good feeling for another person’s idea.",
+    "example": "I have respect for your idea, but I like the beach more.",
+    "category": "new_word",
+    "status": "new"
+   },
+   "mainWordForms": "Respect is a noun. We have respect for a person or an idea when we think it is good. We show respect when we listen first and answer in a kind way.",
+   "pronunciationTarget": {
+    "word": "respect",
+    "ipa": "/rɪˈspɛkt/"
+   },
+   "expression": "I see your point.",
+   "use": "Disagree in a polite way and show respect for other ideas.",
+   "expressionTask": "Leo does not like the early morning. Tell him you see his point, but you like the morning plan.",
+   "grammar": "I see your point, but + sentence",
+   "pattern": "I see your point, but + sentence",
+   "task": "I see your ___.",
+   "answer": "point",
+   "example": "I see your point.",
+   "context": [
+    "Leo joins Mia and Noah. He does not like the early morning plan.",
+    "I see your point. The morning is early, but the water is warm and the beach is quiet."
+   ],
+   "dialogue": [
+    "I like the beach, but eight in the morning is very early for me.",
+    "I see your point. The morning is early, but the water is warm.",
+    "I’m not sure about that. I need more sleep on Saturday.",
+    "Let’s think about it. We can leave at nine, not at eight.",
+    "Maybe you’re right. Nine is still cool, and we have time to swim.",
+    "Thank you. I have respect for your plan, and nine is good for me."
+   ],
+   "listening": "Leo joins Mia and Noah. He does not like the early morning plan. Mia says she sees his point. Leo is not sure about eight. Noah says let’s think about it and leave at nine. Mia says maybe Leo is right.",
+   "question": "What time will they leave home?",
+   "correct": "Nine in the morning",
+   "other": "Eight in the evening",
+   "reading": "Leo joins Mia and Noah to talk about Saturday. Leo says, “I like the beach, but eight in the morning is very early for me.” Mia answers, “I see your point. The morning is early, but the water is warm.” Leo says, “I’m not sure about that. I need more sleep on Saturday.” Noah says, “Let’s think about it. We can leave at nine, not at eight.” Mia smiles and says, “Maybe you’re right. Nine is still cool, and we have time to swim.” Leo says, “Thank you. I have respect for your plan.”",
+   "readingQ": "What time will they leave home?",
+   "readingA": "Nine in the morning.",
+   "speaking": "Disagree in a polite way with a partner. Say you see their point, say you are not sure, and suggest a new time.",
+   "speakingSample": "I see your point. Eight in the morning is very early for me. I’m not sure about that time. Let’s think about it. We can leave at nine, not at eight. Maybe you’re right about the cool morning. I have respect for your plan, and nine is good for me.",
+   "writing": "Write 45–65 words to a friend who does not like your plan. Say you see their point, say you are not sure about the time, and suggest a new time.",
+   "writingSample": "Hello, Leo. I see your point. Eight in the morning is very early, and you need more sleep on Saturday. I’m not sure about that time now. Let’s think about it. We can leave at nine, not at eight. Maybe you’re right. Nine is still cool, and we have time to swim. I have respect for your plan, and nine is good for me.",
+   "sound": "Respect has its strongest beat on SPECT. In I see your point, say POINT clearly. In I’m not sure about that, say SURE clearly.",
+   "model": "I see your point. I respect your idea.",
+   "wordSample": "I have respect for your idea, but I like the beach more.",
+   "wordTask": "What does Mia have for Leo’s idea?"
+  },
+  {
+   "unit": 28,
+   "day": 222,
+   "title": "Choose together and make a plan",
+   "goal": "I can choose with friends and make a plan we all like.",
+   "newItems": [
+    {
+     "word": "decision",
+     "ipa": "/dɪˈsɪʒən/",
+     "pos": "noun",
+     "definition": "A choice you make after you think.",
+     "example": "We made a decision: the beach on Saturday morning.",
+     "category": "new_word",
+     "status": "new"
+    },
+    {
+     "word": "let’s decide",
+     "ipa": "/lɛts dɪˈsaɪd/",
+     "pos": "fixed phrase",
+     "definition": "A way to start to choose together.",
+     "example": "Let’s decide now: the beach or the mountains?",
+     "category": "fixed_phrase",
+     "status": "new"
+    },
+    {
+     "word": "we both agree",
+     "ipa": "/wi boʊθ əˈɡriː/",
+     "pos": "fixed phrase",
+     "definition": "A way to say two people think the same.",
+     "example": "We both agree: the beach is better.",
+     "category": "fixed_phrase",
+     "status": "new"
+    },
+    {
+     "word": "sounds like a plan",
+     "ipa": "/saʊndz laɪk ə plæn/",
+     "pos": "fixed phrase",
+     "definition": "A warm way to say a plan is good.",
+     "example": "Sounds like a plan. Let’s go on Saturday.",
+     "category": "fixed_phrase",
+     "status": "new"
+    },
+    {
+     "word": "we need to decide",
+     "ipa": "/wi niːd tu dɪˈsaɪd/",
+     "pos": "fixed phrase",
+     "definition": "A way to say it is time to choose.",
+     "example": "We need to decide today: the beach or the mountains?",
+     "category": "fixed_phrase",
+     "status": "new"
+    }
+   ],
+   "reviewWords": [
+    "friend",
+    "plan",
+    "weekend",
+    "time",
+    "date"
+   ],
+   "mainWord": {
+    "word": "decision",
+    "ipa": "/dɪˈsɪʒən/",
+    "pos": "noun",
+    "definition": "A choice you make after you think.",
+    "example": "We made a decision: the beach on Saturday morning.",
+    "category": "new_word",
+    "status": "new"
+   },
+   "mainWordForms": "Decision is a noun. The plural is decisions. A decision is a choice you make after you think. We make a decision when we choose one option and say yes to it.",
+   "pronunciationTarget": {
+    "word": "decision",
+    "ipa": "/dɪˈsɪʒən/"
+   },
+   "expression": "Let’s decide on Saturday.",
+   "use": "Choose together and make a plan everyone likes.",
+   "expressionTask": "Tell your friends it is time to decide. Ask them to choose the beach or the mountains.",
+   "grammar": "Let’s decide + on + noun",
+   "pattern": "Let’s decide + on + noun",
+   "task": "Let’s ___ on Saturday.",
+   "answer": "decide",
+   "example": "Let’s decide on Saturday.",
+   "context": [
+    "Mia, Noah, and Leo talk about Saturday. It is time to choose.",
+    "Let’s decide on Saturday. We need to decide today: the beach or the mountains?"
+   ],
+   "dialogue": [
+    "Let’s decide on Saturday. We need to decide today: the beach or the mountains?",
+    "We both agree: the beach is better. The sea is warm, and the sun is good.",
+    "Yes, we both agree. I like the beach in the morning.",
+    "Good. Our decision is the beach on Saturday morning at nine.",
+    "Sounds like a plan. Let’s go to the beach and swim.",
+    "Yes, sounds like a plan. I will bring water and food for us."
+   ],
+   "listening": "Mia, Noah, and Leo talk about Saturday. Mia says let’s decide now. Noah says we both agree: the beach is better. They make a decision: the beach on Saturday morning at nine. Noah says sounds like a plan, and Leo will bring water and food.",
+   "question": "What is their decision?",
+   "correct": "The beach on Saturday morning",
+   "other": "The mountains on Sunday",
+   "reading": "Mia, Noah, and Leo talk about Saturday. Mia says, “Let’s decide on Saturday. We need to decide today: the beach or the mountains?” Noah answers, “We both agree: the beach is better. The sea is warm, and the sun is good.” Leo says, “Yes, we both agree. I like the beach in the morning.” Mia says, “Good. Our decision is the beach on Saturday morning at nine.” Noah says, “Sounds like a plan. Let’s go to the beach and swim.” Leo says, “Yes, sounds like a plan. I will bring water and food.”",
+   "readingQ": "What is their decision?",
+   "readingA": "The beach on Saturday morning at nine.",
+   "speaking": "Choose a plan with a partner. Say it is time to decide, say what you both agree on, and say the day and the time.",
+   "speakingSample": "Let’s decide on Saturday. We need to decide today: the beach or the mountains? We both agree: the beach is better. Our decision is the beach on Saturday morning at nine. Sounds like a plan. Let’s go to the beach and swim in the warm sea.",
+   "writing": "Write 45–65 words about a plan you made with friends. Say what you decided, say the day and the time, and say what you will bring.",
+   "writingSample": "On Saturday, we made a decision with our friends. Let’s decide on Saturday: the beach or the mountains? We both agree: the beach is better. Our decision is the beach on Saturday morning at nine. Sounds like a plan. We need to decide what to bring. I will bring water and food for us, and we will swim in the warm sea.",
+   "sound": "Decision has its strongest beat on SI. In let’s decide, say CIDE clearly. In sounds like a plan, say PLAN clearly at the end.",
+   "model": "Let’s decide on Saturday. We need a decision today.",
+   "wordSample": "We made a decision: the beach on Saturday morning.",
+   "wordTask": "What did they make about Saturday?"
+  },
+  {
+   "unit": 28,
+   "day": 223,
+   "title": "Change your mind in a kind way",
+   "goal": "I can change my mind and say the new plan in a kind way.",
+   "newItems": [
+    {
+     "word": "change my mind",
+     "ipa": "/tʃeɪndʒ maɪ maɪnd/",
+     "pos": "fixed phrase",
+     "definition": "A way to say you now think in a different way.",
+     "example": "I want to change my mind about the mountains.",
+     "category": "fixed_phrase",
+     "status": "new"
+    },
+    {
+     "word": "on second thought",
+     "ipa": "/ɑn ˈsɛkənd θɔt/",
+     "pos": "fixed phrase",
+     "definition": "A way to start a new idea after you think again.",
+     "example": "On second thought, let’s go to the beach.",
+     "category": "fixed_phrase",
+     "status": "new"
+    },
+    {
+     "word": "let’s do that instead",
+     "ipa": "/lɛts du ðæt ɪnˈstɛd/",
+     "pos": "fixed phrase",
+     "definition": "A friendly way to suggest a different plan.",
+     "example": "Let’s do that instead: go to the beach in the morning.",
+     "category": "fixed_phrase",
+     "status": "new"
+    },
+    {
+     "word": "that would be better",
+     "ipa": "/ðæt wʊd bi ˈbɛtɚ/",
+     "pos": "fixed phrase",
+     "definition": "A soft way to say one plan is better than another.",
+     "example": "That would be better: the beach is near.",
+     "category": "fixed_phrase",
+     "status": "new"
+    },
+    {
+     "word": "I thought about it",
+     "ipa": "/aɪ θɔt əˈbaʊt ɪt/",
+     "pos": "fixed phrase",
+     "definition": "A way to say you gave an idea time to think.",
+     "example": "I thought about it, and I like the beach.",
+     "category": "fixed_phrase",
+     "status": "new"
+    }
+   ],
+   "reviewWords": [
+    "friend",
+    "time",
+    "plan",
+    "weekend",
+    "party"
+   ],
+   "mainWord": {
+    "word": "change my mind",
+    "ipa": "/tʃeɪndʒ maɪ maɪnd/",
+    "pos": "fixed phrase",
+    "definition": "A way to say you now think in a different way.",
+    "example": "I want to change my mind about the mountains.",
+    "category": "fixed_phrase",
+    "status": "new"
+   },
+   "mainWordForms": "Change my mind is a fixed phrase. Change is a verb; the past form is changed. We say I change my mind when we now think in a different way, not when we keep the first plan.",
+   "pronunciationTarget": {
+    "word": "mind",
+    "ipa": "/maɪnd/"
+   },
+   "expression": "On second thought, let’s go to the beach.",
+   "use": "Change your mind and say the new plan in a kind way.",
+   "expressionTask": "Ana first wanted the mountains. Tell her friends you changed your mind and now like the beach.",
+   "grammar": "On second thought, let’s + verb",
+   "pattern": "On second thought, let’s + verb",
+   "task": "On second ___, let’s go to the beach.",
+   "answer": "thought",
+   "example": "On second thought, let’s go to the beach.",
+   "context": [
+    "Ana first wanted the mountains, but now she likes the beach.",
+    "On second thought, let’s go to the beach. I changed my mind about the mountains."
+   ],
+   "dialogue": [
+    "I first wanted the mountains, but I want to change my mind about Saturday.",
+    "On second thought, let’s go to the beach. The sea is warm, and the sun is good.",
+    "That would be better. The mountains are far, and the road is long.",
+    "Let’s do that instead: go to the beach in the morning at nine.",
+    "I thought about it, and I like the beach. Thank you for the good plan.",
+    "Good. The beach it is. We go on Saturday morning at nine."
+   ],
+   "listening": "Ana first wanted the mountains, but she wants to change her mind. Mia says on second thought, let’s go to the beach. Ana says that would be better. Noah says let’s do that instead. Ana thought about it, and she likes the beach now.",
+   "question": "What does Ana want to do now?",
+   "correct": "Go to the beach",
+   "other": "Go to the mountains",
+   "reading": "Ana first wanted the mountains for Saturday, but now she wants to change her mind. She says, “On second thought, let’s go to the beach. I changed my mind about the mountains.” Mia answers, “That would be better. The sea is warm, and the sun is good.” Noah says, “Let’s do that instead: go to the beach in the morning at nine.” Ana smiles and says, “I thought about it, and I like the beach. Thank you for the good plan.” Mia says, “Good. The beach it is. We go on Saturday morning at nine.”",
+   "readingQ": "What does Ana want to do now?",
+   "readingA": "Go to the beach on Saturday morning.",
+   "speaking": "Tell a partner you changed your mind about a plan. Say the new plan, say why it would be better, and say the day and the time.",
+   "speakingSample": "I first wanted the mountains, but I want to change my mind. On second thought, let’s go to the beach. That would be better: the sea is warm. Let’s do that instead: go in the morning at nine. I thought about it, and I like the beach.",
+   "writing": "Write 45–65 words about a plan you changed. Say the first plan, say the new plan, and say why the new plan would be better.",
+   "writingSample": "I first wanted the mountains for Saturday, but I want to change my mind. On second thought, let’s go to the beach. That would be better: the sea is warm, and the beach is near our home. Let’s do that instead: go in the morning at nine. I thought about it, and I like the beach. Thank you for the good plan.",
+   "sound": "Mind has its strongest beat on MIND. In on second thought, say THOUGHT clearly. In that would be better, say BETTER clearly.",
+   "model": "On second thought, let’s go to the beach. I changed my mind.",
+   "wordSample": "I changed my mind about the mountains.",
+   "wordTask": "What did Ana change her mind about?"
+  },
+  {
+   "unit": 28,
+   "day": 224,
+   "title": "Use options and agreement in a new situation",
+   "goal": "I can discuss options, agree with friends, and decide in a new situation.",
+   "newItems": [
+    {
+     "word": "settled",
+     "ipa": "/ˈsɛtld/",
+     "pos": "adjective",
+     "definition": "Decided and finished; no more talk is needed.",
+     "example": "The plan is settled: the park on Saturday.",
+     "category": "new_word",
+     "status": "new"
+    },
+    {
+     "word": "final",
+     "ipa": "/ˈfaɪnəl/",
+     "pos": "adjective",
+     "definition": "Last; no more changes after this.",
+     "example": "This is our final plan for the picnic.",
+     "category": "new_word",
+     "status": "new"
+    },
+    {
+     "word": "we decided to",
+     "ipa": "/wi dɪˈsaɪdɪd tu/",
+     "pos": "fixed phrase",
+     "definition": "A way to say the choice you made together.",
+     "example": "We decided to have the picnic in the park.",
+     "category": "fixed_phrase",
+     "status": "new"
+    },
+    {
+     "word": "let’s go with",
+     "ipa": "/lɛts ɡoʊ wɪð/",
+     "pos": "fixed phrase",
+     "definition": "A friendly way to choose one option.",
+     "example": "Let’s go with the park.",
+     "category": "fixed_phrase",
+     "status": "new"
+    },
+    {
+     "word": "either one is fine",
+     "ipa": "/ˈiðɚ wʌn ɪz faɪn/",
+     "pos": "fixed phrase",
+     "definition": "A way to say both options are good for you.",
+     "example": "Either one is fine with me.",
+     "category": "fixed_phrase",
+     "status": "new"
+    }
+   ],
+   "reviewWords": [
+    "friend",
+    "party",
+    "time",
+    "date",
+    "place"
+   ],
+   "mainWord": {
+    "word": "settled",
+    "ipa": "/ˈsɛtld/",
+    "pos": "adjective",
+    "definition": "Decided and finished; no more talk is needed.",
+    "example": "The plan is settled: the park on Saturday.",
+    "category": "new_word",
+    "status": "new"
+   },
+   "mainWordForms": "Settled is an adjective. It comes from the verb settle. We say the plan is settled when the choice is made and no more talk is needed.",
+   "pronunciationTarget": {
+    "word": "settled",
+    "ipa": "/ˈsɛtld/"
+   },
+   "expression": "Let’s go with the park.",
+   "use": "Discuss options, agree with friends, and decide in a new situation.",
+   "expressionTask": "Emma and Ben plan a picnic. Help them choose the park or Ben’s home, and say the day and the time.",
+   "grammar": "Let’s go with + noun",
+   "pattern": "Let’s go with + noun",
+   "task": "Let’s go ___ the park.",
+   "answer": "with",
+   "example": "Let’s go with the park.",
+   "context": [
+    "Emma and Ben plan a birthday picnic for their teacher, Ms. Reed. They have two options: the park or Ben’s home.",
+    "Let’s go with the park. We decided to have the picnic there on Saturday at eleven."
+   ],
+   "dialogue": [
+    "We have two options for the picnic: the park or your home, Ben.",
+    "Either one is fine with me. The park is big, and my home is near.",
+    "Let’s go with the park. We can play games on the grass.",
+    "Good. We decided to have the picnic in the park on Saturday at eleven.",
+    "Yes. This is our final plan. The plan is settled.",
+    "Good. I will bring food and drinks, and you bring the cake."
+   ],
+   "listening": "Emma and Ben plan a picnic for Ms. Reed. They have two options: the park or Ben’s home. Ben says either one is fine. Emma says let’s go with the park. They decided to have the picnic in the park on Saturday at eleven.",
+   "question": "Where is the picnic?",
+   "correct": "In the park",
+   "other": "At Ben’s home on Sunday",
+   "reading": "Emma and Ben plan a birthday picnic for their teacher, Ms. Reed. Emma says, “We have two options: the park or your home.” Ben answers, “Either one is fine with me. The park is big, and my home is near.” Emma says, “Let’s go with the park. We can play games on the grass.” Ben says, “Good. We decided to have the picnic in the park on Saturday at eleven.” Emma smiles and says, “Yes. This is our final plan. The plan is settled.” Ben says, “Good. I will bring food and drinks.”",
+   "readingQ": "Where is the picnic, and when is it?",
+   "readingA": "In the park on Saturday at eleven.",
+   "speaking": "Plan a picnic with a partner. Say the two options, choose one, and say the day, the time, and what to bring.",
+   "speakingSample": "We have two options: the park or Ben’s home. Either one is fine with me. Let’s go with the park. We decided to have the picnic in the park on Saturday at eleven. This is our final plan. The plan is settled. I will bring food and drinks.",
+   "writing": "Write 45–65 words about a picnic you planned with a friend. Say the two options, say which one you chose, and say the day, the time, and what to bring.",
+   "writingSample": "Emma and Ben plan a birthday picnic for their teacher, Ms. Reed. They have two options: the park or Ben’s home. Either one is fine with Ben. Emma says, “Let’s go with the park.” We decided to have the picnic in the park on Saturday at eleven. This is our final plan. The plan is settled. Ben will bring food and drinks.",
+   "sound": "Settled has its strongest beat on SET. In final, say FI clearly. In let’s go with, say WITH clearly at the end.",
+   "model": "Let’s go with the park. The plan is settled.",
+   "wordSample": "The plan is settled: the park on Saturday.",
+   "wordTask": "What is settled now?",
+   "transferCheck": {
+    "source": "On Friday, Emma and Ben plan a birthday picnic for their teacher, Ms. Reed. They have two options: the park or Ben’s home. Emma likes the park because it is big and they can play games on the grass. Ben says either one is fine with him. They talk about the day and the time, and they agree on Saturday at eleven. Ben will bring food and drinks, and Emma will bring the cake.",
+    "tasks": [
+     [
+      "1 · Identify the people and the event",
+      "Who plans the picnic, and for whom is it?"
+     ],
+     [
+      "2 · Work out the place, the day and the time",
+      "Where is the picnic, and on which day and at what time is it?"
+     ],
+     [
+      "3 · Notice what each person brings",
+      "What will Ben bring, and what will Emma bring?"
+     ],
+     [
+      "4 · Listen and write",
+      "Write the sentence you hear."
+     ],
+     [
+      "5 · Retell and answer",
+      "Tell the picnic plan in order, including the two options, the place, the day, the time, and what each person brings. Then answer one follow-up question."
+     ]
+    ],
+    "dictation": "We decided to have the picnic in the park.",
+    "answer": "1. Emma and Ben plan a birthday picnic for their teacher, Ms. Reed. 2. The picnic is in the park on Saturday at eleven. 3. Ben will bring food and drinks, and Emma will bring the cake. 4. We decided to have the picnic in the park. 5. Sample: Emma and Ben plan a birthday picnic for their teacher, Ms. Reed. They have two options: the park or Ben’s home. Ben says either one is fine with him. Emma says, “Let’s go with the park.” They decide to have the picnic in the park on Saturday at eleven. Ben will bring food and drinks, and Emma will bring the cake. Follow-up: Where is the picnic? In the park."
+   }
+  }
+ ]
+}

@@ -1,0 +1,920 @@
+{
+ "number": 29,
+ "title": "Integrated real-life projects",
+ "lessons": [
+  {
+   "unit": 29,
+   "day": 225,
+   "title": "Choose a project for the class",
+   "goal": "I can choose a project with my class and say why I like it.",
+   "newItems": [
+    {
+     "word": "fair",
+     "ipa": "/fɛr/",
+     "pos": "noun",
+     "definition": "A big event at school with food and games.",
+     "example": "Our class will have a stall at the school fair.",
+     "category": "new_word",
+     "status": "new"
+    },
+    {
+     "word": "task",
+     "ipa": "/tæsk/",
+     "pos": "noun",
+     "definition": "A small job you need to do.",
+     "example": "My task is to make the lemonade.",
+     "category": "new_word",
+     "status": "new"
+    },
+    {
+     "word": "stall",
+     "ipa": "/stɔl/",
+     "pos": "noun",
+     "definition": "A small table or shop at a fair.",
+     "example": "Our stall will sell lemonade and cakes.",
+     "category": "new_word",
+     "status": "new"
+    },
+    {
+     "word": "vote",
+     "ipa": "/voʊt/",
+     "pos": "verb",
+     "definition": "To choose by saying yes to one idea.",
+     "example": "We will vote for the best project.",
+     "category": "new_word",
+     "status": "new"
+    },
+    {
+     "word": "let's work together",
+     "ipa": "/lɛts wɚk təˈɡɛðɚ/",
+     "pos": "fixed phrase",
+     "definition": "A friendly way to say we will do a job as a team.",
+     "example": "Let's work together on the fair.",
+     "category": "fixed_phrase",
+     "status": "new"
+    }
+   ],
+   "reviewWords": [
+    "plan",
+    "friend",
+    "time",
+    "class",
+    "school"
+   ],
+   "mainWord": {
+    "word": "fair",
+    "ipa": "/fɛr/",
+    "pos": "noun",
+    "definition": "A big event at school with food and games.",
+    "example": "Our class will have a stall at the school fair.",
+    "category": "new_word",
+    "status": "new"
+   },
+   "mainWordForms": "Fair is a noun. The plural is fairs. A fair is a big event with food, games, and small shops. At a school fair, each class can have a stall.",
+   "pronunciationTarget": {
+    "word": "fair",
+    "ipa": "/fɛr/"
+   },
+   "expression": "Let's work together on the fair.",
+   "use": "Choose a project with your class and say why you like it.",
+   "expressionTask": "Tell Mia about the school fair. Say you want to work together on a stall.",
+   "grammar": "We will vote for + noun",
+   "pattern": "We will vote for + noun",
+   "task": "We will vote ___ the stall.",
+   "answer": "for",
+   "example": "We will vote for the stall.",
+   "context": [
+    "Ms. Reed asks her class to choose a project for the school fair.",
+    "Let's work together on the fair. We can have a stall and sell lemonade and cakes."
+   ],
+   "dialogue": [
+    "Ms. Reed asks us to choose a project for the school fair. Which project is best for us?",
+    "We can have a stall. Our stall can sell lemonade and small cakes.",
+    "That is a good idea. My task is to make the lemonade. What is your task?",
+    "My task is to bring the cakes. Let us vote: a stall or a poster show?",
+    "Let’s work together on the stall. I think the stall is the best project for us.",
+    "Good. We will vote for the stall, and then we can start our work."
+   ],
+   "listening": "Ms. Reed asks her class to choose a project for the fair. Mia says her task is to make the lemonade. Noah says his task is to bring the cakes. They will vote for the stall, and they want to work together on the fair.",
+   "question": "What is Mia's task?",
+   "correct": "To make the lemonade",
+   "other": "To bring the cakes on Sunday",
+   "reading": "Ms. Reed asks her class to choose a project for the school fair. She says, “Which project is best for us? Let us vote today.” Mia says, “Let’s work together on a stall. Our stall can sell lemonade and cakes.” Noah says, “That is a good idea. My task is to bring the cakes, and Mia’s task is to make the lemonade.” Mia smiles and says, “Yes, I like the stall. It is a good project for our class.” Noah says, “Good. We will vote for the stall, and start our work together.”",
+   "readingQ": "What will the stall sell?",
+   "readingA": "Lemonade and cakes.",
+   "speaking": "Choose a project for the class with a partner. Say the two ideas, say your task, and say you want to work together.",
+   "speakingSample": "Ms. Reed asks us to choose a project for the school fair. We can have a stall. My task is to make the lemonade. Noah’s task is to bring the cakes. Let’s work together on the stall. We will vote for the stall, and then we can start our work.",
+   "writing": "Write 45–65 words about a project for the class fair. Say the two ideas, say your task, and say you want to work together.",
+   "writingSample": "Ms. Reed asks us to choose a project for the school fair. We can have a stall, and our stall can sell lemonade and small cakes. My task is to make the lemonade. Noah’s task is to bring the cakes. Let’s work together on the stall. We will vote for the stall, and then we can start our work together.",
+   "sound": "Fair has its strongest beat on FAIR. In task, say TASK clearly. In let’s work together, say GETHER clearly at the end.",
+   "model": "Let’s work together on the fair. We will vote for the stall.",
+   "wordSample": "Our class will have a stall at the school fair.",
+   "wordTask": "What will our class have at the school fair?"
+  },
+  {
+   "unit": 29,
+   "day": 226,
+   "title": "Share the jobs for the fair",
+   "goal": "I can share the jobs for a project and say who will do what.",
+   "newItems": [
+    {
+     "word": "role",
+     "ipa": "/roʊl/",
+     "pos": "noun",
+     "definition": "Your job in a team.",
+     "example": "My role is to make the lemonade.",
+     "category": "new_word",
+     "status": "new"
+    },
+    {
+     "word": "divide",
+     "ipa": "/dɪˈvaɪd/",
+     "pos": "verb",
+     "definition": "To share jobs or things into parts.",
+     "example": "We will divide the jobs for the fair.",
+     "category": "new_word",
+     "status": "new"
+    },
+    {
+     "word": "share the work",
+     "ipa": "/ʃɛr ðə wɚk/",
+     "pos": "fixed phrase",
+     "definition": "A way to say each person does a part of a job.",
+     "example": "Let’s share the work for the fair.",
+     "category": "fixed_phrase",
+     "status": "new"
+    },
+    {
+     "word": "who will do what",
+     "ipa": "/hu wɪl du wʌt/",
+     "pos": "fixed phrase",
+     "definition": "A question to ask about each person’s job.",
+     "example": "Who will do what for the fair?",
+     "category": "fixed_phrase",
+     "status": "new"
+    },
+    {
+     "word": "do your part",
+     "ipa": "/du jʊr pɑrt/",
+     "pos": "fixed phrase",
+     "definition": "A way to say each person does their own job.",
+     "example": "Do your part, and the fair will be good.",
+     "category": "fixed_phrase",
+     "status": "new"
+    }
+   ],
+   "reviewWords": [
+    "friend",
+    "plan",
+    "time",
+    "morning",
+    "weekend"
+   ],
+   "mainWord": {
+    "word": "role",
+    "ipa": "/roʊl/",
+    "pos": "noun",
+    "definition": "Your job in a team.",
+    "example": "My role is to make the lemonade.",
+    "category": "new_word",
+    "status": "new"
+   },
+   "mainWordForms": "Role is a noun. The plural is roles. Your role is your job in a team. We ask who will do what to know each person’s role.",
+   "pronunciationTarget": {
+    "word": "role",
+    "ipa": "/roʊl/"
+   },
+   "expression": "Who will do what for the fair?",
+   "use": "Share the jobs for a project and say who will do what.",
+   "expressionTask": "Ask Noah about the jobs for the fair. Say who will do what.",
+   "grammar": "Mia’s role is + noun",
+   "pattern": "Mia’s role is + noun",
+   "task": "Mia’s ___ is the lemonade.",
+   "answer": "role",
+   "example": "Mia’s role is the lemonade.",
+   "context": [
+    "Mia and Noah share the jobs for the fair stall.",
+    "Who will do what for the fair? Let’s divide the jobs and share the work."
+   ],
+   "dialogue": [
+    "We have a stall at the fair. Who will do what for our stall?",
+    "Let’s divide the jobs. My role is to bring the cakes. What is your role?",
+    "My role is to make the lemonade in the morning. I like that job.",
+    "Good. Leo’s role is to take the money. Ana’s role is to tell people about the stall.",
+    "Let’s share the work. Do your part, and our stall will be good.",
+    "Yes. We will do our parts, and the fair will be fun for our class."
+   ],
+   "listening": "Mia and Noah share the jobs for the fair stall. Mia’s role is to make the lemonade. Noah’s role is to bring the cakes. Leo’s role is to take the money. They will share the work, and each person will do their part.",
+   "question": "What is Noah’s role?",
+   "correct": "To bring the cakes",
+   "other": "To make the lemonade in the evening",
+   "reading": "Mia and Noah share the jobs for the fair stall. Mia asks, “Who will do what for the fair?” Noah says, “Let’s divide the jobs. My role is to bring the cakes. What is your role?” Mia says, “My role is to make the lemonade. I like that job.” Noah says, “Good. Leo’s role is to take the money, and Ana’s role is to tell people about the stall.” Mia says, “Let’s share the work. Do your part, and our stall will be good.” Noah smiles and says, “Yes, we will do our parts.”",
+   "readingQ": "What is Mia’s role?",
+   "readingA": "To make the lemonade.",
+   "speaking": "Share the jobs for a fair stall with a partner. Say who will do what, say each person’s role, and say you will share the work.",
+   "speakingSample": "We will share the jobs for the fair stall. Who will do what? My role is to make the lemonade in the morning. Noah’s role is to bring the cakes. Leo’s role is to take the money. Let’s share the work. Do your part, and our stall will be good.",
+   "writing": "Write 45–65 words about the jobs for a fair stall. Say who will do what, say each person’s role, and say you will share the work.",
+   "writingSample": "We will share the jobs for the fair stall. Who will do what for the fair? My role is to make the lemonade in the morning. Noah’s role is to bring the cakes. Leo’s role is to take the money. Ana’s role is to tell people about the stall. Let’s share the work. Do your part, and our stall will be good.",
+   "sound": "Role has its strongest beat on ROLE. In divide, say VIDE clearly. In share the work, say WORK clearly at the end.",
+   "model": "My role is to make the lemonade. Let’s share the work.",
+   "wordSample": "My role is to make the lemonade.",
+   "wordTask": "What is Mia’s role for the fair?"
+  },
+  {
+   "unit": 29,
+   "day": 227,
+   "title": "Plan the money for the fair",
+   "goal": "I can talk about the money for a project and say what we can buy.",
+   "newItems": [
+    {
+     "word": "budget",
+     "ipa": "/ˈbʌdʒɪt/",
+     "pos": "noun",
+     "definition": "The money you have for a plan.",
+     "example": "Our budget for the fair is forty dollars.",
+     "category": "new_word",
+     "status": "new"
+    },
+    {
+     "word": "afford",
+     "ipa": "/əˈfɔrd/",
+     "pos": "verb",
+     "definition": "To have enough money to buy something.",
+     "example": "We can afford the lemons.",
+     "category": "new_word",
+     "status": "new"
+    },
+    {
+     "word": "how much does it cost",
+     "ipa": "/haʊ mʌtʃ dʌz ɪt kɔst/",
+     "pos": "fixed phrase",
+     "definition": "A question to ask about the price of something.",
+     "example": "How much does it cost to make lemonade?",
+     "category": "fixed_phrase",
+     "status": "new"
+    },
+    {
+     "word": "we have enough money",
+     "ipa": "/wi hæv ɪˈnʌf ˈmʌni/",
+     "pos": "fixed phrase",
+     "definition": "A way to say the money is OK for the plan.",
+     "example": "We have enough money for the lemons.",
+     "category": "fixed_phrase",
+     "status": "new"
+    },
+    {
+     "word": "we can afford it",
+     "ipa": "/wi kæn əˈfɔrd ɪt/",
+     "pos": "fixed phrase",
+     "definition": "A way to say we have enough money to buy something.",
+     "example": "We can afford it: the cups are five dollars.",
+     "category": "fixed_phrase",
+     "status": "new"
+    }
+   ],
+   "reviewWords": [
+    "friend",
+    "money",
+    "time",
+    "plan",
+    "food"
+   ],
+   "mainWord": {
+    "word": "budget",
+    "ipa": "/ˈbʌdʒɪt/",
+    "pos": "noun",
+    "definition": "The money you have for a plan.",
+    "example": "Our budget for the fair is forty dollars.",
+    "category": "new_word",
+    "status": "new"
+   },
+   "mainWordForms": "Budget is a noun. The plural is budgets. A budget is the money you have for a plan. We talk about the budget before we buy things for the fair.",
+   "pronunciationTarget": {
+    "word": "budget",
+    "ipa": "/ˈbʌdʒɪt/"
+   },
+   "expression": "How much does it cost?",
+   "use": "Talk about the money for a project and say what you can buy.",
+   "expressionTask": "Ask Noah about the money for the fair. Ask how much the lemons cost.",
+   "grammar": "How much does + noun + cost?",
+   "pattern": "How much does + noun + cost?",
+   "task": "How much does the lemonade ___?",
+   "answer": "cost",
+   "example": "How much does the lemonade cost?",
+   "context": [
+    "Mia and Noah talk about the money for the fair stall.",
+    "How much does it cost? Our budget is forty dollars, and we have enough money for the lemons."
+   ],
+   "dialogue": [
+    "Our budget for the fair is forty dollars. How much does it cost to make lemonade?",
+    "The lemons cost eight dollars, and the sugar costs three dollars.",
+    "We have enough money for the lemons and the sugar. What about the cups?",
+    "The cups cost five dollars. We can afford it.",
+    "Good. Eight and three and five is sixteen dollars. We have enough money.",
+    "Yes, our budget is forty dollars. We can buy the lemons, the sugar, and the cups."
+   ],
+   "listening": "Mia and Noah talk about the money for the fair stall. Their budget is forty dollars. The lemons cost eight dollars, and the sugar costs three dollars. The cups cost five dollars. Mia says they have enough money, and Noah says they can afford it.",
+   "question": "How much do the cups cost?",
+   "correct": "Five dollars",
+   "other": "Eight dollars",
+   "reading": "Mia and Noah talk about the money for the fair stall. Mia says, “Our budget for the fair is forty dollars. How much does it cost to make lemonade?” Noah says, “The lemons cost eight dollars, and the sugar costs three dollars.” Mia asks, “What about the cups?” Noah says, “The cups cost five dollars. We can afford it.” Mia says, “Good. Eight and three and five is sixteen dollars. We have enough money.” Noah smiles and says, “Yes, our budget is forty dollars. We can buy all the things we need.”",
+   "readingQ": "What is their budget for the fair?",
+   "readingA": "Forty dollars.",
+   "speaking": "Talk about the money for a fair stall with a partner. Say your budget, ask how much things cost, and say what you can afford.",
+   "speakingSample": "Our budget for the fair is forty dollars. How much does it cost to make lemonade? The lemons cost eight dollars, and the sugar costs three dollars. The cups cost five dollars. We have enough money. We can afford it. We can buy all the things we need.",
+   "writing": "Write 45–65 words about the money for a fair stall. Say your budget, say how much things cost, and say what you can afford.",
+   "writingSample": "Our budget for the fair is forty dollars. How much does it cost to make lemonade? The lemons cost eight dollars, and the sugar costs three dollars. The cups cost five dollars. Eight and three and five is sixteen dollars. We have enough money. We can afford it, and we can buy all the things we need for the fair.",
+   "sound": "Budget has its strongest beat on BUD. In afford, say FORD clearly. In how much does it cost, say COST clearly at the end.",
+   "model": "Our budget is forty dollars. We have enough money.",
+   "wordSample": "Our budget for the fair is forty dollars.",
+   "wordTask": "What is their budget for the fair?"
+  },
+  {
+   "unit": 29,
+   "day": 228,
+   "title": "Get the stall ready",
+   "goal": "I can get things ready for a fair and ask for help.",
+   "newItems": [
+    {
+     "word": "arrange",
+     "ipa": "/əˈreɪndʒ/",
+     "pos": "verb",
+     "definition": "To put things in the right place.",
+     "example": "We will arrange the cups on the table.",
+     "category": "new_word",
+     "status": "new"
+    },
+    {
+     "word": "we need your help",
+     "ipa": "/wi niːd jʊr hɛlp/",
+     "pos": "fixed phrase",
+     "definition": "A way to ask someone to help you.",
+     "example": "We need your help to carry the boxes.",
+     "category": "fixed_phrase",
+     "status": "new"
+    },
+    {
+     "word": "help me carry these",
+     "ipa": "/hɛlp mi ˈkæri ðiz/",
+     "pos": "fixed phrase",
+     "definition": "A way to ask someone to carry things with you.",
+     "example": "Help me carry these boxes to the stall.",
+     "category": "fixed_phrase",
+     "status": "new"
+    },
+    {
+     "word": "let's set up the stall",
+     "ipa": "/lɛts sɛt ʌp ðə stɔl/",
+     "pos": "fixed phrase",
+     "definition": "A friendly way to say it is time to make the stall ready.",
+     "example": "Let's set up the stall in the morning.",
+     "category": "fixed_phrase",
+     "status": "new"
+    },
+    {
+     "word": "get everything ready",
+     "ipa": "/ɡɛt ˈɛvriθɪŋ ˈrɛdi/",
+     "pos": "fixed phrase",
+     "definition": "A way to say make all the things ready.",
+     "example": "We need to get everything ready before ten.",
+     "category": "fixed_phrase",
+     "status": "new"
+    }
+   ],
+   "reviewWords": [
+    "friend",
+    "time",
+    "plan",
+    "morning",
+    "school"
+   ],
+   "mainWord": {
+    "word": "arrange",
+    "ipa": "/əˈreɪndʒ/",
+    "pos": "verb",
+    "definition": "To put things in the right place.",
+    "example": "We will arrange the cups on the table.",
+    "category": "new_word",
+    "status": "new"
+   },
+   "mainWordForms": "Arrange is a verb. The past form is arranged. We arrange things when we put them in the right place. We arrange the cups and the cakes on the table at the stall.",
+   "pronunciationTarget": {
+    "word": "arrange",
+    "ipa": "/əˈreɪndʒ/"
+   },
+   "expression": "Let's set up the stall.",
+   "use": "Get things ready for a fair and ask for help.",
+   "expressionTask": "Tell Leo it is time to make the stall ready. Ask him to help you carry the boxes.",
+   "grammar": "Let's set up + noun",
+   "pattern": "Let's set up + noun",
+   "task": "Let's set ___ the stall.",
+   "answer": "up",
+   "example": "Let's set up the stall.",
+   "context": [
+    "It is Friday morning. Mia and her friends get the stall ready for the fair.",
+    "Let's set up the stall. We need to get everything ready before ten."
+   ],
+   "dialogue": [
+    "It is Friday morning. Let’s set up the stall. We need to get everything ready before ten.",
+    "Good. We need your help, Ana. Help me carry these boxes to the stall.",
+    "Yes, I can help. I will arrange the cups and the cakes on the table.",
+    "Good. I will arrange the lemonade and the money box. We need your help too, Mia.",
+    "I am here. Let’s get everything ready: the cups, the cakes, and the lemonade.",
+    "Good. The stall is ready. Thank you all for your help."
+   ],
+   "listening": "It is Friday morning. Mia and her friends get the stall ready for the fair. Leo says, help me carry these boxes to the stall. Ana will arrange the cups and the cakes on the table. They need to get everything ready before ten.",
+   "question": "What will Ana arrange on the table?",
+   "correct": "The cups and the cakes",
+   "other": "The boxes and the chairs",
+   "reading": "It is Friday morning, and Mia and her friends get the stall ready for the fair. Mia says, “Let’s set up the stall. We need to get everything ready before ten.” Leo says, “Good. We need your help, Ana. Help me carry these boxes to the stall.” Ana says, “Yes, I can help. I will arrange the cups and the cakes on the table for our stall.” Noah says, “Good. I will arrange the lemonade and the money box.” Mia smiles and says, “Thank you all for your help. The stall is ready.”",
+   "readingQ": "What will Ana arrange on the table?",
+   "readingA": "The cups and the cakes.",
+   "speaking": "Get a fair stall ready with a partner. Say what to arrange, ask for help to carry things, and say you need to get everything ready.",
+   "speakingSample": "Let’s set up the stall. We need to get everything ready before ten. We need your help, Ana. Help me carry these boxes to the stall. I will arrange the cups and the cakes on the table. The stall is ready. Thank you all for your help.",
+   "writing": "Write 45–65 words about getting a fair stall ready. Say what you will arrange, ask for help to carry things, and say when it must be ready.",
+   "writingSample": "It is Friday morning, and we get the stall ready for the fair. Let’s set up the stall. We need to get everything ready before ten. We need your help, Ana. Help me carry these boxes to the stall. I will arrange the cups and the cakes on the table. Thank you all for your help. The stall is ready.",
+   "sound": "Arrange has its strongest beat on RANGE. In let’s set up the stall, say STALL clearly at the end. In get everything ready, say READY clearly at the end.",
+   "model": "I will arrange the cups on the table. Let’s set up the stall.",
+   "wordSample": "We will arrange the cups on the table.",
+   "wordTask": "What will Ana arrange on the table?"
+  },
+  {
+   "unit": 29,
+   "day": 229,
+   "title": "Solve a problem at the fair",
+   "goal": "I can talk about a problem at the fair and find a way to fix it.",
+   "newItems": [
+    {
+     "word": "progress",
+     "ipa": "/ˈprɑɡrɛs/",
+     "pos": "noun",
+     "definition": "How far along a job is.",
+     "example": "We have good progress: the stall is ready.",
+     "category": "new_word",
+     "status": "new"
+    },
+    {
+     "word": "solve",
+     "ipa": "/sɑlv/",
+     "pos": "verb",
+     "definition": "To find a good answer to a problem.",
+     "example": "We can solve this problem together.",
+     "category": "new_word",
+     "status": "new"
+    },
+    {
+     "word": "almost done",
+     "ipa": "/ˈɔlmoʊst dʌn/",
+     "pos": "fixed phrase",
+     "definition": "A way to say a job is nearly finished.",
+     "example": "We are almost done with the stall.",
+     "category": "fixed_phrase",
+     "status": "new"
+    },
+    {
+     "word": "we have a problem",
+     "ipa": "/wi hæv ə ˈprɑbləm/",
+     "pos": "fixed phrase",
+     "definition": "A way to say something is wrong.",
+     "example": "We have a problem: we have no cups.",
+     "category": "fixed_phrase",
+     "status": "new"
+    },
+    {
+     "word": "let's fix it",
+     "ipa": "/lɛts fɪks ɪt/",
+     "pos": "fixed phrase",
+     "definition": "A friendly way to say we will make something right.",
+     "example": "Let's fix it: we can buy more cups.",
+     "category": "fixed_phrase",
+     "status": "new"
+    }
+   ],
+   "reviewWords": [
+    "friend",
+    "time",
+    "plan",
+    "party",
+    "lunch"
+   ],
+   "mainWord": {
+    "word": "progress",
+    "ipa": "/ˈprɑɡrɛs/",
+    "pos": "noun",
+    "definition": "How far along a job is.",
+    "example": "We have good progress: the stall is ready.",
+    "category": "new_word",
+    "status": "new"
+   },
+   "mainWordForms": "Progress is a noun. We talk about progress when we say how far along a job is. Good progress means the work is going well.",
+   "pronunciationTarget": {
+    "word": "progress",
+    "ipa": "/ˈprɑɡrɛs/"
+   },
+   "expression": "We have a problem: we have no cups.",
+   "use": "Talk about a problem at the fair and find a way to fix it.",
+   "expressionTask": "Tell Noah about the cups. Say you have a problem and you can fix it.",
+   "grammar": "We have a problem: + sentence",
+   "pattern": "We have a problem: + sentence",
+   "task": "We have a ___: we have no cups.",
+   "answer": "problem",
+   "example": "We have a problem: we have no cups.",
+   "context": [
+    "It is ten in the morning. The stall is almost ready, but there is a problem.",
+    "We have a problem: we have no cups. Let’s fix it and buy more cups."
+   ],
+   "dialogue": [
+    "We are almost done with the stall. We have good progress today.",
+    "Yes, but we have a problem: we have no cups for the lemonade.",
+    "Oh no. We need cups. How can we solve this problem?",
+    "Let’s fix it. I can go to the shop and buy more cups now.",
+    "Good idea. The shop is near, and we have enough money.",
+    "Thank you, Leo. We will solve this problem together, and the stall will be ready."
+   ],
+   "listening": "It is ten in the morning. The stall is almost ready. Mia says they have a problem: they have no cups for the lemonade. Leo says let’s fix it. He will buy more cups at the shop. They have good progress.",
+   "question": "What is the problem?",
+   "correct": "They have no cups",
+   "other": "They have no money for the shop",
+   "reading": "It is ten in the morning, and the stall is almost ready. Mia says, “We are almost done with the stall. We have good progress today.” Noah says, “Yes, but we have a problem: we have no cups for the lemonade.” Mia asks, “How can we solve this problem?” Leo says, “Let’s fix it. I can go to the shop and buy more cups now.” Ana says, “Good idea. The shop is near.” Leo can buy the cups and come back soon. Noah smiles and says, “Thank you, Leo. We will solve this problem together.”",
+   "readingQ": "What is the problem at the stall?",
+   "readingA": "They have no cups for the lemonade.",
+   "speaking": "Talk about a problem with a partner. Say what the problem is, say how you can solve it, and say the stall is almost done.",
+   "speakingSample": "We are almost done with the stall. We have good progress today. But we have a problem: we have no cups for the lemonade. How can we solve this problem? Let’s fix it. Leo can buy more cups at the shop. Thank you, Leo.",
+   "writing": "Write 45–65 words about a problem at the fair. Say what the problem is, say how you can solve it, and say the stall is almost done.",
+   "writingSample": "It is ten in the morning, and the stall is almost ready. We are almost done with the stall. We have good progress today. But we have a problem: we have no cups for the lemonade. How can we solve this problem? Let’s fix it. Leo can go to the shop and buy more cups now. Thank you, Leo.",
+   "sound": "Progress has its strongest beat on PROG. In solve, say SOLVE clearly. In let’s fix it, say FIX clearly.",
+   "model": "We have good progress today. Let’s fix it.",
+   "wordSample": "We have good progress: the stall is ready.",
+   "wordTask": "How is their progress today?"
+  },
+  {
+   "unit": 29,
+   "day": 230,
+   "title": "Show your work at the fair",
+   "goal": "I can show my work at the fair and tell people about it.",
+   "newItems": [
+    {
+     "word": "display",
+     "ipa": "/dɪˈspleɪ/",
+     "pos": "verb",
+     "definition": "To put things where people can see them.",
+     "example": "We will display the cakes on the table.",
+     "category": "new_word",
+     "status": "new"
+    },
+    {
+     "word": "proud",
+     "ipa": "/praʊd/",
+     "pos": "adjective",
+     "definition": "Happy about your work or your team.",
+     "example": "We are proud today: our stall looks good.",
+     "category": "new_word",
+     "status": "new"
+    },
+    {
+     "word": "let me show you",
+     "ipa": "/lɛt mi ʃoʊ ju/",
+     "pos": "fixed phrase",
+     "definition": "A friendly way to start to show something.",
+     "example": "Let me show you our stall.",
+     "category": "fixed_phrase",
+     "status": "new"
+    },
+    {
+     "word": "this is our project",
+     "ipa": "/ðɪs ɪz aʊr ˈprɑdʒɛkt/",
+     "pos": "fixed phrase",
+     "definition": "A way to say the work you made together.",
+     "example": "This is our project: a stall at the school fair.",
+     "category": "fixed_phrase",
+     "status": "new"
+    },
+    {
+     "word": "we made this",
+     "ipa": "/wi meɪd ðɪs/",
+     "pos": "fixed phrase",
+     "definition": "A way to say you made something with your team.",
+     "example": "We made this lemonade this morning.",
+     "category": "fixed_phrase",
+     "status": "new"
+    }
+   ],
+   "reviewWords": [
+    "friend",
+    "plan",
+    "time",
+    "school",
+    "party"
+   ],
+   "mainWord": {
+    "word": "display",
+    "ipa": "/dɪˈspleɪ/",
+    "pos": "verb",
+    "definition": "To put things where people can see them.",
+    "example": "We will display the cakes on the table.",
+    "category": "new_word",
+    "status": "new"
+   },
+   "mainWordForms": "Display is a verb. The past form is displayed. We display things when we put them where people can see them. We display the cakes and the lemonade on the table.",
+   "pronunciationTarget": {
+    "word": "display",
+    "ipa": "/dɪˈspleɪ/"
+   },
+   "expression": "Let me show you our project.",
+   "use": "Show your work at the fair and tell people about it.",
+   "expressionTask": "Show a visitor your stall. Say this is your project and you made it.",
+   "grammar": "Let me show you + noun",
+   "pattern": "Let me show you + noun",
+   "task": "Let me ___ you our stall.",
+   "answer": "show",
+   "example": "Let me show you our stall.",
+   "context": [
+    "It is eleven in the morning. People come to the fair, and Mia shows them the stall.",
+    "Let me show you our project. We made this lemonade this morning."
+   ],
+   "photo": {
+    "id": "28256960",
+    "asset": "assets/a2-photos/28256960.jpg",
+    "sourceURL": "https://www.pexels.com/photo/a-food-stand-with-a-sign-that-says-food-28256960/",
+    "credit": "Mik Dominguez · Pexels",
+    "licenseURL": "https://www.pexels.com/license/",
+    "caption": "A bright lemonade stand at a fairground in the evening.",
+    "alt": "A lemonade stand with lights at a fairground in the evening.",
+    "fit": "cover",
+    "focalY": 0.5,
+    "dimensions": [
+     1400,
+     1119
+    ]
+   },
+   "dialogue": [
+    "Let me show you our project. This is our project: a stall at the school fair.",
+    "We made this lemonade this morning. We display the cakes on the table.",
+    "Look at our stall. We are proud today: our stall looks good.",
+    "Yes, we are proud. We made this lemonade, and we made the cakes too.",
+    "Let me show you the money box. People can buy a cup of lemonade for two dollars.",
+    "Thank you for coming to our stall. We are happy to show you our work."
+   ],
+   "listening": "It is eleven in the morning. People come to the fair, and Mia shows them the stall. She says, let me show you our project. Noah says they made the lemonade this morning. They display the cakes on the table, and they are proud today.",
+   "question": "What did they make this morning?",
+   "correct": "The lemonade",
+   "other": "The money box for the fair",
+   "reading": "It is eleven in the morning, and people come to the fair. Mia says, “Let me show you our project. This is our project, a stall at the school fair.” Noah says, “We made this lemonade this morning. We display the cakes on the table.” Ana says, “Look at our stall. We are proud today: our stall looks good.” Leo says, “Yes, we are proud. We made this lemonade, and we made the cakes too.” Mia smiles and says, “Thank you for coming to our stall. People like the lemonade and the cakes very much.”",
+   "readingQ": "What did they make this morning?",
+   "readingA": "The lemonade.",
+   "speaking": "Show your work to a partner. Say this is your project, say what you made, and say you feel proud today.",
+   "speakingSample": "Let me show you our project. This is our stall at the school fair. We made this lemonade this morning. We display the cakes on the table. We are proud today: our stall looks good. Look at our stall. It looks good. Thank you for coming.",
+   "writing": "Write 45–65 words about showing your work at the fair. Say this is your project, say what you made, and say you feel proud today.",
+   "writingSample": "It is eleven in the morning, and people come to the fair. Let me show you our project. This is our stall at the school fair. We made this lemonade this morning. We display the cakes on the table. We are proud today: our stall looks good. People like our work. Thank you for coming to our stall.",
+   "sound": "Display has its strongest beat on SPLAY. In proud, say PROUD clearly. In let me show you, say YOU clearly at the end.",
+   "model": "We display the cakes on the table. Let me show you our project.",
+   "wordSample": "We will display the cakes on the table.",
+   "wordTask": "What will they display on the table?"
+  },
+  {
+   "unit": 29,
+   "day": 231,
+   "title": "Finish the fair and say thank you",
+   "goal": "I can finish a project and thank the people who helped.",
+   "newItems": [
+    {
+     "word": "complete",
+     "ipa": "/kəmˈpliːt/",
+     "pos": "verb",
+     "definition": "To finish all the parts of a job.",
+     "example": "We will complete our project today.",
+     "category": "new_word",
+     "status": "new"
+    },
+    {
+     "word": "we did it",
+     "ipa": "/wi dɪd ɪt/",
+     "pos": "fixed phrase",
+     "definition": "A happy way to say a job is finished.",
+     "example": "We did it! The fair is over.",
+     "category": "fixed_phrase",
+     "status": "new"
+    },
+    {
+     "word": "great work",
+     "ipa": "/ɡreɪt wɚk/",
+     "pos": "fixed phrase",
+     "definition": "A warm way to say someone did a good job.",
+     "example": "Great work, everyone! Our stall was good.",
+     "category": "fixed_phrase",
+     "status": "new"
+    },
+    {
+     "word": "that was a lot of work",
+     "ipa": "/ðæt wʌz ə lɑt ʌv wɚk/",
+     "pos": "fixed phrase",
+     "definition": "A way to say a job was big and hard.",
+     "example": "That was a lot of work, but we did it.",
+     "category": "fixed_phrase",
+     "status": "new"
+    },
+    {
+     "word": "all done",
+     "ipa": "/ɔl dʌn/",
+     "pos": "fixed phrase",
+     "definition": "A way to say a job is finished.",
+     "example": "All done! The stall is clean now.",
+     "category": "fixed_phrase",
+     "status": "new"
+    }
+   ],
+   "reviewWords": [
+    "friend",
+    "time",
+    "plan",
+    "weekend",
+    "party"
+   ],
+   "mainWord": {
+    "word": "complete",
+    "ipa": "/kəmˈpliːt/",
+    "pos": "verb",
+    "definition": "To finish all the parts of a job.",
+    "example": "We will complete our project today.",
+    "category": "new_word",
+    "status": "new"
+   },
+   "mainWordForms": "Complete is a verb. The past form is completed. We complete a job when we finish all its parts. We complete our project when the fair is over.",
+   "pronunciationTarget": {
+    "word": "complete",
+    "ipa": "/kəmˈpliːt/"
+   },
+   "expression": "We did it! Our project is complete.",
+   "use": "Finish a project and thank the people who helped.",
+   "expressionTask": "Tell your friends the fair is over. Say you did it and thank them.",
+   "grammar": "That was a lot of + noun",
+   "pattern": "That was a lot of + noun",
+   "task": "That was a lot of ___.",
+   "answer": "work",
+   "example": "That was a lot of work.",
+   "context": [
+    "It is four in the afternoon. The fair is over, and the stall is empty.",
+    "We did it! Our project is complete. All done!"
+   ],
+   "dialogue": [
+    "We did it! The fair is over, and our project is complete.",
+    "Great work, everyone! We sold all the lemonade and all the cakes.",
+    "That was a lot of work, but we did it. Thank you all for your help.",
+    "Yes, thank you. All done! The stall is clean now, and the money is in the box.",
+    "We made forty dollars for our class. That is good work for one day.",
+    "Yes. Great work, Mia. Let us do another project next time."
+   ],
+   "listening": "It is four in the afternoon. The fair is over. Mia says they did it: their project is complete. Noah says great work, everyone. They sold all the lemonade and all the cakes. That was a lot of work, but they are all done now.",
+   "question": "What did they sell?",
+   "correct": "All the lemonade and all the cakes",
+   "other": "All the cups and the money box",
+   "reading": "It is four in the afternoon, and the fair is over. Mia says, “We did it! The fair is over, and our project is complete.” Noah says, “Great work, everyone! We sold all the lemonade and all the cakes.” Mia says, “That was a lot of work, but we did it. Thank you all for your help.” Noah says, “Yes, thank you. All done! The stall is clean now, and the money is in the box.” Mia smiles and says, “We made forty dollars for our class. They are happy and tired.”",
+   "readingQ": "How much money did they make for the class?",
+   "readingA": "Forty dollars.",
+   "speaking": "Finish a project with a partner. Say you did it, say it was a lot of work, and thank your friends.",
+   "speakingSample": "We did it! The fair is over, and our project is complete. Great work, everyone! We sold all the lemonade and all the cakes. That was a lot of work, but we did it. All done! Thank you all for your help. We are happy.",
+   "writing": "Write 45–65 words about finishing a fair stall. Say you did it, say what you sold, and thank your friends.",
+   "writingSample": "It is four in the afternoon, and the fair is over. We did it! Our project is complete. Great work, everyone! We sold all the lemonade and all the cakes. That was a lot of work, but we did it. All done! The stall is clean now. We made forty dollars for our class. Thank you all for your help.",
+   "sound": "Complete has its strongest beat on PLETE. In we did it, say DID clearly. In great work, say WORK clearly at the end.",
+   "model": "We did it! Our project is complete.",
+   "wordSample": "We will complete our project today.",
+   "wordTask": "Is their project complete now?"
+  },
+  {
+   "unit": 29,
+   "day": 232,
+   "title": "Use projects in a new situation",
+   "goal": "I can plan a new project, ask for help, and talk about money in a new situation.",
+   "newItems": [
+    {
+     "word": "donate",
+     "ipa": "/ˈdoʊneɪt/",
+     "pos": "verb",
+     "definition": "To give something to help other people.",
+     "example": "You can donate your old books.",
+     "category": "new_word",
+     "status": "new"
+    },
+    {
+     "word": "charity",
+     "ipa": "/ˈtʃærəti/",
+     "pos": "noun",
+     "definition": "Help for people who need it; a group that gives help.",
+     "example": "The charity helps children in our town.",
+     "category": "new_word",
+     "status": "new"
+    },
+    {
+     "word": "a charity book sale",
+     "ipa": "/ə ˈtʃærəti bʊk seɪl/",
+     "pos": "fixed phrase",
+     "definition": "A sale of books to get money to help people.",
+     "example": "We will have a charity book sale at school.",
+     "category": "fixed_phrase",
+     "status": "new"
+    },
+    {
+     "word": "give books to",
+     "ipa": "/ɡɪv bʊks tu/",
+     "pos": "fixed phrase",
+     "definition": "A way to say you hand books to someone.",
+     "example": "Give your books to Emma and Ben.",
+     "category": "fixed_phrase",
+     "status": "new"
+    },
+    {
+     "word": "raise money",
+     "ipa": "/reɪz ˈmʌni/",
+     "pos": "fixed phrase",
+     "definition": "A way to say you get money to help people.",
+     "example": "We want to raise money for the library.",
+     "category": "fixed_phrase",
+     "status": "new"
+    }
+   ],
+   "reviewWords": [
+    "friend",
+    "time",
+    "plan",
+    "place",
+    "date"
+   ],
+   "mainWord": {
+    "word": "donate",
+    "ipa": "/ˈdoʊneɪt/",
+    "pos": "verb",
+    "definition": "To give something to help other people.",
+    "example": "You can donate your old books.",
+    "category": "new_word",
+    "status": "new"
+   },
+   "mainWordForms": "Donate is a verb. The past form is donated. We donate things when we give them to help other people. You can donate old books to a charity book sale.",
+   "pronunciationTarget": {
+    "word": "donate",
+    "ipa": "/ˈdoʊneɪt/"
+   },
+   "expression": "We want to raise money for the library.",
+   "use": "Plan a new project, ask for help, and talk about money in a new situation.",
+   "expressionTask": "Emma and Ben plan a book sale. Help them ask people to give books and raise money.",
+   "grammar": "Give + noun + to + person",
+   "pattern": "Give + noun + to + person",
+   "task": "Give your books ___ Emma and Ben.",
+   "answer": "to",
+   "example": "Give your books to Emma and Ben.",
+   "context": [
+    "Emma and Ben plan a new project: a charity book sale for the school library.",
+    "We want to raise money for the library. Give your books to Emma and Ben."
+   ],
+   "dialogue": [
+    "Ben, let us plan a new project for our school: a charity book sale.",
+    "Good idea. We want to raise money for the library. How can we start?",
+    "First, ask people to donate their old books. People can give books to us at school.",
+    "Yes. The charity helps children in our town. Our books can help them too.",
+    "We will have the sale on Saturday at ten in the library. Tell your friends.",
+    "Good. We want to raise money for new books. Thank you all for your help."
+   ],
+   "listening": "Emma and Ben plan a charity book sale for the school library. They want to raise money for new books. People can donate old books. Give books to Emma and Ben. The sale is on Saturday at ten in the library.",
+   "question": "When is the book sale?",
+   "correct": "On Saturday at ten",
+   "other": "On Sunday at four",
+   "reading": "Emma and Ben plan a new project for their school: a charity book sale. Emma says, “We want to raise money for the library. The charity helps children in our town.” Ben says, “Good idea. How can we start?” Emma says, “First, ask people to donate their old books. People can give books to us at school.” Ben says, “Good. We will have the sale on Saturday at ten in the library.” Emma smiles and says, “Tell your friends. Give books to us at school, and help us raise money for new books.”",
+   "readingQ": "What do Emma and Ben want to raise money for?",
+   "readingA": "For the library.",
+   "speaking": "Plan a charity book sale with a partner. Say what the sale is, ask people to donate books, and say when the sale is.",
+   "speakingSample": "We want to have a charity book sale at school. We want to raise money for the library. Please donate your old books. Give books to Emma and Ben at school. The sale is on Saturday at ten in the library. Thank you all for your help.",
+   "writing": "Write 45–65 words about a charity book sale. Say what the sale is, ask people to donate books, and say when the sale is.",
+   "writingSample": "Emma and Ben plan a charity book sale for the school library. We want to raise money for the library. Please donate your old books. Give books to Emma and Ben at school. The sale is on Saturday at ten in the library. Tell your friends. The charity helps children in our town. Thank you all for your help.",
+   "sound": "Donate has its strongest beat on NATE. In charity, say CHAR clearly. In raise money, say MONEY clearly at the end.",
+   "model": "You can donate your old books. We want to raise money for the library.",
+   "wordSample": "You can donate your old books.",
+   "wordTask": "What can people donate for the book sale?",
+   "transferCheck": {
+    "source": "On Monday, Emma and Ben plan a new project for their school: a charity book sale for the school library. They want to raise money for new books. Emma asks people to donate their old books. People can give books to Emma and Ben at school. Ben will tell his friends about the sale. The sale is on Saturday at ten in the library. All the books cost one dollar. Ben will take the money, and Emma will help people choose books.",
+    "tasks": [
+     [
+      "1 · Identify the people and the project",
+      "Who plans the book sale, and what is the project?"
+     ],
+     [
+      "2 · Work out the place, the day and the time",
+      "Where is the sale, and on which day and at what time is it?"
+     ],
+     [
+      "3 · Notice what people can give",
+      "What can people donate, and to whom do they give the books?"
+     ],
+     [
+      "4 · Listen and write",
+      "Write the sentence you hear."
+     ],
+     [
+      "5 · Retell and answer",
+      "Tell the book sale plan in order, including the people, the project, the place, the day, the time, and what people can give. Then answer one follow-up question."
+     ]
+    ],
+    "dictation": "We want to raise money for the library.",
+    "answer": "1. Emma and Ben plan a charity book sale for the school library. 2. The sale is in the library on Saturday at ten. 3. People can donate old books and give books to Emma and Ben. 4. We want to raise money for the library. 5. Sample: Emma and Ben plan a charity book sale for the school library. They want to raise money for new books. People can donate old books and give books to Emma and Ben at school. The sale is in the library on Saturday at ten. All the books cost one dollar. Ben will take the money, and Emma will help people choose books. Follow-up: When is the sale? On Saturday at ten."
+   }
+  }
+ ]
+}

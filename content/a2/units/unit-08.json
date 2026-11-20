@@ -1,0 +1,861 @@
+{
+  "number": 8,
+  "title": "Work and everyday responsibilities",
+  "lessons": [
+    {
+      "day": 57,
+      "unit": 8,
+      "title": "Explain who does what at work",
+      "goal": "I can explain who does what at work.",
+      "newItems": [
+        {
+          "word": "boss",
+          "ipa": "/bɔs/",
+          "pos": "noun",
+          "definition": "A person who tells you what to do at work.",
+          "example": "I ask my boss which delivery to prepare first.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "colleague",
+          "ipa": "/ˈkɑliɡ/",
+          "pos": "noun",
+          "definition": "A person you work with.",
+          "example": "My colleague shows me where to keep the order forms.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "staff",
+          "ipa": "/stæf/",
+          "pos": "noun",
+          "definition": "The people who work for a company or in a place such as a hotel.",
+          "example": "The cafe has six members of staff.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "company",
+          "ipa": "/ˈkʌmpəni/",
+          "pos": "noun",
+          "definition": "An organization that makes or sells things or provides services.",
+          "example": "The company delivers food to local shops.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "business",
+          "ipa": "/ˈbɪznəs/",
+          "pos": "noun",
+          "definition": "The activity of buying and selling things or providing services for money.",
+          "example": "The cafe does most of its business at lunchtime.",
+          "category": "new_word",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "work",
+        "job",
+        "help",
+        "customer",
+        "shop"
+      ],
+      "mainWord": {
+        "word": "boss",
+        "ipa": "/bɔs/",
+        "pos": "noun",
+        "definition": "A person who tells you what to do at work.",
+        "example": "I ask my boss which delivery to prepare first.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Noun: boss; plural: bosses. Your boss directs your work. A colleague works with you but is not necessarily your boss.",
+      "wordTask": "You need to know which order to prepare first. Ask the person who directs your work.",
+      "wordSample": "Could I ask my boss which order to prepare first?",
+      "expression": "Who should I ask about this?",
+      "use": "Find the right person for a question when you are new to a workplace or activity.",
+      "context": [
+        "I do not know which order comes first. Who should I ask about this?",
+        "Ask our boss, or ask your colleague to show you the order list."
+      ],
+      "expressionTask": "You are new to a workplace. Ask who can help with two different practical questions and confirm each person’s role.",
+      "grammar": "Who for the person doing an action",
+      "pattern": "Use who to ask which person does something. In Who checks the orders?, do not add does before the main verb.",
+      "example": "Who checks the orders?",
+      "task": "___ checks the orders?",
+      "answer": "Who",
+      "sound": "Boss ends with a clear S sound. Keep it different from buzz, which has a voiced Z at the end and a different vowel.",
+      "model": "My boss checks the orders.",
+      "dialogue": [
+        "I am new here. Who should I ask about this delivery?",
+        "Our boss, Eva, decides which orders go first.",
+        "Can you show me where the forms are?",
+        "Yes. I am your colleague, and I can help with that.",
+        "How many staff members work here?",
+        "Six. Our company supplies local cafes, so lunchtime is a busy time for business."
+      ],
+      "reading": "Bella joins a small company that supplies food to cafes. Her boss decides which orders should leave first. A colleague shows her where to keep the forms and how to ask for help. There are six staff members. The company does much of its business before lunchtime, so clear information matters. Bella learns people’s names and roles rather than asking every question of the same person.",
+      "readingQ": "Who decides which orders should leave first?",
+      "readingA": "Bella’s boss decides the order of the deliveries.",
+      "writing": "Write a short introduction to a workplace. Describe two people’s roles and say whom a new person should ask for help.",
+      "listening": "Welcome to the morning group. Ask Eva about delivery priorities. Ask Leon about the order forms. If a customer changes an order, tell Eva before preparing it. Please do not guess which order should leave first when the list is unclear.",
+      "question": "Who should hear about a customer’s changed order?",
+      "correct": "Eva",
+      "other": "Leon",
+      "speaking": "Introduce a new person to a workplace or volunteer group. Identify two roles and practise asking the right person about a practical problem.",
+      "speakingSample": "Welcome to our group. Eva is our boss and decides which deliveries go first. Leon is a colleague who can show you the forms. If an order changes, tell Eva before preparing it. Who should we ask if we cannot find a form? We can ask Leon.",
+      "writingSample": "Welcome to our group. Eva is our boss and decides the order of deliveries. Leon is a colleague who can show you the forms. Ask Eva if an order changes, and ask Leon where to find a form."
+    },
+    {
+      "day": 58,
+      "unit": 8,
+      "title": "Describe a job and a simple learning plan",
+      "goal": "I can describe a job and a simple learning plan.",
+      "newItems": [
+        {
+          "word": "mechanic",
+          "ipa": "/məˈkænɪk/",
+          "pos": "noun",
+          "definition": "A person whose job is to repair machines, especially vehicles.",
+          "example": "The mechanic repairs my bicycle.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "factory",
+          "ipa": "/ˈfæktəri/",
+          "pos": "noun",
+          "definition": "A place where workers use machines to make large numbers of things.",
+          "example": "The factory makes bicycles for several shops.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "training",
+          "ipa": "/ˈtreɪnɪŋ/",
+          "pos": "noun",
+          "definition": "Teaching and practice that help someone learn to do a job or activity.",
+          "example": "New workers receive training before using the equipment.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "career",
+          "ipa": "/kəˈrɪr/",
+          "pos": "noun",
+          "definition": "The work and jobs a person does during their working life.",
+          "example": "She wants a career repairing machines.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "occupation",
+          "ipa": "/ˌɑkjəˈpeɪʃən/",
+          "pos": "noun",
+          "definition": "A person’s usual job, especially when this information is requested on a form.",
+          "example": "Write mechanic as your occupation on the form.",
+          "category": "new_word",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "repair",
+        "machine",
+        "learn",
+        "form",
+        "practice"
+      ],
+      "mainWord": {
+        "word": "mechanic",
+        "ipa": "/məˈkænɪk/",
+        "pos": "noun",
+        "definition": "A person whose job is to repair machines, especially vehicles.",
+        "example": "The mechanic repairs my bicycle.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Noun: mechanic; plural: mechanics. A mechanic repairs machines. The word is different from machine, which names the equipment.",
+      "wordTask": "Your bicycle needs a repair. Name the kind of worker who may be able to help.",
+      "wordSample": "A bicycle mechanic may be able to repair it.",
+      "expression": "What training do I need?",
+      "use": "Ask what you need to learn or practise before starting a job or using unfamiliar equipment.",
+      "context": [
+        "I would like to work with bicycles. What training do I need?",
+        "Start with the introductory class, then ask about supervised practice."
+      ],
+      "expressionTask": "Ask about learning a practical job. State what you can already do and ask what you need to learn next.",
+      "grammar": "Before plus an -ing activity",
+      "pattern": "Use before plus an -ing form to show that one action should happen earlier than another activity.",
+      "example": "Ask for training before using the machine.",
+      "task": "Ask for training before ___ the machine.",
+      "answer": "using",
+      "sound": "Mechanic has three syllables with the middle one strongest. The letters CH make a K sound here, not the CH sound in chair.",
+      "model": "The mechanic repairs the machine.",
+      "dialogue": [
+        "I am interested in a career working with bicycles.",
+        "You could visit the bicycle factory to learn about the jobs there.",
+        "Could I speak to a mechanic?",
+        "Yes. You can ask about the machines and the training new workers receive.",
+        "What should I write for occupation on the visitor form?",
+        "Write your present job, or student if that describes your situation."
+      ],
+      "reading": "Fenrir visits a bicycle factory because he is thinking about a new career. A mechanic explains his daily work with the machines. New workers receive training. They watch a model and practise with a teacher before using unfamiliar equipment. On the visitor form, occupation means Fenrir’s present job, not the job he might do later. He writes student and prepares two questions about learning.",
+      "readingQ": "Why does Fenrir write student rather than mechanic on the visitor form?",
+      "readingA": "Occupation asks about his present situation, and he is currently a student.",
+      "writing": "Write a short learning plan for a job that interests you. State one skill you have and one thing you need to learn.",
+      "listening": "The factory visit begins with a short introduction in the meeting room. After that, a mechanic will answer questions. Visitors will watch a demonstration but will not operate the machines. Please bring your completed visitor form and arrive ten minutes before the start.",
+      "question": "Will visitors operate the machines during this visit?",
+      "correct": "No, they will watch a demonstration",
+      "other": "Yes, after the introduction",
+      "speaking": "Talk with a partner about a job you might like. Give a reason, explain your current situation and ask two questions about suitable training.",
+      "speakingSample": "I am a student, and I would like to learn more about becoming a bicycle mechanic. I enjoy practical work, but I have not used these machines. What training do I need? Can I visit the factory and watch a demonstration before choosing a course?",
+      "photo": {
+        "id": "8985455",
+        "asset": "assets/a2-photos/8985455.jpg",
+        "sourceURL": "https://www.pexels.com/photo/a-mechanic-repairing-a-car-8985455/",
+        "credit": "Artem Podrez · Pexels",
+        "licenseURL": "https://www.pexels.com/license/",
+        "caption": "A mechanic working on a car engine in a workshop.",
+        "alt": "A mechanic in blue coveralls using a tool under an open car hood in a workshop.",
+        "fit": "cover",
+        "focalY": 0.5,
+        "dimensions": [
+          1260,
+          709
+        ]
+      },
+      "writingSample": "I would like to learn bicycle repair. I can already check and clean my own bicycle, but I need training before using unfamiliar machines. I plan to visit the workshop, ask questions and choose a suitable introductory course."
+    },
+    {
+      "day": 59,
+      "unit": 8,
+      "title": "Compare working hours and ask about pay",
+      "goal": "I can compare working hours and ask about pay.",
+      "newItems": [
+        {
+          "word": "earn",
+          "ipa": "/ɝn/",
+          "pos": "verb",
+          "definition": "To receive money for work that you do.",
+          "example": "I earn twelve dollars an hour at the cafe.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "part-time job",
+          "ipa": "/ˌpɑrt taɪm dʒɑb/",
+          "pos": "fixed phrase",
+          "definition": "A job with fewer weekly hours than the normal full working schedule at that workplace.",
+          "example": "She has a part-time job for twelve hours a week.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "full-time job",
+          "ipa": "/ˌfʊl taɪm dʒɑb/",
+          "pos": "fixed phrase",
+          "definition": "A job with the full weekly working hours normally used at that workplace.",
+          "example": "He is looking for a full-time job.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "get paid",
+          "ipa": "/ɡɛt peɪd/",
+          "pos": "fixed phrase",
+          "definition": "To receive the money you are owed for work or a service.",
+          "example": "We get paid every Friday.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "payday",
+          "ipa": "/ˈpeɪdeɪ/",
+          "pos": "noun",
+          "definition": "The day when workers receive the money for their work.",
+          "example": "Our payday is Friday.",
+          "category": "new_word",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "hour",
+        "week",
+        "money",
+        "friday",
+        "price"
+      ],
+      "mainWord": {
+        "word": "earn",
+        "ipa": "/ɝn/",
+        "pos": "verb",
+        "definition": "To receive money for work that you do.",
+        "example": "I earn twelve dollars an hour at the cafe.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Verb: earn, earns, earned, earning. Earn money through work. Win money refers to getting it through a competition or a game; these are different actions.",
+      "wordTask": "A job pays twelve dollars an hour. Say how much a person earns for two hours of work.",
+      "wordSample": "They earn twenty-four dollars for two hours: twelve dollars plus twelve dollars.",
+      "expression": "How often do we get paid?",
+      "use": "Ask about the payment schedule, separately from asking the amount of money.",
+      "context": [
+        "I understand the hourly amount. How often do we get paid?",
+        "Every Friday. The payment covers the previous week’s work."
+      ],
+      "expressionTask": "Ask about a job’s weekly hours and payment schedule. Repeat the details to check that you understand them.",
+      "grammar": "Every plus a time period",
+      "pattern": "Use every before a singular day or time period to describe a regular schedule.",
+      "example": "We get paid every Friday.",
+      "task": "We get paid ___ Friday.",
+      "answer": "every",
+      "sound": "Earn has one syllable with a stressed American R vowel. Keep your tongue away from the roof of your mouth and finish with N.",
+      "model": "I earn twelve dollars an hour.",
+      "dialogue": [
+        "Is this a part-time job or a full-time job?",
+        "It is part-time: twelve hours each week.",
+        "How often do we get paid?",
+        "Every Friday. That is our usual payday.",
+        "And the amount is twelve dollars an hour?",
+        "Yes. Please check the written details and ask if anything is unclear."
+      ],
+      "reading": "Bella compares a part-time job with a full-time job at a cafe. The part-time role is for twelve hours a week. She can earn twelve dollars an hour. Staff get paid on Friday, their usual payday. Bella checks the hours and payment details in writing before making a choice. Full-time hours can vary between workplaces, so the label alone does not tell her the exact schedule.",
+      "readingQ": "Why does Bella check the hours rather than relying only on the label full-time?",
+      "readingA": "The normal full-time schedule can differ between workplaces.",
+      "writing": "Write a short enquiry asking about weekly hours, the payment amount and the day when payment is made.",
+      "listening": "The Saturday cafe role is for six hours each week. The amount is twelve dollars an hour. Payment is made every Friday for the previous week’s work. A person who wants more than six hours should ask about other available roles rather than assume extra hours are included.",
+      "question": "How many hours are included in the Saturday role?",
+      "correct": "Six hours each week",
+      "other": "Twelve hours each week",
+      "speaking": "Compare a job’s schedule with your own availability. Ask about hours and pay, then explain whether the arrangement suits you.",
+      "speakingSample": "I am available on Saturdays, so six hours each week could suit me. To confirm, the amount is twelve dollars an hour, and we get paid on Friday for the previous week. Are those details also written in the job information? I would like to check before deciding.",
+      "writingSample": "Hello, I am interested in the advertised job. How many hours are included each week? Please confirm the hourly payment amount and the day workers receive their pay. I would like to check these details before applying."
+    },
+    {
+      "day": 60,
+      "unit": 8,
+      "title": "Agree on a small project and a completion time",
+      "goal": "I can agree on a small project and a completion time.",
+      "newItems": [
+        {
+          "word": "project",
+          "ipa": "/ˈprɑdʒɛkt/",
+          "pos": "noun",
+          "definition": "A planned piece of work with a particular aim, often involving several activities.",
+          "example": "Our project is to prepare a welcome table for visitors.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "experience",
+          "ipa": "/ɪkˈspɪriəns/",
+          "pos": "noun",
+          "definition": "Knowledge or ability gained by doing something in real situations.",
+          "example": "She has experience organizing small events.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "team meeting",
+          "ipa": "/ˈtim ˌmitɪŋ/",
+          "pos": "fixed phrase",
+          "definition": "A planned discussion between people working together.",
+          "example": "We agree on the jobs at a short team meeting.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "by the end of",
+          "ipa": "/baɪ ði ɛnd əv/",
+          "pos": "fixed phrase",
+          "definition": "No later than the time when a stated period finishes.",
+          "example": "Please send the list by the end of Thursday.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "in charge of",
+          "ipa": "/ɪn tʃɑrdʒ əv/",
+          "pos": "fixed phrase",
+          "definition": "Responsible for organizing or controlling a particular activity or thing.",
+          "example": "Fenrir is in charge of the visitor list.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "plan",
+        "group",
+        "order",
+        "help",
+        "notice"
+      ],
+      "mainWord": {
+        "word": "project",
+        "ipa": "/ˈprɑdʒɛkt/",
+        "pos": "noun",
+        "definition": "A planned piece of work with a particular aim, often involving several activities.",
+        "example": "Our project is to prepare a welcome table for visitors.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Noun: project; plural: projects. In this noun, the first syllable is strongest. A project has an aim and can include several smaller jobs.",
+      "wordTask": "You and a partner must prepare a welcome table for visitors. State the aim of this project in one sentence.",
+      "wordSample": "Our project is to prepare a clear and welcoming table for visitors.",
+      "expression": "When does it need to be ready?",
+      "use": "Ask for a clear completion time before agreeing on a practical job.",
+      "context": [
+        "I can prepare the visitor list. When does it need to be ready?",
+        "Please finish it by three, before the visitors arrive at four."
+      ],
+      "expressionTask": "Divide two jobs with a partner. Confirm who will do each one and when the work needs to be ready.",
+      "grammar": "By for a completion limit",
+      "pattern": "Use by before the latest acceptable completion time. By three means at or before three, rather than starting at three.",
+      "example": "Please finish the list by three.",
+      "task": "Please finish the list ___ three.",
+      "answer": "by",
+      "sound": "Project as a noun begins with the stronger syllable. Keep the J sound in the middle clear. The ending is short; do not add a vowel after T.",
+      "model": "The project needs to be ready by three.",
+      "dialogue": [
+        "Can we agree on the jobs for our welcome-table project?",
+        "Yes. I have experience making simple signs.",
+        "Good. You can prepare those. I will be in charge of the visitor list.",
+        "When does it need to be ready?",
+        "The signs are needed by three today, and the final list by the end of Thursday.",
+        "Let us write those times down after our team meeting."
+      ],
+      "reading": "At a team meeting, Bella and Fenrir plan a small project: a welcome table for visitors. Fenrir has experience making signs, so he takes that job. Bella is in charge of the visitor list. They agree that the signs must be ready by three. The final list is needed by the end of Thursday. Writing down the person, job and time makes the agreement clearer than saying they will both help later.",
+      "readingQ": "What three details do they write down for each job?",
+      "readingA": "They write down the person, the job and the completion time.",
+      "writing": "Write a short project message assigning two jobs. Give a person and a clear completion time for each job.",
+      "listening": "After today’s discussion, please send your visitor numbers to Bella by the end of Thursday. Fenrir will prepare the signs by three today. The welcome table opens at four on Friday. Tell the group early if you cannot complete your agreed job in time.",
+      "question": "When must the visitor numbers be sent to Bella?",
+      "correct": "By the end of Thursday",
+      "other": "At four on Friday",
+      "speaking": "Plan a small event with a partner. Discuss what each person can do, divide two jobs and confirm different completion times.",
+      "speakingSample": "Our project is a welcome table for Friday’s visitors. You have experience making signs, so could you finish those by three today? I will prepare the visitor list by the end of Thursday. Let us write down the jobs and times so that we both understand the plan.",
+      "writingSample": "For our welcome-table project, Eva will prepare the visitor list by four on Thursday. Leon will prepare the signs by five that afternoon. Please confirm that these times are possible and tell the group if either task needs help."
+    },
+    {
+      "day": 61,
+      "unit": 8,
+      "title": "Read a job notice and ask about the next step",
+      "goal": "I can read a job notice and ask about the next step.",
+      "newItems": [
+        {
+          "word": "job interview",
+          "ipa": "/dʒɑb ˈɪntɚvju/",
+          "pos": "fixed phrase",
+          "definition": "A meeting in which someone asks you questions to decide whether you are suitable for a job.",
+          "example": "My job interview is on Tuesday morning.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "apply for a job",
+          "ipa": "/əˈplaɪ fɚ ə dʒɑb/",
+          "pos": "fixed phrase",
+          "definition": "To ask formally to be considered for a job, usually by sending information about yourself.",
+          "example": "You can apply for a job through this form.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "job application",
+          "ipa": "/dʒɑb ˌæpləˈkeɪʃən/",
+          "pos": "fixed phrase",
+          "definition": "The information or form you send when asking to be considered for a job.",
+          "example": "Please send your job application before Friday.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "job advertisement",
+          "ipa": "/dʒɑb ˌædvɚˈtaɪzmənt/",
+          "pos": "fixed phrase",
+          "definition": "A public notice giving information about an available job.",
+          "example": "The job advertisement lists the hours and how to contact the cafe.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "work experience",
+          "ipa": "/wɝk ɪkˈspɪriəns/",
+          "pos": "fixed phrase",
+          "definition": "Time spent doing work and the knowledge or ability gained from it.",
+          "example": "She describes her work experience at a community event.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "job",
+        "student",
+        "form",
+        "name",
+        "experience"
+      ],
+      "mainWord": {
+        "word": "job interview",
+        "ipa": "/dʒɑb ˈɪntɚvju/",
+        "pos": "fixed phrase",
+        "definition": "A meeting in which someone asks you questions to decide whether you are suitable for a job.",
+        "example": "My job interview is on Tuesday morning.",
+        "category": "fixed_phrase",
+        "status": "new"
+      },
+      "mainWordForms": "Fixed phrase: job interview; plural: job interviews. An interview is a discussion used to learn about a person, not a promise that the person has already been given the job.",
+      "wordTask": "You have been invited to a job interview. Ask what time it begins and where to go.",
+      "wordSample": "What time does my job interview begin, and where should I go?",
+      "expression": "What is the next step?",
+      "use": "Ask what you should do after reading information or completing one part of a process.",
+      "context": [
+        "I have read the notice and completed the form. What is the next step?",
+        "Please send it to the address in the notice and wait for a reply."
+      ],
+      "expressionTask": "Ask about applying for a job. Confirm what to send, where to send it and what will happen afterwards.",
+      "grammar": "After plus a completed action",
+      "pattern": "Use after plus a clause to place one action later than another.",
+      "example": "We will reply after we read your form.",
+      "task": "We will reply ___ we read your form.",
+      "answer": "after",
+      "sound": "Interview has its strongest syllable at the beginning: IN. Keep the final V sound and the following YOO glide smooth.",
+      "model": "My job interview is on Tuesday.",
+      "dialogue": [
+        "I saw your job advertisement and would like to apply for a job.",
+        "Please send the job application from our website.",
+        "Should I include my work experience from volunteering?",
+        "Yes. Say what you actually did and when.",
+        "What is the next step after I send it?",
+        "We will reply and tell you whether we would like to arrange a job interview."
+      ],
+      "reading": "Bella reads a job advertisement for a weekend cafe role. She wants to apply for a job, so she checks the hours first. Her job application describes her real work experience helping at a community event. She does not invent a paid job. After sending the form, she waits for a reply. The cafe may invite her to a job interview to discuss her availability and what she can do.",
+      "readingQ": "Does sending the form mean Bella already has the job?",
+      "readingA": "No. The cafe still needs to read it and decide whether to arrange an interview.",
+      "writing": "Write a short job enquiry giving your availability and one real example of something you can do. Ask about the next step.",
+      "listening": "Thank you for your form. We would like to meet you on Tuesday at ten at our cafe. Please bring the list of dates when you are available. You do not need to bring printed copies of your form because we already have it.",
+      "question": "What should the person bring to the meeting?",
+      "correct": "A list of available dates",
+      "other": "Printed copies of the form",
+      "speaking": "Act as a person enquiring about a simple role. Describe real experience and availability, ask what to send and confirm the next step.",
+      "speakingSample": "I would like to apply for the weekend cafe role. I am available on Saturdays, and I helped serve drinks at a community event. Should I describe that in the job application? What is the next step after I send the form? I can attend a meeting on Tuesday morning.",
+      "writingSample": "Hello, I am available on Saturdays and am interested in the cafe job. I have helped prepare tables at our community lunch and can explain that experience. What is the next step, and which information should I send?"
+    },
+    {
+      "day": 62,
+      "unit": 8,
+      "title": "Explain your availability and ask about a work arrangement",
+      "goal": "I can explain your availability and ask about a work arrangement.",
+      "newItems": [
+        {
+          "word": "work from home",
+          "ipa": "/wɝk frəm hoʊm/",
+          "pos": "fixed phrase",
+          "definition": "To do your job from your home rather than travel to the usual workplace.",
+          "example": "She can work from home on Wednesday.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "on duty",
+          "ipa": "/ɑn ˈduti/",
+          "pos": "fixed phrase",
+          "definition": "Working and available to carry out the responsibilities of a role at that time.",
+          "example": "The receptionist on duty can answer your question.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "off duty",
+          "ipa": "/ɔf ˈduti/",
+          "pos": "fixed phrase",
+          "definition": "Not working or responsible for a role at that time.",
+          "example": "The evening receptionist is off duty until four.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "ask for time off",
+          "ipa": "/æsk fɚ taɪm ɔf/",
+          "pos": "fixed phrase",
+          "definition": "To request permission not to work during a period when you would normally be working.",
+          "example": "I need to ask for time off for an appointment.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "call in sick",
+          "ipa": "/kɔl ɪn sɪk/",
+          "pos": "fixed phrase",
+          "definition": "To phone your workplace to say you are ill and cannot come to work.",
+          "example": "He needs to call in sick before his work begins.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "day",
+        "work",
+        "home",
+        "phone",
+        "help"
+      ],
+      "mainWord": {
+        "word": "work from home",
+        "ipa": "/wɝk frəm hoʊm/",
+        "pos": "fixed phrase",
+        "definition": "To do your job from your home rather than travel to the usual workplace.",
+        "example": "She can work from home on Wednesday.",
+        "category": "fixed_phrase",
+        "status": "new"
+      },
+      "mainWordForms": "Fixed phrase: work from home. The main verb changes: works from home, worked from home, working from home. These are forms of the same expression.",
+      "wordTask": "You need to work at your home on Wednesday. Ask whether that arrangement is possible at this workplace.",
+      "wordSample": "Is it possible for me to work from home on Wednesday?",
+      "expression": "Who should I contact if I cannot come?",
+      "use": "Check the correct person and method for reporting an absence instead of assuming a colleague will pass on a message.",
+      "context": [
+        "Who should I contact if I cannot come?",
+        "Phone the person on duty before your usual start time, following our staff instructions."
+      ],
+      "expressionTask": "Ask how to report an absence and how to request a planned change. Keep these two situations clear.",
+      "grammar": "If for a possible situation",
+      "pattern": "Use if plus a present-tense clause for a possible situation, followed by an instruction or available action.",
+      "example": "If you cannot come, phone the office.",
+      "task": "___ you cannot come, phone the office.",
+      "answer": "If",
+      "sound": "Work contains one American R vowel. In work from home, keep the F in from clear, and let home carry the main information.",
+      "model": "I can work from home on Wednesday.",
+      "dialogue": [
+        "Who should I contact if I cannot come?",
+        "Phone the colleague on duty before your usual start time.",
+        "What if I need to ask for time off for an appointment next week?",
+        "Ask our boss in advance. That is different from needing to call in sick on the day.",
+        "Can I work from home instead?",
+        "That depends on the job and the arrangement. Please ask before assuming it is possible."
+      ],
+      "reading": "Bella reads the staff instructions before beginning a new role. If she is ill and needs to call in sick, she should phone the colleague on duty. A person who is off duty may not see a message immediately. For a planned appointment, she needs to ask for time off in advance. She also asks whether she can work from home for a particular task. She checks the actual arrangement rather than assuming every workplace has the same system.",
+      "readingQ": "Why should Bella contact the person on duty rather than someone off duty?",
+      "readingA": "The person on duty is working and available to deal with the message.",
+      "writing": "Write two short messages: one reporting an unexpected absence, and one requesting time for a planned appointment.",
+      "listening": "For today’s morning group, Leon is the contact until twelve. Eva is off duty until one. If you cannot arrive, phone Leon before nine. For requests about next week’s timetable, send Eva a message and wait for her reply before changing the arrangement.",
+      "question": "Who should hear about someone being unable to arrive this morning?",
+      "correct": "Leon",
+      "other": "Eva",
+      "speaking": "Work with a partner to clarify two situations: an unexpected absence and a planned appointment. Ask about the correct contact and repeat the arrangement.",
+      "speakingSample": "If I am unable to arrive this morning, I should phone Leon before nine because he is on duty. For an appointment next week, I should send Eva a request in advance and wait for a reply. Have I understood the two arrangements correctly?",
+      "writingSample": "Absence: I am unwell and cannot attend work today. Please let me know whom I should contact about the change. Planned appointment: May I request two hours away on Friday morning for an appointment? I will confirm the exact times before we agree."
+    },
+    {
+      "day": 63,
+      "unit": 8,
+      "title": "Respond to a request for extra help at work",
+      "goal": "I can respond to a request for extra help at work.",
+      "newItems": [
+        {
+          "word": "cover a shift",
+          "ipa": "/ˈkʌvɚ ə ʃɪft/",
+          "pos": "fixed phrase",
+          "definition": "To work during another person’s scheduled period when they cannot do it.",
+          "example": "Could you cover a shift on Saturday morning?",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "work overtime",
+          "ipa": "/wɝk ˈoʊvɚtaɪm/",
+          "pos": "fixed phrase",
+          "definition": "To work longer than your usual or agreed working hours.",
+          "example": "She cannot work overtime this evening.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "at short notice",
+          "ipa": "/ət ʃɔrt ˈnoʊtɪs/",
+          "pos": "fixed phrase",
+          "definition": "With little time between being told about something and needing to act.",
+          "example": "Thank you for helping at short notice.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "workplace rules",
+          "ipa": "/ˈwɝkpleɪs rulz/",
+          "pos": "fixed phrase",
+          "definition": "Instructions that people are expected to follow in a particular place of work.",
+          "example": "Please read the workplace rules before your first day.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "health and safety",
+          "ipa": "/hɛlθ ən ˈseɪfti/",
+          "pos": "fixed phrase",
+          "definition": "The practices and arrangements intended to protect people from illness or injury during an activity or at work.",
+          "example": "The first session explains the site’s health and safety arrangements.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "staff",
+        "boss",
+        "colleague",
+        "hour",
+        "week"
+      ],
+      "mainWord": {
+        "word": "cover a shift",
+        "ipa": "/ˈkʌvɚ ə ʃɪft/",
+        "pos": "fixed phrase",
+        "definition": "To work during another person’s scheduled period when they cannot do it.",
+        "example": "Could you cover a shift on Saturday morning?",
+        "category": "fixed_phrase",
+        "status": "new"
+      },
+      "mainWordForms": "Fixed phrase: cover a shift. Cover means temporarily do the work of someone who is absent here; it is not the physical meaning of placing something over an object.",
+      "wordTask": "A colleague asks you to work their Saturday period, but you are only free after twelve. Give a clear, honest answer.",
+      "wordSample": "I cannot cover the morning period, but I am available after twelve. Would that help?",
+      "expression": "I can help for part of that time.",
+      "use": "Offer the amount of help you can actually provide without agreeing to an entire period you cannot manage.",
+      "context": [
+        "Could you help from ten until two?",
+        "I can help for part of that time. I am free from twelve until two."
+      ],
+      "expressionTask": "Respond to a request for help. State an exact available period and ask the other person to confirm whether it is useful.",
+      "grammar": "From and until for an available period",
+      "pattern": "Use from for the beginning and until for the end of a period.",
+      "example": "I am free from twelve until two.",
+      "task": "I am free from twelve ___ two.",
+      "answer": "until",
+      "sound": "Cover has two syllables with the first stronger. In cover a shift, keep the final FT in shift short without adding another vowel.",
+      "model": "I can cover a shift on Saturday.",
+      "dialogue": [
+        "Could you cover a shift at short notice tomorrow?",
+        "I can help for part of that time. I am free from twelve until two.",
+        "That would help. Could you also work overtime in the evening?",
+        "I cannot stay in the evening. Do I need any information before joining the new team?",
+        "Yes. Please read their workplace rules and attend the health and safety introduction.",
+        "All right. Please confirm the time and place for that introduction."
+      ],
+      "reading": "A colleague asks Bella to cover a shift at short notice. Bella can help from twelve until two, but she cannot work overtime in the evening. She gives exact times instead of simply saying yes. The work is in a different part of the building, so she checks the workplace rules and the health and safety introduction. She asks what she needs to know before agreeing to an unfamiliar task.",
+      "readingQ": "Why does Bella give exact times rather than simply agreeing to help?",
+      "readingA": "She can only help for part of the requested period and wants the arrangement to be clear.",
+      "writing": "Write a reply to a request for extra help. Say when you are available, what you cannot do and one detail you need confirmed.",
+      "listening": "Thank you for helping tomorrow. Your agreed period is twelve until two. Please arrive at reception at eleven forty-five for the site introduction. You will meet Leon there. Tell us before tomorrow if these arrangements no longer suit your availability.",
+      "question": "When should the helper arrive for the introduction?",
+      "correct": "Eleven forty-five",
+      "other": "Twelve o’clock",
+      "speaking": "Ask a partner for help with an activity. They can only manage part of the time. Agree on exact times and clarify what they need to know before starting.",
+      "speakingSample": "I can help from twelve until two, but I cannot stay in the evening. Please confirm whether those two hours would be useful. I understand that I should arrive at reception at eleven forty-five for the introduction. Who will explain the tasks before I begin?",
+      "writingSample": "I can help from two until four on Saturday, but I cannot stay later because of another arrangement. Please confirm the task and whether any additional training is needed before I begin."
+    },
+    {
+      "day": 64,
+      "unit": 8,
+      "title": "Complete a simple work record and hand over clearly",
+      "goal": "I can complete a simple work record and hand over clearly.",
+      "newItems": [
+        {
+          "word": "check off",
+          "ipa": "/tʃɛk ɔf/",
+          "pos": "fixed phrase",
+          "definition": "To mark items on a list to show that they have been checked or completed.",
+          "example": "Check off each item after you have counted it.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "sign in",
+          "ipa": "/saɪn ɪn/",
+          "pos": "fixed phrase",
+          "definition": "To record your name when you arrive at a place or begin a session.",
+          "example": "Visitors sign in at reception.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "sign out",
+          "ipa": "/saɪn aʊt/",
+          "pos": "fixed phrase",
+          "definition": "To record that you are leaving a place or ending a session.",
+          "example": "Please sign out before leaving the building.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "keep a record",
+          "ipa": "/kip ə ˈrɛkɚd/",
+          "pos": "fixed phrase",
+          "definition": "To save information so that it can be checked or used later.",
+          "example": "Keep a record of the items you have checked.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "finish work",
+          "ipa": "/ˈfɪnɪʃ wɝk/",
+          "pos": "fixed phrase",
+          "definition": "To stop doing your job or scheduled work for that period.",
+          "example": "I finish work at four today.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "project",
+        "training",
+        "company",
+        "experience",
+        "earn"
+      ],
+      "mainWord": {
+        "word": "check off",
+        "ipa": "/tʃɛk ɔf/",
+        "pos": "fixed phrase",
+        "definition": "To mark items on a list to show that they have been checked or completed.",
+        "example": "Check off each item after you have counted it.",
+        "category": "fixed_phrase",
+        "status": "new"
+      },
+      "mainWordForms": "Fixed phrase: check off; checks off; checked off; checking off. With an object pronoun, say check it off. Checking an item off should show a real check or completed action.",
+      "wordTask": "You have counted six chairs on a list that requires six. Say what you can do to that list item now.",
+      "wordSample": "I can check off the chairs because I have counted all six.",
+      "expression": "What still needs to be done?",
+      "use": "Ask about unfinished work so that the next person does not assume everything is complete.",
+      "context": [
+        "I have counted the chairs and prepared the table. What still needs to be done?",
+        "The visitor signs are ready, but they still need to be put beside the door."
+      ],
+      "expressionTask": "Hand over a small job. State two completed actions, identify one unfinished action and confirm who will do it next.",
+      "grammar": "Still for something that remains true",
+      "pattern": "Use still before need to show that an action remains necessary.",
+      "example": "We still need to put up the signs.",
+      "task": "We ___ need to put up the signs.",
+      "answer": "still",
+      "sound": "Check off links the final K of check to the vowel at the start of off. Keep the two parts clear without inserting an extra vowel after K.",
+      "model": "Check off the chairs on the list.",
+      "dialogue": [
+        "Before I finish work, can we check the visitor-room list?",
+        "Yes. Did you sign in when you arrived?",
+        "I did. I have checked off the chairs and prepared the table. What still needs to be done?",
+        "The signs still need to be placed beside the door.",
+        "I will keep a record of that for the next colleague.",
+        "Thank you. Please sign out before you leave."
+      ],
+      "reading": "Bella remembers to sign in when she arrives. She uses a list to check off completed jobs and keep a record for the next colleague. Before she can finish work, she confirms what is still unfinished. The chairs and table are ready, but the signs need to be placed beside the door. She writes that clearly and remembers to sign out. A useful record shows what was actually done, not just what someone hoped to finish.",
+      "readingQ": "What should the next colleague know about the signs?",
+      "readingA": "The signs are ready, but someone still needs to put them beside the door.",
+      "writing": "Write a short handover note. Name two completed jobs and one unfinished job, with a clear next action.",
+      "listening": "At the end of your session, check the room list and write down unfinished jobs for the next helper. Return the visitor folder to reception. Record your leaving time at the same desk. Please do not mark a job complete if someone still needs to do part of it.",
+      "question": "Where should the visitor folder be returned?",
+      "correct": "To reception",
+      "other": "To the visitor-room table",
+      "speaking": "Complete a small team task with a partner. Confirm the instructions, give an accurate progress report, leave a useful record and agree who will do the remaining action.",
+      "speakingSample": "The six chairs are counted, and the table is ready. The signs have been prepared, but they still need to go beside the door. I will record that clearly for the next helper. Could you confirm who will place them there? Then I can return the folder and sign out.",
+      "writingSample": "Handover: The six chairs have been counted, and the table is ready. The signs are prepared but are not yet beside the door. Please ask the next helper to place them there and confirm when that final job is done."
+    }
+  ]
+}

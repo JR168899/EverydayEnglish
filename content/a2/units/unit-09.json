@@ -1,0 +1,861 @@
+{
+  "number": 9,
+  "title": "Classes and study habits",
+  "lessons": [
+    {
+      "day": 65,
+      "unit": 9,
+      "title": "Use a word resource during a lesson",
+      "goal": "I can use a word resource during a lesson.",
+      "newItems": [
+        {
+          "word": "dictionary",
+          "ipa": "/ˈdɪkʃəˌnɛri/",
+          "pos": "noun",
+          "definition": "A book or digital resource that explains words, often with their pronunciation and examples.",
+          "example": "The dictionary gives a simple example of the word.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "lesson",
+          "ipa": "/ˈlɛsən/",
+          "pos": "noun",
+          "definition": "A period of time when someone teaches you a subject or skill.",
+          "example": "Our English lesson starts at six.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "textbook",
+          "ipa": "/ˈtɛkstˌbʊk/",
+          "pos": "noun",
+          "definition": "A book used for studying a particular subject.",
+          "example": "Bring your textbook to the next lesson.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "take notes",
+          "ipa": "/teɪk noʊts/",
+          "pos": "fixed phrase",
+          "definition": "To write short pieces of information so that you can remember them.",
+          "example": "I take notes rather than copy every sentence.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "pencil case",
+          "ipa": "/ˈpɛnsəl keɪs/",
+          "pos": "fixed phrase",
+          "definition": "A small container for carrying pens, pencils and similar items.",
+          "example": "I keep a pen and an eraser in my pencil case.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "class",
+        "teacher",
+        "page",
+        "meaning",
+        "help"
+      ],
+      "mainWord": {
+        "word": "dictionary",
+        "ipa": "/ˈdɪkʃəˌnɛri/",
+        "pos": "noun",
+        "definition": "A book or digital resource that explains words, often with their pronunciation and examples.",
+        "example": "The dictionary gives a simple example of the word.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Noun: dictionary; plural: dictionaries. Change the final Y to IES in the plural. A bilingual dictionary gives information in two languages; a learner’s dictionary explains words for people studying the language.",
+      "wordTask": "You want to check a word’s meaning and pronunciation. Name a reference resource you could use.",
+      "wordSample": "I could use a dictionary to check the word’s meaning and pronunciation.",
+      "expression": "Which meaning fits here?",
+      "use": "Ask which meaning of a word matches the sentence you are reading.",
+      "context": [
+        "This word has two meanings. Which meaning fits here?",
+        "Read the whole sentence and compare the examples."
+      ],
+      "expressionTask": "Choose a word with two meanings from a familiar text. Ask which meaning matches the sentence and explain your choice.",
+      "grammar": "When for a repeated situation",
+      "pattern": "Use when plus a present-tense clause to describe what you usually do in a situation.",
+      "example": "When I need help, I use a dictionary.",
+      "task": "___ I need help, I use a dictionary.",
+      "answer": "When",
+      "sound": "Dictionary has the strongest stress on the first syllable, DIC. The TI letters in the middle are pronounced with the SH sound. Listen to the whole word before repeating it.",
+      "model": "I use a dictionary to check the meaning.",
+      "dialogue": [
+        "Do we need to copy every sentence from the textbook?",
+        "No. Take notes about the main point and one useful example.",
+        "What should I do with a word I do not know?",
+        "Look up the word in a dictionary, then read the sentence again.",
+        "Which meaning fits here?",
+        "The one about a place, because the sentence describes a room."
+      ],
+      "reading": "At the start of the lesson, Bella opens her textbook to the correct page. She finds a word she does not understand. She looks up the word in a dictionary. It has two meanings, so she reads the whole sentence before choosing. She takes a pen from her pencil case. She takes notes about the meaning and adds her own example. Copying the first definition without checking the sentence could give her the wrong idea.",
+      "readingQ": "Why does Bella read the whole sentence before choosing a meaning?",
+      "readingA": "The word has two meanings, and the sentence helps her choose the one that fits.",
+      "writing": "Write a short note about how you check an unfamiliar word. Include the meaning you chose and a sentence of your own.",
+      "listening": "For tomorrow’s lesson, bring the blue textbook. You do not need to buy a paper dictionary because the classroom computers have a word resource. Keep a notebook for short notes and examples. The lesson starts at six, not at half past six.",
+      "question": "Which book should learners bring?",
+      "correct": "The blue textbook",
+      "other": "A new paper dictionary",
+      "speaking": "Explain to a partner how you checked a word. Name the resource, describe the sentence and give an example with the correct meaning.",
+      "speakingSample": "I found this word in our textbook. I used a dictionary, but it gave two meanings. I read the full sentence and chose the meaning about a room. Here is my own example. Does that meaning fit the sentence? I will keep a short note for the next lesson.",
+      "photo": {
+        "id": "13752245",
+        "asset": "assets/a2-photos/13752245.jpg",
+        "sourceURL": "https://www.pexels.com/photo/close-up-shot-of-open-book-13752245/",
+        "credit": "Arturo A · Pexels",
+        "licenseURL": "https://www.pexels.com/license/",
+        "caption": "An open bilingual dictionary with word entries and translations.",
+        "alt": "An open Spanish-English dictionary showing columns of words and translations across two pages.",
+        "fit": "cover",
+        "focalY": 0.5,
+        "dimensions": [
+          1400,
+          930
+        ]
+      },
+      "writingSample": "I checked room in a dictionary. In this sentence, it means available space, not a separate part of a building. My own sentence is: There is room for one more chair beside the table."
+    },
+    {
+      "day": 66,
+      "unit": 9,
+      "title": "Ask for practical information before joining a course",
+      "goal": "I can ask for practical information before joining a course.",
+      "newItems": [
+        {
+          "word": "college",
+          "ipa": "/ˈkɑlɪdʒ/",
+          "pos": "noun",
+          "definition": "A place where people study after school or learn particular skills; its exact role differs between countries.",
+          "example": "The local college offers evening classes.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "university",
+          "ipa": "/ˌjunəˈvɝsəti/",
+          "pos": "noun",
+          "definition": "An institution where people study for degrees and where research takes place.",
+          "example": "The university has a language center.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "online course",
+          "ipa": "/ˈɑnˌlaɪn kɔrs/",
+          "pos": "fixed phrase",
+          "definition": "A series of lessons that you study using the internet.",
+          "example": "This online course has a live class each Tuesday.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "course fee",
+          "ipa": "/kɔrs fi/",
+          "pos": "fixed phrase",
+          "definition": "The amount of money you pay to take a course.",
+          "example": "The course fee includes the textbook.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "sign up for",
+          "ipa": "/saɪn ʌp fɔr/",
+          "pos": "fixed phrase",
+          "definition": "To put your name on a list to join an activity or receive a service.",
+          "example": "I want to sign up for the evening course.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "course",
+        "work",
+        "price",
+        "include",
+        "timetable"
+      ],
+      "mainWord": {
+        "word": "college",
+        "ipa": "/ˈkɑlɪdʒ/",
+        "pos": "noun",
+        "definition": "A place where people study after school or learn particular skills; its exact role differs between countries.",
+        "example": "The local college offers evening classes.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Noun: college; plural: colleges. In the United States, people may use college broadly for degree study. Read the institution’s information to check what it offers.",
+      "wordTask": "Name the local place offering evening skills classes, then ask about its course.",
+      "wordSample": "Does the local college have an evening English course?",
+      "expression": "What does the fee include?",
+      "use": "Check what a stated price covers before paying for a class or activity.",
+      "context": [
+        "I would like to join the course. What does the fee include?",
+        "It includes the lessons and textbook, but not travel."
+      ],
+      "expressionTask": "Ask about a course’s schedule, total price and included materials before deciding whether to join.",
+      "grammar": "Does plus a singular subject",
+      "pattern": "Use does plus the subject and a base verb to ask about a regular fact with it or a singular noun.",
+      "example": "Does the fee include the textbook?",
+      "task": "Does the fee ___ the textbook?",
+      "answer": "include",
+      "sound": "College has two syllables, with the first one stressed. Finish with the J sound, as in job, rather than a G sound as in go.",
+      "model": "The college offers evening classes.",
+      "dialogue": [
+        "I am comparing the college course and the university course.",
+        "Are they both in a classroom?",
+        "The college one is an online course. What does the fee include?",
+        "It includes the live lessons and the textbook.",
+        "Can I check the times before I sign up for it?",
+        "Yes. Here is the timetable and the full price."
+      ],
+      "reading": "Fenrir finds an online course at a local college. He also reads about a course at a university. The names of the institutions do not tell him which schedule will suit him. He compares class times, the course fee and the materials included. He checks whether the online lessons are live or recorded before he signs up for either course. A lower price is not helpful if he cannot attend the lessons.",
+      "readingQ": "What does Fenrir check about the online lessons?",
+      "readingA": "He checks whether the lessons are live or recorded.",
+      "writing": "Write a short enquiry about a course. Ask about class times, the course fee and what the price includes.",
+      "listening": "The evening course costs eighty dollars. The textbook is included. Lessons are live online on Tuesdays from six to seven. Learners must be able to attend at that time. Recordings will not be available after class, so please check your schedule before joining.",
+      "question": "Can learners watch a recording after class?",
+      "correct": "No, recordings will not be available",
+      "other": "Yes, the next morning",
+      "speaking": "Compare two courses using real or invented details. Ask about the timetable and costs, then explain which option suits you.",
+      "speakingSample": "The college course is live online on Tuesdays from six to seven. The eighty-dollar fee includes the textbook. That time suits me, but I want to confirm that I can join every week. Does the other course have a different schedule? I will compare the details before I sign up.",
+      "writingSample": "Hello, I am interested in your evening English course. When are the classes, and are the online lessons live or recorded? What is the course fee, and does the price include the textbook? Thank you."
+    },
+    {
+      "day": 67,
+      "unit": 9,
+      "title": "Describe the subject you want to study",
+      "goal": "I can describe the subject you want to study.",
+      "newItems": [
+        {
+          "word": "biology",
+          "ipa": "/baɪˈɑlədʒi/",
+          "pos": "noun",
+          "definition": "The study of living things.",
+          "example": "In biology, we learn about plants and animals.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "chemistry",
+          "ipa": "/ˈkɛmɪstri/",
+          "pos": "noun",
+          "definition": "The study of substances and how they can change or combine.",
+          "example": "Our chemistry teacher shows us a safe experiment.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "geography",
+          "ipa": "/dʒiˈɑɡrəfi/",
+          "pos": "noun",
+          "definition": "The study of places, the Earth and the people who live on it.",
+          "example": "In geography, we compare two cities on a map.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "physics",
+          "ipa": "/ˈfɪzɪks/",
+          "pos": "noun",
+          "definition": "The study of matter, energy, forces and how they behave.",
+          "example": "In physics, we learn about light and movement.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "drama",
+          "ipa": "/ˈdrɑmə/",
+          "pos": "noun",
+          "definition": "The study or activity of acting in plays.",
+          "example": "In drama, we practise a short scene together.",
+          "category": "new_word",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "subject",
+        "science",
+        "history",
+        "light",
+        "map"
+      ],
+      "mainWord": {
+        "word": "biology",
+        "ipa": "/baɪˈɑlədʒi/",
+        "pos": "noun",
+        "definition": "The study of living things.",
+        "example": "In biology, we learn about plants and animals.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Noun: biology, usually uncountable. Biology, chemistry, geography and physics name subjects. Physics ends in S but takes a singular verb: Physics is interesting.",
+      "wordTask": "Name the subject that studies living things such as plants and animals.",
+      "wordSample": "Biology is the subject that studies living things.",
+      "expression": "What will we learn about?",
+      "use": "Ask about a class’s content when the subject name alone does not give enough detail.",
+      "context": [
+        "I am interested in biology. What will we learn about?",
+        "We will start with plants, then look at small animals."
+      ],
+      "expressionTask": "Ask about the content of two different classes and choose one with a reason.",
+      "grammar": "Subject names with is",
+      "pattern": "Use is with the name of a school subject treated as one field of study, including physics.",
+      "example": "Physics is about matter and energy.",
+      "task": "Physics ___ about matter and energy.",
+      "answer": "is",
+      "sound": "Biology has four syllables. Stress the second syllable, OL. Keep the first vowel short and unstressed.",
+      "model": "Biology is about living things.",
+      "dialogue": [
+        "Which class would you like to visit?",
+        "I am choosing between geography and biology.",
+        "What will we learn about in geography?",
+        "The first lesson compares two places on a map.",
+        "And what happens in the other rooms?",
+        "Chemistry has a teacher’s demonstration, physics looks at light, and drama has a short scene."
+      ],
+      "reading": "At an open afternoon, five teachers explain their subjects. Biology looks at living things. Chemistry studies substances and how they change. Geography connects places with the people who live there. Physics includes light and movement. In drama, learners act out a short scene. Bella asks what beginners will actually do in each class. She chooses geography because she enjoys maps and wants to describe places more clearly.",
+      "readingQ": "Why does Bella choose geography?",
+      "readingA": "She enjoys maps and wants to describe places more clearly.",
+      "writing": "Write a short message naming a subject you would like to study. Explain what it covers and why it interests you.",
+      "listening": "Today’s biology visit is in room four. Learners who want to see the drama group should go to the hall instead. The physics demonstration starts later, at three. If you want the map activity in geography, please meet the teacher in room two.",
+      "question": "Where is the geography map activity?",
+      "correct": "Room two",
+      "other": "Room four",
+      "speaking": "Explain two subjects to a partner who does not know their names. Choose one class and give a reason related to your interests.",
+      "speakingSample": "Biology studies living things, while geography looks at places and people. I would choose geography because I like maps and travel. What will we learn about in the first lesson? I would like to compare two places and explain how people live there.",
+      "writingSample": "I would like to study geography because I enjoy maps and travel. The subject looks at places and the people who live there. I would like to compare two cities and describe how they are different."
+    },
+    {
+      "day": 68,
+      "unit": 9,
+      "title": "Work with classmates and explain an idea",
+      "goal": "I can work with classmates and explain an idea.",
+      "newItems": [
+        {
+          "word": "work in pairs",
+          "ipa": "/wɝk ɪn pɛrz/",
+          "pos": "fixed phrase",
+          "definition": "To do an activity with one other person.",
+          "example": "We work in pairs to practise the questions.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "work in groups",
+          "ipa": "/wɝk ɪn ɡrups/",
+          "pos": "fixed phrase",
+          "definition": "To do an activity with several people together.",
+          "example": "We work in groups of four to plan a visit.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "read aloud",
+          "ipa": "/rid əˈlaʊd/",
+          "pos": "fixed phrase",
+          "definition": "To say the words of a written text so that other people can hear them.",
+          "example": "Please read aloud while your partner listens.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "in your own words",
+          "ipa": "/ɪn jʊr oʊn wɝdz/",
+          "pos": "fixed phrase",
+          "definition": "Using your own way of expressing an idea rather than copying the original wording.",
+          "example": "Explain the message in your own words.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "compare answers",
+          "ipa": "/kəmˈpɛr ˈænsɚz/",
+          "pos": "fixed phrase",
+          "definition": "To look at different answers together and discuss how they are similar or different.",
+          "example": "We compare answers and explain our choices.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "partner",
+        "classmate",
+        "explain",
+        "together",
+        "question"
+      ],
+      "mainWord": {
+        "word": "work in pairs",
+        "ipa": "/wɝk ɪn pɛrz/",
+        "pos": "fixed phrase",
+        "definition": "To do an activity with one other person.",
+        "example": "We work in pairs to practise the questions.",
+        "category": "fixed_phrase",
+        "status": "new"
+      },
+      "mainWordForms": "Phrase: work in pairs. A pair has two people. Work changes normally: work, works, worked, working. Pairs is plural after in in this expression.",
+      "wordTask": "There are two people doing one activity together. Say how they are working.",
+      "wordSample": "They are working in pairs.",
+      "expression": "How did you decide?",
+      "use": "Ask a classmate to explain the thinking behind an answer rather than simply copy it.",
+      "context": [
+        "We chose different answers. How did you decide?",
+        "I used the time in the notice. Let us read that line again."
+      ],
+      "expressionTask": "Discuss different answers with a partner. Ask for their reason and point to information in the text.",
+      "grammar": "Each plus a singular noun",
+      "pattern": "Use each before a singular noun when you refer to the members of a group separately.",
+      "example": "Each partner explains one answer.",
+      "task": "Each ___ explains one answer.",
+      "answer": "partner",
+      "sound": "Pairs has one syllable. Finish with a voiced Z sound. Do not add a separate vowel after the final sound.",
+      "model": "Work in pairs and compare answers.",
+      "dialogue": [
+        "Should we work in groups for this activity?",
+        "First work in pairs. One person can read aloud.",
+        "Then do we compare answers?",
+        "Yes, but explain the idea in your own words.",
+        "We have chosen different times. How did you decide?",
+        "I used the time in the notice. We should read that line again before choosing."
+      ],
+      "reading": "Two classmates work in pairs to read a short notice. Bella reads aloud while Fenrir listens for the meeting time. Then they change roles. They compare answers, but they do not stop at saying a letter or a number. Each partner explains the reason in their own words and points to a line in the notice. Later they work in groups of four to choose a time that suits everyone.",
+      "readingQ": "What do the classmates do after giving an answer?",
+      "readingA": "They explain the reason in their own words and point to a line in the notice.",
+      "writing": "Write two short instructions for a paired reading activity. Include what the reader does and what the listener does.",
+      "listening": "Begin with one partner, not a group of four. The first learner reads the notice aloud. The second listens for the place. Change roles for the next notice, then compare your choices. Do not simply give the answer: explain which words helped you.",
+      "question": "What information should the second learner listen for?",
+      "correct": "The place",
+      "other": "The price",
+      "speaking": "With a partner, discuss a short notice and explain why you chose an answer. If you disagree, ask a question and check the relevant words together.",
+      "speakingSample": "I chose the hall because the notice says that the meeting has moved there. How did you decide? Let us read the last line again. It gives the new place, while the first line describes the old plan. We can now explain the change in our own words.",
+      "writingSample": "First, one partner reads the notice aloud while the other listens for the meeting place. Then change roles for the next notice and explain which words helped each person choose an answer."
+    },
+    {
+      "day": 69,
+      "unit": 9,
+      "title": "Plan short and useful speaking practice",
+      "goal": "I can plan short and useful speaking practice.",
+      "newItems": [
+        {
+          "word": "pronunciation",
+          "ipa": "/prəˌnʌnsiˈeɪʃən/",
+          "pos": "noun",
+          "definition": "The way a word or language is spoken, including its sounds and stress.",
+          "example": "I check the pronunciation before I practise the word.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "spelling",
+          "ipa": "/ˈspɛlɪŋ/",
+          "pos": "noun",
+          "definition": "The letters used to write a word in the correct order.",
+          "example": "I know the meaning but need to check the spelling.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "out loud",
+          "ipa": "/aʊt laʊd/",
+          "pos": "fixed phrase",
+          "definition": "In a voice that can be heard, rather than only in your thoughts.",
+          "example": "I practise the short message out loud.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "language exchange",
+          "ipa": "/ˈlæŋɡwɪdʒ ɪksˌtʃeɪndʒ/",
+          "pos": "fixed phrase",
+          "definition": "An arrangement in which people help one another practise languages they know.",
+          "example": "We divide our language exchange into two short parts.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "learning goal",
+          "ipa": "/ˈlɝnɪŋ ɡoʊl/",
+          "pos": "fixed phrase",
+          "definition": "Something specific you want to become able to understand or do through study.",
+          "example": "My learning goal is to ask for directions without reading a script.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "lesson",
+        "letter",
+        "dictionary",
+        "practice",
+        "question"
+      ],
+      "mainWord": {
+        "word": "pronunciation",
+        "ipa": "/prəˌnʌnsiˈeɪʃən/",
+        "pos": "noun",
+        "definition": "The way a word or language is spoken, including its sounds and stress.",
+        "example": "I check the pronunciation before I practise the word.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Noun: pronunciation, usually uncountable for the activity. Notice the spelling pronunciation, not pronounciation. Different accepted accents may pronounce a word differently.",
+      "wordTask": "You know how a word is written but want to hear how it is spoken. Name the information you need.",
+      "wordSample": "I need to check its pronunciation.",
+      "expression": "Could you say that once more?",
+      "use": "Request a repeat so you can hear a sound or stressed syllable clearly.",
+      "context": [
+        "I am checking the pronunciation. Could you say that once more?",
+        "Of course. Listen first, then try the whole word."
+      ],
+      "expressionTask": "Ask a partner to repeat a useful phrase. Listen for one feature, try it and ask whether your message is clear.",
+      "grammar": "So I can plus a base verb",
+      "pattern": "Use so I can to explain what an action will help you do.",
+      "example": "I listen first so I can hear the stress.",
+      "task": "I listen first so I can ___ the stress.",
+      "answer": "hear",
+      "sound": "Pronunciation has five syllables, with the strongest stress on AY. The second syllable has the vowel in cup, not the vowel in now.",
+      "model": "I practise the pronunciation out loud.",
+      "dialogue": [
+        "What is your learning goal for our language exchange?",
+        "I want to ask for directions clearly, without reading.",
+        "Shall we check the spelling first?",
+        "Yes, then we can practise out loud.",
+        "Could you say that once more?",
+        "Of course. Listen for the stress, then ask me the question with your own place name."
+      ],
+      "reading": "Bella and Fenrir plan a short language exchange. They choose one learning goal: asking for directions clearly. Bella checks the spelling of two place names, then listens to their pronunciation. They practise out loud and use different destinations. Their aim is to make the message understandable, not to copy every feature of one person’s accent. At the end, each person asks a fresh question without a script.",
+      "readingQ": "What do Bella and Fenrir do at the end without a script?",
+      "readingA": "Each person asks a fresh question.",
+      "writing": "Write a small speaking plan with one learning goal, a listening step and a way to check that another person understands.",
+      "listening": "Our exchange starts at seven. Bring two short questions, but leave the long reading at home. We will spend ten minutes on each language. The aim today is clear questions about places. You can use a map, but try the final question without a written script.",
+      "question": "How much time will the group spend on each language?",
+      "correct": "Ten minutes",
+      "other": "Twenty minutes",
+      "speaking": "Agree on a small speaking goal with a partner. Listen, practise with changed details and explain how you will check your progress.",
+      "speakingSample": "My learning goal is to ask for directions to a new place. Please say the question once so I can hear the stress. Then I will practise out loud with a different destination. At the end, you can follow my question on the map. That will show whether my message is clear.",
+      "writingSample": "My learning goal is to ask for directions clearly. First, I will listen to a short example and notice the stress. Then I will ask a partner about a different place. My partner will repeat the destination to check that my message was clear."
+    },
+    {
+      "day": 70,
+      "unit": 9,
+      "title": "Make a simple plan before a test",
+      "goal": "I can make a simple plan before a test.",
+      "newItems": [
+        {
+          "word": "exam",
+          "ipa": "/ɪɡˈzæm/",
+          "pos": "noun",
+          "definition": "A formal test of knowledge or ability in a subject.",
+          "example": "Our English exam is on Thursday.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "result",
+          "ipa": "/rɪˈzʌlt/",
+          "pos": "noun",
+          "definition": "The information showing how someone performed in a test or activity.",
+          "example": "The teacher gives us our exam results on Monday.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "grade",
+          "ipa": "/ɡreɪd/",
+          "pos": "noun",
+          "definition": "A letter or number showing the standard of work in a class or test.",
+          "example": "My grade shows which parts I need to practise.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "study for an exam",
+          "ipa": "/ˈstʌdi fɔr ən ɪɡˈzæm/",
+          "pos": "fixed phrase",
+          "definition": "To prepare for a formal test by learning and practising the relevant material.",
+          "example": "I study for an exam in short sessions.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "practice test",
+          "ipa": "/ˈpræktɪs tɛst/",
+          "pos": "fixed phrase",
+          "definition": "A test used to prepare and find what needs more work, rather than to give a final result.",
+          "example": "A short practice test helps me choose what to study next.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "practice",
+        "learn",
+        "remember",
+        "thursday",
+        "plan"
+      ],
+      "mainWord": {
+        "word": "exam",
+        "ipa": "/ɪɡˈzæm/",
+        "pos": "noun",
+        "definition": "A formal test of knowledge or ability in a subject.",
+        "example": "Our English exam is on Thursday.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Noun: exam; plural: exams. Examination is the longer form of the same word here, not a second new vocabulary item. Grade refers to the assessment, not the learner’s value.",
+      "wordTask": "Name the formal test scheduled for Thursday and ask when you will receive its result.",
+      "wordSample": "When will we get the result of Thursday’s exam?",
+      "expression": "What should I practise next?",
+      "use": "Use feedback to choose a useful next learning step after a task or test.",
+      "context": [
+        "I understood the reading but missed the listening time. What should I practise next?",
+        "Practise hearing times in short messages, then try a different example."
+      ],
+      "expressionTask": "Describe one thing you did well and one difficulty in a practice activity. Ask for advice on the next step.",
+      "grammar": "Before plus a full clause",
+      "pattern": "Use before plus a subject and verb to say that one action happens earlier than another.",
+      "example": "I check the date before I make my plan.",
+      "task": "I check the date ___ I make my plan.",
+      "answer": "before",
+      "sound": "Exam has two syllables, with the second stressed. The X represents two sounds here, G followed by Z. Keep the final M clear.",
+      "model": "The exam is on Thursday.",
+      "dialogue": [
+        "When is the exam?",
+        "Thursday. We can use a practice test to find what needs work.",
+        "Does a practice grade decide the final result?",
+        "No. It gives us information for study.",
+        "I missed two listening questions. What should I practise next?",
+        "Try short messages about times. Then use another practice task to check your understanding."
+      ],
+      "reading": "Fenrir is preparing for an English exam on Thursday. He starts with a short practice test. His grade shows that he understands the reading but often misses times in spoken messages. He uses the result to choose short listening activities for the next two days. To study for an exam, he keeps sessions short enough to stay focused. One practice grade is useful information, not a complete description of his ability.",
+      "readingQ": "Which skill does Fenrir decide to practise next?",
+      "readingA": "He decides to practise listening for times in spoken messages.",
+      "writing": "Write a short study plan based on practice feedback. Include one strength, one difficulty and one useful next activity.",
+      "listening": "The exam is on Thursday morning. Please arrive by nine fifteen; the test begins at nine thirty. Results will be available on Monday. If you want to prepare, use the short practice task and bring one question to tomorrow’s lesson.",
+      "question": "When should learners arrive?",
+      "correct": "By nine fifteen",
+      "other": "At nine thirty",
+      "speaking": "Explain a result to a partner without judging yourself by a single grade. Choose one next activity and say how you will check whether it helps.",
+      "speakingSample": "I understood the reading, but I missed the times in two spoken messages. I will listen to short messages and write the times I hear. Then I will try a different task to check whether I understand them more reliably. The practice grade helps me make a plan; it is not my whole ability.",
+      "writingSample": "I understood the reading but missed the times in the listening task. I will practise with short spoken messages and write the times I hear. Then I will try a different message to see whether I can get the details right."
+    },
+    {
+      "day": 71,
+      "unit": 9,
+      "title": "Get the right information after an absence",
+      "goal": "I can get the right information after an absence.",
+      "newItems": [
+        {
+          "word": "catch up on",
+          "ipa": "/kætʃ ʌp ɑn/",
+          "pos": "fixed phrase",
+          "definition": "To do work or learn information that you missed or have not yet completed.",
+          "example": "I ask a classmate how to catch up on the lesson I missed.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "go over",
+          "ipa": "/ɡoʊ ˈoʊvɚ/",
+          "pos": "fixed phrase",
+          "definition": "To examine or practise information again to understand or remember it.",
+          "example": "We go over the key points before the next task.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "miss a class",
+          "ipa": "/mɪs ə klæs/",
+          "pos": "fixed phrase",
+          "definition": "To be absent from a scheduled teaching session.",
+          "example": "I will miss a class because of a hospital appointment.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "course material",
+          "ipa": "/kɔrs məˈtɪriəl/",
+          "pos": "fixed phrase",
+          "definition": "Texts, recordings and other resources used for learning in a course.",
+          "example": "The teacher sends the course material after the lesson.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "study group",
+          "ipa": "/ˈstʌdi ɡrup/",
+          "pos": "fixed phrase",
+          "definition": "A small group of people who meet to help one another study.",
+          "example": "Our study group meets in the library.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "lesson",
+        "textbook",
+        "classmate",
+        "appointment",
+        "message"
+      ],
+      "mainWord": {
+        "word": "catch up on",
+        "ipa": "/kætʃ ʌp ɑn/",
+        "pos": "fixed phrase",
+        "definition": "To do work or learn information that you missed or have not yet completed.",
+        "example": "I ask a classmate how to catch up on the lesson I missed.",
+        "category": "fixed_phrase",
+        "status": "new"
+      },
+      "mainWordForms": "Phrase: catch up on something. Verb forms: catch, catches, caught, catching. Name the missed work after on. Asking for notes is a first step; still do the practice yourself.",
+      "wordTask": "You missed yesterday’s lesson. Ask which activities you should complete to learn what you missed.",
+      "wordSample": "Which activities should I do to catch up on yesterday’s lesson?",
+      "expression": "What did I miss?",
+      "use": "Find out what happened during an activity you could not attend.",
+      "context": [
+        "I could not attend yesterday. What did I miss?",
+        "We practised asking for course information. I can send the task and the recording."
+      ],
+      "expressionTask": "Explain why you were absent, ask what you missed and agree on the first task you will do.",
+      "grammar": "Could for a polite request",
+      "pattern": "Use could plus a subject and a base verb to make a polite request about something you need now.",
+      "example": "Could you send me the task?",
+      "task": "Could you ___ me the task?",
+      "answer": "send",
+      "sound": "Catch ends with the CH sound. In catch up, move from CH into the vowel without adding an extra syllable between the words.",
+      "model": "I need to catch up on the lesson.",
+      "dialogue": [
+        "I had an appointment and had to miss a class. What did I miss?",
+        "We learned how to compare course information.",
+        "How can I catch up on the work?",
+        "Read the course material and listen to the short recording first.",
+        "Could I join the study group tomorrow?",
+        "Yes. Bring your questions, and we can go over the difficult part together."
+      ],
+      "reading": "Bella misses a class because of an appointment. She asks the teacher what she missed rather than assuming the textbook page is the whole lesson. To catch up on the work, she requests the task. The teacher sends the course material and a short recording. Bella tries the task herself and marks the part she does not understand. At the study group, they go over that part together. She then tries a fresh example to check that she can use the idea.",
+      "readingQ": "What does Bella do before bringing a question to the study group?",
+      "readingA": "She tries the task herself and marks the part she does not understand.",
+      "writing": "Write a short message after missing a lesson. Ask about the task and explain when you will try it before asking for help.",
+      "listening": "Tomorrow’s study group meets at the library at five. Please read the task and listen to the recording before you come. Bring one question about a part you have tried. We will discuss that part first rather than repeat the whole lesson from the beginning.",
+      "question": "What should learners bring to the study group?",
+      "correct": "A question about a task they have tried",
+      "other": "An unread textbook only",
+      "speaking": "Role-play returning after an absence. Ask for the missing work, agree on a manageable first step and arrange how to check your understanding.",
+      "speakingSample": "I missed yesterday’s class because of an appointment. What did I miss? Could you send me the task and recording? I will try them tonight and bring one question to the study group. After we go over that part, I will use a different example to check that I understand.",
+      "writingSample": "Hello, I missed yesterday’s lesson because of an appointment. Could you send me the task and recording? I will try them tonight and bring one question about a difficult part to the study group tomorrow."
+    },
+    {
+      "day": 72,
+      "unit": 9,
+      "title": "Choose a useful next step after checking your work",
+      "goal": "I can choose a useful next step after checking your work.",
+      "newItems": [
+        {
+          "word": "cross out",
+          "ipa": "/krɔs aʊt/",
+          "pos": "fixed phrase",
+          "definition": "To draw a line through writing to show that it is wrong or not wanted.",
+          "example": "Cross out the old time and write the new one beside it.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "correct a mistake",
+          "ipa": "/kəˈrɛkt ə mɪˈsteɪk/",
+          "pos": "fixed phrase",
+          "definition": "To change something wrong so that it becomes right.",
+          "example": "I correct a mistake and explain why I changed the sentence.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "leave a space",
+          "ipa": "/liv ə speɪs/",
+          "pos": "fixed phrase",
+          "definition": "To keep a small area empty for a purpose, such as adding information later.",
+          "example": "Leave a space after each answer so you can add a correction.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "have a go",
+          "ipa": "/hæv ə ɡoʊ/",
+          "pos": "fixed phrase",
+          "definition": "To try doing something, often when you are not sure you can do it.",
+          "example": "Have a go before you look at the example.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "every other day",
+          "ipa": "/ˈɛvri ˈʌðɚ deɪ/",
+          "pos": "fixed phrase",
+          "definition": "On one day, not the next, then on the following day, in a repeating pattern.",
+          "example": "I practise these words every other day.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "dictionary",
+        "pronunciation",
+        "result",
+        "take notes",
+        "learning goal"
+      ],
+      "mainWord": {
+        "word": "cross out",
+        "ipa": "/krɔs aʊt/",
+        "pos": "fixed phrase",
+        "definition": "To draw a line through writing to show that it is wrong or not wanted.",
+        "example": "Cross out the old time and write the new one beside it.",
+        "category": "fixed_phrase",
+        "status": "new"
+      },
+      "mainWordForms": "Phrase: cross out something or cross something out. With a pronoun, put it between the two parts: cross it out. Verb forms: cross, crosses, crossed, crossing.",
+      "wordTask": "The time written on your note is wrong. Say what you will do before writing the correct time.",
+      "wordSample": "I will cross out the wrong time and write the correct time beside it.",
+      "expression": "How can I check that I can use it?",
+      "use": "Choose a new task to find out whether you can use an idea without copying a model.",
+      "context": [
+        "I understand the example. How can I check that I can use it?",
+        "Try the same kind of task with different details before you open the answer."
+      ],
+      "expressionTask": "Choose a new situation for an expression you have learned. Explain what you will do without a model and how you will check it.",
+      "grammar": "Try plus to and a base verb",
+      "pattern": "Use try to plus a base verb to describe making an effort to do something.",
+      "example": "Try to explain the change.",
+      "task": "Try ___ explain the change.",
+      "answer": "to",
+      "sound": "Cross ends with an S sound. In cross out, let S lead into the following vowel. Do not add a separate vowel after S.",
+      "model": "Cross it out and try again.",
+      "dialogue": [
+        "I copied the first answer, but I am not sure I can do the task.",
+        "Close the model and have a go with different details.",
+        "Then should I check my answers?",
+        "Yes. If you correct a mistake, say why you changed it.",
+        "How can I check that I can use it tomorrow?",
+        "Try a new example. You could practise every other day, then adjust the schedule to what you remember."
+      ],
+      "reading": "Fenrir sees that his note gives the wrong lesson time. He leaves a space for a correction. He crosses it out and writes the correct time beside it. He is ready to have a go without the model, so he tries a fresh message with a different schedule. He checks his answers. When he corrects a mistake, he explains why instead of only copying. He plans short practice every other day, but will return sooner if he forgets. His learning goal is to give clear information independently.",
+      "readingQ": "How does Fenrir check that he can use the idea without copying?",
+      "readingA": "He closes the model and tries a fresh message with a different schedule.",
+      "writing": "Write a short learning note. Describe one correction, why it was needed and a different task you will use to check your understanding.",
+      "listening": "The class task is complete. Please leave the folder at reception before you go. Keep your own note about one useful correction. On Friday, use that correction in a new message without opening today’s model first. Then compare your work with the example and explain any changes.",
+      "question": "Where should learners leave the folder?",
+      "correct": "At reception",
+      "other": "In the classroom cupboard",
+      "speaking": "Plan a course choice with a partner, explain a study problem and agree on a realistic practice step. Use new details and check that each person can repeat the plan.",
+      "speakingSample": "I need a Tuesday evening course whose fee includes the textbook. I will ask whether the lessons are live or recorded. If I miss a class, I will request the task and recording, try the work and bring a question to our group. To check my learning, I will explain a different course to you without a script. Could you repeat the time and price to check that I was clear?",
+      "writingSample": "I changed Tuesday to Friday in my booking note because the new message gave a different day. I can explain why the correction was needed. Next, I will write a fresh booking message without opening the model, then compare the details."
+    }
+  ]
+}

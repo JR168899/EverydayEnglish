@@ -1,0 +1,874 @@
+{
+  "number": 19,
+  "title": "Instructions and sequences",
+  "lessons": [
+    {
+      "day": 145,
+      "unit": 19,
+      "title": "Follow a simple paper instruction",
+      "goal": "I can put a short set of instructions in order and ask which side of an object to use.",
+      "newItems": [
+        {
+          "word": "unfold",
+          "ipa": "/ʌnˈfoʊld/",
+          "pos": "verb",
+          "definition": "Open something that has been folded.",
+          "example": "Unfold the paper so that you can see the center line.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "step by step",
+          "ipa": "/stɛp baɪ stɛp/",
+          "pos": "fixed phrase",
+          "definition": "One stage after another, in a clear sequence.",
+          "example": "The teacher explains the paper activity step by step.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "in the right order",
+          "ipa": "/ɪn ðə raɪt ˈɔrdɚ/",
+          "pos": "fixed phrase",
+          "definition": "Following the sequence that is needed for the task.",
+          "example": "Read the numbered instructions in the right order.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "turn it over",
+          "ipa": "/tɝn ɪt ˈoʊvɚ/",
+          "pos": "fixed phrase",
+          "definition": "Move an object so that the opposite side faces upward or toward you.",
+          "example": "Turn it over so that the blank side faces you.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "fold in half",
+          "ipa": "/foʊld ɪn hæf/",
+          "pos": "fixed phrase",
+          "definition": "Bend something so that two equal parts lie over each other.",
+          "example": "To fold in half, bring one edge to the opposite edge.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "paper",
+        "line",
+        "side",
+        "fold",
+        "picture"
+      ],
+      "mainWord": {
+        "word": "unfold",
+        "ipa": "/ʌnˈfoʊld/",
+        "pos": "verb",
+        "definition": "Open something that has been folded.",
+        "example": "Unfold the paper so that you can see the center line.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Fold and unfold are different verbs: fold bends the paper over; unfold opens it again. In turn it over, it comes between turn and over. Fold in half names the action; a complete instruction can be fold the paper in half.",
+      "wordTask": "After folding a paper once, what does unfold ask you to do?",
+      "wordSample": "It asks you to open the folded paper again.",
+      "expression": "Which side should face me?",
+      "use": "Ask about the position of an object when a picture or instruction does not make the side clear.",
+      "context": [
+        "Which side should face me?",
+        "The blank side. Turn the paper over before you begin."
+      ],
+      "expressionTask": "Explain a simple paper task to a partner. Check the starting side and use first, next and finally to keep the order clear.",
+      "grammar": "Sequencing instructions with first, next and finally",
+      "pattern": "First + imperative. Next + imperative. Finally + imperative.",
+      "example": "First, turn the paper over.",
+      "task": "First, ___ the paper over.",
+      "answer": "turn",
+      "sound": "Unfold has stress on FOLD. Keep the final D when the next word begins with a vowel, as in unfold it. In half, L is silent.",
+      "model": "Unfold the paper and find the center line.",
+      "dialogue": [
+        "Can you explain the paper activity step by step?",
+        "Yes. Read the numbered instructions in the right order first.",
+        "Which side should face me?",
+        "The blank side. Turn it over if you can see the picture.",
+        "Then do I fold it in half?",
+        "Yes. Bring one edge to the opposite edge, then unfold the paper. You will see a center line."
+      ],
+      "reading": "Fenrir wants to make a small paper display. Bella explains the first part step by step. He should begin with the blank side facing him. If the picture is visible, he needs to turn it over. The next action is to fold in half: one edge goes to the opposite edge. Then he must unfold the paper so that the center line is visible. Fenrir checks the numbered pictures in the right order. Opening the paper is part of the task, not a mistake that cancels the earlier fold. He repeats the actions before starting the next stage.",
+      "readingQ": "Why does Fenrir unfold the paper after folding it?",
+      "readingA": "To see the center line made by the fold.",
+      "writing": "Write 45–65 words explaining these first paper steps to someone who has not seen the model. State the starting side, the fold and why the paper is opened again.",
+      "writingSample": "First, put the blank side of the paper toward you. If you can see the picture, turn it over. Next, fold the paper in half by bringing one edge to the opposite edge. Finally, unfold it. The fold has made a center line that you can use for the next part.",
+      "listening": "Before the first fold, the blank side should face you. If the picture faces you, turn the paper over. Fold it once in half, then open it again. Do not leave it folded, because you need to see the center line for the next step.",
+      "question": "What should you do after the first fold?",
+      "correct": "Open the paper again",
+      "other": "Leave it folded",
+      "speaking": "Give a partner three ordered paper instructions. Ask the partner to tell you which side is visible and what the last step achieves.",
+      "speakingSample": "First, check that the blank side faces you. Next, fold the paper in half by bringing these edges together. Finally, unfold it so that the center line is visible. Which side can you see now, and where is the line?"
+    },
+    {
+      "day": 146,
+      "unit": 19,
+      "title": "Use a picture and a marked line together",
+      "goal": "I can follow a short liquid-transfer demonstration and distinguish a measuring instruction from an optional finishing step.",
+      "newItems": [
+        {
+          "word": "pour",
+          "ipa": "/pɔr/",
+          "pos": "verb",
+          "definition": "Make a liquid flow from a container by tipping it.",
+          "example": "Pour the water slowly from the jug.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "funnel",
+          "ipa": "/ˈfʌnəl/",
+          "pos": "noun",
+          "definition": "A tool with a wide top and narrow tube used to guide liquid into a small opening.",
+          "example": "Use a funnel to guide water into the bottle.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "jug",
+          "ipa": "/dʒʌɡ/",
+          "pos": "noun",
+          "definition": "A container with a handle and a shaped edge for pouring; often called a pitcher in American English.",
+          "example": "The teacher fills a small jug with water.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "up to the line",
+          "ipa": "/ʌp tuː ðə laɪn/",
+          "pos": "fixed phrase",
+          "definition": "As far as the marked line, and not beyond it.",
+          "example": "Fill the bottle up to the line.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "let it dry",
+          "ipa": "/lɛt ɪt draɪ/",
+          "pos": "fixed phrase",
+          "definition": "Leave the stated object until it is no longer wet.",
+          "example": "If the paper label gets wet, let it dry before writing on it.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "water",
+        "bottle",
+        "line",
+        "label",
+        "table"
+      ],
+      "mainWord": {
+        "word": "pour",
+        "ipa": "/pɔr/",
+        "pos": "verb",
+        "definition": "Make a liquid flow from a container by tipping it.",
+        "example": "Pour the water slowly from the jug.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Pour is a verb. Funnel and jug are countable nouns. Jug and pitcher can name similar pouring containers, though usage varies. Up to the line specifies a stopping point; it does not mean filling the container to the top.",
+      "wordTask": "Which action makes water flow out when you tip a jug?",
+      "wordSample": "Pour means to make the water flow out by tipping the jug.",
+      "expression": "Do I stop at this mark?",
+      "use": "Confirm the exact stopping point when a demonstration uses a line or other mark.",
+      "context": [
+        "Do I stop at this mark?",
+        "Yes. Fill only up to the line, not to the top."
+      ],
+      "expressionTask": "Explain where to stop filling a demonstration bottle. Check that your partner distinguishes the line from the top.",
+      "grammar": "Stop when with a present-tense clause",
+      "pattern": "Stop when + subject + present simple",
+      "example": "Stop when the water reaches the line.",
+      "task": "Stop when the water ___ the line.",
+      "answer": "reaches",
+      "sound": "Pour ends with R in the American model. Funnel has stress on FUN. Jug begins with the joined sound at the start of jump and ends with G.",
+      "model": "Pour the water slowly from the jug.",
+      "dialogue": [
+        "For this class demonstration, should I pour straight into the bottle?",
+        "Use this funnel. Its narrow end goes into the opening.",
+        "Do I stop at this mark?",
+        "Yes. Pour from the jug slowly and fill only up to the line.",
+        "The paper label has a wet corner. Should I write on it now?",
+        "No. Let it dry first. The bottle itself does not need any more water."
+      ],
+      "reading": "In a class demonstration, Bella pours water from a small jug into a bottle. A funnel guides the water through the narrow opening. The bottle has a marked line, so she asks where to stop. The teacher says to fill it up to the line rather than to the top. A paper label on the table gets a little wet. Fenrir is told to let it dry before writing on it. These are two different instructions: the line controls the amount of water, while drying concerns the label. They use the picture and the spoken explanation together.",
+      "readingQ": "Why should the bottle not be filled to the top?",
+      "readingA": "The instruction is to stop at the marked line, which controls the amount of water.",
+      "writing": "Write 45–65 words explaining this demonstration. Name the two tools, the stopping point and what to do with a wet paper label.",
+      "writingSample": "Use a small jug and a funnel for the demonstration. Put the narrow end of the funnel into the bottle opening. Pour slowly and stop when the water reaches the marked line. Do not fill it to the top. If the paper label is wet, let it dry before writing on it.",
+      "listening": "The bottle has a black line below the top. Pour slowly through the funnel and stop at that line. The wet paper label is on the table; leave it there until it dries. Do not add more water while waiting for the label.",
+      "question": "Where should you stop filling the bottle?",
+      "correct": "At the black line below the top",
+      "other": "At the very top",
+      "speaking": "Describe the demonstration in order, using the marked line as the stopping point. Check that your partner knows which object must dry.",
+      "speakingSample": "First, put the funnel into the bottle opening. Then pour slowly from the jug and stop at the black line, not the top. The paper label is wet, so let it dry on the table. We do not need to add any more water."
+    },
+    {
+      "day": 147,
+      "unit": 19,
+      "title": "Match a diagram to the side of a card",
+      "goal": "I can use a picture instruction to distinguish a card’s side from its top-to-bottom position.",
+      "newItems": [
+        {
+          "word": "diagram",
+          "ipa": "/ˈdaɪəˌɡræm/",
+          "pos": "noun",
+          "definition": "A simple drawing that explains how something looks, works or is arranged.",
+          "example": "The diagram shows which side of the card faces upward.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "arrow",
+          "ipa": "/ˈæroʊ/",
+          "pos": "noun",
+          "definition": "A mark shaped like a pointed line that shows a direction.",
+          "example": "An arrow points toward the next step.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "face up",
+          "ipa": "/feɪs ʌp/",
+          "pos": "fixed phrase",
+          "definition": "With the front or marked side pointing upward.",
+          "example": "Place the picture card face up on the table.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "face down",
+          "ipa": "/feɪs daʊn/",
+          "pos": "fixed phrase",
+          "definition": "With the front or marked side pointing downward.",
+          "example": "Put the answer card face down until everyone has tried.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "upside down",
+          "ipa": "/ˌʌpˈsaɪd daʊn/",
+          "pos": "fixed phrase",
+          "definition": "With the usual top at the bottom.",
+          "example": "The picture is upside down, so the roof is below the door.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "picture",
+        "card",
+        "top",
+        "bottom",
+        "table"
+      ],
+      "mainWord": {
+        "word": "diagram",
+        "ipa": "/ˈdaɪəˌɡræm/",
+        "pos": "noun",
+        "definition": "A simple drawing that explains how something looks, works or is arranged.",
+        "example": "The diagram shows which side of the card faces upward.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Diagram and arrow are countable nouns. Face up and face down describe which side is visible on a flat surface. Upside down describes the top-to-bottom position; it is not automatically the same as face down.",
+      "wordTask": "What is the purpose of a diagram in a set of instructions?",
+      "wordSample": "It explains an arrangement or action with a simple drawing.",
+      "expression": "Is the picture side showing?",
+      "use": "Check which side of a flat object is visible before asking someone to turn it.",
+      "context": [
+        "Is the picture side showing?",
+        "Yes. The card is face up, but the picture is upside down."
+      ],
+      "expressionTask": "Describe a picture card whose front is visible but whose top points the wrong way. Keep the two position details separate.",
+      "grammar": "But joins contrasting details",
+      "pattern": "clause + but + contrasting clause",
+      "example": "The card is face up, but the picture is upside down.",
+      "task": "The card is face up, ___ the picture is upside down.",
+      "answer": "but",
+      "sound": "Diagram has its strongest beat on DI. Arrow has stress on AR. In face up, connect the final S to the vowel without losing the word up.",
+      "model": "The diagram shows a card on a table.",
+      "dialogue": [
+        "The diagram shows a house card. Is the picture side showing?",
+        "Yes. I placed it face up, but the house is upside down.",
+        "Keep the picture visible and turn the top toward you.",
+        "Like this? The roof is at the top now.",
+        "Yes. Leave the answer card face down for the moment.",
+        "I see the arrow pointing to the next step. We can check the answer after everyone tries."
+      ],
+      "reading": "A diagram shows two cards on a table. The picture card should be face up, while the answer card stays face down. Fenrir can see the house picture, but its roof is below its door: the picture is upside down. He changes its top-to-bottom position without hiding the picture side. Bella points to an arrow that shows the next step. The diagram does not ask learners to reveal the answer yet. They check which side is visible and which way the picture points before continuing, because these are different position details.",
+      "readingQ": "Why is face up not a complete description of the house card’s position?",
+      "readingA": "The front is visible, but the picture can still be upside down.",
+      "writing": "Write 45–65 words explaining how to arrange the two cards. Distinguish the visible side from the top-to-bottom position and say when to reveal the answer.",
+      "writingSample": "Place the picture card face up so that everyone can see the house. Check that the roof is at the top; the picture should not be upside down. Leave the answer card face down until everyone has tried. Follow the arrow in the diagram before checking the answer together.",
+      "listening": "The picture card is already face up, so do not turn it onto its blank side. The house is upside down. Turn the card around on the table until the roof is at the top. Keep the answer card face down until the end.",
+      "question": "What is wrong with the picture card?",
+      "correct": "The house is upside down",
+      "other": "The picture side is hidden",
+      "speaking": "Give a partner instructions for two flat cards. Check the picture side and its top-to-bottom position separately.",
+      "speakingSample": "Put the house card face up. Is the picture side showing? Good. Now check the roof: it should be at the top, not upside down. Leave the answer card face down until we finish the task."
+    },
+    {
+      "day": 148,
+      "unit": 19,
+      "title": "Follow the controls in a device’s own guide",
+      "goal": "I can distinguish a short button press from a held press and check instructions for a specific device.",
+      "newItems": [
+        {
+          "word": "press",
+          "ipa": "/prɛs/",
+          "pos": "verb",
+          "definition": "Push against something with a finger or hand.",
+          "example": "Press the blue button once.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "cable",
+          "ipa": "/ˈkeɪbəl/",
+          "pos": "noun",
+          "definition": "A thick wire or group of wires used to carry electricity or signals.",
+          "example": "The display cable is already connected for the demonstration.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "press and hold",
+          "ipa": "/prɛs ən hoʊld/",
+          "pos": "fixed phrase",
+          "definition": "Keep pushing a button for the length of time stated in the instructions.",
+          "example": "For this model, press and hold the blue button for two seconds.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "switch it on",
+          "ipa": "/swɪtʃ ɪt ɑn/",
+          "pos": "fixed phrase",
+          "definition": "Make the stated device start operating using its control.",
+          "example": "Read this model’s guide before you switch it on.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "switch it off",
+          "ipa": "/swɪtʃ ɪt ɔf/",
+          "pos": "fixed phrase",
+          "definition": "Make the stated device stop operating using its control.",
+          "example": "Use the stated button to switch it off after the demonstration.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "button",
+        "screen",
+        "guide",
+        "light",
+        "instruction"
+      ],
+      "mainWord": {
+        "word": "press",
+        "ipa": "/prɛs/",
+        "pos": "verb",
+        "definition": "Push against something with a finger or hand.",
+        "example": "Press the blue button once.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Press is a verb here: press a button. Cable is a countable noun. Press and hold is different from a quick press and release. Switch it on and switch it off put it between the verb and particle. Controls can differ between models.",
+      "wordTask": "What does press ask you to do with a button?",
+      "wordSample": "Push the button with a finger.",
+      "expression": "Do I press it once or hold it?",
+      "use": "Check a button action when a device guide gives a specific duration or number of presses.",
+      "context": [
+        "Do I press it once or hold it?",
+        "This model’s guide says to hold the blue button for two seconds."
+      ],
+      "expressionTask": "Explain the button action in this demonstration guide. Make clear that the action applies to this model rather than every device.",
+      "grammar": "For with a duration",
+      "pattern": "for + length of time",
+      "example": "Hold the button for two seconds.",
+      "task": "Hold the button ___ two seconds.",
+      "answer": "for",
+      "sound": "Press begins with P followed directly by R; do not insert a vowel between them. Cable has stress on CA. Keep the final D in hold before the next word.",
+      "model": "Press the blue button once.",
+      "dialogue": [
+        "The display cable is already connected. How do I switch it on?",
+        "Let us read this model’s guide instead of guessing.",
+        "Do I press it once or hold it?",
+        "To start this model, press and hold the blue button for two seconds.",
+        "The green light is on now. How do we switch it off later?",
+        "The guide says one short press of the same button. Let us keep the guide beside the screen."
+      ],
+      "reading": "For a classroom demonstration, a display cable is already connected by the organizer. Bella wants to switch it on, so she checks the guide for that particular model. To start it, the guide says to press and hold the blue button for two seconds. A green light shows that it is ready. The instruction to switch it off is different: one short press of the same button. Fenrir repeats both actions before trying. They do not assume that a control used on a different device works in the same way. The lesson practices reading the actual guide, not repairing or changing connections.",
+      "readingQ": "What is different about the start and stop actions for this model?",
+      "readingA": "Starting requires holding the blue button for two seconds; stopping uses one short press.",
+      "writing": "Write 45–65 words summarizing this model’s demonstration guide. Include both button actions and explain why you checked the guide.",
+      "writingSample": "For this model, start the display by holding the blue button for two seconds. A green light shows that it is ready. At the end, use one short press of the same button to stop it. We checked the guide because controls on another device may work differently.",
+      "listening": "For the model in this demonstration, hold the blue button for two seconds to start. When you finish, press that button once briefly to stop. Do not use two long presses; the guide gives different actions for starting and stopping.",
+      "question": "How does this guide say to stop the device?",
+      "correct": "One short press of the blue button",
+      "other": "Hold the button for two seconds",
+      "speaking": "Read the two demonstration instructions to a partner. Ask the partner to repeat which action starts the device and which action stops it.",
+      "speakingSample": "This guide is for the model in front of us. To start it, hold the blue button for two seconds. To stop it, use one short press of the same button. Could you repeat the two actions so that we can check the difference?"
+    },
+    {
+      "day": 149,
+      "unit": 19,
+      "title": "Check the parts shown in a kit diagram",
+      "goal": "I can compare a short parts list with a diagram and explain which step needs checking before continuing.",
+      "newItems": [
+        {
+          "word": "screw",
+          "ipa": "/skruː/",
+          "pos": "noun",
+          "definition": "A small metal fastening with a spiral ridge, turned to join parts.",
+          "example": "The kit list shows four short screws.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "screwdriver",
+          "ipa": "/ˈskruːˌdraɪvɚ/",
+          "pos": "noun",
+          "definition": "A hand tool with a shaped end used to turn screws.",
+          "example": "The picture shows a screwdriver beside the parts.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "assemble",
+          "ipa": "/əˈsɛmbəl/",
+          "pos": "verb",
+          "definition": "Put separate parts together to make something.",
+          "example": "The class will assemble a small display stand.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "on both sides",
+          "ipa": "/ɑn boʊθ saɪdz/",
+          "pos": "fixed phrase",
+          "definition": "On each of the two sides being described.",
+          "example": "The diagram shows a support on both sides.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "check each step",
+          "ipa": "/tʃɛk iːtʃ stɛp/",
+          "pos": "fixed phrase",
+          "definition": "Look carefully at every stage to see whether it matches the instructions.",
+          "example": "Check each step against the numbered diagram.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "part",
+        "picture",
+        "list",
+        "short",
+        "long"
+      ],
+      "mainWord": {
+        "word": "screw",
+        "ipa": "/skruː/",
+        "pos": "noun",
+        "definition": "A small metal fastening with a spiral ridge, turned to join parts.",
+        "example": "The kit list shows four short screws.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Screw and screwdriver are countable nouns. A screw is a fastening; a screwdriver is the tool that turns it. Assemble is a verb, not the name of a part. Both refers to two, so on both sides means on each of those two sides.",
+      "wordTask": "Which is the fastening: a screw or a screwdriver?",
+      "wordSample": "A screw is the fastening; a screwdriver is the tool used to turn it.",
+      "expression": "Does this match the diagram?",
+      "use": "Compare the parts or arrangement in front of you with the specified picture before continuing.",
+      "context": [
+        "Does this match the diagram?",
+        "Not yet. The picture shows short screws, but these are long ones."
+      ],
+      "expressionTask": "Read a display kit’s parts list. Explain one mismatch and ask which part belongs in the pictured step.",
+      "grammar": "Both with a plural noun",
+      "pattern": "both + plural noun",
+      "example": "Both sides need a support.",
+      "task": "Both ___ need a support.",
+      "answer": "sides",
+      "sound": "Screw begins with S, K and R together. Do not add a vowel between them. Screwdriver has its main stress on SCREW. Assemble has stress on SEM.",
+      "model": "The kit list shows four short screws.",
+      "dialogue": [
+        "Before we assemble the display stand, can we check the parts list?",
+        "Yes. It shows four short screws and a screwdriver.",
+        "Does this match the diagram? These screws look long.",
+        "The bag has two kinds. Let us find the four short ones shown in this step.",
+        "There is a support on both sides in the picture.",
+        "Right. We will check each step against its number instead of skipping ahead."
+      ],
+      "reading": "A class kit contains parts for a small display stand. Before learners assemble it, Bella reads the parts list. It shows four short screws and a screwdriver. The bag also contains long screws for a later stage, so choosing by number alone would not be enough. Fenrir compares the current picture with the labeled bags. The diagram shows a support on both sides. They agree to check each step against the numbered guide and ask the teacher about the long screws before using them. The useful information is the combination of part name, number and position.",
+      "readingQ": "Why is counting four screws not enough to choose the parts for this step?",
+      "readingA": "The current step needs short screws, while the kit also contains long ones for a later stage.",
+      "writing": "Write 45–65 words explaining what a partner should check in this kit diagram. Include the type and number of parts and how the guide shows their position.",
+      "writingSample": "Before we assemble the display stand, let us read the list for this step. It shows four short screws, not the long ones for later. The picture also shows a support on both sides. We should match the part names, numbers and positions, then ask the teacher about anything unclear.",
+      "listening": "The first step needs four short screws. There are also four long screws in a different bag, but those belong to the final step. The screwdriver shown in the picture is the tool, not another fastening to count.",
+      "question": "Which parts does the first step need?",
+      "correct": "Four short screws",
+      "other": "Four long screws",
+      "speaking": "Compare a parts list with a picture. State one mismatch, explain why the number alone is not enough and ask for clarification.",
+      "speakingSample": "The list needs four short screws. We have counted four, but these are long ones. That does not match the current diagram. Could you show us which bag belongs to the first step? We also need to check the support on each side."
+    },
+    {
+      "day": 150,
+      "unit": 19,
+      "title": "Read actions and amounts in a cold recipe",
+      "goal": "I can distinguish washing, removing water and combining ingredients in a short recipe.",
+      "newItems": [
+        {
+          "word": "rinse",
+          "ipa": "/rɪns/",
+          "pos": "verb",
+          "definition": "Wash something briefly with clean water.",
+          "example": "Rinse the tomatoes before preparing them.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "drain",
+          "ipa": "/dreɪn/",
+          "pos": "verb",
+          "definition": "Let unwanted liquid flow away from something.",
+          "example": "Drain the washed leaves before putting them in the bowl.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "mixture",
+          "ipa": "/ˈmɪkstʃɚ/",
+          "pos": "noun",
+          "definition": "Two or more substances or things combined together.",
+          "example": "Stir the oil and lemon juice into a mixture.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "in small pieces",
+          "ipa": "/ɪn smɔl ˈpiːsɪz/",
+          "pos": "fixed phrase",
+          "definition": "Separated into parts that are not large.",
+          "example": "The salad has cucumber in small pieces.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "a pinch of",
+          "ipa": "/ə pɪntʃ əv/",
+          "pos": "fixed phrase",
+          "definition": "A very small amount of a dry ingredient held between finger and thumb.",
+          "example": "The recipe lists a pinch of salt.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "salad",
+        "tomato",
+        "bowl",
+        "oil",
+        "salt"
+      ],
+      "mainWord": {
+        "word": "rinse",
+        "ipa": "/rɪns/",
+        "pos": "verb",
+        "definition": "Wash something briefly with clean water.",
+        "example": "Rinse the tomatoes before preparing them.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Rinse adds clean water briefly; drain lets unwanted water leave. Mixture is countable here: a mixture of oil and lemon juice. A pinch of describes a small amount, not a full teaspoon. The recipe gives amounts for this dish, not for every recipe.",
+      "wordTask": "What does rinse ask you to do to the leaves?",
+      "wordSample": "Wash the leaves briefly with clean water.",
+      "expression": "Does this happen before or after mixing?",
+      "use": "Check the order of two recipe actions when separate instructions could be confused.",
+      "context": [
+        "Does this happen before or after mixing?",
+        "Drain the leaves before adding the dressing mixture."
+      ],
+      "expressionTask": "Explain the order of rinsing, draining and adding a dressing. Ask a partner to identify what happens before mixing.",
+      "grammar": "Before with an -ing form",
+      "pattern": "before + -ing form",
+      "example": "Drain the leaves before adding the mixture.",
+      "task": "Drain the leaves before ___ the mixture.",
+      "answer": "adding",
+      "sound": "Rinse begins with R and finishes with N followed by S. Drain begins with D and R together. Mixture has stress on MIX and includes a CH sound.",
+      "model": "Rinse the tomatoes before preparing them.",
+      "dialogue": [
+        "The salad recipe has several short actions. Which one comes first?",
+        "Rinse the leaves, then drain them. The prepared cucumber is already in small pieces.",
+        "Does draining happen before or after mixing?",
+        "Before. We do not want extra water in the bowl.",
+        "What goes in the dressing mixture?",
+        "The listed oil and lemon juice, with a pinch of salt. Then we can add it to the salad."
+      ],
+      "reading": "Bella reads a cold salad recipe before the class starts. It tells her to rinse the leaves and then drain them. The cucumber is already prepared in small pieces. In a separate bowl, Fenrir combines the listed oil and lemon juice into a mixture and adds a pinch of salt. They check the order before adding this dressing to the salad. Rinsing and draining are not opposite instructions to choose between: both actions appear in sequence. The first washes the leaves, and the second removes unwanted water. Mixing the dressing comes separately.",
+      "readingQ": "Why does the recipe include both rinsing and draining?",
+      "readingA": "Rinsing washes the leaves; draining removes unwanted water before the dressing is added.",
+      "writing": "Write 45–65 words summarizing this recipe sequence. Explain the purpose of rinsing and draining and name what is combined separately.",
+      "writingSample": "First, rinse the leaves with clean water. Then drain them so that unwanted water does not stay in the salad bowl. The cucumber is already in small pieces. Separately, combine the listed oil and lemon juice with a pinch of salt. Add that mixture after the leaves have drained.",
+      "listening": "The leaves have already been rinsed, but they are still wet. Drain them before adding anything else. Fenrir has prepared the oil and lemon juice mixture in another bowl. Do not rinse the salad again after adding that mixture.",
+      "question": "What should happen next to the already washed leaves?",
+      "correct": "Drain them",
+      "other": "Add the dressing immediately",
+      "speaking": "Explain three recipe actions to a partner in order. Give a reason for draining and distinguish it from mixing the dressing.",
+      "speakingSample": "Rinse the leaves first, then drain them to remove unwanted water. In another bowl, combine the listed oil, lemon juice and a pinch of salt. Add that mixture only after draining. Rinsing washes the leaves; it does not remove the extra water."
+    },
+    {
+      "day": 151,
+      "unit": 19,
+      "title": "Find a missed step before repeating a task",
+      "goal": "I can compare a sequence with a result and ask whether to repeat one stage or the whole task.",
+      "newItems": [
+        {
+          "word": "sequence",
+          "ipa": "/ˈsiːkwəns/",
+          "pos": "noun",
+          "definition": "The order in which a set of actions or events happens.",
+          "example": "The sequence is open, label and close.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "start again",
+          "ipa": "/stɑrt əˈɡɛn/",
+          "pos": "fixed phrase",
+          "definition": "Begin an activity another time.",
+          "example": "We may not need to start again if only one label is missing.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "one after another",
+          "ipa": "/wʌn ˈæftɚ əˈnʌðɚ/",
+          "pos": "fixed phrase",
+          "definition": "In a series, with each following the previous one.",
+          "example": "Read the numbered steps one after another.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "the other way round",
+          "ipa": "/ði ˈʌðɚ weɪ raʊnd/",
+          "pos": "fixed phrase",
+          "definition": "In the opposite order or position to the one just described.",
+          "example": "Write the name before closing the card, not the other way round.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "go over the steps",
+          "ipa": "/ɡoʊ ˈoʊvɚ ðə stɛps/",
+          "pos": "fixed phrase",
+          "definition": "Review the actions in a procedure carefully.",
+          "example": "Let us go over the steps to find the missing label.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "name",
+        "card",
+        "label",
+        "open",
+        "close"
+      ],
+      "mainWord": {
+        "word": "sequence",
+        "ipa": "/ˈsiːkwəns/",
+        "pos": "noun",
+        "definition": "The order in which a set of actions or events happens.",
+        "example": "The sequence is open, label and close.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Sequence is a countable noun: a sequence of three actions. Start again can mean repeat the whole activity, so check what needs repeating. The other way round compares two possible orders or positions, rather than naming a specific direction by itself.",
+      "wordTask": "What does sequence mean in open, label and close?",
+      "wordSample": "It means the order of the three actions.",
+      "expression": "Do we repeat this step or the whole task?",
+      "use": "Ask how much needs repeating when a result does not match the instructions.",
+      "context": [
+        "Do we repeat this step or the whole task?",
+        "Just reopen the card and add the missing name. The other cards are complete."
+      ],
+      "expressionTask": "One name card lacks a name. Review the three steps and decide what needs correcting without discarding completed work.",
+      "grammar": "Before and after express opposite orders",
+      "pattern": "do one action + before + -ing form",
+      "example": "Write the name before closing the card.",
+      "task": "Write the name ___ closing the card.",
+      "answer": "before",
+      "sound": "Sequence has stress on SEE. In steps, finish with P followed by S. Keep before and after clear when the order changes the meaning.",
+      "model": "The sequence has three steps.",
+      "dialogue": [
+        "This folded name card has no name. Do we need to start again?",
+        "Let us go over the steps before deciding.",
+        "The sequence says open the card, write the name, then close it.",
+        "Read those actions one after another. Which one is missing?",
+        "Writing the name. I closed it first, but the guide says the other way round.",
+        "Then just reopen this card and add the name. The rest are already complete."
+      ],
+      "reading": "The class is making folded name cards. The sequence has three actions: open a card, write a name and close it. Learners read the steps one after another. One card is closed but has no name, so Bella asks whether to start again. Fenrir suggests that they go over the steps first. The guide says to write before closing, not the other way round. Only the name is missing on this card; the others are complete. Bella reopens it and adds the name. Checking the missing action saves her from repeating the whole set unnecessarily.",
+      "readingQ": "Why does Bella not need to repeat the whole set of cards?",
+      "readingA": "Only one card is missing its name; the other cards are complete.",
+      "writing": "Write 45–65 words explaining a missed step and a suitable correction. Distinguish fixing one card from repeating the whole set.",
+      "writingSample": "One name card is closed but has no name. The sequence should be open, write the name and close. We do not need to start again with every card because the others are complete. We should reopen this card, add the missing name and close it again after checking.",
+      "listening": "We checked all ten cards. Nine have their names and are complete. Only the blue card has no name. Reopen that one and add Mina’s name. There is no need to repeat the other nine or throw the complete cards away.",
+      "question": "How much of the task needs correcting?",
+      "correct": "The one blue card",
+      "other": "All ten cards",
+      "speaking": "Explain a missed step to a partner, propose a limited correction and ask the partner to confirm which completed work can be kept.",
+      "speakingSample": "The blue card is missing its name, but the other nine are complete. Let us reopen that one and add Mina’s name before closing it. We do not need to start again with the whole set. Can you confirm that the other cards are correct?"
+    },
+    {
+      "day": 152,
+      "unit": 19,
+      "title": "Arrange a display using a short plan",
+      "goal": "I can combine position, spacing and order instructions and explain the plan to another learner.",
+      "newItems": [
+        {
+          "word": "leave a gap",
+          "ipa": "/liːv ə ɡæp/",
+          "pos": "fixed phrase",
+          "definition": "Keep a space between two things instead of putting them directly together.",
+          "example": "Leave a gap between the two picture cards.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "make sure that",
+          "ipa": "/meɪk ʃʊr ðæt/",
+          "pos": "fixed phrase",
+          "definition": "Check or take action so that the stated thing is true.",
+          "example": "Make sure that every picture has a label.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "in a straight line",
+          "ipa": "/ɪn ə streɪt laɪn/",
+          "pos": "fixed phrase",
+          "definition": "Arranged along a line without bends.",
+          "example": "Place the cards in a straight line.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "leave space for",
+          "ipa": "/liːv speɪs fɔr/",
+          "pos": "fixed phrase",
+          "definition": "Keep an area available for something that needs to go there.",
+          "example": "Leave space for the title above the pictures.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "follow the arrows",
+          "ipa": "/ˈfɑloʊ ði ˈæroʊz/",
+          "pos": "fixed phrase",
+          "definition": "Use the pointed direction marks to see where to go or which step comes next.",
+          "example": "Follow the arrows to find the order of the pictures.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "picture",
+        "title",
+        "label",
+        "space",
+        "arrow"
+      ],
+      "mainWord": {
+        "word": "leave a gap",
+        "ipa": "/liːv ə ɡæp/",
+        "pos": "fixed phrase",
+        "definition": "Keep a space between two things instead of putting them directly together.",
+        "example": "Leave a gap between the two picture cards.",
+        "category": "fixed_phrase",
+        "status": "new"
+      },
+      "mainIntroduction": "Learn a useful expression and use it yourself.",
+      "mainWordForms": "Leave a gap refers to a space between things. Leave space for names what needs the empty area. Make sure that introduces something to check. Follow the arrows can describe a route or a sequence; here it means the order of pictures.",
+      "wordTask": "What does leave a gap between the cards ask you to do?",
+      "wordSample": "Keep a space between the cards instead of putting their edges together.",
+      "expression": "Can you repeat the order back to me?",
+      "use": "Ask a partner to explain the instructions in their own words so that you can check shared understanding.",
+      "context": [
+        "Can you repeat the order back to me?",
+        "Yes. Title above, three pictures in a row and one label below each picture."
+      ],
+      "expressionTask": "Explain a display plan with a title, three pictures and labels. Ask your partner to repeat the position and spacing details.",
+      "grammar": "Make sure that with a complete clause",
+      "pattern": "make sure that + subject + verb",
+      "example": "Make sure that every picture has a label.",
+      "task": "Make sure that every picture ___ a label.",
+      "answer": "has",
+      "sound": "Gap ends with P; keep the lips closed briefly before the next word. Straight begins with S, T and R together. Arrows has stress on AR and a voiced Z ending.",
+      "model": "Leave a gap between the picture cards.",
+      "dialogue": [
+        "Let us arrange the display using this plan. Leave space for the title above the pictures.",
+        "Should the pictures be in a straight line?",
+        "Yes, and leave a gap between each pair. Follow the arrows for the story order.",
+        "Where should the labels go?",
+        "Below the pictures. Make sure that every picture has one. Can you repeat the order back to me?",
+        "Title above, pictures in a straight line with gaps, and one label below each picture."
+      ],
+      "reading": "Bella and Fenrir prepare a class display from a simple plan. They leave space for the title above three picture cards. The cards go in a straight line, with a small space between them. The instruction says to leave a gap so that the display does not look crowded. They follow the arrows to put the story pictures in order. Finally, they make sure that every picture has a label below it. Before moving anything onto the board, Fenrir repeats the positions back to Bella. This checks both the order of the story and the arrangement of the display.",
+      "readingQ": "What two different things does Fenrir check when he repeats the plan?",
+      "readingA": "The story order and the positions or spacing of the display items.",
+      "writing": "Write 45–65 words giving the display instructions to someone who has not seen the model. Include the title, order, gaps and labels.",
+      "writingSample": "Leave space for the title at the top. Put the three pictures in a straight line below it and leave a gap between each pair. Follow the arrows for the story order. Put one label below each picture. Before fixing the cards to the board, repeat the arrangement to your partner.",
+      "listening": "The title goes above the pictures. Put the three pictures in a straight line and leave a small gap between them. Each label goes below its picture, not above it. The arrows show which picture starts the story; they do not show where to put the title.",
+      "question": "Where should each label go?",
+      "correct": "Below its picture",
+      "other": "Above its picture",
+      "speaking": "Give a partner a short display plan without showing the example. Ask for a repeat-back and correct one position if necessary.",
+      "speakingSample": "Put the title at the top and the three pictures in a straight line below it. Leave a gap between the pictures. Follow the arrows for their story order, then put a label below each one. Could you repeat the arrangement before we start?",
+      "transferCheck": {
+        "source": "A museum class is making four animal cards. First, place each picture face up with its top pointing toward you. Next, write one name label below each picture. Put the cards in the order shown by the numbered arrows: bird, fish, horse, rabbit. Leave a small gap between the cards. Keep the answer sheet face down until everyone has tried. Three cards already have labels; only the fish card needs one.",
+        "dictation": "Keep the answer sheet face down until everyone has tried.",
+        "tasks": [
+          [
+            "1 · Distinguish position details",
+            "If the front of a picture is visible but its top is at the bottom, is it face down or upside down?"
+          ],
+          [
+            "2 · Follow the sequence",
+            "Which animal comes after the fish, and where should its name label go?"
+          ],
+          [
+            "3 · Correct only what is missing",
+            "Must all four cards be made again? Explain the specific correction needed."
+          ],
+          [
+            "4 · Listen and write",
+            "Write the dictation sentence and state when the answer sheet may be revealed."
+          ],
+          [
+            "5 · Give clear instructions",
+            "Write 40–60 words explaining the card order, spacing, missing-label correction and when to reveal the answers."
+          ]
+        ],
+        "answer": "1. It is face up but upside down; the front is visible while the usual top is at the bottom. 2. The horse comes after the fish. Its label goes below its picture. 3. No. Add the missing label to the fish card; the other three already have labels. 4. Keep the answer sheet face down until everyone has tried. Reveal it after everyone has tried. 5. Sample: Arrange the pictures face up in this order: bird, fish, horse and rabbit. Check that their tops point toward you and leave gaps between them. Add the missing name below the fish; the other labels are complete. Keep the answer sheet face down until everyone has tried."
+      }
+    }
+  ]
+}

@@ -1,0 +1,865 @@
+{
+  "number": 2,
+  "title": "Routines and changes",
+  "lessons": [
+    {
+      "day": 9,
+      "unit": 2,
+      "title": "Compare your routine with an earlier routine",
+      "goal": "I can explain a simple change in my everyday routine.",
+      "newItems": [
+        {
+          "word": "usual",
+          "ipa": "/ˈjuʒuəl/",
+          "pos": "adjective",
+          "definition": "Happening or done most of the time.",
+          "example": "I caught my usual bus this morning.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "often",
+          "ipa": "/ˈɔfən/",
+          "pos": "adverb",
+          "definition": "Many times, or on many occasions.",
+          "example": "We often walk to work.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "still",
+          "ipa": "/stɪl/",
+          "pos": "adverb",
+          "definition": "Continuing to happen at the time you are talking about.",
+          "example": "I still take the bus on Fridays.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "also",
+          "ipa": "/ˈɔlsoʊ/",
+          "pos": "adverb",
+          "definition": "In addition to something already mentioned.",
+          "example": "I walk to work, and I also walk home.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "anymore",
+          "ipa": "/ˌɛniˈmɔr/",
+          "pos": "adverb",
+          "definition": "Now, when something was different before; usually used in a negative sentence.",
+          "example": "I do not drive to work anymore.",
+          "category": "new_word",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "carry",
+        "path",
+        "crowded",
+        "comfortable",
+        "possible"
+      ],
+      "mainWord": {
+        "word": "usual",
+        "ipa": "/ˈjuʒuəl/",
+        "pos": "adjective",
+        "definition": "Happening or done most of the time.",
+        "example": "I caught my usual bus this morning.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Adjective: usual. Adverb: usually. Usually is a related form, not a second new item.",
+      "wordTask": "Name something you do at your usual time. Start: I usually ... at ... .",
+      "expression": "Not anymore.",
+      "use": "Use this short answer to say that something was true before but is not true now.",
+      "context": [
+        "Do you drive to work?",
+        "Not anymore. I take the bus now."
+      ],
+      "expressionTask": "A friend asks if you still take a taxi to class. You now walk. Give a short answer and explain the change.",
+      "grammar": "Present simple: habits and frequency",
+      "pattern": "Put often before most main verbs, but after be. Use anymore near the end of a negative sentence.",
+      "example": "I often walk to work.",
+      "task": "I ___ walk to work.",
+      "answer": "often",
+      "sound": "Usual has stress at the beginning. Keep your voice on for the middle sound, as in the middle of television. Often can be said with or without a T sound; both are common.",
+      "model": "This is my usual bus. I often take it.",
+      "dialogue": [
+        "Is this your usual bus?",
+        "Yes, but I do not take it every day anymore.",
+        "How do you travel on the other days?",
+        "I often walk along the river path.",
+        "Do you still drive when it rains?",
+        "No. I also take the bus in wet weather."
+      ],
+      "reading": "Bella has changed her journey to work. Her usual bus is crowded, so she often walks along a quiet path instead. She also carries her lunch in a small bag. She does not drive to work anymore. However, she still takes the bus on Fridays because she finishes late. Walking is possible on most days, but Bella keeps another way to travel when she needs it.",
+      "readingQ": "Why does Bella walk on most days but take the bus on Fridays?",
+      "readingA": "Her usual bus is crowded, so she walks on most days. She finishes late on Fridays, so she takes the bus.",
+      "writing": "Write four sentences comparing your routine now with an earlier routine. Include one thing that continues and one thing that has stopped.",
+      "listening": "Hello, it is Fenrir. I am taking a different bus this week. My usual stop is closed. Please meet me outside the library at eight ten, not at the station. We can walk to class from there.",
+      "question": "Where should the listener meet Fenrir?",
+      "correct": "Outside the library",
+      "other": "At the station",
+      "speaking": "Tell your partner two things about your usual morning. Explain one recent change. Ask whether their morning has changed too.",
+      "speakingSample": "I usually eat breakfast at seven and take the bus at eight. I do not drive to work anymore because the roads are crowded. I still take the bus on Fridays, but I often walk on other days. Has your morning routine changed too?",
+      "wordSample": "I usually eat breakfast at seven.",
+      "writingSample": "Now I walk to work three mornings a week. Last year I took the bus every day. I still have breakfast at home. I no longer buy a coffee at the station each morning."
+    },
+    {
+      "day": 10,
+      "unit": 2,
+      "title": "Describe a simple change in a meal",
+      "goal": "I can explain what I do when preparing a simple meal.",
+      "newItems": [
+        {
+          "word": "bake",
+          "ipa": "/beɪk/",
+          "pos": "verb",
+          "definition": "To cook food in an oven.",
+          "example": "We bake bread on Saturday.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "roast",
+          "ipa": "/roʊst/",
+          "pos": "verb",
+          "definition": "To cook food, such as vegetables or meat, in an oven with dry heat.",
+          "example": "I roast potatoes with a little oil.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "mix",
+          "ipa": "/mɪks/",
+          "pos": "verb",
+          "definition": "To put things together and move them around so they combine.",
+          "example": "Mix the flour and water in a bowl.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "cooker",
+          "ipa": "/ˈkʊkɚ/",
+          "pos": "noun",
+          "definition": "A machine for cooking food, with an oven or hot parts on top; common in British English.",
+          "example": "The flat has an electric cooker.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "healthy",
+          "ipa": "/ˈhɛlθi/",
+          "pos": "adjective",
+          "definition": "Good for your body and helping you stay well.",
+          "example": "Fruit can be part of a healthy meal.",
+          "category": "new_word",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "comfortable",
+        "repair",
+        "useful",
+        "instruction",
+        "include"
+      ],
+      "mainWord": {
+        "word": "bake",
+        "ipa": "/beɪk/",
+        "pos": "verb",
+        "definition": "To cook food in an oven.",
+        "example": "We bake bread on Saturday.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Verb: bake, bakes, baked, baking. The final e is removed before -ing.",
+      "wordTask": "Name something people bake. Say where they cook it.",
+      "expression": "What goes in next?",
+      "use": "Ask this when you need the next ingredient or step while cooking.",
+      "context": [
+        "I have put the flour in the bowl. What goes in next?",
+        "Add the water, then mix everything together."
+      ],
+      "expressionTask": "You have put vegetables in a pan but do not know the next step. Ask a helpful question, then give a possible reply.",
+      "grammar": "Giving instructions in order",
+      "pattern": "Use the base form of a verb for an instruction. First, then and finally help the listener follow the order.",
+      "example": "Mix the flour and water.",
+      "task": "___ the flour and water.",
+      "answer": "Mix",
+      "sound": "Keep the final K in bake and roast’s final ST short. Do not add a vowel after the final consonants. Pause between different cooking steps.",
+      "model": "First mix it. Then bake it.",
+      "dialogue": [
+        "What are you making?",
+        "I am going to bake a small loaf of bread.",
+        "Can I help?",
+        "Yes. Mix the flour and water in this bowl.",
+        "Are we having anything with the bread?",
+        "Roast vegetables. I want a simple, healthy meal."
+      ],
+      "reading": "Fenrir wants to make a healthy dinner. First, he mixes flour and water for a small loaf of bread. He puts it in the oven to bake. Then he cuts some vegetables and prepares to roast them. His electric cooker has two shelves, so there is space for both dishes. Bella reads the instructions and helps him check the cooking time. They clean the table while the food cooks.",
+      "readingQ": "How can Fenrir cook the bread and vegetables at the same time?",
+      "readingA": "His cooker has two shelves, so there is space for both dishes.",
+      "writing": "Write four short steps for a meal you know. Tell the reader what to prepare, what to do next and when it is ready.",
+      "listening": "The bread needs another ten minutes. Do not take it out yet. Please put the plates on the table while I check the vegetables. We have enough food, so there is no need to make more.",
+      "question": "What should the listener do now?",
+      "correct": "Put the plates on the table",
+      "other": "Take the bread out",
+      "speaking": "Explain three steps for making a familiar dish. Your partner asks what goes in next. Answer without reading the model.",
+      "photo": {
+        "id": "10481791",
+        "asset": "assets/a2-photos/10481791.jpg",
+        "sourceURL": "https://www.pexels.com/photo/bread-baking-in-the-oven-10481791/",
+        "credit": "Chris F · Pexels",
+        "licenseURL": "https://www.pexels.com/license/",
+        "caption": "Bread baking inside an oven.",
+        "alt": "Loaves of bread baking on two oven shelves.",
+        "fit": "cover",
+        "focalY": 0.5,
+        "dimensions": [
+          1600,
+          1340
+        ]
+      },
+      "speakingSample": "First, wash and cut the vegetables. Next, put them in a bowl. If you ask what goes in next, I would say: Add a little oil and mix everything. Finally, put the vegetables in the oven and roast them until they are ready.",
+      "wordSample": "People bake bread in an oven.",
+      "writingSample": "First, wash the vegetables and cut them into small pieces. Next, heat the soup as directed and add the prepared vegetables. Then stir and continue cooking until the vegetables are ready. Finally, let a small spoonful cool before tasting."
+    },
+    {
+      "day": 11,
+      "unit": 2,
+      "title": "Arrange an everyday collection",
+      "goal": "I can explain how and when to collect an item.",
+      "newItems": [
+        {
+          "word": "collect",
+          "ipa": "/kəˈlɛkt/",
+          "pos": "verb",
+          "definition": "To go to a place and take something away with you.",
+          "example": "I will collect the parcel after work.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "deliver",
+          "ipa": "/dɪˈlɪvɚ/",
+          "pos": "verb",
+          "definition": "To take something to a person or place.",
+          "example": "The shop can deliver the food tomorrow.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "post",
+          "ipa": "/poʊst/",
+          "pos": "noun",
+          "definition": "Letters and parcels sent or received through a mail service; common in British English.",
+          "example": "Is there any post for me today?",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "newspaper",
+          "ipa": "/ˈnuzˌpeɪpɚ/",
+          "pos": "noun",
+          "definition": "A set of printed pages with news and other information.",
+          "example": "My neighbor reads a newspaper at breakfast.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "magazine",
+          "ipa": "/ˈmæɡəˌzin/",
+          "pos": "noun",
+          "definition": "A thin book with articles and pictures, usually about a subject or interest.",
+          "example": "I bought a magazine about gardens.",
+          "category": "new_word",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "envelope",
+        "receive",
+        "available",
+        "afterwards",
+        "lend"
+      ],
+      "mainWord": {
+        "word": "collect",
+        "ipa": "/kəˈlɛkt/",
+        "pos": "verb",
+        "definition": "To go to a place and take something away with you.",
+        "example": "I will collect the parcel after work.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Verb: collect, collects, collected, collecting.",
+      "wordTask": "You left a bag at reception. Say when you can collect it.",
+      "expression": "Is there anything for me?",
+      "use": "Ask whether someone has an item or message waiting for you. Name the item if the situation is not clear.",
+      "context": [
+        "Is there anything for me?",
+        "Yes. There is an envelope and a small parcel."
+      ],
+      "expressionTask": "Ask a receptionist whether a parcel has arrived for you. Then say your name so they can check.",
+      "grammar": "Present simple questions with does",
+      "pattern": "Use does with he, she or a singular subject. The main verb stays in its base form.",
+      "example": "Does the shop deliver on Saturdays?",
+      "task": "Does the shop ___ on Saturdays?",
+      "answer": "deliver",
+      "sound": "Collect has stress on the second syllable. Deliver has stress on the middle syllable. Keep the first syllable light rather than giving every part equal stress.",
+      "model": "Can I collect it? Does the shop deliver?",
+      "dialogue": [
+        "Is there anything for me?",
+        "There is a parcel, but it is at the front desk.",
+        "Can I collect it after six?",
+        "Yes. The desk stays open until seven.",
+        "Does anyone deliver the post to our rooms?",
+        "No. We collect it downstairs."
+      ],
+      "reading": "Bella usually reads a newspaper at breakfast. Today she also wants a gardening magazine, so she visits a small shop. She asks whether the shop can deliver it next month. The owner explains that it cannot deliver magazines, but it can keep a copy for her to collect. When Bella gets home, she finds a card with the post. A parcel is waiting at reception. She can collect that after work too.",
+      "readingQ": "Which two items will Bella collect, and where?",
+      "readingA": "She will collect a magazine from the shop and a parcel from reception.",
+      "writing": "Write a short message to reception. Give your name, describe the item you expect and say when you can collect it.",
+      "listening": "Good afternoon. Your parcel has arrived, but please do not come to the shop for it. It is at our warehouse on Lake Road. Bring the message on your phone when you collect it. We close at five.",
+      "question": "Where is the parcel?",
+      "correct": "At the warehouse on Lake Road",
+      "other": "At the shop",
+      "speaking": "Role-play a collection. Ask whether your item has arrived, check the place and time, and repeat the arrangement to confirm it.",
+      "speakingSample": "Has a parcel arrived for Bella? I received a message about it. Where should I collect it, and when are you open? Let me check the arrangement: I will come to the front desk at six, before you close at seven.",
+      "wordSample": "I can collect my bag from reception at six this evening.",
+      "writingSample": "Hello, my name is Eva Green. I am expecting a blue bag containing two books. I can collect it from reception after three today. Please let me know if it has not arrived by then."
+    },
+    {
+      "day": 12,
+      "unit": 2,
+      "title": "Talk about an interest and choose a group",
+      "goal": "I can describe an interest and ask about a suitable group.",
+      "newItems": [
+        {
+          "word": "hobby",
+          "ipa": "/ˈhɑbi/",
+          "pos": "noun",
+          "definition": "An activity you enjoy doing in your free time.",
+          "example": "Taking photographs is my hobby.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "club",
+          "ipa": "/klʌb/",
+          "pos": "noun",
+          "definition": "A group of people who meet for a shared interest or activity.",
+          "example": "I joined a photography club.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "funny",
+          "ipa": "/ˈfʌni/",
+          "pos": "adjective",
+          "definition": "Making you laugh.",
+          "example": "The teacher told a funny story.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "serious",
+          "ipa": "/ˈsɪriəs/",
+          "pos": "adjective",
+          "definition": "Thinking carefully about something and not joking.",
+          "example": "She is serious about learning to paint.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "clever",
+          "ipa": "/ˈklɛvɚ/",
+          "pos": "adjective",
+          "definition": "Able to understand, learn or think of good ideas quickly.",
+          "example": "That is a clever way to fix the camera.",
+          "category": "new_word",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "event",
+        "polite",
+        "opinion",
+        "suggest",
+        "agree"
+      ],
+      "mainWord": {
+        "word": "hobby",
+        "ipa": "/ˈhɑbi/",
+        "pos": "noun",
+        "definition": "An activity you enjoy doing in your free time.",
+        "example": "Taking photographs is my hobby.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Noun: hobby; plural: hobbies. Change y to ies after the consonant b.",
+      "wordTask": "Name a hobby and say one thing a person needs for it.",
+      "expression": "Is it suitable for beginners?",
+      "use": "Ask whether an activity is appropriate for people with little or no experience.",
+      "context": [
+        "I saw your drawing club online. Is it suitable for beginners?",
+        "Yes. You do not need any experience."
+      ],
+      "expressionTask": "You want to try a new hobby but have never done it before. Ask the group organizer whether you can join.",
+      "grammar": "Like followed by an -ing form",
+      "pattern": "Use like plus an -ing form to talk about an activity you enjoy. Keep the activity as a single idea.",
+      "example": "I like taking photographs.",
+      "task": "I like ___ photographs.",
+      "answer": "taking",
+      "sound": "Hobby starts with a gentle breath. Keep the two syllables clear, with stress on the first. In hobbies, the final sound is voiced Z, not S.",
+      "model": "My hobby is taking photographs.",
+      "dialogue": [
+        "Have you got a hobby?",
+        "Yes. I like taking photographs.",
+        "There is a camera club near here.",
+        "Is it suitable for beginners?",
+        "Yes. The group is friendly, and the teacher is funny.",
+        "Good. I am serious about learning, but I want to enjoy it too."
+      ],
+      "reading": "Photography is Bella’s favorite hobby. She wants to learn with other people, so she visits a camera club. The teacher tells a funny story about taking a picture with the camera facing the wrong way. Then he shows a clever way to hold a phone steady. The group laughs, but everyone is serious about improving. Bella asks whether beginners can join and learns that the first meeting is free.",
+      "readingQ": "What does Bella learn about joining the club?",
+      "readingA": "Beginners can join, and the first meeting is free.",
+      "writing": "Write a message asking about a club. Say which hobby interests you, describe your experience and ask two practical questions.",
+      "listening": "Thanks for asking about the art group. Beginners are welcome. Our next meeting is Thursday at six, but we are meeting at the library this week because people are painting the art room. Bring a pencil; we provide paper.",
+      "question": "What should the listener bring?",
+      "correct": "A pencil",
+      "other": "Paper",
+      "speaking": "Ask your partner about a hobby. Suggest a club and answer a question about whether it is suitable. Agree on one question to ask the organizer.",
+      "speakingSample": "What do you enjoy doing in your free time? If you like taking pictures, we could try the camera club. Beginners are welcome, so we do not need any experience. Let’s ask the organizer whether we need to bring a camera or can use our phones.",
+      "wordSample": "My hobby is drawing. I need a pencil and some paper.",
+      "writingSample": "Hello, I am interested in your drawing club. I enjoy using pencils but have little experience. When does the group meet, and what should I bring to the first session? Thank you."
+    },
+    {
+      "day": 13,
+      "unit": 2,
+      "title": "Set a practical exercise target",
+      "goal": "I can describe an activity and explain a simple personal goal.",
+      "newItems": [
+        {
+          "word": "health",
+          "ipa": "/hɛlθ/",
+          "pos": "noun",
+          "definition": "The condition of a person’s body and mind.",
+          "example": "Walking can be good for your health.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "gym",
+          "ipa": "/dʒɪm/",
+          "pos": "noun",
+          "definition": "A place with equipment for exercise.",
+          "example": "The gym opens at seven.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "runner",
+          "ipa": "/ˈrʌnɚ/",
+          "pos": "noun",
+          "definition": "A person who runs, especially for exercise or in races.",
+          "example": "The runner stopped for some water.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "goal",
+          "ipa": "/ɡoʊl/",
+          "pos": "noun",
+          "definition": "Something you want to achieve.",
+          "example": "My goal is to walk for twenty minutes each day.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "score",
+          "ipa": "/skɔr/",
+          "pos": "noun",
+          "definition": "The number of points a person or team gets in a game.",
+          "example": "The final score was three to two.",
+          "category": "new_word",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "healthy",
+        "often",
+        "still",
+        "club",
+        "possible"
+      ],
+      "mainWord": {
+        "word": "health",
+        "ipa": "/hɛlθ/",
+        "pos": "noun",
+        "definition": "The condition of a person’s body and mind.",
+        "example": "Walking can be good for your health.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Noun: health, usually uncountable. Healthy is the related adjective; review it from Day 10.",
+      "wordTask": "Say one everyday action that can be good for your health.",
+      "expression": "Let’s start with something simple.",
+      "use": "Suggest an easy first step when a person is learning or beginning an activity.",
+      "context": [
+        "I want to exercise, but I am not a strong runner.",
+        "Let’s start with something simple. We can walk first."
+      ],
+      "expressionTask": "A friend wants to start exercising but feels worried. Suggest a manageable first step and say when you could do it together.",
+      "grammar": "Want to followed by a base verb",
+      "pattern": "Use want to plus the base form of the next verb to explain a plan or wish.",
+      "example": "I want to walk after lunch.",
+      "task": "I want ___ walk after lunch.",
+      "answer": "to",
+      "sound": "Health ends with an unvoiced TH. Let air pass around the tongue tip at the teeth. Do not replace the ending with a strong T or S.",
+      "model": "I want to improve my health.",
+      "dialogue": [
+        "Are you going to the gym today?",
+        "No. I want to walk in the park instead.",
+        "What is your goal this month?",
+        "To walk for twenty minutes after lunch.",
+        "Do you want to become a runner?",
+        "Perhaps later. For now, I want a routine I can keep."
+      ],
+      "reading": "Fenrir is not a runner, but he wants to do something for his health. He visits a gym and asks about a beginner’s class. It is full, so he chooses a different goal: walking for twenty minutes each day. At the weekend, he meets Bella for a walk. Afterwards, they watch a football game. The score is two to one, but they miss the last few minutes because they need to catch their bus.",
+      "readingQ": "What does Fenrir decide to do when the class is full?",
+      "readingA": "He decides to walk for twenty minutes each day.",
+      "writing": "Write a short, realistic activity plan. State your goal, when you will do it and one easier option for a busy day.",
+      "listening": "The beginner’s exercise class is on Tuesday, not Monday. Please arrive at the gym by nine forty-five. The class starts at ten. You do not need to run before the class; the teacher will help everyone warm up.",
+      "question": "When should the listener arrive?",
+      "correct": "By nine forty-five",
+      "other": "At ten",
+      "speaking": "Set a simple activity goal with your partner. Discuss when and where to do it. Give an easier option if the first plan is not possible.",
+      "speakingSample": "Let’s walk in the park after lunch on Tuesdays and Thursdays. Our first goal can be twenty minutes each time. If it rains or we are busy, we can walk indoors for ten minutes instead. Would that be a practical plan for you?",
+      "wordSample": "I can walk for twenty minutes after lunch. That can be good for my health.",
+      "writingSample": "My goal is to walk for fifteen minutes after lunch on Monday, Wednesday and Friday. I will use the path near home. On a busy day, I can take a shorter walk. I will choose an amount of activity suitable for me."
+    },
+    {
+      "day": 14,
+      "unit": 2,
+      "title": "Help someone with a simple digital task",
+      "goal": "I can give and follow simple instructions for using a device.",
+      "newItems": [
+        {
+          "word": "app",
+          "ipa": "/æp/",
+          "pos": "noun",
+          "definition": "A computer program, especially one used on a phone or tablet.",
+          "example": "I use an app to check bus times.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "download",
+          "ipa": "/ˌdaʊnˈloʊd/",
+          "pos": "verb",
+          "definition": "To copy information from the internet onto your device.",
+          "example": "Download the map before your journey.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "upload",
+          "ipa": "/ˌʌpˈloʊd/",
+          "pos": "verb",
+          "definition": "To copy information from your device to the internet.",
+          "example": "Upload one photograph to the class page.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "software",
+          "ipa": "/ˈsɔftˌwɛr/",
+          "pos": "noun",
+          "definition": "The programs used by a computer or other electronic device.",
+          "example": "The new software helps me edit photographs.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "digital",
+          "ipa": "/ˈdɪdʒətəl/",
+          "pos": "adjective",
+          "definition": "Using or storing information in electronic form.",
+          "example": "I keep a digital copy of my ticket.",
+          "category": "new_word",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "instruction",
+        "detail",
+        "immediately",
+        "useful",
+        "include"
+      ],
+      "mainWord": {
+        "word": "app",
+        "ipa": "/æp/",
+        "pos": "noun",
+        "definition": "A computer program, especially one used on a phone or tablet.",
+        "example": "I use an app to check bus times.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Noun: app; plural: apps. Use an app before a vowel sound.",
+      "wordTask": "Name a task you can do with an app. You do not need to name a particular company.",
+      "expression": "Can you show me how?",
+      "use": "Ask someone to demonstrate a task, especially when spoken instructions are not enough.",
+      "context": [
+        "You can upload the form from your phone.",
+        "Can you show me how? I have not done that before."
+      ],
+      "expressionTask": "Your partner says you can save a digital ticket on your phone. Ask for a demonstration, then check one step.",
+      "grammar": "Can and cannot for ability",
+      "pattern": "Use can or cannot plus a base verb. Do not add to after can.",
+      "example": "I can download the map.",
+      "task": "I can ___ the map.",
+      "answer": "download",
+      "sound": "Download and upload as verbs commonly have strong stress on load. Say the whole word smoothly; keep the final D short without adding an extra syllable.",
+      "model": "Download the form. Upload your answer.",
+      "dialogue": [
+        "Have you got the travel app?",
+        "Yes, but I cannot find my digital ticket.",
+        "First open your messages and download the file.",
+        "Can you show me how?",
+        "Of course. Then you can open it without the internet.",
+        "Thanks. Do I need to upload anything?"
+      ],
+      "reading": "Bella needs a digital copy of her ticket for a trip. She opens the travel app and downloads the ticket onto her phone. Then she helps Fenrir with a class task. He has new software for editing pictures, but he cannot find the finished file. Bella shows him where it is. He uploads one picture to the class page and checks that it appears. They keep the original file on his computer.",
+      "readingQ": "Which file does Bella download, and which file does Fenrir upload?",
+      "readingA": "Bella downloads her ticket. Fenrir uploads a picture to the class page.",
+      "writing": "Write four clear steps for a simple phone or computer task. Say what to open, what to choose and how to check the result.",
+      "listening": "Please upload your photo by six this evening. Use the class page, not the group message. Choose just one photo. If the upload does not work, keep the file and tell me in class tomorrow. You do not need to send it by email.",
+      "question": "Where should students upload the photo?",
+      "correct": "On the class page",
+      "other": "In the group message",
+      "speaking": "Explain how to save a useful file on a device. Your partner asks you to show one step. Check that they can find the saved file.",
+      "speakingSample": "First, open the message with your ticket. Choose the file and download it onto your phone. If you want a demonstration, I can show you the download button. Next, open your saved files and check that the ticket is there. Can you find it now?",
+      "wordSample": "I can use a travel app to check the next bus time.",
+      "writingSample": "First, open your own photo folder. Next, choose the picture you want. Then select the print option and check the page preview. Finally, confirm only when the picture and paper size are correct.",
+      "pronunciationTarget": {
+        "word": "download",
+        "ipa": "/daʊnˈloʊd/"
+      }
+    },
+    {
+      "day": 15,
+      "unit": 2,
+      "title": "Describe what happened at a local event",
+      "goal": "I can give a short account of an event and explain an unexpected problem.",
+      "newItems": [
+        {
+          "word": "competition",
+          "ipa": "/ˌkɑmpəˈtɪʃən/",
+          "pos": "noun",
+          "definition": "An event in which people try to do better than others and win.",
+          "example": "Our club held a photography competition.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "winner",
+          "ipa": "/ˈwɪnɚ/",
+          "pos": "noun",
+          "definition": "A person or team that wins a game or competition.",
+          "example": "The winner received a small prize.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "prize",
+          "ipa": "/praɪz/",
+          "pos": "noun",
+          "definition": "Something given to someone who wins or does well in a competition.",
+          "example": "First prize was a book about nature.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "happen",
+          "ipa": "/ˈhæpən/",
+          "pos": "verb",
+          "definition": "To take place or occur.",
+          "example": "What happened after the meeting?",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "accident",
+          "ipa": "/ˈæksədənt/",
+          "pos": "noun",
+          "definition": "An unexpected event that causes harm or damage.",
+          "example": "There was a small accident when a chair broke.",
+          "category": "new_word",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "funny",
+        "serious",
+        "clever",
+        "notice",
+        "suddenly"
+      ],
+      "mainWord": {
+        "word": "competition",
+        "ipa": "/ˌkɑmpəˈtɪʃən/",
+        "pos": "noun",
+        "definition": "An event in which people try to do better than others and win.",
+        "example": "Our club held a photography competition.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Noun: competition; plural: competitions.",
+      "wordTask": "Invent a competition for a club. Say what people must do.",
+      "expression": "What happened next?",
+      "use": "Ask someone to continue a story or explain the next event.",
+      "context": [
+        "We were ready to announce the winner when the lights went out.",
+        "What happened next? Did you finish the competition?"
+      ],
+      "expressionTask": "Your partner says something unexpected happened at an event. Ask for the next part of the story, then ask whether anyone needed help.",
+      "grammar": "Past simple questions with did",
+      "pattern": "Use did plus the base form to ask about a finished event. In the answer, use the past form.",
+      "example": "What did the winner receive?",
+      "task": "What did the winner ___?",
+      "answer": "receive",
+      "sound": "Competition has its strongest stress on ti. Say the final tion as shun. Prize ends with voiced Z; do not change it to the S at the end of price.",
+      "model": "The competition winner received a prize.",
+      "dialogue": [
+        "How was the club competition?",
+        "Good, but something unexpected happened.",
+        "What happened next?",
+        "A chair broke while the winner was collecting her prize.",
+        "Was anyone hurt?",
+        "No. We moved the chair and finished the event safely."
+      ],
+      "reading": "The camera club held a small competition on Saturday. The winner showed a photograph of a bird above a lake. Her prize was a book about nature. As she stood up to collect it, a chair broke. The accident made a loud noise, but nobody was hurt. Bella helped move the broken chair away. Later, Fenrir asked what happened. Bella explained the problem and said the event still ended well.",
+      "readingQ": "What was the prize, and how did people deal with the broken chair?",
+      "readingA": "The prize was a book about nature. They moved the broken chair away.",
+      "writing": "Write five sentences about a real or invented event. Explain where it happened, one unexpected problem and how people responded.",
+      "listening": "The winner of the writing competition is Mia Chen. Mia cannot attend today, so her teacher will collect the prize for her. We will display Mia’s story at the library next week. Please stay for the other results.",
+      "question": "Who will collect Mia’s prize?",
+      "correct": "Her teacher",
+      "other": "Mia herself",
+      "speaking": "Tell a short story about a small problem at an event. Your partner asks what happened next. Explain the response and whether anyone was hurt.",
+      "speakingSample": "Our club held a competition on Saturday. A chair broke when the winner stood up. When you ask what happened next, I can explain: We checked that nobody was hurt, moved the broken chair away and finished giving out the prizes.",
+      "wordSample": "Our camera club could hold a photography competition. Everyone must take one picture of the local park.",
+      "writingSample": "Our class met in the park on Saturday. We brought lunch and a map. A short rain shower began after we arrived. We moved under a covered area and waited. When it stopped, we continued our walk together."
+    },
+    {
+      "day": 16,
+      "unit": 2,
+      "title": "Explain a change and check an arrangement",
+      "goal": "I can combine details about a changed routine and agree on a practical next step.",
+      "newItems": [
+        {
+          "word": "seem",
+          "ipa": "/sim/",
+          "pos": "verb",
+          "definition": "To give the impression of being a particular way.",
+          "example": "The new class seems friendly.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "become",
+          "ipa": "/bɪˈkʌm/",
+          "pos": "verb",
+          "definition": "To start to be something different.",
+          "example": "The room became quiet when the lesson began.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "normal",
+          "ipa": "/ˈnɔrməl/",
+          "pos": "adjective",
+          "definition": "Usual or expected in a situation.",
+          "example": "It is normal to need help with a new task.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "everywhere",
+          "ipa": "/ˈɛvriˌwɛr/",
+          "pos": "adverb",
+          "definition": "In or to all places, or many places.",
+          "example": "I looked everywhere for my keys.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "anyway",
+          "ipa": "/ˈɛniˌweɪ/",
+          "pos": "adverb",
+          "definition": "Despite a problem or reason for doing something different.",
+          "example": "It was raining, but we went for a walk anyway.",
+          "category": "new_word",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "collect",
+        "deliver",
+        "app",
+        "goal",
+        "prize"
+      ],
+      "mainWord": {
+        "word": "seem",
+        "ipa": "/sim/",
+        "pos": "verb",
+        "definition": "To give the impression of being a particular way.",
+        "example": "The new class seems friendly.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Verb: seem, seems, seemed, seeming. Use seem plus an adjective: It seems easy.",
+      "wordTask": "Describe a new place using seems and an adjective. Say what makes you think so.",
+      "expression": "Let me check that.",
+      "use": "Say this before checking information or repeating an arrangement to confirm it.",
+      "context": [
+        "The class has moved to Room Four, and it starts at six.",
+        "Let me check that. Room Four at six, right?"
+      ],
+      "expressionTask": "Your partner gives a changed place and time. Repeat both details and ask whether you have understood correctly.",
+      "grammar": "Connecting contrasting ideas with but",
+      "pattern": "Use but to connect two ideas that contrast. Put a comma before but when it joins two complete clauses.",
+      "example": "The room seems small, but it is comfortable.",
+      "task": "The room seems small, ___ it is comfortable.",
+      "answer": "but",
+      "sound": "Seem ends with M. Close both lips and keep your voice on. Do not add an extra vowel after M. In but it, connect the words without a long pause.",
+      "model": "The room seems small, but it is comfortable.",
+      "dialogue": [
+        "I looked everywhere for the class notice. Has the room changed?",
+        "Yes. We are in Room Four this week.",
+        "It seems smaller than our normal room.",
+        "It is, but we can meet there anyway.",
+        "Let me check that. Room Four at six?",
+        "That is right. I will bring the books."
+      ],
+      "reading": "Bella looks everywhere for the club notice, then finds it in her messages. Workers are repairing the normal room, so the group will meet in Room Four. It seems small, but there are enough chairs. Bella asks whether the group can meet there anyway. The organizer agrees and opens a window. The room becomes more comfortable. Bella sends Fenrir a short message with the room number and start time.",
+      "readingQ": "Why has the room changed, and what makes the new room more comfortable?",
+      "readingA": "Workers are repairing the normal room. Opening a window makes the new room more comfortable.",
+      "writing": "Write a message about a changed arrangement. Include the reason, new place and time, and ask the reader to confirm one detail.",
+      "listening": "Hi, Bella. The meeting is still at six, but Room Four is locked today. Please come to Room Seven on the same floor. There is no need to bring chairs. I have already checked that there are enough.",
+      "question": "Which detail has changed?",
+      "correct": "The room",
+      "other": "The start time",
+      "speaking": "You and your partner must change a club meeting. One person explains the problem; the other suggests a new place. Confirm the place and time, then explain the plan without looking at the model.",
+      "speakingSample": "Our normal meeting room is closed for repairs. Could we use Room Four instead? It has enough chairs. Let’s meet there at six on Thursday. To confirm: Thursday at six, in Room Four. I will bring the books. Can you tell the other members?",
+      "wordSample": "The new cafe seems friendly because the staff smile and help visitors find a seat.",
+      "writingSample": "The library room is unavailable, so our meeting will move to the cafe opposite the station. The new time is two thirty on Friday. Please confirm whether you can reach the cafe by then."
+    }
+  ]
+}

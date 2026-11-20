@@ -1,0 +1,858 @@
+{
+  "number": 1,
+  "title": "Experiences, choices and arrangements",
+  "lessons": [
+    {
+      "title": "Tell someone about a picnic",
+      "goal": "I can give a short account of a past activity.",
+      "expression": "We had a great time.",
+      "use": "Use this to say you enjoyed an activity. Add one detail to explain why.",
+      "grammar": "Past simple: regular verbs",
+      "pattern": "For many verbs, add -ed to talk about a finished action. Carry changes to carried.",
+      "example": "We packed a picnic.",
+      "task": "We ___ a picnic.",
+      "answer": "packed",
+      "sound": "Listen to packed, carried and shared. Packed ends with a T sound. Carried and shared end with a D sound. Do not add a separate uh at the end.",
+      "model": "We packed a picnic. We carried the food and shared it.",
+      "dialogue": [
+        "How was your Sunday?",
+        "We had a picnic by the lake.",
+        "What did you take?",
+        "We packed sandwiches and fruit.",
+        "Did everyone bring food?",
+        "Yes. We shared everything."
+      ],
+      "reading": "On Sunday, Bella and her friends visited the countryside. They carried their lunch along a narrow path beside a field. At the end of the path, they found a lake. They sat near the water and shared their food. After lunch, they walked back through the field. Fenrir carried the empty bottles so that they could take them home.",
+      "readingQ": "How did the friends reach the lake, and what did Fenrir carry home?",
+      "readingA": "They followed a path beside a field. Fenrir carried the empty bottles home.",
+      "writing": "Write four sentences about a real or invented day out. Say where you went, what you took and one thing you enjoyed.",
+      "listening": "Hi, this is Leo. The picnic is tomorrow, not today. Meet us at the north entrance at eleven thirty. Bring a cup. Sara is bringing the food, so you do not need to pack lunch.",
+      "question": "What should Leo’s friends bring?",
+      "correct": "A cup",
+      "other": "Lunch",
+      "speaking": "Tell your partner about a real or invented picnic. Give three details. Ask one question about their day out.",
+      "day": 1,
+      "unit": 1,
+      "newItems": [
+        {
+          "word": "lake",
+          "ipa": "/leɪk/",
+          "pos": "noun",
+          "definition": "A large area of water with land around it.",
+          "example": "We ate our lunch beside the lake.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "carry",
+          "ipa": "/ˈkæri/",
+          "pos": "verb",
+          "definition": "To hold something while moving it to another place.",
+          "example": "Fenrir carried the food to the picnic.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "field",
+          "ipa": "/fild/",
+          "pos": "noun",
+          "definition": "An open area of land where plants grow or animals stay.",
+          "example": "We walked across a field to reach the lake.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "path",
+          "ipa": "/pæθ/",
+          "pos": "noun",
+          "definition": "A narrow way for people to walk along.",
+          "example": "Follow the path beside the water.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "countryside",
+          "ipa": "/ˈkʌntrisaɪd/",
+          "pos": "uncountable noun",
+          "definition": "Land outside towns and cities, with farms, fields or natural places.",
+          "example": "We spent Sunday in the countryside.",
+          "category": "new_word",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "picnic",
+        "pack",
+        "share",
+        "weekend",
+        "blanket"
+      ],
+      "mainWord": {
+        "word": "picnic",
+        "ipa": "/ˈpɪknɪk/",
+        "pos": "noun",
+        "definition": "A meal that you take and eat outdoors.",
+        "example": "We had a picnic by the lake."
+      },
+      "mainWordForms": "picnic; plural: picnics",
+      "wordTask": "Describe a route to a lake. Use path and field.",
+      "expressionTask": "Tell a partner one thing you enjoyed about a day out.",
+      "context": [
+        "We had a great time.",
+        "What did you do?",
+        "We shared a picnic by the lake."
+      ],
+      "photo": {
+        "id": "8367704",
+        "asset": "assets/a2-photos/8367704.jpg",
+        "sourceURL": "https://www.pexels.com/photo/food-on-picnic-blanket-8367704/",
+        "credit": "August de Richelieu · Pexels",
+        "licenseURL": "https://www.pexels.com/license/",
+        "caption": "Food and drinks on a picnic blanket beside the water.",
+        "alt": "Fruit, bread and drinks on a blanket beside water.",
+        "fit": "cover",
+        "focalY": 0.5,
+        "dimensions": [
+          1400,
+          933
+        ]
+      },
+      "speakingSample": "We had a picnic beside the lake on Sunday. I carried sandwiches, and my friend brought fruit. Afterwards, we walked along the path. Where did you go on your day out?",
+      "wordSample": "Follow the path across the field. The lake is at the end of the path.",
+      "writingSample": "On Sunday, I went to the park with my sister. We took sandwiches and water. We sat beside the lake. I enjoyed talking and watching the birds."
+    },
+    {
+      "title": "Explain why a plan changed",
+      "goal": "I can explain a simple change of plan using because and so.",
+      "expression": "We stayed home instead.",
+      "use": "Use instead to explain the action you chose in place of an earlier plan.",
+      "grammar": "Past questions with did",
+      "pattern": "Use did + subject + base verb to ask about a finished action. Do not use the past form after did.",
+      "example": "Did you cancel the picnic?",
+      "task": "___ you cancel the picnic?",
+      "answer": "Did",
+      "sound": "Say the question as one short group: Did you cancel the picnic? Keep the main stress on cancel and picnic.",
+      "model": "Did you cancel the picnic? Yes, we did.",
+      "dialogue": [
+        "Did you go outdoors yesterday?",
+        "No. We canceled the picnic because it rained.",
+        "What did you decide to do instead?",
+        "We played a game indoors.",
+        "Did you enjoy it?",
+        "Yes. We had a good afternoon."
+      ],
+      "reading": "Bella and Fenrir planned to walk to the lake. Unfortunately, the morning was foggy. Suddenly, they could not see the far end of the road. They thought about the danger of walking beside traffic when drivers could not see them clearly. A picnic at home was still possible, so they changed their plan. They put a blanket on the floor and shared lunch indoors.",
+      "readingQ": "Why did Bella and Fenrir change their plan, and what did they do instead?",
+      "readingA": "It was foggy and they were concerned about the danger beside the road. They had a picnic indoors.",
+      "writing": "Write a short message explaining a changed plan. Include the original plan, a reason and the new activity.",
+      "listening": "Hello, it’s Ana. We decided not to meet at the beach because the buses are not running today. The weather is fine. Let’s meet at my home at one and cook lunch instead. Call me if you need the address.",
+      "question": "Why did Ana change the plan?",
+      "correct": "The buses are not running",
+      "other": "It is raining",
+      "speaking": "Explain why a plan changed. Your partner asks what you did instead. Use because to give a reason.",
+      "day": 2,
+      "unit": 1,
+      "newItems": [
+        {
+          "word": "suddenly",
+          "ipa": "/ˈsʌdənli/",
+          "pos": "adverb",
+          "definition": "Quickly and when you do not expect it.",
+          "example": "Suddenly, the wind became strong.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "unfortunately",
+          "ipa": "/ʌnˈfɔrtʃənətli/",
+          "pos": "adverb",
+          "definition": "Used to introduce something that is disappointing or unlucky.",
+          "example": "Unfortunately, we could not have our picnic.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "foggy",
+          "ipa": "/ˈfɑɡi/",
+          "pos": "adjective",
+          "definition": "With a thick cloud of tiny water drops in the air that makes it hard to see.",
+          "example": "It was too foggy to see the hills.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "danger",
+          "ipa": "/ˈdeɪndʒɚ/",
+          "pos": "noun",
+          "definition": "The possibility that someone or something could be hurt or damaged.",
+          "example": "We stayed away from the river because of the danger.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "possible",
+          "ipa": "/ˈpɑsəbəl/",
+          "pos": "adjective",
+          "definition": "Able to happen or be done.",
+          "example": "An indoor picnic is still possible.",
+          "category": "new_word",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "cancel",
+        "decide",
+        "instead",
+        "indoors",
+        "outdoors"
+      ],
+      "mainWord": {
+        "word": "cancel",
+        "ipa": "/ˈkænsəl/",
+        "pos": "verb",
+        "definition": "To decide that an arranged event will not happen.",
+        "example": "We canceled the picnic because of the rain."
+      },
+      "mainWordForms": "cancel, cancels, canceled, canceling",
+      "wordTask": "Explain a changed plan using unfortunately and possible.",
+      "expressionTask": "Say what you did when an outdoor plan changed.",
+      "context": [
+        "We stayed home instead.",
+        "Why did you change the plan?",
+        "It rained all afternoon."
+      ],
+      "speakingSample": "We planned to walk in the park, but we stayed indoors because it was foggy. We visited a small museum instead. It was warm inside, and we enjoyed the pictures. What did you do when your plan changed?",
+      "wordSample": "Unfortunately, the park is closed today. It is possible to visit the museum instead.",
+      "writingSample": "We planned to walk to the park this afternoon, but it is raining. Let us visit the museum instead. We can meet at the same bus stop at two. Does that suit you?"
+    },
+    {
+      "title": "Compare two places",
+      "goal": "I can compare familiar places and explain a choice.",
+      "expression": "Let’s try another place.",
+      "use": "Suggest a different place when the first one is unsuitable. Give a polite reason.",
+      "grammar": "Comparatives with more",
+      "pattern": "Use more before many longer adjectives. Add than when you name the second thing.",
+      "example": "This chair is more comfortable than that chair.",
+      "task": "This chair is ___ comfortable than that chair.",
+      "answer": "more",
+      "sound": "Stress the useful contrast: more comfortable, less crowded. Say than lightly between the two things you compare.",
+      "model": "This cafe is more comfortable than that one.",
+      "dialogue": [
+        "Shall we eat at this cafe?",
+        "It looks crowded, and it is expensive.",
+        "There is another cafe near the library.",
+        "Is it more comfortable?",
+        "Yes. There are large chairs and more space.",
+        "That sounds like a good choice."
+      ],
+      "reading": "The first cafe was popular, but it was also crowded. Bella and Fenrir could not find a table together. Across the street, they saw a modern cafe with large windows. The chairs looked comfortable, and the menu had food they both liked. They chose a table by the window. It was a pleasant place to talk, so they stayed for lunch.",
+      "readingQ": "Why did they leave the first cafe, and where did they sit in the second one?",
+      "readingA": "The first cafe was crowded and had no table for them together. In the second cafe, they sat by the window.",
+      "writing": "Compare two cafes, parks or other familiar places. Write four sentences and explain which you choose.",
+      "listening": "The cafe on Oak Street closes at three today. The cafe on Lake Road stays open until six. Both serve sandwiches at the same price. If you want to meet after four, choose the cafe on Lake Road.",
+      "question": "Which cafe is suitable for a meeting after four?",
+      "correct": "The cafe on Lake Road",
+      "other": "The cafe on Oak Street",
+      "speaking": "Choose between two places. Give two differences and agree on one place with your partner.",
+      "day": 3,
+      "unit": 1,
+      "newItems": [
+        {
+          "word": "comfortable",
+          "ipa": "/ˈkʌmfɚtəbəl/",
+          "pos": "adjective",
+          "definition": "Making you feel relaxed and physically at ease.",
+          "example": "The seats in this cafe are comfortable.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "crowded",
+          "ipa": "/ˈkraʊdɪd/",
+          "pos": "adjective",
+          "definition": "Full of people, with little free space.",
+          "example": "The first cafe was crowded.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "pleasant",
+          "ipa": "/ˈplɛzənt/",
+          "pos": "adjective",
+          "definition": "Enjoyable or giving you a good feeling.",
+          "example": "We found a pleasant place for lunch.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "modern",
+          "ipa": "/ˈmɑdɚn/",
+          "pos": "adjective",
+          "definition": "Using a recent style, design or way of doing things.",
+          "example": "The new cafe has a modern design.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "popular",
+          "ipa": "/ˈpɑpjəlɚ/",
+          "pos": "adjective",
+          "definition": "Liked or chosen by many people.",
+          "example": "This cafe is popular with students.",
+          "category": "new_word",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "expensive",
+        "another",
+        "quiet",
+        "table",
+        "chair"
+      ],
+      "mainWord": {
+        "word": "expensive",
+        "ipa": "/ɪkˈspɛnsɪv/",
+        "pos": "adjective",
+        "definition": "Costing a lot of money.",
+        "example": "The restaurant is too expensive for us."
+      },
+      "mainWordForms": "expensive; more expensive; most expensive",
+      "wordTask": "Describe a cafe using two words from today’s new bank.",
+      "expressionTask": "Suggest another place to eat and give a simple reason.",
+      "context": [
+        "Let’s try another place.",
+        "Okay. This cafe is too crowded."
+      ],
+      "speakingSample": "The cafe by the station is cheaper, but it is more crowded. The garden cafe is quieter and has more comfortable chairs. I prefer the garden cafe. Shall we meet there at three?",
+      "wordSample": "The cafe is crowded at lunchtime, but its chairs are comfortable.",
+      "writingSample": "The cafe near the station is smaller than the one by the park. It is quieter in the morning. The park cafe has more space outside. I would choose the station cafe for studying because it is quiet.",
+      "pronunciationTarget": {
+        "word": "comfortable",
+        "ipa": "/ˈkʌmfɚtəbəl/"
+      }
+    },
+    {
+      "title": "Agree on a time",
+      "goal": "I can arrange a meeting and confirm the details.",
+      "expression": "Are you available on Saturday?",
+      "use": "Ask whether someone is free at a particular time. Offer another time if they are busy.",
+      "grammar": "Going to: plans",
+      "pattern": "Use am, is or are + going to + base verb for a plan. Keep the base verb after to.",
+      "example": "We are going to meet at two.",
+      "task": "We are ___ to meet at two.",
+      "answer": "going",
+      "sound": "Say available in four parts: a-VAIL-a-ble. Make VAIL the strongest part. The other vowels are lighter.",
+      "model": "Are you available on Saturday? We are going to meet at two.",
+      "dialogue": [
+        "Are you available on Saturday morning?",
+        "I have an appointment at ten. Could we meet later?",
+        "How about two in the afternoon?",
+        "That works for me. Where is the meeting?",
+        "At the library entrance. I will email you the details.",
+        "Thanks. I will confirm by this evening."
+      ],
+      "reading": "Bella received a message about a meeting. It would start at exactly two, so she planned to arrive ten minutes early. Fenrir asked her to send a message immediately if the time changed. When it was nearly two, they were already outside the meeting room. They checked the room number together. Afterwards, they planned to have coffee and talk about the meeting.",
+      "readingQ": "When did Bella plan to arrive, and what did they plan to do afterwards?",
+      "readingA": "She planned to arrive ten minutes before two. Afterwards, they planned to have coffee and talk.",
+      "writing": "Write a message arranging a meeting. Give a time and place, and ask the reader to confirm.",
+      "listening": "Your appointment with Ms. Green is on Tuesday at nine fifteen. Please arrive ten minutes early and wait at reception. This is not a change of date. If you cannot come, call the office before Monday evening.",
+      "question": "What time should the visitor arrive?",
+      "correct": "Nine oh five",
+      "other": "Nine fifteen",
+      "speaking": "Find a time when you and your partner are both free. Confirm the date, time and meeting place.",
+      "day": 4,
+      "unit": 1,
+      "newItems": [
+        {
+          "word": "exactly",
+          "ipa": "/ɪɡˈzæktli/",
+          "pos": "adverb",
+          "definition": "Completely correctly, with no difference.",
+          "example": "The meeting begins at exactly two.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "nearly",
+          "ipa": "/ˈnɪrli/",
+          "pos": "adverb",
+          "definition": "Almost, but not completely or not quite at a stated point.",
+          "example": "It is nearly two, so we should leave now.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "immediately",
+          "ipa": "/ɪˈmidiətli/",
+          "pos": "adverb",
+          "definition": "Now or without any delay.",
+          "example": "Please tell me immediately if the time changes.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "afterwards",
+          "ipa": "/ˈæftɚwɚdz/",
+          "pos": "adverb",
+          "definition": "After an event or action that has just been mentioned.",
+          "example": "We can have coffee afterwards.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "receive",
+          "ipa": "/rɪˈsiv/",
+          "pos": "verb",
+          "definition": "To get something that another person sends or gives you.",
+          "example": "I received your message about the meeting.",
+          "category": "new_word",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "available",
+        "appointment",
+        "meeting",
+        "later",
+        "calendar"
+      ],
+      "mainWord": {
+        "word": "available",
+        "ipa": "/əˈveɪləbəl/",
+        "pos": "adjective",
+        "definition": "Free to meet or do something at a particular time.",
+        "example": "Are you available on Saturday?"
+      },
+      "mainWordForms": "available; an adjective, with no plural form",
+      "wordTask": "Arrange a time. Use exactly and say what you will do afterwards.",
+      "expressionTask": "Ask about a free time and offer a different time if needed.",
+      "context": [
+        "Are you available on Saturday?",
+        "Yes, after two in the afternoon."
+      ],
+      "speakingSample": "I am free on Wednesday after four. Are you available then? Let’s meet on Wednesday the twelfth at four thirty, outside the library entrance. Please tell me if that time is difficult for you.",
+      "wordSample": "Let’s meet at exactly three outside the library. Afterwards, we can walk to the cafe.",
+      "writingSample": "Shall we meet outside the library at ten on Saturday? I can wait beside the main entrance. Please tell me whether that time and place are suitable for you."
+    },
+    {
+      "title": "Borrow something politely",
+      "goal": "I can ask to borrow something and agree when to return it.",
+      "expression": "Could I borrow your umbrella?",
+      "use": "Ask to use someone’s possession temporarily. Tell them when you can return it.",
+      "grammar": "Could I + base verb",
+      "pattern": "Use Could I + base verb for a polite request. Could does not change for different subjects.",
+      "example": "Could I borrow your pen?",
+      "task": "Could I ___ your pen?",
+      "answer": "borrow",
+      "sound": "Keep borrow and lend distinct in meaning. Borrow means take temporarily. Lend means give temporarily. Listen to who owns the item.",
+      "model": "Could I borrow your umbrella? I can lend it to you until five.",
+      "dialogue": [
+        "I forgot my umbrella. Could I borrow one?",
+        "Yes. I can lend you mine.",
+        "Thank you. When do you need it back?",
+        "Please return it before five.",
+        "Can I leave it at reception?",
+        "Yes. Please put my name on it."
+      ],
+      "reading": "Bella had trouble with her bike. The shop could repair it, but it would not be ready until the next day. Fenrir had a spare bike and offered to lend it to her. He allows friends to use it, but asks them to return it on time. Bella agreed to bring it back that evening. They checked the return time before she left.",
+      "readingQ": "Why did Bella need another bike, and when did she agree to bring it back?",
+      "readingA": "Her own bike needed repair. She agreed to bring Fenrir's bike back that evening.",
+      "writing": "Write a short note returning a borrowed item. Name the owner, explain where the item is and say thank you.",
+      "listening": "Hi, it’s Rosa. You can borrow my bike tomorrow, but please return it by four. I need it for work at five. The key is at reception. Please bring your own helmet because mine is too small for you.",
+      "question": "When must the bike be returned?",
+      "correct": "By four",
+      "other": "By five",
+      "speaking": "Ask to borrow a familiar object. Agree on when and where to return it. Then change roles.",
+      "day": 5,
+      "unit": 1,
+      "newItems": [
+        {
+          "word": "lend",
+          "ipa": "/lɛnd/",
+          "pos": "verb",
+          "definition": "To let someone use something that they will give back.",
+          "example": "I can lend you my umbrella until five.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "allow",
+          "ipa": "/əˈlaʊ/",
+          "pos": "verb",
+          "definition": "To let someone do something.",
+          "example": "The library allows students to borrow these books.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "spare",
+          "ipa": "/spɛr/",
+          "pos": "adjective",
+          "definition": "Extra and available to use if needed.",
+          "example": "I have a spare umbrella you can use.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "repair",
+          "ipa": "/rɪˈpɛr/",
+          "pos": "verb",
+          "definition": "To fix something that is broken or damaged.",
+          "example": "The shop will repair my bike tomorrow.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "trouble",
+          "ipa": "/ˈtrʌbəl/",
+          "pos": "uncountable noun",
+          "definition": "Difficulty or a problem that makes something hard to do.",
+          "example": "I had trouble finding the correct address.",
+          "category": "new_word",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "borrow",
+        "forget",
+        "return",
+        "reception",
+        "umbrella"
+      ],
+      "mainWord": {
+        "word": "borrow",
+        "ipa": "/ˈbɑroʊ/",
+        "pos": "verb",
+        "definition": "To use something belonging to someone else and return it later.",
+        "example": "Can I borrow your pen?"
+      },
+      "mainWordForms": "borrow, borrows, borrowed, borrowing",
+      "wordTask": "Ask someone to lend you a spare object. Say when you will give it back.",
+      "expressionTask": "Ask to borrow a familiar object and name a return time.",
+      "context": [
+        "Could I borrow your umbrella?",
+        "Of course. Please return it by five."
+      ],
+      "speakingSample": "Could I borrow your umbrella? I can return it tomorrow morning at reception. Would eight thirty be convenient? Thank you. I will leave it with the receptionist if you are not there.",
+      "wordSample": "Could you lend me a spare pen? I will give it back after class.",
+      "writingSample": "Hi Eva, thank you for lending me your umbrella. I have left it beside your desk. It is dry and ready to use. Thank you for helping me yesterday."
+    },
+    {
+      "title": "Reply to an invitation",
+      "goal": "I can accept an invitation or explain politely why I cannot come.",
+      "expression": "Thanks for inviting me.",
+      "use": "Thank someone for an invitation before accepting or explaining why you cannot attend.",
+      "grammar": "Because: a reason",
+      "pattern": "Put because before the reason for an action or situation. A reason can follow a positive or negative statement.",
+      "example": "I cannot come because I am working.",
+      "task": "I cannot come ___ I am working.",
+      "answer": "because",
+      "sound": "Stress the important information in your reply. Keep the thanks warm and clear. Pause briefly before your reason.",
+      "model": "Thanks for inviting me. I cannot come because I am working.",
+      "dialogue": [
+        "Did you get my invitation?",
+        "Yes. Thanks for inviting me. I would love to come.",
+        "Great. Can you reply to the group message?",
+        "Of course. Could you explain how to get there?",
+        "Take bus six and get off by the park.",
+        "Thank you. I will bring something to share."
+      ],
+      "reading": "Bella put an invitation in a blue envelope for Fenrir. The event was a small lunch for their class. She remembered to include the time and address. Fenrir was glad to receive it and sent a polite reply saying he could come. Another classmate could not come because she was working. She thanked Bella and asked to meet the group another day.",
+      "readingQ": "What information did Bella include, and why could one classmate not come?",
+      "readingA": "Bella included the time and address. One classmate could not come because she was working.",
+      "writing": "Write two short replies: one accepting an invitation and one saying you cannot come. Give a polite reason in the second.",
+      "listening": "You are invited to our class lunch on Sunday at twelve thirty. Please reply by Thursday. We have changed the place from the park to the school hall. You do not need to bring food, but bring your own water bottle.",
+      "question": "Where will the lunch take place?",
+      "correct": "In the school hall",
+      "other": "In the park",
+      "speaking": "Invite a partner to an activity. First they accept. Change roles and practice a polite reply saying you cannot come.",
+      "day": 6,
+      "unit": 1,
+      "newItems": [
+        {
+          "word": "polite",
+          "ipa": "/pəˈlaɪt/",
+          "pos": "adjective",
+          "definition": "Showing respect and care for other people in what you say or do.",
+          "example": "It is polite to thank someone for an invitation.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "glad",
+          "ipa": "/ɡlæd/",
+          "pos": "adjective",
+          "definition": "Happy about something.",
+          "example": "I am glad you can come to the lunch.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "event",
+          "ipa": "/ɪˈvɛnt/",
+          "pos": "noun",
+          "definition": "Something arranged for people to attend, such as a party or concert.",
+          "example": "The class lunch is our next event.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "include",
+          "ipa": "/ɪnˈklud/",
+          "pos": "verb",
+          "definition": "To have someone or something as part of a group, list or activity.",
+          "example": "Please include the meeting time in your reply.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "envelope",
+          "ipa": "/ˈɛnvəˌloʊp/",
+          "pos": "noun",
+          "definition": "A flat paper cover used for sending or giving a letter.",
+          "example": "The invitation was inside a blue envelope.",
+          "category": "new_word",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "invitation",
+        "reply",
+        "explain",
+        "party",
+        "guest"
+      ],
+      "mainWord": {
+        "word": "invitation",
+        "ipa": "/ˌɪnvɪˈteɪʃən/",
+        "pos": "noun",
+        "definition": "A message asking someone to come to an event or do something.",
+        "example": "I sent an invitation to Bella."
+      },
+      "mainWordForms": "invitation; plural: invitations",
+      "wordTask": "Describe an event invitation. Say which details to include.",
+      "expressionTask": "Thank someone for an invitation, then accept or decline politely.",
+      "context": [
+        "Thanks for inviting me.",
+        "Can you come?",
+        "Yes, I’d love to."
+      ],
+      "speakingSample": "Would you like to come to the club picnic on Saturday? We are meeting at eleven. An accepting reply could be: Yes, I would love to. A polite refusal could be: Thank you for inviting me, but I cannot come because I am working.",
+      "wordSample": "The invitation is for a club event on Saturday. Include the date, start time, place and a way to reply.",
+      "writingSample": "Accepting: Thank you for inviting me. I can come on Saturday and would be happy to bring some fruit. Declining: Thank you for the invitation. I cannot come because I am visiting my family. I hope you have a lovely time.",
+      "pronunciationTarget": {
+        "word": "inviting",
+        "ipa": "/ɪnˈvaɪtɪŋ/"
+      }
+    },
+    {
+      "title": "Make a choice together",
+      "goal": "I can express a preference, give a reason and reach agreement.",
+      "expression": "I prefer the park because it is quieter.",
+      "use": "Name your preferred option and give a reason. Listen to the other person’s preference before agreeing.",
+      "grammar": "Prefer A to B",
+      "pattern": "Use prefer + one option + to + another option when comparing preferences. Do not use than in this pattern.",
+      "example": "I prefer the park to the mall.",
+      "task": "I prefer the park ___ the mall.",
+      "answer": "to",
+      "sound": "In prefer, stress the second part: pre-FER. In reason, stress the first part: REA-son.",
+      "model": "I prefer the park to the mall because it is quieter.",
+      "dialogue": [
+        "What do you suggest for Saturday?",
+        "Perhaps we can visit the park.",
+        "I prefer the lake. My reason is that we can swim there.",
+        "The lake is farther away. Shall we take the bus?",
+        "Yes, I agree. Let’s go in the morning.",
+        "Good. I will check the bus times."
+      ],
+      "reading": "Fenrir suggested a visit to the park. Bella's opinion was different: she preferred the lake because she wanted to swim. Fenrir gave his reason for choosing the park: the journey was shorter. Perhaps they could take an early bus to the lake instead. They checked the times and agreed on that plan. Each person listened before they made their final decision.",
+      "readingQ": "Why did Fenrir prefer the park at first, and what plan did they agree on?",
+      "readingA": "He preferred the park because the journey was shorter. They agreed to take an early bus to the lake.",
+      "writing": "Write a short message suggesting an activity. Give your preference and a reason, and ask what the reader thinks.",
+      "listening": "I suggest taking the ten o’clock bus. It is cheaper than the train, but the trip takes twenty minutes longer. The bus stops beside the museum. The train station is a fifteen-minute walk from the museum entrance.",
+      "question": "What advantage of the bus does the speaker give?",
+      "correct": "It is cheaper",
+      "other": "It is faster",
+      "speaking": "You and a partner prefer different activities. Give a reason each, compare one practical detail and agree on a plan.",
+      "day": 7,
+      "unit": 1,
+      "newItems": [
+        {
+          "word": "suggest",
+          "ipa": "/səˈdʒɛst/",
+          "pos": "verb",
+          "definition": "To offer an idea for someone to think about.",
+          "example": "I suggest taking the early bus.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "agree",
+          "ipa": "/əˈɡri/",
+          "pos": "verb",
+          "definition": "To have the same opinion or make a shared decision.",
+          "example": "We agree that the park is a good choice.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "reason",
+          "ipa": "/ˈrizən/",
+          "pos": "noun",
+          "definition": "An explanation that tells why something happens or why someone chooses it.",
+          "example": "What is your reason for choosing the lake?",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "perhaps",
+          "ipa": "/pɚˈhæps/",
+          "pos": "adverb",
+          "definition": "Used to show that something is possible but not certain.",
+          "example": "Perhaps we can visit the lake on Sunday.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "opinion",
+          "ipa": "/əˈpɪnjən/",
+          "pos": "noun",
+          "definition": "What a person thinks about something.",
+          "example": "What is your opinion of this plan?",
+          "category": "new_word",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "prefer",
+        "comfortable",
+        "crowded",
+        "popular",
+        "possible"
+      ],
+      "mainWord": {
+        "word": "prefer",
+        "ipa": "/prɪˈfɝ/",
+        "pos": "verb",
+        "definition": "To like one thing more than another.",
+        "example": "I prefer the park to the shopping mall."
+      },
+      "mainWordForms": "prefer, prefers, preferred, preferring",
+      "wordTask": "Give an opinion and a reason, then ask for a partner’s opinion.",
+      "expressionTask": "State a preference and ask what your partner thinks.",
+      "context": [
+        "I prefer the park because it is quieter.",
+        "I agree. Let’s go there."
+      ],
+      "speakingSample": "I would prefer the park because we can walk and talk. You prefer a cafe because it might rain. There is a cafe beside the park, so let’s start there and walk afterwards if the weather is good. Does that work for you?",
+      "wordSample": "I think the park is a good choice because it is quiet. What is your opinion?",
+      "writingSample": "I would like to visit the park on Sunday. I prefer being outside, and the bus journey is short. We could take lunch and sit near the lake. What do you think?"
+    },
+    {
+      "title": "Plan an outing from a notice",
+      "goal": "I can use a short notice, check details and organize a simple outing.",
+      "expression": "Let’s check the details first.",
+      "use": "Check the important information before agreeing to a plan. Ask if a detail is missing.",
+      "grammar": "Connect ideas: and, but, so",
+      "pattern": "Use and to add information, but for a contrast, and so for a result.",
+      "example": "It is raining, so we will meet indoors.",
+      "task": "It is raining, ___ we will meet indoors.",
+      "answer": "so",
+      "sound": "Pause between complete ideas. Stress the important details, such as the time and place. Do not give equal stress to every small word.",
+      "model": "The notice gives the time and place. Let us check the details.",
+      "dialogue": [
+        "Did you read the notice about the class outing?",
+        "Yes. We need to organize a group of four.",
+        "Which detail should we check first?",
+        "The time. We need to be there at nine.",
+        "Is there a map?",
+        "Yes. It is useful because it shows the bus stop."
+      ],
+      "reading": "CLASS OUTING NOTICE: Our next activity is a walk at Lake Park. The first instruction is to meet at the library entrance on Saturday at nine. Bring lunch and a water bottle. The return bus leaves the park at four. A map is useful for finding the meeting place. Check each detail before leaving. If it rains, meet at the same time and place for a museum visit instead.",
+      "readingQ": "What stays the same if it rains, and which activity changes?",
+      "readingA": "The meeting time and place stay the same. The activity changes from a walk at Lake Park to a museum visit.",
+      "writing": "Write a confirmation message for the outing. Include the meeting details, what to bring and the rainy-day plan.",
+      "listening": "This is a reminder about tomorrow’s outing. Please meet at the library at eight forty-five, fifteen minutes earlier than the notice says. We will still return at four. The weather looks dry, so bring lunch and your water bottle for the park.",
+      "question": "Which detail has changed?",
+      "correct": "The meeting time",
+      "other": "The return time",
+      "speaking": "With a partner, use the notice to agree on a complete plan. Confirm the time, place, transport, what to bring and an alternative if it rains.",
+      "day": 8,
+      "unit": 1,
+      "newItems": [
+        {
+          "word": "notice",
+          "ipa": "/ˈnoʊtɪs/",
+          "pos": "noun",
+          "definition": "A short written message giving information or instructions.",
+          "example": "Read the notice beside the entrance.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "detail",
+          "ipa": "/ˈdiˌteɪl/",
+          "pos": "noun",
+          "definition": "One piece of information about something.",
+          "example": "The notice gives the time and other useful details.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "activity",
+          "ipa": "/ækˈtɪvəti/",
+          "pos": "noun",
+          "definition": "Something that you do for a purpose or for enjoyment.",
+          "example": "Walking is one activity on the class trip.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "useful",
+          "ipa": "/ˈjusfəl/",
+          "pos": "adjective",
+          "definition": "Helping you do something you need or want to do.",
+          "example": "This map is useful for finding the meeting place.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "instruction",
+          "ipa": "/ɪnˈstrʌkʃən/",
+          "pos": "noun",
+          "definition": "Information telling you what to do or how to do something.",
+          "example": "Follow the instruction to meet at the library entrance.",
+          "category": "new_word",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "suggest",
+        "agree",
+        "reason",
+        "perhaps",
+        "opinion"
+      ],
+      "mainWord": {
+        "word": "notice",
+        "ipa": "/ˈnoʊtɪs/",
+        "pos": "noun",
+        "definition": "A short written message giving information or instructions.",
+        "example": "Read the notice beside the entrance.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "notice; plural: notices",
+      "wordTask": "Give one useful instruction for a group activity.",
+      "expressionTask": "Ask a partner to check one detail on a notice.",
+      "context": [
+        "Let’s check the details first.",
+        "The notice says to meet at nine."
+      ],
+      "speakingSample": "Let’s meet at the library entrance on Saturday at nine. We can walk at Lake Park, then take the return bus at four. We need lunch and water. If it rains, we will meet at the same time and place and visit the museum instead. Have we checked every detail?",
+      "wordSample": "Bring a water bottle and meet at the library entrance at nine.",
+      "writingSample": "The latest reminder says to meet at the library entrance on Saturday at eight forty-five, earlier than the notice. We should bring lunch and water. The return bus leaves at four. If it rains, we will visit the museum instead, meeting at the updated time and place."
+    }
+  ]
+}

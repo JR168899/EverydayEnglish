@@ -1,0 +1,905 @@
+{
+  "lessons": [
+    {
+      "answer": "your",
+      "context": [
+        "Mia meets Noah at the community center and asks for his phone number.",
+        "Could I have your number? I will call you about the English class."
+      ],
+      "correct": "Noah’s phone number",
+      "day": 209,
+      "dialogue": [
+        "Hello, Noah. I am Mia. We are in the same English class.",
+        "Hello, Mia. It is nice to meet you. Do you live near here?",
+        "Yes, I live on Green Street. Could I have your number, please? I want to call you about our homework.",
+        "Of course. My number is 909-555-0148. The area code is 909.",
+        "Thank you. How can I reach you after six? I am at work in the afternoon.",
+        "You can reach me on my smartphone after six. I will save your number too."
+      ],
+      "example": "Could I have your number?",
+      "expression": "Could I have your number?",
+      "expressionTask": "Ask Noah for his phone number. Say why you want it.",
+      "goal": "I can ask for someone’s phone number and say how to reach me.",
+      "grammar": "Could I have + your + noun",
+      "listening": "Mia meets Noah at the community center. She asks for his phone number and the area code. Noah gives her his number, and Mia saves it on her smartphone. She will call him about the English class on Monday.",
+      "mainWord": {
+        "category": "new_word",
+        "definition": "A phone that can use the internet and apps.",
+        "example": "Bella calls Fenrir on her smartphone.",
+        "ipa": "/ˈsmɑrtfoʊn/",
+        "pos": "noun",
+        "status": "new",
+        "word": "smartphone"
+      },
+      "mainWordForms": "Smartphone is a noun. The plural is smartphones. We call or text on a smartphone. A smartphone is a phone, a camera, and a small computer in one.",
+      "model": "Could I have your number? You can reach me on my smartphone.",
+      "newItems": [
+        {
+          "category": "new_word",
+          "definition": "A phone that can use the internet and apps.",
+          "example": "Bella calls Fenrir on her smartphone.",
+          "ipa": "/ˈsmɑrtfoʊn/",
+          "pos": "noun",
+          "status": "new",
+          "word": "smartphone"
+        },
+        {
+          "category": "new_word",
+          "definition": "The first numbers of a phone number for one area.",
+          "example": "The area code for this city is 909.",
+          "ipa": "/ˈɛriə koʊd/",
+          "pos": "noun",
+          "status": "new",
+          "word": "area code"
+        },
+        {
+          "category": "fixed_phrase",
+          "definition": "A polite way to ask for someone’s phone number.",
+          "example": "Could I have your number, please?",
+          "ipa": "/kʊd aɪ hæv jʊr ˈnʌmbɚ/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "could I have your number"
+        },
+        {
+          "category": "fixed_phrase",
+          "definition": "A direct way to ask for someone’s phone number.",
+          "example": "What’s your number? I will call you tomorrow.",
+          "ipa": "/wʌts jʊr ˈnʌmbɚ/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "what’s your number"
+        },
+        {
+          "category": "fixed_phrase",
+          "definition": "A polite way to ask for the best way to contact someone.",
+          "example": "How can I reach you after six?",
+          "ipa": "/haʊ kæn aɪ riːtʃ juː/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "how can I reach you"
+        }
+      ],
+      "other": "The time of the English class",
+      "pattern": "Could I have + your + noun",
+      "pronunciationTarget": {
+        "ipa": "/ˈsmɑrtfoʊn/",
+        "word": "smartphone"
+      },
+      "question": "What does Mia save on her smartphone?",
+      "reading": "Mia meets Noah at the community center on Monday. She wants his phone number, so she asks, “Could I have your number, please?” Noah smiles and says, “Of course. My number is 909-555-0148, and the area code is 909.” Mia asks, “What’s your number again? I want to save it.” Noah repeats the number slowly. Then Mia asks, “How can I reach you after six?” Noah answers, “You can reach me on my smartphone. I always have it with me.” Mia saves the number and says, “Thank you. I will call you about the English class.”",
+      "readingA": "She asks Noah for his phone number and the area code.",
+      "readingQ": "What does Mia ask Noah for?",
+      "reviewWords": [
+        "phone",
+        "friend",
+        "message",
+        "time",
+        "name"
+      ],
+      "sound": "Smartphone has its strongest beat on SMART. In area code, say AREA clearly. In could I have your number, say NUMBER clearly at the end.",
+      "speaking": "Tell a partner how to reach you. Give your phone number with the area code, and say the best time to call you.",
+      "speakingSample": "My name is Mia, and my number is 909-555-0148. The area code is 909. You can reach me on my smartphone after six in the evening. Please call me about the English class, and I will answer. If I do not answer, please leave a short message.",
+      "task": "Could I have ___ number?",
+      "title": "Ask for a name and a phone number",
+      "unit": 27,
+      "use": "Ask for someone’s phone number in a polite, friendly way.",
+      "wordSample": "She calls her friend on her smartphone.",
+      "wordTask": "What does Bella use to call Fenrir?",
+      "writing": "Write 45–65 words to a new friend. Ask for their phone number and area code, and say how they can reach you and the best time to call.",
+      "writingSample": "Hello, Noah. It is nice to meet you in our English class. Could I have your number, please? I want to call you about our homework. What is the area code for your city? Mine is 909. How can I reach you after six? You can reach me on my smartphone in the evening. Please call me, and I will answer."
+    },
+    {
+      "answer": "in",
+      "context": [
+        "Noah writes his last name, Smith-Jones, on a form.",
+        "Could you spell that? I want to write it letter by letter."
+      ],
+      "correct": "Noah’s last name, letter by letter",
+      "day": 210,
+      "dialogue": [
+        "Noah, I need your last name for the class list. Could you spell that, please?",
+        "Of course. It is S-M-I-T-H hyphen J-O-N-E-S. Please write it letter by letter.",
+        "Thank you. Is there an apostrophe in your first name?",
+        "No, there is not. My first name is Noah, N-O-A-H. Can you sound it out with me?",
+        "Yes. N-O-A-H. Noah. And Smith-Jones has a hyphen. I will write it now.",
+        "That is right. Thank you for writing it carefully."
+      ],
+      "example": "There is a hyphen in my name.",
+      "expression": "Could you spell that?",
+      "expressionTask": "Ask Noah to spell his last name. Say that you want to write it letter by letter.",
+      "goal": "I can ask someone to spell a name or a word and write the letters down.",
+      "grammar": "There is a hyphen in my name",
+      "listening": "Noah writes his last name on a form. His last name is Smith-Jones, with a hyphen between Smith and Jones. Bella asks him to spell it letter by letter. Noah says the letters slowly, and Bella writes them down.",
+      "mainWord": {
+        "category": "new_word",
+        "definition": "A short line (-) between parts of a word or name.",
+        "example": "There is a hyphen in my last name, Smith-Jones.",
+        "ipa": "/ˈhaɪfən/",
+        "pos": "noun",
+        "status": "new",
+        "word": "hyphen"
+      },
+      "mainWordForms": "Hyphen is a noun. The plural is hyphens. A hyphen joins two parts of a name or a word, like Smith-Jones. We do not say the hyphen; we say the letters around it.",
+      "model": "My last name is Smith-Jones. There is a hyphen in it.",
+      "newItems": [
+        {
+          "category": "new_word",
+          "definition": "A short line (-) between parts of a word or name.",
+          "example": "There is a hyphen in my last name, Smith-Jones.",
+          "ipa": "/ˈhaɪfən/",
+          "pos": "noun",
+          "status": "new",
+          "word": "hyphen"
+        },
+        {
+          "category": "new_word",
+          "definition": "The mark (’) in a word like O’Brien or don’t.",
+          "example": "The apostrophe in O’Brien comes after the O.",
+          "ipa": "/əˈpɑstrəfi/",
+          "pos": "noun",
+          "status": "new",
+          "word": "apostrophe"
+        },
+        {
+          "category": "fixed_phrase",
+          "definition": "One letter at a time, slowly.",
+          "example": "Please say your name letter by letter.",
+          "ipa": "/ˈlɛtɚ baɪ ˈlɛtɚ/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "letter by letter"
+        },
+        {
+          "category": "fixed_phrase",
+          "definition": "A polite way to ask someone to spell a word.",
+          "example": "Could you spell that word for me?",
+          "ipa": "/kʊd juː spɛl ðæt/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "could you spell that"
+        },
+        {
+          "category": "fixed_phrase",
+          "definition": "Say a word slowly, sound by sound.",
+          "example": "Sound it out, and I will write the letters.",
+          "ipa": "/saʊnd ɪt aʊt/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "sound it out"
+        }
+      ],
+      "other": "The name of the community center",
+      "pattern": "There is a + noun + in + noun",
+      "pronunciationTarget": {
+        "ipa": "/ˈhaɪfən/",
+        "word": "hyphen"
+      },
+      "question": "What does Bella write down?",
+      "reading": "Bella needs Noah’s last name for the class list. She asks, “Could you spell that, please?” Noah says, “It is Smith-Jones. There is a hyphen between Smith and Jones.” Bella writes the name letter by letter. Then she asks about his friend O’Brien. “Is there an apostrophe in O’Brien?” Noah answers, “Yes, the apostrophe comes after the O.” Bella says, “Please sound it out for me.” Noah says the letters slowly, and Bella writes them down.",
+      "readingA": "There is a hyphen between Smith and Jones.",
+      "readingQ": "What mark is in Noah’s last name?",
+      "reviewWords": [
+        "name",
+        "letter",
+        "paper",
+        "school",
+        "book"
+      ],
+      "sound": "Hyphen has its strongest beat on HY. In apostrophe, say STRO clearly. In letter by letter, say each word slowly, with a clear LETTER.",
+      "speaking": "Tell a partner how to spell your first name and last name. Say the letters slowly, letter by letter, and say if there is a hyphen or an apostrophe.",
+      "speakingSample": "My first name is Mia, M-I-A. My last name is Reed, R-E-E-D. There is no hyphen in my name, and there is no apostrophe. Please write it letter by letter. Could you spell that back to me? I want to check that you have it right.",
+      "task": "There is a hyphen ___ my name.",
+      "title": "Ask someone to spell a name or a word",
+      "unit": 27,
+      "use": "Ask someone to spell a name or a word when you do not know the letters.",
+      "wordSample": "My last name has a hyphen in it.",
+      "wordTask": "What mark joins the two parts of Smith-Jones?",
+      "writing": "Write 45–65 words about your name. Spell your first name and last name, and say if there is a hyphen or an apostrophe in it.",
+      "writingSample": "My name is Mia Reed. My first name is Mia, M-I-A. My last name is Reed, R-E-E-D. There is no hyphen in my name, and there is no apostrophe. Please write it letter by letter. Could you spell that back to me? I want to make sure you have the right spelling."
+    },
+    {
+      "answer": "of",
+      "context": [
+        "Bella wants to visit Fenrir at his home this weekend.",
+        "What is the street address? I also need the apartment number."
+      ],
+      "correct": "On the top floor",
+      "day": 211,
+      "dialogue": [
+        "Fenrir, I want to visit you this weekend. What is the street address?",
+        "It is 24 Green Street, in the north district. My apartment number is 12B.",
+        "Thank you. Is your home on the top floor of the building?",
+        "No, my home is on the third floor. The top floor has the reading room.",
+        "Good. What is the house number again? Is it 24?",
+        "Yes, the house number is 24. I will meet you at the door on Saturday."
+      ],
+      "example": "What is the street address of the library?",
+      "expression": "What is the street address?",
+      "expressionTask": "Ask Fenrir for the street address of his home and the apartment number.",
+      "goal": "I can ask for an address and find the place.",
+      "grammar": "What is the street address of the library?",
+      "listening": "Bella wants to visit the new library in the north district. She asks Fenrir for the street address. The library is at 24 Green Street, and the class room is on the top floor. Fenrir also gives her his apartment number, 12B.",
+      "mainWord": {
+        "category": "new_word",
+        "definition": "One part of a city or town.",
+        "example": "The library is in the north district of the city.",
+        "ipa": "/ˈdɪstrɪkt/",
+        "pos": "noun",
+        "status": "new",
+        "word": "district"
+      },
+      "mainWordForms": "District is a noun. The plural is districts. A city has many districts. We say the name of a district to help people find a place.",
+      "model": "The library is in the north district. What is the street address?",
+      "newItems": [
+        {
+          "category": "new_word",
+          "definition": "One part of a city or town.",
+          "example": "The library is in the north district of the city.",
+          "ipa": "/ˈdɪstrɪkt/",
+          "pos": "noun",
+          "status": "new",
+          "word": "district"
+        },
+        {
+          "category": "fixed_phrase",
+          "definition": "The house number and street name of a place.",
+          "example": "What is the street address of the library?",
+          "ipa": "/strit əˈdrɛs/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "street address"
+        },
+        {
+          "category": "fixed_phrase",
+          "definition": "The number of one home in a building.",
+          "example": "My apartment number is 12B.",
+          "ipa": "/əˈpɑrtmənt ˈnʌmbɚ/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "apartment number"
+        },
+        {
+          "category": "fixed_phrase",
+          "definition": "The number of a house on a street.",
+          "example": "The house number is 24.",
+          "ipa": "/haʊs ˈnʌmbɚ/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "house number"
+        },
+        {
+          "category": "fixed_phrase",
+          "definition": "The highest floor in a building.",
+          "example": "The class is on the top floor.",
+          "ipa": "/tɑp flɔr/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "top floor"
+        }
+      ],
+      "other": "In the north district",
+      "pattern": "What is the + noun + of + place",
+      "pronunciationTarget": {
+        "ipa": "/ˈdɪstrɪkt/",
+        "word": "district"
+      },
+      "question": "Where is the class room in the library?",
+      "reading": "Bella wants to visit Fenrir at his home this weekend. She asks, “What is the street address?” Fenrir answers, “It is 24 Green Street, in the north district. My apartment number is 12B.” Bella asks, “What is the house number again?” Fenrir says, “The house number is 24.” Bella also asks about the top floor. Fenrir says, “My home is on the third floor. The top floor has the reading room.” Bella writes the address down and says, “Thank you. I will come on Saturday.”",
+      "readingA": "His apartment number is 12B.",
+      "readingQ": "What is Fenrir’s apartment number?",
+      "reviewWords": [
+        "home",
+        "street",
+        "place",
+        "time",
+        "date"
+      ],
+      "sound": "District has its strongest beat on DIS. In street address, say STREET clearly. In top floor, say TOP clearly so the listener hears the highest floor.",
+      "speaking": "Tell a partner your street address and apartment number. Say the district, the house number, and the floor of your home.",
+      "speakingSample": "I live at 24 Green Street, in the north district of the city. My apartment number is 12B, on the third floor. The house number is 24. The building is near the library. Please come on Saturday. The reading room is on the top floor, next to the big window.",
+      "task": "What is the street address ___ the library?",
+      "title": "Ask for an address and find the place",
+      "unit": 27,
+      "use": "Ask for the address of a place you want to visit.",
+      "wordSample": "The library is in the north district.",
+      "wordTask": "Which part of the city is the library in?",
+      "writing": "Write 45–65 words to a friend. Give your street address and apartment number, and say the district and the floor of your home.",
+      "writingSample": "Hello, Fenrir. Please come to my home on Saturday. My street address is 24 Green Street, in the north district. My apartment number is 12B, on the third floor. The house number is 24. The building is near the library. The reading room is on the top floor, next to the big window. I will meet you at the door."
+    },
+    {
+      "answer": "start",
+      "context": [
+        "Bella missed the English class on Monday. She meets Fenrir on Tuesday.",
+        "What time does it start? I want to come on Friday."
+      ],
+      "correct": "At ten on Friday",
+      "day": 212,
+      "dialogue": [
+        "Fenrir, I missed the English class on Monday. Did I miss anything?",
+        "No, we only talked about the new book. What day is it today? It is Tuesday.",
+        "Thank you. What time does it start on Friday?",
+        "It starts at ten in the morning. When does it start for you? Is ten too early?",
+        "No, ten is good. Is the library closed on Sunday?",
+        "Yes, it is closed on Sunday, but it is open on Friday. See you then."
+      ],
+      "example": "What time does it start?",
+      "expression": "What time does it start?",
+      "expressionTask": "Ask Fenrir what time the English class starts on Friday and what day it is.",
+      "goal": "I can ask for the time or date of an event I missed.",
+      "grammar": "What time does it start?",
+      "listening": "Bella missed the English class on Monday. On Tuesday, she meets Fenrir and asks about the class. The class starts at ten on Friday in the library. The library is closed on Sunday, but it is open on Friday.",
+      "mainWord": {
+        "category": "new_word",
+        "definition": "Not open; you cannot go in.",
+        "example": "The library is closed on Sunday.",
+        "ipa": "/kloʊzd/",
+        "pos": "adjective",
+        "status": "new",
+        "word": "closed"
+      },
+      "mainWordForms": "Closed is an adjective. The verb is close. A shop is closed when people cannot go in. The opposite is open.",
+      "model": "The library is closed on Sunday. What time does it start on Friday?",
+      "newItems": [
+        {
+          "category": "new_word",
+          "definition": "Not open; you cannot go in.",
+          "example": "The library is closed on Sunday.",
+          "ipa": "/kloʊzd/",
+          "pos": "adjective",
+          "status": "new",
+          "word": "closed"
+        },
+        {
+          "category": "fixed_phrase",
+          "definition": "A way to ask for the start time of an event.",
+          "example": "What time does it start on Friday?",
+          "ipa": "/wʌt taɪm dʌz ɪt stɑrt/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "what time does it start"
+        },
+        {
+          "category": "fixed_phrase",
+          "definition": "A way to ask for the day or time an event starts.",
+          "example": "When does it start? I want to come.",
+          "ipa": "/wɛn dʌz ɪt stɑrt/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "when does it start"
+        },
+        {
+          "category": "fixed_phrase",
+          "definition": "A way to ask for the day of an event.",
+          "example": "What day is it? I forgot the date.",
+          "ipa": "/wʌt deɪ ɪz ɪt/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "what day is it"
+        },
+        {
+          "category": "fixed_phrase",
+          "definition": "A way to ask if something important happened.",
+          "example": "Did I miss anything in the class?",
+          "ipa": "/dɪd aɪ mɪs ˈɛniθɪŋ/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "did I miss anything"
+        }
+      ],
+      "other": "At ten on Monday",
+      "pattern": "What time does it + base verb",
+      "pronunciationTarget": {
+        "ipa": "/kloʊzd/",
+        "word": "closed"
+      },
+      "question": "When does the English class start?",
+      "reading": "Bella missed the English class on Monday. On Tuesday, she meets Fenrir. She asks, “Did I miss anything?” Fenrir says, “No, we only talked about the new book.” Bella asks, “What day is it today?” Fenrir answers, “It is Tuesday.” Then Bella asks, “What time does it start on Friday?” Fenrir says, “It starts at ten. When does it start for you?” Bella says, “Ten is good. Is the library closed on Sunday?” Fenrir answers, “Yes, it is closed on Sunday, but it is open on Friday.”",
+      "readingA": "It starts at ten in the morning.",
+      "readingQ": "What time does the English class start on Friday?",
+      "reviewWords": [
+        "time",
+        "date",
+        "friend",
+        "party",
+        "weekend"
+      ],
+      "sound": "Closed has its strongest beat on CLOSED. In what time does it start, say TIME clearly. In did I miss anything, say MISS clearly.",
+      "speaking": "Tell a partner about a class you missed. Ask what time it starts, what day it is, and if you missed anything important.",
+      "speakingSample": "I missed the English class on Monday, and I want to know what happened. Did I miss anything important? What time does it start on Friday? When does it start in the morning? Is the library closed on Sunday? I will come on Friday at ten, and I will bring my book.",
+      "task": "What time does it ___?",
+      "title": "Ask for a time or a date you missed",
+      "unit": 27,
+      "use": "Ask for the time or day of an event you missed.",
+      "wordSample": "The library is closed on Sunday.",
+      "wordTask": "Is the library open or closed on Sunday?",
+      "writing": "Write 45–65 words to a friend. Say you missed a class, and ask what time it starts, what day it is, and if you missed anything.",
+      "writingSample": "Hello, Fenrir. I missed the English class on Monday, and I want to know what happened. Did I miss anything important? What time does it start on Friday? When does it start in the morning? What day is it today? Is the library closed on Sunday? I will come on Friday at ten. Please tell me if I need to bring my book."
+    },
+    {
+      "answer": "repeat",
+      "context": [
+        "Fenrir speaks fast, and Bella does not hear the time of the class.",
+        "Could you repeat that? Please say it clearly."
+      ],
+      "correct": "At ten on Friday",
+      "day": 213,
+      "dialogue": [
+        "Fenrir, what time does the class start? I didn’t catch that.",
+        "It starts at ten on Friday. Did you hear me?",
+        "Could you repeat that, please? Say that again, slowly.",
+        "Of course. It starts at ten on Friday. Tell me if I speak too fast.",
+        "Thank you. Please speak clearly. I want to write the time down.",
+        "Good. Ten on Friday. I will speak up so you can hear me."
+      ],
+      "example": "Could you repeat that?",
+      "expression": "Could you repeat that?",
+      "expressionTask": "Ask Fenrir to repeat the time of the class. Ask him to say it clearly.",
+      "goal": "I can ask someone to repeat something slowly and clearly.",
+      "grammar": "Could you repeat that?",
+      "listening": "Fenrir tells Bella the time of the English class, but he speaks fast. Bella says she did not catch the time. Fenrir repeats it slowly and clearly: the class starts at ten on Friday. Bella writes the time down and thanks him.",
+      "mainWord": {
+        "category": "new_word",
+        "definition": "In a way that is easy to hear and understand.",
+        "example": "Please speak clearly so I can understand you.",
+        "ipa": "/ˈklɪrli/",
+        "pos": "adverb",
+        "status": "new",
+        "word": "clearly"
+      },
+      "mainWordForms": "Clearly is an adverb. The adjective is clear. Speak clearly means speak in a way that people can hear and understand. We say speak clearly and write clearly.",
+      "model": "Could you repeat that, please? Say it clearly.",
+      "newItems": [
+        {
+          "category": "new_word",
+          "definition": "In a way that is easy to hear and understand.",
+          "example": "Please speak clearly so I can understand you.",
+          "ipa": "/ˈklɪrli/",
+          "pos": "adverb",
+          "status": "new",
+          "word": "clearly"
+        },
+        {
+          "category": "fixed_phrase",
+          "definition": "A polite way to ask someone to say something again.",
+          "example": "Could you repeat that, please? I did not hear you.",
+          "ipa": "/kʊd juː rɪˈpiːt ðæt/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "could you repeat that"
+        },
+        {
+          "category": "fixed_phrase",
+          "definition": "A way to ask someone to say something one more time.",
+          "example": "Say that again, please. I want to hear it one more time.",
+          "ipa": "/seɪ ðæt əˈɡɛn/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "say that again"
+        },
+        {
+          "category": "fixed_phrase",
+          "definition": "A polite way to say you did not hear or understand.",
+          "example": "I didn’t catch that. Could you repeat it?",
+          "ipa": "/aɪ ˈdɪdənt kætʃ ðæt/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "I didn’t catch that"
+        },
+        {
+          "category": "fixed_phrase",
+          "definition": "Speak louder so people can hear you.",
+          "example": "Please speak up. I cannot hear you at the back.",
+          "ipa": "/spiːk ʌp/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "speak up"
+        }
+      ],
+      "other": "At nine on Friday",
+      "pattern": "Could you + base verb + that",
+      "pronunciationTarget": {
+        "ipa": "/ˈklɪrli/",
+        "word": "clearly"
+      },
+      "question": "What time does the English class start?",
+      "reading": "Fenrir tells Bella the time of the English class, but he speaks fast. Bella says, “I didn’t catch that. Could you repeat that, please?” Fenrir says the time again, slowly and clearly: ten on Friday. Bella asks, “Say that again, please.” Fenrir repeats it and says, “I will speak up so you can hear me.” Bella smiles and says, “Thank you. Now I can hear you clearly.”",
+      "readingA": "She asks him to repeat the time slowly and clearly.",
+      "readingQ": "What does Bella ask Fenrir to do?",
+      "reviewWords": [
+        "teacher",
+        "question",
+        "story",
+        "time",
+        "friend"
+      ],
+      "sound": "Clearly has its strongest beat on CLEAR. In could you repeat that, say REPEAT clearly. In speak up, say UP clearly so the listener hears it.",
+      "speaking": "Tell a partner that you did not hear something. Ask them to repeat it slowly and clearly, and say the time or number back.",
+      "speakingSample": "I didn’t catch that. Could you repeat that, please? Say that again, slowly and clearly. The class starts at ten on Friday, is that right? Please speak up a little. I want to write the time down and check it with you.",
+      "task": "Could you ___ that?",
+      "title": "Ask someone to repeat slowly and clearly",
+      "unit": 27,
+      "use": "Ask someone to say something again, slowly and clearly.",
+      "wordSample": "Please speak clearly so I can understand you.",
+      "wordTask": "How should Bella speak so Fenrir can understand her?",
+      "writing": "Write 45–65 words to a friend. Say you did not hear the time of a class, and ask them to repeat it slowly and clearly.",
+      "writingSample": "Hello, Fenrir. I didn’t catch that. Could you repeat that, please? Say that again, slowly and clearly. What time does the class start? Is it ten on Friday? Please speak up a little. I want to write the time down. Thank you for saying it clearly. I will come on Friday at ten."
+    },
+    {
+      "answer": "after",
+      "context": [
+        "Bella calls Fenrir, but he does not answer. She hears a beep.",
+        "Please call me back. This is urgent. My number is 909-555-0173."
+      ],
+      "correct": "Call her back after six",
+      "day": 214,
+      "dialogue": [
+        "Fenrir, I called you this morning, but you did not answer.",
+        "Sorry, I missed your call. I was in class. What did your message say?",
+        "I said it is urgent. Please call me back after six.",
+        "Of course. I will call you back after six. Can you take a message for Noah?",
+        "Yes. What should I tell him?",
+        "Tell him the class starts at ten. Thank you for taking the message."
+      ],
+      "example": "Please call me back after six.",
+      "expression": "Please call me back.",
+      "expressionTask": "Leave a message for Fenrir. Say it is urgent, ask him to call you back, and give your number.",
+      "goal": "I can leave a message with the missing details.",
+      "grammar": "Please call me back after six",
+      "listening": "Bella calls Fenrir, but he does not answer. She hears a beep and leaves a short message. She says it is urgent and asks Fenrir to call her back after six. She gives her number, 909-555-0173. Fenrir hears the message later.",
+      "mainWord": {
+        "category": "new_word",
+        "definition": "A short sound on a phone, after which you can speak.",
+        "example": "Please leave a message after the beep.",
+        "ipa": "/biːp/",
+        "pos": "noun",
+        "status": "new",
+        "word": "beep"
+      },
+      "mainWordForms": "Beep is a noun. The plural is beeps. A phone makes a beep sound. After the beep, you can leave a message.",
+      "model": "Please leave a message after the beep. This is urgent.",
+      "newItems": [
+        {
+          "category": "new_word",
+          "definition": "A short sound on a phone, after which you can speak.",
+          "example": "Please leave a message after the beep.",
+          "ipa": "/biːp/",
+          "pos": "noun",
+          "status": "new",
+          "word": "beep"
+        },
+        {
+          "category": "new_word",
+          "definition": "Very important; it needs a fast answer.",
+          "example": "This is urgent. Please call me back today.",
+          "ipa": "/ˈɝdʒənt/",
+          "pos": "adjective",
+          "status": "new",
+          "word": "urgent"
+        },
+        {
+          "category": "fixed_phrase",
+          "definition": "Write down what a caller says for someone else.",
+          "example": "Can you take a message for Fenrir?",
+          "ipa": "/teɪk ə ˈmɛsɪdʒ/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "take a message"
+        },
+        {
+          "category": "fixed_phrase",
+          "definition": "Phone me again later.",
+          "example": "Please call me back after six.",
+          "ipa": "/kɔl miː bæk/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "call me back"
+        },
+        {
+          "category": "fixed_phrase",
+          "definition": "Did not answer your phone call.",
+          "example": "Sorry, I missed your call this morning.",
+          "ipa": "/mɪst jʊr kɔl/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "missed your call"
+        }
+      ],
+      "other": "Come to her home on Friday",
+      "pattern": "Please call me back + time",
+      "pronunciationTarget": {
+        "ipa": "/biːp/",
+        "word": "beep"
+      },
+      "question": "What does Bella ask Fenrir to do?",
+      "reading": "Bella calls Fenrir in the morning, but he does not answer. She hears a beep and leaves a short message: “Hello, Fenrir. This is Bella. This is urgent. Please call me back after six. My number is 909-555-0173.” Fenrir hears the message later. He says, “Sorry, I missed your call. I was in class.” He calls Bella back and asks, “Can you take a message for Noah?” Bella says, “Yes. Tell me what to say.”",
+      "readingA": "She asks him to call her back after six.",
+      "readingQ": "What does Bella ask Fenrir to do in her message?",
+      "reviewWords": [
+        "message",
+        "friend",
+        "phone",
+        "time",
+        "call"
+      ],
+      "sound": "Beep has one strong beat: BEEP. In urgent, say URGENT clearly. In call me back, say BACK clearly at the end.",
+      "speaking": "Tell a partner about a call you missed. Leave a short message: say it is urgent, ask them to call you back, and give your number.",
+      "speakingSample": "Hello, Fenrir. This is Bella. I called you this morning, but you did not answer. This is urgent. Please call me back after six. My number is 909-555-0173. Thank you for calling me back.",
+      "task": "Please call me back ___ six.",
+      "title": "Leave a message with the missing details",
+      "unit": 27,
+      "use": "Leave a short message when someone does not answer the phone.",
+      "wordSample": "Please leave a message after the beep.",
+      "wordTask": "What sound do you hear before you can leave a message?",
+      "writing": "Write 45–65 words to leave as a phone message. Say it is urgent, ask the person to call you back, and give your number.",
+      "writingSample": "Hello, Fenrir. This is Bella. I called you this morning, but you did not answer. This is urgent. Please call me back after six. My number is 909-555-0173. Thank you very much. I will wait for your call. Please tell Noah the class starts at ten."
+    },
+    {
+      "answer": "that",
+      "context": [
+        "Bella writes down the time of the class: ten on Friday.",
+        "Did I get that right? The class is at ten on Friday."
+      ],
+      "correct": "The time and the address of the class",
+      "day": 215,
+      "dialogue": [
+        "Fenrir, did you mention the time of the class? I want to say it back to you.",
+        "Yes. The class is at ten on Friday. Please say it back.",
+        "Ten on Friday. Did I get that right?",
+        "Yes, that is right. Do you mind if I ask you to check the address too?",
+        "No, I do not mind. I will look it up on my smartphone.",
+        "Thank you. The address is 24 Green Street. Please say it back to me."
+      ],
+      "example": "Did I get that right?",
+      "expression": "Did I get that right?",
+      "expressionTask": "Say the time of the class back to Fenrir and ask if it is right.",
+      "goal": "I can check the details I heard by saying them back.",
+      "grammar": "Did I get that right?",
+      "listening": "Bella checks the details of the English class. She says the time back to Fenrir: ten on Friday. She asks, “Did I get that right?” Fenrir says yes. Then Bella looks up the address and says it back too.",
+      "mainWord": {
+        "category": "new_word",
+        "definition": "Say something about a person or thing.",
+        "example": "Did you mention the time of the class?",
+        "ipa": "/ˈmɛnʃən/",
+        "pos": "verb",
+        "status": "new",
+        "word": "mention"
+      },
+      "mainWordForms": "Mention is a verb. The past form is mentioned. We mention a name, a time, or a place. Mention is for small details, not for a long story.",
+      "model": "Did you mention the time? The class is at ten. Did I get that right?",
+      "newItems": [
+        {
+          "category": "new_word",
+          "definition": "Say something about a person or thing.",
+          "example": "Did you mention the time of the class?",
+          "ipa": "/ˈmɛnʃən/",
+          "pos": "verb",
+          "status": "new",
+          "word": "mention"
+        },
+        {
+          "category": "fixed_phrase",
+          "definition": "A way to check that you heard something correctly.",
+          "example": "The class is at ten. Did I get that right?",
+          "ipa": "/dɪd aɪ ɡɛt ðæt raɪt/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "did I get that right"
+        },
+        {
+          "category": "fixed_phrase",
+          "definition": "Say words again to check them.",
+          "example": "Say it back to me so I can check it.",
+          "ipa": "/seɪ ɪt bæk/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "say it back"
+        },
+        {
+          "category": "fixed_phrase",
+          "definition": "Find information in a book, on a phone, or on the internet.",
+          "example": "I do not know the address. I will look it up.",
+          "ipa": "/lʊk ɪt ʌp/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "look it up"
+        },
+        {
+          "category": "fixed_phrase",
+          "definition": "A polite way to ask if something is a problem.",
+          "example": "Do you mind if I write down your number?",
+          "ipa": "/duː juː maɪnd/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "do you mind"
+        }
+      ],
+      "other": "The name of the teacher",
+      "pattern": "Did I get + that + right",
+      "pronunciationTarget": {
+        "ipa": "/ˈmɛnʃən/",
+        "word": "mention"
+      },
+      "question": "What does Bella write down?",
+      "reading": "Bella wants to check the details of the English class. She asks Fenrir, “Did you mention the time of the class?” Fenrir answers, “Yes. The class is at ten on Friday.” Bella says it back: “Ten on Friday. Did I get that right?” Fenrir says, “Yes, that is right.” Then Bella says, “Do you mind if I look it up on my smartphone? I want the address too.” Fenrir says, “The address is 24 Green Street. Please say it back to me.”",
+      "readingA": "She says the class is at ten on Friday.",
+      "readingQ": "What does Bella say back to Fenrir?",
+      "reviewWords": [
+        "time",
+        "date",
+        "friend",
+        "number",
+        "address"
+      ],
+      "sound": "Mention has its strongest beat on MEN. In did I get that right, say RIGHT clearly. In say it back, say BACK clearly at the end.",
+      "speaking": "Tell a partner two details you heard today. Say them back, ask if you got them right, and check one more detail.",
+      "speakingSample": "Fenrir, did you mention the time of the class? The class is at ten on Friday. Did I get that right? The address is 24 Green Street. Did I get that right too? I will say it back. Do you mind if I look it up on my smartphone? Thank you.",
+      "task": "Did I get ___ right?",
+      "title": "Check the details you heard",
+      "unit": 27,
+      "use": "Check that you heard a detail correctly by saying it back.",
+      "wordSample": "Did you mention the time of the class?",
+      "wordTask": "What does Bella ask about the time of the class?",
+      "writing": "Write 45–65 words to check details you heard. Say the time and the address back, and ask if you got them right.",
+      "writingSample": "Hello, Fenrir. Did you mention the time of the class? The class is at ten on Friday. Did I get that right? The address is 24 Green Street. Did I get that right too? I will say it back to you. Do you mind if I look it up on my smartphone? Thank you for your help."
+    },
+    {
+      "answer": "the",
+      "context": [
+        "Mia phones the Riverside Community Center about a free English class.",
+        "Could you tell me more? I need the day, the time, and the address."
+      ],
+      "correct": "A notebook and a pen",
+      "day": 216,
+      "dialogue": [
+        "Mia phoned the community center today. She asked about the free English class.",
+        "Good. Could you tell me more? What did Ms. Reed say?",
+        "The class is on Monday at eleven, at 24 Green Street. Mia needs the address.",
+        "That helps a lot. Monday at eleven. Did Mia ask what to bring?",
+        "Yes. Ms. Reed said to bring a notebook and a pen. Mia can’t wait to start.",
+        "Thanks for the information. That’s all I need. I will come too."
+      ],
+      "example": "Could you tell me more about the class?",
+      "expression": "Could you tell me more?",
+      "expressionTask": "Ask Ms. Reed for more information about the English class: the day, the time, and the address.",
+      "goal": "I can ask for missing information and check it in a new situation.",
+      "grammar": "Could you tell me more about the class?",
+      "listening": "Mia phones the community center about an English class. Ms. Reed tells her the class is on Monday at eleven, at 24 Green Street. Mia asks for more information about what to bring. Ms. Reed says to bring a notebook and a pen.",
+      "mainWord": {
+        "category": "fixed_phrase",
+        "definition": "A polite way to ask for more information.",
+        "example": "Could you tell me more about the English class?",
+        "ipa": "/kʊd juː tɛl miː mɔr/",
+        "pos": "fixed phrase",
+        "status": "new",
+        "word": "could you tell me more"
+      },
+      "mainWordForms": "Could you tell me more is a fixed phrase. Tell is a verb; the past form is told. We say could you tell me more when we need more information, not when we already have all the details.",
+      "model": "Could you tell me more? Thanks for the information. I can’t wait to start.",
+      "newItems": [
+        {
+          "category": "fixed_phrase",
+          "definition": "A polite way to ask for more information.",
+          "example": "Could you tell me more about the English class?",
+          "ipa": "/kʊd juː tɛl miː mɔr/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "could you tell me more"
+        },
+        {
+          "category": "fixed_phrase",
+          "definition": "A warm way to thank someone for details.",
+          "example": "Thanks for the information. I will come on Monday.",
+          "ipa": "/θæŋks fɔr ði ɪnfɚˈmeɪʃən/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "thanks for the information"
+        },
+        {
+          "category": "fixed_phrase",
+          "definition": "Very happy about something that will happen.",
+          "example": "I can’t wait to start the class.",
+          "ipa": "/kænt weɪt tuː stɑrt/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "can’t wait to start"
+        },
+        {
+          "category": "fixed_phrase",
+          "definition": "A warm way to say information is useful.",
+          "example": "That helps a lot. Thank you for your help.",
+          "ipa": "/ðæt hɛlps ə lɑt/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "that helps a lot"
+        },
+        {
+          "category": "fixed_phrase",
+          "definition": "I have all the information now.",
+          "example": "That’s all I need. Thank you for your help.",
+          "ipa": "/ðæts ɔl aɪ niːd/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "that’s all I need"
+        }
+      ],
+      "other": "A smartphone and a book",
+      "pattern": "Could you tell me more about + noun",
+      "pronunciationTarget": {
+        "ipa": "/ɪnfɚˈmeɪʃən/",
+        "word": "information"
+      },
+      "question": "What should Mia bring to the class?",
+      "reading": "Mia phones the Riverside Community Center about a free English class. She asks Ms. Reed, “Could you tell me more about the class?” Ms. Reed answers, “The class is on Monday at eleven, at 24 Green Street. Please bring a notebook and a pen.” Mia says, “Thanks for the information. I can’t wait to start. That helps a lot.” Ms. Reed says, “You are welcome. See you on Monday.” Mia says, “That’s all I need. Thank you for your help.”",
+      "readingA": "It is on Monday at eleven, at 24 Green Street.",
+      "readingQ": "When and where is the English class?",
+      "reviewWords": [
+        "friend",
+        "party",
+        "time",
+        "date",
+        "place"
+      ],
+      "sound": "In could you tell me more, say MORE clearly. In thanks for the information, say INFORMATION clearly. In that helps a lot, say HELPS clearly.",
+      "speaking": "Tell a partner about a phone call to ask for information. Say what you asked, what you learned, and what you still need to know.",
+      "speakingSample": "I phoned the community center about the English class. I asked, “Could you tell me more about the class?” Ms. Reed said the class is on Monday at eleven, at 24 Green Street. I asked what to bring. She said to bring a notebook and a pen. I can’t wait to start. That helps a lot. That’s all I need.",
+      "task": "Could you tell me more about ___ class?",
+      "title": "Use the missing information in a new situation",
+      "transferCheck": {
+        "answer": "1. Mia phones Ms. Reed at the Riverside Community Center to ask about a free English class. 2. The class is on Monday at eleven, at 24 Green Street. 3. Mia should bring a notebook and a pen. 4. Thanks for the information. I can’t wait to start. 5. Sample: Mia phones Ms. Reed at the Riverside Community Center about a free English class. She asks for the day, the time, the address, and what to bring. Ms. Reed says the class is on Monday at eleven, at 24 Green Street, and Mia should bring a notebook and a pen. Mia says, “Thanks for the information. I can’t wait to start.” Follow-up: What does Mia bring? A notebook and a pen.",
+        "dictation": "Thanks for the information. I can’t wait to start.",
+        "source": "On Saturday morning, Mia phones the Riverside Community Center about a free English class. She speaks to Ms. Reed. Mia does not know the day, the time, the address, or what to bring. She asks for the missing information, checks it, and thanks Ms. Reed.",
+        "tasks": [
+          [
+            "1 · Identify the people and the reason",
+            "Who does Mia phone, and why does she phone?"
+          ],
+          [
+            "2 · Work out the day, the time and the place",
+            "On which day, at what time, and where is the English class?"
+          ],
+          [
+            "3 · Notice what to bring",
+            "What should Mia bring to the class?"
+          ],
+          [
+            "4 · Listen and write",
+            "Write the sentence you hear."
+          ],
+          [
+            "5 · Retell and answer",
+            "Tell Mia’s phone call in order, including who she phones, the day, the time, the place, and what to bring. Then answer one follow-up question."
+          ]
+        ]
+      },
+      "unit": 27,
+      "use": "Ask for more information when you do not have all the details.",
+      "wordSample": "Could you tell me more about the class?",
+      "wordTask": "What does Mia ask Ms. Reed to do?",
+      "writing": "Write 45–65 words about a phone call to ask for information. Say what you asked, what you learned, and what you will bring.",
+      "writingSample": "I phoned the Riverside Community Center about a free English class. I asked, “Could you tell me more about the class?” Ms. Reed said the class is on Monday at eleven, at 24 Green Street. I asked what to bring. She said to bring a notebook and a pen. Thanks for the information. I can’t wait to start."
+    }
+  ],
+  "number": 27,
+  "title": "Exchanging missing information"
+}

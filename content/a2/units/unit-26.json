@@ -1,0 +1,916 @@
+{
+  "number": 26,
+  "title": "Messages, invitations and replies",
+  "lessons": [
+    {
+      "day": 201,
+      "unit": 26,
+      "title": "Read an invitation before accepting it",
+      "goal": "I can identify an event, its date and who may come, and ask for information that is not yet given.",
+      "newItems": [
+        {
+          "word": "retirement",
+          "ipa": "/rɪˈtaɪɚmənt/",
+          "pos": "noun",
+          "definition": "The stage or occasion of leaving working life, usually after many years of work.",
+          "example": "Our colleague’s retirement party is on Saturday.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "farewell",
+          "ipa": "/ˌfɛrˈwɛl/",
+          "pos": "noun",
+          "definition": "A goodbye, especially when someone is leaving for a long time.",
+          "example": "We are having a farewell lunch before Ana moves away.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "save the date",
+          "ipa": "/seɪv ðə deɪt/",
+          "pos": "fixed phrase",
+          "definition": "Keep a particular day available for a planned event.",
+          "example": "Save the date: the party is on June 14.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "bring a friend",
+          "ipa": "/brɪŋ ə frɛnd/",
+          "pos": "fixed phrase",
+          "definition": "Come with another person you know, when the invitation allows it.",
+          "example": "You can bring a friend to the picnic.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "join us for",
+          "ipa": "/dʒɔɪn ʌs fɔr/",
+          "pos": "fixed phrase",
+          "definition": "An invitation to take part with the speaker in the event or activity that follows.",
+          "example": "Join us for lunch on Saturday.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "party",
+        "colleague",
+        "friend",
+        "lunch",
+        "date"
+      ],
+      "mainWord": {
+        "word": "retirement",
+        "ipa": "/rɪˈtaɪɚmənt/",
+        "pos": "noun",
+        "definition": "The stage or occasion of leaving working life, usually after many years of work.",
+        "example": "Our colleague’s retirement party is on Saturday.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Retirement is normally uncountable in the sense of leaving working life. Farewell is used as a noun here; farewell lunch means a lunch to say goodbye. A retirement and a move away are different reasons for an event. Save the date does not mean that every practical detail has been confirmed.",
+      "wordTask": "Which event celebrates a colleague leaving working life: a retirement party or a lunch for a short holiday?",
+      "wordSample": "A retirement party.",
+      "expression": "Could you send me the time and place?",
+      "use": "Ask for practical details that an early invitation has not yet provided.",
+      "context": [
+        "Save the date for our colleague’s retirement party on June 14.",
+        "Could you send me the time and place?"
+      ],
+      "expressionTask": "Reply to an early invitation. Mention the date, then ask for the missing time and place without inventing them.",
+      "grammar": "Join us for followed by an event",
+      "pattern": "Join us for + noun phrase",
+      "example": "Join us for a retirement party.",
+      "task": "Join us ___ a retirement party.",
+      "answer": "for",
+      "sound": "Retirement has its strongest beat on TIRE. Farewell has its strongest beat on WELL. In save the date, make DATE clear so the listener catches the key information.",
+      "model": "The retirement party is on Saturday.",
+      "dialogue": [
+        "Have you seen the invitation? Join us for a retirement party on June 14.",
+        "Yes. Is it also Ana’s farewell lunch?",
+        "No, that lunch is on June 7 before she moves away. This is for our colleague Sam.",
+        "Thanks. I will save the date. Could you send me the time and place?",
+        "The organizer will send those tomorrow. You can bring a friend.",
+        "Good. I will wait for the details before making my travel plan."
+      ],
+      "reading": "Two invitations arrive in the office. Ana’s farewell lunch is on June 7 because she is moving away. Sam’s retirement party is on June 14 because he is leaving working life. The second message says, “Save the date. Join us for a retirement party. You can bring a friend.” It does not yet give the time or place; the organizer will send those tomorrow. Bella notes June 14 and asks for the missing details. She does not assume that the two events are the same or that a date alone tells her when to arrive.",
+      "readingQ": "Which details are still missing from Sam’s invitation?",
+      "readingA": "The time and place; the date and permission to bring a friend are already given.",
+      "writing": "Write 45–65 words replying to Sam’s early invitation. Distinguish it from Ana’s lunch, confirm the known date and ask about the missing details.",
+      "writingSample": "Thank you for the invitation to Sam’s retirement party. I have noted June 14, rather than June 7, which is Ana’s farewell lunch. Could you send me the time and place when they are ready? I understand that I can bring a friend. I will check my travel arrangements after I receive the details.",
+      "listening": "Ana’s farewell lunch is on June 7. Sam’s retirement party is on June 14. Guests may bring a friend to Sam’s event. The organizer has not given the time and place yet and will send them tomorrow.",
+      "question": "What is already confirmed for Sam’s party?",
+      "correct": "June 14, with permission to bring a friend",
+      "other": "June 7, with the place already confirmed",
+      "speaking": "Explain the two invitations to a partner. Give the different reasons and dates, then state which details still need checking.",
+      "speakingSample": "Ana’s farewell lunch is on June 7 because she is moving away. Sam’s retirement party is on June 14. We may bring a friend to Sam’s party, but we still need the time and place."
+    },
+    {
+      "answer": "to",
+      "context": [
+        "Sam invites us to his retirement party on June 14.",
+        "Count me in. I am looking forward to it."
+      ],
+      "correct": "Save her a seat near the front",
+      "day": 202,
+      "dialogue": [
+        "Sam’s invitation is here. His retirement party is on June 14. Will you come?",
+        "Yes, count me in. I will accept the invitation today.",
+        "I am delighted. I am looking forward to the party. It will be a warm evening.",
+        "Please save me a seat near you. I want to hear Sam’s stories.",
+        "I will ask the organizer to save us two seats. We can arrive together.",
+        "Good. I will send my reply now, and then we can plan our gift."
+      ],
+      "example": "I am delighted to come.",
+      "expression": "Count me in.",
+      "expressionTask": "Reply to Sam’s invitation. Accept it, give the date, and say that you are looking forward to the party.",
+      "goal": "I can accept an invitation, confirm the details, and say that I am looking forward to an event.",
+      "grammar": "be delighted to + base verb",
+      "listening": "Bella accepts Sam’s invitation to the retirement party on June 14. She is delighted to come and is looking forward to the evening. She asks the organizer to save her a seat near the front, and Fenrir will come with her.",
+      "mainWord": {
+        "category": "new_word",
+        "definition": "Say yes to an invitation, offer, or plan.",
+        "example": "Bella accepts the invitation to Sam’s retirement party.",
+        "ipa": "/əkˈsɛpt/",
+        "pos": "verb",
+        "status": "new",
+        "word": "accept"
+      },
+      "mainWordForms": "Accept is a verb. The past form is accepted. We accept an invitation, a gift, or help. We do not accept a person; we welcome a person.",
+      "model": "I am delighted to accept the invitation.",
+      "newItems": [
+        {
+          "category": "new_word",
+          "definition": "Say yes to an invitation, offer, or plan.",
+          "example": "Bella accepts the invitation to Sam’s retirement party.",
+          "ipa": "/əkˈsɛpt/",
+          "pos": "verb",
+          "status": "new",
+          "word": "accept"
+        },
+        {
+          "category": "new_word",
+          "definition": "Very happy and pleased about something.",
+          "example": "I am delighted to hear about the party.",
+          "ipa": "/dɪˈlaɪtɪd/",
+          "pos": "adjective",
+          "status": "new",
+          "word": "delighted"
+        },
+        {
+          "category": "fixed_phrase",
+          "definition": "Please include me; I will come.",
+          "example": "Count me in for the retirement party.",
+          "ipa": "/kaʊnt miː ɪn/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "count me in"
+        },
+        {
+          "category": "fixed_phrase",
+          "definition": "Feeling happy about something that will happen.",
+          "example": "I am looking forward to the party on June 14.",
+          "ipa": "/ˈlʊkɪŋ ˈfɔrwɚd tuː/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "looking forward to"
+        },
+        {
+          "category": "fixed_phrase",
+          "definition": "Keep a place for me to sit.",
+          "example": "Please save me a seat near the front.",
+          "ipa": "/seɪv miː ə siːt/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "save me a seat"
+        }
+      ],
+      "other": "Move the party to another week",
+      "pattern": "be delighted to + base verb",
+      "pronunciationTarget": {
+        "ipa": "/dɪˈlaɪtɪd/",
+        "word": "delighted"
+      },
+      "question": "What does Bella ask the organizer to do?",
+      "reading": "Bella reads Sam’s invitation again and decides to accept it. She is delighted to go to his retirement party on June 14. She writes a short reply: “Count me in. I am looking forward to the party, and I will arrive early. Please save me a seat near the front so that I can hear Sam’s stories.” Fenrir also accepts and asks Bella to save him a seat too. They will go together, and they will bring a small gift for Sam. Bella is happy because the date is clear and her friend is coming.",
+      "readingA": "She asks the organizer to save her a seat near the front.",
+      "readingQ": "What does Bella ask for in her reply?",
+      "reviewWords": [
+        "party",
+        "friend",
+        "lunch",
+        "date",
+        "time"
+      ],
+      "sound": "Accept has its strongest beat on CEPT. Delighted has its strongest beat on LIGHT. In count me in, say the three words together, with a clear IN at the end.",
+      "speaking": "Tell a partner about Sam’s retirement party. Say the date, accept the invitation, and explain what you are looking forward to.",
+      "speakingSample": "Sam’s retirement party is on June 14. I accept the invitation, and I am delighted to come. I am looking forward to the evening, and I ask the organizer to save me a seat near the front.",
+      "task": "I am delighted ___ come.",
+      "title": "Accept an invitation and confirm the details",
+      "unit": 26,
+      "use": "Accept an invitation in a warm, friendly way.",
+      "wordSample": "She says yes. She accepts the invitation.",
+      "wordTask": "Does Bella say yes or no to Sam’s retirement party?",
+      "writing": "Write 45–65 words accepting Sam’s invitation to his retirement party on June 14. Say that you are looking forward to it and ask for a seat near the front.",
+      "writingSample": "Thank you for the invitation to Sam’s retirement party on June 14. I am delighted to accept it, and I am looking forward to the evening. I will arrive early and bring a small gift for Sam. Please save me a seat near the front so that I can hear his stories. I hope to see our friends there and share a warm time."
+    },
+    {
+      "answer": "come",
+      "context": [
+        "Mia invites Fenrir to a birthday dinner on June 14.",
+        "Maybe next time. I cannot come that day, but let’s catch up soon."
+      ],
+      "correct": "He will go to Sam’s retirement party that day",
+      "day": 203,
+      "dialogue": [
+        "Mia invites us to her birthday dinner on June 14. That is the same day as Sam’s party.",
+        "Sadly, I cannot come to both. I will go to Sam’s party that day.",
+        "How will you answer Mia? She will be sad if you say nothing.",
+        "I will apologize and ask to take a rain check. Maybe next time we can meet for lunch.",
+        "That is polite. Tell her you hope she has a good dinner.",
+        "Yes. I will write: I apologize, but I cannot come. Let’s catch up soon."
+      ],
+      "example": "Sorry, I can’t come on June 14.",
+      "expression": "Maybe next time.",
+      "expressionTask": "Reply to Mia’s invitation. Say no politely, give a short reason, and suggest another time.",
+      "goal": "I can say no to an invitation politely, give a short reason, and suggest another time.",
+      "grammar": "Sorry, I can’t + base verb",
+      "listening": "Mia invites Fenrir to a birthday dinner on June 14. Fenrir cannot come because he will go to Sam’s retirement party that day. He apologizes, asks to take a rain check, and says they can catch up soon after the party.",
+      "mainWord": {
+        "category": "new_word",
+        "definition": "Say sorry for something, especially when you cannot do what someone asks.",
+        "example": "I apologize, but I cannot come on June 14.",
+        "ipa": "/əˈpɑlədʒaɪz/",
+        "pos": "verb",
+        "status": "new",
+        "word": "apologize"
+      },
+      "mainWordForms": "Apologize is a verb. The past form is apologized. We apologize to a person for a problem. Apologize is more formal than say sorry.",
+      "model": "Sadly, I cannot come on June 14.",
+      "newItems": [
+        {
+          "category": "new_word",
+          "definition": "Say sorry for something, especially when you cannot do what someone asks.",
+          "example": "I apologize, but I cannot come on June 14.",
+          "ipa": "/əˈpɑlədʒaɪz/",
+          "pos": "verb",
+          "status": "new",
+          "word": "apologize"
+        },
+        {
+          "category": "new_word",
+          "definition": "In a sad way; used to show that something is a pity.",
+          "example": "Sadly, I will be out of town that day.",
+          "ipa": "/ˈsædli/",
+          "pos": "adverb",
+          "status": "new",
+          "word": "sadly"
+        },
+        {
+          "category": "fixed_phrase",
+          "definition": "Ask to do something at another time instead of now.",
+          "example": "Can I take a rain check on the dinner?",
+          "ipa": "/teɪk ə ˈreɪn ˌtʃɛk/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "take a rain check"
+        },
+        {
+          "category": "fixed_phrase",
+          "definition": "Perhaps on another occasion in the future.",
+          "example": "Maybe next time we can meet for lunch.",
+          "ipa": "/ˈmeɪbiː nɛkst taɪm/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "maybe next time"
+        },
+        {
+          "category": "fixed_phrase",
+          "definition": "Meet and talk again before long, to share news.",
+          "example": "Let’s catch up soon after the party.",
+          "ipa": "/kætʃ ʌp suːn/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "catch up soon"
+        }
+      ],
+      "other": "He does not like birthday dinners",
+      "pattern": "Sorry, I can’t + base verb",
+      "pronunciationTarget": {
+        "ipa": "/ˈsædli/",
+        "word": "sadly"
+      },
+      "question": "Why can’t Fenrir come to Mia’s dinner?",
+      "reading": "Mia invites Fenrir to a birthday dinner on June 14, but Fenrir already plans to go to Sam’s retirement party that day. He does not want to be rude, so he writes a polite reply. He apologizes and says, “Sadly, I cannot come on June 14. Can I take a rain check? Maybe next time we can meet for lunch, and we can catch up soon.” Mia understands, and she thanks him for the kind reply. Fenrir is glad that he said no in a warm way and kept the door open for another meeting.",
+      "readingA": "He already plans to go to Sam’s retirement party on June 14.",
+      "readingQ": "Why does Fenrir say no to Mia’s dinner?",
+      "reviewWords": [
+        "retirement",
+        "farewell",
+        "friend",
+        "party",
+        "lunch"
+      ],
+      "sound": "Apologize has its strongest beat on POL. Sadly has its strongest beat on SAD. In take a rain check, say RAIN clearly so the listener hears the idiom.",
+      "speaking": "Tell a partner how to say no politely. Give a short reason and suggest another time.",
+      "speakingSample": "Mia invites me to dinner on June 14, but I cannot come. I apologize and say sadly that I already have a plan that day. I ask to take a rain check, and I say maybe next time we can meet for lunch and catch up soon.",
+      "task": "Sorry, I can’t ___ on June 14.",
+      "title": "Say no politely and suggest another time",
+      "unit": 26,
+      "use": "Say no politely and keep the door open for a future meeting.",
+      "wordSample": "He apologizes and says sorry.",
+      "wordTask": "What does Fenrir say first when he cannot come to Mia’s dinner?",
+      "writing": "Write 45–65 words saying no to Mia’s birthday dinner on June 14. Apologize, give a short reason, and suggest another time.",
+      "writingSample": "Thank you for the invitation to your birthday dinner on June 14. I apologize, but I cannot come that day because I already plan to go to Sam’s retirement party. Sadly, I will miss your dinner. Can I take a rain check? Maybe next time we can meet for lunch and catch up soon. I hope you have a very good evening."
+    },
+    {
+      "answer": "bring",
+      "context": [
+        "Sam’s invitation gives the date, but not the place.",
+        "What’s the address? How do I get there by bus?"
+      ],
+      "correct": "The venue and the way to get there",
+      "day": 204,
+      "dialogue": [
+        "Sam’s party is on June 14, but where is the venue? The invitation gives no address.",
+        "Let’s ask the organizer. What’s the address of the hall?",
+        "And how do I get there by bus? I do not drive on Sunday.",
+        "I will write to Sam: please send the location and the bus number.",
+        "Also ask about the RSVP. We must answer by June 10.",
+        "Good. Once we know the venue, we can plan our time and our gift."
+      ],
+      "example": "What should I bring to the party?",
+      "expression": "What’s the address?",
+      "expressionTask": "Write two questions to Sam’s organizer. Ask for the address and the way to get there by bus.",
+      "goal": "I can ask for the missing details of an event: the place, the way to get there, and the last day to reply.",
+      "grammar": "What + should + subject + base verb",
+      "listening": "Bella knows the date of Sam’s party, June 14, but not the venue. She asks the organizer for the address, the way to get there by bus, and the last day to RSVP. The organizer sends the address and a bus number.",
+      "mainWord": {
+        "category": "new_word",
+        "definition": "The place where an event happens.",
+        "example": "The venue for the party is a hall near the park.",
+        "ipa": "/ˈvɛnjuː/",
+        "pos": "noun",
+        "status": "new",
+        "word": "venue"
+      },
+      "mainWordForms": "Venue is a noun. It means the place of an event, not the event itself. Location is a more general word for a place. An address is the street and number; a location can also be a map point.",
+      "model": "The venue is a hall, and the location is near the park.",
+      "newItems": [
+        {
+          "category": "new_word",
+          "definition": "The place where an event happens.",
+          "example": "The venue for the party is a hall near the park.",
+          "ipa": "/ˈvɛnjuː/",
+          "pos": "noun",
+          "status": "new",
+          "word": "venue"
+        },
+        {
+          "category": "new_word",
+          "definition": "The exact place where something is.",
+          "example": "Please send me the location of the party.",
+          "ipa": "/loʊˈkeɪʃən/",
+          "pos": "noun",
+          "status": "new",
+          "word": "location"
+        },
+        {
+          "category": "new_word",
+          "definition": "A request to answer and say if you will come to an event.",
+          "example": "Please RSVP by June 10.",
+          "ipa": "/ˌɑr ɛs viː ˈpiː/",
+          "pos": "noun",
+          "status": "new",
+          "word": "RSVP"
+        },
+        {
+          "category": "fixed_phrase",
+          "definition": "A question about the way to reach a place.",
+          "example": "How do I get there by bus?",
+          "ipa": "/haʊ duː aɪ ɡɛt ðɛr/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "how do I get there"
+        },
+        {
+          "category": "fixed_phrase",
+          "definition": "A question that asks for the street and number of a place.",
+          "example": "What’s the address of the hall?",
+          "ipa": "/wʌts ði əˈdrɛs/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "what's the address"
+        }
+      ],
+      "other": "The date of the party",
+      "pattern": "What + should + subject + base verb",
+      "pronunciationTarget": {
+        "ipa": "/ˈvɛnjuː/",
+        "word": "venue"
+      },
+      "question": "What does Bella NOT know about Sam’s party?",
+      "reading": "Bella still needs the details of Sam’s retirement party. She knows the date, June 14, but she does not know the venue. She writes to the organizer: “What’s the address of the hall? How do I get there by bus? Please send the location, and tell me the last day to RSVP. I want to answer by June 10.” The organizer replies with the address and a bus number. Now Bella knows the place, the way to get there, and the last day to answer, so she can plan her evening with Fenrir.",
+      "readingA": "The address, the way to get there by bus, and the last day to RSVP.",
+      "readingQ": "What three details does Bella ask the organizer for?",
+      "reviewWords": [
+        "colleague",
+        "friend",
+        "date",
+        "time",
+        "place"
+      ],
+      "sound": "Venue has its strongest beat on VEN. Location has its strongest beat on CAY. In RSVP, say the four letters one by one: R S V P.",
+      "speaking": "Tell a partner what you still need to know about Sam’s party. Ask for the place and the way to get there.",
+      "speakingSample": "Sam’s party is on June 14, but I do not know the venue. I ask the organizer: what’s the address, and how do I get there by bus? I also ask for the last day to RSVP, so that I can answer in time.",
+      "task": "What should I ___ to the party?",
+      "title": "Ask for the time, place and what to bring",
+      "unit": 26,
+      "use": "Ask for the exact street and number of a place.",
+      "wordSample": "The venue.",
+      "wordTask": "What do we call the place where Sam’s party happens?",
+      "writing": "Write 45–65 words asking the organizer for the missing details of Sam’s party. Ask for the address, the way to get there, and the last day to reply.",
+      "writingSample": "Thank you for the invitation to Sam’s retirement party on June 14. Could you please tell me the venue and the location? What’s the address of the hall, and how do I get there by bus? I also need the last day to RSVP, because I want to answer by June 10. I look forward to the evening."
+    },
+    {
+      "answer": "to",
+      "context": [
+        "The picnic may move because of the rain.",
+        "Keep me posted. I want to know the new date."
+      ],
+      "correct": "Sunday, June 21",
+      "day": 205,
+      "dialogue": [
+        "The weather report says rain on Saturday. What will we do with our picnic?",
+        "We must reschedule it. Let’s push back the picnic to Sunday, June 21.",
+        "Good. We will change the date and tell our friends today.",
+        "If the rain stays on Sunday, we will call off the picnic and meet inside.",
+        "I will write to Ana: please keep me posted about the new date.",
+        "Yes. Tell everyone in time, so that nobody goes to the park on Saturday."
+      ],
+      "example": "We will move the picnic to Sunday.",
+      "expression": "Keep me posted.",
+      "expressionTask": "Write a short message about the picnic. Explain the change, give the new day, and ask for news.",
+      "goal": "I can explain a change of plan, give the new date, and ask people to wait for news.",
+      "grammar": "move + noun + to + day",
+      "listening": "Bella and Fenrir plan a picnic on Saturday, June 20, but rain is coming. They reschedule the picnic to Sunday, June 21, and tell everyone in time. If the rain stays, they will call off the picnic and meet inside.",
+      "mainWord": {
+        "category": "new_word",
+        "definition": "Move an event to a different day or time.",
+        "example": "We must reschedule the picnic because of the rain.",
+        "ipa": "/riˈskɛdʒuːl/",
+        "pos": "verb",
+        "status": "new",
+        "word": "reschedule"
+      },
+      "mainWordForms": "Reschedule is a verb. The past form is rescheduled. We reschedule an event to a new day or time. Push back means move to a later time; call off means the event will not happen at all.",
+      "model": "We will reschedule the picnic to Sunday.",
+      "newItems": [
+        {
+          "category": "new_word",
+          "definition": "Move an event to a different day or time.",
+          "example": "We must reschedule the picnic because of the rain.",
+          "ipa": "/riˈskɛdʒuːl/",
+          "pos": "verb",
+          "status": "new",
+          "word": "reschedule"
+        },
+        {
+          "category": "fixed_phrase",
+          "definition": "Move an event to a later day or time.",
+          "example": "We will push back the picnic to Sunday.",
+          "ipa": "/pʊʃ bæk/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "push back"
+        },
+        {
+          "category": "fixed_phrase",
+          "definition": "Move an event from one day to another day.",
+          "example": "We need to change the date of the picnic.",
+          "ipa": "/tʃeɪndʒ ðə deɪt/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "change the date"
+        },
+        {
+          "category": "fixed_phrase",
+          "definition": "Decide that an event will not happen.",
+          "example": "If the rain stays, we will call off the picnic.",
+          "ipa": "/kɔl ɔf/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "call off"
+        },
+        {
+          "category": "fixed_phrase",
+          "definition": "Please tell me the news when you know it.",
+          "example": "Keep me posted about the new date.",
+          "ipa": "/kiːp miː ˈpoʊstɪd/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "keep me posted"
+        }
+      ],
+      "other": "Saturday, June 20",
+      "pattern": "move + noun + to + day",
+      "pronunciationTarget": {
+        "ipa": "/riˈskɛdʒuːl/",
+        "word": "reschedule"
+      },
+      "question": "What is the new day for the picnic?",
+      "reading": "Bella and Fenrir plan a picnic in the park on Saturday, June 20, but the weather report says rain. They decide to reschedule the picnic and push back the start to Sunday, June 21. They will change the date in the group message and tell everyone in time. If the rain stays on Sunday, they will call off the picnic and meet inside for lunch instead. Bella writes to Ana: “Keep me posted about the new date.” Now everyone knows the plan may change, and nobody will go to the park on the wrong day.",
+      "readingA": "They will call off the picnic and meet inside for lunch instead.",
+      "readingQ": "What will Bella and Fenrir do if the rain stays on Sunday?",
+      "reviewWords": [
+        "party",
+        "friend",
+        "date",
+        "plan",
+        "weekend"
+      ],
+      "sound": "Reschedule has its strongest beat on SKED. In push back, say PUSH clearly. In keep me posted, say POSTED clearly so the listener hears the request for news.",
+      "speaking": "Tell a partner about the picnic change. Give the old day, the new day, and what happens if it rains again.",
+      "speakingSample": "Our picnic was on Saturday, June 20, but rain is coming, so we reschedule it to Sunday, June 21. We push back the picnic and change the date in our group message. If the rain stays, we will call off the picnic and meet inside for lunch.",
+      "task": "We will move the picnic ___ Sunday.",
+      "title": "Change a plan and tell people in time",
+      "unit": 26,
+      "use": "Ask someone to tell you the news about a change as soon as they know it.",
+      "wordSample": "They must reschedule it to Sunday.",
+      "wordTask": "What must Bella and Fenrir do with the Saturday picnic because of the rain?",
+      "writing": "Write 45–65 words telling your friends about the picnic change. Give the old day, the new day, and ask them to wait for news.",
+      "writingSample": "Hello, everyone. Our picnic in the park was on Saturday, June 20, but the weather report says rain. We must reschedule it and push back the picnic to Sunday, June 21. We will change the date in our group message. If the rain stays, we will call off the picnic and meet inside. Please keep me posted if you have a question."
+    },
+    {
+      "answer": "we",
+      "context": [
+        "The picnic is on Sunday, June 21.",
+        "Just to confirm, we meet at six."
+      ],
+      "correct": "At six in the park",
+      "day": 206,
+      "dialogue": [
+        "The picnic is now on Sunday. I will send a message to confirm the plan.",
+        "Good. Just to confirm, we meet at six in the park, right?",
+        "Yes, at six, as planned. I will double-check the time with Ana.",
+        "Please confirm the meeting place too. Is it the big table near the trees?",
+        "Yes. I will write it in the message, so everyone is all set.",
+        "Good. A short message now will stop a mistake on Sunday."
+      ],
+      "example": "Just to confirm, we meet at six.",
+      "expression": "Just to confirm, we meet at six.",
+      "expressionTask": "Write a short message to confirm the Sunday picnic. Check the time and the meeting place.",
+      "goal": "I can write a short message to confirm a plan, check the time, and say that everything is ready.",
+      "grammar": "Just to confirm, + clause",
+      "listening": "Bella sends a message to confirm the picnic on Sunday, June 21. Just to confirm, they meet at six in the park, as planned. She will double-check the time with Ana, and the meeting place is the big table near the trees.",
+      "mainWord": {
+        "category": "new_word",
+        "definition": "Say that something is true or will happen as planned.",
+        "example": "Please confirm the time of the picnic.",
+        "ipa": "/kənˈfɝm/",
+        "pos": "verb",
+        "status": "new",
+        "word": "confirm"
+      },
+      "mainWordForms": "Confirm is a verb. The past form is confirmed. We confirm a time, a place, or a plan. Just to confirm starts a short check at the end of a message.",
+      "model": "I will confirm the time and double-check the place.",
+      "newItems": [
+        {
+          "category": "new_word",
+          "definition": "Say that something is true or will happen as planned.",
+          "example": "Please confirm the time of the picnic.",
+          "ipa": "/kənˈfɝm/",
+          "pos": "verb",
+          "status": "new",
+          "word": "confirm"
+        },
+        {
+          "category": "new_word",
+          "definition": "Check something again to be sure it is right.",
+          "example": "I will double-check the time before I go.",
+          "ipa": "/ˈdʌbəl tʃɛk/",
+          "pos": "verb",
+          "status": "new",
+          "word": "double-check"
+        },
+        {
+          "category": "fixed_phrase",
+          "definition": "Used to check one detail before you finish a message.",
+          "example": "Just to confirm, we meet at six.",
+          "ipa": "/dʒʌst tuː kənˈfɝm/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "just to confirm"
+        },
+        {
+          "category": "fixed_phrase",
+          "definition": "In the way that was arranged before.",
+          "example": "The picnic will happen as planned.",
+          "ipa": "/æz plænd/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "as planned"
+        },
+        {
+          "category": "fixed_phrase",
+          "definition": "Ready; everything is arranged.",
+          "example": "We are all set for Sunday.",
+          "ipa": "/ɔl sɛt/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "all set"
+        }
+      ],
+      "other": "At noon in the park",
+      "pattern": "Just to confirm, + clause",
+      "pronunciationTarget": {
+        "ipa": "/kənˈfɝm/",
+        "word": "confirm"
+      },
+      "question": "What time do the friends meet on Sunday?",
+      "reading": "On Saturday evening, Bella sends a short message to confirm the picnic plan for Sunday, June 21. She writes: “Just to confirm, we meet at six in the park, as planned. I will double-check the time with Ana, and I will confirm the meeting place too. We meet at the big table near the trees. We are all set for Sunday.” Fenrir reads the message and answers quickly. Now everyone knows the time and the place, and nobody needs to ask again. A short message before the event can stop a mistake.",
+      "readingA": "At the big table near the trees in the park, at six.",
+      "readingQ": "Where will the friends meet on Sunday?",
+      "reviewWords": [
+        "retirement",
+        "party",
+        "friend",
+        "time",
+        "message"
+      ],
+      "sound": "Confirm has its strongest beat on FIRM. Double-check has its strongest beat on DOUB. In as planned, say PLANNED clearly so the listener hears that the plan has not changed.",
+      "speaking": "Tell a partner how to confirm a plan by message. Give the time, the place, and say that everything is ready.",
+      "speakingSample": "I send a short message to confirm our picnic on Sunday, June 21. Just to confirm, we meet at six in the park, as planned. I double-check the time with Ana, and I confirm the meeting place, the big table near the trees. We are all set.",
+      "task": "Just to confirm, ___ meet at six.",
+      "title": "Send a short message to confirm the plan",
+      "unit": 26,
+      "use": "Check one detail at the end of a message before you finish.",
+      "wordSample": "She confirms the time and the plan.",
+      "wordTask": "What does Bella do in her message about the Sunday picnic?",
+      "writing": "Write 45–65 words to confirm the Sunday picnic. Give the time and the meeting place, and say that everything is ready.",
+      "writingSample": "Hello, everyone. I write to confirm our picnic on Sunday, June 21. Just to confirm, we meet at six in the park, as planned. I will double-check the time with Ana, and I will confirm the meeting place: the big table near the trees. We are all set for Sunday. Please bring your dish and a bottle of water."
+    },
+    {
+      "answer": "to",
+      "context": [
+        "Bella plans a small potluck lunch for Ana.",
+        "Everyone is welcome. Feel free to come along."
+      ],
+      "photo": {
+        "id": "4781446",
+        "asset": "assets/a2-photos/4781446.jpg",
+        "sourceURL": "https://www.pexels.com/photo/person-holding-white-ceramic-bowl-with-yellow-liquid-4781446/",
+        "credit": "cottonbro studio · Pexels",
+        "licenseURL": "https://www.pexels.com/license/",
+        "caption": "Friends share a vegetable meal together at a bright kitchen table.",
+        "alt": "Friends enjoying a shared meal together in a bright kitchen.",
+        "fit": "cover",
+        "focalY": 0.5,
+        "dimensions": [
+          1400,
+          933
+        ]
+      },
+      "correct": "On Sunday, June 21",
+      "day": 207,
+      "dialogue": [
+        "I am planning a small potluck lunch for Ana before she moves away. Would you like to come?",
+        "Yes, I would love to. When is it?",
+        "On Sunday, June 21, after the picnic. Everyone is welcome, so bring a friend.",
+        "May I come along with my cousin? He knows Ana too.",
+        "Of course. Feel free to bring him. Each guest brings a dish to share.",
+        "Good. The potluck will happen, rain or shine, and we will say goodbye to Ana in a warm way."
+      ],
+      "example": "Would you like to come to the potluck?",
+      "expression": "Everyone is welcome.",
+      "expressionTask": "Invite Fenrir to the potluck lunch for Ana. Tell him the day, and say that everyone is welcome.",
+      "goal": "I can invite a friend to a small celebration and tell them that everyone is welcome.",
+      "grammar": "Would you like to + base verb",
+      "listening": "Bella plans a potluck lunch for Ana on Sunday, June 21. Each guest brings a dish to share. Everyone is welcome, and friends may come along. The lunch will happen, rain or shine. Fenrir will bring a salad.",
+      "mainWord": {
+        "category": "new_word",
+        "definition": "A meal where each guest brings a dish to share.",
+        "example": "We are having a potluck lunch for Ana.",
+        "ipa": "/ˈpɑtˌlʌk/",
+        "pos": "noun",
+        "status": "new",
+        "word": "potluck"
+      },
+      "mainWordForms": "Potluck is a noun. At a potluck, each guest brings a dish to share. We say a potluck lunch or a potluck dinner, with lunch or dinner after potluck.",
+      "model": "The potluck lunch is on Sunday, rain or shine.",
+      "newItems": [
+        {
+          "category": "new_word",
+          "definition": "A meal where each guest brings a dish to share.",
+          "example": "We are having a potluck lunch for Ana.",
+          "ipa": "/ˈpɑtˌlʌk/",
+          "pos": "noun",
+          "status": "new",
+          "word": "potluck"
+        },
+        {
+          "category": "fixed_phrase",
+          "definition": "You may do something; nobody will mind.",
+          "example": "Feel free to bring a friend.",
+          "ipa": "/fiːl friː tuː/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "feel free to"
+        },
+        {
+          "category": "fixed_phrase",
+          "definition": "All people may come; nobody is left out.",
+          "example": "Everyone is welcome at the potluck.",
+          "ipa": "/ˈɛvriwʌn ɪz ˈwɛlkəm/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "everyone is welcome"
+        },
+        {
+          "category": "fixed_phrase",
+          "definition": "Go with someone to a place or event.",
+          "example": "Come along to the potluck on Sunday.",
+          "ipa": "/kʌm əˈlɔŋ/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "come along"
+        },
+        {
+          "category": "fixed_phrase",
+          "definition": "Whatever the weather is; the event will happen in any case.",
+          "example": "The potluck will happen, rain or shine.",
+          "ipa": "/reɪn ɔr ʃaɪn/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "rain or shine"
+        }
+      ],
+      "other": "On Saturday, June 20",
+      "pattern": "Would you like to + base verb",
+      "pronunciationTarget": {
+        "ipa": "/ˈpɑtˌlʌk/",
+        "word": "potluck"
+      },
+      "question": "When is the potluck lunch for Ana?",
+      "reading": "Bella plans a small potluck lunch for Ana, who is moving away. At a potluck, each guest brings a dish to share, so Bella writes to Fenrir: “Would you like to come to the potluck on Sunday, June 21? Everyone is welcome. Feel free to bring a friend, and come along with your cousin too. The lunch will happen, rain or shine.” Fenrir says yes and will bring a salad. Bella is glad because the lunch is small, warm, and open to all of Ana’s friends. She hopes Ana will enjoy her last lunch.",
+      "readingA": "A dish to share.",
+      "readingQ": "What does each guest bring to the potluck?",
+      "reviewWords": [
+        "lunch",
+        "friend",
+        "party",
+        "date",
+        "food"
+      ],
+      "sound": "Potluck has its strongest beat on POT. In rain or shine, say RAIN and SHINE clearly. In everyone is welcome, say EVERYONE slowly so the listener hears that all may come.",
+      "speaking": "Tell a partner about the potluck lunch for Ana. Give the day, explain the potluck, and invite them to come along.",
+      "speakingSample": "I am planning a potluck lunch for Ana on Sunday, June 21. At a potluck, each guest brings a dish to share. Everyone is welcome, so feel free to bring a friend and come along. The lunch will happen, rain or shine.",
+      "task": "Would you like ___ come to the potluck?",
+      "title": "Invite a friend to a small celebration",
+      "unit": 26,
+      "use": "Tell people that all of them may come to an event.",
+      "wordSample": "A potluck lunch. Each guest brings a dish.",
+      "wordTask": "What kind of meal is Bella planning for Ana?",
+      "writing": "Write 45–65 words inviting a friend to the potluck lunch for Ana on Sunday, June 21. Say that everyone is welcome and that each guest brings a dish.",
+      "writingSample": "Hello! I am planning a potluck lunch for Ana on Sunday, June 21, before she moves away. Would you like to come? Everyone is welcome, so feel free to bring a friend. Each guest brings a dish to share, and I will bring a salad. The lunch will happen, rain or shine. I hope you can come along and say goodbye to Ana."
+    },
+    {
+      "answer": "letting",
+      "context": [
+        "Tom invites Leo to a small music evening on Friday.",
+        "I’ll be there. I can’t wait."
+      ],
+      "correct": "By Thursday",
+      "day": 208,
+      "dialogue": [
+        "Tom invites us to a small music evening at his home on Friday. Shall we go?",
+        "Thanks for the invite, Tom. I’ll be there at seven. I can’t wait.",
+        "I need a little time. Let me check my calendar first.",
+        "Of course. Tell Tom by Thursday, so he knows how many chairs to put out.",
+        "I will write: thanks for the invite. I’ll be there too. I can’t wait to hear the music.",
+        "Glad to hear it. Tom will be happy, and the evening will be warm and friendly."
+      ],
+      "example": "Thanks for letting me know.",
+      "expression": "I’ll be there.",
+      "expressionTask": "Reply to Tom’s invitation to the music evening. Thank him, say you will come, and ask about one missing detail.",
+      "goal": "I can use invitations and replies in a new situation: read a message, find the missing details, and answer it.",
+      "grammar": "Thanks for + -ing",
+      "listening": "Tom invites Bella and Fenrir to a music evening at his home on Friday at seven. Fenrir says thanks for the invite and that he’ll be there. Bella will check her calendar first and answer by Thursday.",
+      "mainWord": {
+        "category": "fixed_phrase",
+        "definition": "A warm way to thank someone for an invitation.",
+        "example": "Thanks for the invite to the music evening.",
+        "ipa": "/θæŋks fɔr ði ɪnˈvaɪt/",
+        "pos": "fixed phrase",
+        "status": "new",
+        "word": "thanks for the invite"
+      },
+      "mainWordForms": "Thanks for the invite is a fixed phrase. Invite is a noun here; invite as a verb means ask someone to come. We say thanks for the invite when we answer an invitation, not when we ask for one.",
+      "model": "Thanks for the invite. I’ll be there at seven.",
+      "newItems": [
+        {
+          "category": "fixed_phrase",
+          "definition": "A warm way to thank someone for an invitation.",
+          "example": "Thanks for the invite to the music evening.",
+          "ipa": "/θæŋks fɔr ði ɪnˈvaɪt/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "thanks for the invite"
+        },
+        {
+          "category": "fixed_phrase",
+          "definition": "I will come to the event.",
+          "example": "I’ll be there at seven.",
+          "ipa": "/aɪl biː ðɛr/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "I'll be there"
+        },
+        {
+          "category": "fixed_phrase",
+          "definition": "I am very happy about something that will happen.",
+          "example": "I can’t wait for the music evening.",
+          "ipa": "/aɪ kænt weɪt/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "I can't wait"
+        },
+        {
+          "category": "fixed_phrase",
+          "definition": "Give me time to look at my plans before I answer.",
+          "example": "Let me check my calendar and I will answer you.",
+          "ipa": "/lɛt miː tʃɛk maɪ ˈkæləndɚ/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "let me check my calendar"
+        },
+        {
+          "category": "fixed_phrase",
+          "definition": "I am happy to hear that news.",
+          "example": "Glad to hear it. I will see you there.",
+          "ipa": "/ɡlæd tuː hɪr ɪt/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "glad to hear it"
+        }
+      ],
+      "other": "On Friday at seven",
+      "pattern": "Thanks for + -ing verb",
+      "pronunciationTarget": {
+        "ipa": "/ɪnˈvaɪt/",
+        "word": "invite"
+      },
+      "question": "When will Bella answer Tom?",
+      "reading": "Tom invites Bella and Fenrir to a music evening at his home on Friday at seven. Fenrir answers: “Thanks for the invite. I’ll be there at seven. I can’t wait to hear the music.” Bella needs a little more time, so she writes: “Let me check my calendar first, and I will tell you by Thursday.” When she finds that Friday is free, she answers too: “Thanks for the invite. I’ll be there. I can’t wait.” Tom reads the two replies and says, “Glad to hear it. I will put out two more chairs.”",
+      "readingA": "She needs to check her calendar first to see if Friday is free.",
+      "readingQ": "Why does Bella wait before she answers Tom?",
+      "reviewWords": [
+        "friend",
+        "party",
+        "lunch",
+        "date",
+        "time"
+      ],
+      "sound": "In thanks for the invite, say THANKS clearly. In I can’t wait, say WAIT clearly. In let me check my calendar, say CALENDAR clearly so the listener hears that you need time.",
+      "speaking": "Tell a partner about Tom’s music evening. Give the day and time, and say how you will answer the invitation.",
+      "speakingSample": "Tom invites us to a small music evening at his home on Friday at seven. I say thanks for the invite, and I’ll be there. I can’t wait to hear the music. First, let me check my calendar, and then I will tell Tom by Thursday.",
+      "task": "Thanks for ___ me know.",
+      "title": "Use invitations and replies in a new situation",
+      "transferCheck": {
+        "answer": "1. Ana invites her friend Leo to a small tea party at her home. 2. On Sunday, June 28, at four in the afternoon. 3. Ana does not give the exact address of her home, so Leo still needs to ask where it is. 4. Thanks for the invite. I’ll be there at four. 5. Sample: Ana is having a small tea party at her home on Sunday, June 28, at four. She will make tea and cake, and she asks Leo to come and bring a friend. Leo answers: “Thanks for the invite. I’ll be there at four. I can’t wait.” Follow-up: What will Ana make? Tea and cake.",
+        "dictation": "Thanks for the invite. I’ll be there at four.",
+        "source": "On Saturday morning, Ana writes to her friend Leo: “I am having a small tea party at my home on Sunday, June 28, at four. Please come and bring a friend. I will make tea and cake. Please tell me today if you can come.” Leo reads the message on his phone.",
+        "tasks": [
+          [
+            "1 · Identify the people and the event",
+            "Who invites Leo, and what is the event?"
+          ],
+          [
+            "2 · Work out the day and the time",
+            "On which day and at what time is the tea party?"
+          ],
+          [
+            "3 · Notice missing information",
+            "What does Ana not say about her home?"
+          ],
+          [
+            "4 · Listen and write",
+            "Write the sentence you hear."
+          ],
+          [
+            "5 · Retell and answer",
+            "Tell the invitation in order, including who, where, the day, the time and what Ana will make. Then answer one follow-up question."
+          ]
+        ]
+      },
+      "unit": 26,
+      "use": "Say clearly that you will come to an event.",
+      "wordSample": "Thanks for the invite.",
+      "wordTask": "What does Fenrir say first when he answers Tom’s invitation?",
+      "writing": "Write 45–65 words replying to Tom’s invitation to the music evening on Friday at seven. Thank him, say you will come, and ask about one missing detail.",
+      "writingSample": "Thank you for the invitation to your music evening on Friday at seven. Thanks for the invite, and I’ll be there. I can’t wait to hear the music. Let me check my calendar first, but I think Friday is free, and I will tell you by Thursday. Could you please tell me what I should bring? I am glad our friends are coming too."
+    }
+  ]
+}

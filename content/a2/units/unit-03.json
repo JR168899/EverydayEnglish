@@ -1,0 +1,861 @@
+{
+  "number": 3,
+  "title": "Home and neighbors",
+  "lessons": [
+    {
+      "day": 17,
+      "unit": 3,
+      "title": "Describe the useful spaces in a home",
+      "goal": "I can describe where things are and explain what space I need.",
+      "newItems": [
+        {
+          "word": "cupboard",
+          "ipa": "/ˈkʌbɚd/",
+          "pos": "noun",
+          "definition": "A piece of furniture with doors and shelves for keeping things.",
+          "example": "The cups are in the kitchen cupboard.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "mirror",
+          "ipa": "/ˈmɪrɚ/",
+          "pos": "noun",
+          "definition": "A surface, usually made of glass, in which you can see your reflection.",
+          "example": "There is a mirror beside the door.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "garage",
+          "ipa": "/ɡəˈrɑʒ/",
+          "pos": "noun",
+          "definition": "A building or part of a building where a car is kept.",
+          "example": "We keep our car in the garage.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "hall",
+          "ipa": "/hɔl/",
+          "pos": "noun",
+          "definition": "The space just inside the entrance to a home, with doors to other rooms.",
+          "example": "Leave your shoes in the hall.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "space",
+          "ipa": "/speɪs/",
+          "pos": "uncountable noun",
+          "definition": "Room that is available for a person or thing.",
+          "example": "There is enough space for a small desk.",
+          "category": "new_word",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "comfortable",
+        "collect",
+        "useful",
+        "instruction",
+        "carry"
+      ],
+      "mainWord": {
+        "word": "cupboard",
+        "ipa": "/ˈkʌbɚd/",
+        "pos": "noun",
+        "definition": "A piece of furniture with doors and shelves for keeping things.",
+        "example": "The cups are in the kitchen cupboard.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Noun: cupboard; plural: cupboards. The p is not pronounced.",
+      "wordTask": "Say what you keep in a cupboard and which room the cupboard is in.",
+      "expression": "Where would you like this?",
+      "use": "Ask where someone wants you to put an object when helping them arrange a room.",
+      "context": [
+        "Where would you like this?",
+        "Please put the small cupboard beside the desk."
+      ],
+      "expressionTask": "You are helping someone carry a chair into their home. Ask where to put it and check that it leaves enough space.",
+      "grammar": "There is and there are with some and any",
+      "pattern": "Use there is with a singular or uncountable noun, and there are with plural nouns. Any is common in questions.",
+      "example": "Is there any space in the hall?",
+      "task": "Is there ___ space in the hall?",
+      "answer": "any",
+      "sound": "Cupboard has two syllables and a silent P. Start with cup’s vowel sound but join B to the unstressed ending: cupboard. Do not pronounce a separate P.",
+      "model": "The cups are in the cupboard.",
+      "dialogue": [
+        "Where would you like this cupboard?",
+        "In the kitchen, beside the window.",
+        "Is there enough space there?",
+        "Yes. The mirror can go in the hall.",
+        "What about these boxes?",
+        "Please leave them in the garage for now."
+      ],
+      "reading": "Bella is helping Fenrir arrange his new home. They put a cupboard in the kitchen and a mirror in the hall. The mirror lets Fenrir check his coat before he leaves. Some boxes go in the garage because he does not need them every day. Bella measures the corner near the window. There is enough space for a small desk, but a large desk would block the door.",
+      "readingQ": "Why does Fenrir choose a small desk rather than a large one?",
+      "readingA": "A small desk fits the available space. A large desk would block the door.",
+      "writing": "Describe one room in four sentences. Locate two objects, explain what you keep there and say what else can fit.",
+      "listening": "Hi, it is Bella. Please put the delivery boxes in the garage, not the hall. We need to keep the hall clear because visitors are coming. Leave the mirror in its wrapping until I get home.",
+      "question": "Where should the delivery boxes go?",
+      "correct": "In the garage",
+      "other": "In the hall",
+      "speaking": "Describe a room to your partner. Choose a place for a desk and explain why it fits. Your partner asks where to put one other object.",
+      "speakingSample": "The room has space for a small desk near the window. A large desk would block the door, so I would choose the small one. The cupboard can go beside it. Where would you like the chair?",
+      "photo": {
+        "id": "6908356",
+        "asset": "assets/a2-photos/6908356.jpg",
+        "sourceURL": "https://www.pexels.com/photo/modern-kitchen-with-wooden-cupboards-6908356/",
+        "credit": "Max Vakhtbovych · Pexels",
+        "licenseURL": "https://www.pexels.com/license/",
+        "caption": "Wooden kitchen cupboards beside an oven.",
+        "alt": "Wooden cupboards with doors below the kitchen counter and beside an oven.",
+        "fit": "cover",
+        "focalY": 0.65,
+        "dimensions": [
+          1600,
+          1067
+        ]
+      },
+      "wordSample": "I keep cups in the cupboard in my kitchen.",
+      "writingSample": "My study room has a desk beside the window. A cupboard stands opposite the door. I keep books and paper there. A small chair can also fit beside the desk."
+    },
+    {
+      "day": 18,
+      "unit": 3,
+      "title": "Compare two rooms before choosing",
+      "goal": "I can compare practical features of two familiar places.",
+      "newItems": [
+        {
+          "word": "noisy",
+          "ipa": "/ˈnɔɪzi/",
+          "pos": "adjective",
+          "definition": "Making or having a lot of sound, often in an unpleasant way.",
+          "example": "The front room is noisy when the buses pass.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "dark",
+          "ipa": "/dɑrk/",
+          "pos": "adjective",
+          "definition": "Having little or no light.",
+          "example": "The room is dark with the curtains closed.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "wooden",
+          "ipa": "/ˈwʊdən/",
+          "pos": "adjective",
+          "definition": "Made of wood.",
+          "example": "There is a wooden table beside the window.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "square",
+          "ipa": "/skwɛr/",
+          "pos": "adjective",
+          "definition": "Having four equal sides and four right angles.",
+          "example": "We chose a square table for the corner.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "round",
+          "ipa": "/raʊnd/",
+          "pos": "adjective",
+          "definition": "Shaped like a circle or ball.",
+          "example": "A round table has no corners.",
+          "category": "new_word",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "cupboard",
+        "mirror",
+        "hall",
+        "garage",
+        "comfortable"
+      ],
+      "mainWord": {
+        "word": "noisy",
+        "ipa": "/ˈnɔɪzi/",
+        "pos": "adjective",
+        "definition": "Making or having a lot of sound, often in an unpleasant way.",
+        "example": "The front room is noisy when the buses pass.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Adjective: noisy; comparative: noisier; superlative: noisiest. These forms are one teaching item.",
+      "wordTask": "Describe a noisy place and a quieter place near you.",
+      "expression": "Which one would work better?",
+      "use": "Ask which of two options is more suitable for a practical purpose.",
+      "context": [
+        "We can use the front room or the back room. Which one would work better?",
+        "The back room. It is quieter for studying."
+      ],
+      "expressionTask": "Two tables fit your room, but you only need one. Ask which would work better and give a practical reason for your choice.",
+      "grammar": "Comparatives: adjectives ending in y",
+      "pattern": "For many short adjectives ending in a consonant plus y, change y to i and add -er: noisy becomes noisier.",
+      "example": "The front room is noisier than the back room.",
+      "task": "The front room is ___ than the back room.",
+      "answer": "noisier",
+      "sound": "Noisy has two syllables with stress on the first. Its middle sound is voiced Z. In noisier, keep that Z and add the light comparative ending.",
+      "model": "This room is noisy. That room is noisier.",
+      "dialogue": [
+        "Which room would work better for studying?",
+        "The back room. The front room is noisier.",
+        "Is the back room dark?",
+        "A little, but we can move the lamp.",
+        "Which table should we use?",
+        "The square wooden one. The round one is too wide."
+      ],
+      "reading": "Fenrir compares two rooms. The front room has a round table and a big window, but traffic makes it noisy. The back room is quieter. It is dark in the evening, so Bella suggests a lamp. A small square table fits beside the wall. Its wooden top is easy to clean. Fenrir chooses the back room because he wants a quiet place to read after work.",
+      "readingQ": "What problem does the back room have, and how can Fenrir solve it?",
+      "readingA": "It is dark in the evening. He can use a lamp.",
+      "writing": "Compare two places you know. Give two differences and explain which one is better for a particular activity.",
+      "listening": "The square tables are for the class in Room Two. Please leave the round table in the hall; we need it for the visitors later. Do not move the wooden chairs from the kitchen.",
+      "question": "Which table should stay in the hall?",
+      "correct": "The round table",
+      "other": "The square tables",
+      "speaking": "Compare two rooms for a quiet activity. Discuss light, sound and furniture, then choose one. Explain one change that would make it more suitable.",
+      "speakingSample": "The front room is brighter but noisier because of the traffic. The back room is quieter, so I would use it for studying. We could add a lamp to make it more useful in the evening. Which room would you choose?",
+      "wordSample": "The main road is noisy because of the traffic. The small park behind my home is quieter.",
+      "writingSample": "The library room is quieter than the cafe. It also has larger tables. The cafe is better for a relaxed conversation over lunch. I would choose the library room for reading because there is less noise."
+    },
+    {
+      "day": 19,
+      "unit": 3,
+      "title": "Ask how to use household equipment",
+      "goal": "I can ask for clear instructions and check what to do first.",
+      "newItems": [
+        {
+          "word": "heavy",
+          "ipa": "/ˈhɛvi/",
+          "pos": "adjective",
+          "definition": "Weighing a lot and difficult to lift or carry.",
+          "example": "This box is too heavy for me to carry alone.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "equipment",
+          "ipa": "/ɪˈkwɪpmənt/",
+          "pos": "uncountable noun",
+          "definition": "The things needed for a particular activity.",
+          "example": "The room has equipment for recording music.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "electricity",
+          "ipa": "/ɪˌlɛkˈtrɪsəti/",
+          "pos": "uncountable noun",
+          "definition": "The energy used to make lights and many machines work.",
+          "example": "There is no electricity in the building today.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "switch on",
+          "ipa": "/swɪtʃ ɑn/",
+          "pos": "verb phrase",
+          "definition": "To make a light or machine start working using its switch.",
+          "example": "Please switch on the lamp.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "switch off",
+          "ipa": "/swɪtʃ ɔf/",
+          "pos": "verb phrase",
+          "definition": "To stop a light or machine from working using its switch.",
+          "example": "Switch off the lamp before you leave.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "wooden",
+        "noisy",
+        "dark",
+        "round",
+        "square"
+      ],
+      "mainWord": {
+        "word": "heavy",
+        "ipa": "/ˈhɛvi/",
+        "pos": "adjective",
+        "definition": "Weighing a lot and difficult to lift or carry.",
+        "example": "This box is too heavy for me to carry alone.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Adjective: heavy; comparative: heavier; superlative: heaviest. These are related forms, not three new words.",
+      "wordTask": "Name something that is too heavy for you to carry alone. Say how you could move it safely.",
+      "expression": "Could you show me the first step?",
+      "use": "Ask for a demonstration when a task or piece of equipment is new to you.",
+      "context": [
+        "This recording equipment is new to me. Could you show me the first step?",
+        "Of course. First, switch on this light so you can see the controls."
+      ],
+      "expressionTask": "You need to use an unfamiliar machine. Ask someone to show the first step, then repeat the instruction to check it.",
+      "grammar": "Polite requests with could you",
+      "pattern": "Use could you plus a base verb to ask someone to do something. Add please if it sounds natural.",
+      "example": "Could you switch on the lamp, please?",
+      "task": "Could you ___ on the lamp, please?",
+      "answer": "switch",
+      "sound": "Heavy has stress on the first syllable. The middle V is voiced: let the upper teeth lightly touch the lower lip. Do not replace V with F.",
+      "model": "This equipment is heavy. Could you help me?",
+      "dialogue": [
+        "This equipment is heavy. Could you help me move it?",
+        "Yes. Let’s ask where it needs to go first.",
+        "Could you show me the first step when we use it?",
+        "First, switch on the room light.",
+        "And when we finish?",
+        "Switch off the equipment and leave the controls as the teacher showed us."
+      ],
+      "reading": "Bella visits a small recording room. Some equipment is heavy, so she asks for help instead of lifting it alone. The teacher explains that the machines need electricity and shows the controls. Bella asks him to switch on a lamp. She can now see each button clearly. At the end, she checks the instructions and remembers to switch off the lamp before leaving the room.",
+      "readingQ": "Why does Bella ask for help before moving the equipment?",
+      "readingA": "It is heavy, so she does not try to lift it alone.",
+      "writing": "Write a short request for help with unfamiliar equipment. Explain what you need to do and ask for a demonstration.",
+      "listening": "The building has no electricity this morning, so the recording room is closed. Your class will meet in the library instead. Please bring your notes, but leave the recording equipment where it is. The teacher will explain the new plan.",
+      "question": "Where will the class meet?",
+      "correct": "In the library",
+      "other": "In the recording room",
+      "speaking": "Ask for help with a heavy object and with using unfamiliar equipment. Check the instructions by repeating the first and last steps.",
+      "speakingSample": "This equipment is too heavy for me to carry alone. Could you help me move it to the table? Before I use it, could you show me the first step? Let me check: switch on the light first, and switch everything off when we finish.",
+      "wordSample": "This large box is too heavy for me to carry alone. I can ask another person to help or use a suitable trolley.",
+      "writingSample": "Hello, I need to use this washing machine, but I do not understand the controls. Could you show me how to choose the correct program for these clothes? Please explain it before I begin."
+    },
+    {
+      "day": 20,
+      "unit": 3,
+      "title": "Agree on shared household jobs",
+      "goal": "I can divide everyday tasks and check who will do each one.",
+      "newItems": [
+        {
+          "word": "rubbish",
+          "ipa": "/ˈrʌbɪʃ/",
+          "pos": "uncountable noun",
+          "definition": "Things that people throw away; common in British English, where American English often uses trash.",
+          "example": "Put the rubbish in this bag.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "bin",
+          "ipa": "/bɪn/",
+          "pos": "noun",
+          "definition": "A container used for waste or for keeping things.",
+          "example": "There is a small bin under the desk.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "do the housework",
+          "ipa": "/du ðə ˈhaʊsˌwɝk/",
+          "pos": "verb phrase",
+          "definition": "To do jobs that keep a home clean and in order.",
+          "example": "We do the housework on Saturday morning.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "do the dishes",
+          "ipa": "/du ðə ˈdɪʃəz/",
+          "pos": "verb phrase",
+          "definition": "To wash the plates, cups and other things used for a meal.",
+          "example": "I will do the dishes after dinner.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "clear the table",
+          "ipa": "/klɪr ðə ˈteɪbəl/",
+          "pos": "verb phrase",
+          "definition": "To remove dishes and other things after a meal.",
+          "example": "Please clear the table before we play the game.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "heavy",
+        "equipment",
+        "electricity",
+        "switch on",
+        "switch off"
+      ],
+      "mainWord": {
+        "word": "rubbish",
+        "ipa": "/ˈrʌbɪʃ/",
+        "pos": "uncountable noun",
+        "definition": "Things that people throw away; common in British English, where American English often uses trash.",
+        "example": "Put the rubbish in this bag.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Usually uncountable: rubbish. Use some rubbish or a bag of rubbish, not a rubbish.",
+      "wordTask": "Name two things that belong in a rubbish bin. Give one example of something that can be recycled separately.",
+      "expression": "I can do that part.",
+      "use": "Offer to take responsibility for one part of a shared task.",
+      "context": [
+        "We need to wash the plates and clear the table.",
+        "I can do that part. I will move the plates to the kitchen."
+      ],
+      "expressionTask": "A partner has three jobs to finish after a meal. Offer to do one particular job and ask which job they prefer.",
+      "grammar": "Need to for necessary tasks",
+      "pattern": "Use need to plus a base verb to describe a task that is necessary. Need changes to needs with he or she.",
+      "example": "We need to clear the table.",
+      "task": "We need ___ clear the table.",
+      "answer": "to",
+      "sound": "Rubbish ends with SH. Keep a narrow gap just behind the ridge in your mouth and let air flow. Do not add a separate vowel after SH.",
+      "model": "Put the rubbish in the bin.",
+      "dialogue": [
+        "We need to do the housework before our guests arrive.",
+        "I can do that part in the kitchen.",
+        "Could you do the dishes?",
+        "Yes. Could you clear the table?",
+        "Of course. Where should this rubbish go?",
+        "In the bin by the back door."
+      ],
+      "reading": "On Saturday, Bella and Fenrir do the housework together. After lunch, Bella offers to clear the table. She carries the plates to the kitchen, and Fenrir starts to do the dishes. Bella puts the rubbish in a bag and checks the small bin under the desk. They keep the glass bottles separate for recycling. When the jobs are finished, they have time for a walk.",
+      "readingQ": "How do Bella and Fenrir divide the jobs after lunch?",
+      "readingA": "Bella clears the table and deals with the rubbish. Fenrir does the dishes.",
+      "writing": "Write a message dividing three household jobs between two people. Say who does each job and when the jobs need to be finished.",
+      "listening": "Please leave the clean plates on the kitchen shelf. I will clear the table after the visitors finish their tea. For now, could you empty the small bin under the desk? The rubbish bags are in the cupboard.",
+      "question": "What is the listener asked to do now?",
+      "correct": "Empty the small bin",
+      "other": "Clear the table",
+      "speaking": "Divide three household jobs with a partner. Offer to do one job, ask them to choose another, and confirm when everything needs to be ready.",
+      "speakingSample": "I can do the dishes after lunch. Could you clear the table and put the rubbish in the bin? We need to finish before our visitors arrive at three. Let’s check the kitchen together when we are done.",
+      "wordSample": "A used tissue and a dirty paper wrapper can go in a rubbish bin. A clean glass bottle can be kept separate for recycling.",
+      "writingSample": "I will clean the kitchen and take the bags outside. Could you wash the dishes? We need to finish all three jobs by seven this evening. Please tell me if you need help with the dishes."
+    },
+    {
+      "day": 21,
+      "unit": 3,
+      "title": "Help a visitor find a nearby place",
+      "goal": "I can give short directions using familiar buildings as reference points.",
+      "newItems": [
+        {
+          "word": "local",
+          "ipa": "/ˈloʊkəl/",
+          "pos": "adjective",
+          "definition": "In or connected with the area near a particular place.",
+          "example": "The local library is ten minutes from my home.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "opposite",
+          "ipa": "/ˈɑpəzɪt/",
+          "pos": "preposition",
+          "definition": "On the other side of something and facing it.",
+          "example": "The cafe is opposite the library.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "at the front of",
+          "ipa": "/æt ðə frʌnt əv/",
+          "pos": "prepositional phrase",
+          "definition": "In the part of something nearest its front side.",
+          "example": "The information desk is at the front of the building.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "round the corner",
+          "ipa": "/raʊnd ðə ˈkɔrnɚ/",
+          "pos": "fixed phrase",
+          "definition": "Very near, on the next part of a street after a bend; around the corner is also common.",
+          "example": "The local shop is just round the corner.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "a couple of",
+          "ipa": "/ə ˈkʌpəl əv/",
+          "pos": "fixed phrase",
+          "definition": "Two, or a small number of something in informal speech.",
+          "example": "The library is a couple of minutes away.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "rubbish",
+        "bin",
+        "do the housework",
+        "do the dishes",
+        "clear the table"
+      ],
+      "mainWord": {
+        "word": "local",
+        "ipa": "/ˈloʊkəl/",
+        "pos": "adjective",
+        "definition": "In or connected with the area near a particular place.",
+        "example": "The local library is ten minutes from my home.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Adjective: local. Use before a noun: a local shop, the local library.",
+      "wordTask": "Name a local place and say approximately how long it takes to reach it.",
+      "expression": "It’s closer than you think.",
+      "use": "Reassure someone that a place is nearer than they expect, then give a useful direction or time.",
+      "context": [
+        "Is the library a long walk?",
+        "It’s closer than you think. It is only a couple of minutes away."
+      ],
+      "expressionTask": "A visitor thinks a nearby shop is far away. Reassure them, estimate the walking time and give one clear direction.",
+      "grammar": "Locating places with opposite",
+      "pattern": "Use opposite plus a place without of: opposite the library. Across from is another common way to express this.",
+      "example": "The cafe is opposite the library.",
+      "task": "The cafe is ___ the library.",
+      "answer": "opposite",
+      "sound": "Local has stress on the first syllable. Let the OH vowel glide smoothly before K. Do not give the unstressed final syllable equal stress.",
+      "model": "The local shop is opposite the library.",
+      "dialogue": [
+        "Is there a local shop near here?",
+        "Yes. It’s closer than you think.",
+        "Where is it?",
+        "Go round the corner. It is opposite the library.",
+        "How long does the walk take?",
+        "A couple of minutes. The entrance is at the front of the building."
+      ],
+      "reading": "A visitor asks Bella about the local library. It is only a couple of minutes away. Bella explains that it is round the corner, opposite a small cafe. The visitor needs to collect a form. Bella says the information desk is at the front of the library, near the main entrance. She offers to show the visitor the turning so that the first direction is clear.",
+      "readingQ": "Where should the visitor go inside the library to collect the form?",
+      "readingA": "To the information desk at the front, near the main entrance.",
+      "writing": "Give directions from your home or class to a local place. Include a time estimate, one turning and a building opposite it.",
+      "listening": "The visitor entrance is opposite the cafe. Please do not use the side door near the car park; it is for staff. When you enter, the information desk is directly in front of you. Ask there for the form.",
+      "question": "Which entrance should the visitor use?",
+      "correct": "The entrance opposite the cafe",
+      "other": "The side door near the car park",
+      "speaking": "Help a visitor find a local place. Give two short directions and a time estimate. Ask them to repeat the route to check that it is clear.",
+      "speakingSample": "The local library is a couple of minutes away. Walk to the end of this street, then go round the corner. It is opposite the cafe. The information desk is at the front. Can you tell me which turning you will take?",
+      "wordSample": "My local library is about ten minutes away on foot.",
+      "writingSample": "The library is about ten minutes from our classroom. Turn left outside the building and continue along River Street. Turn right at the crossing. The library is opposite the supermarket."
+    },
+    {
+      "day": 22,
+      "unit": 3,
+      "title": "Ask about a room before making a choice",
+      "goal": "I can ask practical questions about a room and explain whether it meets my needs.",
+      "newItems": [
+        {
+          "word": "sheet",
+          "ipa": "/ʃit/",
+          "pos": "noun",
+          "definition": "A large piece of thin cloth used on a bed.",
+          "example": "There is a clean sheet on the bed.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "double",
+          "ipa": "/ˈdʌbəl/",
+          "pos": "adjective",
+          "definition": "Made for two people, especially when describing a bed or room.",
+          "example": "The room has a double bed.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "have a look around",
+          "ipa": "/hæv ə lʊk əˈraʊnd/",
+          "pos": "verb phrase",
+          "definition": "To look in different parts of a place to learn what is there.",
+          "example": "May I have a look around the room?",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "there is room for",
+          "ipa": "/ðɛr ɪz rum fɚ/",
+          "pos": "fixed phrase",
+          "definition": "There is enough available space for someone or something.",
+          "example": "There is room for a desk beside the window.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "give me a hand",
+          "ipa": "/ɡɪv mi ə hænd/",
+          "pos": "verb phrase",
+          "definition": "Help me with a task; an informal request.",
+          "example": "Could you give me a hand with this box?",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "local",
+        "opposite",
+        "at the front of",
+        "round the corner",
+        "a couple of"
+      ],
+      "mainWord": {
+        "word": "sheet",
+        "ipa": "/ʃit/",
+        "pos": "noun",
+        "definition": "A large piece of thin cloth used on a bed.",
+        "example": "There is a clean sheet on the bed.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Noun: sheet; plural: sheets. Here sheet means bed linen, not a piece of paper.",
+      "wordTask": "Say what you need to put on a bed before someone sleeps in it.",
+      "expression": "Would it be possible to see it?",
+      "use": "Ask politely to view a place or object before deciding whether it is suitable.",
+      "context": [
+        "There is a room available upstairs.",
+        "Would it be possible to see it? I need somewhere with space for a desk."
+      ],
+      "expressionTask": "You have heard about an available room. Ask to see it and explain one practical thing you need.",
+      "grammar": "Enough with nouns",
+      "pattern": "Put enough before a noun to say that the amount is sufficient: enough space, enough chairs.",
+      "example": "There is enough space for a desk.",
+      "task": "There is ___ space for a desk.",
+      "answer": "enough",
+      "sound": "Sheet has the long EE vowel heard in seat. Keep the tongue high and front. Contrast it with the shorter, more relaxed vowel in sit. Keep the final T short.",
+      "model": "A clean sheet is on the bed.",
+      "dialogue": [
+        "Would it be possible to see the room?",
+        "Of course. Have a look around.",
+        "Is that a double bed?",
+        "Yes, and there is room for a desk by the window.",
+        "Could you give me a hand moving this chair?",
+        "Certainly. Then you can see the corner more clearly."
+      ],
+      "reading": "Bella visits an available room. She asks, “May I have a look around?” There is a double bed with a clean sheet, and there is room for a desk near the window. A chair blocks the corner. Bella asks the owner, “Could you give me a hand with this chair?” Together, they move it to the wall. Bella can now check whether her small desk will fit.",
+      "readingQ": "Why do Bella and the owner move the chair?",
+      "readingA": "It blocks the corner, so moving it helps Bella check whether her desk will fit.",
+      "writing": "Write a short enquiry about an available room. Ask to see it and ask two questions about features that matter to you.",
+      "listening": "The room is available from Monday. It has a double bed, but the desk in the photograph is not included. You can bring your own small desk. Please call before you visit so someone can let you in.",
+      "question": "Which item is not included in the room?",
+      "correct": "The desk",
+      "other": "The double bed",
+      "speaking": "Ask to view a room. Check two practical features and ask for help moving one item so you can inspect the space. Say whether the room meets your needs.",
+      "speakingSample": "Would it be possible to see the room? I need space for a small desk. Is that a double bed, and is the desk included? Could you give me a hand moving this chair so I can check the corner? The space seems suitable for me.",
+      "wordSample": "I need a clean sheet, a pillow and a blanket for the bed.",
+      "writingSample": "Hello, I am interested in the available room. Could I see it on Saturday morning? Does it have a desk, and is the bathroom shared? Please let me know a suitable time to visit."
+    },
+    {
+      "day": 23,
+      "unit": 3,
+      "title": "Make a polite request about shared space",
+      "goal": "I can explain a small household problem and make a polite request.",
+      "newItems": [
+        {
+          "word": "bottom",
+          "ipa": "/ˈbɑtəm/",
+          "pos": "noun",
+          "definition": "The lowest part of something.",
+          "example": "The box is at the bottom of the stairs.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "deep",
+          "ipa": "/dip/",
+          "pos": "adjective",
+          "definition": "Having a large distance from the top to the bottom or from front to back.",
+          "example": "This cupboard is deep enough for the large pot.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "turn down",
+          "ipa": "/tɝn daʊn/",
+          "pos": "verb phrase",
+          "definition": "To reduce the sound, heat or other level of a device.",
+          "example": "Could you turn the music down?",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "turn up",
+          "ipa": "/tɝn ʌp/",
+          "pos": "verb phrase",
+          "definition": "To increase the sound, heat or other level of a device.",
+          "example": "Please turn the sound up a little.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "knock on the door",
+          "ipa": "/nɑk ɑn ðə dɔr/",
+          "pos": "verb phrase",
+          "definition": "To hit a door lightly with your hand to let someone know you are there.",
+          "example": "Please knock on the door before you enter.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "sheet",
+        "double",
+        "have a look around",
+        "there is room for",
+        "give me a hand"
+      ],
+      "mainWord": {
+        "word": "bottom",
+        "ipa": "/ˈbɑtəm/",
+        "pos": "noun",
+        "definition": "The lowest part of something.",
+        "example": "The box is at the bottom of the stairs.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Noun: bottom; plural: bottoms. At the bottom of identifies the lowest part.",
+      "wordTask": "Describe where an object is using at the bottom of.",
+      "expression": "Would you mind keeping it quieter?",
+      "use": "Ask someone politely to make less noise. Explain the practical reason without blaming them.",
+      "context": [
+        "Would you mind keeping it quieter? I am trying to study.",
+        "Sorry. I will turn the music down."
+      ],
+      "expressionTask": "You need quiet for a short phone call. Make a polite request and explain how long you need.",
+      "grammar": "Separable verb phrases with it",
+      "pattern": "With turn down or turn up, put the pronoun it between the verb and particle: turn it down, turn it up.",
+      "example": "Please turn it down.",
+      "task": "Please turn ___ down.",
+      "answer": "it",
+      "sound": "Bottom has stress on the first syllable. In American speech, the middle T can sound like a quick tap. The first vowel stays open; do not turn it into the vowel in boat.",
+      "model": "The box is at the bottom of the stairs.",
+      "dialogue": [
+        "Could you turn the music down for ten minutes?",
+        "Of course. Are you making a call?",
+        "Yes. I need to speak to my teacher.",
+        "I will use headphones. Knock on the door when you finish.",
+        "Thanks. Then you can turn it up again if you want.",
+        "Good. I will keep it quiet until then."
+      ],
+      "reading": "Fenrir hears music while he is making a call. He leaves a box at the bottom of the stairs and visits Bella. Before entering, he remembers to knock on the door. He asks her to turn down the music for ten minutes. Bella agrees and puts on headphones. She keeps them in a deep cupboard beside her desk. When Fenrir finishes his call, he tells her she can turn up the sound again.",
+      "readingQ": "What does Bella do so Fenrir can finish his call?",
+      "readingA": "She lowers the music and uses headphones until he finishes.",
+      "writing": "Write a polite message about a small noise problem. Explain the reason, ask for a specific change and say how long you need it.",
+      "listening": "Please keep the front door closed this evening. The noise from the hall is making it difficult to hear the class recording. You can leave the kitchen door open, but please close the front door after you enter.",
+      "question": "Which door should stay closed?",
+      "correct": "The front door",
+      "other": "The kitchen door",
+      "speaking": "Explain a small problem in a shared home. Ask for a particular change, give a reason and agree on how long the arrangement will last.",
+      "speakingSample": "Could you turn the music down for ten minutes? I need to speak to my teacher on the phone. Headphones would also help. I will knock on the door when I finish, so you will know when the call is over.",
+      "wordSample": "The small box is at the bottom of the stairs.",
+      "writingSample": "Hello, I have an online lesson this afternoon and am finding it hard to hear. Could you lower the music between two and three? I only need a quiet hour. Thank you for your help."
+    },
+    {
+      "day": 24,
+      "unit": 3,
+      "title": "Plan a move and confirm shared responsibilities",
+      "goal": "I can agree on a short practical plan with another person.",
+      "newItems": [
+        {
+          "word": "move out",
+          "ipa": "/muv aʊt/",
+          "pos": "verb phrase",
+          "definition": "To stop living in a place and leave it.",
+          "example": "We move out of this flat on Saturday.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "pay the rent",
+          "ipa": "/peɪ ðə rɛnt/",
+          "pos": "verb phrase",
+          "definition": "To give the regular payment for living in someone else’s property.",
+          "example": "We pay the rent at the start of each month.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "take out the trash",
+          "ipa": "/teɪk aʊt ðə træʃ/",
+          "pos": "verb phrase",
+          "definition": "To carry household waste outside to the place where it is collected; common in American English.",
+          "example": "Please take out the trash before we leave.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "run out of",
+          "ipa": "/rʌn aʊt əv/",
+          "pos": "verb phrase",
+          "definition": "To use all of something so that none is left.",
+          "example": "We have run out of rubbish bags.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "a bit of",
+          "ipa": "/ə bɪt əv/",
+          "pos": "fixed phrase",
+          "definition": "A small amount of something, used informally with an uncountable noun.",
+          "example": "We need a bit of time to finish cleaning.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "space",
+        "bottom",
+        "deep",
+        "turn down",
+        "turn up"
+      ],
+      "mainWord": {
+        "word": "space",
+        "ipa": "/speɪs/",
+        "pos": "uncountable noun",
+        "definition": "Room that is available for a person or thing.",
+        "example": "There is enough space for a small desk.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Usually uncountable in this meaning: space. Use enough space or a small amount of space.",
+      "wordTask": "Say how you could make more space in a room without buying anything.",
+      "expression": "Have we forgotten anything?",
+      "use": "Ask a group to check that all the important parts of a plan have been included.",
+      "context": [
+        "The boxes are ready, and we have checked every room. Have we forgotten anything?",
+        "We still need to take the rubbish bags outside."
+      ],
+      "expressionTask": "You and a partner have nearly finished a moving plan. Ask them to check it, then name one practical job that still needs doing.",
+      "grammar": "Must and do not have to",
+      "pattern": "Must expresses a requirement. Do not have to means something is not necessary. It does not mean that the action is forbidden.",
+      "example": "We do not have to buy new boxes.",
+      "task": "We do not ___ to buy new boxes.",
+      "answer": "have",
+      "sound": "Space begins with S immediately followed by P. Do not add a vowel before S or between S and P. Finish with a clear S sound.",
+      "model": "There is enough space for the boxes.",
+      "dialogue": [
+        "We move out on Saturday. Have we forgotten anything?",
+        "We still need to take out the trash.",
+        "We have run out of bags. Could you get some?",
+        "Yes. Have we paid the rent for this month?",
+        "Yes. We only need a bit of time to clean the kitchen.",
+        "Good. Let’s check every room before we return the keys."
+      ],
+      "reading": "Bella and Fenrir move out of their flat on Saturday. They pay the rent on Friday and check that no payment is missing. Before leaving, they need to take out the trash, but they run out of rubbish bags. Fenrir buys some while Bella cleans. They allow a bit of time to check each room. Finally, they photograph the empty rooms and return the keys to the owner.",
+      "readingQ": "What problem interrupts the plan, and how do they solve it?",
+      "readingA": "They run out of rubbish bags. Fenrir buys some while Bella continues cleaning.",
+      "writing": "Write a short moving checklist for two people. Assign the jobs, state when they must be finished and include a final check before returning the keys.",
+      "listening": "The owner will collect the keys at eleven on Saturday. You do not have to wait at the flat. Leave the keys in the sealed envelope at reception before eleven, and send me a message when you have done it. Please do not leave them in the door.",
+      "question": "Where should the keys be left?",
+      "correct": "In a sealed envelope at reception",
+      "other": "In the door",
+      "speaking": "With a partner, plan a move from a shared home. Divide the jobs, solve one missing-item problem and confirm when and where to return the keys. Summarize the agreed plan.",
+      "speakingSample": "We move out on Saturday. I will clean the kitchen, and you can take out the trash. We have run out of bags, so you will buy some first. Let’s check the rooms together at ten and leave the keys at reception before eleven.",
+      "wordSample": "I can move unused boxes to the cupboard and put the chairs against the wall. That leaves more space in the middle of the room.",
+      "writingSample": "Before six: Eva will pack the books and check the cupboards. Leon will carry the boxes and clean the empty room. Before returning the keys, we will both check that every cupboard is empty and confirm that the windows are closed."
+    }
+  ]
+}

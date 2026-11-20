@@ -1,0 +1,879 @@
+{
+  "number": 17,
+  "title": "Intentions and practical plans",
+  "lessons": [
+    {
+      "day": 129,
+      "unit": 17,
+      "title": "Plan the materials for a simple class project",
+      "goal": "I can state an intention and check which materials are already available before making a list.",
+      "newItems": [
+        {
+          "word": "glue",
+          "ipa": "/ɡluː/",
+          "pos": "noun",
+          "definition": "A sticky substance used to join things together.",
+          "example": "We need some glue for the paper flowers.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "tape",
+          "ipa": "/teɪp/",
+          "pos": "noun",
+          "definition": "A narrow strip of sticky material used to join or hold things.",
+          "example": "She found some tape beside the paper.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "string",
+          "ipa": "/strɪŋ/",
+          "pos": "noun",
+          "definition": "Thin material made of twisted threads, used for tying things.",
+          "example": "A length of string holds the paper shapes together.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "roll of tape",
+          "ipa": "/roʊl əv teɪp/",
+          "pos": "fixed phrase",
+          "definition": "Sticky tape wound into a round shape for storage and use.",
+          "example": "There is a roll of tape in the box.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "paper cup",
+          "ipa": "/ˈpeɪpɚ kʌp/",
+          "pos": "fixed phrase",
+          "definition": "A cup made mainly from paper or card.",
+          "example": "Each group is going to use a paper cup as a base.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "paper",
+        "box",
+        "group",
+        "water",
+        "class"
+      ],
+      "mainWord": {
+        "word": "glue",
+        "ipa": "/ɡluː/",
+        "pos": "noun",
+        "definition": "A sticky substance used to join things together.",
+        "example": "We need some glue for the paper flowers.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Glue, tape and string are usually uncountable materials in this lesson: some glue, some tape, some string. Count a roll of tape or a paper cup when you need a number. A material and its container are not the same thing.",
+      "wordTask": "Which material is a sticky substance used to join paper shapes?",
+      "wordSample": "Glue is a sticky substance used to join paper shapes.",
+      "expression": "What have we already got?",
+      "use": "Check existing materials before deciding what to bring or buy.",
+      "context": [
+        "What have we already got?",
+        "We have paper and one roll of tape, but no glue."
+      ],
+      "expressionTask": "Your group wants to make paper flowers. Check what is in a box and agree on one item to bring.",
+      "grammar": "Going to for an intention",
+      "pattern": "am, is or are + going to + base verb",
+      "example": "We are going to make paper flowers.",
+      "task": "We are ___ to make paper flowers.",
+      "answer": "going",
+      "sound": "Glue starts with G followed directly by L. Do not add a vowel between them. String starts with S, T and R together; begin slowly and connect the sounds.",
+      "model": "We are going to bring some glue.",
+      "dialogue": [
+        "We are going to make paper flowers at the class. What should we bring?",
+        "Let us check the box first. What have we already got?",
+        "We have paper and a roll of tape, but no glue.",
+        "I can bring glue. Do we need string too?",
+        "Yes, for hanging the flowers. Each group is also going to use a paper cup as a base.",
+        "Then I will write down glue and string, and we can ask who has the cups."
+      ],
+      "reading": "Bella’s class is going to make paper flowers. Before buying materials, the group checks a shared box. It contains paper and a roll of tape. They have no glue or string. Each group will use a paper cup as a base, so they also check the number of cups. Bella agrees to bring glue, while Fenrir asks another member about string. Their list separates what they already have from what they need. That helps them make a practical plan instead of bringing several copies of the same item.",
+      "readingQ": "Why does the group check the box before making its list?",
+      "readingA": "To separate materials already available from those they still need.",
+      "writing": "Write 45–65 words planning a simple class project. Say what the group is going to make, what it already has and who will bring two missing items.",
+      "writingSample": "We are going to make paper flowers at the class. The shared box already has paper and a roll of tape. We still need glue and string. I will bring the glue, and Fenrir will ask Nina about string. We also need to check how many paper cups are available before buying more.",
+      "listening": "There is paper in the box, and Nina has already brought the cups. We still need glue and string. Bella is bringing the glue. Fenrir is asking Nina whether she can also bring string. Nobody needs to buy more cups now.",
+      "question": "Which item has not yet been assigned to someone?",
+      "correct": "String",
+      "other": "Glue",
+      "speaking": "Plan a class project with a partner. State an intention, check two existing items and agree who will bring one missing item.",
+      "speakingSample": "We are going to make paper flowers. We already have paper and a roll of tape, so we do not need to buy those. I can bring glue. Could you check whether anyone has string? Then we can write a clear list of what is still missing."
+    },
+    {
+      "day": 130,
+      "unit": 17,
+      "title": "Pack for an activity using the actual list",
+      "goal": "I can compare a packing list with what I have and ask a precise question about an unfamiliar item.",
+      "newItems": [
+        {
+          "word": "charger",
+          "ipa": "/ˈtʃɑrdʒɚ/",
+          "pos": "noun",
+          "definition": "A device used to put electrical energy into a rechargeable battery.",
+          "example": "I am going to pack my phone charger.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "adapter",
+          "ipa": "/əˈdæptɚ/",
+          "pos": "noun",
+          "definition": "A device that lets one kind of connection fit another; its function depends on the device.",
+          "example": "She asks which adapter the class equipment needs.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "notebook",
+          "ipa": "/ˈnoʊtˌbʊk/",
+          "pos": "noun",
+          "definition": "A book with pages for writing notes.",
+          "example": "He packs a notebook for the class.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "flashlight",
+          "ipa": "/ˈflæʃˌlaɪt/",
+          "pos": "noun",
+          "definition": "A small portable electric light, called a torch in British English.",
+          "example": "The list includes a flashlight for the evening activity.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "power bank",
+          "ipa": "/ˈpaʊɚ bæŋk/",
+          "pos": "fixed phrase",
+          "definition": "A portable battery used to charge another device, such as a phone.",
+          "example": "The organizer says a power bank is optional.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "phone",
+        "battery",
+        "book",
+        "list",
+        "light"
+      ],
+      "mainWord": {
+        "word": "charger",
+        "ipa": "/ˈtʃɑrdʒɚ/",
+        "pos": "noun",
+        "definition": "A device used to put electrical energy into a rechargeable battery.",
+        "example": "I am going to pack my phone charger.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Charger, adapter, notebook and flashlight are countable nouns. Power bank is written as two words. A charger and an adapter are not necessarily the same thing: an adapter’s label and purpose need to match the question you are asking.",
+      "wordTask": "Which device is used to put energy back into a rechargeable phone battery?",
+      "wordSample": "A charger is used to recharge the phone battery.",
+      "expression": "Which item on the list do you mean?",
+      "use": "Ask a focused question when a general label could describe different things.",
+      "context": [
+        "Which item on the list do you mean?",
+        "The adapter for the class projector, not the phone charger."
+      ],
+      "expressionTask": "A packing note says adapter but does not identify the equipment. Ask the organizer which item is meant.",
+      "grammar": "Going to in a question",
+      "pattern": "Are you going to + base verb?",
+      "example": "Are you going to bring a notebook?",
+      "task": "Are you going ___ bring a notebook?",
+      "answer": "to",
+      "sound": "Charger begins with the sound in chair and ends with an unstressed r-colored syllable. Adapter has stress on DAP. Notebook has its main stress on NOTE.",
+      "model": "I am going to pack my phone charger.",
+      "dialogue": [
+        "Have you checked the list for tomorrow’s class?",
+        "Yes. I am going to bring a notebook and my phone charger.",
+        "It also says adapter. Which item on the list do you mean?",
+        "I need to ask. It may be for the projector rather than a phone.",
+        "What about the flashlight and power bank?",
+        "The flashlight is on the required list. The power bank is marked optional."
+      ],
+      "reading": "Fenrir is going to attend an afternoon class with an evening activity. He packs a notebook and a charger for his phone. The list also mentions an adapter, but it does not name the equipment, so he asks the organizer a precise question. He does not assume every device with that name does the same job. A flashlight is required for the activity, while a power bank is optional. Fenrir marks the difference on his list and asks about the unclear item before adding more things to his bag.",
+      "readingQ": "Why does Fenrir ask about the adapter?",
+      "readingA": "The list does not say which equipment it is for.",
+      "writing": "Write a 45–65-word message to an organizer. State two items you will bring and ask one precise question about a list item.",
+      "writingSample": "I am going to bring my notebook and phone charger tomorrow. Your list also mentions an adapter. Which equipment is it for? I want to check that I bring the item you mean. I have noted that the flashlight is required and the power bank is optional. Thank you for explaining the unclear item.",
+      "listening": "For tomorrow, please bring a notebook and a flashlight. The organizer will provide the projector adapter. You can bring a power bank if you want one, but it is not required. Please ask about any item you do not recognize.",
+      "question": "Which item will the organizer provide?",
+      "correct": "The projector adapter",
+      "other": "A flashlight for each learner",
+      "speaking": "Compare a list with a partner. Identify one required and one optional item, then ask a question about the purpose of an unclear item.",
+      "speakingSample": "I am going to bring a notebook and a flashlight because they are on the required list. The power bank is optional. I am unsure which adapter is needed, so I will ask what equipment it is for. That is more useful than guessing from the name alone."
+    },
+    {
+      "day": 131,
+      "unit": 17,
+      "title": "Agree on what to prepare for a practical session",
+      "goal": "I can distinguish a list of possible equipment from the items a specific task requires.",
+      "newItems": [
+        {
+          "word": "ladder",
+          "ipa": "/ˈlædɚ/",
+          "pos": "noun",
+          "definition": "Equipment with steps between two side pieces, used to reach a higher place.",
+          "example": "A ladder is listed among the equipment in the storeroom.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "hammer",
+          "ipa": "/ˈhæmɚ/",
+          "pos": "noun",
+          "definition": "A tool with a handle and a heavy head, used for hitting things such as nails.",
+          "example": "The hammer is in the toolbox.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "nail",
+          "ipa": "/neɪl/",
+          "pos": "noun",
+          "definition": "A small thin piece of metal with a point and a flat head, used to fasten things.",
+          "example": "The materials list includes small metal nails.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "cloth",
+          "ipa": "/klɔθ/",
+          "pos": "noun",
+          "definition": "A piece of material used for a purpose such as cleaning or covering something.",
+          "example": "She puts a clean cloth on the table.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "toolbox",
+          "ipa": "/ˈtuːlˌbɑks/",
+          "pos": "noun",
+          "definition": "A box used for keeping and carrying tools.",
+          "example": "They check the toolbox before the session.",
+          "category": "new_word",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "room",
+        "table",
+        "box",
+        "paint",
+        "brush"
+      ],
+      "mainWord": {
+        "word": "ladder",
+        "ipa": "/ˈlædɚ/",
+        "pos": "noun",
+        "definition": "Equipment with steps between two side pieces, used to reach a higher place.",
+        "example": "A ladder is listed among the equipment in the storeroom.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Ladder, hammer, nail and toolbox are countable nouns. A cloth is a particular piece for a job; cloth can also name material generally. Nail means a metal fastener here, not the hard part at the end of a finger.",
+      "wordTask": "Which piece of equipment has steps between two side pieces for reaching higher places?",
+      "wordSample": "A ladder has steps between two side pieces.",
+      "expression": "Do we need all of these for this task?",
+      "use": "Ask whether a general equipment list applies to the particular activity you are preparing.",
+      "context": [
+        "Do we need all of these for this task?",
+        "No. For today’s table display, please prepare the cloth and the labeled toolbox."
+      ],
+      "expressionTask": "A storeroom list names many items. Ask which ones the session leader wants prepared for today’s task.",
+      "grammar": "A with a singular countable noun",
+      "pattern": "a + singular countable noun",
+      "example": "Do we need a ladder for this display?",
+      "task": "Do we need ___ ladder for this display?",
+      "answer": "a",
+      "sound": "Ladder has stress on LAD and a lighter second syllable. The two written D letters do not mean two separate D sounds. Cloth ends with unvoiced TH.",
+      "model": "Do we need a ladder for this display?",
+      "dialogue": [
+        "The storeroom list includes a ladder, a hammer and nails. Do we need all of these for this task?",
+        "Let us check today’s plan. We are preparing a table display, not doing every job on the storeroom list.",
+        "The leader asked for a clean cloth and the labeled toolbox.",
+        "I found the cloth. Is the toolbox already on the table?",
+        "Yes. I will tell the leader what is ready and ask about the other items.",
+        "Good. Our preparation list should match the actual session."
+      ],
+      "reading": "Bella and Fenrir prepare a room for a practical session. The storeroom list names a ladder, a hammer and metal nails, but it describes everything stored there rather than one task. Today’s leader asks them to prepare a clean cloth and a labeled toolbox for a table display. They do not move every item from the store. Bella checks the room plan, and Fenrir reports what is ready. They will ask the leader if another item is needed. The difference between an inventory and a task list helps them prepare clearly.",
+      "readingQ": "Why does the group not prepare every item on the storeroom list?",
+      "readingA": "It is a list of stored equipment, not the list for this particular task.",
+      "writing": "Write a 45–65-word preparation message. Distinguish the general store list from the actual session plan and name what is ready.",
+      "writingSample": "The storeroom list includes a ladder, a hammer and nails. Today’s plan is for a table display, so we have prepared the clean cloth and labeled toolbox requested by the leader. Both are ready in the room. Please tell us if you need another item for this session.",
+      "listening": "The storeroom has several items, including a ladder and a hammer. For today’s session, the leader has asked for a clean cloth and the blue toolbox only. The toolbox is already on the table, but someone still needs to bring the cloth.",
+      "question": "Which requested item is still missing from the room?",
+      "correct": "The clean cloth",
+      "other": "The blue toolbox",
+      "speaking": "Explain what is ready for a session and ask about one unclear item. Base your explanation on the actual task list.",
+      "speakingSample": "The blue toolbox is already on the table, but the clean cloth is still in the storeroom. I will bring it next. The general list also names other equipment. Do we need any of those items for this task, or are the two requested items enough?"
+    },
+    {
+      "day": 132,
+      "unit": 17,
+      "title": "Distinguish a likely plan from a confirmed arrangement",
+      "goal": "I can identify tentative language and ask for the missing confirmation or deadline.",
+      "newItems": [
+        {
+          "word": "probably",
+          "ipa": "/ˈprɑbəbli/",
+          "pos": "adverb",
+          "definition": "Used when you think something will happen or is true, but you are not sure.",
+          "example": "The session will probably start at two.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "permission",
+          "ipa": "/pɚˈmɪʃən/",
+          "pos": "noun",
+          "definition": "Being allowed to do something by a person who can decide.",
+          "example": "We need permission to use the room.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "attention",
+          "ipa": "/əˈtɛnʃən/",
+          "pos": "noun",
+          "definition": "Careful listening, looking or thinking about something.",
+          "example": "Please give your attention to the date on the notice.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "arrangement",
+          "ipa": "/əˈreɪndʒmənt/",
+          "pos": "noun",
+          "definition": "A practical plan that people have agreed about.",
+          "example": "We are checking the room arrangement.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "at the latest",
+          "ipa": "/æt ðə ˈleɪtəst/",
+          "pos": "fixed phrase",
+          "definition": "No later than the stated time.",
+          "example": "Please reply by four at the latest.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "room",
+        "time",
+        "date",
+        "notice",
+        "reply"
+      ],
+      "mainWord": {
+        "word": "probably",
+        "ipa": "/ˈprɑbəbli/",
+        "pos": "adverb",
+        "definition": "Used when you think something will happen or is true, but you are not sure.",
+        "example": "The session will probably start at two.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Probably is an adverb; it does not turn a plan into a promise. Permission and attention are normally uncountable in these uses. Arrangement is countable; arrangements can also mean several practical plans for an event.",
+      "wordTask": "Does probably mean something is expected but not completely certain, or that it has definitely been confirmed?",
+      "wordSample": "Probably means it is expected, but not completely certain.",
+      "expression": "Has that time been confirmed?",
+      "use": "Check whether a possible time is an agreed arrangement before treating it as final.",
+      "context": [
+        "Has that time been confirmed?",
+        "Not yet. We still need permission to use the room."
+      ],
+      "expressionTask": "A message says an activity will probably start at two. Ask what is confirmed and when a final reply is needed.",
+      "grammar": "Probably after will",
+      "pattern": "will + probably + base verb",
+      "example": "The session will probably start at two.",
+      "task": "The session will ___ start at two.",
+      "answer": "probably",
+      "sound": "Probably has its main stress on PROB. Keep the ending light. Permission has stress on MIS, and attention has stress on TEN.",
+      "model": "The session will probably start at two.",
+      "dialogue": [
+        "The message says we will probably start at two. Shall I tell everyone that is the final time?",
+        "Has that time been confirmed?",
+        "Not yet. We still need permission to use the room.",
+        "Then let us check the arrangement before sending it as final.",
+        "The organizer asks for our reply by four at the latest.",
+        "I will give my attention to the new notice and look for the confirmation."
+      ],
+      "reading": "A message says the class will probably start at two. Bella notices that probably does not mean the arrangement is final. The group still needs permission to use the room. She gives her attention to the updated notice, which asks for a reply by four at the latest. Fenrir checks which part of the plan is agreed and which part is still waiting for an answer. They can tell others that two is the expected time, but they should not describe it as confirmed until they receive the final message.",
+      "readingQ": "Which part of the plan is still unconfirmed?",
+      "readingA": "Permission to use the room, so the expected start time is not final.",
+      "writing": "Write a 45–65-word update distinguishing an expected time from a confirmed arrangement. Include the reply deadline and one thing you still need to check.",
+      "writingSample": "The session will probably start at two, but that time is not confirmed yet. We still need permission to use the room. The updated notice asks for our reply by four at the latest. I am checking the room arrangement and will pass on the final message when it arrives.",
+      "listening": "The expected start time is two, but we have not received room permission yet. We need to send our reply by four. The final room message should arrive before three. Please do not confuse the expected start time with the reply deadline.",
+      "question": "By what time must the group send its reply?",
+      "correct": "Four",
+      "other": "Three",
+      "speaking": "Tell a partner what is expected, what is still waiting for confirmation and when an answer is needed. Your partner checks one time detail.",
+      "speakingSample": "We expect the session to start at two, but we still need permission to use the room. The final message should arrive before three, and we need to reply by four. I will check the arrangement before telling the group that the start time is confirmed."
+    },
+    {
+      "day": 133,
+      "unit": 17,
+      "title": "Check sizes and amounts before packing",
+      "goal": "I can read simple size and quantity information and explain why an item fits a practical plan.",
+      "newItems": [
+        {
+          "word": "weight",
+          "ipa": "/weɪt/",
+          "pos": "noun",
+          "definition": "How heavy someone or something is.",
+          "example": "Check the weight of the box before carrying it.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "width",
+          "ipa": "/wɪdθ/",
+          "pos": "noun",
+          "definition": "The distance from one side of something to the other.",
+          "example": "The width of the box is thirty centimeters.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "piece",
+          "ipa": "/piːs/",
+          "pos": "noun",
+          "definition": "An individual part or amount of something.",
+          "example": "Take one piece of paper for your name.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "tube",
+          "ipa": "/tuːb/",
+          "pos": "noun",
+          "definition": "A long narrow container from which a soft substance can be squeezed.",
+          "example": "We have one small tube of glue.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "jar",
+          "ipa": "/dʒɑr/",
+          "pos": "noun",
+          "definition": "A container with a wide opening and usually a lid.",
+          "example": "The empty jar can hold our pencils.",
+          "category": "new_word",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "box",
+        "paper",
+        "glue",
+        "table",
+        "bag"
+      ],
+      "mainWord": {
+        "word": "weight",
+        "ipa": "/weɪt/",
+        "pos": "noun",
+        "definition": "How heavy someone or something is.",
+        "example": "Check the weight of the box before carrying it.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Weight is a noun here: the weight of a box. Weigh is the related verb. Piece is countable: one piece of paper, two pieces of paper. Tube and jar name containers, not the material inside them.",
+      "wordTask": "A label says a box is two kilograms. Is this its weight or its width?",
+      "wordSample": "Two kilograms tells us its weight.",
+      "expression": "Will it fit in this bag?",
+      "use": "Check the size of an item against the space available before packing it.",
+      "context": [
+        "Will it fit in this bag?",
+        "Let us compare the width of the box with the opening first."
+      ],
+      "expressionTask": "You want to take a project box to class. Ask whether it will fit and check one measurement.",
+      "grammar": "How wide for a dimension",
+      "pattern": "How wide + is + singular noun?",
+      "example": "How wide is the box?",
+      "task": "How ___ is the box?",
+      "answer": "wide",
+      "sound": "Weight ends with T; the GH is silent. Do not pronounce weight like wet. In width, finish with the tongue close to the upper teeth for TH.",
+      "model": "Check the weight of the box.",
+      "dialogue": [
+        "Will the project box fit in this bag?",
+        "Let us check. What is the width of the box?",
+        "Thirty centimeters. The opening of the bag is only twenty-five.",
+        "Then we need a different bag. What else are we taking?",
+        "One tube of glue, an empty jar for pencils and a piece of paper for each person.",
+        "We should also check the weight before deciding who will carry it."
+      ],
+      "reading": "Bella is packing materials for a class project. The box has a width of thirty centimeters, but her bag opens to only twenty-five. It will not fit through the opening, even though the bag looks deep. Fenrir finds a wider bag. They pack a small tube of glue and an empty jar to hold pencils. Each person will also need one piece of paper for a name label. Before carrying everything, they check the weight of the packed box. Looking at both size and weight helps them choose a practical way to take it to class.",
+      "readingQ": "Why does Bella need a different bag?",
+      "readingA": "The box is wider than the opening of the first bag.",
+      "writing": "Write 45–65 words about packing materials. Give one size detail, name two items and explain one change to your plan.",
+      "writingSample": "Our box is thirty centimeters wide, but the first bag opens to only twenty-five centimeters. We need a wider bag. We are taking a tube of glue and an empty jar for pencils. I will add a piece of paper for each person, then check the weight before we leave.",
+      "listening": "The box is thirty centimeters wide. The blue bag opens to twenty-five centimeters and the green bag opens to forty. We will use the green one. We have enough paper already, so only the tube of glue needs to go on our shopping list.",
+      "question": "What does the group still need to buy?",
+      "correct": "A tube of glue",
+      "other": "Paper",
+      "speaking": "Explain a packing problem using one measurement. Suggest a change and name two items you will take.",
+      "speakingSample": "The box is thirty centimeters wide, so it will not fit through this opening. Let us use the wider bag. We are taking a tube of glue and an empty jar. We should check the weight when everything is packed."
+    },
+    {
+      "day": 134,
+      "unit": 17,
+      "title": "Separate essential needs from uncertain plans",
+      "goal": "I can distinguish a necessary action from an uncertain detail and avoid treating a guess as a promise.",
+      "newItems": [
+        {
+          "word": "necessary",
+          "ipa": "/ˈnɛsəˌsɛri/",
+          "pos": "adjective",
+          "definition": "Needed for a particular purpose.",
+          "example": "It is necessary to book the room first.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "impossible",
+          "ipa": "/ɪmˈpɑsəbəl/",
+          "pos": "adjective",
+          "definition": "Not able to happen or be done.",
+          "example": "That date is impossible because the building is closed.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "certain",
+          "ipa": "/ˈsɝtən/",
+          "pos": "adjective",
+          "definition": "Sure that something is true or will happen.",
+          "example": "I am certain that the room is booked.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "uncertain",
+          "ipa": "/ʌnˈsɝtən/",
+          "pos": "adjective",
+          "definition": "Not sure or not yet decided.",
+          "example": "The final number of guests is uncertain.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "fortnight",
+          "ipa": "/ˈfɔrtˌnaɪt/",
+          "pos": "noun",
+          "definition": "A period of two weeks; more common in British English.",
+          "example": "The group will meet again in a fortnight.",
+          "category": "new_word",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "room",
+        "date",
+        "guest",
+        "week",
+        "door"
+      ],
+      "mainWord": {
+        "word": "necessary",
+        "ipa": "/ˈnɛsəˌsɛri/",
+        "pos": "adjective",
+        "definition": "Needed for a particular purpose.",
+        "example": "It is necessary to book the room first.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Necessary and impossible are adjectives. Certain and uncertain are separate words with opposite meanings here. Fortnight means two weeks; in everyday American English, two weeks is usually more natural.",
+      "wordTask": "What does necessary mean when a room must be booked before an activity?",
+      "wordSample": "It means the booking is needed for the activity to happen.",
+      "expression": "Which parts are definite?",
+      "use": "Separate agreed details from things that still need an answer.",
+      "context": [
+        "Which parts are definite?",
+        "The room booking is definite, but the guest number is still uncertain."
+      ],
+      "expressionTask": "A class event has a booked room but no final guest list. Ask which details are definite and explain what still needs checking.",
+      "grammar": "It is necessary to do something",
+      "pattern": "It is necessary + to + base verb",
+      "example": "It is necessary to book the room.",
+      "task": "It is necessary ___ book the room.",
+      "answer": "to",
+      "sound": "Necessary has its strongest beat at the beginning: NES. Impossible has its strongest beat on POS. Keep the unstressed syllables lighter.",
+      "model": "It is necessary to book the room.",
+      "dialogue": [
+        "Can we hold the event this Saturday?",
+        "That date is impossible. The building is closed.",
+        "Then how about two weeks from now?",
+        "The room is booked for that date. I am certain about the booking.",
+        "Which parts are definite besides the room?",
+        "The time is agreed, but the guest number is uncertain. We need the replies first."
+      ],
+      "reading": "The first date for a class event is impossible because the building is closed. The group chooses a date two weeks later. A British visitor calls this a fortnight, while Bella usually says two weeks. It is necessary to book the room before inviting people, so Fenrir checks the booking message. He is certain that the room and time are agreed. The final number of guests is still uncertain because several people have not replied. The invitation can give the agreed place and time without pretending that every detail is already settled.",
+      "readingQ": "What is still uncertain after the room is booked?",
+      "readingA": "The final number of guests, because some replies have not arrived.",
+      "writing": "Write 45–65 words giving an event update. Include one definite detail, one uncertain detail and the next necessary action.",
+      "writingSample": "The event will be in two weeks. The room and time are definite because we have the booking message. The guest number is still uncertain, so we cannot decide how many chairs to set out. It is necessary to collect the remaining replies before making that part of the plan.",
+      "listening": "We cannot meet this Saturday because the building is closed. The room is booked for two weeks from now at three. The time will not change. We are still waiting for four people to reply, so the final guest number is not definite.",
+      "question": "Which detail is still uncertain?",
+      "correct": "The number of guests",
+      "other": "The starting time",
+      "speaking": "Give a short planning update. Explain one impossible option, one confirmed detail and one uncertainty.",
+      "speakingSample": "This Saturday is impossible because the building is closed. The room is booked for two weeks from now at three, so that detail is certain. The guest number is uncertain. We need the remaining replies before arranging all the chairs."
+    },
+    {
+      "day": 135,
+      "unit": 17,
+      "title": "Make space and allow enough time",
+      "goal": "I can plan space and time for an activity and record a practical change.",
+      "newItems": [
+        {
+          "word": "make room for",
+          "ipa": "/meɪk ruːm fɔr/",
+          "pos": "fixed phrase",
+          "definition": "Move things or change an arrangement so that there is space for something.",
+          "example": "We need to make room for the boxes.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "look forward to",
+          "ipa": "/lʊk ˈfɔrwɚd tuː/",
+          "pos": "fixed phrase",
+          "definition": "Feel pleased about something that will happen.",
+          "example": "I look forward to the class visit.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "allow time for",
+          "ipa": "/əˈlaʊ taɪm fɔr/",
+          "pos": "fixed phrase",
+          "definition": "Plan enough time for an activity or possible delay.",
+          "example": "Allow time for checking the materials.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "make a note of",
+          "ipa": "/meɪk ə noʊt əv/",
+          "pos": "fixed phrase",
+          "definition": "Write down a detail so that you can remember it.",
+          "example": "Make a note of the new meeting time.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "from now on",
+          "ipa": "/frəm naʊ ɑn/",
+          "pos": "fixed phrase",
+          "definition": "Starting at this time and continuing into the future.",
+          "example": "From now on, we will check the room before packing.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "space",
+        "time",
+        "box",
+        "list",
+        "visit"
+      ],
+      "mainWord": {
+        "word": "make room for",
+        "ipa": "/meɪk ruːm fɔr/",
+        "pos": "fixed phrase",
+        "definition": "Move things or change an arrangement so that there is space for something.",
+        "example": "We need to make room for the boxes.",
+        "category": "fixed_phrase",
+        "status": "new"
+      },
+      "mainIntroduction": "Learn a useful expression and use it yourself.",
+      "mainWordForms": "Make room for means create enough space for something; room is uncountable in this expression. Look forward to can be followed by a noun or an -ing form: the visit; seeing everyone. Do not use look forward to see.",
+      "wordTask": "The table is full. What does make room for the boxes ask you to do?",
+      "wordSample": "Move some things so that there is enough space for the boxes.",
+      "expression": "What should we change first?",
+      "use": "Choose a practical first action instead of trying to change every part of a plan at once.",
+      "context": [
+        "What should we change first?",
+        "Let us make room for the boxes, then check the time."
+      ],
+      "expressionTask": "Plan a classroom visit. Decide what needs space and which preparation needs extra time.",
+      "grammar": "Look forward to with an -ing form",
+      "pattern": "look forward to + noun or -ing form",
+      "example": "I look forward to seeing everyone.",
+      "task": "I look forward to ___ everyone.",
+      "answer": "seeing",
+      "sound": "In make room, keep the final K before starting R. Room has a long vowel. In note, finish with T before the following vowel in of.",
+      "model": "We need to make room for the boxes.",
+      "dialogue": [
+        "I look forward to the visit, but our preparation list is long.",
+        "What should we change first?",
+        "We need to make room for the boxes on the table.",
+        "All right. We should also allow time for checking the materials.",
+        "Can you make a note of the earlier arrival time?",
+        "Yes. From now on, let us check the room before deciding where everything will go."
+      ],
+      "reading": "Bella and Fenrir look forward to welcoming visitors to their class. Before the visit, they need to make room for two boxes on a crowded table. Moving old papers solves the space problem, but they must also allow time for checking the materials. Bella makes a note of an earlier arrival time so that nobody has to rush. From now on, the group will check both the room and the preparation list before each visit. Their change is small and practical: clear the table first, then check the materials before visitors arrive.",
+      "readingQ": "Why does Bella record an earlier arrival time?",
+      "readingA": "To allow time for checking materials before visitors arrive.",
+      "writing": "Write 45–65 words about preparing for a visit. Explain one space problem, one timing change and how you will remember it.",
+      "writingSample": "We look forward to welcoming the visitors. First, we need to make room for two boxes on the table. We will arrive earlier to allow time for checking the materials. I will make a note of the new time. From now on, we will check the room before each visit.",
+      "listening": "We used to arrive at ten, when the visitors came. Tomorrow, please arrive at nine thirty so that we can check the materials. We have already cleared the table, so you do not need to move the papers. Please write the earlier arrival time on your list.",
+      "question": "What preparation is still needed tomorrow?",
+      "correct": "Checking the materials",
+      "other": "Moving papers off the table",
+      "speaking": "Suggest a space change and a time change for a visit. Say how your partner should record one detail.",
+      "speakingSample": "Let us make room for the boxes by moving these papers today. Tomorrow, we should arrive at nine thirty to allow time for checking everything. Please make a note of that time. I look forward to seeing the visitors when we are ready."
+    },
+    {
+      "day": 136,
+      "unit": 17,
+      "title": "Agree on a small gathering",
+      "goal": "I can combine invitations, quantities and assigned jobs into a clear shared plan.",
+      "newItems": [
+        {
+          "word": "pick a time",
+          "ipa": "/pɪk ə taɪm/",
+          "pos": "fixed phrase",
+          "definition": "Choose a time for something.",
+          "example": "Let us pick a time when everyone is free.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "help out",
+          "ipa": "/hɛlp aʊt/",
+          "pos": "phrasal verb",
+          "definition": "Help with a task or problem, often for a short period.",
+          "example": "Can you help out with the chairs?",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "get together",
+          "ipa": "/ɡɛt təˈɡɛðɚ/",
+          "pos": "phrasal verb",
+          "definition": "Meet socially with other people.",
+          "example": "We want to get together after the class.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "food and drink",
+          "ipa": "/fuːd ən drɪŋk/",
+          "pos": "fixed phrase",
+          "definition": "Things to eat and things to drink, considered together.",
+          "example": "We will organize food and drink for the gathering.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "enough for everyone",
+          "ipa": "/ɪˈnʌf fɔr ˈɛvriˌwʌn/",
+          "pos": "fixed phrase",
+          "definition": "As much as is needed for all the people involved.",
+          "example": "Check that there is enough for everyone.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "friend",
+        "chair",
+        "juice",
+        "bread",
+        "number"
+      ],
+      "mainWord": {
+        "word": "pick a time",
+        "ipa": "/pɪk ə taɪm/",
+        "pos": "fixed phrase",
+        "definition": "Choose a time for something.",
+        "example": "Let us pick a time when everyone is free.",
+        "category": "fixed_phrase",
+        "status": "new"
+      },
+      "mainIntroduction": "Learn a useful expression and use it yourself.",
+      "mainWordForms": "Pick means choose in pick a time. Help out does not require an object: I can help out. Add with to name the task. Get together means meet; it does not mean collect objects in this lesson. Drink is a general category in food and drink.",
+      "wordTask": "What does pick a time mean when arranging a gathering?",
+      "wordSample": "It means choose a time for the gathering.",
+      "expression": "Who is taking care of that?",
+      "use": "Check who has agreed to do a task so that an important job is not left unassigned.",
+      "context": [
+        "Who is taking care of that?",
+        "Nina is bringing juice, and I am bringing water."
+      ],
+      "expressionTask": "Organize a gathering for six friends. Agree on a time, assign two jobs and check the amount of food.",
+      "grammar": "Enough before a noun",
+      "pattern": "enough + noun + for + people",
+      "example": "We have enough bread for six people.",
+      "task": "We have ___ bread for six people.",
+      "answer": "enough",
+      "sound": "Enough begins with a light vowel and has stress on NUFF. Its GH sounds like F. Together has stress on GETH, with a voiced TH.",
+      "model": "We have enough bread for six people.",
+      "dialogue": [
+        "Shall we get together after class this week?",
+        "Yes. Let us pick a time when all six friends are free.",
+        "Friday at five works. Who is taking care of food and drink?",
+        "I can bring bread and juice. Can you help out with the chairs?",
+        "Of course. I will check that we have enough for everyone.",
+        "Good. I will ask the others for replies before buying the bread."
+      ],
+      "reading": "Six friends want to get together after class. They pick a time by checking when everyone is free, rather than choosing first and hoping it works. Bella offers to help out with the chairs. Fenrir organizes food and drink, but waits for the final replies before buying anything. They already have water and juice, so he only needs to check the bread. The group wants enough for everyone without buying far more than they need. A short list records the time, the final number of people and the person responsible for each job.",
+      "readingQ": "Why does Fenrir wait for the final replies before buying bread?",
+      "readingA": "He needs the number of people to plan an appropriate amount.",
+      "writing": "Write 45–65 words confirming a gathering. Give the time and number of guests, assign two jobs and name one remaining check.",
+      "writingSample": "We will get together on Friday at five after class. Six friends have replied. Bella will help out with the chairs, and Fenrir will organize food and drink. We already have juice and water. Before buying bread, we will check the final number again so that there is enough for everyone.",
+      "listening": "Our gathering is on Friday at five, and six people have replied. Bella has agreed to arrange the chairs. Fenrir will buy bread after checking the guest number. We already have enough water and juice. Nobody needs to buy extra drinks.",
+      "question": "Which task belongs to Bella?",
+      "correct": "Arranging the chairs",
+      "other": "Buying the bread",
+      "speaking": "Confirm a gathering with a partner. Give a time, assign two jobs and check one quantity before shopping.",
+      "speakingSample": "Let us get together on Friday at five. Six friends are coming. I can help out with the chairs. Could you take care of the bread? We already have water and juice, but please check the final number before buying food.",
+      "transferCheck": {
+        "source": "A pottery club will welcome eight visitors on Sunday at eleven. Lena has already put eight chairs in the room. Omar will bring paper cups. There is enough water, but no juice. A helper must still be chosen to buy juice. Each visitor needs one paper cup, but Omar has only six cups. Everyone helping must arrive at ten thirty.",
+        "dictation": "Please arrive at ten thirty to check the room.",
+        "tasks": [
+          [
+            "1 · Read for responsibility",
+            "Who will bring the paper cups, and which shopping job is unassigned?"
+          ],
+          [
+            "2 · Check a practical detail",
+            "Are there enough cups for all eight visitors? How many more are needed?"
+          ],
+          [
+            "3 · Retrieve and apply",
+            "Use make a note of in a sentence about the helpers’ arrival time."
+          ],
+          [
+            "4 · Listen and write",
+            "Listen to the sentence, write it, and check the time against the notice."
+          ],
+          [
+            "5 · Write an update",
+            "Write 40–60 words confirming two assigned or completed jobs, the arrival time and the remaining job. Do not say that the juice has already been bought."
+          ]
+        ],
+        "answer": "1. Omar will bring paper cups; nobody has yet agreed to buy juice. 2. No. Eight visitors need eight cups; six are available, so two more are needed. 3. Sample: Make a note of the ten thirty arrival time. 4. Please arrive at ten thirty to check the room. 5. Sample: Eight visitors will come on Sunday at eleven. Lena has already arranged eight chairs, and Omar will bring paper cups. Helpers need to arrive at ten thirty. We have enough water but no juice, so we still need someone to agree to buy it."
+      },
+      "pronunciationTarget": {
+        "word": "enough",
+        "ipa": "/ɪˈnʌf/"
+      }
+    }
+  ]
+}

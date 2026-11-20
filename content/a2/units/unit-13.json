@@ -1,0 +1,846 @@
+{
+  "number": 13,
+  "title": "Weather and seasonal plans",
+  "lessons": [
+    {
+      "day": 97,
+      "unit": 13,
+      "title": "Read a weather description and check the temperature scale",
+      "goal": "I can identify a forecast’s temperature scale and read separate local conditions.",
+      "newItems": [
+        {
+          "word": "mist",
+          "ipa": "/mɪst/",
+          "pos": "noun",
+          "definition": "Tiny drops of water in the air near the ground that make the view less clear.",
+          "example": "There is mist over the lake this morning.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "Fahrenheit",
+          "ipa": "/ˈfɛrənˌhaɪt/",
+          "pos": "noun",
+          "definition": "A temperature scale written °F, different from the Celsius scale.",
+          "example": "The American forecast gives the temperature in Fahrenheit.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "icy",
+          "ipa": "/ˈaɪsi/",
+          "pos": "adjective",
+          "definition": "Covered with ice or containing ice.",
+          "example": "The notice describes the side path as icy.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "below zero",
+          "ipa": "/bɪˈloʊ ˈzɪroʊ/",
+          "pos": "fixed phrase",
+          "definition": "At a temperature or value lower than zero on the stated scale.",
+          "example": "The forecast says two degrees below zero Celsius.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "above zero",
+          "ipa": "/əˈbʌv ˈzɪroʊ/",
+          "pos": "fixed phrase",
+          "definition": "At a temperature or value higher than zero on the stated scale.",
+          "example": "Tomorrow’s temperature is expected to be above zero Celsius.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "weather",
+        "temperature",
+        "celsius",
+        "fog",
+        "ice"
+      ],
+      "mainWord": {
+        "word": "mist",
+        "ipa": "/mɪst/",
+        "pos": "noun",
+        "definition": "Tiny drops of water in the air near the ground that make the view less clear.",
+        "example": "There is mist over the lake this morning.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Noun: mist, usually uncountable for the weather condition. Misty is an adjective. Icy changes to icier and iciest; Fahrenheit and Celsius use capital letters.",
+      "wordTask": "Name the tiny water drops in the air that make the view over a lake less clear.",
+      "wordSample": "There is mist over the lake.",
+      "expression": "Which temperature scale is this?",
+      "use": "Check the unit before comparing numbers from different weather reports.",
+      "context": [
+        "Which temperature scale is this? The number is different from the other report.",
+        "This one uses Fahrenheit; the other uses Celsius. We need to compare the units too."
+      ],
+      "expressionTask": "Compare two temperature labels. Identify their scales before saying whether the numbers describe the same conditions.",
+      "grammar": "The stated scale after a temperature",
+      "pattern": "Name Celsius or Fahrenheit after degrees when the scale is not otherwise clear.",
+      "example": "The report uses degrees Celsius.",
+      "task": "The report uses degrees ___.",
+      "answer": "Celsius",
+      "sound": "Mist has one syllable. Keep the final S and T together without adding a vowel. Do not confuse mist with missed in spelling, even though they can sound the same.",
+      "model": "There is mist over the lake.",
+      "dialogue": [
+        "There is mist over the lake, and the path notice says icy.",
+        "What does the temperature report say?",
+        "Two degrees below zero. Which temperature scale is this?",
+        "Celsius. Another report uses Fahrenheit, so its number cannot be compared directly.",
+        "Will tomorrow be above zero?",
+        "The forecast expects that on the Celsius scale. Let us read the stated unit rather than guess."
+      ],
+      "reading": "Bella reads a morning report about mist near a lake and an icy side path. The temperature is below zero on the Celsius scale. A visitor has another report using Fahrenheit. They check the units before comparing the numbers. Tomorrow is expected to be above zero Celsius, but the path notice gives separate information about local conditions. They read both pieces of information rather than treating one number as the whole report.",
+      "readingQ": "Why do the visitors check the units before comparing the numbers?",
+      "readingA": "The reports use different temperature scales.",
+      "writing": "Write a short note comparing two temperature labels. Name their scales and explain what you need to check before comparing them.",
+      "listening": "The board at the visitor desk uses Celsius. The report on the guest’s phone uses Fahrenheit. The morning walk notice also describes mist beside the lake. Please ask the desk if any part of the local route information is unclear before choosing an activity.",
+      "question": "Which scale does the visitor desk’s board use?",
+      "correct": "Celsius",
+      "other": "Fahrenheit",
+      "speaking": "Explain a weather report to a partner. Identify the stated temperature scale, describe one weather feature and ask about any separate route information.",
+      "speakingSample": "This board uses Celsius, while your phone report uses Fahrenheit. We should not compare the numbers without checking the scales. The local notice also mentions mist and an icy path. Let us ask the visitor desk which route information applies to our planned walk.",
+      "writingSample": "This report uses Celsius, while the other one uses Fahrenheit. We need to check the scales before comparing the numbers. The local notice separately mentions mist and an icy path, so we should read the current route information too."
+    },
+    {
+      "day": 98,
+      "unit": 13,
+      "title": "Choose clothing using the forecast and item information",
+      "goal": "I can compare clothing information with a trip’s stated conditions.",
+      "newItems": [
+        {
+          "word": "waterproof",
+          "ipa": "/ˈwɔtɚˌpruf/",
+          "pos": "adjective",
+          "definition": "Designed not to let water pass through.",
+          "example": "I check whether the jacket is waterproof.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "pack a raincoat",
+          "ipa": "/pæk ə ˈreɪnˌkoʊt/",
+          "pos": "fixed phrase",
+          "definition": "To put a coat intended for wet weather into your bag for a trip.",
+          "example": "I pack a raincoat before leaving for the weekend.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "a change of clothes",
+          "ipa": "/ə tʃeɪndʒ əv kloʊðz/",
+          "pos": "fixed phrase",
+          "definition": "An extra set of clothing to put on instead of what you are wearing.",
+          "example": "I bring a change of clothes in a separate bag.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "dress warmly",
+          "ipa": "/drɛs ˈwɔrmli/",
+          "pos": "fixed phrase",
+          "definition": "To wear clothes suitable for keeping warm in the stated conditions.",
+          "example": "The outdoor event notice asks visitors to dress warmly.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "take off a jacket",
+          "ipa": "/teɪk ɔf ə ˈdʒækɪt/",
+          "pos": "fixed phrase",
+          "definition": "To remove a jacket that you are wearing.",
+          "example": "I can take off a jacket when I move into the warm room.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "jacket",
+        "coat",
+        "rain",
+        "bag",
+        "label"
+      ],
+      "mainWord": {
+        "word": "waterproof",
+        "ipa": "/ˈwɔtɚˌpruf/",
+        "pos": "adjective",
+        "definition": "Designed not to let water pass through.",
+        "example": "I check whether the jacket is waterproof.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Adjective: waterproof. Water-resistant describes resistance to some water and is not automatically the same claim. Read the item’s stated use and care information.",
+      "wordTask": "Ask whether a jacket is designed to stop water passing through it.",
+      "wordSample": "Is this jacket waterproof, and what use does the label describe?",
+      "expression": "Would this be suitable for the trip?",
+      "use": "Connect an item’s features to the particular conditions you expect.",
+      "context": [
+        "Would this be suitable for the trip? We will spend time outside.",
+        "Let us compare the forecast with the jacket’s stated use."
+      ],
+      "expressionTask": "Compare clothing options for a trip, using the forecast and each item’s information rather than appearance alone.",
+      "grammar": "Can plus a base verb for an available action",
+      "pattern": "Use can plus a base verb to describe an action that is possible in the situation.",
+      "example": "I can take off a jacket indoors.",
+      "task": "I can ___ off a jacket indoors.",
+      "answer": "take",
+      "sound": "Waterproof has its strongest stress at the start. Keep the P and R together at the start of proof; do not insert a vowel between them.",
+      "model": "I will pack a waterproof jacket.",
+      "dialogue": [
+        "Would this be suitable for the trip?",
+        "What does the event notice say?",
+        "Dress warmly and pack a raincoat. I will also bring a change of clothes.",
+        "Check whether the outer jacket is waterproof.",
+        "What if the indoor room is warm?",
+        "You can take off a jacket there. Choose clothing with the actual plan in mind."
+      ],
+      "reading": "Fenrir checks the trip information before choosing clothes. The notice says to dress warmly and pack a raincoat. He reads the jacket label to check whether it is waterproof and what use it is designed for. A change of clothes goes into a separate bag. If the indoor room is warm, he can take off a jacket. He compares the items with the plan instead of assuming every similar-looking coat has the same features.",
+      "readingQ": "Does Fenrir assume that similar-looking coats have the same features?",
+      "readingA": "No. He checks the label and intended use.",
+      "writing": "Write a short packing note for an invented trip. Name what you will bring and one item feature you need to check.",
+      "listening": "For the Saturday visit, bring your outdoor clothing in one bag and any spare clothes in another. The indoor room has a place to leave jackets. The coach has limited space, so please use small bags and check the visit information before adding extra items.",
+      "question": "Where can visitors leave their jackets indoors?",
+      "correct": "In the designated indoor room",
+      "other": "In the driver’s seat",
+      "speaking": "Explain your packing choices to a partner. Relate each choice to the planned activity and ask about one unclear clothing requirement.",
+      "speakingSample": "I will pack a raincoat and a small bag with a change of clothes. Would this jacket be suitable for the trip? I need to check its label because its appearance does not tell me whether it is waterproof. I can remove a layer in the indoor room.",
+      "writingSample": "I will pack a raincoat and a small bag with a change of clothes. The visit information asks us to dress warmly. Before choosing my outer jacket, I need to check whether it is waterproof and suitable for the stated use."
+    },
+    {
+      "day": 99,
+      "unit": 13,
+      "title": "Compare weather descriptions in two places",
+      "goal": "I can keep the locations and dates of different weather descriptions clear.",
+      "newItems": [
+        {
+          "word": "stormy",
+          "ipa": "/ˈstɔrmi/",
+          "pos": "adjective",
+          "definition": "Having or likely to have storms.",
+          "example": "The coast has stormy weather in this report.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "snowy",
+          "ipa": "/ˈsnoʊi/",
+          "pos": "adjective",
+          "definition": "Having snow falling or lying on the ground.",
+          "example": "The village looks snowy in the recent picture.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "mild",
+          "ipa": "/maɪld/",
+          "pos": "adjective",
+          "definition": "Not very cold or extreme, when describing weather.",
+          "example": "The report describes a mild afternoon.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "humid",
+          "ipa": "/ˈhjumɪd/",
+          "pos": "adjective",
+          "definition": "Having a lot of water vapor in the air.",
+          "example": "The air feels warm and humid.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "thick fog",
+          "ipa": "/θɪk fɑɡ/",
+          "pos": "fixed phrase",
+          "definition": "Fog that makes it especially difficult to see far.",
+          "example": "The notice mentions thick fog near the valley.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "forecast",
+        "temperature",
+        "village",
+        "warm",
+        "cold"
+      ],
+      "mainWord": {
+        "word": "stormy",
+        "ipa": "/ˈstɔrmi/",
+        "pos": "adjective",
+        "definition": "Having or likely to have storms.",
+        "example": "The coast has stormy weather in this report.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Adjective: stormy; comparative: stormier; superlative: stormiest. Storm names the weather event; stormy describes conditions. The word does not name a fixed amount of wind or rain.",
+      "wordTask": "The report says several storms are expected near the coast. Describe the weather with one adjective.",
+      "wordSample": "Stormy weather is expected near the coast.",
+      "expression": "Is that the forecast for our destination?",
+      "use": "Check that a description applies to the place you are actually planning to visit.",
+      "context": [
+        "Is that the forecast for our destination?",
+        "No. That report is for the coast. Our village report is on the next page."
+      ],
+      "expressionTask": "Compare descriptions for two locations. Identify which information applies to the destination and ask about the date of the report.",
+      "grammar": "That and our for different references",
+      "pattern": "Make the place or report clear when comparing information from more than one source.",
+      "example": "That report is for the coast.",
+      "task": "That report is ___ the coast.",
+      "answer": "for",
+      "sound": "Stormy has two syllables with the first stressed. Keep the American R sound in storm before moving to the final short vowel.",
+      "model": "The coast has stormy weather.",
+      "dialogue": [
+        "Is that the forecast for our destination?",
+        "No. It describes stormy weather on the coast.",
+        "What about the village?",
+        "The village report mentions snowy ground and thick fog in the morning.",
+        "The afternoon was described as mild. Does that mean humid?",
+        "No. Mild describes less extreme temperature here; humid describes moisture in the air."
+      ],
+      "reading": "Bella compares two weather reports. The coast is described as stormy. The village report mentions snowy ground and thick fog in the morning, followed by a mild afternoon. Another note describes humid air in a different place. She learns that these words describe different features. She checks the location and date instead of combining every description into one picture of the weather at her destination.",
+      "readingQ": "Why does Bella check the place and date of each report?",
+      "readingA": "The descriptions apply to different locations or times.",
+      "writing": "Write a short comparison of two invented weather reports. Keep the places and times clear.",
+      "listening": "The coastal report was updated this morning. The village picture beside it was taken last week. Please read the date under each item. A photograph can show earlier conditions and may not describe the weather expected for your visit today.",
+      "question": "When was the village picture taken?",
+      "correct": "Last week",
+      "other": "This morning",
+      "speaking": "Help a partner interpret two reports and a photograph. Identify the location, date and feature described without mixing them together.",
+      "speakingSample": "This stormy report is for the coast today, but the snowy village picture is from last week. Is there a current forecast for our destination? We should check that report rather than use an older picture as evidence of today’s conditions.",
+      "writingSample": "The coastal report is for today and describes stormy weather. The village photograph is from last week and shows snowy ground. I need a current report for the village before explaining the weather expected there today."
+    },
+    {
+      "day": 100,
+      "unit": 13,
+      "title": "Understand why an organizer changes an outdoor plan",
+      "goal": "I can use an organizer’s latest message to confirm a changed meeting.",
+      "newItems": [
+        {
+          "word": "lightning",
+          "ipa": "/ˈlaɪtnɪŋ/",
+          "pos": "noun",
+          "definition": "A flash of natural electricity in the sky, often during a storm.",
+          "example": "The report mentions lightning near the area.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "thunderstorm",
+          "ipa": "/ˈθʌndɚˌstɔrm/",
+          "pos": "noun",
+          "definition": "A storm with thunder and lightning.",
+          "example": "The outdoor event notice mentions a thunderstorm.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "heavy rain",
+          "ipa": "/ˈhɛvi reɪn/",
+          "pos": "fixed phrase",
+          "definition": "Rain falling in large amounts or with strong intensity.",
+          "example": "Heavy rain has affected the outdoor event.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "weather warning",
+          "ipa": "/ˈwɛðɚ ˈwɔrnɪŋ/",
+          "pos": "fixed phrase",
+          "definition": "An official or stated notice about weather that may cause problems or danger.",
+          "example": "The organizer checks the official weather warning.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "road conditions",
+          "ipa": "/roʊd kənˈdɪʃənz/",
+          "pos": "fixed phrase",
+          "definition": "The current state of roads, such as whether they are clear, wet, icy or blocked.",
+          "example": "The driver checks the route’s road conditions.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "thunder",
+        "storm",
+        "rain",
+        "road",
+        "notice"
+      ],
+      "mainWord": {
+        "word": "lightning",
+        "ipa": "/ˈlaɪtnɪŋ/",
+        "pos": "noun",
+        "definition": "A flash of natural electricity in the sky, often during a storm.",
+        "example": "The report mentions lightning near the area.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Noun: lightning, uncountable for the weather phenomenon. A flash of lightning is countable. Lightning is what you see; thunder is the sound.",
+      "wordTask": "Name the flash you see during a storm, distinguishing it from the sound.",
+      "wordSample": "The flash is lightning; the sound is thunder.",
+      "expression": "Has the meeting place changed?",
+      "use": "Check the organizer’s current arrangement after receiving a change notice.",
+      "context": [
+        "Has the meeting place changed?",
+        "Yes. Please use the indoor reception point named in the latest event message."
+      ],
+      "expressionTask": "Read a change notice and ask for the current meeting place, start time and source of further updates.",
+      "grammar": "Has ... changed for a change relevant now",
+      "pattern": "Use has changed to ask whether the present arrangement is different from before.",
+      "example": "The meeting place has changed.",
+      "task": "The meeting place ___ changed.",
+      "answer": "has",
+      "sound": "Lightning has two syllables. Keep the T before N without adding a full extra syllable. Lightening, meaning becoming lighter, is a different spelling and word.",
+      "model": "The report mentions lightning.",
+      "dialogue": [
+        "Has the meeting place changed?",
+        "Yes. The organizer sent a new message after the weather warning.",
+        "Does it mention the thunderstorm and heavy rain?",
+        "Yes, and it says the driver will check the road conditions.",
+        "Where should we get the current arrangement?",
+        "From the organizer’s latest message, rather than the old outdoor notice."
+      ],
+      "reading": "A thunderstorm report mentions lightning and heavy rain. After an official weather warning, the event organizer changes the meeting place. The driver also checks road conditions for the planned route. Fenrir reads the latest event message rather than relying on the original outdoor notice. He confirms the new place and asks where further updates will appear. The class practises understanding the message, not predicting conditions from a single photograph.",
+      "readingQ": "Which message does Fenrir use for the current meeting place?",
+      "readingA": "He uses the organizer’s latest event message.",
+      "writing": "Write a short update explaining that an organizer has changed the meeting place. Tell readers where to confirm the latest details.",
+      "listening": "Today’s meeting has moved from the garden to the main reception room. The start time remains two. Please check the organizer’s message page before travelling for any further updates. The old printed garden notice no longer gives the current meeting place.",
+      "question": "What stays the same in this update?",
+      "correct": "The two o’clock start time",
+      "other": "The garden meeting place",
+      "speaking": "Explain an event change to a partner. Separate the old and new details, state what remains the same and ask where to check further updates.",
+      "speakingSample": "The old notice says to meet in the garden, but the latest message moves the meeting to the main reception room. The start time is still two. Has anything else changed? We should use the organizer’s message page for the current information.",
+      "writingSample": "The organizer has moved today’s meeting from the garden to the main reception room. The start time remains two. Please check the organizer’s latest message page before travelling for any further updates."
+    },
+    {
+      "day": 101,
+      "unit": 13,
+      "title": "Read the main meaning of a short forecast",
+      "goal": "I can summarize a forecast in time order without turning possibility into certainty.",
+      "newItems": [
+        {
+          "word": "a chance of rain",
+          "ipa": "/ə tʃæns əv reɪn/",
+          "pos": "fixed phrase",
+          "definition": "A statement that rain is possible in the stated place and period.",
+          "example": "The forecast gives a chance of rain this afternoon.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "sunny spells",
+          "ipa": "/ˈsʌni spɛlz/",
+          "pos": "fixed phrase",
+          "definition": "Periods of sunshine during a day with changing conditions.",
+          "example": "The morning forecast mentions sunny spells.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "scattered showers",
+          "ipa": "/ˈskætɚd ˈʃaʊɚz/",
+          "pos": "fixed phrase",
+          "definition": "Short periods of rain occurring in some places rather than continuously everywhere.",
+          "example": "The area report mentions scattered showers.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "light rain",
+          "ipa": "/laɪt reɪn/",
+          "pos": "fixed phrase",
+          "definition": "Rain falling in small amounts or with low intensity.",
+          "example": "Light rain is expected after lunch.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "clear sky",
+          "ipa": "/klɪr skaɪ/",
+          "pos": "fixed phrase",
+          "definition": "A sky with little or no cloud in the stated description.",
+          "example": "The evening report describes a clear sky.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "forecast",
+        "afternoon",
+        "cloud",
+        "sunshine",
+        "weather"
+      ],
+      "mainWord": {
+        "word": "a chance of rain",
+        "ipa": "/ə tʃæns əv reɪn/",
+        "pos": "fixed phrase",
+        "definition": "A statement that rain is possible in the stated place and period.",
+        "example": "The forecast gives a chance of rain this afternoon.",
+        "category": "fixed_phrase",
+        "status": "new"
+      },
+      "mainWordForms": "Phrase: a chance of rain. Chance describes possibility, not certainty. A statement of possibility alone does not say that it will rain for a stated proportion of the day.",
+      "wordTask": "The report says rain is possible this afternoon. State that possibility without saying rain is certain.",
+      "wordSample": "There is a chance of rain this afternoon.",
+      "expression": "Which part of the day does that describe?",
+      "use": "Check the time period that a forecast phrase refers to.",
+      "context": [
+        "Which part of the day does that describe?",
+        "The light rain is expected in the afternoon; the morning has sunny spells."
+      ],
+      "expressionTask": "Explain a short forecast in time order and ask about the time period of an unclear phrase.",
+      "grammar": "Expected plus a time reference",
+      "pattern": "Use the time phrase to identify when the stated conditions are anticipated.",
+      "example": "Light rain is expected after lunch.",
+      "task": "Light rain is expected ___ lunch.",
+      "answer": "after",
+      "sound": "Chance ends with the N and S sounds. Do not add a vowel after S. In rain, keep the AY glide inside one syllable.",
+      "model": "There is a chance of rain.",
+      "dialogue": [
+        "The report mentions sunny spells and scattered showers.",
+        "Which part of the day does that describe?",
+        "The morning. There is a chance of rain after lunch too.",
+        "Does that mean the whole afternoon will have heavy rain?",
+        "No. The afternoon description says light rain is possible.",
+        "And the evening? The later part of the report describes a clear sky."
+      ],
+      "reading": "Bella reads the forecast in time order. Sunny spells and scattered showers are mentioned for the morning. There is a chance of rain after lunch, with light rain possible in the afternoon. The evening description mentions a clear sky. She does not turn a statement of possibility into a promise about every place or minute. She checks which part of the day each phrase describes before explaining the report to her friend.",
+      "readingQ": "Does a chance of rain mean that rain is certain for every minute of the period?",
+      "readingA": "No. It states that rain is possible in the stated place and period.",
+      "writing": "Write a three-part forecast summary for an invented day. Use morning, afternoon and evening, keeping possibility distinct from certainty.",
+      "listening": "This update changes the afternoon part of the report only. Rain is now possible after lunch rather than before lunch. The morning and evening descriptions have not changed. Please check the time period next to each heading before making your summary.",
+      "question": "Which part of the report has changed?",
+      "correct": "The afternoon part",
+      "other": "The evening part",
+      "speaking": "Explain a forecast to a partner. Keep each time period clear, state possibility accurately and answer one clarification question.",
+      "speakingSample": "The morning has sunny spells and scattered showers. There is a chance of light rain after lunch, so I am describing rain as possible rather than certain. The evening report mentions a clear sky. Which period would you like me to explain again?",
+      "writingSample": "Morning: sunny spells and scattered showers. Afternoon: a chance of light rain after lunch. Evening: a clear sky is mentioned in the report. Rain is described as possible in the afternoon, not certain for every minute."
+    },
+    {
+      "day": 102,
+      "unit": 13,
+      "title": "Compare a seasonal plan with the available daylight",
+      "goal": "I can check the current seasonal schedule and the destination’s daylight information.",
+      "newItems": [
+        {
+          "word": "frost",
+          "ipa": "/frɔst/",
+          "pos": "noun",
+          "definition": "A thin layer of ice that forms on a cold surface.",
+          "example": "There is frost on the grass in the morning.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "at this time of year",
+          "ipa": "/æt ðɪs taɪm əv jɪr/",
+          "pos": "fixed phrase",
+          "definition": "During the current or stated part of the annual cycle.",
+          "example": "The park has different opening times at this time of year.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "change of season",
+          "ipa": "/tʃeɪndʒ əv ˈsizən/",
+          "pos": "fixed phrase",
+          "definition": "The transition from one season to the next.",
+          "example": "The notice describes new hours for the change of season.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "shorter days",
+          "ipa": "/ˈʃɔrtɚ deɪz/",
+          "pos": "fixed phrase",
+          "definition": "Days with fewer hours of daylight in the comparison being made.",
+          "example": "The notice gives earlier closing times during the shorter days.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "daylight hours",
+          "ipa": "/ˈdeɪˌlaɪt aʊɚz/",
+          "pos": "fixed phrase",
+          "definition": "The part of a day when natural light from the sun is available.",
+          "example": "We check the destination’s daylight hours before planning the visit.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "season",
+        "winter",
+        "summer",
+        "sunset",
+        "morning"
+      ],
+      "mainWord": {
+        "word": "frost",
+        "ipa": "/frɔst/",
+        "pos": "noun",
+        "definition": "A thin layer of ice that forms on a cold surface.",
+        "example": "There is frost on the grass in the morning.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Noun: frost, usually uncountable for the thin ice layer. A frosty morning is an adjective phrase. Shorter days here means less daylight, not fewer hours in the calendar day.",
+      "wordTask": "Name the thin ice layer you can see on cold grass in the morning.",
+      "wordSample": "There is frost on the grass.",
+      "expression": "Are these hours still current?",
+      "use": "Check whether an old schedule still applies after a seasonal change.",
+      "context": [
+        "Are these hours still current?",
+        "No. The park has updated them for the change of season."
+      ],
+      "expressionTask": "Compare an old and new schedule. Ask which applies now and how the daylight period affects the plan.",
+      "grammar": "Still in a question about current information",
+      "pattern": "Use still to ask whether an earlier situation continues now.",
+      "example": "Are these hours still current?",
+      "task": "Are these hours ___ current?",
+      "answer": "still",
+      "sound": "Frost has one syllable and ends with S followed by T. Start with F and R together, without adding a vowel between them.",
+      "model": "There is frost on the grass.",
+      "dialogue": [
+        "Are these hours still current?",
+        "The park has a new schedule for the change of season.",
+        "Does it mention the shorter days?",
+        "Yes. At this time of year, it closes earlier in this location.",
+        "Should we use our home town’s daylight hours?",
+        "No. Check the destination and date. The notice also mentions morning frost on the grass."
+      ],
+      "reading": "Fenrir checks a park notice during a change of season. It gives earlier closing times for the shorter days at this location. At this time of year, the grass may also have morning frost. He checks the destination’s daylight hours and the date of the schedule. He does not assume that every place has the same season or light at the same time. The updated notice helps him plan an earlier return.",
+      "readingQ": "Which daylight information does Fenrir check?",
+      "readingA": "He checks the daylight hours for the destination and date.",
+      "writing": "Write a short seasonal visit plan. Identify the current schedule and explain one timing detail you need to check.",
+      "listening": "The current park schedule begins on Monday. Closing time changes from six to four thirty. The entrance still opens at nine. The previous summer notice remains on an old leaflet, so please use the dated schedule at the desk for your visit.",
+      "question": "What is the new closing time?",
+      "correct": "Four thirty",
+      "other": "Six",
+      "speaking": "Help a partner compare seasonal schedules. Identify the current one, check the destination and date, and confirm a suitable return time.",
+      "speakingSample": "Are these hours still current? The dated notice gives a four-thirty closing time from Monday, while the older leaflet says six. We should use the updated schedule and check the destination’s daylight hours. Let us agree on an earlier return rather than rely on the old leaflet.",
+      "writingSample": "The updated park schedule begins on Monday and gives a four-thirty closing time. We should use that notice rather than the older summer leaflet. I will also check the destination’s daylight hours before agreeing on the return time."
+    },
+    {
+      "day": 103,
+      "unit": 13,
+      "title": "Check seasonal dates and the services that are open",
+      "goal": "I can ask which services are open on specific dates.",
+      "newItems": [
+        {
+          "word": "opening date",
+          "ipa": "/ˈoʊpənɪŋ deɪt/",
+          "pos": "fixed phrase",
+          "definition": "The date when a place or service begins operating for a stated period or for the first time.",
+          "example": "The notice gives the campsite’s opening date.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "closing date",
+          "ipa": "/ˈkloʊzɪŋ deɪt/",
+          "pos": "fixed phrase",
+          "definition": "The date when a stated period of operation or availability ends.",
+          "example": "I check the closing date before booking.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "seasonal hours",
+          "ipa": "/ˈsizənəl aʊɚz/",
+          "pos": "fixed phrase",
+          "definition": "Opening times that apply during a particular part of the year.",
+          "example": "The visitor center has different seasonal hours.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "winter clothes",
+          "ipa": "/ˈwɪntɚ kloʊðz/",
+          "pos": "fixed phrase",
+          "definition": "Clothing selected for the conditions normally expected during winter in the stated place.",
+          "example": "I check the destination’s conditions before packing winter clothes.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "summer clothes",
+          "ipa": "/ˈsʌmɚ kloʊðz/",
+          "pos": "fixed phrase",
+          "definition": "Clothing selected for the conditions normally expected during summer in the stated place.",
+          "example": "Summer clothes for one destination may not suit every place.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "date",
+        "open",
+        "notice",
+        "clothes",
+        "campsite"
+      ],
+      "mainWord": {
+        "word": "opening date",
+        "ipa": "/ˈoʊpənɪŋ deɪt/",
+        "pos": "fixed phrase",
+        "definition": "The date when a place or service begins operating for a stated period or for the first time.",
+        "example": "The notice gives the campsite’s opening date.",
+        "category": "fixed_phrase",
+        "status": "new"
+      },
+      "mainWordForms": "Phrase: opening date; plural: opening dates. A date says which day something begins; opening hours say the times it operates within a day. Check which meaning a notice needs.",
+      "wordTask": "You want to know the first day a campsite operates this season. Ask for that date.",
+      "wordSample": "What is the campsite’s opening date this season?",
+      "expression": "Which services are open then?",
+      "use": "Check the actual services available on the dates of a planned visit.",
+      "context": [
+        "Which services are open then?",
+        "The visitor center is open, but the campsite does not open until the following week."
+      ],
+      "expressionTask": "Ask about availability on specific dates and distinguish the place’s schedule from the services inside it.",
+      "grammar": "Not ... until for a later start",
+      "pattern": "Use not until to say that something does not happen before a particular time.",
+      "example": "The campsite does not open until Monday.",
+      "task": "The campsite does not open ___ Monday.",
+      "answer": "until",
+      "sound": "Opening has three syllables with the first stressed. In date, keep the AY glide inside one syllable and finish with T.",
+      "model": "Please check the opening date.",
+      "dialogue": [
+        "What is the opening date for the campsite?",
+        "Monday. Its closing date is at the end of the season.",
+        "Which services are open then?",
+        "The visitor center has separate seasonal hours, so check its notice too.",
+        "Should I bring winter clothes or summer clothes?",
+        "Use the destination’s current conditions and trip information, not the season name alone."
+      ],
+      "reading": "Bella reads the campsite’s opening date and closing date before booking. The visitor center uses separate seasonal hours. She asks which services are open during her stay instead of assuming every facility follows one schedule. She also compares the destination’s conditions before choosing winter clothes or summer clothes. A season name alone does not tell her every temperature or service she will find when she arrives.",
+      "readingQ": "Does the visitor center necessarily follow the campsite’s schedule?",
+      "readingA": "No. It has separate seasonal hours.",
+      "writing": "Write an enquiry about a visit on specific dates. Ask which facilities will be open and which schedule applies.",
+      "listening": "The campsite opens on Monday the tenth. The visitor center opens on Friday the seventh and follows its own daily hours. Your Friday arrival can include the visitor center, but overnight camping is not available there until Monday. Please check the dates for each service.",
+      "question": "Which service is available on Friday the seventh?",
+      "correct": "The visitor center",
+      "other": "Overnight camping",
+      "speaking": "Role-play planning a visit across a seasonal change. Check the dates and individual services, then explain what is and is not available for the chosen day.",
+      "speakingSample": "We plan to arrive on Friday the seventh. Which services are open then? I understand that the visitor center opens that Friday, but overnight camping starts on Monday the tenth. Please confirm the visitor center’s seasonal hours so we can plan the Friday visit accurately.",
+      "writingSample": "Hello, we plan to visit on Friday the seventh. Which facilities will be open then? I understand that the visitor center opens that Friday, while overnight camping starts on Monday the tenth. Please confirm the visitor center’s daily hours."
+    },
+    {
+      "day": 104,
+      "unit": 13,
+      "title": "Agree on an alternative when the weather changes",
+      "goal": "I can distinguish a confirmed alternative from a proposed later activity.",
+      "newItems": [
+        {
+          "word": "postpone",
+          "ipa": "/poʊstˈpoʊn/",
+          "pos": "verb",
+          "definition": "To arrange for a planned event or activity to happen later.",
+          "example": "The group postpones the walk until Saturday.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "cancel a trip",
+          "ipa": "/ˈkænsəl ə trɪp/",
+          "pos": "fixed phrase",
+          "definition": "To decide that a planned journey will not take place as arranged.",
+          "example": "The organizer decides to cancel a trip after checking the latest information.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "indoor alternative",
+          "ipa": "/ˈɪnˌdɔr ɔlˈtɝnətɪv/",
+          "pos": "fixed phrase",
+          "definition": "A different activity inside a building that can be chosen instead of an outdoor plan.",
+          "example": "The museum visit is our indoor alternative.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "backup plan",
+          "ipa": "/ˈbækˌʌp plæn/",
+          "pos": "fixed phrase",
+          "definition": "Another plan prepared in case the original one cannot be used.",
+          "example": "We agree on a backup plan before the visit.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "take shelter",
+          "ipa": "/teɪk ˈʃɛltɚ/",
+          "pos": "fixed phrase",
+          "definition": "To go to a place that protects you from weather or another danger.",
+          "example": "The event message tells visitors where staff will direct them to take shelter.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "forecast",
+        "weather warning",
+        "meeting",
+        "date",
+        "village"
+      ],
+      "mainWord": {
+        "word": "postpone",
+        "ipa": "/poʊstˈpoʊn/",
+        "pos": "verb",
+        "definition": "To arrange for a planned event or activity to happen later.",
+        "example": "The group postpones the walk until Saturday.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Verb: postpone, postpones, postponed, postponing. Postpone moves an activity later. Cancel says it will not happen as arranged; it does not itself supply a replacement date.",
+      "wordTask": "You move a planned walk from Friday to Saturday. State the change using postpone.",
+      "wordSample": "We will postpone the walk until Saturday.",
+      "expression": "What is our alternative?",
+      "use": "Ask what the group will do instead when the original plan cannot be used.",
+      "context": [
+        "What is our alternative?",
+        "We can visit the museum at the agreed time, then confirm whether the walk will happen on Saturday."
+      ],
+      "expressionTask": "Compare cancelling, postponing and choosing another activity. Agree on what is changing and what needs confirmation.",
+      "grammar": "Until with postpone",
+      "pattern": "Use until plus the later time to state how long the planned activity is delayed.",
+      "example": "We will postpone the walk until Saturday.",
+      "task": "We will postpone the walk ___ Saturday.",
+      "answer": "until",
+      "sound": "Postpone has two syllables with the second stressed. Keep the ST followed by P as the syllables join, without adding an extra syllable.",
+      "model": "We will postpone the walk.",
+      "dialogue": [
+        "The organizer may cancel a trip if the conditions do not suit the route.",
+        "What is our alternative?",
+        "Our backup plan is a museum visit as an indoor alternative.",
+        "Could we postpone the walk until Saturday?",
+        "We can ask, but we need a confirmed date.",
+        "And if the event message asks us to take shelter, we will follow the location and instructions provided by the responsible staff."
+      ],
+      "reading": "After reading the updated information, the group discusses whether to cancel a trip or postpone the walk. Their backup plan is a museum visit, an indoor alternative at the agreed meeting time. They ask the organizer to confirm any later walk date. If an event message tells visitors to take shelter, they follow the responsible staff’s stated arrangement rather than inventing a location. Their final message makes clear which plan is current.",
+      "readingQ": "Does postponing the walk automatically confirm a new date without asking the organizer?",
+      "readingA": "No. The group asks the organizer to confirm the later date.",
+      "writing": "Write a final group message confirming the current activity, time and place. State clearly whether another activity is cancelled or only proposed for later.",
+      "listening": "Today’s walk will not take place. The museum visit will begin at the original meeting time of ten, at the museum entrance. A Saturday walk is only a proposal at present. Please wait for a separate confirmation before making plans for Saturday.",
+      "question": "Is the Saturday walk confirmed?",
+      "correct": "No, it is only a proposal",
+      "other": "Yes, at ten",
+      "speaking": "Complete a weather-related planning task with a partner. Compare the current information, agree on an alternative and send a clear final confirmation separating confirmed and proposed arrangements.",
+      "speakingSample": "Today’s walk will not take place, and our confirmed alternative is the museum at ten, meeting at its entrance. A Saturday walk has been suggested but is not yet confirmed. What is our alternative if that proposal is not accepted? We should ask the organizer before treating it as a booking.",
+      "writingSample": "Our confirmed activity today is the museum visit at ten, meeting at the museum entrance. Today’s walk will not take place. A Saturday walk is only a proposal, so please wait for the organizer’s separate confirmation before planning for it."
+    }
+  ]
+}

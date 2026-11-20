@@ -1,0 +1,873 @@
+{
+  "number": 23,
+  "title": "Town, transport and the environment",
+  "lessons": [
+    {
+      "day": 177,
+      "unit": 23,
+      "title": "Read the paths shown on a town map",
+      "goal": "I can distinguish spaces marked for walking and cycling and ask which route a visitor map describes.",
+      "newItems": [
+        {
+          "word": "pavement",
+          "ipa": "/ˈpeɪvmənt/",
+          "pos": "noun",
+          "definition": "In British English, the raised path beside a road for people walking, usually called a sidewalk in American English.",
+          "example": "The British visitor guide tells walkers to use the pavement.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "pedestrian",
+          "ipa": "/pəˈdɛstriən/",
+          "pos": "noun",
+          "definition": "A person who is walking, especially beside or across a road.",
+          "example": "The map marks a route for pedestrians.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "cyclist",
+          "ipa": "/ˈsaɪklɪst/",
+          "pos": "noun",
+          "definition": "A person riding a bicycle.",
+          "example": "The cyclist follows the route marked for bicycles.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "cycle lane",
+          "ipa": "/ˈsaɪkəl leɪn/",
+          "pos": "fixed phrase",
+          "definition": "A marked part of a road or route intended for bicycles.",
+          "example": "The blue line on this map shows a cycle lane.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "traffic lights",
+          "ipa": "/ˈtræfɪk laɪts/",
+          "pos": "fixed phrase",
+          "definition": "Road signals with colored lights used to control traffic movements.",
+          "example": "The visitor route reaches the crossing beside the traffic lights.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "map",
+        "road",
+        "bicycle",
+        "crossing",
+        "sidewalk"
+      ],
+      "mainWord": {
+        "word": "pavement",
+        "ipa": "/ˈpeɪvmənt/",
+        "pos": "noun",
+        "definition": "In British English, the raised path beside a road for people walking, usually called a sidewalk in American English.",
+        "example": "The British visitor guide tells walkers to use the pavement.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Pedestrian and cyclist are countable nouns naming people. Pavement has different regional uses: British guides often mean sidewalk, while American use can mean a paved surface more generally. Cycle lane and traffic lights name marked features; use the actual map and local signs for a real journey.",
+      "wordTask": "In this British visitor guide, does pavement mean the walking path beside the road?",
+      "wordSample": "Yes. It is the feature usually called a sidewalk in American English.",
+      "expression": "Is this the walking route or the cycling route?",
+      "use": "Check the map’s legend when different lines represent different ways of travelling.",
+      "context": [
+        "Is this the walking route or the cycling route?",
+        "The dotted line is for pedestrians; the blue line marks the cycle lane."
+      ],
+      "expressionTask": "Explain two lines on a visitor map. Identify which is for a pedestrian and where the walking route reaches the marked crossing.",
+      "grammar": "For with the intended users of a route",
+      "pattern": "route or space + for + plural people noun",
+      "example": "The dotted route is for pedestrians.",
+      "task": "The dotted route is for ___.",
+      "answer": "pedestrians",
+      "sound": "Pavement has stress on PAVE. Pedestrian has stress on DES and cyclist on CY. Traffic has stress on TRAF.",
+      "model": "The pavement runs beside the road.",
+      "dialogue": [
+        "This British visitor map uses the word pavement. Is that the sidewalk?",
+        "Yes, that is its meaning here. The dotted line follows it.",
+        "Is this the walking route or the cycling route?",
+        "The dotted line is for pedestrians. The blue line shows the cycle lane used by cyclists.",
+        "Where does the dotted route cross the main road?",
+        "Beside the traffic lights, at the crossing marked on the map. Let us keep the two route lines separate."
+      ],
+      "reading": "Bella reads a British visitor map before a town walk. The guide uses pavement for the walking path beside the road, a feature she usually calls a sidewalk. Its dotted line is a route for a pedestrian. A blue line marks a cycle lane, so a cyclist follows a different line in this part of the map. Bella checks the legend instead of assuming that the shortest-looking line belongs to walkers. The dotted route reaches a marked crossing beside the traffic lights. She explains the map to Fenrir using both the line style and the feature names.",
+      "readingQ": "Why does Bella check the map legend before choosing the blue line?",
+      "readingA": "The blue line represents a cycle lane, while the dotted line is the walking route.",
+      "writing": "Write 45–65 words explaining this map to an American visitor. Define pavement in this guide and distinguish the two route lines.",
+      "writingSample": "In this British guide, pavement means the sidewalk beside the road. The dotted line is the route for pedestrians, while the blue line marks a cycle lane. Follow the dotted line to the crossing beside the traffic lights on this map. Check the legend so that the two route types remain clear.",
+      "listening": "The map’s dotted line is for walkers. It follows the pavement to the crossing beside the traffic lights. The blue line is the cycle lane. The library is closer to the blue line on paper, but the question asks for the marked walking route.",
+      "question": "Which line represents the marked walking route?",
+      "correct": "The dotted line",
+      "other": "The blue cycle-lane line",
+      "speaking": "Explain a map legend to a partner using pedestrian, cyclist and the regional pavement word. Ask the partner to identify the intended travel mode before choosing a route.",
+      "speakingSample": "Are you walking or cycling? In this British guide, pavement means sidewalk. The dotted line is for a pedestrian, and the blue line is for a cyclist. The walking line reaches the crossing by the traffic lights. Let us use the legend to describe the correct route."
+    },
+    {
+      "day": 178,
+      "unit": 23,
+      "title": "Clarify an unfamiliar transport word",
+      "goal": "I can use local context to check whether a word refers to a train system, a walking passage or another map feature.",
+      "newItems": [
+        {
+          "word": "subway",
+          "ipa": "/ˈsʌbˌweɪ/",
+          "pos": "noun",
+          "definition": "In American English, an underground urban railway; in some British contexts, a pedestrian passage under a road.",
+          "example": "The American city map uses subway for the train system.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "tunnel",
+          "ipa": "/ˈtʌnəl/",
+          "pos": "noun",
+          "definition": "A passage running under the ground or through a hill or other structure.",
+          "example": "The train travels through a tunnel beneath the river.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "underpass",
+          "ipa": "/ˈʌndɚˌpæs/",
+          "pos": "noun",
+          "definition": "A route or passage going under a road or another route.",
+          "example": "The walking map shows an underpass beneath the main road.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "footbridge",
+          "ipa": "/ˈfʊtˌbrɪdʒ/",
+          "pos": "noun",
+          "definition": "A bridge intended for people walking.",
+          "example": "The footbridge goes over the stream.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "parking lot",
+          "ipa": "/ˈpɑrkɪŋ lɑt/",
+          "pos": "fixed phrase",
+          "definition": "An area where vehicles can be parked, usually called a car park in British English.",
+          "example": "The visitor desk is beside the parking lot.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "train",
+        "bridge",
+        "road",
+        "car",
+        "map"
+      ],
+      "mainWord": {
+        "word": "subway",
+        "ipa": "/ˈsʌbˌweɪ/",
+        "pos": "noun",
+        "definition": "In American English, an underground urban railway; in some British contexts, a pedestrian passage under a road.",
+        "example": "The American city map uses subway for the train system.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Subway, tunnel, underpass and footbridge are countable nouns. The regional meanings of subway are not two separately counted new words. Under describes a lower route; over describes a higher crossing. Parking lot and British car park are regional terms for a parking area.",
+      "wordTask": "Why might you ask a speaker to clarify subway on a visitor map?",
+      "wordSample": "It may mean an underground train system or, in some British contexts, a pedestrian underpass.",
+      "expression": "Do you mean the train or the walking passage?",
+      "use": "Resolve a regional word difference by naming the two possible meanings directly.",
+      "context": [
+        "Do you mean the train or the walking passage?",
+        "The walking passage under the road; it is marked as an underpass on this map."
+      ],
+      "expressionTask": "Explain a visitor’s instruction that uses subway. Ask which meaning is intended and identify the separate footbridge and parking area.",
+      "grammar": "Under and over for a route’s position",
+      "pattern": "route + goes + under or over + landmark",
+      "example": "The footbridge goes over the stream.",
+      "task": "The footbridge goes ___ the stream.",
+      "answer": "over",
+      "sound": "Subway has stress on SUB, tunnel on TUN and footbridge on FOOT. Keep the final J sound of bridge clear without adding a vowel.",
+      "model": "The subway is the train system on this map.",
+      "dialogue": [
+        "The visitor says to use the subway after the parking lot. Do they mean the train or the walking passage?",
+        "Here they mean the passage under the road. This local map calls it an underpass.",
+        "So I do not need to look for a railway platform.",
+        "Right. The train tunnel is a different feature, beneath the river.",
+        "And the footbridge is the route over the stream?",
+        "Yes. Let us mark the walking passage and footbridge so we do not confuse them with the train route."
+      ],
+      "reading": "Bella is used to subway meaning an underground train system. A British visitor guide uses it for a walking passage under a road. She asks which meaning is intended instead of searching for a railway station. On the local map, the passage is labeled underpass. A train tunnel beneath the river is separate, and a footbridge carries walkers over a stream. The visitor desk is beside the parking lot, called a car park elsewhere in the guide. Fenrir checks each feature’s function and position, not just a familiar-looking word.",
+      "readingQ": "Why should Bella not look for a train platform in response to this particular instruction?",
+      "readingA": "The speaker means the walking passage under the road, not a railway system.",
+      "writing": "Write 45–65 words clarifying the route for a visitor familiar with American English. Explain the local subway meaning and two separate map features.",
+      "writingSample": "In this local guide, subway means the pedestrian underpass beneath the road, not the train system. Start by the parking lot and find that walking passage. The train tunnel under the river is a different feature. The footbridge goes over the stream. Check the map labels to keep the routes separate.",
+      "listening": "For this walking route, subway means the underpass beneath Main Road. It is beside the visitor parking lot. Do not confuse it with the railway tunnel beneath the river. The footbridge over the stream comes later on the walking route.",
+      "question": "Which feature does subway refer to in this instruction?",
+      "correct": "The pedestrian underpass beneath Main Road",
+      "other": "The railway tunnel beneath the river",
+      "speaking": "Ask for clarification of a regional transport word and repeat the intended meaning. Use under and over to distinguish two additional features.",
+      "speakingSample": "Do you mean the train or the walking passage when you say subway? Thank you: the underpass under Main Road. The train tunnel under the river is separate, and the footbridge goes over the stream. I will check those labels before explaining the route to someone else."
+    },
+    {
+      "day": 179,
+      "unit": 23,
+      "title": "Discuss a local green-space project",
+      "goal": "I can describe two different parts of an environmental project and distinguish a planned improvement from a measured result.",
+      "newItems": [
+        {
+          "word": "environment",
+          "ipa": "/ɪnˈvaɪrənmənt/",
+          "pos": "noun",
+          "definition": "The natural and physical surroundings in which people, animals and plants live.",
+          "example": "The project includes work on the town environment.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "pollution",
+          "ipa": "/pəˈluːʃən/",
+          "pos": "noun",
+          "definition": "Harmful substances or effects introduced into air, water or other surroundings.",
+          "example": "The notice says the town will measure air pollution.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "air quality",
+          "ipa": "/ɛr ˈkwɑləti/",
+          "pos": "fixed phrase",
+          "definition": "The condition of the air, including how much pollution it contains.",
+          "example": "The town will check air quality before and after the trial.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "green space",
+          "ipa": "/ɡriːn speɪs/",
+          "pos": "fixed phrase",
+          "definition": "An area with grass, plants or trees, especially within a town.",
+          "example": "The old yard will become a public green space.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "pick up litter",
+          "ipa": "/pɪk ʌp ˈlɪtɚ/",
+          "pos": "fixed phrase",
+          "definition": "Collect small pieces of waste left on the ground.",
+          "example": "The organized group will pick up litter in the park.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "town",
+        "park",
+        "litter",
+        "notice",
+        "project"
+      ],
+      "mainWord": {
+        "word": "environment",
+        "ipa": "/ɪnˈvaɪrənmənt/",
+        "pos": "noun",
+        "definition": "The natural and physical surroundings in which people, animals and plants live.",
+        "example": "The project includes work on the town environment.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Environment and pollution are not synonyms: one names surroundings, the other a harmful condition. Pollution is normally uncountable here. Green space can be countable or general. Picking up litter and measuring air quality address different parts of a project.",
+      "wordTask": "Does environment mean only harmful substances?",
+      "wordSample": "No. It means the surroundings; pollution is a harmful condition affecting them.",
+      "expression": "What will the project actually change?",
+      "use": "Ask for the specific action behind a broad project description.",
+      "context": [
+        "What will the project actually change?",
+        "It will open a planted area, while a separate trial measures air quality."
+      ],
+      "expressionTask": "Explain a town notice with a new planted area, an organized litter activity and a separate air-measurement trial. Keep actions and results distinct.",
+      "grammar": "Will for a planned action",
+      "pattern": "subject + will + base verb",
+      "example": "The town will measure air quality.",
+      "task": "The town will ___ air quality.",
+      "answer": "measure",
+      "sound": "Environment has stress on VI, pollution on LU and quality on QUA. Keep the final T sound in environment before the next word where possible.",
+      "model": "The project concerns the town environment.",
+      "dialogue": [
+        "The notice says the town is improving its environment. What will the project actually change?",
+        "The old yard will become a green space with plants and seats.",
+        "Does it also say air pollution has already fallen?",
+        "No. A separate trial will check air quality before and after a traffic change.",
+        "Our class has been invited to pick up litter in the park during the organized event.",
+        "Then we can describe those actions clearly without turning a planned measurement into a result."
+      ],
+      "reading": "A town notice describes three activities concerning the environment. The old yard will become a green space with plants and seats. An organized group will pick up litter in the nearby park. Separately, the town plans to measure air quality before and after a traffic trial. The notice discusses pollution, but does not yet give measurement results. Bella explains the project to her class by keeping the actions separate. A tidier park, a planted area and an air-quality result are different pieces of information. She can welcome the plans without claiming a result that has not been reported.",
+      "readingQ": "Why should Bella not say that air pollution has already fallen?",
+      "readingA": "The notice describes a future measurement trial and does not provide results yet.",
+      "writing": "Write 45–65 words explaining the town project. Include two planned actions and state which result is not yet available.",
+      "writingSample": "The town plans to turn the old yard into a green space with plants and seats. There is also an organized park litter activity. A separate trial will measure air quality before and after a traffic change. The notice gives no results yet, so we should not say that pollution has already fallen.",
+      "listening": "The planted area opens next month. The park litter activity is on Saturday. The air-quality trial begins next week, and no results are available today. Please do not confuse the date of the litter activity with a completed air measurement.",
+      "question": "Which information is not yet available?",
+      "correct": "Results from the air-quality trial",
+      "other": "The Saturday date of the litter activity",
+      "speaking": "Summarize the town project for a friend. Name a physical change, a group activity and a measurement that has not produced results yet.",
+      "speakingSample": "The old yard will become a green space, and a group will pick up litter in the park on Saturday. The town also plans to measure air quality during a traffic trial. We know the actions and dates, but there are no pollution results yet."
+    },
+    {
+      "day": 180,
+      "unit": 23,
+      "title": "Read the practical details of an electric travel option",
+      "goal": "I can check a vehicle notice for its power status and charging arrangements before agreeing on a travel plan.",
+      "newItems": [
+        {
+          "word": "electric",
+          "ipa": "/ɪˈlɛktrɪk/",
+          "pos": "adjective",
+          "definition": "Using electricity to operate.",
+          "example": "The visitor shuttle is an electric vehicle.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "charging point",
+          "ipa": "/ˈtʃɑrdʒɪŋ pɔɪnt/",
+          "pos": "fixed phrase",
+          "definition": "A place or device where a battery-powered vehicle or device can receive electrical energy.",
+          "example": "The shuttle’s charging point is beside the depot.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "battery level",
+          "ipa": "/ˈbætəri ˈlɛvəl/",
+          "pos": "fixed phrase",
+          "definition": "The amount of electrical charge remaining in a battery, as indicated by a device or display.",
+          "example": "The operator checks the battery level before departure.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "fully charged",
+          "ipa": "/ˈfʊli tʃɑrdʒd/",
+          "pos": "fixed phrase",
+          "definition": "Having reached the full charge level shown for a battery.",
+          "example": "The notice says the shuttle will be fully charged before its morning trip.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "save energy",
+          "ipa": "/seɪv ˈɛnɚdʒi/",
+          "pos": "fixed phrase",
+          "definition": "Use less energy than otherwise needed.",
+          "example": "The visitor center turns off unused display lights to save energy.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "battery",
+        "electricity",
+        "bus",
+        "departure",
+        "energy"
+      ],
+      "mainWord": {
+        "word": "electric",
+        "ipa": "/ɪˈlɛktrɪk/",
+        "pos": "adjective",
+        "definition": "Using electricity to operate.",
+        "example": "The visitor shuttle is an electric vehicle.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Electric is an adjective, not a synonym for free or unlimited. Battery level names a current state, while fully charged names the full state. A charging point’s location does not say whether it is available now. The practical notice supplies this trip’s arrangements.",
+      "wordTask": "What does electric tell you about the shuttle?",
+      "wordSample": "It tells me the shuttle uses electricity to operate, not that every trip is free.",
+      "expression": "Is that available before our departure?",
+      "use": "Check the timing of a facility or preparation step rather than only its location.",
+      "context": [
+        "Is that available before our departure?",
+        "The operator says charging finishes at nine, before the nine thirty departure."
+      ],
+      "expressionTask": "Read a shuttle notice and confirm departure, preparation and ticket details. Keep the meaning of electric separate from the price.",
+      "grammar": "Before to compare two stated times",
+      "pattern": "event A + happens + before + event B",
+      "example": "Charging finishes before departure.",
+      "task": "Charging finishes ___ departure.",
+      "answer": "before",
+      "sound": "Electric has stress on LEC. Battery has stress on BAT, and charging on CHAR. In charged, keep the joined J sound before the final D.",
+      "model": "The electric shuttle leaves at nine thirty.",
+      "dialogue": [
+        "The visitor shuttle is electric. Does the notice give its departure time?",
+        "Yes, nine thirty. The operator checks the battery level before it leaves.",
+        "I see a charging point beside the depot. Is that available before our departure?",
+        "The notice says charging finishes at nine and the vehicle will be fully charged for that trip.",
+        "Does electric also mean the ticket is free?",
+        "No. The ticket price is listed separately. The center’s note about switching off unused lights to save energy is another part of the notice."
+      ],
+      "reading": "The visitor center offers an electric shuttle with a nine thirty departure. Its operator checks the battery level before the trip. The notice says the charging point is beside the depot and that charging finishes at nine, leaving the shuttle fully charged for the scheduled journey. Bella checks these practical details alongside the ticket price. Electric describes how the vehicle operates; it does not state the fare or promise that every route is available. Another part of the notice asks the center’s staff to turn off unused display lights to save energy. She keeps that building instruction separate from the shuttle timetable.",
+      "readingQ": "Why does Bella check the ticket listing separately?",
+      "readingA": "Electric describes the vehicle’s power, not whether its ticket is free.",
+      "writing": "Write 45–65 words explaining the shuttle notice to a visitor. Include charging completion, departure and a reminder that price is a separate detail.",
+      "writingSample": "The electric shuttle leaves at nine thirty. The notice says charging finishes at nine, and the operator checks the battery level before departure. The charging point is beside the depot. Electric describes the vehicle, not the ticket price, so check the separate fare listing before agreeing to take the shuttle.",
+      "listening": "The electric shuttle departs at nine thirty. Charging finishes at nine. The ticket costs three dollars. The notice’s statement that the vehicle will be fully charged does not say the fare is free or that the departure is at nine.",
+      "question": "What time does the shuttle depart?",
+      "correct": "Nine thirty",
+      "other": "Nine when charging finishes",
+      "speaking": "Explain an electric shuttle plan using the three separate details of charging time, departure and fare. Ask one question about availability before committing to the trip.",
+      "speakingSample": "The shuttle is electric and leaves at nine thirty. Charging finishes at nine, before departure, and the fare is three dollars. Is that scheduled trip still available for our group? I will check the timetable and fare rather than assume the power type tells me everything."
+    },
+    {
+      "day": 181,
+      "unit": 23,
+      "title": "Choose a park activity from a description",
+      "goal": "I can identify which park activity matches an interest and find the relevant place on its map.",
+      "newItems": [
+        {
+          "word": "wildlife",
+          "ipa": "/ˈwaɪldˌlaɪf/",
+          "pos": "noun",
+          "definition": "Animals living in natural conditions rather than kept as pets or farm animals.",
+          "example": "The park guide describes the wildlife beside the water.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "pond",
+          "ipa": "/pɑnd/",
+          "pos": "noun",
+          "definition": "A small area of still water, often smaller than a lake.",
+          "example": "The bird group meets beside the pond.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "stream",
+          "ipa": "/striːm/",
+          "pos": "noun",
+          "definition": "A small flow of water moving along a channel in the ground.",
+          "example": "The stream flows past the picnic area.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "nature walk",
+          "ipa": "/ˈneɪtʃɚ wɔk/",
+          "pos": "fixed phrase",
+          "definition": "A walk taken to observe plants, animals and other natural features.",
+          "example": "The nature walk follows the path beside the stream.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "bird watching",
+          "ipa": "/bɝd ˈwɑtʃɪŋ/",
+          "pos": "fixed phrase",
+          "definition": "The activity of observing wild birds.",
+          "example": "The guide leads bird watching near the pond.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "park",
+        "bird",
+        "water",
+        "guide",
+        "path"
+      ],
+      "mainWord": {
+        "word": "wildlife",
+        "ipa": "/ˈwaɪldˌlaɪf/",
+        "pos": "noun",
+        "definition": "Animals living in natural conditions rather than kept as pets or farm animals.",
+        "example": "The park guide describes the wildlife beside the water.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Wildlife is uncountable as a general category here. Pond and stream are countable: the pond is an area of still water, while the stream flows. Nature walk and bird watching describe activities with different focuses; read the program rather than assuming both routes are identical.",
+      "wordTask": "Does wildlife in this park description mean the guide’s pet dog?",
+      "wordSample": "No. It refers to animals living in natural conditions in the park.",
+      "expression": "Which activity focuses on the animals I want to see?",
+      "use": "Match an activity’s stated focus with a visitor’s interest before choosing a meeting place.",
+      "context": [
+        "Which activity focuses on the animals I want to see?",
+        "The bird-watching group meets at the pond; the general walk follows the stream."
+      ],
+      "expressionTask": "Help a visitor choose between a general park walk and a bird-focused activity. Give the correct meeting place for the chosen option.",
+      "grammar": "At for a stated meeting point",
+      "pattern": "group + meets + at + meeting point",
+      "example": "The bird group meets at the pond.",
+      "task": "The bird group meets ___ the pond.",
+      "answer": "at",
+      "sound": "Wildlife has stress on WILD. Pond has one syllable. Stream begins with S, T and R together; do not add a vowel between those sounds.",
+      "model": "The wildlife includes birds beside the pond.",
+      "dialogue": [
+        "The park lists a nature walk and bird watching. Which activity focuses on the animals I want to see?",
+        "If you mainly want birds, choose the pond group. The guide describes the local wildlife there.",
+        "Does that group meet beside the stream?",
+        "No. The nature walk follows the stream from the picnic area. The bird group meets at the pond.",
+        "Then I will mark the pond on the map and check the bird group’s time.",
+        "Good. The two activities share a park, but their focus and meeting points differ."
+      ],
+      "reading": "A park program offers a nature walk and a bird-watching activity. The general walk follows a stream from the picnic area and discusses several natural features. The bird group meets at a pond, where the guide introduces local wildlife. Bella mainly wants to observe birds, so she chooses the pond activity rather than assuming that any park walk will have the same focus. Fenrir checks the map with her: the stream flows past the picnic area, while the pond is a separate patch of still water. They write down the chosen meeting point and time.",
+      "readingQ": "Why does Bella choose the pond activity?",
+      "readingA": "Its stated focus is bird watching, which matches her main interest.",
+      "writing": "Write 45–65 words helping a friend choose the bird activity. Explain how it differs from the nature walk and identify its meeting place.",
+      "writingSample": "If you mainly want to observe birds, choose the bird-watching activity at the pond. The guide introduces local wildlife there. The general nature walk follows the stream from the picnic area and has a broader focus. These are different meeting points, so check the time for the pond group before leaving.",
+      "listening": "The nature walk starts at the picnic area beside the stream. Bird watching starts at the pond at ten. If your booking is for bird watching, meet the guide at the pond, not at the picnic area with the other group.",
+      "question": "Where should a person booked for bird watching meet?",
+      "correct": "At the pond",
+      "other": "At the picnic area beside the stream",
+      "speaking": "Ask about a visitor’s interest, recommend the matching park activity and repeat its meeting point. Distinguish a pond from a stream using the map.",
+      "speakingSample": "Are you mainly interested in birds or a general nature walk? For birds, I would choose the pond group. The pond is still water, separate from the stream beside the picnic area. Your group meets at the pond at ten, so let us mark that point."
+    },
+    {
+      "day": 182,
+      "unit": 23,
+      "title": "Read the collection instructions for this location",
+      "goal": "I can sort items using a specific site’s labels and distinguish reusing an item from recycling its material.",
+      "newItems": [
+        {
+          "word": "packaging",
+          "ipa": "/ˈpækɪdʒɪŋ/",
+          "pos": "noun",
+          "definition": "Material used to wrap or protect a product.",
+          "example": "Check the label before deciding where this packaging belongs.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "sort",
+          "ipa": "/sɔrt/",
+          "pos": "verb",
+          "definition": "Put things into groups according to their type or another feature.",
+          "example": "Sort the listed paper separately from other items.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "reuse",
+          "ipa": "/riːˈjuːz/",
+          "pos": "verb",
+          "definition": "Use an item again instead of throwing it away after one use.",
+          "example": "Reuse the clean project box for another display.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "collection day",
+          "ipa": "/kəˈlɛkʃən deɪ/",
+          "pos": "fixed phrase",
+          "definition": "The scheduled day when a stated service collects items.",
+          "example": "The notice gives Tuesday as the collection day for this site.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "recycling point",
+          "ipa": "/riːˈsaɪklɪŋ pɔɪnt/",
+          "pos": "fixed phrase",
+          "definition": "A location where specified used materials can be left for recycling.",
+          "example": "The labeled recycling point is beside the community center.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "paper",
+        "box",
+        "label",
+        "waste",
+        "recycle"
+      ],
+      "mainWord": {
+        "word": "packaging",
+        "ipa": "/ˈpækɪdʒɪŋ/",
+        "pos": "noun",
+        "definition": "Material used to wrap or protect a product.",
+        "example": "Check the label before deciding where this packaging belongs.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Packaging is usually uncountable. Sort and reuse are verbs; reusing a box keeps using the item, while recycling processes its material. Collection day and accepted materials depend on the stated site and service, so the example’s label supplies the rule for this task.",
+      "wordTask": "What does packaging describe on a product?",
+      "wordSample": "It describes material used to wrap or protect the product.",
+      "expression": "Is this listed for this collection?",
+      "use": "Check the actual item against a collection notice when a general material description is not enough.",
+      "context": [
+        "Is this listed for this collection?",
+        "Clean paper is listed; that mixed wrapper is not mentioned, so ask the site helper."
+      ],
+      "expressionTask": "Read a fictional site label and decide which item is listed, which box can be used again and which uncertain item needs a question.",
+      "grammar": "Listed as a description of accepted items",
+      "pattern": "subject + be + listed + place phrase",
+      "example": "Clean paper is listed on this notice.",
+      "task": "Clean paper ___ listed on this notice.",
+      "answer": "is",
+      "sound": "Packaging has stress on PACK. Sort keeps the American R before T. Reuse as a verb ends with a voiced Z sound.",
+      "model": "The packaging has a material label.",
+      "dialogue": [
+        "We have paper, a clean project box and some mixed packaging. How should we sort them?",
+        "Read this site’s label. Clean paper is listed for the recycling point.",
+        "Is this mixed wrapper listed for this collection?",
+        "No. Let us ask the site helper instead of guessing.",
+        "Could we reuse the project box for next week’s display?",
+        "Yes, that is the plan. The notice gives Tuesday as this site’s collection day, but keeping the box for another use is a separate choice."
+      ],
+      "reading": "A class checks the instructions at its local recycling point. The notice lists clean paper and gives Tuesday as this site’s collection day. Bella uses that label to sort the paper. A mixed piece of packaging is not mentioned, so she asks the helper where it belongs. The class also has a clean project box it can reuse for a future display. Reusing the box is different from sending its material for recycling. Fenrir records what this particular notice says, without turning one site’s collection schedule into a rule for every town.",
+      "readingQ": "Why is the class keeping the project box separate from the paper collection?",
+      "readingA": "It plans to reuse the box for another display rather than recycle its material now.",
+      "writing": "Write 45–65 words explaining this site’s plan. Include the listed material, collection day, box reuse and the question about unlisted packaging.",
+      "writingSample": "At this site, clean paper is listed for collection on Tuesday. We will sort that paper for the recycling point. We can reuse the clean project box for next week’s display, so we will keep it. The mixed wrapper is not mentioned on the label; we should ask the site helper about it.",
+      "listening": "This label applies to the community center’s collection. Clean paper is listed, and collection day is Tuesday. Keep the project box because the class will use it again. The mixed wrapper is not listed, so bring the question to the helper rather than add it automatically.",
+      "question": "Why should the project box be kept?",
+      "correct": "The class plans to use it again",
+      "other": "The notice says every box must be collected on Tuesday",
+      "speaking": "Explain how the class will sort three items using this notice. Distinguish a listed collection item, an item for reuse and an item needing clarification.",
+      "speakingSample": "The clean paper is listed for Tuesday’s collection. The project box will be reused, so we will keep it. This mixed packaging is not mentioned; is it accepted here? Let us ask the helper before deciding where it goes."
+    },
+    {
+      "day": 183,
+      "unit": 23,
+      "title": "Join a community activity with a clear role",
+      "goal": "I can read an event notice, confirm what is provided and agree on a specific volunteer task.",
+      "newItems": [
+        {
+          "word": "volunteer",
+          "ipa": "/ˌvɑlənˈtɪr/",
+          "pos": "noun",
+          "definition": "A person who chooses to help with a task without being paid for that work.",
+          "example": "A volunteer gives each group its route card.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "community",
+          "ipa": "/kəˈmjuːnəti/",
+          "pos": "noun",
+          "definition": "People living in the same area or sharing a particular group or interest.",
+          "example": "The community center is organizing Saturday’s event.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "bring along",
+          "ipa": "/brɪŋ əˈlɔŋ/",
+          "pos": "phrasal verb",
+          "definition": "Take someone or something with you to a place or activity.",
+          "example": "Bring along the registration message so the desk can find your booking.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "hand out",
+          "ipa": "/hænd aʊt/",
+          "pos": "phrasal verb",
+          "definition": "Give items to several people.",
+          "example": "The desk team will hand out the route cards.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "clean-up day",
+          "ipa": "/ˈkliːnʌp deɪ/",
+          "pos": "fixed phrase",
+          "definition": "An organized day when people help make a place cleaner or tidier.",
+          "example": "The park clean-up day begins at the community center.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "center",
+        "registration",
+        "day",
+        "card",
+        "help"
+      ],
+      "mainWord": {
+        "word": "volunteer",
+        "ipa": "/ˌvɑlənˈtɪr/",
+        "pos": "noun",
+        "definition": "A person who chooses to help with a task without being paid for that work.",
+        "example": "A volunteer gives each group its route card.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Volunteer is a noun in this lesson, though it can also be a verb. Community is countable for a particular group. Hand out is separable: hand the cards out, hand them out. Bring along names what someone takes; read the notice to see what is actually needed.",
+      "wordTask": "What makes a helper a volunteer in this event description?",
+      "wordSample": "The person chooses to help and is not paid for that work.",
+      "expression": "Which job has not been assigned yet?",
+      "use": "Find a useful task that still needs a person rather than duplicating a job already covered.",
+      "context": [
+        "Which job has not been assigned yet?",
+        "The welcome desk still needs someone to hand out route cards."
+      ],
+      "expressionTask": "Join a fictional park event. Confirm registration, what to bring and the unassigned welcome-desk job.",
+      "grammar": "Hand out with an object pronoun",
+      "pattern": "hand + object pronoun + out",
+      "example": "Please hand them out at the desk.",
+      "task": "Please hand ___ out at the desk.",
+      "answer": "them",
+      "sound": "Volunteer has stress on TEER. Community has stress on MU. In hand out, connect the final D to the vowel in out.",
+      "model": "The volunteer works at the welcome desk.",
+      "dialogue": [
+        "I registered for the community clean-up day. Which job has not been assigned yet?",
+        "We still need a volunteer to hand out route cards at the welcome desk.",
+        "I can do that. What should I bring along?",
+        "Bring your registration message. The desk will provide the cards and the event instructions.",
+        "Should I bring a large set of printed maps too?",
+        "No, those are already provided. Your job is to welcome the booked groups and give them the correct route cards."
+      ],
+      "reading": "A community center organizes a park clean-up day. Bella registers before offering to help. She asks which job is still unassigned and learns that the welcome desk needs a volunteer. Her task is to hand out route cards to booked groups, not to choose new routes herself. The notice asks her to bring along her registration message. Cards and event instructions are provided, so she does not need to print another set. Fenrir checks the arrival time with her. Agreeing on one clear role helps the organizers know which part of the event is covered.",
+      "readingQ": "Why does Bella not need to print a new set of maps?",
+      "readingA": "The organizers already provide the route cards and instructions at the desk.",
+      "writing": "Write 45–65 words confirming a volunteer role with the organizer. Name the task, what you will bring and what you understand is provided.",
+      "writingSample": "Hello, I have registered for the community clean-up day. I can volunteer at the welcome desk and hand out the route cards to booked groups. I will bring along my registration message. I understand that the cards and instructions are provided, so I will not print another set. Please confirm my arrival time.",
+      "listening": "We have enough people for the park groups. The open job is at the welcome desk, handing out route cards. Bring your registration message. The cards are already printed, so please do not spend time preparing another set of maps.",
+      "question": "Which job is still available?",
+      "correct": "Handing out route cards at the welcome desk",
+      "other": "Printing a second set of route maps",
+      "speaking": "Offer to help at an event and confirm one specific job. Ask what to bring and repeat which materials the organizers provide.",
+      "speakingSample": "Which job has not been assigned yet? I can hand out route cards at the welcome desk. I will bring my registration message. Are the cards and instructions provided? Thank you. Please confirm when the desk volunteers should arrive."
+    },
+    {
+      "day": 184,
+      "unit": 23,
+      "title": "Use feedback to plan the next community event",
+      "goal": "I can report a simple group result without treating an average as every person’s experience and suggest a practical next step.",
+      "newItems": [
+        {
+          "word": "survey",
+          "ipa": "/ˈsɝveɪ/",
+          "pos": "noun",
+          "definition": "A set of questions used to collect information from people.",
+          "example": "The short survey asks how long volunteers waited at the desk.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "average",
+          "ipa": "/ˈævərɪdʒ/",
+          "pos": "noun",
+          "definition": "A number representing a group of values; here, the total divided by the number of values.",
+          "example": "The report gives an average wait of ten minutes.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "tidy up",
+          "ipa": "/ˈtaɪdi ʌp/",
+          "pos": "phrasal verb",
+          "definition": "Put things in order or make a place neat.",
+          "example": "The desk team will tidy up the remaining cards after the event.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "meet up",
+          "ipa": "/miːt ʌp/",
+          "pos": "phrasal verb",
+          "definition": "Meet someone, often by arrangement.",
+          "example": "The volunteers will meet up on Monday to review the event.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "make a difference",
+          "ipa": "/meɪk ə ˈdɪfərəns/",
+          "pos": "fixed phrase",
+          "definition": "Have an effect that changes a situation.",
+          "example": "A clearer desk list could make a difference to the next event.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "wait",
+        "minute",
+        "report",
+        "list",
+        "team"
+      ],
+      "mainWord": {
+        "word": "survey",
+        "ipa": "/ˈsɝveɪ/",
+        "pos": "noun",
+        "definition": "A set of questions used to collect information from people.",
+        "example": "The short survey asks how long volunteers waited at the desk.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Survey is a countable noun with first-syllable stress in this model. Average is a noun here. An average of ten minutes does not say that every person waited exactly ten minutes. A suggested change could make a difference, but the next event would need checking to see its effect.",
+      "wordTask": "If the average wait is ten minutes, must every person have waited exactly ten minutes?",
+      "wordSample": "No. Individual waits can differ even when their average is ten minutes.",
+      "expression": "What does that result tell us, and what does it not tell us?",
+      "use": "Explain the limit of a simple group result before using it to plan a change.",
+      "context": [
+        "What does that result tell us, and what does it not tell us?",
+        "It gives the group’s average wait, but not each person’s exact waiting time."
+      ],
+      "expressionTask": "Discuss a short event survey. Report the stated average, distinguish it from individual waits and suggest one specific desk improvement.",
+      "grammar": "Could for a possible effect",
+      "pattern": "subject + could + base verb",
+      "example": "A clearer list could reduce the wait.",
+      "task": "A clearer list could ___ the wait.",
+      "answer": "reduce",
+      "sound": "Survey as a noun has stress on SUR, and average on AV. In tidy up, connect the final vowel to up. Difference has stress on DIF.",
+      "model": "The survey asks about the waiting time.",
+      "dialogue": [
+        "Before we tidy up the desk materials, have you seen the survey result?",
+        "Yes. It gives an average wait of ten minutes.",
+        "What does that result tell us, and what does it not tell us?",
+        "It describes the group average, not the exact wait for every person. Some comments mention difficulty finding names.",
+        "When we meet up on Monday, let us suggest a clearer registration list.",
+        "That could make a difference. We can check the waiting information again at the next event rather than promise a result now."
+      ],
+      "reading": "After the community event, the desk team checks a short survey. The report gives an average waiting time of ten minutes. Bella explains that individual waits differed; the figure does not mean everyone waited exactly ten minutes. Several comments mention trouble finding registration names. The volunteers arrange to meet up on Monday and discuss a clearer list for the next event. They also tidy up the remaining route cards. A better list could make a difference, but they will check the next event’s feedback before claiming that the change solved the problem.",
+      "readingQ": "Why should the team not say that every visitor waited ten minutes?",
+      "readingA": "Ten minutes is the reported average, while individual waiting times can differ.",
+      "writing": "Write 45–65 words summarizing the feedback and one proposed improvement. State the average accurately and avoid claiming that the proposed change has already worked.",
+      "writingSample": "The survey reports an average wait of ten minutes, not an identical wait for every visitor. Some comments mention difficulty finding names. At Monday’s meeting, we can propose a clearer registration list. That could make a difference at the next event, but we should check the new feedback before claiming a result.",
+      "listening": "The report gives an average waiting time of ten minutes. Some people waited less and some waited more. The team proposes a clearer name list for the next event. The proposal has not been tested yet, so the report does not say it has already reduced the wait.",
+      "question": "Which statement matches the report?",
+      "correct": "Ten minutes is an average, and the new list is still a proposal",
+      "other": "Everyone waited ten minutes, and the new list has already fixed the wait",
+      "speaking": "Explain a group result and its limit to a partner. Suggest one practical change and say what you would check afterward.",
+      "speakingSample": "The average wait was ten minutes, but people had different waits. Some could not find their names easily. A clearer list could make a difference. Let us discuss it on Monday and check the next event’s waiting information before saying the change worked.",
+      "transferCheck": {
+        "source": "A neighborhood event starts at the center at nine on Saturday. The walking route uses the footbridge over the stream, not the cycle lane beside the road. The route-card volunteer should arrive at eight forty-five; cards are provided. The notice asks participants to bring their booking message. A separate recycling point accepts only the materials named on its label. Last month’s feedback reported an average desk wait of eight minutes. A new alphabetical name list is planned, but has not been tested.",
+        "dictation": "The route cards are provided at the center.",
+        "tasks": [
+          [
+            "1 · Read the route correctly",
+            "Which crossing does the walking route use, and which route type is not being requested?"
+          ],
+          [
+            "2 · Match a role and time",
+            "When should the route-card volunteer arrive? Must that person print a second set of cards?"
+          ],
+          [
+            "3 · Apply a label and a result carefully",
+            "Can every unlisted material be added to the recycling point? Did every visitor necessarily wait eight minutes last month?"
+          ],
+          [
+            "4 · Listen and write",
+            "Write the dictation sentence, keeping who provides the cards clear."
+          ],
+          [
+            "5 · Write a practical confirmation",
+            "Write 40–60 words confirming a volunteer’s arrival, supplied cards and the walking route. Mention the proposed name list as a plan, not a proven success."
+          ]
+        ],
+        "answer": "1. The footbridge over the stream. The cycle lane beside the road is not the walking route. 2. Eight forty-five. No; route cards are provided. 3. No: check the stated accepted materials and ask about an unlisted item. No: eight minutes is an average, not necessarily each visitor’s wait. 4. The route cards are provided at the center. 5. Sample: I will arrive at eight forty-five to hand out the provided route cards, before the nine o’clock start. The walking route uses the footbridge over the stream, not the cycle lane. I will bring my booking message. I understand that the new alphabetical name list is planned and has not yet been tested."
+      }
+    }
+  ]
+}

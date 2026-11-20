@@ -1,0 +1,917 @@
+{
+  "number": 16,
+  "title": "Experiences and recent actions",
+  "lessons": [
+    {
+      "day": 121,
+      "unit": 16,
+      "title": "Ask about an experience before asking when",
+      "goal": "I can ask about an experience and then use a past-time question for the details.",
+      "newItems": [
+        {
+          "word": "abroad",
+          "ipa": "/əˈbrɔd/",
+          "pos": "adverb",
+          "definition": "In or to a country other than the one being discussed as home.",
+          "example": "She has studied abroad.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "on holiday",
+          "ipa": "/ɑn ˈhɑləˌdeɪ/",
+          "pos": "fixed phrase",
+          "definition": "Away from regular work or study for a period of rest or travel; commonly on vacation in American English.",
+          "example": "He was on holiday last week.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "once or twice",
+          "ipa": "/wʌns ɔr twaɪs/",
+          "pos": "fixed phrase",
+          "definition": "One or two times, without giving a more exact number.",
+          "example": "I have visited that town once or twice.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "come back from",
+          "ipa": "/kʌm bæk frəm/",
+          "pos": "fixed phrase",
+          "definition": "To return after being in a place or taking part in an activity.",
+          "example": "She has just come back from a trip.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "in your life",
+          "ipa": "/ɪn jʊr laɪf/",
+          "pos": "fixed phrase",
+          "definition": "At any time during the period you have been alive.",
+          "example": "Have you lived abroad at any time in your life?",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "trip",
+        "country",
+        "visit",
+        "home",
+        "travel"
+      ],
+      "mainWord": {
+        "word": "abroad",
+        "ipa": "/əˈbrɔd/",
+        "pos": "adverb",
+        "definition": "In or to a country other than the one being discussed as home.",
+        "example": "She has studied abroad.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Abroad is an adverb: go abroad, live abroad, not go to abroad. Come back changes to came back in the past; come is also the past participle. On holiday is common British English; on vacation is common American English.",
+      "wordTask": "Complete the idea: studying in another country is studying ___.",
+      "wordSample": "Studying in another country is studying abroad.",
+      "expression": "Have you ever lived in another country?",
+      "use": "Ask about an experience at any time up to now. If the answer is yes, ask a past-time question for the details.",
+      "context": [
+        "Have you ever lived in another country?",
+        "Yes. I lived in Canada for a year when I was a student."
+      ],
+      "expressionTask": "Ask about living in another country or visiting another town. If your partner says yes, ask when. Invented examples are welcome.",
+      "grammar": "Present perfect for experience, past simple for a finished time",
+      "pattern": "Have you ever + past participle? Then: When did you + base verb?",
+      "example": "When did you visit Canada?",
+      "task": "When ___ you visit Canada?",
+      "answer": "did",
+      "sound": "Abroad has stress on BROAD. Its final sound is voiced D. In once or twice, connect the words gently while keeping the two number words clear.",
+      "model": "Have you ever lived abroad?",
+      "dialogue": [
+        "You have just come back from a trip. Were you on holiday?",
+        "Yes. I visited a town near the sea.",
+        "Have you ever lived in another country?",
+        "Yes. I lived in Canada for a year when I was a student.",
+        "Have you been back since then?",
+        "Once or twice. But a local trip can also give you a new experience; you do not have to travel abroad."
+      ],
+      "reading": "Bella has just come back from a short local trip. Fenrir asks if she was on holiday and then asks about living abroad. Bella lived in Canada for one year as a student and has visited again once or twice. She separates the experience question from the details: “Have you ever lived in another country?” asks about any time in your life, while “When did you live there?” asks for a finished period. Fenrir has not lived abroad, so they also talk about new experiences near home.",
+      "readingQ": "Why does Fenrir ask a past-time question after the experience question?",
+      "readingA": "To learn when the experience happened, after finding out that it happened.",
+      "writing": "Write a 45–65-word exchange about a real or invented experience. Include an experience question, a reply and a question about a finished time.",
+      "writingSample": "Have you ever lived in another country? Yes, I lived in Canada for one year as a student. When did you go there? I went in 2019 and returned the following year. I have visited again once or twice, but my most recent trip was to a town near home.",
+      "listening": "I have been to Canada once or twice, but I have never lived there. My sister lived there for a year in 2019. We have both just come back from a local holiday near the sea.",
+      "question": "Who lived in Canada for a year?",
+      "correct": "The speaker’s sister",
+      "other": "The speaker",
+      "speaking": "Ask and answer an experience question, then ask when it happened. Use a local experience if you prefer and do not assume that everyone has traveled abroad.",
+      "speakingSample": "Have you ever visited another town on your own? Yes, I have. When did you go? I went last spring to visit a friend. I stayed for two days. I have not lived abroad, but that short trip gave me a chance to try something new."
+    },
+    {
+      "day": 122,
+      "unit": 16,
+      "title": "Compare places you have visited",
+      "goal": "I can distinguish two kinds of visitor attraction and connect a general experience with a specific past visit.",
+      "newItems": [
+        {
+          "word": "castle",
+          "ipa": "/ˈkæsəl/",
+          "pos": "noun",
+          "definition": "A large strong building built in the past to protect people from attack, often also a home.",
+          "example": "The old castle stands above the town.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "palace",
+          "ipa": "/ˈpæləs/",
+          "pos": "noun",
+          "definition": "A large impressive building used as the home of a ruler or other important person.",
+          "example": "The palace has many rooms and a large garden.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "go sightseeing",
+          "ipa": "/ɡoʊ ˈsaɪtˌsiːɪŋ/",
+          "pos": "fixed phrase",
+          "definition": "To visit interesting places, especially as a visitor to an area.",
+          "example": "We went sightseeing in the old town.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "see for yourself",
+          "ipa": "/siː fər jʊrˈsɛlf/",
+          "pos": "fixed phrase",
+          "definition": "To look at something directly rather than rely only on what other people say.",
+          "example": "You can see for yourself how large the room is.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "take a boat trip",
+          "ipa": "/teɪk ə boʊt trɪp/",
+          "pos": "fixed phrase",
+          "definition": "To travel on a boat for a short visit or enjoyable journey.",
+          "example": "They took a boat trip along the river.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "town",
+        "trip",
+        "building",
+        "room",
+        "visit"
+      ],
+      "mainWord": {
+        "word": "castle",
+        "ipa": "/ˈkæsəl/",
+        "pos": "noun",
+        "definition": "A large strong building built in the past to protect people from attack, often also a home.",
+        "example": "The old castle stands above the town.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Castle and palace are countable nouns: castles, palaces. In castle, the written T is silent. Sightseeing is uncountable in go sightseeing. A building’s purpose and history matter; do not identify it only by its size.",
+      "wordTask": "Which word usually names a strong building originally used for protection: castle or palace?",
+      "wordSample": "A castle was built for protection, though it could also be a home.",
+      "expression": "What was it like when you went?",
+      "use": "Ask for a description of someone’s actual visit after learning that they have been there.",
+      "context": [
+        "What was it like when you went?",
+        "The rooms were quiet, but the entrance was busy."
+      ],
+      "expressionTask": "Ask someone to describe a place they have visited. Follow up about one specific part instead of only asking whether it was good.",
+      "grammar": "Been to for a visit that is finished",
+      "pattern": "have or has + been to + place",
+      "example": "I have been to the palace, but I have not visited the castle.",
+      "task": "I have ___ to the palace, but I have not visited the castle.",
+      "answer": "been",
+      "sound": "The T in castle is silent: say KAS-uhl. Palace has stress on PAL. Keep the words distinct instead of guessing from their similar endings.",
+      "model": "I have been to the palace, but not the castle.",
+      "dialogue": [
+        "Have you been to either of the old buildings beside the river?",
+        "I visited the palace last year, but I have not visited the castle.",
+        "What was it like when you went?",
+        "The rooms were quiet, but the entrance was busy.",
+        "I want to go sightseeing there. Should I take a boat trip too?",
+        "You can if it suits your time. First check the opening hours so you can see for yourself what interests you."
+      ],
+      "reading": "Fenrir has visited the palace beside the river, but not the castle on the hill. He explains that the two names describe different kinds of building, not simply two sizes. Bella plans to go sightseeing and asks about his visit. Fenrir describes the palace rooms and the busy entrance. He does not promise that her visit will be identical. She may take a boat trip later if there is time. He suggests checking the current opening hours and visiting to see for yourself rather than depending on one person’s old experience.",
+      "readingQ": "Why should Bella check current information as well as listen to Fenrir’s experience?",
+      "readingA": "His visit was earlier, and opening times or conditions may be different now.",
+      "writing": "Write 45–65 words comparing a place you have visited with one you have not visited. Include a specific past detail and one thing to check before a new visit.",
+      "writingSample": "I have visited the palace by the river, but I have not been to the castle on the hill. I went to the palace last year. Its rooms were quiet, although the entrance was busy. Before visiting again, I would check the opening times instead of assuming they are the same.",
+      "listening": "We visited the palace on Tuesday and took a boat trip on Wednesday. The castle was closed during our visit, so we only saw it from outside. We hope to go inside on another trip.",
+      "question": "Which building did the visitors go inside?",
+      "correct": "The palace",
+      "other": "The castle",
+      "speaking": "Describe one place you have visited and one you have not. Your partner asks for a detail from the finished visit and one practical question about a future visit.",
+      "speakingSample": "I have been inside the palace, but I have only seen the castle from outside. I visited the palace last year and liked the quiet rooms. Before a new visit, I would check which parts are open. What would you want to see there?"
+    },
+    {
+      "day": 123,
+      "unit": 16,
+      "title": "Describe an outdoor experience without guessing",
+      "goal": "I can say what I have tried, describe a specific event and separate experience from current practical information.",
+      "newItems": [
+        {
+          "word": "island",
+          "ipa": "/ˈaɪlənd/",
+          "pos": "noun",
+          "definition": "An area of land with water all around it.",
+          "example": "The island is a short boat journey from the town.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "cave",
+          "ipa": "/keɪv/",
+          "pos": "noun",
+          "definition": "A large natural opening or space inside rock or under the ground.",
+          "example": "Visitors entered the cave with a guide.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "mountain",
+          "ipa": "/ˈmaʊntən/",
+          "pos": "noun",
+          "definition": "A very high area of land, usually higher and steeper than a hill.",
+          "example": "The mountain is visible from the village.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "go camping",
+          "ipa": "/ɡoʊ ˈkæmpɪŋ/",
+          "pos": "fixed phrase",
+          "definition": "To stay in a tent or similar temporary shelter away from home as an activity.",
+          "example": "They went camping near the lake.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "go climbing",
+          "ipa": "/ɡoʊ ˈklaɪmɪŋ/",
+          "pos": "fixed phrase",
+          "definition": "To do the activity of climbing rocks or other steep surfaces.",
+          "example": "She has been climbing at an indoor center.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "water",
+        "boat",
+        "road",
+        "guide",
+        "trip"
+      ],
+      "mainWord": {
+        "word": "island",
+        "ipa": "/ˈaɪlənd/",
+        "pos": "noun",
+        "definition": "An area of land with water all around it.",
+        "example": "The island is a short boat journey from the town.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Island, cave and mountain are countable nouns. The S in island is silent. Go camping and go climbing name activities; having done an activity before does not by itself establish current conditions or suitable arrangements.",
+      "wordTask": "Which word means land with water all around it?",
+      "wordSample": "An island has water all around it.",
+      "expression": "I have tried it, but only with a guide.",
+      "use": "Describe the limits of an experience instead of suggesting you can do every version of an activity.",
+      "context": [
+        "I have tried it, but only with a guide.",
+        "Then let us ask what support this visit includes."
+      ],
+      "expressionTask": "Explain one limit of a real or invented experience. Ask the organizer for practical information rather than treating an old experience as a complete answer.",
+      "grammar": "Only limits the part of an experience being described",
+      "pattern": "have + past participle + but only + limited situation",
+      "example": "I have visited a cave, but only with a guide.",
+      "task": "I have visited a cave, but ___ with a guide.",
+      "answer": "only",
+      "sound": "Island begins with the sound in eye, and its S is silent. Mountain has stress on MOUN. In cave, the final V is voiced; do not replace it with F.",
+      "model": "The island has a mountain and a cave.",
+      "dialogue": [
+        "Have you ever stayed on an island?",
+        "Yes. I went camping there with my family last year.",
+        "Did you go climbing on the mountain?",
+        "No. We followed a visitor path near the village. I have tried indoor climbing, but that is different.",
+        "What about the cave on this trip?",
+        "I have tried it, but only with a guide. Let us check what support this visit includes."
+      ],
+      "reading": "Bella once stayed on an island with her family. They wanted to go camping near the village. They could see a mountain, but they did not go climbing on it. Bella has tried indoor climbing and knows that it does not describe every outdoor situation. On a later visit, she entered a cave with a guide. When Fenrir asks about a new trip, she explains exactly what she has done. They read the current organizer’s information instead of assuming that an earlier visit answers every practical question.",
+      "readingQ": "Why does Bella describe her experience precisely?",
+      "readingA": "Indoor climbing and a guided cave visit do not establish experience of every outdoor activity.",
+      "writing": "Write 45–65 words about an outdoor experience. State what happened, one limit of the experience and a question to ask before a different visit.",
+      "writingSample": "I went camping on an island last year. We stayed near the village and walked on a visitor path. I have tried indoor climbing, but I have not climbed the mountain there. Before a different trip, I would ask the organizer which activities and support are included rather than assume they are the same.",
+      "listening": "On our island trip, we stayed at a campsite near the village. We saw the mountain from the path but did not climb it. The guided cave visit was canceled, so we did not enter the cave either.",
+      "question": "Which activity did the visitors actually do?",
+      "correct": "Camping near the village",
+      "other": "Entering the cave with a guide",
+      "speaking": "Explain a real or invented outdoor experience using one clear example and one limit. Ask one question about a different trip without giving unsupported advice.",
+      "speakingSample": "I went camping near a village on an island. We walked on a visitor path, but we did not climb the mountain or enter the cave. For a different trip, I would ask which activities are included and what help the organizer provides. I would not assume our old visit covered everything.",
+      "photo": {
+        "id": "9113124",
+        "asset": "assets/a2-photos/9113124.jpg",
+        "sourceURL": "https://www.pexels.com/photo/island-surrounded-with-water-9113124/",
+        "credit": "Blaž Gostinčar · Pexels",
+        "licenseURL": "https://www.pexels.com/license/",
+        "caption": "An island surrounded by water.",
+        "alt": "An aerial view shows water around the entire edge of a green island.",
+        "fit": "cover",
+        "focalY": 0.5,
+        "dimensions": [
+          1400,
+          1086
+        ]
+      }
+    },
+    {
+      "day": 124,
+      "unit": 16,
+      "title": "Talk about different kinds of live show",
+      "goal": "I can distinguish familiar kinds of performance and describe what I have and have not seen.",
+      "newItems": [
+        {
+          "word": "circus",
+          "ipa": "/ˈsɝkəs/",
+          "pos": "noun",
+          "definition": "A show with performers doing physical skills, comedy and other acts, often in a ring or large tent.",
+          "example": "The circus had a team doing difficult jumps.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "opera",
+          "ipa": "/ˈɑpərə/",
+          "pos": "noun",
+          "definition": "A type of stage work in which trained singers tell a story through music.",
+          "example": "She heard the singers at an opera.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "musical",
+          "ipa": "/ˈmjuːzɪkəl/",
+          "pos": "noun",
+          "definition": "A play or film that tells a story using songs as well as spoken scenes.",
+          "example": "The musical included songs and spoken conversations.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "go to the opera",
+          "ipa": "/ɡoʊ tə ði ˈɑpərə/",
+          "pos": "fixed phrase",
+          "definition": "To attend an opera performance.",
+          "example": "They plan to go to the opera together.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "see a musical",
+          "ipa": "/siː ə ˈmjuːzɪkəl/",
+          "pos": "fixed phrase",
+          "definition": "To watch a musical performance or film.",
+          "example": "We went to see a musical last month.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "show",
+        "song",
+        "music",
+        "theater",
+        "story"
+      ],
+      "mainWord": {
+        "word": "circus",
+        "ipa": "/ˈsɝkəs/",
+        "pos": "noun",
+        "definition": "A show with performers doing physical skills, comedy and other acts, often in a ring or large tent.",
+        "example": "The circus had a team doing difficult jumps.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Musical is a noun here: a musical, two musicals. It can also be an adjective in musical instruments; that is a different use. Opera can name a type of work or a particular work. The difference from a musical is not simply whether there are songs.",
+      "wordTask": "Which kind of show commonly combines songs with spoken scenes: a musical or a circus?",
+      "wordSample": "A musical commonly combines songs with spoken scenes.",
+      "expression": "I have seen one, but not live.",
+      "use": "Distinguish watching a film or recording from attending a performance in person.",
+      "context": [
+        "I have seen one, but not live.",
+        "Was it a film or a recording of a stage show?"
+      ],
+      "expressionTask": "Explain whether you saw a recording, a film or an in-person performance. Ask your partner the same detail.",
+      "grammar": "One replaces a previously named countable item",
+      "pattern": "a musical → one; two musicals → two",
+      "example": "I have seen a musical, but I have not seen one live.",
+      "task": "I have seen a musical, but I have not seen ___ live.",
+      "answer": "one",
+      "sound": "Circus has stress on CIR. Opera begins with a stressed vowel. Musical starts with MYOO; keep the first two sounds connected.",
+      "model": "I have seen a circus show and a musical, but not live.",
+      "dialogue": [
+        "Have you ever been to a circus?",
+        "Yes. I remember a team doing difficult jumps together. Have you been to the opera?",
+        "Not yet. I have seen a musical, but not live.",
+        "Was it a film or a recording of a stage show?",
+        "A film. I would like to see a musical at the theater next.",
+        "Then check the description before buying. Some listings are for films rather than live shows."
+      ],
+      "reading": "Bella and Fenrir compare shows they have experienced. Fenrir remembers a circus where performers worked together on difficult jumps. Bella has watched a musical film with songs and spoken scenes. She has not seen one live. Neither friend has chosen to go to the opera yet, although they are interested in hearing its singers. They do not assume that all shows with songs are the same. Before they see a musical at the theater, they read whether the listing describes a live performance, a film or a recording.",
+      "readingQ": "Why do the friends read the event listing carefully?",
+      "readingA": "To find out whether it is live, a film or a recording.",
+      "writing": "Write 45–65 words comparing two types of show. Distinguish what you have experienced from what you would like to try, and say whether it was live.",
+      "writingSample": "I have watched a musical film with songs and spoken scenes, but I have not seen one live. My friend has been to a circus and remembers the team performances. We are considering a theater visit. Before choosing, we will check whether the listing is for a live show or a recording.",
+      "listening": "The Saturday listing is for a film of a musical. The live stage performance is on Sunday. Tickets for the film are ten dollars; tickets for Sunday’s live show cost more. I want to attend the live performance this time.",
+      "question": "Which day has the live stage performance?",
+      "correct": "Sunday",
+      "other": "Saturday",
+      "speaking": "Compare an experience of a show with one you have not tried. Include whether it was live, filmed or recorded and ask a follow-up question.",
+      "speakingSample": "I have seen a musical film, but I have not watched one live. My friend has been to a circus and liked the team performances. I would like to try a theater visit next. Have you seen a live show, or was your experience a film or recording?"
+    },
+    {
+      "day": 125,
+      "unit": 16,
+      "title": "Find a shared interest through experience questions",
+      "goal": "I can ask about a new activity, find a shared interest and ask one useful follow-up.",
+      "newItems": [
+        {
+          "word": "go sailing",
+          "ipa": "/ɡoʊ ˈseɪlɪŋ/",
+          "pos": "fixed phrase",
+          "definition": "To do the activity of traveling in a boat moved by the wind.",
+          "example": "We went sailing with a club last summer.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "ride a horse",
+          "ipa": "/raɪd ə hɔrs/",
+          "pos": "fixed phrase",
+          "definition": "To sit on and control a horse as it moves.",
+          "example": "She rode a horse during a lesson.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "try something out",
+          "ipa": "/traɪ ˈsʌmθɪŋ aʊt/",
+          "pos": "fixed phrase",
+          "definition": "To use or do something to discover how it works or whether you like it.",
+          "example": "I tried the activity out before joining the club.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "make new friends",
+          "ipa": "/meɪk nuː frɛndz/",
+          "pos": "fixed phrase",
+          "definition": "To develop friendly relationships with people you did not know before.",
+          "example": "The group helped him make new friends.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "have something in common",
+          "ipa": "/hæv ˈsʌmθɪŋ ɪn ˈkɑmən/",
+          "pos": "fixed phrase",
+          "definition": "To share an interest, experience or characteristic.",
+          "example": "We have something in common: we both enjoy being on the water.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "friend",
+        "group",
+        "water",
+        "trip",
+        "show"
+      ],
+      "mainWord": {
+        "word": "go sailing",
+        "ipa": "/ɡoʊ ˈseɪlɪŋ/",
+        "pos": "fixed phrase",
+        "definition": "To do the activity of traveling in a boat moved by the wind.",
+        "example": "We went sailing with a club last summer.",
+        "category": "fixed_phrase",
+        "status": "new"
+      },
+      "mainWordForms": "Go sailing changes to went sailing. Ride changes to rode and ridden. In try something out, the object can go between the verb and out: try it out. Changing something to it does not create another new expression.",
+      "wordTask": "Which activity uses a boat moved by the wind?",
+      "wordSample": "Go sailing means take part in sailing in a boat moved by the wind.",
+      "expression": "What did you enjoy most?",
+      "use": "Ask for a specific part of an experience instead of stopping after a yes or no.",
+      "context": [
+        "What did you enjoy most?",
+        "Working with the other people in the boat."
+      ],
+      "expressionTask": "Ask about an activity, then ask what the person enjoyed most. Mention a shared interest if you find one.",
+      "grammar": "Ridden as the past participle of ride",
+      "pattern": "have or has + ridden; past simple: rode",
+      "example": "I have ridden a horse once, but I have never been sailing.",
+      "task": "I have ___ a horse once, but I have never been sailing.",
+      "answer": "ridden",
+      "sound": "Sailing has stress on SAIL and a quiet final syllable. Ridden has a short I sound, like the vowel in sit. Do not use the longer sound in ride for ridden.",
+      "model": "Have you ever been sailing?",
+      "pronunciationTarget": {
+        "word": "sailing",
+        "ipa": "/ˈseɪlɪŋ/"
+      },
+      "dialogue": [
+        "Have you ever been sailing?",
+        "Yes. I tried it out with a club last summer.",
+        "What did you enjoy most?",
+        "Working with the other people in the boat. Have you tried it?",
+        "No, but I have ridden a horse. I liked learning with other beginners.",
+        "Then we have something in common. Joining a group can also help us make new friends."
+      ],
+      "reading": "Bella and Fenrir ask each other about activities. Fenrir once decided to go sailing with a club. Bella has learned to ride a horse in a beginner lesson. Their aim is not to compare who has done more. When they try something out, they enjoy learning with other people. They discover that they have something in common, even though the activities are different. Each experience also helped them make new friends. Asking what they enjoyed most leads to a more interesting conversation than a list of yes-or-no answers.",
+      "readingQ": "What do the friends discover they share?",
+      "readingA": "They both enjoy learning an activity with other people.",
+      "writing": "Write a 45–65-word exchange about two different activities. Include a follow-up question and one interest the people share.",
+      "writingSample": "Have you ever been sailing? Yes, I tried it with a club. What did you enjoy most? I liked learning with the other people in the boat. I have not been sailing, but I enjoyed my first horse-riding lesson for the same reason. We both like learning in a group.",
+      "listening": "I tried sailing with a club last summer. At first, I thought the best part would be moving quickly over the water. In fact, what I enjoyed most was working with the other beginners. We kept talking after the lesson and met again the next week.",
+      "question": "What did the speaker enjoy most?",
+      "correct": "Working with the other beginners",
+      "other": "Moving quickly over the water",
+      "speaking": "Ask a partner about an activity and what they enjoyed most. Say one interest you share, even if you have not done the same activity.",
+      "speakingSample": "I have not tried sailing, but I have taken a beginner riding lesson. I enjoyed learning with other people and asking each other questions. You liked working with the group in the boat, so we have that interest in common. What else did you enjoy about the lesson?",
+      "mainIntroduction": "Learn a useful expression and use it yourself."
+    },
+    {
+      "day": 126,
+      "unit": 16,
+      "title": "Describe the feeling and what caused it",
+      "goal": "I can distinguish a person’s feeling from an activity’s effect and give a concrete reason.",
+      "newItems": [
+        {
+          "word": "amazed",
+          "ipa": "/əˈmeɪzd/",
+          "pos": "adjective",
+          "definition": "Very surprised by something, often in a way that makes you admire it.",
+          "example": "I was amazed by the size of the room.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "frightened",
+          "ipa": "/ˈfraɪtənd/",
+          "pos": "adjective",
+          "definition": "Feeling afraid.",
+          "example": "She felt frightened when the lights suddenly went out.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "surprised",
+          "ipa": "/sərˈpraɪzd/",
+          "pos": "adjective",
+          "definition": "Feeling that something was unexpected.",
+          "example": "He was surprised to meet an old friend at the show.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "lonely",
+          "ipa": "/ˈloʊnli/",
+          "pos": "adjective",
+          "definition": "Unhappy because you want the company of other people.",
+          "example": "He felt lonely during his first week away.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "tiring",
+          "ipa": "/ˈtaɪrɪŋ/",
+          "pos": "adjective",
+          "definition": "Making someone feel that they need rest.",
+          "example": "The long walk was tiring.",
+          "category": "new_word",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "show",
+        "story",
+        "work",
+        "group",
+        "friend"
+      ],
+      "mainWord": {
+        "word": "amazed",
+        "ipa": "/əˈmeɪzd/",
+        "pos": "adjective",
+        "definition": "Very surprised by something, often in a way that makes you admire it.",
+        "example": "I was amazed by the size of the room.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "These targets are adjective uses. Tiring describes an activity’s effect; tired describes the person’s feeling. Lonely is not the same as alone: someone can be alone and happy, or feel lonely in a crowd. Different feelings can occur in the same experience.",
+      "wordTask": "Which word describes being very surprised and impressed by what you see?",
+      "wordSample": "Amazed describes being very surprised and impressed.",
+      "expression": "I felt that way because the room was so large.",
+      "use": "Explain a feeling with an observable reason rather than only naming an emotion.",
+      "context": [
+        "Why were you amazed?",
+        "I felt that way because the room was so large."
+      ],
+      "expressionTask": "Describe a feeling from a real or invented experience. Give one specific reason and let your partner ask a follow-up.",
+      "grammar": "Tiring describes a cause; tired describes a feeling",
+      "pattern": "activity + was tiring; person + was tired",
+      "example": "The walk was tiring, so I was tired afterwards.",
+      "task": "The walk was ___, so I was tired afterwards.",
+      "answer": "tiring",
+      "sound": "Amazed has stress on MAZED. Keep the voiced Z and D at the end together without adding a vowel. Lonely has stress on LONE and a quiet final syllable.",
+      "model": "I was amazed by the size of the room.",
+      "dialogue": [
+        "How did you feel during the theater visit?",
+        "I was amazed when we entered the main room.",
+        "What impressed you?",
+        "Its size. I was also surprised to meet an old friend there.",
+        "And was the journey tiring?",
+        "Yes. I needed a rest when I got home, but I enjoyed the evening."
+      ],
+      "reading": "After a theater visit, Fenrir describes several parts of the evening. He was amazed by the size of the main room and surprised to meet an old friend. During a scene, the sudden darkness made him feel frightened for a moment. He was not lonely while he waited for the bus because he was happy reading by himself. The journey home was tiring, so he rested afterwards. Bella notices that one experience can cause several feelings. The reason matters as much as the adjective.",
+      "readingQ": "Why does waiting alone not necessarily mean Fenrir felt lonely?",
+      "readingA": "He was happy reading by himself and did not want company then.",
+      "writing": "Write 45–65 words about one experience with two different feelings. Give a reason for each, and use tiring or tired accurately.",
+      "writingSample": "At the theater, I was amazed by the size of the main room. I was also surprised to meet an old friend, because I did not know she was coming. The journey home was tiring, so I needed a rest afterwards. Those feelings describe different parts of the same evening.",
+      "listening": "I waited alone for twenty minutes, but I enjoyed reading my book. I did not feel lonely. I was surprised when my old neighbor arrived, because we did not arrange to meet. The long bus journey afterwards was tiring.",
+      "question": "What surprised the speaker?",
+      "correct": "Meeting the old neighbor unexpectedly",
+      "other": "Having to wait alone with a book",
+      "speaking": "Describe one event using two feelings and two reasons. Your partner should check which part of the experience caused each feeling.",
+      "speakingSample": "I was amazed by the theater because the main room was much larger than I expected. I was also surprised to meet an old friend there. The journey home was tiring, so I rested afterwards. I did not have just one feeling about the whole evening."
+    },
+    {
+      "day": 127,
+      "unit": 16,
+      "title": "Separate a recent event from a first experience",
+      "goal": "I can distinguish a first experience from a previous visit and connect each with an appropriate time expression.",
+      "newItems": [
+        {
+          "word": "not long ago",
+          "ipa": "/nɑt lɔŋ əˈɡoʊ/",
+          "pos": "fixed phrase",
+          "definition": "A short time before now.",
+          "example": "I visited the club not long ago.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "at least once",
+          "ipa": "/æt liːst wʌns/",
+          "pos": "fixed phrase",
+          "definition": "One time or more; the number is not less than one.",
+          "example": "She has visited the town at least once.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "the last time",
+          "ipa": "/ðə læst taɪm/",
+          "pos": "fixed phrase",
+          "definition": "The most recent occasion before the one being discussed.",
+          "example": "The last time I went was in May.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "this is the first time",
+          "ipa": "/ðɪs ɪz ðə fɝst taɪm/",
+          "pos": "fixed phrase",
+          "definition": "This occasion has not happened before for the person being discussed.",
+          "example": "This is the first time I have visited this club.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "at last",
+          "ipa": "/æt læst/",
+          "pos": "fixed phrase",
+          "definition": "Finally, after waiting for or wanting something for some time.",
+          "example": "At last, we have found a day when everyone is free.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "visit",
+        "time",
+        "day",
+        "club",
+        "month"
+      ],
+      "mainWord": {
+        "word": "not long ago",
+        "ipa": "/nɑt lɔŋ əˈɡoʊ/",
+        "pos": "fixed phrase",
+        "definition": "A short time before now.",
+        "example": "I visited the club not long ago.",
+        "category": "fixed_phrase",
+        "status": "new"
+      },
+      "mainWordForms": "The last time names the most recent earlier occasion; at last expresses the end of a wait. After this is the first time, a common pattern is have or has plus a past participle. At least once does not tell you the exact number.",
+      "wordTask": "Which expression means a short time before now?",
+      "wordSample": "Not long ago means a short time before now.",
+      "expression": "When was the last time you went?",
+      "use": "Ask for the most recent visit when you already know the person has visited before.",
+      "context": [
+        "When was the last time you went?",
+        "In May. This is my second visit."
+      ],
+      "expressionTask": "Ask about an earlier visit, then check whether today is a first or repeated experience.",
+      "grammar": "Present perfect after this is the first time",
+      "pattern": "This is the first time + subject + have or has + past participle",
+      "example": "This is the first time I have visited this club.",
+      "task": "This is the first time I ___ visited this club.",
+      "answer": "have",
+      "sound": "In first time, keep the meaning clear without adding an extra vowel after first. At last has final ST; do not change it to the last time when you mean finally.",
+      "model": "This is the first time I have visited this club.",
+      "dialogue": [
+        "At last, we have found a day when we can both come. Have you visited before?",
+        "Yes, not long ago. I have been here at least once before today.",
+        "When was the last time you went?",
+        "In May. This is my second visit. What about you?",
+        "This is the first time I have visited this club.",
+        "Then I can show you the entrance, and we can ask the desk what has changed."
+      ],
+      "reading": "Bella and Fenrir finally find a day when both can visit a club. “At last,” Bella says, because they waited several weeks for a shared free day. Fenrir visited not long ago. When Bella asks about the last time, he says it was in May. His note says “at least once” before today, which means one or more visits rather than an exact total. For Bella, this is the first time she has visited. She uses an experience statement, while Fenrir can also give a finished past date.",
+      "readingQ": "Does at least once tell Bella the exact number of Fenrir’s previous visits?",
+      "readingA": "No. It means one or more, not an exact total.",
+      "writing": "Write a 45–65-word exchange between a first-time visitor and someone who has visited before. Include one experience statement and one question with a past time.",
+      "writingSample": "This is the first time I have visited this club. Have you been here before? Yes, I came not long ago. When was the last time you went? I visited in May. Let us ask the desk which rooms are open today, because some information may have changed since my visit.",
+      "listening": "This is my first visit, but my sister has been here before. The last time she came was in March. We wanted to visit together in May, but I was busy. At last, we have both found a free day in June.",
+      "question": "When did the sister last visit before today?",
+      "correct": "March",
+      "other": "May",
+      "speaking": "Take the role of a first-time or returning visitor. Your partner asks whether you have visited and, if so, when. Give a consistent reply.",
+      "speakingSample": "This is the first time I have visited the club, but my sister has been here before. She last came in March. We wanted to come together in May but could not find a shared free day. Now we can ask her what she remembers and check today’s information.",
+      "mainIntroduction": "Learn a useful expression and use it yourself.",
+      "pronunciationTarget": {
+        "word": "first time",
+        "ipa": "/fɝst taɪm/"
+      }
+    },
+    {
+      "day": 128,
+      "unit": 16,
+      "title": "Compare an experience with information you have read",
+      "goal": "I can distinguish firsthand experience from another source, compare details and retell only what is supported.",
+      "newItems": [
+        {
+          "word": "aquarium",
+          "ipa": "/əˈkwɛriəm/",
+          "pos": "noun",
+          "definition": "A building where fish and other animals that live in water are kept for people to see.",
+          "example": "The aquarium has a large tank near the entrance.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "desert",
+          "ipa": "/ˈdɛzɚt/",
+          "pos": "noun",
+          "definition": "A large area that receives very little rain; it is not always hot or covered only in sand.",
+          "example": "The guide described a dry desert region.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "sand",
+          "ipa": "/sænd/",
+          "pos": "noun",
+          "definition": "Very small loose pieces of rock or similar material, often found on beaches.",
+          "example": "There was sand beside the water.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "find out about",
+          "ipa": "/faɪnd aʊt əˈbaʊt/",
+          "pos": "fixed phrase",
+          "definition": "To get information about something.",
+          "example": "We read the guide to find out about the region.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "compare notes",
+          "ipa": "/kəmˈpɛr noʊts/",
+          "pos": "fixed phrase",
+          "definition": "To share and compare information or experiences collected separately.",
+          "example": "The two visitors compare notes after the trip.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "trip",
+        "visit",
+        "water",
+        "picture",
+        "book"
+      ],
+      "mainWord": {
+        "word": "aquarium",
+        "ipa": "/əˈkwɛriəm/",
+        "pos": "noun",
+        "definition": "A building where fish and other animals that live in water are kept for people to see.",
+        "example": "The aquarium has a large tank near the entrance.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Aquarium is countable: aquariums, also aquaria. Desert as a noun has stress on DES; dessert, the sweet part of a meal, has stress on SERT. Sand is normally uncountable here: some sand, not a sand.",
+      "wordTask": "Which place keeps fish and other water-living creatures for visitors to see?",
+      "wordSample": "An aquarium keeps fish and other creatures that live in water for visitors to see.",
+      "expression": "Did you see that yourself, or read about it?",
+      "use": "Check whether information comes from a person’s visit or another source. Both can be useful when the source is clear.",
+      "context": [
+        "Did you see that yourself, or read about it?",
+        "I read about it in a guide. I have not visited that region."
+      ],
+      "expressionTask": "Describe one detail from your experience and one from a book or guide. Your partner checks the source of each detail.",
+      "grammar": "Have not for an experience that has not happened",
+      "pattern": "have or has not + past participle",
+      "example": "I have not visited the desert region.",
+      "task": "I have ___ visited the desert region.",
+      "answer": "not",
+      "sound": "Desert, the dry region, has stress on the first syllable: DES-ert. Dessert has stress on the second syllable. Aquarium has its strongest syllable on QUAR.",
+      "model": "I have visited the aquarium, but not the desert region.",
+      "pronunciationTarget": {
+        "word": "desert",
+        "ipa": "/ˈdɛzɚt/"
+      },
+      "dialogue": [
+        "I visited the aquarium last weekend. Its entrance display had sand and pictures of a desert.",
+        "Did you see that desert yourself, or read about it?",
+        "I read the guide. I have not visited that region.",
+        "What did you find out about it?",
+        "That it receives very little rain. I should not assume it is always hot from one photograph.",
+        "Let us compare notes. I read another page about the same region."
+      ],
+      "reading": "Bella has visited the town aquarium but has not traveled to the desert region shown in its entrance display. The display includes sand, photographs and a guide. She reads to find out about the region and learns that a desert receives very little rain and is not always hot. Fenrir reads a second page, and the friends compare notes. They separate what Bella saw at the aquarium from facts in the guide. That makes their account clearer than saying she has visited every place shown in the photographs.",
+      "readingQ": "Why would it be incorrect to say Bella has visited the desert region?",
+      "readingA": "She saw a display and read about the region, but has not traveled there.",
+      "writing": "Write 45–65 words separating a real or invented visit from information learned in a display. Name which details come from each source.",
+      "writingSample": "I visited the town aquarium last weekend. At the entrance, I saw sand and photographs from a desert region. I have not visited that region myself. I read its description in the display guide. My account should separate the aquarium visit from information I learned by reading.",
+      "listening": "I have visited the aquarium twice. I saw photographs of a desert there, but I have not traveled to that desert. My cousin has visited the desert region and showed me her own pictures. We compared our information afterwards.",
+      "question": "Who has actually visited the desert region?",
+      "correct": "The speaker’s cousin",
+      "other": "The speaker",
+      "speaking": "Compare two sources: something seen during a visit and something read about elsewhere. Your partner asks whether you experienced each detail yourself.",
+      "speakingSample": "I have visited the aquarium, but I have not traveled to the desert in its display. I saw sand and photographs at the entrance and read the guide there. My cousin visited the desert itself. We can compare our information, but I should not describe her trip as my experience.",
+      "transferCheck": {
+        "source": "Try a new situation. Mira has watched a musical film but has not seen a live musical. Jo visited a castle in May and has taken a boat trip once. Neither has tried sailing. They want an activity they can learn in a group. Listen to the dictation, then use only these notes for the tasks.",
+        "dictation": "Jo visited the castle in May.",
+        "tasks": [
+          [
+            "1 · Experiences",
+            "Name one thing Mira has done and one she has not done. Do not treat a film as a live theater visit."
+          ],
+          [
+            "2 · Past details",
+            "Ask when Jo visited the castle, then answer. Ask whether Jo has taken a boat trip and give the number stated."
+          ],
+          [
+            "3 · A useful follow-up",
+            "Ask a question that would help the friends compare a group sailing activity with another activity. Identify which detail is still unknown."
+          ],
+          [
+            "4 · Retell and interact",
+            "Retell the two friends’ experiences in different words. Your partner asks one experience question and one past-time question."
+          ],
+          [
+            "5 · Write and retrieve",
+            "Write a 40–60-word account from the notes. Include a possible next step without claiming that either friend has already tried sailing. Recall two useful expressions from this unit before checking the model."
+          ]
+        ],
+        "answer": "1: Mira has watched a musical film, but she has not seen a live musical.\n2: When did Jo visit the castle? In May. Has Jo taken a boat trip? Yes, once.\n3: For example: Does the activity include a group lesson for beginners? The notes do not give the lesson arrangements.\n4: Check for accurate experience statements, the May date and answers consistent with the notes.\n5: Sample writing: Mira has watched a musical film, but not a live musical. Jo visited a castle in May and has taken a boat trip once. Neither friend has tried sailing. They both want to learn with a group. They could ask a club about a beginner lesson before choosing their next activity.\nRecall first, then check earlier lessons. Useful expressions include once or twice, make new friends and have something in common."
+      },
+      "photo": {
+        "id": "10431750",
+        "asset": "assets/a2-photos/10431750.jpg",
+        "sourceURL": "https://www.pexels.com/photo/silhouette-of-a-man-standing-in-front-of-a-huge-tank-in-an-aquarium-10431750/",
+        "credit": "Lu Zhao · Pexels",
+        "licenseURL": "https://www.pexels.com/license/",
+        "caption": "A visitor looks into a large aquarium tank.",
+        "alt": "A visitor stands in front of a large glass aquarium tank containing many fish.",
+        "fit": "cover",
+        "focalY": 0.5,
+        "dimensions": [
+          1400,
+          931
+        ]
+      }
+    }
+  ]
+}

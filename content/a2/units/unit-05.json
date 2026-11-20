@@ -1,0 +1,929 @@
+{
+  "number": 5,
+  "title": "Food and eating out",
+  "lessons": [
+    {
+      "day": 33,
+      "unit": 5,
+      "title": "Follow a simple recipe",
+      "goal": "I can understand a short recipe and check that I have the food I need.",
+      "newItems": [
+        {
+          "word": "chef",
+          "ipa": "/ʃɛf/",
+          "pos": "noun",
+          "definition": "A person whose job is to cook food, especially in a restaurant.",
+          "example": "The chef shows us how to make the soup.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "mushroom",
+          "ipa": "/ˈmʌʃrum/",
+          "pos": "noun",
+          "definition": "A fungus with a short stem and a rounded top, some kinds of which people eat.",
+          "example": "Wash the mushrooms before cooking them.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "pepper",
+          "ipa": "/ˈpɛpɚ/",
+          "pos": "noun",
+          "definition": "A hollow green, red or yellow vegetable with small seeds inside.",
+          "example": "I add half a red pepper to the soup.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "tomato",
+          "ipa": "/təˈmeɪtoʊ/",
+          "pos": "noun",
+          "definition": "A soft, round red fruit often used as a vegetable in cooking.",
+          "example": "Cut two tomatoes into small pieces.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "follow a recipe",
+          "ipa": "/ˈfɑloʊ ə ˈrɛsəpi/",
+          "pos": "fixed phrase",
+          "definition": "To prepare food by doing the steps in a set of cooking instructions.",
+          "example": "I follow a recipe when I make this soup.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "soup",
+        "cook",
+        "wash",
+        "recipe",
+        "vegetable"
+      ],
+      "mainWord": {
+        "word": "chef",
+        "ipa": "/ʃɛf/",
+        "pos": "noun",
+        "definition": "A person whose job is to cook food, especially in a restaurant.",
+        "example": "The chef shows us how to make the soup.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Noun: chef; plural: chefs. A chef is a professional cook. A person cooking at home is not necessarily a chef.",
+      "wordTask": "Your cousin cooks dinner at home; your friend cooks as a job in a restaurant. Which person is a chef?",
+      "wordSample": "My friend is a chef because cooking in a restaurant is their job.",
+      "expression": "Do we have everything we need?",
+      "use": "Check the things needed for an activity before you begin.",
+      "context": [
+        "Do we have everything we need? The recipe lists two tomatoes.",
+        "We have one. I can buy another on my way home."
+      ],
+      "expressionTask": "You want to cook for two people. Check two foods you need and agree who will get anything missing.",
+      "grammar": "Checking quantities with enough",
+      "pattern": "Use enough before a noun to say that you have the amount you need.",
+      "example": "We have enough tomatoes for the soup.",
+      "task": "We have ___ tomatoes for the soup.",
+      "answer": "enough",
+      "sound": "Chef starts with a long SH sound, not the CH sound in chair. Keep the final F clear without adding a vowel.",
+      "model": "The chef has enough tomatoes.",
+      "dialogue": [
+        "Do we have everything we need?",
+        "There are mushrooms and a red pepper in the bag.",
+        "Good. We also need two tomatoes.",
+        "We only have one. Shall I buy another?",
+        "Yes, please. I will wash the mushrooms while you are out.",
+        "Then we can cook together when I return."
+      ],
+      "reading": "Bella wants to follow a recipe from a local chef. It makes soup for two people. She checks the kitchen before shopping. There are mushrooms and a red pepper, but only one tomato. The recipe needs two tomatoes. Fenrir buys one more while Bella washes the vegetables. They read each step before cooking. This helps them use the right amounts instead of guessing.",
+      "readingQ": "Why does Fenrir buy only one tomato?",
+      "readingA": "They already have one, and the recipe needs two in total.",
+      "writing": "Write a short note saying what you have for a recipe and what someone needs to buy.",
+      "listening": "For the cooking class, bring one red pepper and two tomatoes. We provide mushrooms, oil and a pan. Please wash your vegetables at home. You do not need to bring a knife; the teacher will provide one for each person.",
+      "question": "Which food will the class provide?",
+      "correct": "Mushrooms",
+      "other": "Tomatoes",
+      "speaking": "Plan a simple meal with a partner. Name two things you have, identify one missing thing and decide who will get it.",
+      "speakingSample": "We have mushrooms and a red pepper, so we can start the soup. We need one more tomato. Could you buy it while I wash the vegetables? Then we can read the recipe together. Do we have enough food for two people?",
+      "photo": {
+        "id": "13422410",
+        "asset": "assets/a2-photos/13422410.jpg",
+        "sourceURL": "https://www.pexels.com/photo/chef-chopping-food-on-a-cutting-board-13422410/",
+        "credit": "Mateusz Feliksik · Pexels",
+        "licenseURL": "https://www.pexels.com/license/",
+        "caption": "A chef preparing vegetables in a professional kitchen.",
+        "alt": "A chef in a white jacket chopping peppers on a red cutting board in a professional kitchen.",
+        "fit": "cover",
+        "focalY": 0.55,
+        "dimensions": [
+          1125,
+          750
+        ]
+      },
+      "writingSample": "We have the vegetables, oil and rice for tonight’s recipe. Please buy the beans and a small onion. Check the recipe quantities before shopping so we do not buy more than we need."
+    },
+    {
+      "day": 34,
+      "unit": 5,
+      "title": "Read the main parts of a menu",
+      "goal": "I can distinguish a main course from a smaller side dish and ask about the price.",
+      "newItems": [
+        {
+          "word": "sausage",
+          "ipa": "/ˈsɔsɪdʒ/",
+          "pos": "noun",
+          "definition": "Food made from finely cut meat or another filling inside a long, thin covering.",
+          "example": "The menu has chicken sausages.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "pizza",
+          "ipa": "/ˈpitsə/",
+          "pos": "noun",
+          "definition": "A flat, round bread cooked with a topping such as tomato and cheese.",
+          "example": "We can share a vegetable pizza.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "burger",
+          "ipa": "/ˈbɝɡɚ/",
+          "pos": "noun",
+          "definition": "A flat piece of meat or other food, usually served inside a round bread roll.",
+          "example": "This bean burger comes with salad.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "side dish",
+          "ipa": "/ˈsaɪd dɪʃ/",
+          "pos": "fixed phrase",
+          "definition": "A small serving of food eaten with the main part of a meal.",
+          "example": "Rice is an extra side dish.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "main course",
+          "ipa": "/ˈmeɪn kɔrs/",
+          "pos": "fixed phrase",
+          "definition": "The main and usually largest part of a meal with several parts.",
+          "example": "My main course is a vegetable pizza.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "menu",
+        "cheese",
+        "salad",
+        "rice",
+        "price"
+      ],
+      "mainWord": {
+        "word": "sausage",
+        "ipa": "/ˈsɔsɪdʒ/",
+        "pos": "noun",
+        "definition": "Food made from finely cut meat or another filling inside a long, thin covering.",
+        "example": "The menu has chicken sausages.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Noun: sausage; plural: sausages. Name the filling when it matters, for example chicken sausage or bean sausage.",
+      "wordTask": "Ask whether a sausage contains chicken or pork.",
+      "wordSample": "Is this sausage made with chicken or pork?",
+      "expression": "Does that come with anything?",
+      "use": "Ask what food is included with an order before paying for an extra.",
+      "context": [
+        "I would like the bean burger. Does that come with anything?",
+        "It comes with salad. Rice costs two dollars extra."
+      ],
+      "expressionTask": "Choose a main item from a menu. Find out which extra food is included and which costs more.",
+      "grammar": "Asking about what is included",
+      "pattern": "Use does with a singular subject in a present simple question. The main verb keeps its base form.",
+      "example": "Does the burger come with salad?",
+      "task": "___ the burger come with salad?",
+      "answer": "Does",
+      "sound": "Sausage has two syllables, with the first stronger. The ending is a short J sound; do not turn it into a separate word.",
+      "model": "The sausage comes with salad.",
+      "dialogue": [
+        "I cannot decide between the pizza and the burger.",
+        "The pizza is large enough to share.",
+        "Does that come with anything?",
+        "No. A side dish of salad costs three dollars.",
+        "Then let us share the pizza and add one salad.",
+        "Good. The sausages can wait for another day."
+      ],
+      "reading": "The cafe menu has three main courses: sausages, a bean burger and a vegetable pizza. Each main course has its own price. The burger includes salad, but rice is an extra side dish. Bella and Fenrir choose a large pizza to share. They add one salad for three dollars. Before ordering, they check the total. Sharing works for them today because neither person wants a large meal.",
+      "readingQ": "Why do Bella and Fenrir choose one pizza?",
+      "readingA": "It is large enough to share, and neither person wants a large meal.",
+      "writing": "Write a simple menu with two main courses. Explain which side dish is included and which costs extra.",
+      "listening": "Today the bean burger is seven dollars with salad. Rice is two dollars extra. The vegetable pizza is ten dollars, and a side salad is three dollars. Sausages are not available this afternoon.",
+      "question": "How much is the burger with both salad and extra rice?",
+      "correct": "Nine dollars",
+      "other": "Seven dollars",
+      "speaking": "Help a partner choose between two menu items. Check what is included, add one extra and confirm the total cost.",
+      "speakingSample": "The burger is seven dollars and includes salad. If you want rice as well, it costs nine dollars altogether. The pizza is ten dollars before any extras. Which would you prefer? I would choose the burger with rice because I am quite hungry.",
+      "writingSample": "Main courses: Vegetable rice, eight dollars, with salad included. Baked fish, twelve dollars, with potatoes included. Bread is an optional side dish for two dollars extra. Please ask about ingredients before ordering if needed."
+    },
+    {
+      "day": 35,
+      "unit": 5,
+      "title": "Arrange an evening meal out",
+      "goal": "I can agree on a restaurant and make a simple booking.",
+      "newItems": [
+        {
+          "word": "supper",
+          "ipa": "/ˈsʌpɚ/",
+          "pos": "noun",
+          "definition": "An evening meal, especially a fairly informal one at home.",
+          "example": "We usually have supper at seven.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "eat out",
+          "ipa": "/it aʊt/",
+          "pos": "fixed phrase",
+          "definition": "To have a meal at a restaurant rather than at home.",
+          "example": "We eat out on Friday evenings.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "book a table",
+          "ipa": "/bʊk ə ˈteɪbəl/",
+          "pos": "fixed phrase",
+          "definition": "To arrange for a restaurant to keep a table for you at a particular time.",
+          "example": "Please book a table for two.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "make a reservation",
+          "ipa": "/meɪk ə ˌrɛzɚˈveɪʃən/",
+          "pos": "fixed phrase",
+          "definition": "To arrange in advance for a place or service to be available for you.",
+          "example": "I would like to make a reservation for Saturday.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "in advance",
+          "ipa": "/ɪn ədˈvæns/",
+          "pos": "fixed phrase",
+          "definition": "Before the time when something happens or is needed.",
+          "example": "You need to call in advance on busy evenings.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "restaurant",
+        "evening",
+        "busy",
+        "friday",
+        "dinner"
+      ],
+      "mainWord": {
+        "word": "supper",
+        "ipa": "/ˈsʌpɚ/",
+        "pos": "noun",
+        "definition": "An evening meal, especially a fairly informal one at home.",
+        "example": "We usually have supper at seven.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Noun: supper. Usually used without a or the when naming the meal: have supper. Dinner is also a common word for an evening meal.",
+      "wordTask": "Invite someone to have an informal evening meal at your home at seven.",
+      "wordSample": "Would you like to come to my home for supper at seven?",
+      "expression": "Could I book for two people?",
+      "use": "Start a polite restaurant booking request; then give the date, time and your name.",
+      "context": [
+        "Could I book for two people? We would like Friday at seven.",
+        "Certainly. What name should I put on the booking?"
+      ],
+      "expressionTask": "Call a restaurant to request a table. Give the number of people, the day and the time, and confirm the details.",
+      "grammar": "Would like followed by to",
+      "pattern": "Use would like to plus a base verb for a polite wish or request to do something.",
+      "example": "We would like to eat at seven.",
+      "task": "We would like ___ eat at seven.",
+      "answer": "to",
+      "sound": "Supper has a short first vowel, like the vowel in cup. Make it different from super, which begins with a longer OO sound.",
+      "model": "We are having supper at seven.",
+      "dialogue": [
+        "Shall we eat out on Friday instead of having supper at home?",
+        "Yes. The small restaurant near the park looks good.",
+        "It is busy. We should call in advance.",
+        "Could I book for two people? Friday at seven, please.",
+        "They only have a table at seven thirty. Is that all right?",
+        "Yes. Please make the booking for seven thirty."
+      ],
+      "reading": "Bella and Fenrir usually have supper at home on Fridays. This week they decide to eat out. Bella calls the restaurant in advance because Friday is busy. She wants to book a table for two at seven, but that time is full. She can make a reservation for seven thirty instead. Fenrir agrees to the later time. Bella repeats the date and time before ending the call.",
+      "readingQ": "What time do they finally agree to eat?",
+      "readingA": "They agree to eat at seven thirty because there is no table at seven.",
+      "writing": "Write a booking request. Give the day, time, number of people and a second possible time.",
+      "listening": "Hello, Bella. This is the restaurant calling about your Friday booking. Your table for two is confirmed for seven thirty, not seven. Please phone us if your plans change. We can keep the table for fifteen minutes after the booking time.",
+      "question": "What time is the confirmed booking?",
+      "correct": "Seven thirty",
+      "other": "Seven o’clock",
+      "speaking": "Make a restaurant booking with a partner. Your first time is unavailable. Agree on another time and repeat the final details.",
+      "speakingSample": "Could I book for two people on Friday at seven? If seven is full, is seven thirty possible? That works for us. Please put the booking under Bella. To confirm, it is Friday at seven thirty for two people. Thank you for your help.",
+      "writingSample": "Hello, could I reserve a table for four people on Friday at seven? If that is not available, seven thirty would also suit us. Please confirm the time and whether the table is inside. Thank you."
+    },
+    {
+      "day": 36,
+      "unit": 5,
+      "title": "Choose how to order in a cafe",
+      "goal": "I can explain whether I want to stay or take food away and follow the ordering system.",
+      "newItems": [
+        {
+          "word": "bowl",
+          "ipa": "/boʊl/",
+          "pos": "noun",
+          "definition": "A round, deep container used for food or liquids.",
+          "example": "Please put the soup in a bowl.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "for here",
+          "ipa": "/fɚ hɪr/",
+          "pos": "fixed phrase",
+          "definition": "To eat or drink in the place where you buy the food or drink.",
+          "example": "Is your coffee for here?",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "food to go",
+          "ipa": "/fud tə ɡoʊ/",
+          "pos": "fixed phrase",
+          "definition": "Prepared food bought to eat somewhere else, especially in American English.",
+          "example": "This cafe sells food to go.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "table service",
+          "ipa": "/ˈteɪbəl ˌsɝvɪs/",
+          "pos": "fixed phrase",
+          "definition": "A system in which staff take your order and bring food to your table.",
+          "example": "There is no table service at lunchtime.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "ready to order",
+          "ipa": "/ˈrɛdi tə ˈɔrdɚ/",
+          "pos": "fixed phrase",
+          "definition": "Prepared to tell a server what food or drink you want.",
+          "example": "We are ready to order now.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "cup",
+        "spoon",
+        "counter",
+        "order",
+        "tray"
+      ],
+      "mainWord": {
+        "word": "bowl",
+        "ipa": "/boʊl/",
+        "pos": "noun",
+        "definition": "A round, deep container used for food or liquids.",
+        "example": "Please put the soup in a bowl.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Noun: bowl; plural: bowls. A bowl is deeper than a typical plate. Use a bowl of soup to describe the container and its contents.",
+      "wordTask": "You need a container for soup, not a flat plate. Ask for it politely.",
+      "wordSample": "Could I have a bowl for the soup, please?",
+      "expression": "Is this for here or to go?",
+      "use": "Ask whether the customer will stay or take the order away; to go is common American English.",
+      "context": [
+        "Is this for here or to go?",
+        "For here, please. Could I have a bowl of soup?"
+      ],
+      "expressionTask": "Order a drink and a food item. Make clear whether you are staying and ask where to collect them.",
+      "grammar": "Choosing between two options with or",
+      "pattern": "Put or between choices in a question. Answer with the option that matches your plan.",
+      "example": "Is the soup for here or to go?",
+      "task": "Is the soup for here ___ to go?",
+      "answer": "or",
+      "sound": "Bowl has one syllable. Glide from OH toward a light L. Do not add an extra vowel after the L.",
+      "model": "A bowl of soup for here, please.",
+      "dialogue": [
+        "Are you ready to order?",
+        "Yes, but do I order here or wait at my table? I do not know your system.",
+        "You can choose. Please order and pay at this counter.",
+        "Then a bowl of soup and a tea for here, please.",
+        "Here is your number. We will bring the soup to your table.",
+        "Thank you. I will sit near the window."
+      ],
+      "reading": "The cafe offers food to go, but Bella wants to stay. There is no table service for ordering, so she joins the line at the counter. When she is ready to order, she asks for a bowl of soup and a tea for here. She pays and takes a number. A member of staff brings the soup to her table. Ordering at the counter does not always mean carrying everything yourself.",
+      "readingQ": "Where does Bella place her order?",
+      "readingA": "She orders and pays at the counter.",
+      "writing": "Write a short sign explaining where customers order, pay and collect food in a cafe.",
+      "listening": "Welcome. Please order and pay at the counter. Cold drinks are in the fridge beside it. Take those drinks yourself after paying. We will bring hot food to the table with your order number. Please keep that number where staff can see it.",
+      "question": "What should customers collect themselves?",
+      "correct": "Their cold drinks",
+      "other": "Their hot food",
+      "speaking": "Act as a new cafe customer. Ask how to order, choose where to eat and explain what you want. Your partner explains one collection rule.",
+      "speakingSample": "I have not been here before. Do I order at the counter or wait at my table? I would like soup and tea for here, please. Should I collect the tea myself? I will take this number and sit by the window. Thank you.",
+      "writingSample": "Please order at the counter and pay there. When your order is ready, collect it from the side desk. Please keep the small receipt so we can check which order is yours."
+    },
+    {
+      "day": 37,
+      "unit": 5,
+      "title": "Ask about flavor before ordering",
+      "goal": "I can ask about a food’s ingredients and explain how spicy I want it.",
+      "newItems": [
+        {
+          "word": "hot",
+          "category": "new_sense",
+          "key": "hot#spicy",
+          "senseId": "spicy",
+          "baseWord": "hot",
+          "definition": "Spicy, with a taste that makes your mouth feel hot.",
+          "priorTeaching": {
+            "stage": "foundation",
+            "day": 20,
+            "word": "hot",
+            "definition": "having a high temperature"
+          },
+          "semanticReference": "https://dictionary.cambridge.org/dictionary/english/hot?topic=spicy",
+          "ipa": "/hɑt/",
+          "pos": "adjective",
+          "example": "This curry is too hot for me.",
+          "status": "new",
+          "priorSenseReview": {
+            "earlierDefinitions": [
+              "having a high temperature"
+            ],
+            "decision": "distinct-meaning-not-previously-targeted",
+            "rationale": "Foundation Day 20 explicitly targeted temperature. A1 Day 74 used hot incidentally inside the definition of spicy, but did not target, contrast or assess this meaning of hot. This lesson explicitly distinguishes spicy flavor from temperature; earlier exposure is acknowledged, not treated as an unseen spelling."
+          }
+        },
+        {
+          "word": "chili pepper",
+          "ipa": "/ˈtʃɪli ˈpɛpɚ/",
+          "pos": "fixed phrase",
+          "definition": "A small pepper with a strong taste that can make food spicy.",
+          "example": "This sauce contains chili peppers.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "curry",
+          "ipa": "/ˈkɝi/",
+          "pos": "noun",
+          "definition": "A dish or sauce made with a mixture of spices, often served with rice.",
+          "example": "I choose a vegetable curry with rice.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "what is in it",
+          "ipa": "/wʌt ɪz ɪn ɪt/",
+          "pos": "fixed phrase",
+          "definition": "A question asking about the things used to make food or another mixture.",
+          "example": "That sauce looks interesting. What is in it?",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "on the side",
+          "ipa": "/ɑn ðə saɪd/",
+          "pos": "fixed phrase",
+          "definition": "Served separately from the main food, often in a small container.",
+          "example": "Could I have the sauce on the side?",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "spicy",
+        "sauce",
+        "taste",
+        "rice",
+        "ingredient"
+      ],
+      "mainWord": {
+        "word": "hot",
+        "category": "new_sense",
+        "key": "hot#spicy",
+        "senseId": "spicy",
+        "baseWord": "hot",
+        "definition": "Spicy, with a taste that makes your mouth feel hot.",
+        "priorTeaching": {
+          "stage": "foundation",
+          "day": 20,
+          "word": "hot",
+          "definition": "having a high temperature"
+        },
+        "semanticReference": "https://dictionary.cambridge.org/dictionary/english/hot?topic=spicy",
+        "ipa": "/hɑt/",
+        "pos": "adjective",
+        "example": "This curry is too hot for me.",
+        "status": "new",
+        "priorSenseReview": {
+          "earlierDefinitions": [
+            "having a high temperature"
+          ],
+          "decision": "distinct-meaning-not-previously-targeted",
+          "rationale": "Foundation Day 20 explicitly targeted temperature. A1 Day 74 used hot incidentally inside the definition of spicy, but did not target, contrast or assess this meaning of hot. This lesson explicitly distinguishes spicy flavor from temperature; earlier exposure is acknowledged, not treated as an unseen spelling."
+        }
+      },
+      "mainWordForms": "Adjective: hot; hotter; hottest. Earlier: high temperature. Here: spicy flavor. Food may be hot in temperature, spicy, both or neither.",
+      "wordTask": "Your food is warm enough to eat, but it contains too much chili. Explain which meaning of hot you mean.",
+      "wordSample": "This food is too hot for me. I mean too spicy, not too high in temperature.",
+      "expression": "Could I have the sauce separately?",
+      "use": "Request a sauce in a separate container so that you can choose how much to add.",
+      "context": [
+        "Could I have the sauce separately? I do not want the food to be very spicy.",
+        "Of course. I will put it in a small bowl."
+      ],
+      "expressionTask": "Ask about a sauce, explain the flavor you prefer and request one simple change to how it is served.",
+      "grammar": "Too plus adjective",
+      "pattern": "Use too before an adjective when a quality is more than is suitable for someone or something.",
+      "example": "This curry is too hot for me.",
+      "task": "This curry is ___ hot for me.",
+      "answer": "too",
+      "sound": "Hot begins with breath through an open mouth. End with a short T closure. In hot curry, keep the two words clear without adding a vowel between them.",
+      "model": "The curry is hot, so I will try a little.",
+      "dialogue": [
+        "I like the sound of the vegetable curry. Is it very hot?",
+        "It has chili peppers, but we can make it less spicy.",
+        "What is in it apart from the vegetables?",
+        "The sauce has coconut milk and spices.",
+        "Could I have the sauce separately?",
+        "Yes. We can serve it on the side."
+      ],
+      "reading": "Bella asks about a vegetable curry. The server says it contains chili peppers. Bella knows that hot can describe temperature, but here it describes a spicy taste. She asks, \"What is in it?\" The server explains the sauce. Bella chooses a less spicy version and asks for the sauce on the side. She can then add a little at a time. She does not need to avoid every food that is new to her.",
+      "readingQ": "Why does Bella ask for the sauce on the side?",
+      "readingA": "She wants to control how much sauce she adds and how spicy the food tastes.",
+      "writing": "Write a food request. Ask about one ingredient and politely request a less spicy version or a separate sauce.",
+      "listening": "The red sauce contains chili peppers and is very spicy. The white sauce has no chili, but it contains milk. You can have either sauce in a separate bowl. Please ask staff about ingredients before choosing if you need to avoid a particular food.",
+      "question": "Which sauce contains milk?",
+      "correct": "The white sauce",
+      "other": "The red sauce",
+      "speaking": "Choose a new food with a partner acting as a server. Ask about ingredients and spicy flavor, then make a clear request.",
+      "speakingSample": "I would like to try the vegetable curry. Is it very hot? I mean spicy, not its temperature. What is in the sauce? Could you make it less spicy and serve the sauce on the side? Then I can add a little myself. Thank you.",
+      "writingSample": "Does this dish contain chili? If possible, could you prepare a less spicy version? Otherwise, please put the sauce in a separate small dish so I can choose how much to add."
+    },
+    {
+      "day": 38,
+      "unit": 5,
+      "title": "Follow short cooking steps",
+      "goal": "I can understand and give short instructions in a clear order.",
+      "newItems": [
+        {
+          "word": "chocolate",
+          "ipa": "/ˈtʃɑklət/",
+          "pos": "noun",
+          "definition": "A sweet food made from cocoa, often brown and sold in bars.",
+          "example": "We use a little chocolate in the dessert.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "heat up",
+          "ipa": "/hit ʌp/",
+          "pos": "fixed phrase",
+          "definition": "To make food or liquid warmer.",
+          "example": "Heat up the milk slowly.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "cut up",
+          "ipa": "/kʌt ʌp/",
+          "pos": "fixed phrase",
+          "definition": "To cut something into smaller pieces.",
+          "example": "Cut up the chocolate before adding it.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "stir in",
+          "ipa": "/stɝ ɪn/",
+          "pos": "fixed phrase",
+          "definition": "To add something and mix it through food or liquid with a spoon.",
+          "example": "Stir in the pieces of chocolate.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "at least",
+          "ipa": "/ət list/",
+          "pos": "fixed phrase",
+          "definition": "Not less than the amount or number stated.",
+          "example": "Wait at least two minutes before tasting it.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "milk",
+        "spoon",
+        "small",
+        "slowly",
+        "bake"
+      ],
+      "mainWord": {
+        "word": "chocolate",
+        "ipa": "/ˈtʃɑklət/",
+        "pos": "noun",
+        "definition": "A sweet food made from cocoa, often brown and sold in bars.",
+        "example": "We use a little chocolate in the dessert.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Noun: chocolate. Usually uncountable for the food: some chocolate. A chocolate can mean one small chocolate sweet; that is a different use.",
+      "wordTask": "You have a bar of chocolate for a recipe. Say how to prepare it before adding it to warm milk.",
+      "wordSample": "Cut the chocolate into small pieces before adding it to the warm milk.",
+      "expression": "What do I do next?",
+      "use": "Ask for the next step when following instructions.",
+      "context": [
+        "I have cut the chocolate into small pieces. What do I do next?",
+        "Add the pieces to the warm milk and mix slowly."
+      ],
+      "expressionTask": "Give a partner three short preparation steps. They ask for the next step and repeat it to confirm.",
+      "grammar": "Object pronouns inside separable phrasal verbs",
+      "pattern": "With heat up and a pronoun such as it, put the pronoun between the verb and up: heat it up.",
+      "example": "Heat it up slowly.",
+      "task": "Heat ___ up slowly.",
+      "answer": "it",
+      "sound": "Chocolate commonly has two syllables in American English. The first is stronger. Keep the middle short rather than giving every written vowel a separate beat.",
+      "model": "Cut up the chocolate, then stir it in.",
+      "dialogue": [
+        "The milk is in the pan. What do I do next?",
+        "Heat it up slowly. It does not need to boil.",
+        "I have cut up the chocolate. Can I add it now?",
+        "Yes. Stir it in until the drink looks smooth.",
+        "Can we taste it immediately?",
+        "Wait at least two minutes, then try a small amount carefully."
+      ],
+      "reading": "The recipe uses milk and a little chocolate. First, Bella needs to cut up the chocolate into small pieces. She puts the milk in a pan and begins to heat it up slowly. Next, she can stir in the chocolate with a spoon. The instructions say to wait at least two minutes before tasting. Bella also checks that the drink has cooled enough; the clock alone cannot tell her whether it is ready to drink.",
+      "readingQ": "Does waiting two minutes always mean the drink is ready to taste?",
+      "readingA": "No. Bella must also check that it has cooled enough to taste carefully.",
+      "writing": "Write four short preparation steps using first, next, then and finally. Include a sensible check before tasting.",
+      "listening": "Please cut the chocolate into small pieces before the class begins. Do not heat the milk at home. We will do that together in the kitchen. Bring a spoon, but leave your sharp knife at home because we provide suitable tools in class.",
+      "question": "What should learners do before class?",
+      "correct": "Cut the chocolate into small pieces",
+      "other": "Heat the milk",
+      "speaking": "Explain a simple food or drink preparation to a partner. Give three ordered steps, clarify a pronoun such as it and include a check before serving.",
+      "speakingSample": "First, cut the chocolate into small pieces. Next, put the milk in a pan and heat it up slowly. Do not boil it. Then stir in the chocolate. Finally, let the drink cool and check it carefully before tasting. Would you like to repeat the steps?",
+      "writingSample": "First, wash the fruit and prepare a clean bowl. Next, cut the fruit into small pieces. Then mix it with the yogurt. Finally, check that the ingredients are suitable for the people eating it before tasting."
+    },
+    {
+      "day": 39,
+      "unit": 5,
+      "title": "Choose a suitable meal",
+      "goal": "I can compare meal options and explain a simple food preference.",
+      "newItems": [
+        {
+          "word": "steak",
+          "ipa": "/steɪk/",
+          "pos": "noun",
+          "definition": "A thick, flat piece of meat, usually beef, that is cooked as one piece.",
+          "example": "He orders a steak with vegetables.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "a light meal",
+          "ipa": "/ə laɪt mil/",
+          "pos": "fixed phrase",
+          "definition": "A small meal that is not heavy or very filling.",
+          "example": "I only want a light meal before the trip.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "set menu",
+          "ipa": "/sɛt ˈmɛnju/",
+          "pos": "fixed phrase",
+          "definition": "A limited choice of dishes offered together for a fixed price.",
+          "example": "The set menu includes soup and a main course.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "a balanced meal",
+          "ipa": "/ə ˈbælənst mil/",
+          "pos": "fixed phrase",
+          "definition": "A meal containing different kinds of food in suitable amounts.",
+          "example": "Rice, beans and vegetables can make a balanced meal.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "help yourself",
+          "ipa": "/hɛlp jɚˈsɛlf/",
+          "pos": "fixed phrase",
+          "definition": "Take some food or drink that is being offered, without waiting for someone to serve you.",
+          "example": "Please help yourself to some salad.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "dish",
+        "vegetable",
+        "hungry",
+        "share",
+        "main course"
+      ],
+      "mainWord": {
+        "word": "steak",
+        "ipa": "/steɪk/",
+        "pos": "noun",
+        "definition": "A thick, flat piece of meat, usually beef, that is cooked as one piece.",
+        "example": "He orders a steak with vegetables.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Noun: steak; plural: steaks. The spelling ea has the AY sound here. Steak and stake sound the same but have different meanings.",
+      "wordTask": "The menu lists a steak and a vegetable soup. Ask whether the steak comes with vegetables.",
+      "wordSample": "Does the steak come with vegetables?",
+      "expression": "I would prefer something lighter.",
+      "use": "Politely say that you want less food or food that feels less heavy than the option offered.",
+      "context": [
+        "Would you like the large steak meal?",
+        "I would prefer something lighter. The soup and salad sound good."
+      ],
+      "expressionTask": "Compare two meals. Give a reason for your preference and ask what your partner would choose.",
+      "grammar": "Would prefer followed by a noun",
+      "pattern": "Use would prefer plus a noun or noun phrase to say which option you would like more.",
+      "example": "I would prefer a light meal.",
+      "task": "I would ___ a light meal.",
+      "answer": "prefer",
+      "sound": "Steak has one syllable. The vowel glides like the AY in day. Keep the initial S and T together and finish with K.",
+      "model": "I would prefer steak with vegetables.",
+      "dialogue": [
+        "The set menu includes a steak and a large dessert.",
+        "I would prefer something lighter. What else is available?",
+        "There is vegetable soup with bread. You can also help yourself to salad.",
+        "That sounds better before our long walk.",
+        "Would you like some rice as well?",
+        "A small amount, please. I want enough energy without a very large meal."
+      ],
+      "reading": "The restaurant offers steak on its set menu, but Bella would like a light meal before a walk. She chooses soup, bread and salad instead. The server says, \"Please help yourself to the salad.\" Bella takes a small portion and can return if she is still hungry. She thinks about a balanced meal rather than one food alone. People can make different suitable choices; they do not all need to order the same thing.",
+      "readingQ": "Why does Bella choose soup, bread and salad?",
+      "readingA": "She wants a lighter meal before going for a walk.",
+      "writing": "Write a short comparison of two meals. Say which suits your plans and why, without calling the other person’s choice wrong.",
+      "listening": "The set menu costs fifteen dollars and includes a main course and a dessert. Drinks cost extra. You may choose steak or a vegetable dish for the main course. Salad is available with either choice. Please ask staff for a clean plate before returning for more salad.",
+      "question": "What is not included in the set menu price?",
+      "correct": "A drink",
+      "other": "A dessert",
+      "speaking": "Choose lunch with a partner before an activity. Explain your appetite and plans, compare two options and agree on what each person will order.",
+      "speakingSample": "I would prefer something lighter because we are going for a walk soon. Soup, bread and salad would suit me. You can choose the steak if you are hungry; we do not need the same meal. Shall we each check what is included before we order?",
+      "writingSample": "The soup would suit me before the long journey because I want a light meal. The rice dish is a larger option and may suit my friend’s plans better. We can choose differently without deciding that one choice is wrong."
+    },
+    {
+      "day": 40,
+      "unit": 5,
+      "title": "Ask about drinks and the restaurant bill",
+      "goal": "I can choose water, ask for the bill and clarify how a group wants to pay.",
+      "newItems": [
+        {
+          "word": "check",
+          "category": "new_sense",
+          "key": "check#restaurant-bill",
+          "senseId": "restaurant-bill",
+          "baseWord": "check",
+          "definition": "The written list showing what a restaurant customer needs to pay.",
+          "priorTeaching": {
+            "stage": "a1",
+            "day": 86,
+            "word": "check",
+            "definition": "To look at something to make sure it is correct."
+          },
+          "semanticReference": "https://www.collinsdictionary.com/us/dictionary/english/check",
+          "ipa": "/tʃɛk/",
+          "pos": "noun · American English",
+          "example": "Could we have the check, please?",
+          "status": "new",
+          "priorSenseReview": {
+            "earlierDefinitions": [
+              "To look at something to make sure it is correct."
+            ],
+            "decision": "distinct-meaning-not-previously-targeted",
+            "rationale": "A1 Day 86 explicitly targeted the verb meaning verify. Earlier references to checking an amount on a bill use that verb, not the restaurant-bill noun. Earlier explicit target definitions contain no restaurant-bill sense. This lesson contrasts the noun with the known verb and uses a realistic request."
+          }
+        },
+        {
+          "word": "pay separately",
+          "ipa": "/peɪ ˈsɛpɚətli/",
+          "pos": "fixed phrase",
+          "definition": "For each person to pay their own part of a shared cost.",
+          "example": "Can we pay separately, please?",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "mineral water",
+          "ipa": "/ˈmɪnərəl ˌwɔtɚ/",
+          "pos": "fixed phrase",
+          "definition": "Drinking water containing minerals, often sold in bottles.",
+          "example": "We would like a bottle of mineral water.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "still water",
+          "ipa": "/stɪl ˈwɔtɚ/",
+          "pos": "fixed phrase",
+          "definition": "Drinking water without added gas bubbles.",
+          "example": "I would like still water rather than sparkling.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "sparkling water",
+          "ipa": "/ˈspɑrklɪŋ ˌwɔtɚ/",
+          "pos": "fixed phrase",
+          "definition": "Drinking water with gas bubbles in it.",
+          "example": "Does the sparkling water come in a small bottle?",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "bill",
+        "total",
+        "pay",
+        "bottle",
+        "receipt"
+      ],
+      "mainWord": {
+        "word": "check",
+        "category": "new_sense",
+        "key": "check#restaurant-bill",
+        "senseId": "restaurant-bill",
+        "baseWord": "check",
+        "definition": "The written list showing what a restaurant customer needs to pay.",
+        "priorTeaching": {
+          "stage": "a1",
+          "day": 86,
+          "word": "check",
+          "definition": "To look at something to make sure it is correct."
+        },
+        "semanticReference": "https://www.collinsdictionary.com/us/dictionary/english/check",
+        "ipa": "/tʃɛk/",
+        "pos": "noun · American English",
+        "example": "Could we have the check, please?",
+        "status": "new",
+        "priorSenseReview": {
+          "earlierDefinitions": [
+            "To look at something to make sure it is correct."
+          ],
+          "decision": "distinct-meaning-not-previously-targeted",
+          "rationale": "A1 Day 86 explicitly targeted the verb meaning verify. Earlier references to checking an amount on a bill use that verb, not the restaurant-bill noun. Earlier explicit target definitions contain no restaurant-bill sense. This lesson contrasts the noun with the known verb and uses a realistic request."
+        }
+      },
+      "mainWordForms": "Earlier: check is a verb meaning make sure something is correct. Here: a check is a restaurant bill in American English. Noun plural: checks. Bill is also understood in American English.",
+      "wordTask": "You have finished a restaurant meal. Ask to see the written total before paying.",
+      "wordSample": "Could we have the check, please?",
+      "expression": "Can we pay separately, please?",
+      "use": "Ask whether each person can pay their own part. Check the restaurant’s policy rather than assuming it is possible.",
+      "context": [
+        "Can we pay separately, please? I had the soup and still water.",
+        "Yes. Please tell me which items each person had."
+      ],
+      "expressionTask": "Finish a meal with a partner acting as the server. Request the bill, check an item and ask how you can pay.",
+      "grammar": "Both for two people or things",
+      "pattern": "Use both to include two people or things. Put both before a main verb such as want.",
+      "example": "We both want still water.",
+      "task": "We ___ want still water.",
+      "answer": "both",
+      "sound": "Check begins and ends with short consonant sounds. The first sound is CH, with a brief closure then air release. The final K has no extra vowel.",
+      "model": "Could we have the check, please?",
+      "dialogue": [
+        "Would you like still or sparkling water?",
+        "Still water for me, please. Is it mineral water?",
+        "Yes. We have small bottles of both kinds.",
+        "Thank you. Could we have the check as well?",
+        "Certainly. Here it is.",
+        "Can we pay separately, please? I had the soup and the still water."
+      ],
+      "reading": "Bella orders mineral water without bubbles, so she chooses still water. Fenrir prefers sparkling water. After the meal, Bella asks for the check. She knows that check can also be a verb, but here it means the restaurant bill. They read the items before asking to pay separately. The server says that this is possible and asks which items each person had. They keep their receipts after paying.",
+      "readingQ": "Why does the server ask which items each person had?",
+      "readingA": "They want to pay separately, so the server needs to know each person’s part.",
+      "writing": "Write a short message explaining what two people ordered and how they would like to pay. Include one polite question.",
+      "listening": "Your meal total is twenty-four dollars: two soups at eight dollars each and two bottles of water at four dollars each. We can accept separate payments. Please tell the server which items belong to each person before paying. There is no extra charge for paying separately.",
+      "question": "How much is one soup and one bottle of water?",
+      "correct": "Twelve dollars",
+      "other": "Sixteen dollars",
+      "speaking": "Complete a meal with a partner. Choose still or sparkling water, ask for the check, confirm the cost of your items and agree how to pay.",
+      "speakingSample": "I would like still mineral water, please. After our meal, could we have the check? My soup is eight dollars and my water is four dollars, so my part is twelve dollars. Can we pay separately? Please let us know if you need to check the items first.",
+      "writingSample": "We ordered one soup, one rice dish and two glasses of water. We would like to pay together by card. Could we check the bill before paying, please? Thank you."
+    }
+  ]
+}

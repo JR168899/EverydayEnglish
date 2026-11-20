@@ -1,0 +1,861 @@
+{
+  "number": 12,
+  "title": "Hobbies and leisure",
+  "lessons": [
+    {
+      "day": 89,
+      "unit": 12,
+      "title": "Check how a leisure club works before joining",
+      "goal": "I can ask about visiting a club, its schedule and the membership fee.",
+      "newItems": [
+        {
+          "word": "chess",
+          "ipa": "/tʃɛs/",
+          "pos": "noun",
+          "definition": "A board game in which two players move different pieces and try to trap the other player’s king.",
+          "example": "I play chess at the library club.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "membership",
+          "ipa": "/ˈmɛmbɚˌʃɪp/",
+          "pos": "noun",
+          "definition": "The state of belonging to a club or organization.",
+          "example": "Club membership lasts for one year.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "membership fee",
+          "ipa": "/ˈmɛmbɚˌʃɪp fi/",
+          "pos": "fixed phrase",
+          "definition": "The amount paid to belong to a club or organization.",
+          "example": "The membership fee is paid once a year.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "club member",
+          "ipa": "/klʌb ˈmɛmbɚ/",
+          "pos": "fixed phrase",
+          "definition": "A person who belongs to a club.",
+          "example": "Each club member can attend the weekly meeting.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "weekly practice",
+          "ipa": "/ˈwikli ˈpræktɪs/",
+          "pos": "fixed phrase",
+          "definition": "An activity repeated once a week to develop a skill.",
+          "example": "Weekly practice takes place on Tuesday evenings.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "club",
+        "group",
+        "beginner",
+        "play",
+        "fee"
+      ],
+      "mainWord": {
+        "word": "chess",
+        "ipa": "/tʃɛs/",
+        "pos": "noun",
+        "definition": "A board game in which two players move different pieces and try to trap the other player’s king.",
+        "example": "I play chess at the library club.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Noun: chess, uncountable. Say play chess, without a before chess when naming the game. Membership can describe belonging; a member is a person.",
+      "wordTask": "Name the board game with kings, queens and other pieces, and say where you would like to play it.",
+      "wordSample": "I would like to play chess at the library club.",
+      "expression": "Can I visit before I join?",
+      "use": "Ask whether a club allows a trial visit before you agree to its membership conditions.",
+      "context": [
+        "Can I visit before I join? I am new to chess.",
+        "Yes. Tuesday’s first visit is free; then we can explain membership."
+      ],
+      "expressionTask": "Ask a club about a first visit, regular meeting time and membership cost before deciding.",
+      "grammar": "Once a plus a time period",
+      "pattern": "Use once a to express one occurrence in each stated period.",
+      "example": "The club meets once a week.",
+      "task": "The club meets ___ a week.",
+      "answer": "once",
+      "sound": "Chess has one syllable. Start with CH as in chair and end with unvoiced S, not the Z sound in cheese.",
+      "model": "I play chess on Tuesdays.",
+      "dialogue": [
+        "Can I visit before I join? I am a beginner at chess.",
+        "Yes. Come to our weekly practice on Tuesday.",
+        "Does each club member pay every week?",
+        "No. The membership fee covers one year.",
+        "What does membership include?",
+        "The Tuesday sessions and use of the club’s boards. We can explain any other costs before you decide."
+      ],
+      "reading": "Bella sees a chess club notice in the library. Before paying for membership, she asks about a first visit. Each club member can attend weekly practice on Tuesday evenings. The membership fee covers a year, not a single session. She checks what is included and whether beginners receive help. A friendly first visit helps her decide whether the club fits her interests and schedule.",
+      "readingQ": "Does the membership fee cover one session or a year?",
+      "readingA": "It covers a year.",
+      "writing": "Write a club enquiry asking about a first visit, regular meeting time and what the membership fee includes.",
+      "listening": "The chess club meets on Tuesday at six, in the library’s small room. New visitors can attend their first session without paying. Please arrive at five fifty so a member can welcome you. Boards are provided, and beginners do not need to know all the rules before coming.",
+      "question": "When should a new visitor arrive?",
+      "correct": "Five fifty",
+      "other": "Six fifty",
+      "speaking": "Role-play a first enquiry to a club. Ask about suitability, the schedule and cost, then explain whether you would like to visit.",
+      "speakingSample": "I am interested in the chess club, but I am a beginner. Can I visit before I join? Tuesday at six suits me. Please confirm what the yearly membership fee includes and whether someone can explain the rules. I would like to try a first visit before deciding.",
+      "photo": {
+        "id": "8438872",
+        "asset": "assets/a2-photos/8438872.jpg",
+        "sourceURL": "https://www.pexels.com/photo/chess-pieces-on-chess-board-8438872/",
+        "credit": "Pavel Danilyuk · Pexels",
+        "licenseURL": "https://www.pexels.com/license/",
+        "caption": "Wooden chess pieces on a chessboard.",
+        "alt": "An overhead view of a chessboard with light and dark wooden pieces.",
+        "fit": "cover",
+        "focalY": 0.5,
+        "dimensions": [
+          1400,
+          935
+        ]
+      },
+      "writingSample": "Hello, may I visit the chess club before joining? Tuesday evenings suit me. What does the yearly membership fee include, and will someone help a beginner at the first session?"
+    },
+    {
+      "day": 90,
+      "unit": 12,
+      "title": "Talk about learning and hearing music",
+      "goal": "I can compare beginner music options and ask about equipment and practice.",
+      "newItems": [
+        {
+          "word": "guitar",
+          "ipa": "/ɡɪˈtɑr/",
+          "pos": "noun",
+          "definition": "A musical instrument with strings and a long neck, usually played by plucking or strumming.",
+          "example": "She practises a simple tune on the guitar.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "violin",
+          "ipa": "/ˌvaɪəˈlɪn/",
+          "pos": "noun",
+          "definition": "A small string instrument usually held under the chin and played with a bow.",
+          "example": "The musician plays the violin in the hall.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "musician",
+          "ipa": "/mjuˈzɪʃən/",
+          "pos": "noun",
+          "definition": "A person who plays music, especially with skill or as a job.",
+          "example": "A local musician leads the class.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "learn an instrument",
+          "ipa": "/lɝn ən ˈɪnstrəmənt/",
+          "pos": "fixed phrase",
+          "definition": "To develop the skills needed to play a musical instrument.",
+          "example": "I want to learn an instrument, but I have not chosen one yet.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "live music",
+          "ipa": "/laɪv ˈmjuzɪk/",
+          "pos": "fixed phrase",
+          "definition": "Music performed by musicians at the event, rather than only a recording.",
+          "example": "The cafe has live music on Friday evenings.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "music",
+        "song",
+        "practice",
+        "class",
+        "listen"
+      ],
+      "mainWord": {
+        "word": "guitar",
+        "ipa": "/ɡɪˈtɑr/",
+        "pos": "noun",
+        "definition": "A musical instrument with strings and a long neck, usually played by plucking or strumming.",
+        "example": "She practises a simple tune on the guitar.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Noun: guitar; plural: guitars. Play the guitar is common when naming the instrument. Live in live music rhymes with five, unlike the verb live in live here.",
+      "wordTask": "Name the string instrument often played by strumming, and ask about beginner lessons.",
+      "wordSample": "Do you have beginner lessons for the guitar?",
+      "expression": "What would I need to bring?",
+      "use": "Check the practical requirements before attending a class or activity.",
+      "context": [
+        "What would I need to bring? I do not own a guitar.",
+        "For the first visit, the class can provide one. Let us confirm the details."
+      ],
+      "expressionTask": "Ask a music class about equipment for the first visit and how a beginner can take part.",
+      "grammar": "Would need to for a possible arrangement",
+      "pattern": "Use would need to when asking what would be necessary if you chose an activity.",
+      "example": "I would need to bring a notebook.",
+      "task": "I would need ___ bring a notebook.",
+      "answer": "to",
+      "sound": "Guitar has two syllables, with the second stressed. In live music, live has the vowel glide in five. Listen for that difference from the verb live.",
+      "model": "The musician plays the guitar.",
+      "dialogue": [
+        "I want to learn an instrument. Could I try the guitar?",
+        "Yes. A musician will lead the first class.",
+        "What would I need to bring?",
+        "A notebook. We can provide an instrument for that first visit.",
+        "Will there be a violin to hear too?",
+        "Yes. Later, a short live music session lets you hear the instruments together."
+      ],
+      "reading": "Fenrir would like to learn an instrument. He asks a musician about the guitar and the violin before choosing. The class provides an instrument for his first visit, but he checks what he would need later. A live music session lets him hear both instruments in use. He enjoys listening, yet understands that learning to play will also involve regular practice beyond a single enjoyable lesson.",
+      "readingQ": "Does the class’s first-visit equipment arrangement necessarily apply to every later lesson?",
+      "readingA": "No. Fenrir checks what he would need later.",
+      "writing": "Write an enquiry about a beginner music class. Ask about equipment, the first session and practice between lessons.",
+      "listening": "The guitar introduction begins at two on Saturday. The violin demonstration follows at three. Please book the session you want; a place in one does not automatically include the other. Instruments are provided for these introductory sessions, and no previous playing experience is required.",
+      "question": "When does the violin demonstration begin?",
+      "correct": "At three",
+      "other": "At two",
+      "speaking": "Compare two beginner music options with a partner. Explain your interest and ask about equipment and regular practice.",
+      "speakingSample": "I would like to learn the guitar because I enjoy its sound in live music. What would I need to bring to the first lesson, and what should I practise afterwards? I also want to hear the violin demonstration before I make a longer-term choice.",
+      "writingSample": "I am interested in beginner guitar lessons. Is an instrument provided for the first visit? What would I need for later lessons, and what practice should I do between sessions?"
+    },
+    {
+      "day": 91,
+      "unit": 12,
+      "title": "Choose a story by describing what you enjoy",
+      "goal": "I can describe my story preferences and agree on a choice.",
+      "newItems": [
+        {
+          "word": "comic",
+          "ipa": "/ˈkɑmɪk/",
+          "pos": "noun",
+          "definition": "A publication that tells stories through pictures and words.",
+          "example": "The comic tells a short story in pictures.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "comedy",
+          "ipa": "/ˈkɑmədi/",
+          "pos": "noun",
+          "definition": "A story, film or performance intended to make people laugh.",
+          "example": "We choose a comedy for a cheerful evening.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "cartoon",
+          "ipa": "/kɑrˈtun/",
+          "pos": "noun",
+          "definition": "A film or show made from drawn or animated images, or a humorous drawing.",
+          "example": "The cartoon follows a family of talking birds.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "adventure",
+          "ipa": "/ədˈvɛntʃɚ/",
+          "pos": "noun",
+          "definition": "An exciting or unusual experience, or a story about such experiences.",
+          "example": "The adventure follows two friends on a journey.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "writer",
+          "ipa": "/ˈraɪtɚ/",
+          "pos": "noun",
+          "definition": "A person who creates written work such as stories or articles.",
+          "example": "The writer explains how she planned the story.",
+          "category": "new_word",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "story",
+        "book",
+        "film",
+        "funny",
+        "picture"
+      ],
+      "mainWord": {
+        "word": "comic",
+        "ipa": "/ˈkɑmɪk/",
+        "pos": "noun",
+        "definition": "A publication that tells stories through pictures and words.",
+        "example": "The comic tells a short story in pictures.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Noun: comic; plural: comics. Here comic names a publication. A cartoon may be an animated show or a single drawing, so check the context.",
+      "wordTask": "Name the publication that tells a story using pictures and words.",
+      "wordSample": "A comic tells a story through pictures and words.",
+      "expression": "I would prefer something funny.",
+      "use": "Express a preference that helps someone choose a story or activity with you.",
+      "context": [
+        "I would prefer something funny. Do you have a comedy?",
+        "Yes. This cartoon is a comedy, and the comic version has the same characters."
+      ],
+      "expressionTask": "Explain your story preferences and ask a partner for a choice that fits them.",
+      "grammar": "Would prefer plus a noun phrase",
+      "pattern": "Use would prefer to choose one option over another politely.",
+      "example": "I would prefer a comedy.",
+      "task": "I would ___ a comedy.",
+      "answer": "prefer",
+      "sound": "Comic has two syllables with the first stressed. Its final sound is K. Comedy also starts COM but has three syllables.",
+      "model": "I would prefer a funny comic.",
+      "dialogue": [
+        "Would you like a comic or a film tonight?",
+        "I would prefer something funny.",
+        "This cartoon is a comedy about two birds.",
+        "Does it also have an adventure?",
+        "Yes. They travel to find their home. The writer talks about the story after the film.",
+        "That sounds suitable. I can follow the pictures and discuss what happens."
+      ],
+      "reading": "Bella and Fenrir choose a story together. Bella wants something funny, so they select a comedy. It is a cartoon about two birds on an adventure. A comic version is also available at the library. After watching, they read a short interview with the writer. They describe what they enjoyed instead of assuming that every cartoon is for the same age or has the same kind of story.",
+      "readingQ": "Why do Bella and Fenrir choose the comedy?",
+      "readingA": "Bella wants something funny.",
+      "writing": "Write a short recommendation naming the kind of story, one useful detail and the person it might suit.",
+      "listening": "The cartoon begins at four. The discussion with its writer begins at five fifteen in the smaller room. Your film ticket includes the discussion, but seats there are limited. Please tell the desk if you plan to attend so staff can arrange the room.",
+      "question": "When does the writer’s discussion begin?",
+      "correct": "Five fifteen",
+      "other": "Four fifteen",
+      "speaking": "Choose a story with a partner. Explain a preference, ask about the content and say why the choice suits both of you.",
+      "speakingSample": "I would prefer something funny, and you enjoy stories about journeys. This cartoon is a comedy with an adventure, so it could suit us both. Is the language clear enough for us to follow? Afterwards, we can compare the story with its comic version.",
+      "writingSample": "I recommend this cartoon to someone who likes funny stories about journeys. It is a comedy with an adventure, and the pictures help explain what happens. There is also a comic version for people who prefer reading."
+    },
+    {
+      "day": 92,
+      "unit": 12,
+      "title": "Describe what you can see at an exhibition",
+      "goal": "I can describe visible details in an image and explain my own response.",
+      "newItems": [
+        {
+          "word": "gallery",
+          "ipa": "/ˈɡæləri/",
+          "pos": "noun",
+          "definition": "A place where works of art are shown or sold.",
+          "example": "The gallery is showing local artists’ work.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "exhibition",
+          "ipa": "/ˌɛksəˈbɪʃən/",
+          "pos": "noun",
+          "definition": "A public display of objects or work for people to look at.",
+          "example": "The exhibition includes pictures of local streets.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "artist",
+          "ipa": "/ˈɑrtɪst/",
+          "pos": "noun",
+          "definition": "A person who creates works of art.",
+          "example": "The artist explains the colors in her picture.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "photographer",
+          "ipa": "/fəˈtɑɡrəfɚ/",
+          "pos": "noun",
+          "definition": "A person who takes photographs, especially with skill or as a job.",
+          "example": "The photographer shows the same street at different times.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "photography",
+          "ipa": "/fəˈtɑɡrəfi/",
+          "pos": "noun",
+          "definition": "The activity or art of taking photographs.",
+          "example": "The display compares photography with drawing.",
+          "category": "new_word",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "picture",
+        "camera",
+        "street",
+        "color",
+        "art"
+      ],
+      "mainWord": {
+        "word": "gallery",
+        "ipa": "/ˈɡæləri/",
+        "pos": "noun",
+        "definition": "A place where works of art are shown or sold.",
+        "example": "The gallery is showing local artists’ work.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Noun: gallery; plural: galleries. An exhibition is the display or event; the gallery is a place. A photographer is a person, while photography is the activity or art.",
+      "wordTask": "Name the place displaying works of art and ask what is on display there.",
+      "wordSample": "What is on display at the gallery?",
+      "expression": "This picture makes me think of home.",
+      "use": "Give a personal response to an image, distinguishing your reaction from a factual claim about it.",
+      "context": [
+        "This picture makes me think of home. The shop reminds me of the street where I grew up.",
+        "Which detail gives you that feeling?"
+      ],
+      "expressionTask": "Describe a visible detail in a picture, then explain your own response without guessing the artist’s intention.",
+      "grammar": "Makes me plus a base verb",
+      "pattern": "Use makes me plus a base verb to describe an effect on you. Do not add to before that verb.",
+      "example": "This picture makes me think of home.",
+      "task": "This picture makes me ___ of home.",
+      "answer": "think",
+      "sound": "Gallery has three syllables with the first strongest. In photographer and photography, the strongest stress moves to the second syllable, unlike photograph.",
+      "model": "The gallery has a new exhibition.",
+      "dialogue": [
+        "What is in this exhibition at the gallery?",
+        "An artist’s drawings and a photographer’s street pictures.",
+        "This picture makes me think of my old neighborhood.",
+        "Which detail gives you that feeling?",
+        "The small shop and the warm colors. Is this photography?",
+        "Yes. That part uses photographs; the other wall has drawings."
+      ],
+      "reading": "The gallery’s new exhibition brings together an artist and a photographer. Both show the same neighborhood in different ways. Bella notices the warm colors in a drawing and the light in a street photograph. Photography and drawing let her compare details without deciding that one must be better. She explains what each image makes her think of, but does not claim to know the creators’ intentions without asking them.",
+      "readingQ": "Does Bella claim to know the creators’ intentions?",
+      "readingA": "No. She describes her own response and visible details.",
+      "writing": "Write three sentences about an image: identify a visible detail, give your response and ask one question.",
+      "listening": "The local streets exhibition is free on Wednesday afternoons. The gallery closes at five, and entry ends at four thirty. The photographer’s talk is on Saturday and requires a separate booking. Wednesday entry does not reserve a place at that talk.",
+      "question": "When does entry end on Wednesday?",
+      "correct": "Four thirty",
+      "other": "Five thirty",
+      "speaking": "Choose an image to describe with a partner. Identify two visible details, give your own response and ask what the other person notices.",
+      "speakingSample": "I can see a small shop and a person beside the doorway. The warm colors make me think of my old neighborhood. That is my own response; I do not know why the artist chose those colors. What detail do you notice first, and what does it make you think of?",
+      "writingSample": "I can see a small shop beside a doorway in this picture. The warm colors make me think of home. Which detail do you notice first?"
+    },
+    {
+      "day": 93,
+      "unit": 12,
+      "title": "Compare two sports before choosing one",
+      "goal": "I can compare two beginner sports options and ask a practical question.",
+      "newItems": [
+        {
+          "word": "badminton",
+          "ipa": "/ˈbædmɪntən/",
+          "pos": "noun",
+          "definition": "A game in which players use rackets to hit a light object called a shuttlecock over a net.",
+          "example": "We can try badminton in the sports hall.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "racket",
+          "ipa": "/ˈrækɪt/",
+          "pos": "noun",
+          "definition": "A handled frame with strings used to hit a ball or shuttlecock in some sports.",
+          "example": "I check which racket is suitable for badminton.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "match",
+          "ipa": "/mætʃ/",
+          "pos": "noun",
+          "definition": "An organized contest between players or teams in a sport.",
+          "example": "The badminton match starts after the introduction.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "baseball",
+          "ipa": "/ˈbeɪsˌbɔl/",
+          "pos": "noun",
+          "definition": "A team game in which a batter hits a ball and players try to score by running around bases.",
+          "example": "The baseball group practises on the outdoor field.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "team sport",
+          "ipa": "/tim spɔrt/",
+          "pos": "fixed phrase",
+          "definition": "A sport in which groups of players work together against another group.",
+          "example": "Baseball is a team sport.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "sport",
+        "team",
+        "player",
+        "ball",
+        "game"
+      ],
+      "mainWord": {
+        "word": "badminton",
+        "ipa": "/ˈbædmɪntən/",
+        "pos": "noun",
+        "definition": "A game in which players use rackets to hit a light object called a shuttlecock over a net.",
+        "example": "We can try badminton in the sports hall.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Noun: badminton, uncountable. A racket is equipment; a match is an event. Match has other meanings, but this lesson focuses on a sporting contest.",
+      "wordTask": "Name the game played with a racket and a shuttlecock over a net.",
+      "wordSample": "That game is badminton.",
+      "expression": "Which option would suit a beginner?",
+      "use": "Ask about suitability using your experience rather than assuming every session is introductory.",
+      "context": [
+        "Which option would suit a beginner? I have not played either sport.",
+        "The early session explains the basic rules before any match."
+      ],
+      "expressionTask": "Compare two sports by location, equipment and beginner support. Ask a practical question before choosing.",
+      "grammar": "Either in a negative statement about two options",
+      "pattern": "Use not ... either when a statement applies to neither of two things.",
+      "example": "I have not played either sport.",
+      "task": "I have not played ___ sport.",
+      "answer": "either",
+      "sound": "Badminton has three syllables with the first strongest. Do not add a separate vowel between D and M.",
+      "model": "The badminton match starts at two.",
+      "dialogue": [
+        "Should we try badminton or baseball?",
+        "Which option would suit a beginner?",
+        "The badminton session starts with basic rules and racket practice.",
+        "What about baseball?",
+        "It is a team sport on the outdoor field. The first session also explains the rules.",
+        "Let us compare the times and ask about the equipment before choosing a match or practice."
+      ],
+      "reading": "Fenrir compares badminton with baseball. Badminton uses a racket and a shuttlecock in the hall. Baseball is a team sport on the field. He has not played either, so he asks about beginner support before joining a match. He does not need to know every rule to ask useful questions about the location, time and equipment. A clear introduction will help him choose which activity to try first.",
+      "readingQ": "Why does Fenrir ask about beginner support?",
+      "readingA": "He has not played either sport before.",
+      "writing": "Write a short comparison of two sports. Include the place, equipment and one question a beginner should ask.",
+      "listening": "The beginner badminton introduction is at one in the hall. The match is at two and is for people already familiar with the rules. If this is your first visit, book the introduction rather than only the match. The desk can explain what equipment the introduction provides.",
+      "question": "Which session should a first-time visitor book according to this notice?",
+      "correct": "The introduction at one",
+      "other": "Only the match at two",
+      "speaking": "Help a partner choose a beginner activity. Compare two options and ask about a practical detail before agreeing.",
+      "speakingSample": "I have not played either sport, so I would choose the badminton introduction before joining a match. It is indoors and starts with the basic rules. Please confirm whether equipment is provided and whether I need to book. We can compare baseball another day after checking its beginner session.",
+      "writingSample": "Badminton takes place in the hall and uses a racket and shuttlecock. Baseball is a team sport on an outdoor field. I have not played either sport. Which session explains the rules to beginners, and what equipment is provided?"
+    },
+    {
+      "day": 94,
+      "unit": 12,
+      "title": "Read event information before buying a ticket",
+      "goal": "I can check what an event ticket includes and confirm the entrance and time.",
+      "newItems": [
+        {
+          "word": "festival",
+          "ipa": "/ˈfɛstəvəl/",
+          "pos": "noun",
+          "definition": "An organized series of events or celebrations, often connected with music, art or a theme.",
+          "example": "The town festival includes several performances.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "theater",
+          "ipa": "/ˈθiətɚ/",
+          "pos": "noun",
+          "definition": "A building or space where people watch plays or other performances.",
+          "example": "The theater is beside the town hall.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "stage",
+          "ipa": "/steɪdʒ/",
+          "pos": "noun",
+          "definition": "The raised area or performance space where people act or perform for an audience.",
+          "example": "The musician walks onto the stage.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "audience",
+          "ipa": "/ˈɔdiəns/",
+          "pos": "noun",
+          "definition": "The people watching or listening to a performance or talk.",
+          "example": "The audience waits for the play to begin.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "sold out",
+          "ipa": "/soʊld aʊt/",
+          "pos": "fixed phrase",
+          "definition": "Having no tickets or items left for sale.",
+          "example": "The evening show is sold out, but seats remain for the afternoon.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "ticket",
+        "show",
+        "music",
+        "seat",
+        "available"
+      ],
+      "mainWord": {
+        "word": "festival",
+        "ipa": "/ˈfɛstəvəl/",
+        "pos": "noun",
+        "definition": "An organized series of events or celebrations, often connected with music, art or a theme.",
+        "example": "The town festival includes several performances.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Noun: festival; plural: festivals. A festival can include separate events with different tickets. Theater is the usual American spelling; theatre is common in British English.",
+      "wordTask": "Ask which performances still have tickets at a town’s series of events.",
+      "wordSample": "Which performances at the festival still have tickets?",
+      "expression": "Does this ticket cover both events?",
+      "use": "Check whether one purchase includes more than one activity instead of assuming it does.",
+      "context": [
+        "Does this ticket cover both events?",
+        "It covers the afternoon play, but the evening music event is separate."
+      ],
+      "expressionTask": "Use an invented event notice to ask which performance is included and whether another has tickets left.",
+      "grammar": "Still plus a positive present statement",
+      "pattern": "Use still to show that a situation continues at the time you are speaking.",
+      "example": "Seats are still available.",
+      "task": "Seats are ___ available.",
+      "answer": "still",
+      "sound": "Festival has three syllables with the first stressed. Theater starts with the unvoiced TH sound. Keep the tongue lightly between the teeth for that sound.",
+      "model": "The festival is at the theater.",
+      "dialogue": [
+        "Is the whole festival at this theater?",
+        "Several events are here, but each has its own information.",
+        "Does this ticket cover both events?",
+        "No. It covers the afternoon play. The evening show is sold out.",
+        "Where can the audience enter?",
+        "Through the side doors. Please do not cross the stage to reach a seat."
+      ],
+      "reading": "Bella reads a festival notice before choosing a ticket. The afternoon play is at the theater, while the evening music event has a separate booking. The evening event is sold out, but afternoon seats remain. The audience enters through the side doors, not across the stage. Bella checks the exact event, time and entrance instead of assuming one festival ticket includes every performance.",
+      "readingQ": "Which event still has seats available?",
+      "readingA": "The afternoon play still has seats available.",
+      "writing": "Write a short event enquiry. Ask what a ticket covers and confirm the time and entrance.",
+      "listening": "Your ticket is for the afternoon play at two. Doors open at one thirty. Please use the side entrance and have the ticket ready. The evening music event is separate and has no tickets left. This afternoon ticket cannot be used for that event.",
+      "question": "When do the doors open for the afternoon play?",
+      "correct": "One thirty",
+      "other": "Two thirty",
+      "speaking": "Choose an event from a notice with a partner. Confirm what the ticket includes and identify an assumption you need to check.",
+      "speakingSample": "The evening event is sold out, but the afternoon play still has seats. Does this ticket cover the play only? We will arrive when the doors open at one thirty and use the side entrance. We should not assume that a festival ticket includes a separate evening performance.",
+      "writingSample": "Hello, does the afternoon ticket include the play only? Please confirm the start time and which entrance the audience should use. I understand that the evening music event has a separate booking."
+    },
+    {
+      "day": 95,
+      "unit": 12,
+      "title": "Check equipment and support for a new activity",
+      "goal": "I can ask about beginner support, required equipment and any extra cost.",
+      "newItems": [
+        {
+          "word": "indoor activity",
+          "ipa": "/ˈɪnˌdɔr ækˈtɪvəti/",
+          "pos": "fixed phrase",
+          "definition": "Something people do inside a building.",
+          "example": "The indoor activity continues when it rains.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "safety equipment",
+          "ipa": "/ˈseɪfti ɪˈkwɪpmənt/",
+          "pos": "fixed phrase",
+          "definition": "Items used to reduce risks during a particular activity.",
+          "example": "Ask which safety equipment the session requires.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "hire a racket",
+          "ipa": "/haɪr ə ˈrækɪt/",
+          "pos": "fixed phrase",
+          "definition": "To pay to use a racket temporarily, especially in British English.",
+          "example": "Visitors can hire a racket at the desk.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "borrow equipment",
+          "ipa": "/ˈbɑroʊ ɪˈkwɪpmənt/",
+          "pos": "fixed phrase",
+          "definition": "To use equipment belonging to someone else with the agreement that it will be returned.",
+          "example": "Members can borrow equipment from the club.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "all abilities welcome",
+          "ipa": "/ɔl əˈbɪlətiz ˈwɛlkəm/",
+          "pos": "fixed phrase",
+          "definition": "A notice saying that people with different levels of skill are invited to attend.",
+          "example": "The club notice says all abilities welcome, so I ask what support is provided.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "badminton",
+        "racket",
+        "fee",
+        "return",
+        "equipment"
+      ],
+      "mainWord": {
+        "word": "indoor activity",
+        "ipa": "/ˈɪnˌdɔr ækˈtɪvəti/",
+        "pos": "fixed phrase",
+        "definition": "Something people do inside a building.",
+        "example": "The indoor activity continues when it rains.",
+        "category": "fixed_phrase",
+        "status": "new"
+      },
+      "mainWordForms": "Phrase: indoor activity; plural: indoor activities. Indoor is an adjective before a noun. Indoors is an adverb: We practise indoors.",
+      "wordTask": "Name the type of activity done inside a building and ask what support is provided.",
+      "wordSample": "I would like an indoor activity. What support is provided for someone new?",
+      "expression": "Is equipment included in the fee?",
+      "use": "Check what is provided and distinguish included use, paid rental and borrowing.",
+      "context": [
+        "Is equipment included in the fee?",
+        "Basic rackets are included for this session. Ask separately about other equipment."
+      ],
+      "expressionTask": "Ask a provider about beginner support, required equipment and any extra cost before choosing an activity.",
+      "grammar": "Included in plus a stated price or group",
+      "pattern": "Use included in to identify the whole that something forms part of.",
+      "example": "The racket is included in the fee.",
+      "task": "The racket is included ___ the fee.",
+      "answer": "in",
+      "sound": "Indoor has two syllables, with the first strongest. Use the American R in the second syllable. Indoors adds a final Z sound when it describes where an action happens.",
+      "model": "We choose an indoor activity.",
+      "dialogue": [
+        "I want an indoor activity with help for beginners.",
+        "The beginner session in the hall could suit you.",
+        "Is equipment included in the fee?",
+        "For this session, yes. Other visitors can hire a racket.",
+        "Can members borrow equipment, and what safety equipment do I need?",
+        "Ask the activity leader to check the exact requirements and how to return anything you use."
+      ],
+      "reading": "Fenrir chooses a beginner session for an indoor activity. The notice says all abilities welcome. He asks what support that includes for him. Before booking, he asks about safety equipment and what the fee includes. This session provides a racket. At other times, visitors may need to hire a racket, while some members can borrow equipment. He checks the return arrangements too. Included use, rental and borrowing are different arrangements, even when the object is the same.",
+      "readingQ": "Are included use, rental and borrowing necessarily the same arrangement?",
+      "readingA": "No. They may have different costs and return conditions.",
+      "writing": "Write an enquiry about an activity. Ask about support, equipment, extra charges and return arrangements.",
+      "listening": "The Saturday introduction includes a racket for use during the session. Please return it to the hall desk before leaving. Regular Tuesday visitors pay separately if they need a racket. Do not assume that the Saturday price applies to every session on the timetable.",
+      "question": "Where should the Saturday racket be returned?",
+      "correct": "To the hall desk",
+      "other": "To the library counter",
+      "speaking": "Compare two activity offers, check equipment and support, and explain why one suits a new learner.",
+      "speakingSample": "I would choose the Saturday beginner session because it provides an introduction and a racket. Is any other equipment required or charged separately? Please confirm where I should return the racket. I understand that the regular Tuesday session may have different costs and arrangements.",
+      "writingSample": "I would like to try the Saturday beginner activity. What support and safety equipment are provided? Is a racket included in the fee, or is there an extra charge? Please also confirm where and when to return any equipment."
+    },
+    {
+      "day": 96,
+      "unit": 12,
+      "title": "Choose a leisure plan and explain how you will take part",
+      "goal": "I can compare leisure options and agree on a practical plan.",
+      "newItems": [
+        {
+          "word": "enter a competition",
+          "ipa": "/ˈɛntɚ ə ˌkɑmpəˈtɪʃən/",
+          "pos": "fixed phrase",
+          "definition": "To register or put yourself forward as someone taking part in a contest.",
+          "example": "I check the rules before I enter a competition.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "win a prize",
+          "ipa": "/wɪn ə praɪz/",
+          "pos": "fixed phrase",
+          "definition": "To receive an award for success in a contest or another judged activity.",
+          "example": "Some participants may win a prize.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "keep score",
+          "ipa": "/kip skɔr/",
+          "pos": "fixed phrase",
+          "definition": "To record the points gained during a game or contest.",
+          "example": "One person keeps score while the others play.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "take up a hobby",
+          "ipa": "/teɪk ʌp ə ˈhɑbi/",
+          "pos": "fixed phrase",
+          "definition": "To begin doing a leisure activity regularly.",
+          "example": "I want to take up a hobby that fits my weekly schedule.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "guided walk",
+          "ipa": "/ˈɡaɪdɪd wɔk/",
+          "pos": "fixed phrase",
+          "definition": "An organized walk led by someone who shows or explains places along the route.",
+          "example": "We can join a guided walk around the old town.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "chess",
+        "gallery",
+        "guitar",
+        "festival",
+        "indoor activity"
+      ],
+      "mainWord": {
+        "word": "enter a competition",
+        "ipa": "/ˈɛntɚ ə ˌkɑmpəˈtɪʃən/",
+        "pos": "fixed phrase",
+        "definition": "To register or put yourself forward as someone taking part in a contest.",
+        "example": "I check the rules before I enter a competition.",
+        "category": "fixed_phrase",
+        "status": "new"
+      },
+      "mainWordForms": "Phrase: enter a competition. Enter means join the contest here, not physically go into a room. Ask about rules, suitability and any fees before registering.",
+      "wordTask": "Ask what you must do to become a participant in a contest, rather than only a spectator.",
+      "wordSample": "How do I enter the competition, and which rules should I read first?",
+      "expression": "I would rather start with a guided walk.",
+      "use": "Choose a preferred first step when comparing activities or levels of challenge.",
+      "context": [
+        "I would rather start with a guided walk. A competition can wait.",
+        "That suits your interest in the town. We can check the route and booking details."
+      ],
+      "expressionTask": "Choose between a competitive and non-competitive activity. Explain your preference and check the practical requirements.",
+      "grammar": "Would rather plus a base verb",
+      "pattern": "Use would rather plus a base verb to state a preference. Do not add to before that verb.",
+      "example": "I would rather start with a walk.",
+      "task": "I would rather ___ with a walk.",
+      "answer": "start",
+      "sound": "Enter has two syllables with the first stressed. Competition has its strongest stress near the end, on TI, pronounced TISH.",
+      "model": "I would rather enter a competition after more practice.",
+      "dialogue": [
+        "Would you like to enter a competition at the club?",
+        "I would rather start with a guided walk. I am still choosing a hobby.",
+        "You do not have to win a prize to enjoy the club.",
+        "I know. If I try chess later, who will keep score?",
+        "A member can explain the system. First choose an activity you want to repeat.",
+        "Then the walk suits me now. I can take up a hobby gradually and check what I enjoy."
+      ],
+      "reading": "Bella wants to take up a hobby that fits her week. She compares a guided walk with a chance to enter a competition at the chess club. In the competition, someone will keep score, and a successful player may win a prize. Bella chooses the walk first because she wants to learn about the town without a contest. She can try chess later; choosing one enjoyable activity now does not prevent another choice later.",
+      "readingQ": "Why does Bella choose the walk first?",
+      "readingA": "She wants to learn about the town without a contest.",
+      "writing": "Write a leisure plan comparing two options. Explain your first choice and ask one practical question before booking.",
+      "listening": "The town walk starts outside the gallery at ten and lasts one hour. The chess event starts at eleven thirty in the library. Please book each event separately. The walk ends at the town hall, not at the library, so allow time to travel if you plan to do both.",
+      "question": "Where does the walk end?",
+      "correct": "At the town hall",
+      "other": "At the library",
+      "speaking": "Complete a leisure planning task with a partner. Compare two options, check timing and equipment or access, agree on a choice and repeat the final plan.",
+      "speakingSample": "I would rather start with the guided walk at ten. It lasts an hour and ends at the town hall. If we also want the eleven-thirty chess event, we need a separate booking and enough time to reach the library. Please confirm the route and whether it suits the access needs we have described.",
+      "writingSample": "I would choose the guided walk at ten before deciding about the chess event at eleven thirty. The walk ends at the town hall, so I need to check travel time to the library. Are both events available, and does the walk suit the access needs I described?"
+    }
+  ]
+}

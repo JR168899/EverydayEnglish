@@ -1,0 +1,879 @@
+{
+  "number": 15,
+  "title": "Personal history and past events",
+  "lessons": [
+    {
+      "day": 113,
+      "unit": 15,
+      "title": "Tell the difference between birthplace and hometown",
+      "goal": "I can describe two places in a personal history and put a move in the correct order.",
+      "newItems": [
+        {
+          "word": "birthplace",
+          "ipa": "/ˈbɝθˌpleɪs/",
+          "pos": "noun",
+          "definition": "The place where someone was born.",
+          "example": "Her birthplace is a small town near the sea.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "hometown",
+          "ipa": "/ˈhoʊmˌtaʊn/",
+          "pos": "noun",
+          "definition": "The town a person comes from or regards as home, often where they grew up.",
+          "example": "His hometown is Denver, but he was born in Dallas.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "move house",
+          "ipa": "/muːv haʊs/",
+          "pos": "fixed phrase",
+          "definition": "To leave one home and begin living in another; a common British expression.",
+          "example": "We had to move house when I was eight.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "at the age of",
+          "ipa": "/æt ði eɪdʒ əv/",
+          "pos": "fixed phrase",
+          "definition": "When someone is a particular number of years old.",
+          "example": "She started at the new school at the age of eight.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "in those days",
+          "ipa": "/ɪn ðoʊz deɪz/",
+          "pos": "fixed phrase",
+          "definition": "During the period in the past that has just been mentioned.",
+          "example": "In those days, we lived near our grandparents.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "born",
+        "town",
+        "childhood",
+        "family",
+        "school"
+      ],
+      "mainWord": {
+        "word": "birthplace",
+        "ipa": "/ˈbɝθˌpleɪs/",
+        "pos": "noun",
+        "definition": "The place where someone was born.",
+        "example": "Her birthplace is a small town near the sea.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Birthplace and hometown are countable nouns: birthplaces, hometowns. Your birthplace and hometown can be different. Move house is common British English; in American English people usually say move or move to a new home.",
+      "wordTask": "Which word names where someone was born, even if they grew up somewhere else?",
+      "wordSample": "Birthplace names where someone was born. It does not have to be their hometown.",
+      "expression": "Where did you grow up?",
+      "use": "Ask about someone’s childhood home without assuming it is also their birthplace. An invented example is fine for practice.",
+      "context": [
+        "Where did you grow up?",
+        "In Denver. I was born in Dallas, but my family moved when I was eight."
+      ],
+      "expressionTask": "Ask where a partner grew up. Then ask whether they were born in the same place. Accept an invented answer.",
+      "grammar": "Was born for a past birth",
+      "pattern": "subject + was or were + born + in + place",
+      "example": "I was born in Dallas.",
+      "task": "I ___ born in Dallas.",
+      "answer": "was",
+      "sound": "Birthplace begins with the American r-colored vowel after B. End birth with unvoiced TH before moving to P in place. Do not insert an extra vowel between the parts.",
+      "model": "My birthplace and hometown are different.",
+      "dialogue": [
+        "Your form says Dallas, but I thought you were from Denver.",
+        "Dallas is my birthplace. I think of Denver as my hometown.",
+        "Where did you grow up?",
+        "Mostly in Denver. We moved there at the age of eight.",
+        "Did your family have to move house for work?",
+        "Yes. In those days, my mother worked at a school in Denver."
+      ],
+      "reading": "Bella helps Fenrir prepare a short personal history for a class. His birthplace is Dallas, but he calls Denver his hometown. His family decided to move house when his mother found work there. He arrived in Denver at the age of eight and spent most of his childhood there. In those days, he walked to school with a neighbor. Bella first thinks the two town names are a mistake. After reading the dates, she understands that one names his birthplace and the other describes the place he grew up.",
+      "readingQ": "Why are both Dallas and Denver correct in Fenrir’s personal history?",
+      "readingA": "He was born in Dallas and grew up mostly in Denver.",
+      "writing": "Write 45–65 words about a real or invented personal history. Name a birthplace and a hometown, give one age and describe one activity from that time.",
+      "writingSample": "I was born in Dallas, but Denver is my hometown. My family moved there when I was eight because my mother found a new job. In those days, I walked to school with our neighbor. I remember meeting my first friends on that walk. The two places are different parts of my story.",
+      "listening": "I was born in Dallas. We left when I was eight and moved to Denver. I lived in Denver for the rest of my childhood, so I call it my hometown. My sister was born there after we moved.",
+      "question": "Which city does the speaker call their hometown?",
+      "correct": "Denver",
+      "other": "Dallas",
+      "speaking": "Tell a partner about two places in a real or invented life story. Explain the difference, put the move in order and ask one follow-up question.",
+      "speakingSample": "My birthplace is Dallas, but I grew up mostly in Denver. My family moved there when I was eight. I call Denver my hometown because that is where I remember going to school and making friends. Were you born in the place where you grew up?"
+    },
+    {
+      "day": 114,
+      "unit": 15,
+      "title": "Describe your school years in order",
+      "goal": "I can put stages of education in order and ask when a school change happened.",
+      "newItems": [
+        {
+          "word": "education",
+          "ipa": "/ˌɛdʒəˈkeɪʃən/",
+          "pos": "noun",
+          "definition": "Learning and teaching, especially through school or college.",
+          "example": "She describes her education in a short application.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "primary",
+          "ipa": "/ˈpraɪˌmɛri/",
+          "pos": "adjective",
+          "definition": "Relating to the first stage of school education.",
+          "example": "Her primary education began in a small village.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "secondary",
+          "ipa": "/ˈsɛkənˌdɛri/",
+          "pos": "adjective",
+          "definition": "Relating to the stage of school after primary education.",
+          "example": "His secondary education began in another town.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "primary school",
+          "ipa": "/ˈpraɪˌmɛri skuːl/",
+          "pos": "fixed phrase",
+          "definition": "A school for the first stage of children’s formal education; often called elementary school in the United States.",
+          "example": "Her primary school was near her home.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "secondary school",
+          "ipa": "/ˈsɛkənˌdɛri skuːl/",
+          "pos": "fixed phrase",
+          "definition": "A school for the stage after primary school; the ages and names differ between school systems.",
+          "example": "She moved to a secondary school in another town.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "school",
+        "college",
+        "teacher",
+        "year",
+        "learn"
+      ],
+      "mainWord": {
+        "word": "education",
+        "ipa": "/ˌɛdʒəˈkeɪʃən/",
+        "pos": "noun",
+        "definition": "Learning and teaching, especially through school or college.",
+        "example": "She describes her education in a short application.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Education is normally uncountable here: education, not an education for the general process. Primary and secondary are adjectives. School names and starting ages differ by country; elementary school is a common American term for primary school.",
+      "wordTask": "Which noun describes learning and teaching across different stages, rather than one particular school building?",
+      "wordSample": "Education describes learning and teaching across different stages.",
+      "expression": "What happened after you left that school?",
+      "use": "Ask for the next event in a personal history without assuming everyone follows the same route.",
+      "context": [
+        "What happened after you left that school?",
+        "I went to a school in another town. Later, I took an evening course."
+      ],
+      "expressionTask": "Ask about the event after a change of school. Listen for the answer before asking where it happened.",
+      "grammar": "After followed by a complete clause",
+      "pattern": "After + subject + past verb, subject + past verb",
+      "example": "After I left primary school, I went to a school in another town.",
+      "task": "___ I left primary school, I went to a school in another town.",
+      "answer": "After",
+      "sound": "Education has its strongest syllable on KAY. Primary begins with the P and R sounds together. Secondary has its main stress on SEC; keep the other syllables lighter.",
+      "model": "My education continued in another town.",
+      "dialogue": [
+        "I am helping my aunt write about her education. The dates are clear, but the school names are new to me.",
+        "Which one comes first in her story?",
+        "The primary school in her village. She started there in 1990.",
+        "What happened after she left that school?",
+        "Her family moved, and she began secondary school in 1996.",
+        "Then show the move between the two stages. Do not use our school ages to guess hers."
+      ],
+      "reading": "Bella’s aunt writes a short history of her education. Her primary school was in the village where she lived as a child. Her primary education began in 1990. In 1996, the family moved to another town and she started secondary school. She remembers a science teacher who made her secondary education especially interesting. Later, she took an evening course while working. Bella puts these events in order. She checks her aunt’s dates instead of assuming that every country uses the same school names or starting ages.",
+      "readingQ": "Why does Bella check the dates instead of guessing from the school names?",
+      "readingA": "School names and starting ages can differ between countries.",
+      "writing": "Write 45–65 words about a real or invented education history. Include two stages, their order and one detail you remember. You do not need to disclose real school names.",
+      "writingSample": "My aunt began primary school in her village in 1990. After her family moved in 1996, she went to secondary school in another town. She remembers a science teacher who made the lessons interesting. Later, she took an evening course while working. These are three different stages of her education.",
+      "listening": "My aunt began primary school in 1990. We moved to another town in 1996, and she started secondary school that year. Her younger brother moved to secondary school in 1999. The evening course came later, after she began working.",
+      "question": "When did the aunt start secondary school?",
+      "correct": "1996",
+      "other": "1999",
+      "speaking": "Tell a partner about two stages in a real or invented education history. Use after to show their order, then ask a question about your partner’s story.",
+      "speakingSample": "My aunt first went to primary school in her village. After her family moved in 1996, she started secondary school in another town. Later, she took an evening course while working. What happened after the person in your story left their first school?"
+    },
+    {
+      "day": 115,
+      "unit": 15,
+      "title": "Describe a first day at work",
+      "goal": "I can describe how I felt before and after a new experience and give a reason.",
+      "newItems": [
+        {
+          "word": "nervous",
+          "ipa": "/ˈnɝvəs/",
+          "pos": "adjective",
+          "definition": "Worried or not relaxed because of something that may happen.",
+          "example": "I felt nervous before meeting the team.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "confident",
+          "ipa": "/ˈkɑnfədənt/",
+          "pos": "adjective",
+          "definition": "Feeling sure that you can do something or deal with a situation.",
+          "example": "I felt more confident after practicing.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "first job",
+          "ipa": "/fɝst dʒɑb/",
+          "pos": "fixed phrase",
+          "definition": "The earliest paid work that a person has.",
+          "example": "My first job was in a small cafe.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "get a job",
+          "ipa": "/ɡɛt ə dʒɑb/",
+          "pos": "fixed phrase",
+          "definition": "To obtain paid work with an employer.",
+          "example": "She hopes to get a job near her home.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "find work",
+          "ipa": "/faɪnd wɝk/",
+          "pos": "fixed phrase",
+          "definition": "To succeed in obtaining paid work.",
+          "example": "He looked for two months before he could find work.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "job",
+        "cafe",
+        "work",
+        "team",
+        "practice"
+      ],
+      "mainWord": {
+        "word": "nervous",
+        "ipa": "/ˈnɝvəs/",
+        "pos": "adjective",
+        "definition": "Worried or not relaxed because of something that may happen.",
+        "example": "I felt nervous before meeting the team.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Nervous is an adjective: feel nervous, be nervous about something. Confident is also an adjective. Nervousness and confidence are related nouns, not extra new targets today.",
+      "wordTask": "Choose a feeling for someone who is worried before meeting a new team.",
+      "wordSample": "The person feels nervous before meeting the team.",
+      "expression": "I was nervous at first, but it got easier.",
+      "use": "Describe a difficult beginning and a later improvement without pretending the whole experience was easy.",
+      "context": [
+        "I was nervous at first, but it got easier.",
+        "What helped you feel more comfortable?"
+      ],
+      "expressionTask": "Describe a first day and one thing that made it easier. Your partner asks what helped.",
+      "grammar": "But connects a contrast",
+      "pattern": "past situation + but + different past situation",
+      "example": "I felt nervous, but the team welcomed me.",
+      "task": "I felt nervous, ___ the team welcomed me.",
+      "answer": "but",
+      "sound": "Nervous has two syllables, with stress on NER. Use the American r-colored vowel. Confident has stress on CON; keep the other syllables lighter.",
+      "model": "I was nervous, but I felt more confident later.",
+      "dialogue": [
+        "What was your first job like?",
+        "I worked in a cafe. I wanted to find work close to home.",
+        "Was it difficult to get a job there?",
+        "I had an interview and a short practice session before they offered me work.",
+        "And how did you feel on the first day?",
+        "I was nervous at first, but it got easier. My colleague showed me how to use the machine."
+      ],
+      "reading": "Fenrir’s first job was in a cafe near his home. He wanted to find work he could reach by bus. To get a job there, he went to an interview and did a short practice session. On his first morning, he felt nervous when several customers arrived together. A colleague showed him which order to prepare first. By the end of the morning, he felt more confident. He still asked questions, but he understood the order of the tasks. He remembers the help more clearly than his first mistake.",
+      "readingQ": "What helped Fenrir feel more confident?",
+      "readingA": "A colleague explained the order of the tasks.",
+      "writing": "Write 45–65 words about a real or invented first day. Describe an initial feeling, one difficulty and something that helped.",
+      "writingSample": "On my first day at the cafe, I felt nervous when several customers arrived together. I did not know which order to prepare first. A colleague explained the list and showed me one task at a time. By the end of the morning, I felt more confident and knew when to ask for help.",
+      "listening": "On Monday I could use the coffee machine, but I did not understand the order list. My colleague Sara explained the list before the busy part of the morning. After that, I knew which order to prepare first. We practiced cleaning the machine on Tuesday.",
+      "question": "What did Sara help with on Monday?",
+      "correct": "Understanding the order list",
+      "other": "Cleaning the machine",
+      "speaking": "Describe a new experience with a beginning, a difficulty and a change. Ask your partner what helped in their experience.",
+      "speakingSample": "My first morning at work was busy. I felt nervous because I did not understand the order list. A colleague explained it, and I practiced with one order. After that, I felt more confident. What helped you on your first day in a new place?"
+    },
+    {
+      "day": 116,
+      "unit": 15,
+      "title": "Explain how you learned a practical skill",
+      "goal": "I can describe a learning difficulty, the help I received and the result without claiming instant success.",
+      "newItems": [
+        {
+          "word": "skill",
+          "ipa": "/skɪl/",
+          "pos": "noun",
+          "definition": "An ability to do something well, usually developed through learning and practice.",
+          "example": "Driving is a skill that takes practice.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "learn to drive",
+          "ipa": "/lɝn tə draɪv/",
+          "pos": "fixed phrase",
+          "definition": "To develop the ability to control and use a car or other road vehicle.",
+          "example": "She began to learn to drive last year.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "give up",
+          "ipa": "/ɡɪv ʌp/",
+          "pos": "fixed phrase",
+          "definition": "To stop trying to do something because it is difficult or no longer wanted.",
+          "example": "He did not give up when the first lesson was difficult.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "get better at",
+          "ipa": "/ɡɛt ˈbɛtɚ æt/",
+          "pos": "fixed phrase",
+          "definition": "To improve your ability to do a particular activity.",
+          "example": "You can get better at parking with practice.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "in the end",
+          "ipa": "/ɪn ði ɛnd/",
+          "pos": "fixed phrase",
+          "definition": "Finally, after events or difficulties have happened.",
+          "example": "In the end, she could park without help.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "road",
+        "car",
+        "lesson",
+        "help",
+        "practice"
+      ],
+      "mainWord": {
+        "word": "skill",
+        "ipa": "/skɪl/",
+        "pos": "noun",
+        "definition": "An ability to do something well, usually developed through learning and practice.",
+        "example": "Driving is a skill that takes practice.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Skill is countable for a particular ability: a skill, several skills. After get better at, use a noun or an -ing form. Give up changes to gave up in the past; that is not a new target.",
+      "wordTask": "What noun describes an ability such as parking that develops through practice?",
+      "wordSample": "Parking is a skill that develops through practice.",
+      "expression": "It took me a while to feel comfortable.",
+      "use": "Explain that learning something required time. The phrase does not mean you failed.",
+      "context": [
+        "It took me a while to feel comfortable.",
+        "Which part needed the most practice?"
+      ],
+      "expressionTask": "Explain which part of a practical activity took time. Name one useful way you practiced.",
+      "grammar": "At followed by an -ing form",
+      "pattern": "get better at + verb-ing",
+      "example": "I got better at parking after several lessons.",
+      "task": "I got better at ___ after several lessons.",
+      "answer": "parking",
+      "sound": "Skill begins with S followed immediately by K. Keep it one syllable. In give up, move from the final V into the next vowel without adding another syllable.",
+      "model": "I learned a new skill because I did not give up.",
+      "dialogue": [
+        "When did you begin to learn to drive?",
+        "Last year. It took me a while to feel comfortable.",
+        "Which skill was most difficult?",
+        "Parking. I wanted to give up after one difficult lesson.",
+        "What changed?",
+        "My teacher broke the task into smaller steps. In the end, I could park without her help."
+      ],
+      "reading": "Bella began to learn to drive last year. Controlling the car on a quiet road was easier than parking in a small space. She wanted to give up after a difficult lesson, but her teacher suggested practicing one step at a time. Bella kept notes about where to look and when to turn. This helped her get better at parking. In the end, she could do it without reminders. She still practiced carefully. One successful lesson did not mean the whole skill was finished.",
+      "readingQ": "How did Bella make the difficult task more manageable?",
+      "readingA": "She practiced one step at a time and kept useful notes.",
+      "writing": "Write 45–65 words about learning a skill. Include a difficult part, one way of practicing and a realistic result.",
+      "writingSample": "I began learning to park last year. At first, I forgot when to turn, so my teacher broke the task into smaller steps. I wrote short notes after each lesson and practiced the same steps again. In the end, I needed fewer reminders. I still practiced carefully instead of assuming I knew everything.",
+      "listening": "I practiced turning on quiet roads in March. In April I began parking in small spaces. My teacher gave me a short list of steps, and that helped more than trying to do everything at once. By May, I needed fewer reminders when parking.",
+      "question": "Which change helped the speaker with parking?",
+      "correct": "Using a short list of steps",
+      "other": "Doing every part at once",
+      "speaking": "Describe how you learned a practical skill. Your partner should ask about one difficulty and one improvement.",
+      "speakingSample": "I learned to park a car one step at a time. At first, I forgot when to turn, so my teacher gave me a short list. I used the same steps and got better with practice. I still needed to concentrate, but I no longer needed reminders for every step."
+    },
+    {
+      "day": 117,
+      "unit": 15,
+      "title": "Talk about an exam result and the next step",
+      "goal": "I can distinguish a result from a person’s ability and explain a practical next action.",
+      "newItems": [
+        {
+          "word": "success",
+          "ipa": "/səkˈsɛs/",
+          "pos": "noun",
+          "definition": "A good result when something you wanted or planned happens.",
+          "example": "Passing the course was an important success for her.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "successful",
+          "ipa": "/səkˈsɛsfəl/",
+          "pos": "adjective",
+          "definition": "Having the good result that was wanted or planned.",
+          "example": "Her second attempt was successful.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "fail",
+          "ipa": "/feɪl/",
+          "pos": "verb",
+          "definition": "To not reach the result required in a test or task.",
+          "example": "He did not fail the written test.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "take an exam",
+          "ipa": "/teɪk ən ɪɡˈzæm/",
+          "pos": "fixed phrase",
+          "definition": "To do the questions or tasks in an examination.",
+          "example": "She will take an exam on Friday.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "pass an exam",
+          "ipa": "/pæs ən ɪɡˈzæm/",
+          "pos": "fixed phrase",
+          "definition": "To obtain the result required for success in an examination.",
+          "example": "He hopes to pass an exam after more practice.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "test",
+        "result",
+        "question",
+        "course",
+        "study"
+      ],
+      "mainWord": {
+        "word": "success",
+        "ipa": "/səkˈsɛs/",
+        "pos": "noun",
+        "definition": "A good result when something you wanted or planned happens.",
+        "example": "Passing the course was an important success for her.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Success is a noun; successful is an adjective. Fail changes to failed. Take an exam means do it; pass an exam means achieve the required result. Taking a test does not mean passing it.",
+      "wordTask": "Which noun names a good result: success or successful?",
+      "wordSample": "Success is the noun; successful is the adjective.",
+      "expression": "What will you do differently next time?",
+      "use": "Ask for a practical next step after a result. A test result does not describe someone’s worth as a person.",
+      "context": [
+        "What will you do differently next time?",
+        "I will practice writing a complete answer before checking the model."
+      ],
+      "expressionTask": "Discuss one part of a result and ask for a specific next step rather than giving a general judgment.",
+      "grammar": "Adjectives after be; nouns after a",
+      "pattern": "be + adjective; a + noun",
+      "example": "The second attempt was successful.",
+      "task": "The second attempt was ___.",
+      "answer": "successful",
+      "sound": "Success and successful both have stress on CESS. Do not stress the first syllable. Fail ends with L; keep one vowel sound before it.",
+      "model": "The second attempt was successful.",
+      "dialogue": [
+        "Did your cousin take an exam last month?",
+        "Yes. She passed the reading part but did not pass the writing part.",
+        "What will she do differently next time?",
+        "She will check whether each answer includes all the requested information.",
+        "Does one poor result mean she always fails?",
+        "No. She knows what to practice now. We can support her without promising a result."
+      ],
+      "reading": "Nina plans to take an exam again after a mixed result. She did well in reading, but her writing did not include all the requested information. She wants to pass an exam by using what she knows more clearly, not by memorizing one answer. Her teacher asks her to check each task before writing. They agree that success means meeting the task requirements. A successful practice message includes the day, time and place it asks for. If she does fail one task, they look at the missing information and plan another attempt.",
+      "readingQ": "What specific change does Nina plan to make?",
+      "readingA": "She will check that her writing includes all the information requested.",
+      "writing": "Write a 45–65-word learning plan after an invented result. Mention one strength, one difficulty and a specific next action.",
+      "writingSample": "My reading result was good, but my message did not give a meeting place. Next time, I will underline the details requested before I write. I will check the day, time and place before looking at the model. That gives me a clear action to practice instead of only hoping for a better result.",
+      "listening": "Nina included the meeting day and time in her practice message. She forgot the place. Her teacher asked her to read the task again and make a three-item checklist. She does not need to change every sentence; she needs to include the missing information.",
+      "question": "Which detail was missing?",
+      "correct": "The meeting place",
+      "other": "The meeting time",
+      "speaking": "Give a short account of a practice result. Identify one specific problem and explain how you will check it next time.",
+      "speakingSample": "My message gave the meeting day and time, but it did not include the place. Next time, I will make a short checklist from the task. Before checking the model, I will compare my message with that list. That will help me see whether the information is complete."
+    },
+    {
+      "day": 118,
+      "unit": 15,
+      "title": "Explain how you felt when you met new people",
+      "goal": "I can describe feelings at a past event and connect them with specific reasons.",
+      "newItems": [
+        {
+          "word": "interested",
+          "ipa": "/ˈɪntrəstɪd/",
+          "pos": "adjective",
+          "definition": "Wanting to know or learn more about something.",
+          "example": "She was interested in the stories about the town.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "bored",
+          "ipa": "/bɔrd/",
+          "pos": "adjective",
+          "definition": "Feeling that something is not interesting and wanting a different activity.",
+          "example": "He felt bored while he waited alone.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "lucky",
+          "ipa": "/ˈlʌki/",
+          "pos": "adjective",
+          "definition": "Having something good happen by chance.",
+          "example": "We were lucky to meet a helpful neighbor.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "unlucky",
+          "ipa": "/ʌnˈlʌki/",
+          "pos": "adjective",
+          "definition": "Having something bad happen by chance.",
+          "example": "They were unlucky because rain stopped the outdoor game.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "get to know",
+          "ipa": "/ɡɛt tə noʊ/",
+          "pos": "fixed phrase",
+          "definition": "To become familiar with a person through spending time together.",
+          "example": "Joining a group helped her get to know her neighbors.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "neighbor",
+        "guest",
+        "group",
+        "game",
+        "story"
+      ],
+      "mainWord": {
+        "word": "interested",
+        "ipa": "/ˈɪntrəstɪd/",
+        "pos": "adjective",
+        "definition": "Wanting to know or learn more about something.",
+        "example": "She was interested in the stories about the town.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Interested describes a person’s feeling; interesting describes what causes interest. Bored describes a feeling; boring describes its cause. Lucky and unlucky are related adjectives, not different tenses.",
+      "wordTask": "Choose the feeling for someone who wants to hear more about a town’s history.",
+      "wordSample": "The person is interested in the town’s history.",
+      "expression": "I did not know anyone at first.",
+      "use": "Explain the beginning of a social experience. Follow it with what happened, rather than ending with a general feeling.",
+      "context": [
+        "I did not know anyone at first.",
+        "How did you begin talking to people?"
+      ],
+      "expressionTask": "Describe how you started talking to someone in a new group. Include what happened after the first conversation.",
+      "grammar": "Interested in followed by a noun or -ing form",
+      "pattern": "be interested in + noun or verb-ing",
+      "example": "I was interested in hearing their stories.",
+      "task": "I was interested ___ hearing their stories.",
+      "answer": "in",
+      "sound": "Bored has one syllable. Interested has a common short pronunciation with three syllables: IN-truh-stid. Give unlucky its strongest stress on LUCK, not on un.",
+      "model": "I was interested in hearing their stories.",
+      "dialogue": [
+        "How was your first afternoon at the club?",
+        "I did not know anyone at first, so I waited near the door.",
+        "Were you bored?",
+        "Only while I waited. Then a neighbor asked me to join a game.",
+        "That helped you get to know people.",
+        "Yes. We were unlucky with the rain later, but I was lucky to meet a friendly group."
+      ],
+      "reading": "When Bella first visited the club, she did not know anyone. She felt bored while she waited alone near the door. Then a neighbor invited her to join a simple game. Bella was interested in hearing how the other members learned it. Playing together helped her get to know people without preparing a long introduction. The group was unlucky with the weather: rain stopped the outdoor part. They moved inside and continued talking. Bella called herself lucky because the first invitation led to several new conversations.",
+      "readingQ": "What helped Bella begin getting to know the group?",
+      "readingA": "A neighbor invited her to join a simple game.",
+      "writing": "Write 45–65 words about a real or invented first visit to a group. Give two feelings and explain what caused each one.",
+      "writingSample": "At first, I felt bored because I waited alone near the club door. A neighbor invited me to join a game, and I became interested in hearing the other members’ stories. Rain stopped the outdoor activity, but we continued talking inside. I felt lucky that one invitation helped me meet several people.",
+      "listening": "I waited alone at the club for ten minutes. Then Nina asked me to join a card game. We played indoors because it began raining. The game gave us something to talk about, so I did not need to make a long speech to introduce myself.",
+      "question": "What helped the speaker start a conversation?",
+      "correct": "Joining the card game",
+      "other": "Giving a long introduction",
+      "speaking": "Describe a first visit to a group. Explain a change in feeling and the event that caused it, then ask your partner about a similar experience.",
+      "speakingSample": "I did not know anyone at first, and I felt bored while I waited. Then someone invited me to join a game. That gave us something to discuss, and I became interested in the group. How did you begin talking to people on your first visit somewhere new?"
+    },
+    {
+      "day": 119,
+      "unit": 15,
+      "title": "Connect events in a personal history",
+      "goal": "I can put events in order without assuming that everyone follows the same life path.",
+      "newItems": [
+        {
+          "word": "leave school",
+          "ipa": "/liːv skuːl/",
+          "pos": "fixed phrase",
+          "definition": "To finish or stop attending school, rather than simply leave the building for the day.",
+          "example": "After she left school, she began working.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "go to university",
+          "ipa": "/ɡoʊ tə ˌjuːnəˈvɝsəti/",
+          "pos": "fixed phrase",
+          "definition": "To study at a university; often expressed as go to college in the United States.",
+          "example": "Her brother decided to go to university later.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "live on your own",
+          "ipa": "/lɪv ɑn jʊr oʊn/",
+          "pos": "fixed phrase",
+          "definition": "To have a home without other people living with you.",
+          "example": "He began to live on his own near his workplace.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "the following year",
+          "ipa": "/ðə ˈfɑloʊɪŋ jɪr/",
+          "pos": "fixed phrase",
+          "definition": "In the year after the one just mentioned.",
+          "example": "She moved in 2018 and began the course the following year.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "from then on",
+          "ipa": "/frəm ðɛn ɑn/",
+          "pos": "fixed phrase",
+          "definition": "Starting at that past time and continuing afterwards.",
+          "example": "From then on, she traveled to work by train.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "year",
+        "move",
+        "work",
+        "course",
+        "family"
+      ],
+      "mainWord": {
+        "word": "leave school",
+        "ipa": "/liːv skuːl/",
+        "pos": "fixed phrase",
+        "definition": "To finish or stop attending school, rather than simply leave the building for the day.",
+        "example": "After she left school, she began working.",
+        "category": "fixed_phrase",
+        "status": "new"
+      },
+      "mainWordForms": "Leave school changes to left school in a past account. Live on your own changes with the person: on my own, on her own. Different pronouns are not new phrases. School and university routes vary between people and countries.",
+      "wordTask": "In a life history, does leave school mean finish school or walk out of the building for lunch?",
+      "wordSample": "In this context, it means finish or stop attending school.",
+      "expression": "What did you decide to do next?",
+      "use": "Ask about the next choice in someone’s story without suggesting only one correct route.",
+      "context": [
+        "What did you decide to do next?",
+        "I began working, and later I took an evening course."
+      ],
+      "expressionTask": "Ask about the next choice after school or a course. Accept different routes, including work, further study or caring responsibilities.",
+      "grammar": "Time references across two sentences",
+      "pattern": "past year + event; the following year + later event",
+      "example": "She moved in 2018. The following year, she began an evening course.",
+      "task": "She moved in 2018. The ___ year, she began an evening course.",
+      "answer": "following",
+      "sound": "Leave ends with a voiced V; do not replace it with the unvoiced F in leaf. Following has three syllables, with stress on FOL.",
+      "model": "After I leave school, I plan to take an evening course.",
+      "dialogue": [
+        "When did your aunt leave school?",
+        "In 2017. She began working near her family home.",
+        "What did she decide to do next?",
+        "She moved to another town in 2018. The following year, she began an evening course.",
+        "Did she want to go to university immediately?",
+        "No. That was not her plan then. From then on, she combined work with evening study."
+      ],
+      "reading": "Nina interviews her aunt about several changes. Her aunt says, “I decided to leave school in 2017 and began working near home.” In 2018, she moved to another town and began to live on her own. The following year, she started an evening course. Her brother chose to go to university instead. Nina does not describe one route as better than the other. Her aunt kept her job while studying. From then on, she traveled by train twice a week to attend class. Dates help Nina connect the events without inventing missing details.",
+      "readingQ": "In which year did the aunt begin the evening course?",
+      "readingA": "In 2019, the year after she moved in 2018.",
+      "writing": "Write 45–65 words using three dated events in an invented life history. Use the following year correctly and do not add a reason that is not given.",
+      "writingSample": "Nina’s aunt left school in 2017 and began working near home. She moved to another town in 2018. The following year, she began an evening course while keeping her job. From then on, she traveled by train twice a week for class. Her brother chose a different route and went to university.",
+      "listening": "Lena left school in 2016. She worked near home for two years, then moved to a city in 2018. The following year, she began a college course. Please do not write 2018 as the course date; that was the year of the move.",
+      "question": "When did Lena begin the college course?",
+      "correct": "2019",
+      "other": "2018",
+      "speaking": "Use a three-event list to tell a short history. Your partner should check one date and ask about the next event. Do not invent unknown reasons.",
+      "speakingSample": "Lena left school in 2016. After two years of work near home, she moved to a city in 2018. The following year, she began a college course. We do not know why she chose that course, so I would ask her instead of guessing.",
+      "mainIntroduction": "Learn a useful expression and use it yourself."
+    },
+    {
+      "day": 120,
+      "unit": 15,
+      "title": "Check a short life story against its source",
+      "goal": "I can distinguish known events from invented details and retell a short history in order.",
+      "newItems": [
+        {
+          "word": "tell a story",
+          "ipa": "/tɛl ə ˈstɔri/",
+          "pos": "fixed phrase",
+          "definition": "To give an account of events, real or invented.",
+          "example": "She will tell a story about her first week in town.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "keep a diary",
+          "ipa": "/kiːp ə ˈdaɪəri/",
+          "pos": "fixed phrase",
+          "definition": "To regularly write personal accounts of events or thoughts.",
+          "example": "He began to keep a diary during his course.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "tell the truth",
+          "ipa": "/tɛl ðə truːθ/",
+          "pos": "fixed phrase",
+          "definition": "To say what is true rather than give false information.",
+          "example": "When reporting someone’s history, tell the truth about what the source says.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "make up a story",
+          "ipa": "/meɪk ʌp ə ˈstɔri/",
+          "pos": "fixed phrase",
+          "definition": "To invent an account of events; this is fine when it is clearly presented as fiction.",
+          "example": "For a creative task, you can make up a story.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "once upon a time",
+          "ipa": "/wʌns əˈpɑn ə taɪm/",
+          "pos": "fixed phrase",
+          "definition": "A traditional opening for a story set in an unspecified past time, especially a fairy tale.",
+          "example": "Once upon a time, a traveler found a tiny house.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "date",
+        "diary",
+        "remember",
+        "true",
+        "story"
+      ],
+      "mainWord": {
+        "word": "tell a story",
+        "ipa": "/tɛl ə ˈstɔri/",
+        "pos": "fixed phrase",
+        "definition": "To give an account of events, real or invented.",
+        "example": "She will tell a story about her first week in town.",
+        "category": "fixed_phrase",
+        "status": "new"
+      },
+      "mainWordForms": "Tell changes to told; keep changes to kept. Make up is separable: make a story up, make it up. Once upon a time is a story opening, not a date for a factual personal history.",
+      "wordTask": "Which phrase means give an account of events, whether real or clearly invented?",
+      "wordSample": "Tell a story can refer to a real or invented account.",
+      "expression": "The note does not tell us that.",
+      "use": "Separate information in a source from an assumption. You can say what you do not know rather than fill every gap.",
+      "context": [
+        "Was she unhappy when she moved?",
+        "The note does not tell us that. It only gives the date and the place."
+      ],
+      "expressionTask": "A partner adds a feeling that is not mentioned in a source. Point out the gap politely and say what the source does establish.",
+      "grammar": "Past questions with did",
+      "pattern": "did + subject + base verb",
+      "example": "Did she move before she began the course?",
+      "task": "Did she ___ before she began the course?",
+      "answer": "move",
+      "sound": "Truth ends with unvoiced TH: let air pass gently by the tongue tip and teeth. Told ends with D; avoid adding a new vowel after it.",
+      "model": "She told the truth about her trip.",
+      "dialogue": [
+        "I want to tell a story about my aunt’s move. These are the notes she gave me.",
+        "Do they say why she moved?",
+        "No. I thought I could make up a reason to make the story interesting.",
+        "For fiction, you can make up a story. For her real history, tell the truth about what you know.",
+        "Then I will ask her. I can use once upon a time in a different, invented story.",
+        "Good. And if you keep a diary yourself, dates may help you remember events later."
+      ],
+      "reading": "Bella has three notes from her aunt: a move in 2018, an evening course in 2019 and a new job in 2020. She wants to tell a story in the class. Her aunt used to keep a diary, but one page is missing. Bella must tell the truth about the information she has. She can make up a story for a creative task if she clearly labels it as invented. For this real history, she puts the known events in order and marks the missing reason. “Once upon a time” would suit a fairy tale, but it would not supply the missing facts.",
+      "readingQ": "What should Bella do about the missing reason for the move?",
+      "readingA": "Mark it as unknown or ask her aunt, rather than invent it in a factual account.",
+      "writing": "Write 45–65 words from these notes: move 2018, evening course 2019, new job 2020. State one thing the notes do not tell you. Do not add an invented cause or feeling.",
+      "writingSample": "Bella’s aunt moved in 2018. The following year, she began an evening course, and in 2020 she started a new job. The notes show the order of these events. They do not explain why she moved or how she felt. I would ask her about those details before adding them to a factual account.",
+      "listening": "The note says Maria moved in 2018 and started an evening course in 2019. It gives no reason for the move. The speaker who says she moved because she was unhappy is adding a detail that is not in the note.",
+      "question": "Which statement is supported by the note?",
+      "correct": "Maria began an evening course in 2019",
+      "other": "Maria moved because she was unhappy",
+      "speaking": "Retell the three dated events without looking at the sample. Ask and answer one date question, then identify a missing fact and explain how to check it.",
+      "speakingSample": "She moved in 2018, began an evening course in 2019 and started a new job in 2020. Did the course begin before the move? No, it began afterwards. We do not know why she moved. I would ask her or check another source instead of inventing a reason.",
+      "transferCheck": {
+        "source": "Try without the earlier models. Notes about Alex: born in Reno in 2001; moved to Portland in 2009; first cafe job in 2018; evening course in 2021. A classmate says Alex moved because he disliked Reno. The notes do not give a reason. Listen to the dictation, then complete the tasks.",
+        "dictation": "Alex moved to Portland in 2009.",
+        "tasks": [
+          [
+            "1 · Places and dates",
+            "Name Alex’s birthplace. Which year comes after the first cafe job: 2009 or 2021? Explain what happened then."
+          ],
+          [
+            "2 · Build a question",
+            "Ask whether Alex moved before he began his first cafe job. Then answer using the dates."
+          ],
+          [
+            "3 · Check the information",
+            "Is the classmate’s reason supported by the notes? Explain what you would need to check."
+          ],
+          [
+            "4 · Retell and ask",
+            "Retell three events in order without the model. Ask your partner for one date and one missing detail. Use invented personal details only if you label them as invented."
+          ],
+          [
+            "5 · Write and retrieve",
+            "Write a 40–60-word factual account from the notes. Do not copy the earlier reading. Then cover the notes and recall two useful expressions from this unit."
+          ]
+        ],
+        "answer": "1: Reno. In 2021, after the 2018 job, Alex began an evening course.\n2: Did Alex move before he began his first cafe job? Yes. He moved in 2009 and began the job in 2018.\n3: No. The notes do not explain why he moved. Ask Alex or check another source.\n4: Check for chronological order, an answerable date question and an honest statement about missing information.\n5: Sample writing: Alex was born in Reno in 2001. He moved to Portland in 2009 and began his first cafe job in 2018. In 2021, he started an evening course. These notes show when the events happened, but they do not explain why he moved. I would ask him before adding a reason.\nRetrieve first, then check earlier lessons. Examples include at the age of, first job and the following year."
+      },
+      "pronunciationTarget": {
+        "word": "truth",
+        "ipa": "/truːθ/"
+      },
+      "mainIntroduction": "Learn a useful expression and use it yourself."
+    }
+  ]
+}

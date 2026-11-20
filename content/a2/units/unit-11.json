@@ -1,0 +1,865 @@
+{
+  "number": 11,
+  "title": "Services and appointments",
+  "lessons": [
+    {
+      "day": 81,
+      "unit": 11,
+      "title": "Prepare something to send through the post",
+      "goal": "I can describe what I want to send and ask which details the service needs.",
+      "newItems": [
+        {
+          "word": "parcel",
+          "ipa": "/ˈpɑrsəl/",
+          "pos": "noun",
+          "definition": "An object or objects wrapped together to be sent by post.",
+          "example": "I take a small parcel to the post office.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "package",
+          "ipa": "/ˈpækɪdʒ/",
+          "pos": "noun",
+          "definition": "An object or group of objects wrapped or packed in a container, especially for sending or selling.",
+          "example": "The package contains a book.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "postcard",
+          "ipa": "/ˈpoʊstˌkɑrd/",
+          "pos": "noun",
+          "definition": "A card, often with a picture on one side, that can be sent without an envelope.",
+          "example": "I write a short message on a postcard.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "send a parcel",
+          "ipa": "/sɛnd ə ˈpɑrsəl/",
+          "pos": "fixed phrase",
+          "definition": "To arrange for a wrapped item to be taken to another person by a postal or delivery service.",
+          "example": "I want to send a parcel to my sister.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "return address",
+          "ipa": "/rɪˈtɝn əˌdrɛs/",
+          "pos": "fixed phrase",
+          "definition": "The sender’s address, used if an item needs to be sent back.",
+          "example": "I write my return address clearly.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "book",
+        "stamp",
+        "envelope",
+        "address",
+        "letter"
+      ],
+      "mainWord": {
+        "word": "parcel",
+        "ipa": "/ˈpɑrsəl/",
+        "pos": "noun",
+        "definition": "An object or objects wrapped together to be sent by post.",
+        "example": "I take a small parcel to the post office.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Noun: parcel; plural: parcels. Package is very common in American English. The words can refer to the same mailed item; they are not two different kinds of object in this example.",
+      "wordTask": "Ask to arrange postal delivery of a wrapped book to your sister.",
+      "wordSample": "I would like to send a parcel containing a book to my sister.",
+      "expression": "What information do you need from me?",
+      "use": "Find out which details a service requires before you complete a transaction.",
+      "context": [
+        "I would like to send this book. What information do you need from me?",
+        "Please give the destination and your return address."
+      ],
+      "expressionTask": "Ask about sending a wrapped item. State what it contains and ask which addresses the service needs.",
+      "grammar": "Contains plus a singular object",
+      "pattern": "Use contains to say what is inside a singular package or container.",
+      "example": "The package contains a book.",
+      "task": "The package ___ a book.",
+      "answer": "contains",
+      "sound": "Parcel has two syllables. Stress PAR and keep the second syllable short. In American English, pronounce the R in the first syllable.",
+      "model": "This parcel contains a book.",
+      "dialogue": [
+        "I would like to send a parcel to my sister.",
+        "What does the package contain?",
+        "A book and a postcard. What information do you need from me?",
+        "The destination address and your return address.",
+        "Do parcel and package mean different objects here?",
+        "No. They can describe the same wrapped item in this situation."
+      ],
+      "reading": "Bella wants to send a parcel containing a book and a postcard to her sister. At the post office, the clerk calls it a package. Bella understands that both words can refer to the same item here. She checks the destination and adds her return address. She also asks about any rules for the contents before choosing a service, rather than assuming every wrapped item can be sent in the same way.",
+      "readingQ": "Why does Bella add a return address?",
+      "readingA": "It tells the service where to send the item back if necessary.",
+      "writing": "Write a short postal enquiry. Describe the contents and ask what address information is required.",
+      "listening": "Please bring the wrapped item to the counter before four thirty today. The post office itself stays open until five, but the final collection for parcels is earlier. Staff can weigh the item and explain the available services when you arrive.",
+      "question": "When should the wrapped item reach the counter for today’s final parcel collection?",
+      "correct": "Before four thirty",
+      "other": "At five",
+      "speaking": "Role-play a postal enquiry. Describe the contents, give invented address details and ask about the next step before paying.",
+      "speakingSample": "I would like to send a parcel containing a book and a postcard to my sister. Here are the destination and return address. Are there any rules I need to check for these contents? Please weigh the package and explain the available services before I choose.",
+      "writingSample": "Hello, I would like to send a wrapped book and a postcard to my sister. Which address details do you need? Please explain any rules for these contents and the available services before I choose one."
+    },
+    {
+      "day": 82,
+      "unit": 11,
+      "title": "Compare the practical details of a delivery service",
+      "goal": "I can compare delivery options and clarify an estimated arrival date.",
+      "newItems": [
+        {
+          "word": "delivery",
+          "ipa": "/dɪˈlɪvəri/",
+          "pos": "noun",
+          "definition": "The act of taking goods, letters or other items to a person or place.",
+          "example": "Delivery is expected on Thursday.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "collection",
+          "ipa": "/kəˈlɛkʃən/",
+          "pos": "noun",
+          "definition": "The act of picking something up from a place.",
+          "example": "The final collection from this counter is at four.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "tracking number",
+          "ipa": "/ˈtrækɪŋ ˈnʌmbɚ/",
+          "pos": "fixed phrase",
+          "definition": "A code used to check the progress of a posted or delivered item.",
+          "example": "I enter the tracking number on the service’s website.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "standard delivery",
+          "ipa": "/ˈstændɚd dɪˈlɪvəri/",
+          "pos": "fixed phrase",
+          "definition": "The normal delivery service offered by a particular provider, rather than a faster or special option.",
+          "example": "I compare standard delivery with the faster service.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "signed delivery",
+          "ipa": "/saɪnd dɪˈlɪvəri/",
+          "pos": "fixed phrase",
+          "definition": "A delivery service that asks for a signature when an item is received, according to that service’s rules.",
+          "example": "I ask whether signed delivery suits this document.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "parcel",
+        "package",
+        "price",
+        "thursday",
+        "receipt"
+      ],
+      "mainWord": {
+        "word": "delivery",
+        "ipa": "/dɪˈlɪvəri/",
+        "pos": "noun",
+        "definition": "The act of taking goods, letters or other items to a person or place.",
+        "example": "Delivery is expected on Thursday.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Noun: delivery; plural: deliveries. A delivery brings an item to its destination. A collection picks an item up. Times and service features depend on the provider.",
+      "wordTask": "Your item needs to reach another person. Ask which day the service expects to deliver it.",
+      "wordSample": "Which day is delivery expected?",
+      "expression": "Is that an estimate or a guarantee?",
+      "use": "Clarify whether a stated date is only expected or is promised under specific service conditions.",
+      "context": [
+        "You said Thursday. Is that an estimate or a guarantee?",
+        "It is an estimate for this service. Let me explain the other option."
+      ],
+      "expressionTask": "Compare a service’s price, expected arrival and proof of receipt. Ask what a stated date means.",
+      "grammar": "Expected plus a time phrase",
+      "pattern": "Use is expected to state an anticipated event; this wording alone does not promise it will happen.",
+      "example": "Delivery is expected on Thursday.",
+      "task": "Delivery is ___ on Thursday.",
+      "answer": "expected",
+      "sound": "Delivery has four syllables. Stress LIV, the second syllable. Keep the beginning short rather than stressing DE.",
+      "model": "Delivery is expected on Thursday.",
+      "dialogue": [
+        "Does standard delivery usually arrive on Thursday?",
+        "Thursday is the estimated day for this item.",
+        "Is that an estimate or a guarantee?",
+        "An estimate. Signed delivery is a different option, but we still need to check its timing.",
+        "Will I receive a tracking number?",
+        "Yes, it is on the receipt. Today’s final collection is at four."
+      ],
+      "reading": "Fenrir compares standard delivery with signed delivery for a document. He asks about the price and the expected arrival day. The clerk explains that Thursday is an estimate, not a promise. A tracking number lets him check progress, but it does not change the service’s timing rules. He also checks the final collection time. He chooses only after understanding which features each service actually includes.",
+      "readingQ": "Does having a tracking number turn an estimated date into a guaranteed date?",
+      "readingA": "No. Tracking does not change the service’s timing rules.",
+      "writing": "Write a comparison of two invented delivery options. Distinguish the price, expected day and proof of receipt.",
+      "listening": "The receipt shows your tracking code near the top. This item is booked for standard delivery, with arrival expected on Thursday. The code lets you check its progress. If you need a guaranteed date for a future item, ask about the exact service conditions before booking it.",
+      "question": "Where is the tracking code on the receipt?",
+      "correct": "Near the top",
+      "other": "On the back only",
+      "speaking": "Explain two service options to a partner. Ask whether the time is estimated and confirm which option you chose.",
+      "speakingSample": "I chose standard delivery because the expected day suits me. Thursday is an estimate, so I am not treating it as a guaranteed arrival date. The receipt has a tracking number. For a document needing a signature, I would ask about signed delivery and its conditions separately.",
+      "writingSample": "In this invented offer, standard delivery costs four dollars and is expected on Thursday. Signed delivery costs six dollars and is expected on Friday, with a signature requested on receipt. Neither date is described as guaranteed, so I would check the conditions before choosing."
+    },
+    {
+      "day": 83,
+      "unit": 11,
+      "title": "Explain what you want at a hair salon",
+      "goal": "I can explain a hairstyle change and say what I want to keep.",
+      "newItems": [
+        {
+          "word": "hairdresser",
+          "ipa": "/ˈhɛrˌdrɛsɚ/",
+          "pos": "noun",
+          "definition": "A person whose job is to cut or style hair.",
+          "example": "The hairdresser asks how much hair I want cut.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "haircut",
+          "ipa": "/ˈhɛrˌkʌt/",
+          "pos": "noun",
+          "definition": "The act or result of cutting someone’s hair.",
+          "example": "I would like a simple haircut.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "barber",
+          "ipa": "/ˈbɑrbɚ/",
+          "pos": "noun",
+          "definition": "A person whose work commonly includes cutting hair and trimming facial hair.",
+          "example": "The barber asks whether I want my beard trimmed.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "scissors",
+          "ipa": "/ˈsɪzɚz/",
+          "pos": "noun",
+          "definition": "A tool with two joined blades used for cutting.",
+          "example": "The hairdresser uses scissors to cut the ends.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "shorter at the sides",
+          "ipa": "/ˈʃɔrtɚ æt ðə saɪdz/",
+          "pos": "fixed phrase",
+          "definition": "With less length on the sides than at present, in this hairstyle request.",
+          "example": "I would like it shorter at the sides but not on top.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "hair",
+        "short",
+        "long",
+        "side",
+        "top"
+      ],
+      "mainWord": {
+        "word": "hairdresser",
+        "ipa": "/ˈhɛrˌdrɛsɚ/",
+        "pos": "noun",
+        "definition": "A person whose job is to cut or style hair.",
+        "example": "The hairdresser asks how much hair I want cut.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Noun: hairdresser; plural: hairdressers. A haircut is the service or result, not the person. Scissors is plural: these scissors or a pair of scissors.",
+      "wordTask": "Ask the person cutting your hair to reduce the length on the sides but keep the top as it is.",
+      "wordSample": "I would like it shorter at the sides, but please keep the top the same length.",
+      "expression": "Please keep the top the same length.",
+      "use": "State clearly which part you do not want changed, as well as which part you want cut.",
+      "context": [
+        "Please keep the top the same length. I only want the sides shorter.",
+        "Let me check the amount with you before I begin."
+      ],
+      "expressionTask": "Use a photo or simple drawing to explain a hairstyle change and one part you want to keep.",
+      "grammar": "Keep plus an object and a description",
+      "pattern": "Use keep to say that something should stay in its present state.",
+      "example": "Please keep the top the same length.",
+      "task": "Please ___ the top the same length.",
+      "answer": "keep",
+      "sound": "Hairdresser has three syllables, with the first strongest. Keep the R in hair audible in American English and the final syllable short.",
+      "model": "The hairdresser checks the length.",
+      "dialogue": [
+        "I would like a haircut.",
+        "What would you like to change?",
+        "Shorter at the sides, please. Please keep the top the same length.",
+        "I can show the amount before using the scissors.",
+        "Does the barber next door offer the same style?",
+        "The services can differ. Show the style and ask what is available rather than rely only on the job title."
+      ],
+      "reading": "Bella shows a photo to the hairdresser and asks for a haircut shorter at the sides. She wants to keep the top the same length. The hairdresser checks the amount before using the scissors. A barber next door offers a different list of services. Bella learns to explain the result she wants instead of assuming that a job title tells her every service a person offers.",
+      "readingQ": "What does Bella want to keep unchanged?",
+      "readingA": "She wants to keep the top the same length.",
+      "writing": "Write a short hairstyle request. Name one change and one feature you want to keep unchanged.",
+      "listening": "Your booking is for a cut only at three fifteen. A wash is not included in this booking. If you want to add another service, please ask before the visit so the salon can check the time and price. Please arrive five minutes early.",
+      "question": "Which service is included in the booking?",
+      "correct": "A cut only",
+      "other": "A cut and a wash",
+      "speaking": "Role-play a consultation. Explain a change, identify what should stay the same and check the service before it begins.",
+      "speakingSample": "I would like a haircut that is shorter at the sides. Please keep the top the same length. Could you show me how much you plan to remove before you begin? I have booked a cut only; please tell me if the service or price needs to change.",
+      "photo": {
+        "id": "3356170",
+        "asset": "assets/a2-photos/3356170.jpg",
+        "sourceURL": "https://www.pexels.com/photo/person-cutting-hair-3356170/",
+        "credit": "Engin Akyurt · Pexels",
+        "licenseURL": "https://www.pexels.com/license/",
+        "caption": "A hairdresser cutting hair with scissors and a comb.",
+        "alt": "Close-up of a hairdresser’s hands trimming dark hair with scissors and a comb.",
+        "fit": "cover",
+        "focalY": 0.4,
+        "dimensions": [
+          1400,
+          933
+        ]
+      },
+      "writingSample": "I would like my hair shorter at the sides, but please keep the top the same length. Could you show me how much you plan to cut before starting?"
+    },
+    {
+      "day": 84,
+      "unit": 11,
+      "title": "Choose a laundry service that matches your clothes",
+      "goal": "I can ask which cleaning service suits an item and its care instructions.",
+      "newItems": [
+        {
+          "word": "laundromat",
+          "ipa": "/ˈlɔndrəˌmæt/",
+          "pos": "noun",
+          "definition": "A place where customers pay to use machines to wash and dry clothes, especially in American English.",
+          "example": "The laundromat has machines for large loads.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "dry cleaning",
+          "ipa": "/draɪ ˈklinɪŋ/",
+          "pos": "fixed phrase",
+          "definition": "A professional cleaning method using liquids other than water for suitable fabrics.",
+          "example": "The coat’s care label says dry cleaning only.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "laundry service",
+          "ipa": "/ˈlɔndri ˈsɝvəs/",
+          "pos": "fixed phrase",
+          "definition": "A service that washes clothes or other fabrics for customers.",
+          "example": "The hotel offers a laundry service.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "wash and dry",
+          "ipa": "/wɑʃ ən draɪ/",
+          "pos": "fixed phrase",
+          "definition": "To clean fabric using water and then remove its moisture, according to its care instructions.",
+          "example": "This service can wash and dry suitable everyday clothes.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "separate colors",
+          "ipa": "/ˈsɛpəreɪt ˈkʌlɚz/",
+          "pos": "fixed phrase",
+          "definition": "To put clothes of different color groups into different loads when needed for washing.",
+          "example": "I ask whether I should separate colors before using the machine.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "clothes",
+        "wash",
+        "dry",
+        "machine",
+        "label"
+      ],
+      "mainWord": {
+        "word": "laundromat",
+        "ipa": "/ˈlɔndrəˌmæt/",
+        "pos": "noun",
+        "definition": "A place where customers pay to use machines to wash and dry clothes, especially in American English.",
+        "example": "The laundromat has machines for large loads.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Noun: laundromat; plural: laundromats. Launderette is a common British term. A self-service machine facility and professional dry cleaning are different services.",
+      "wordTask": "Name the place where you can pay to use washing and drying machines yourself.",
+      "wordSample": "I can use the machines at a laundromat.",
+      "expression": "Is this service suitable for this item?",
+      "use": "Check whether a service fits the particular object and its instructions before paying.",
+      "context": [
+        "Is this service suitable for this item? The coat has a care label.",
+        "Let us read the label before choosing a cleaning method."
+      ],
+      "expressionTask": "Compare two services for two items with different care labels. Ask the provider which service is suitable.",
+      "grammar": "Only after a noun phrase",
+      "pattern": "Only can restrict a notice to one permitted choice. Read the whole phrase to understand the limit.",
+      "example": "This coat is for dry cleaning only.",
+      "task": "This coat is for dry cleaning ___.",
+      "answer": "only",
+      "sound": "Laundromat has three syllables with the first strongest. The middle syllable is short; do not give all three syllables equal stress.",
+      "model": "The laundromat is open today.",
+      "dialogue": [
+        "Can this laundromat wash and dry all my clothes?",
+        "Check the labels. Some items may need another service.",
+        "This coat says dry cleaning only. Is this service suitable for this item?",
+        "A normal water wash is not the service described on that label. Ask the cleaner about the coat.",
+        "What about the rest of my clothes?",
+        "Check their instructions and ask how to separate colors. A laundry service may also be available if you do not want to use the machines yourself."
+      ],
+      "reading": "Fenrir takes everyday clothes to a laundromat. Before choosing wash and dry, he reads their care labels and asks how to separate colors. His coat requires dry cleaning, so he asks a professional cleaner about it instead of putting it into the same machine. A nearby laundry service can handle suitable clothes for him. He compares the services by the actual items and instructions, not just by price.",
+      "readingQ": "Why does Fenrir ask a professional cleaner about his coat?",
+      "readingA": "Its care label requires dry cleaning, rather than the same wash as his everyday clothes.",
+      "writing": "Write a short service enquiry about two items with different care requirements. Ask what is suitable for each.",
+      "listening": "The self-service machines close at eight tonight. The staffed counter closes at six. If you need help choosing a service, arrive before six. Clothes left with staff today will be ready on Saturday, not tomorrow. Please keep the collection receipt.",
+      "question": "When does the staffed counter close?",
+      "correct": "At six",
+      "other": "At eight",
+      "speaking": "Explain your clothes’ care instructions to a service provider. Ask about suitability, timing and how you will collect the items.",
+      "speakingSample": "These everyday clothes have washing instructions, but this coat says dry cleaning only. Is this service suitable for each item? Please explain which items I can wash myself and which need a different service. When will anything left with staff be ready to collect?",
+      "writingSample": "I have everyday clothes with washing instructions and a coat marked dry cleaning only. Which service is suitable for each item? Please explain the price and collection time before I leave anything with you."
+    },
+    {
+      "day": 85,
+      "unit": 11,
+      "title": "Agree on a repair and collection arrangement",
+      "goal": "I can ask about a repair cost before agreeing and confirm collection arrangements.",
+      "newItems": [
+        {
+          "word": "repair service",
+          "ipa": "/rɪˈpɛr ˈsɝvəs/",
+          "pos": "fixed phrase",
+          "definition": "A business service that fixes damaged or faulty items.",
+          "example": "I contact a repair service about my lamp.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "repair cost",
+          "ipa": "/rɪˈpɛr kɔst/",
+          "pos": "fixed phrase",
+          "definition": "The amount charged to fix something.",
+          "example": "I want to know the repair cost before agreeing.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "pick-up time",
+          "ipa": "/ˈpɪk ʌp taɪm/",
+          "pos": "fixed phrase",
+          "definition": "The arranged time for collecting someone or something.",
+          "example": "The shop confirms a pick-up time for the repaired lamp.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "collection point",
+          "ipa": "/kəˈlɛkʃən pɔɪnt/",
+          "pos": "fixed phrase",
+          "definition": "A specified place where someone collects an item or meets a service.",
+          "example": "The side counter is the collection point.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "leave your number",
+          "ipa": "/liv jʊr ˈnʌmbɚ/",
+          "pos": "fixed phrase",
+          "definition": "To give your phone number so someone can contact you later.",
+          "example": "Please leave your number so we can confirm the cost.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "repair",
+        "lamp",
+        "cost",
+        "receipt",
+        "call"
+      ],
+      "mainWord": {
+        "word": "repair service",
+        "ipa": "/rɪˈpɛr ˈsɝvəs/",
+        "pos": "fixed phrase",
+        "definition": "A business service that fixes damaged or faulty items.",
+        "example": "I contact a repair service about my lamp.",
+        "category": "fixed_phrase",
+        "status": "new"
+      },
+      "mainWordForms": "Phrase: repair service; plural: repair services. Repair is a noun describing the kind of service here. Ask what work is included rather than assume everything is covered.",
+      "wordTask": "Ask a business whether it can fix your lamp and tell you the charge before starting.",
+      "wordSample": "Does your repair service fix lamps, and can you confirm the repair cost before starting?",
+      "expression": "Please check with me before starting.",
+      "use": "Request agreement before work begins, particularly if the scope or price is not yet known.",
+      "context": [
+        "Please check with me before starting. I need to know the cost.",
+        "We will call with the details and wait for your decision."
+      ],
+      "expressionTask": "Describe a faulty item, request the price before work starts and agree on how the shop should contact you.",
+      "grammar": "Before plus a gerund after a request",
+      "pattern": "Use before plus an -ing activity when asking someone to take one action earlier than another.",
+      "example": "Please call before starting the work.",
+      "task": "Please call before ___ the work.",
+      "answer": "starting",
+      "sound": "Repair has two syllables, with the second stressed. Use the American R sound in both the beginning and the stressed ending.",
+      "model": "Please confirm the repair cost.",
+      "dialogue": [
+        "Does your repair service fix lamps?",
+        "Yes. Please leave your number so we can contact you.",
+        "Please check with me before starting. I need to know the repair cost.",
+        "We will call first, then arrange a pick-up time if you agree.",
+        "Where should I collect the lamp?",
+        "The side counter is our collection point. Bring the receipt."
+      ],
+      "reading": "Bella asks a repair service to examine a faulty lamp. She requests the repair cost before agreeing to the work. The assistant asks her to leave her number so the shop can call with details. After she agrees, they will confirm a pick-up time and the collection point. Bella keeps the receipt. Leaving an item at the shop does not, in this arrangement, mean she has agreed to any possible repair charge.",
+      "readingQ": "Has Bella agreed to any repair charge simply by leaving the lamp?",
+      "readingA": "No. The arrangement is for the shop to call with the cost and wait for her agreement.",
+      "writing": "Write a repair request. Describe the item, ask for a cost before work starts and state how the shop can contact you.",
+      "listening": "Your lamp is ready for collection. The agreed repair charge is eighteen dollars. Please use the side counter and bring your receipt. You may collect it from two until five today. The main sales counter cannot release repair items.",
+      "question": "Which counter should the customer use?",
+      "correct": "The side counter",
+      "other": "The main sales counter",
+      "speaking": "Role-play arranging a repair. Confirm the item, agreement on price, contact method and eventual collection details.",
+      "speakingSample": "Does your repair service fix this kind of lamp? Please check with me before starting and explain the cost. Here is an invented phone number for the practice. If I agree to the work, please confirm when it will be ready and which counter I should use for collection.",
+      "writingSample": "Hello, my lamp is not working. Can your service examine it and tell me the repair cost before starting? Please contact me using the number on my form and wait for my agreement. I would also like to know the collection arrangements.",
+      "pronunciationTarget": {
+        "word": "repair",
+        "ipa": "/rɪˈpɛr/"
+      }
+    },
+    {
+      "day": 86,
+      "unit": 11,
+      "title": "Request a copy and check what a document service needs",
+      "goal": "I can request the correct number of copies and check document requirements.",
+      "newItems": [
+        {
+          "word": "clerk",
+          "ipa": "/klɝk/",
+          "pos": "noun",
+          "definition": "A person who deals with records, customers or office tasks as part of their job.",
+          "example": "The clerk checks which document I want copied.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "identity",
+          "ipa": "/aɪˈdɛntəti/",
+          "pos": "noun",
+          "definition": "Who a person is.",
+          "example": "The service needs to confirm my identity.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "make a copy",
+          "ipa": "/meɪk ə ˈkɑpi/",
+          "pos": "fixed phrase",
+          "definition": "To produce another version of a document or other item.",
+          "example": "Please make a copy of the front page.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "print a document",
+          "ipa": "/prɪnt ə ˈdɑkjəmənt/",
+          "pos": "fixed phrase",
+          "definition": "To produce text or images from a digital file on paper.",
+          "example": "I need to print a document from my own file.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "proof of identity",
+          "ipa": "/pruf əv aɪˈdɛntəti/",
+          "pos": "fixed phrase",
+          "definition": "A document or other accepted evidence showing who someone is.",
+          "example": "I ask which proof of identity the service accepts.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "document",
+        "paper",
+        "passport",
+        "page",
+        "textbook"
+      ],
+      "mainWord": {
+        "word": "clerk",
+        "ipa": "/klɝk/",
+        "pos": "noun",
+        "definition": "A person who deals with records, customers or office tasks as part of their job.",
+        "example": "The clerk checks which document I want copied.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Noun: clerk; plural: clerks. American English commonly uses the R vowel in clerk. Identity is a noun; accepted proof depends on the particular service.",
+      "wordTask": "Ask the office worker to copy only the front page of a document.",
+      "wordSample": "Could you make a copy of the front page only, please?",
+      "expression": "Do you need the original?",
+      "use": "Check whether a service needs the first document itself or can accept another version.",
+      "context": [
+        "Do you need the original? I have a copy with me.",
+        "For this service, we need to see the original as well."
+      ],
+      "expressionTask": "Ask what version of a document a service needs and request the correct number of copies.",
+      "grammar": "Both ... and ... for two required things",
+      "pattern": "Use both and and to make clear that two things are included or required.",
+      "example": "Please bring both the original and the copy.",
+      "task": "Please bring both the original ___ the copy.",
+      "answer": "and",
+      "sound": "Clerk has one syllable. Begin with K and L together, then use the American R vowel. Finish with K without adding a second syllable.",
+      "model": "The clerk checks the document.",
+      "dialogue": [
+        "I need to make a copy of this page and print a document from my file.",
+        "How many copies do you need?",
+        "One of each. Do you need the original?",
+        "Yes, to check which page you mean.",
+        "The other service also asks for proof of identity. Which document will it accept?",
+        "Ask that service directly. A printing clerk cannot decide another office’s identity requirements."
+      ],
+      "reading": "Fenrir asks a clerk to make a copy of one page and print a document from his own file. He confirms the number of copies and checks the price. For a different service, he must show proof of identity. He asks that office which original document it accepts. A copy useful for reading does not automatically meet every identity check. He keeps the requirements for the two services separate.",
+      "readingQ": "Who should Fenrir ask about accepted proof of identity?",
+      "readingA": "He should ask the office that requires the identity check.",
+      "writing": "Write a printing request with the number of pages and copies. Add a separate question about any original document required.",
+      "listening": "The print desk can produce two copies of your three-page file. Please check the screen preview before confirming. The total will cover six printed pages. Your separate identity appointment is at the service office upstairs; the print desk cannot confirm that office’s accepted documents.",
+      "question": "How many pages will be printed in total?",
+      "correct": "Six pages",
+      "other": "Three pages",
+      "speaking": "Role-play two related service enquiries. Give a clear printing request and ask the correct office about its document requirements.",
+      "speakingSample": "I need two copies of a three-page file, so that is six printed pages in total. Please show me the preview before printing. For my separate appointment, do you need the original document as proof of identity? I will confirm the accepted documents with that office.",
+      "writingSample": "Please print two copies of my three-page document. That will be six pages in total. Could you show me a preview and confirm the price first? Separately, does the service office need the original document as proof of identity?"
+    },
+    {
+      "day": 87,
+      "unit": 11,
+      "title": "Report a missing item to the correct service",
+      "goal": "I can describe a missing item and contact the service responsible for it.",
+      "newItems": [
+        {
+          "word": "lost property",
+          "ipa": "/lɔst ˈprɑpɚti/",
+          "pos": "fixed phrase",
+          "definition": "Items that someone has lost and that are kept for the owner to claim, especially in British English.",
+          "example": "I ask whether the station has a lost property office.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "report a loss",
+          "ipa": "/rɪˈpɔrt ə lɔs/",
+          "pos": "fixed phrase",
+          "definition": "To tell the responsible person or organization that something is missing.",
+          "example": "I need to report a loss to the card provider.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "replace a card",
+          "ipa": "/rɪˈpleɪs ə kɑrd/",
+          "pos": "fixed phrase",
+          "definition": "To obtain or issue another card instead of one that is lost, damaged or no longer usable.",
+          "example": "The provider explains how to replace a card.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "customer service",
+          "ipa": "/ˈkʌstəmɚ ˈsɝvəs/",
+          "pos": "fixed phrase",
+          "definition": "The support an organization gives people who use its products or services.",
+          "example": "Customer service explains the next step.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "service desk",
+          "ipa": "/ˈsɝvəs dɛsk/",
+          "pos": "fixed phrase",
+          "definition": "A counter or point where staff help with information or services.",
+          "example": "The service desk is near the station entrance.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "lost",
+        "wallet",
+        "card",
+        "bag",
+        "customer"
+      ],
+      "mainWord": {
+        "word": "lost property",
+        "ipa": "/lɔst ˈprɑpɚti/",
+        "pos": "fixed phrase",
+        "definition": "Items that someone has lost and that are kept for the owner to claim, especially in British English.",
+        "example": "I ask whether the station has a lost property office.",
+        "category": "fixed_phrase",
+        "status": "new"
+      },
+      "mainWordForms": "Phrase: lost property. Property in this expression means belongings, not a building. Lost and found is a common American name for the service.",
+      "wordTask": "Ask where belongings found by station staff are kept for their owners.",
+      "wordSample": "Is there a lost property office where I can ask about my missing wallet?",
+      "expression": "I can describe it.",
+      "use": "Offer identifying features of a missing object so staff can distinguish it from similar items.",
+      "context": [
+        "I can describe it. It is a small green wallet with a broken corner.",
+        "Please tell us where you last had it as well."
+      ],
+      "expressionTask": "Report an invented missing item. Describe distinguishing features and say where you last had it.",
+      "grammar": "Where plus a past statement",
+      "pattern": "Use where I last had it as a statement about a place, not a direct question with did.",
+      "example": "I remember where I last had it.",
+      "task": "I remember where I last ___ it.",
+      "answer": "had",
+      "sound": "Lost property has the strongest content stress on LOST and the first syllable of property. In lost, keep the final ST cluster clear.",
+      "model": "I can describe the lost property.",
+      "dialogue": [
+        "Is there a lost property office at this station?",
+        "Customer service can help at the service desk.",
+        "I can describe it. My wallet is small and green.",
+        "Please give the place and time you last had it.",
+        "If a travel card is missing too, can this desk replace a card?",
+        "Ask the card provider how to report a loss and arrange a replacement. This desk handles found belongings."
+      ],
+      "reading": "Bella goes to the station service desk to ask about lost property. Customer service takes a description of her green wallet and where she last had it. If her travel card is missing, she must also report a loss to its provider. That provider explains how to replace a card. Finding belongings and replacing a provider’s card are different services, so she asks each organization the question it can actually answer.",
+      "readingQ": "Why might Bella need to contact the card provider as well as station staff?",
+      "readingA": "The provider handles reporting and replacing its card, while station staff handle found belongings.",
+      "writing": "Write a short report of an invented missing item. Include identifying features and the last known place and time.",
+      "listening": "The found-items desk is open until six. To ask about an item, give a description and the place where you last had it. A green wallet has been found, but staff need identifying details before deciding whether it belongs to the person asking. Do not assume every green wallet is yours.",
+      "question": "What do staff need before deciding whether the wallet belongs to someone?",
+      "correct": "Identifying details",
+      "other": "Only a first name",
+      "speaking": "Role-play reporting a lost item and a missing service card. Explain which organization you will contact for each issue and what information you can provide.",
+      "speakingSample": "I lost a small green wallet near platform two around four. I can describe its worn corner and the items inside using invented details for practice. Please check found belongings. If my travel card is missing, I will contact its provider to report the loss and ask about a replacement separately.",
+      "writingSample": "I lost a small green wallet near platform two at about four this afternoon. One corner is worn. Please let me know how I can describe its contents to help staff check whether a found wallet is mine."
+    },
+    {
+      "day": 88,
+      "unit": 11,
+      "title": "Ask about a money service before agreeing to it",
+      "goal": "I can distinguish three money services and ask about the total charge.",
+      "newItems": [
+        {
+          "word": "withdraw cash",
+          "ipa": "/wɪðˈdrɔ kæʃ/",
+          "pos": "fixed phrase",
+          "definition": "To take money out of an account in the form of notes or coins.",
+          "example": "I ask where I can withdraw cash.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "deposit money",
+          "ipa": "/dɪˈpɑzɪt ˈmʌni/",
+          "pos": "fixed phrase",
+          "definition": "To put money into an account.",
+          "example": "The clerk explains where customers can deposit money.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "exchange money",
+          "ipa": "/ɪksˈtʃeɪndʒ ˈmʌni/",
+          "pos": "fixed phrase",
+          "definition": "To change money in one currency into money in another.",
+          "example": "I ask about the total charge before I exchange money.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "cash machine",
+          "ipa": "/kæʃ məˈʃin/",
+          "pos": "fixed phrase",
+          "definition": "A machine used to obtain cash and sometimes other banking services; also called an ATM.",
+          "example": "The cash machine is beside the entrance.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "in person",
+          "ipa": "/ɪn ˈpɝsən/",
+          "pos": "fixed phrase",
+          "definition": "By being physically present rather than using a phone, online service or representative.",
+          "example": "This enquiry needs to be made in person.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "money",
+        "cash",
+        "bank",
+        "amount",
+        "receipt"
+      ],
+      "mainWord": {
+        "word": "withdraw cash",
+        "ipa": "/wɪðˈdrɔ kæʃ/",
+        "pos": "fixed phrase",
+        "definition": "To take money out of an account in the form of notes or coins.",
+        "example": "I ask where I can withdraw cash.",
+        "category": "fixed_phrase",
+        "status": "new"
+      },
+      "mainWordForms": "Phrase: withdraw cash. Verb forms: withdraw, withdraws, withdrew, withdrawn, withdrawing. Withdraw takes money out; deposit puts money in. Do not treat them as the same action.",
+      "wordTask": "Explain the difference between taking cash out of an account and putting money into one.",
+      "wordSample": "I withdraw cash to take money out. I deposit money to put money in.",
+      "expression": "What is the total charge?",
+      "use": "Check the full stated cost of a service before deciding whether to use it.",
+      "context": [
+        "What is the total charge? I want to know what I will pay before I decide.",
+        "Let us check the service and amount first, then show you the full total."
+      ],
+      "expressionTask": "Compare two invented service offers. Ask about the full charge and confirm the action before deciding.",
+      "grammar": "Before I plus a base verb",
+      "pattern": "Use before I followed by a present form to refer to an action that is still in the future in a time clause.",
+      "example": "I check the total before I decide.",
+      "task": "I check the total before I ___.",
+      "answer": "decide",
+      "sound": "Withdraw has two syllables, with the second stressed. Keep the TH sound distinct from the D and R that follow it.",
+      "model": "I would like to withdraw cash.",
+      "dialogue": [
+        "Can I withdraw cash at that cash machine?",
+        "It provides cash withdrawals. Ask which other services it supports.",
+        "Can I deposit money there too?",
+        "We need to check that particular machine rather than assume.",
+        "If I exchange money in person, what is the total charge?",
+        "The clerk can explain the amount and any charges before you decide."
+      ],
+      "reading": "Fenrir compares service information without making a transaction during the lesson. He learns that withdraw cash means taking money out, while deposit money means putting it in. A cash machine may not offer both actions. If he wants to exchange money in person, he asks about the total charge and amount he would receive. He repeats the proposed action clearly before deciding, rather than confusing three different services.",
+      "readingQ": "Does every cash machine necessarily offer both withdrawals and deposits?",
+      "readingA": "No. The services of the particular machine need to be checked.",
+      "writing": "Write an enquiry about one money service using invented details. State the action and ask about the full charge before agreeing.",
+      "listening": "This practice notice describes a cash machine that gives out notes but does not accept deposits. For questions about exchanging currencies, ask at the staffed counter. The counter closes at four, while the machine remains available later. Check the service you need before joining a queue.",
+      "question": "Which service is not available at the machine in this notice?",
+      "correct": "Depositing money",
+      "other": "Taking out notes",
+      "speaking": "Complete a service task with a partner: compare two options, ask a necessary question, confirm the agreed details and say what evidence or receipt you will keep.",
+      "speakingSample": "I need to withdraw cash, not deposit money or exchange currencies. Please confirm that this machine provides the service I need and explain any charge before I decide. For my separate parcel, I will compare the delivery options, confirm the destination and keep the receipt and tracking number.",
+      "writingSample": "Hello, I would like information about exchanging a small amount of money. Please show me the amount I would receive and the full charge before I decide. I am asking about an exchange, not a cash withdrawal."
+    }
+  ]
+}
