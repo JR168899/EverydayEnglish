@@ -114,11 +114,10 @@
         : s.perLevelLabel + ' · ' + s.total + ' in total';
       var a = document.createElement('a');
       a.className = 'supp-card';
-      a.style.setProperty('--supp', s.color);
       a.href = 'supplement.html?type=' + encodeURIComponent(s.id) + '&level=' + chosenLevel;
       a.innerHTML =
-        '<div class="band" style="background:' + s.color + '"></div><div class="body">' +
-        '<span class="ic-tile" style="background:' + s.color + '">' + EE.icon(s.icon) + '</span>' +
+        '<div class="band"></div><div class="body">' +
+        '<span class="ic-tile">' + EE.icon(s.icon) + '</span>' +
         '<h3>' + EE.esc(s.name) + '</h3>' +
         '<p>' + EE.esc(s.description) + '</p>' +
         '<p><span class="pill">' + EE.esc(count) + '</span> ' +

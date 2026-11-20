@@ -64,7 +64,7 @@
       ' at ' + lv.name + ' · ' + s.total + ' across all 7 levels';
 
   document.getElementById('suppHead').innerHTML =
-    '<section class="hero fullbleed" style="background:linear-gradient(135deg,' + s.color + ' 0%,' + s.color + ' 60%,' + lv.color + ' 130%)">' +
+    '<section class="hero fullbleed" style="background:linear-gradient(135deg,' + lv.color + ' 0%,' + lv.color + ' 60%,#7A2A1A 130%)">' +
     '<span class="hero-badge">' + EE.icon(s.icon) + ' Supplement · ' + (s.cadence === 'weekly' ? 'Weekly' : 'Daily') + '</span>' +
     '<h1>' + EE.esc(s.name) + ' · ' + lv.name + '</h1>' +
     '<p>' + EE.esc(s.description) + '</p>' +
@@ -88,10 +88,10 @@
   var sample = S[s.sampleKey];
   var html = '';
   function flash(inner) {
-    return '<div class="flashcard" style="--level:' + s.color + '">' + inner + '</div>';
+    return '<div class="flashcard" style="--level:' + lv.color + '">' + inner + '</div>';
   }
   if (level === 'a1' && sample) {
-    html += '<div class="section-head"><span class="ic-tile" style="background:' + s.color + ';color:#fff">' + EE.icon(s.icon) + '</span><h2>Sample item — ' + lv.name + '</h2></div>';
+    html += '<div class="section-head"><span class="ic-tile">' + EE.icon(s.icon) + '</span><h2>Sample item — ' + lv.name + '</h2></div>';
     if (s.id === 'phrasal-verbs') {
       html += flash('<div class="word">' + EE.esc(sample.entry) + '</div><p>' + EE.esc(sample.definition) + '</p><p><em>' + EE.esc(sample.example) + '</em></p>' +
         '<p><strong>Try it:</strong><br>' + (sample.conversation || []).map(function (x) { return EE.esc(x.speaker + ': ' + x.line); }).join('<br>') + '</p>');

@@ -468,12 +468,12 @@ nav.main a.active{background:var(--primary);color:#fff}
   border:2px solid var(--border);border-radius:var(--radius-lg);overflow:hidden;
   box-shadow:var(--shadow);
 }
-.supp-card .band{height:12px;background:var(--supp,#F68A1E)}
+.supp-card .band{height:12px;background:var(--surface-2);border-bottom:2px solid var(--border)}
 .supp-card .body{padding:20px 22px}
 .supp-card h3{margin:10px 0 2px}
 .supp-card .zh{font-weight:800;color:var(--muted)}
 .supp-card p{color:var(--muted)}
-.supp-card .ic-tile{background:var(--supp,#F68A1E);color:#fff}
+.supp-card .ic-tile{background:var(--surface-2);color:var(--text);border:2px solid var(--border)}
 .supp-card .go{font-weight:900;color:var(--primary-dark)}
 .level-chips{display:flex;gap:8px;flex-wrap:wrap;margin:12px 0}
 .level-chip{

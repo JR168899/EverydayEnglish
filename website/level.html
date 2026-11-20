@@ -65,7 +65,7 @@
     '<section class="card"><h3>Supplements · ' + lv.name + '</h3>' +
     EE.supplementTypes().map(function (s) {
       return '<a class="side-link" href="supplement.html?type=' + encodeURIComponent(s.id) + '&level=' + key + '">' +
-        '<span class="ic-tile" style="background:' + s.color + ';color:#fff;width:40px;height:40px;border-radius:12px">' + EE.icon(s.icon) + '</span>' +
+        '<span class="ic-tile" style="background:var(--surface-2);color:var(--text);border:2px solid var(--border);width:40px;height:40px;border-radius:12px">' + EE.icon(s.icon) + '</span>' +
         '<span>' + EE.esc(s.name) + '<small>' + EE.esc(s.perLevelLabel) + '</small></span></a>';
     }).join('') +
     '<p><a class="btn small" href="supplements.html">All supplements</a></p></section>' +

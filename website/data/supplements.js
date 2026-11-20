@@ -5,6 +5,9 @@
    supplement.html (the type detail page) both render from this array.
    - id: used in URLs, e.g. supplement.html?type=phrasal-verbs&level=a1
    - icon: a key in EE.icons (app.js)
+   - color: kept in the data only. It is NEVER rendered as a fill:
+     only the seven LEVEL colours are used as colour blocks, so supplement
+     icons are neutral frames with a dark icon — no supplement colour blocks.
    - perLevel: items per level (300 for the five daily types); writing is
      weekly, so perLevel is the string '1 per week' and perLevelCounts holds
      the confirmed weekly totals per level (313 in total).
