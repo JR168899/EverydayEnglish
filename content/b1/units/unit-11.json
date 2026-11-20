@@ -1,0 +1,905 @@
+{
+  "number": 11,
+  "title": "Travel and transport",
+  "lessons": [
+    {
+      "unit": 11,
+      "day": 81,
+      "title": "At the train station",
+      "goal": "I can use English at a train station.",
+      "newItems": [
+        {
+          "word": "carriage",
+          "ipa": "/ˈkærɪdʒ/",
+          "pos": "noun",
+          "definition": "One part of a train where people sit.",
+          "example": "We sit in the first carriage.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "conductor",
+          "ipa": "/kənˈdʌktɚ/",
+          "pos": "noun",
+          "definition": "The person on a train who checks tickets.",
+          "example": "The conductor checks our tickets.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "express train",
+          "ipa": "/ɪkˈsprɛs treɪn/",
+          "pos": "fixed phrase",
+          "definition": "A fast train that does not stop much.",
+          "example": "We take the express train to Florence.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "sleeper train",
+          "ipa": "/ˈslipɚ treɪn/",
+          "pos": "fixed phrase",
+          "definition": "A train where you can sleep at night.",
+          "example": "There is a sleeper train at night.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "get on the train",
+          "ipa": "/ɡɛt ɑn ðə treɪn/",
+          "pos": "fixed phrase",
+          "definition": "Go into a train to travel.",
+          "example": "We get on the train at nine.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "train",
+        "ticket",
+        "time",
+        "morning",
+        "city"
+      ],
+      "mainWord": {
+        "word": "carriage",
+        "ipa": "/ˈkærɪdʒ/",
+        "pos": "noun",
+        "definition": "One part of a train where people sit.",
+        "example": "We sit in the first carriage.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Carriage is a noun. A carriage is one part of a train where people sit. We sit in the first carriage.",
+      "pronunciationTarget": {
+        "word": "carriage",
+        "ipa": "/ˈkærɪdʒ/"
+      },
+      "expression": "We get on the train at nine.",
+      "use": "Use this when you go into a train to travel.",
+      "expressionTask": "Sam and Anna are at the station. What time do they get on the train?",
+      "grammar": "present simple for timetables: The train leaves at nine",
+      "pattern": "The train leaves at nine.",
+      "task": "The train ___ at nine.",
+      "answer": "leaves",
+      "example": "The train leaves at nine.",
+      "context": [
+        "Sam and Anna are at the train station in Rome.",
+        "We get on the train at nine. The train leaves at nine."
+      ],
+      "dialogue": [
+        "Sam, which train do we take?",
+        "We take the express train to Florence. It leaves at nine.",
+        "Do we get on the train now?",
+        "Yes. We sit in the first carriage. The conductor checks our tickets.",
+        "Is there a sleeper train to Florence too?",
+        "Yes, but we take the express train. It is fast."
+      ],
+      "listening": "On Monday morning, Sam and Anna are at the train station in Rome. They take the express train to Florence. The train leaves at nine. They get on the train at nine. The conductor checks their tickets. Sam says, 'The express train is fast.' Anna says, 'Is there a sleeper train too?' Sam says, 'Yes.'",
+      "question": "Where do Sam and Anna take the train to?",
+      "correct": "Florence",
+      "other": "Paris",
+      "reading": "On Monday morning, Sam and Anna are at the train station in Rome. The city is big, and the station is full of people. They take the express train to Florence. The train leaves at nine. At nine, they get on the train. They sit in the first carriage. The conductor comes and checks their tickets. Sam says, 'The express train is fast. We will be in Florence at lunch time.' Anna says, 'Is there a sleeper train to Florence too?' Sam says, 'Yes, there is a sleeper train at night. But we take the express train today.' Anna is happy. She says, 'I like the train. The first carriage is clean and quiet.'",
+      "readingQ": "Why does Sam like the express train?",
+      "readingA": "It is fast, and they will be in Florence at lunch time.",
+      "speaking": "Tell a friend about a trip by train. Which train do you take? What time does it leave?",
+      "speakingSample": "I take the express train to Florence in the morning. The train leaves at nine. I get on the train at nine. I sit in the first carriage. The conductor checks my ticket. The train is fast. I like the train. There is a sleeper train at night too. But I take the express train in the morning.",
+      "writing": "Write a short email to a friend about a trip by train. Say which train you take and what time it leaves.",
+      "writingSample": "Dear Tom, I want to tell you about my trip. I take the express train to Florence in the morning. The train leaves at nine. I get on the train at nine. I sit in the first carriage. The conductor checks my ticket. The express train is fast. There is a sleeper train at night too. But I take the express train in the morning. I like the train. See you soon. Best, Sam",
+      "sound": "Carriage has its strongest beat on CARR. In carriage, say CARR clearly at the start. In conductor, say DUCT clearly in the middle.",
+      "model": "We sit in the first carriage.",
+      "wordTask": "Which train do Sam and Anna take?",
+      "wordSample": "They take the express train to Florence."
+    },
+    {
+      "unit": 11,
+      "day": 82,
+      "title": "Buses and the metro",
+      "goal": "I can talk about buses and the metro.",
+      "newItems": [
+        {
+          "word": "route",
+          "ipa": "/rut/",
+          "pos": "noun",
+          "definition": "The way you go from one place to another.",
+          "example": "The bus takes a new route.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "shuttle",
+          "ipa": "/ˈʃʌtəl/",
+          "pos": "noun",
+          "definition": "A small bus that goes between two places.",
+          "example": "A shuttle takes us to the hotel.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "commuter",
+          "ipa": "/kəˈmjutɚ/",
+          "pos": "noun",
+          "definition": "A person who goes to work by train or bus every day.",
+          "example": "A commuter takes the 8 a.m. train.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "metro",
+          "ipa": "/ˈmɛtroʊ/",
+          "pos": "noun",
+          "definition": "A train that goes under a city.",
+          "example": "Take the metro to the centre.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "travel by bus",
+          "ipa": "/ˈtrævəl baɪ bʌs/",
+          "pos": "fixed phrase",
+          "definition": "Go somewhere on a bus.",
+          "example": "I travel by bus to work.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "bus",
+        "work",
+        "today",
+        "help",
+        "long"
+      ],
+      "mainWord": {
+        "word": "route",
+        "ipa": "/rut/",
+        "pos": "noun",
+        "definition": "The way you go from one place to another.",
+        "example": "The bus takes a new route.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Route is a noun. A route is the way you go from one place to another. The bus takes a new route.",
+      "pronunciationTarget": {
+        "word": "route",
+        "ipa": "/rut/"
+      },
+      "expression": "I travel by bus to work.",
+      "use": "Use this when you go to work by bus.",
+      "expressionTask": "Sam and Anna travel in Rome. How do they go to the city?",
+      "grammar": "How long does it take: How long does the bus take to the city",
+      "pattern": "How long does the bus take to the city?",
+      "task": "How long does the bus ___ to the city?",
+      "answer": "take",
+      "example": "How long does the bus take to the city?",
+      "context": [
+        "Sam and Anna travel by bus in Rome.",
+        "I travel by bus to work."
+      ],
+      "dialogue": [
+        "Anna, how do we go to the city today?",
+        "We travel by bus. The bus takes a new route today.",
+        "How long does the bus take to the city?",
+        "About thirty minutes. Many commuters take this bus to work.",
+        "Is there a metro too?",
+        "Yes. And a shuttle takes us to the hotel. The metro is fast."
+      ],
+      "listening": "On Tuesday, Sam and Anna travel by bus in Rome. The bus takes a new route to the city. Sam asks, 'How long does the bus take to the city?' Anna says, 'About thirty minutes.' Sam says, 'Is there a metro too?' Anna says, 'Yes. A shuttle takes us to the hotel.'",
+      "question": "How long does the bus take to the city?",
+      "correct": "About thirty minutes",
+      "other": "About three hours",
+      "reading": "On Tuesday, Sam and Anna travel by bus in Rome. They want to go to the city. The bus takes a new route today. Sam asks, 'How long does the bus take to the city?' Anna says, 'About thirty minutes. A commuter takes this bus to work every day.' Sam says, 'Is there a metro too?' Anna says, 'Yes, the metro is fast. And a shuttle takes us to the hotel in the evening.' Sam is happy. He says, 'I like to travel by bus. The bus is slow, but I can see the city.' Anna says, 'Good. We travel by bus today, and we take the metro tomorrow.' Sam is very happy today.",
+      "readingQ": "Why does Sam like to travel by bus?",
+      "readingA": "The bus is slow, but he can see the city.",
+      "speaking": "Tell a friend how you go to work. Do you travel by bus or by metro?",
+      "speakingSample": "I travel by bus to work every day. The bus takes a new route to the city. It takes about thirty minutes. Many commuters take this bus to work. There is a metro too. The metro is fast. A shuttle takes us to the hotel in the evening. I like to travel by bus. I can see the city.",
+      "writing": "Write a short email to a friend about how you travel in the city. Say how long it takes.",
+      "writingSample": "Dear Lisa, I want to tell you about my travel in Rome. I travel by bus to the city every day. The bus takes a new route. It takes about thirty minutes. Many commuters take this bus to work. There is a metro too. The metro is fast. A shuttle takes us to the hotel in the evening. I like to travel by bus. I can see the city. Best, Anna",
+      "sound": "Route has one strong beat: ROUTE. In route, say ROUTE clearly. In shuttle, say SHUT clearly at the start.",
+      "model": "The bus takes a new route.",
+      "wordTask": "How do Sam and Anna go to the city?",
+      "wordSample": "They travel by bus to the city."
+    },
+    {
+      "unit": 11,
+      "day": 83,
+      "title": "Driving in the city",
+      "goal": "I can talk about driving in a city.",
+      "newItems": [
+        {
+          "word": "vehicle",
+          "ipa": "/ˈviəkəl/",
+          "pos": "noun",
+          "definition": "A car, bus or truck.",
+          "example": "A bus is a big vehicle.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "highway",
+          "ipa": "/ˈhaɪˌweɪ/",
+          "pos": "noun",
+          "definition": "A big road between towns.",
+          "example": "We drive on the highway.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "junction",
+          "ipa": "/ˈdʒʌŋkʃən/",
+          "pos": "noun",
+          "definition": "A place where two roads meet.",
+          "example": "Turn left at the junction.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "stuck in traffic",
+          "ipa": "/stʌk ɪn ˈtræfɪk/",
+          "pos": "fixed phrase",
+          "definition": "Not able to move because the road is full.",
+          "example": "We are stuck in traffic.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "speed limit",
+          "ipa": "/spid ˈlɪmət/",
+          "pos": "fixed phrase",
+          "definition": "The fastest speed you can drive.",
+          "example": "The speed limit is 50.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "car",
+        "road",
+        "drive",
+        "fast",
+        "slow"
+      ],
+      "mainWord": {
+        "word": "vehicle",
+        "ipa": "/ˈviəkəl/",
+        "pos": "noun",
+        "definition": "A car, bus or truck.",
+        "example": "A bus is a big vehicle.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Vehicle is a noun. A vehicle is a car, bus or truck. A bus is a big vehicle.",
+      "pronunciationTarget": {
+        "word": "vehicle",
+        "ipa": "/ˈviəkəl/"
+      },
+      "expression": "We are stuck in traffic.",
+      "use": "Use this when the road is full and you cannot move.",
+      "expressionTask": "Tom drives in Rome. What is the problem on the road?",
+      "grammar": "have to for road rules: You have to stop at the red light",
+      "pattern": "You have to stop at the red light.",
+      "task": "You have to ___ at the red light.",
+      "answer": "stop",
+      "example": "You have to stop at the red light.",
+      "context": [
+        "Tom drives a car in Rome.",
+        "We are stuck in traffic."
+      ],
+      "dialogue": [
+        "Tom, why are we so slow?",
+        "We are stuck in traffic. The road is full of vehicles.",
+        "What is the speed limit here?",
+        "Fifty. You have to drive slowly in the city.",
+        "Turn left at the junction?",
+        "Yes. Then we take the highway to the city."
+      ],
+      "listening": "On Wednesday, Tom drives a car in Rome. The road is full of vehicles. Tom says, 'We are stuck in traffic.' Anna says, 'What is the speed limit here?' Tom says, 'Fifty. You have to drive slowly in the city.' Anna says, 'Turn left at the junction?' Tom says, 'Yes. Then we take the highway.'",
+      "question": "What is the speed limit in the city?",
+      "correct": "Fifty",
+      "other": "Ninety",
+      "reading": "On Wednesday, Tom drives a car in Rome. The road is full of vehicles. The car moves very slowly. A bus is a big vehicle. Tom says, 'We are stuck in traffic.' Anna asks, 'What is the speed limit here?' Tom says, 'Fifty. You have to drive slowly in the city. You have to stop at the red light.' Anna says, 'Turn left at the junction?' Tom says, 'Yes. Then we take the highway to the city. The highway is fast.' Anna says, 'Good. I like to drive slowly and see the city.' Tom is happy. He says, 'We are stuck in traffic, but we have time. The city is good, and the road is not bad.'",
+      "readingQ": "What does Tom say about the highway?",
+      "readingA": "The highway is fast.",
+      "speaking": "Tell a friend about driving in a city. What is the speed limit? What do you have to do?",
+      "speakingSample": "I drive a car in the city. The road is full of vehicles. We are stuck in traffic. The speed limit is fifty. You have to drive slowly in the city. You have to stop at the red light. Turn left at the junction. Then we take the highway to the city. The highway is fast.",
+      "writing": "Write a short email to a friend about driving in the city. Say what the speed limit is.",
+      "writingSample": "Dear Tom, I want to tell you about driving in Rome. The road is full of vehicles. We are stuck in traffic. The speed limit is fifty. You have to drive slowly in the city. You have to stop at the red light. Turn left at the junction. Then we take the highway to the city. The highway is fast. I like to drive in the city. Best, Anna",
+      "sound": "Vehicle has its strongest beat on VEE. In vehicle, say VEE clearly at the start. In highway, say HIGH clearly at the start.",
+      "model": "A bus is a big vehicle.",
+      "wordTask": "What is the speed limit in the city?",
+      "wordSample": "The speed limit is fifty."
+    },
+    {
+      "unit": 11,
+      "day": 84,
+      "title": "Trains to the airport",
+      "goal": "I can talk about trains to the airport.",
+      "newItems": [
+        {
+          "word": "terminal",
+          "ipa": "/ˈtɝmɪnəl/",
+          "pos": "noun",
+          "definition": "A big building at an airport.",
+          "example": "Meet me at terminal 2.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "runway",
+          "ipa": "/ˈrʌnˌweɪ/",
+          "pos": "noun",
+          "definition": "The long road where planes go up and come down.",
+          "example": "The plane moves on the runway.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "high-speed train",
+          "ipa": "/ˈhaɪˌspid treɪn/",
+          "pos": "fixed phrase",
+          "definition": "A very fast train.",
+          "example": "The high-speed train is very fast.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "season ticket",
+          "ipa": "/ˈsizən ˈtɪkət/",
+          "pos": "fixed phrase",
+          "definition": "A ticket you can use for a long time.",
+          "example": "I buy a season ticket for the train.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "mind the gap",
+          "ipa": "/maɪnd ðə ɡæp/",
+          "pos": "fixed phrase",
+          "definition": "Be careful of the space between the train and the platform.",
+          "example": "Mind the gap, please.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "plane",
+        "airport",
+        "hotel",
+        "week",
+        "happy"
+      ],
+      "mainWord": {
+        "word": "terminal",
+        "ipa": "/ˈtɝmɪnəl/",
+        "pos": "noun",
+        "definition": "A big building at an airport.",
+        "example": "Meet me at terminal 2.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Terminal is a noun. A terminal is a big building at an airport. Meet me at terminal 2.",
+      "pronunciationTarget": {
+        "word": "terminal",
+        "ipa": "/ˈtɝmɪnəl/"
+      },
+      "expression": "Mind the gap, please.",
+      "use": "Use this to tell people to be careful at the station.",
+      "expressionTask": "Sam takes a train to the airport. What does he hear at the station?",
+      "grammar": "present perfect for travel experience: I have taken the high-speed train",
+      "pattern": "I have taken the high-speed train.",
+      "task": "I have ___ the high-speed train.",
+      "answer": "taken",
+      "example": "I have taken the high-speed train.",
+      "context": [
+        "Sam takes a high-speed train to the airport.",
+        "Mind the gap, please."
+      ],
+      "dialogue": [
+        "Sam, how do you go to the airport?",
+        "I take a high-speed train. It is fast.",
+        "Do you have a season ticket?",
+        "Yes. I have taken the high-speed train many times.",
+        "What do you hear at the station?",
+        "'Mind the gap, please.' And I see the runway from the terminal."
+      ],
+      "listening": "On Thursday, Sam takes a high-speed train to the airport. Anna asks, 'Do you have a season ticket?' Sam says, 'Yes. I have taken the high-speed train many times.' At the station, Sam hears, 'Mind the gap, please.' At the airport, Sam goes to terminal 2. He sees the runway from the terminal.",
+      "question": "What does Sam hear at the station?",
+      "correct": "Mind the gap, please",
+      "other": "Good morning",
+      "reading": "On Thursday, Sam takes a high-speed train to the airport. The train is fast. Anna asks, 'Do you have a season ticket?' Sam says, 'Yes, I have a season ticket. I have taken the high-speed train many times this week. I like the train.' At the station, Sam hears, 'Mind the gap, please.' He is happy. At the airport, Sam goes to terminal 2. He sees the runway from the terminal. A plane moves on the runway. Sam likes the airport. The terminal is big and clean. Sam says, 'The high-speed train is the best way to the airport. I have taken it many times.' Anna says, 'Good. I will take it next week.'",
+      "readingQ": "How does Sam go to the airport?",
+      "readingA": "He takes a high-speed train.",
+      "speaking": "Tell a friend about a trip to the airport. How do you go? Have you taken the train before?",
+      "speakingSample": "I take a high-speed train to the airport. I have a season ticket. I have taken the high-speed train many times. At the station, I hear, 'Mind the gap, please.' At the airport, I go to terminal 2. I see the runway from the terminal. The high-speed train is the best way to the airport.",
+      "writing": "Write a short email to a friend about a trip to the airport. Say how you go.",
+      "writingSample": "Dear Tom, I want to tell you about my trip to the airport. I take a high-speed train. I have a season ticket. I have taken the high-speed train many times this week. At the station, I hear, 'Mind the gap, please.' At the airport, I go to terminal 2. I see the runway from the terminal. The high-speed train is the best way to the airport. Best, Sam",
+      "sound": "Terminal has its strongest beat on TERM. In terminal, say TERM clearly at the start. In runway, say RUN clearly at the start.",
+      "model": "Meet me at terminal 2.",
+      "wordTask": "How does Sam go to the airport?",
+      "wordSample": "He takes a high-speed train to the airport."
+    },
+    {
+      "unit": 11,
+      "day": 85,
+      "title": "A taxi ride",
+      "goal": "I can talk about a taxi ride.",
+      "newItems": [
+        {
+          "word": "flyover",
+          "ipa": "/ˈflaɪˌoʊvɚ/",
+          "pos": "noun",
+          "definition": "A road that goes over another road.",
+          "example": "Drive over the flyover.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "moped",
+          "ipa": "/ˈmoʊˌpɛd/",
+          "pos": "noun",
+          "definition": "A small bike with a motor and pedals.",
+          "example": "A moped is good in the city.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "hail a taxi",
+          "ipa": "/heɪl ə ˈtæksi/",
+          "pos": "fixed phrase",
+          "definition": "Call a taxi by raising your hand.",
+          "example": "We hail a taxi in the street.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "taxi rank",
+          "ipa": "/ˈtæksi ræŋk/",
+          "pos": "fixed phrase",
+          "definition": "A place where taxis wait.",
+          "example": "Wait at the taxi rank.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "give someone a lift",
+          "ipa": "/ɡɪv ˈsʌmˌwʌn ə lɪft/",
+          "pos": "fixed phrase",
+          "definition": "Take someone in your car to a place.",
+          "example": "Sam gives Anna a lift to work.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "friend",
+        "home",
+        "night",
+        "street",
+        "good"
+      ],
+      "mainWord": {
+        "word": "flyover",
+        "ipa": "/ˈflaɪˌoʊvɚ/",
+        "pos": "noun",
+        "definition": "A road that goes over another road.",
+        "example": "Drive over the flyover.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Flyover is a noun. A flyover is a road that goes over another road. Drive over the flyover.",
+      "pronunciationTarget": {
+        "word": "flyover",
+        "ipa": "/ˈflaɪˌoʊvɚ/"
+      },
+      "expression": "We hail a taxi in the street.",
+      "use": "Use this when you call a taxi by raising your hand.",
+      "expressionTask": "Sam and Anna need a taxi. Where do they wait?",
+      "grammar": "will for offers: I will call a taxi for you",
+      "pattern": "I will call a taxi for you.",
+      "task": "I will ___ a taxi for you.",
+      "answer": "call",
+      "example": "I will call a taxi for you.",
+      "context": [
+        "Sam and Anna hail a taxi in Rome.",
+        "We hail a taxi in the street."
+      ],
+      "dialogue": [
+        "Anna, we need a taxi. Where is the taxi rank?",
+        "At the end of the street. We can hail a taxi there.",
+        "Look! A moped is on the flyover.",
+        "Yes. I will call a taxi for you. The driver will give us a lift.",
+        "Good. Will the driver take us home?",
+        "Yes. The taxi will take us home at night."
+      ],
+      "listening": "On Friday night, Sam and Anna need a taxi in Rome. Anna says, 'We can hail a taxi at the taxi rank.' Sam says, 'Look! A moped is on the flyover.' Anna says, 'I will call a taxi for you. The driver will give us a lift.' Sam says, 'Good.'",
+      "question": "Where do Sam and Anna hail a taxi?",
+      "correct": "At the taxi rank",
+      "other": "At the hotel",
+      "reading": "On Friday night, Sam and Anna need a taxi in Rome. They walk to the end of the street. Anna says, 'We can hail a taxi at the taxi rank.' Sam says, 'Look! A moped is on the flyover. The city is very good at night.' Anna says, 'I will call a taxi for you. The driver will give us a lift to our hotel.' A taxi stops. The driver is a friend. He says, 'A taxi driver will give someone a lift home.' Sam says, 'Thank you. The taxi will take us home.' Anna is very happy today. She says, 'A taxi is the best way home at night.'",
+      "readingQ": "Who gives Sam and Anna a lift home?",
+      "readingA": "The taxi driver gives them a lift home.",
+      "speaking": "Tell a friend about a taxi ride. Where do you hail a taxi? Where does it take you?",
+      "speakingSample": "I hail a taxi at the taxi rank. The driver will give me a lift home. A moped is on the flyover. The city is very good at night. The driver is a friend. He says, 'I will give you a lift home.' The taxi will take me home. A taxi is the best way home at night.",
+      "writing": "Write a short email to a friend about a taxi ride. Say where you hail the taxi.",
+      "writingSample": "Dear Lisa, I want to tell you about a taxi ride in Rome. We hail a taxi at the taxi rank. A moped is on the flyover. The city is very good at night. The driver will give us a lift to our hotel. The driver is a friend. He says, 'I will give you a lift home.' The taxi will take us home. A taxi is the best way home at night. Best, Anna",
+      "sound": "Flyover has its strongest beat on FLY. In flyover, say FLY clearly at the start. In moped, say MOPE clearly at the start.",
+      "model": "Drive over the flyover.",
+      "wordTask": "Where do Sam and Anna hail a taxi?",
+      "wordSample": "They hail a taxi at the taxi rank."
+    },
+    {
+      "unit": 11,
+      "day": 86,
+      "title": "Cycling and walking",
+      "goal": "I can talk about cycling and walking.",
+      "newItems": [
+        {
+          "word": "handlebar",
+          "ipa": "/ˈhændəlˌbɑr/",
+          "pos": "noun",
+          "definition": "The bar you hold on a bike.",
+          "example": "Hold the handlebar with two hands.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "saddle",
+          "ipa": "/ˈsædəl/",
+          "pos": "noun",
+          "definition": "The seat on a bike.",
+          "example": "Sit on the saddle.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "footpath",
+          "ipa": "/ˈfʊtˌpæθ/",
+          "pos": "noun",
+          "definition": "A small path for people who walk.",
+          "example": "Walk on the footpath.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "go by bike",
+          "ipa": "/ɡoʊ baɪ baɪk/",
+          "pos": "fixed phrase",
+          "definition": "Travel on a bike.",
+          "example": "I go by bike to school.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "bike lane",
+          "ipa": "/baɪk leɪn/",
+          "pos": "fixed phrase",
+          "definition": "A part of the road for bikes only.",
+          "example": "Ride in the bike lane.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "walk",
+        "bike",
+        "school",
+        "park",
+        "water"
+      ],
+      "mainWord": {
+        "word": "handlebar",
+        "ipa": "/ˈhændəlˌbɑr/",
+        "pos": "noun",
+        "definition": "The bar you hold on a bike.",
+        "example": "Hold the handlebar with two hands.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Handlebar is a noun. A handlebar is the bar you hold on a bike. Hold the handlebar with two hands.",
+      "pronunciationTarget": {
+        "word": "handlebar",
+        "ipa": "/ˈhændəlˌbɑr/"
+      },
+      "expression": "I go by bike to school.",
+      "use": "Use this when you ride a bike to a place.",
+      "expressionTask": "Anna rides a bike in Rome. Where does she ride?",
+      "grammar": "comparatives: Cycling is faster than walking",
+      "pattern": "Cycling is faster than walking.",
+      "task": "Cycling is ___ than walking.",
+      "answer": "faster",
+      "example": "Cycling is faster than walking.",
+      "context": [
+        "Anna rides a bike in Rome.",
+        "I go by bike to school."
+      ],
+      "dialogue": [
+        "Anna, do you go by bike to school?",
+        "Yes. I ride in the bike lane. It is safe.",
+        "Do you walk on the footpath too?",
+        "Yes. I walk to the park, and I ride my bike to school.",
+        "Is cycling faster than walking?",
+        "Yes. Cycling is faster than walking. Hold the handlebar with two hands."
+      ],
+      "listening": "On Saturday, Anna rides a bike in Rome. She says, 'I go by bike to school. I ride in the bike lane.' Sam asks, 'Do you walk on the footpath too?' Anna says, 'Yes. I walk to the park. Cycling is faster than walking. Hold the handlebar with two hands.'",
+      "question": "Where does Anna ride her bike?",
+      "correct": "In the bike lane",
+      "other": "On the road",
+      "reading": "On Saturday, Anna rides a bike in Rome. She says, 'I go by bike to school. I ride in the bike lane. It is safe.' Sam asks, 'Do you walk on the footpath too?' Anna says, 'Yes. I walk to the park, and I ride my bike to school. Cycling is faster than walking.' Sam says, 'Hold the handlebar with two hands. Sit on the saddle.' Anna is happy. She says, 'I like to go by bike. The bike lane is good. I walk on the footpath, and I ride my bike on the road.' Sam says, 'Good. Cycling is faster than walking.' Anna smiles. She says, 'The bike is good for the city.'",
+      "readingQ": "Why does Anna like to go by bike?",
+      "readingA": "The bike lane is good, and cycling is faster than walking.",
+      "speaking": "Tell a friend about cycling or walking. Do you go by bike? Where do you ride?",
+      "speakingSample": "I go by bike to school. I ride in the bike lane. It is safe. I walk on the footpath too. I walk to the park. Cycling is faster than walking. Hold the handlebar with two hands. Sit on the saddle. I like to go by bike. It is good.",
+      "writing": "Write a short email to a friend about cycling. Say where you ride your bike.",
+      "writingSample": "Dear Tom, I want to tell you about cycling in Rome. I go by bike to school. I ride in the bike lane. It is safe. I walk on the footpath too. I walk to the park, and I ride my bike to school. Cycling is faster than walking. Hold the handlebar with two hands. Sit on the saddle. I like to go by bike. Best, Anna",
+      "sound": "Handlebar has its strongest beat on HANDLE. In handlebar, say HANDLE clearly at the start. In saddle, say SADDLE clearly.",
+      "model": "Hold the handlebar with two hands.",
+      "wordTask": "Where does Anna ride her bike?",
+      "wordSample": "She rides her bike in the bike lane."
+    },
+    {
+      "unit": 11,
+      "day": 87,
+      "title": "Car trouble",
+      "goal": "I can talk about car trouble.",
+      "newItems": [
+        {
+          "word": "engine",
+          "ipa": "/ˈɛndʒɪn/",
+          "pos": "noun",
+          "definition": "The part of a car that makes it move.",
+          "example": "The engine is very loud.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "fuel",
+          "ipa": "/ˈfjuəl/",
+          "pos": "noun",
+          "definition": "Petrol or diesel for a car.",
+          "example": "The car needs fuel.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "tow truck",
+          "ipa": "/toʊ trʌk/",
+          "pos": "fixed phrase",
+          "definition": "A truck that moves a car that cannot move.",
+          "example": "Call a tow truck for the car.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "jump start",
+          "ipa": "/dʒʌmp stɑrt/",
+          "pos": "fixed phrase",
+          "definition": "Start a car with a flat battery.",
+          "example": "We need a jump start.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "flat battery",
+          "ipa": "/flæt ˈbætəri/",
+          "pos": "fixed phrase",
+          "definition": "A car battery with no power.",
+          "example": "The car has a flat battery.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "money",
+        "phone",
+        "call",
+        "bad",
+        "late"
+      ],
+      "mainWord": {
+        "word": "engine",
+        "ipa": "/ˈɛndʒɪn/",
+        "pos": "noun",
+        "definition": "The part of a car that makes it move.",
+        "example": "The engine is very loud.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Engine is a noun. An engine is the part of a car that makes it move. The engine is very loud.",
+      "pronunciationTarget": {
+        "word": "engine",
+        "ipa": "/ˈɛndʒɪn/"
+      },
+      "expression": "The car has a flat battery.",
+      "use": "Use this when a car battery has no power.",
+      "expressionTask": "Tom's car will not start. What is the problem?",
+      "grammar": "first conditional: If the car breaks down, call the garage",
+      "pattern": "If the car breaks down, call the garage.",
+      "task": "If the car breaks down, ___ the garage.",
+      "answer": "call",
+      "example": "If the car breaks down, call the garage.",
+      "context": [
+        "Tom's car will not start in the morning.",
+        "The car has a flat battery."
+      ],
+      "dialogue": [
+        "Tom, why will the car not start?",
+        "The car has a flat battery. The engine will not start.",
+        "Do we need a tow truck?",
+        "No. We need a jump start. Call the garage.",
+        "Does the car need fuel too?",
+        "Yes. The car needs fuel. We are late for work."
+      ],
+      "listening": "On Sunday morning, Tom's car will not start. Tom says, 'The car has a flat battery. The engine will not start.' Anna says, 'Do we need a tow truck?' Tom says, 'No. We need a jump start. Call the garage.' Anna says, 'Does the car need fuel too?' Tom says, 'Yes, we are late.'",
+      "question": "What is the problem with Tom's car?",
+      "correct": "A flat battery",
+      "other": "A flat tire",
+      "reading": "On Sunday morning, Tom's car will not start. Tom says, 'The car has a flat battery. The engine will not start.' Anna asks, 'Do we need a tow truck?' Tom says, 'No. We need a jump start. Call the garage. If the car breaks down, call the garage.' Anna says, 'Does the car need fuel too?' Tom says, 'Yes. The car needs fuel. The engine is very bad today.' Anna calls the garage on her phone. She says, 'We are late for work. Please help us.' The garage says, 'We will come with a jump start.' Tom is happy. Tom smiles. He says, 'Thank you. The garage is very good. We will be on time.'",
+      "readingQ": "What does Anna do?",
+      "readingA": "She calls the garage on her phone.",
+      "speaking": "Tell a friend about a car problem. What is wrong? What do you do?",
+      "speakingSample": "My car will not start in the morning. The car has a flat battery. The engine will not start. We need a jump start. Call the garage. If the car breaks down, call the garage. The car needs fuel too. We are late for work. Please help us. Thank you.",
+      "writing": "Write a short email to a friend about a car problem. Say what is wrong.",
+      "writingSample": "Dear Tom, I want to tell you about my car. My car will not start in the morning. The car has a flat battery. The engine will not start. We need a jump start. Call the garage. If the car breaks down, call the garage. The car needs fuel too. We are late for work. Please help us. The garage is very good. Best, Sam",
+      "sound": "Engine has its strongest beat on EN. In engine, say EN clearly at the start. In fuel, say FUEL clearly.",
+      "model": "The engine is very loud.",
+      "wordTask": "What is the problem with Tom's car?",
+      "wordSample": "The car has a flat battery."
+    },
+    {
+      "unit": 11,
+      "day": 88,
+      "title": "Use transport English in a new situation",
+      "goal": "I can use transport English in a new situation.",
+      "newItems": [
+        {
+          "word": "seatbelt",
+          "ipa": "/ˈsitˌbɛlt/",
+          "pos": "noun",
+          "definition": "A belt in a car to keep you safe.",
+          "example": "Fasten your seatbelt.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "horn",
+          "ipa": "/hɔrn/",
+          "pos": "noun",
+          "definition": "The part of a car that makes a loud sound.",
+          "example": "The driver sounds the horn.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "fasten your seatbelt",
+          "ipa": "/ˈfæsən jʊr ˈsitˌbɛlt/",
+          "pos": "fixed phrase",
+          "definition": "Put on your seatbelt.",
+          "example": "Fasten your seatbelt, please.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "pull over",
+          "ipa": "/pʊl ˈoʊvɚ/",
+          "pos": "fixed phrase",
+          "definition": "Move a car to the side of the road and stop.",
+          "example": "Pull over and stop the car.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "drop someone off",
+          "ipa": "/drɑp ˈsʌmˌwʌn ɔf/",
+          "pos": "fixed phrase",
+          "definition": "Take someone to a place in a car and leave them there.",
+          "example": "The taxi drops us off at the hotel.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "trip",
+        "visit",
+        "family",
+        "class",
+        "teacher"
+      ],
+      "mainWord": {
+        "word": "seatbelt",
+        "ipa": "/ˈsitˌbɛlt/",
+        "pos": "noun",
+        "definition": "A belt in a car to keep you safe.",
+        "example": "Fasten your seatbelt.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Seatbelt is a noun. A seatbelt is a belt in a car to keep you safe. Fasten your seatbelt.",
+      "pronunciationTarget": {
+        "word": "seatbelt",
+        "ipa": "/ˈsitˌbɛlt/"
+      },
+      "expression": "Fasten your seatbelt, please.",
+      "use": "Use this to tell someone to put on their seatbelt.",
+      "expressionTask": "Emma drives with her friend Lily. What does Emma say in the car?",
+      "grammar": "Review: I can use transport English in a new situation",
+      "pattern": "I can use transport English in a new situation.",
+      "task": "I can ___ transport English in a new situation.",
+      "answer": "use",
+      "example": "I can use transport English in a new situation.",
+      "context": [
+        "Emma drives with her friend Lily.",
+        "Fasten your seatbelt, please."
+      ],
+      "dialogue": [
+        "Emma, are you ready to drive?",
+        "Yes. Fasten your seatbelt, please. We go to the station.",
+        "Why does the driver sound the horn?",
+        "He wants us to move. I will pull over and stop.",
+        "Will the driver drop us off at the station?",
+        "Yes. He will drop us off at the station. I can use transport English."
+      ],
+      "listening": "On Monday, Emma drives with her friend Lily. Emma says, 'Fasten your seatbelt, please. We go to the station.' Lily asks, 'Why does the driver sound the horn?' Emma says, 'He wants us to move. I will pull over and stop. The driver will drop us off at the station.'",
+      "question": "Where does the driver drop Emma and Lily off?",
+      "correct": "At the station",
+      "other": "At the hotel",
+      "reading": "On Monday, Emma drives with her friend Lily. They go to the station for a trip. Emma says, 'Fasten your seatbelt, please. We go to the station.' Lily fastens her seatbelt. On the road, a car sounds its horn. Lily asks, 'Why does the driver sound the horn?' Emma says, 'He wants us to move. I will pull over and stop here.' Emma says, 'A good driver will drop someone off at the station.' At the station, the driver drops Emma and Lily off. Emma says, 'Thank you. I can use transport English in a new situation.' Lily says, 'Good. We are on time for our trip today.' Emma smiles.",
+      "readingQ": "What does Emma say in the car?",
+      "readingA": "She says, 'Fasten your seatbelt, please.'",
+      "speaking": "Tell a friend about a car trip. What do you say in the car? Where do you go?",
+      "speakingSample": "I drive with my friend to the station. I say, 'Fasten your seatbelt, please.' My friend fastens her seatbelt. On the road, a car sounds its horn. I will pull over and stop here. The driver drops us off at the station. I can use transport English in a new situation.",
+      "writing": "Write a short email to a friend about a car trip. Say what you say in the car.",
+      "writingSample": "Dear Anna, I want to tell you about a car trip. I drive with my friend Lily to the station. I say, 'Fasten your seatbelt, please.' My friend fastens her seatbelt. On the road, a car sounds its horn. I will pull over and stop here. The driver drops us off at the station. I can use transport English in a new situation. Best, Emma",
+      "sound": "Seatbelt has its strongest beat on SEAT. In seatbelt, say SEAT clearly at the start. In horn, say HORN clearly.",
+      "model": "Fasten your seatbelt.",
+      "wordTask": "Where does the driver drop Emma and Lily off?",
+      "wordSample": "The driver drops them off at the station.",
+      "transferCheck": {
+        "source": "On Tuesday, Emma visits her teacher, Ms. Green. Emma says, 'I can use transport English in a new situation. I drive with my friend Lily to the station.' Ms. Green says, 'Good. What do you say in the car?' Emma says, 'I say, \"Fasten your seatbelt, please.\"' Ms. Green says, 'Very good. The driver drops you off at the station?' Emma says, 'Yes. He drops us off at the station.' Ms. Green says, 'Good. You use transport English well.'",
+        "dictation": "The driver drops Emma off at the station.",
+        "answer": "1. Emma visits her teacher, Ms. Green. She talks about a car trip with her friend Lily. 2. Emma's first job is to say she can use transport English in a new situation. 3. On Tuesday, Emma says, 'I can use transport English in a new situation.' 4. The driver drops Emma off at the station. 5. Sample: On Tuesday, Emma visits her teacher, Ms. Green. Emma says, 'I can use transport English in a new situation. I drive with my friend Lily to the station.' Ms. Green says, 'Good. What do you say in the car?' Emma says, 'I say, \"Fasten your seatbelt, please.\"' Ms. Green says, 'Very good. The driver drops you off at the station?' Emma says, 'Yes. He drops us off at the station.' Follow-up: What does Emma say in the car? She says, 'Fasten your seatbelt, please.'",
+        "tasks": [
+          [
+            "1 · Identify the people and the new situation",
+            "Who does Emma visit, and what does she talk about?"
+          ],
+          [
+            "2 · Work out what Emma does first",
+            "What is Emma's first job, and what does she say?"
+          ],
+          [
+            "3 · Notice the sentence on Tuesday",
+            "What does Emma say on Tuesday?"
+          ],
+          [
+            "4 · Listen and write",
+            "Write the sentence you hear."
+          ],
+          [
+            "5 · Retell and answer",
+            "Tell the story in order, including the people, the new situation, the first talk, and the result. Then answer one follow-up question."
+          ]
+        ]
+      }
+    }
+  ]
+}

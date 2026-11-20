@@ -1,0 +1,905 @@
+{
+  "number": 16,
+  "title": "Home and moving house",
+  "lessons": [
+    {
+      "unit": 16,
+      "day": 121,
+      "title": "Finding a new home",
+      "goal": "I can talk about finding a new home.",
+      "newItems": [
+        {
+          "category": "new_word",
+          "definition": "A person who owns a house or flat and lets other people live in it.",
+          "example": "Our landlord is kind.",
+          "ipa": "/ˈlændˌlɔrd/",
+          "pos": "noun",
+          "word": "landlord",
+          "status": "new"
+        },
+        {
+          "category": "new_word",
+          "definition": "A person who pays to live in a house or flat owned by someone else.",
+          "example": "The tenant pays the rent.",
+          "ipa": "/ˈtɛnənt/",
+          "pos": "noun",
+          "word": "tenant",
+          "status": "new"
+        },
+        {
+          "category": "new_word",
+          "definition": "A written agreement to live in a place for a time.",
+          "example": "We sign the lease today.",
+          "ipa": "/lis/",
+          "pos": "noun",
+          "word": "lease",
+          "status": "new"
+        },
+        {
+          "category": "fixed_phrase",
+          "definition": "To try to find a flat to live in.",
+          "example": "We look for a flat.",
+          "ipa": "/lʊk fɔr ə flæt/",
+          "pos": "fixed phrase",
+          "word": "look for a flat",
+          "status": "new"
+        },
+        {
+          "category": "fixed_phrase",
+          "definition": "To write your name on the agreement to live in a place.",
+          "example": "We sign the lease today.",
+          "ipa": "/saɪn ðə lis/",
+          "pos": "fixed phrase",
+          "word": "sign the lease",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "house",
+        "home",
+        "family",
+        "friend",
+        "room"
+      ],
+      "mainWord": {
+        "category": "new_word",
+        "definition": "A person who owns a house or flat and lets other people live in it.",
+        "example": "Our landlord is kind.",
+        "ipa": "/ˈlændˌlɔrd/",
+        "pos": "noun",
+        "word": "landlord",
+        "status": "new"
+      },
+      "mainWordForms": "Landlord is a noun. Landlord means a person who owns a house or flat. Our landlord is kind.",
+      "pronunciationTarget": {
+        "word": "landlord",
+        "ipa": "/ˈlændˌlɔrd/"
+      },
+      "expression": "We look for a flat.",
+      "use": "Use this when you want to find a flat to live in.",
+      "expressionTask": "Tom and Lily look for a flat. What do they do?",
+      "grammar": "present continuous for plans: We are looking for a flat",
+      "pattern": "We are looking for a flat.",
+      "task": "We are ___ for a flat.",
+      "answer": "looking",
+      "example": "We are looking for a flat.",
+      "context": [
+        "Tom and Lily talk about finding a new home.",
+        "Tom says, 'We look for a flat. The flat is near the park. The landlord is kind, and the lease is for one year.'"
+      ],
+      "dialogue": [
+        "Tom, we look for a flat near the park.",
+        "Yes. The landlord is kind.",
+        "Am I a tenant in the new flat?",
+        "Yes. We sign the lease on Monday.",
+        "How long is the lease?",
+        "It is for one year."
+      ],
+      "listening": "Tom and Lily look for a flat. Tom says, 'We look for a flat near the park.' Lily says, 'Yes. The landlord is kind.' Tom says, 'Am I a tenant?' Lily says, 'Yes. We sign the lease on Monday.' Tom says, 'How long is the lease?' Lily says, 'It is for one year.'",
+      "question": "What do Tom and Lily do?",
+      "correct": "They look for a flat",
+      "other": "They look for a car",
+      "reading": "On Monday, Tom and Lily look for a flat. Tom says, 'We look for a flat near the park. I want a home for my family.' Lily says, 'Yes. The landlord is kind. He shows us a flat with two rooms.' Tom says, 'Am I a tenant in the new flat?' Lily says, 'Yes. We sign the lease on Monday. The lease is for one year. We are looking for a flat, and this flat is good.' Tom says, 'How long is the lease?' Lily says, 'It is for one year. We pay the money and sign the lease.' Tom says, 'Good. We find a new home near the park. I can talk about finding a new home.'",
+      "readingQ": "What do Tom and Lily do?",
+      "readingA": "They look for a flat.",
+      "speaking": "Tell a friend about finding a new home. What do you do?",
+      "speakingSample": "I talk about finding a new home with my friend Tom. We look for a flat near the park. The landlord is kind. I am a tenant in the new flat. We sign the lease on Monday. The lease is for one year. It is a good flat near the park. I like my new home.",
+      "writing": "Write a short email to a friend about finding a new home. Say what you do.",
+      "writingSample": "Dear Anna, I want to tell you about finding a new home. We look for a flat near the park. The landlord is kind. I am a tenant in the new flat. We sign the lease on Monday. The lease is for one year. It is a good flat near the park. I like my new home. It is near the park, and I like it. See you soon. Best, Lily",
+      "sound": "Landlord has its strongest beat on LAND. In landlord, say LAND clearly at the start. In tenant, say TEN clearly at the start.",
+      "model": "The landlord is kind.",
+      "wordTask": "What do Tom and Lily do?",
+      "wordSample": "They look for a flat."
+    },
+    {
+      "unit": 16,
+      "day": 122,
+      "title": "Looking at a flat",
+      "goal": "I can talk about looking at a flat.",
+      "newItems": [
+        {
+          "category": "new_word",
+          "definition": "A person who lives in the same flat as you.",
+          "example": "My flatmate is kind.",
+          "ipa": "/ˈflætˌmeɪt/",
+          "pos": "noun",
+          "word": "flatmate",
+          "status": "new"
+        },
+        {
+          "category": "new_word",
+          "definition": "A place to live near a city, but not in the city.",
+          "example": "We live in a suburb.",
+          "ipa": "/ˈsʌbɝb/",
+          "pos": "noun",
+          "word": "suburb",
+          "status": "new"
+        },
+        {
+          "category": "fixed_phrase",
+          "definition": "A flat with two bedrooms.",
+          "example": "It is a two-bedroom flat.",
+          "ipa": "/ə tu ˈbɛdˌrum flæt/",
+          "pos": "fixed phrase",
+          "word": "a two-bedroom flat",
+          "status": "new"
+        },
+        {
+          "category": "fixed_phrase",
+          "definition": "To give the money you pay at the start.",
+          "example": "We pay the deposit today.",
+          "ipa": "/peɪ ðə dɪˈpɑzɪt/",
+          "pos": "fixed phrase",
+          "word": "pay the deposit",
+          "status": "new"
+        },
+        {
+          "category": "fixed_phrase",
+          "definition": "To receive the keys to a new home.",
+          "example": "We get the keys on Friday.",
+          "ipa": "/ɡɛt ðə kiz/",
+          "pos": "fixed phrase",
+          "word": "get the keys",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "flat",
+        "door",
+        "window",
+        "street",
+        "town"
+      ],
+      "mainWord": {
+        "category": "new_word",
+        "definition": "A person who lives in the same flat as you.",
+        "example": "My flatmate is kind.",
+        "ipa": "/ˈflætˌmeɪt/",
+        "pos": "noun",
+        "word": "flatmate",
+        "status": "new"
+      },
+      "mainWordForms": "Flatmate is a noun. A flatmate is a person who lives in the same flat as you. My flatmate is kind.",
+      "pronunciationTarget": {
+        "word": "flatmate",
+        "ipa": "/ˈflætˌmeɪt/"
+      },
+      "expression": "It is a two-bedroom flat.",
+      "use": "Use this when you say how many bedrooms a flat has.",
+      "expressionTask": "Tom and Lily look at a flat. What kind of flat is it?",
+      "grammar": "comparatives: This flat is bigger than that one",
+      "pattern": "This flat is bigger than that one.",
+      "task": "This flat is ___ than that one.",
+      "answer": "bigger",
+      "example": "This flat is bigger than that one.",
+      "context": [
+        "Tom and Lily look at a flat in town.",
+        "It is a two-bedroom flat. Tom says, 'This flat is bigger than that one.'"
+      ],
+      "dialogue": [
+        "Lily, is this a two-bedroom flat?",
+        "Yes. It has two bedrooms and a big window.",
+        "Do we pay the deposit today?",
+        "Yes. We pay the deposit and get the keys.",
+        "Is my flatmate in the flat?",
+        "Yes. She is in the flat now."
+      ],
+      "listening": "Tom and Lily talk. Tom says, 'Is this a two-bedroom flat?' Lily says, 'Yes. It has two bedrooms.' Tom says, 'Do we pay the deposit today?' Lily says, 'Yes. We pay the deposit and get the keys.' Tom says, 'Is my flatmate in the flat?' Lily says, 'Yes. She is in the flat now.'",
+      "question": "What kind of flat is it?",
+      "correct": "A two-bedroom flat",
+      "other": "A one-bedroom flat",
+      "reading": "On Tuesday, Tom and Lily look at a flat in town. Tom says, 'Lily, is this a two-bedroom flat?' Lily says, 'Yes. It has two bedrooms and a big window. This flat is bigger than that one.' Tom says, 'Do we pay the deposit today?' Lily says, 'Yes. We pay the deposit and get the keys on Friday.' Tom says, 'Is my flatmate in the flat?' Lily says, 'Yes. She is in the flat now. She is from a suburb near the town.' Lily says, 'The flat is near the shops. I like it very much.' Tom says, 'Good. I like this flat. It is a two-bedroom flat in town. I can talk about looking at a flat.'",
+      "readingQ": "What kind of flat is it?",
+      "readingA": "A two-bedroom flat.",
+      "speaking": "Tell a friend about a flat you look at. What is it like?",
+      "speakingSample": "I talk about a flat with my friend Tom. It is a two-bedroom flat in town. This flat is bigger than that one. We pay the deposit today and get the keys on Friday. My flatmate is in the flat now. She is from a suburb near the town. I like this flat.",
+      "writing": "Write a short email to a friend about a flat you look at. Say what it is like.",
+      "writingSample": "Dear Anna, I want to tell you about a flat in town. It is a two-bedroom flat. This flat is bigger than that one. We pay the deposit today and get the keys on Friday. My flatmate is in the flat now. She is from a suburb near the town. I like this flat. It is a good flat, and I am happy. See you soon. Best, Lily",
+      "sound": "Flatmate has its strongest beat on FLAT. In flatmate, say FLAT clearly at the start. In suburb, say SUB clearly at the start.",
+      "model": "My flatmate is kind.",
+      "wordTask": "What kind of flat is it?",
+      "wordSample": "A two-bedroom flat."
+    },
+    {
+      "unit": 16,
+      "day": 123,
+      "title": "Moving day",
+      "goal": "I can talk about moving day.",
+      "newItems": [
+        {
+          "category": "new_word",
+          "definition": "To take things out of boxes or bags.",
+          "example": "We unpack the boxes.",
+          "ipa": "/ʌnˈpæk/",
+          "pos": "verb",
+          "word": "unpack",
+          "status": "new"
+        },
+        {
+          "category": "fixed_phrase",
+          "definition": "To give the keys to someone.",
+          "example": "She hands over the keys.",
+          "ipa": "/hænd ˈoʊvər ðə kiz/",
+          "pos": "fixed phrase",
+          "word": "hand over the keys",
+          "status": "new"
+        },
+        {
+          "category": "fixed_phrase",
+          "definition": "To move to a new flat.",
+          "example": "We move into a new flat.",
+          "ipa": "/muv ˈɪntu ə nu flæt/",
+          "pos": "fixed phrase",
+          "word": "move into a new flat",
+          "status": "new"
+        },
+        {
+          "category": "fixed_phrase",
+          "definition": "To get used to living in a new home.",
+          "example": "We settle into a new home.",
+          "ipa": "/ˈsɛtəl ˈɪntu ə nu hoʊm/",
+          "pos": "fixed phrase",
+          "word": "settle into a new home",
+          "status": "new"
+        },
+        {
+          "category": "fixed_phrase",
+          "definition": "A lot of space.",
+          "example": "There is plenty of room here.",
+          "ipa": "/ˈplɛnti ʌv rum/",
+          "pos": "fixed phrase",
+          "word": "plenty of room",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "box",
+        "car",
+        "help",
+        "mother",
+        "happy"
+      ],
+      "mainWord": {
+        "category": "new_word",
+        "definition": "To take things out of boxes or bags.",
+        "example": "We unpack the boxes.",
+        "ipa": "/ʌnˈpæk/",
+        "pos": "verb",
+        "word": "unpack",
+        "status": "new"
+      },
+      "mainWordForms": "Unpack is a verb. To unpack is to take things out of boxes or bags. We unpack the boxes.",
+      "pronunciationTarget": {
+        "word": "unpack",
+        "ipa": "/ʌnˈpæk/"
+      },
+      "expression": "We move into a new flat.",
+      "use": "Use this when you start to live in a new home.",
+      "expressionTask": "Tom and Lily move to a new flat. What do they do?",
+      "grammar": "past simple for moving day: We moved house yesterday",
+      "pattern": "We moved house yesterday.",
+      "task": "We ___ house yesterday.",
+      "answer": "moved",
+      "example": "We moved house yesterday.",
+      "context": [
+        "Tom and Lily talk about moving day.",
+        "Tom says, 'We move into a new flat. Today is moving day.'"
+      ],
+      "dialogue": [
+        "Tom, do we move into a new flat today?",
+        "Yes. We move into a new flat today.",
+        "Do we unpack the boxes now?",
+        "Yes. We unpack the boxes and put things in the rooms.",
+        "Is there plenty of room here?",
+        "Yes. There is plenty of room for us."
+      ],
+      "listening": "Tom and Lily talk about moving day. Tom says, 'Do we move in today?' Lily says, 'Yes. We move in today.' Tom says, 'Do we unpack now?' Lily says, 'Yes. We unpack the boxes.' Tom says, 'Is there plenty of room here?' Lily says, 'Yes. There is plenty of room for us.'",
+      "question": "What do Tom and Lily do today?",
+      "correct": "They move into a new flat",
+      "other": "They move into a new house",
+      "reading": "On Wednesday, Tom and Lily talk about moving day. Tom says, 'Do we move into a new flat today?' Lily says, 'Yes. We move into a new flat today. We hand over the keys to the old flat and settle into a new home.' Tom says, 'Do we unpack the boxes now?' Lily says, 'Yes. We unpack the boxes and put things in the rooms. We moved house yesterday, and today we make the new flat our home.' Tom says, 'Is there plenty of room here?' Lily says, 'Yes. There is plenty of room for us and for my mother, and our new home is near the park. We are happy. I can talk about moving day.'",
+      "readingQ": "What do Tom and Lily do today?",
+      "readingA": "They move into a new flat.",
+      "speaking": "Tell a friend about moving day. What do you do?",
+      "speakingSample": "I talk about moving day with my friend Tom. We move into a new flat today. We hand over the keys to the old flat and settle into a new home. We unpack the boxes and put things in the rooms. There is plenty of room for us. We are happy in our new home.",
+      "writing": "Write a short email to a friend about moving day. Say what you do.",
+      "writingSample": "Dear Anna, I want to tell you about moving day. We move into a new flat today. We hand over the keys to the old flat and settle into a new home. We unpack the boxes and put things in the rooms. There is plenty of room for us. We are happy in our new home. It is a good day for us. See you soon. Best, Lily",
+      "sound": "Unpack has its strongest beat on PACK. In unpack, say PACK clearly at the end. In plenty, say PLEN clearly at the start.",
+      "model": "We unpack the boxes.",
+      "wordTask": "What do Tom and Lily do today?",
+      "wordSample": "They move into a new flat."
+    },
+    {
+      "unit": 16,
+      "day": 124,
+      "title": "Rooms in the house",
+      "goal": "I can talk about rooms in the house.",
+      "newItems": [
+        {
+          "category": "new_word",
+          "definition": "A room under the roof of a house.",
+          "example": "The old books are in the attic.",
+          "ipa": "/ˈætɪk/",
+          "pos": "noun",
+          "word": "attic",
+          "status": "new"
+        },
+        {
+          "category": "new_word",
+          "definition": "A set of stairs in a house.",
+          "example": "The staircase is old.",
+          "ipa": "/ˈstɛrˌkeɪs/",
+          "pos": "noun",
+          "word": "staircase",
+          "status": "new"
+        },
+        {
+          "category": "fixed_phrase",
+          "definition": "Going to a higher floor by stairs.",
+          "example": "We go up the stairs.",
+          "ipa": "/ʌp ðə stɛrz/",
+          "pos": "fixed phrase",
+          "word": "up the stairs",
+          "status": "new"
+        },
+        {
+          "category": "fixed_phrase",
+          "definition": "Along the hallway to another room.",
+          "example": "The bathroom is down the hall.",
+          "ipa": "/daʊn ðə hɔl/",
+          "pos": "fixed phrase",
+          "word": "down the hall",
+          "status": "new"
+        },
+        {
+          "category": "fixed_phrase",
+          "definition": "In the room under the roof.",
+          "example": "The boxes are in the attic.",
+          "ipa": "/ɪn ði ˈætɪk/",
+          "pos": "fixed phrase",
+          "word": "in the attic",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "table",
+        "chair",
+        "kitchen",
+        "bedroom",
+        "bathroom"
+      ],
+      "mainWord": {
+        "category": "new_word",
+        "definition": "A room under the roof of a house.",
+        "example": "The old books are in the attic.",
+        "ipa": "/ˈætɪk/",
+        "pos": "noun",
+        "word": "attic",
+        "status": "new"
+      },
+      "mainWordForms": "Attic is a noun. An attic is a room under the roof of a house. The old books are in the attic.",
+      "pronunciationTarget": {
+        "word": "attic",
+        "ipa": "/ˈætɪk/"
+      },
+      "expression": "The box is in the attic.",
+      "use": "Use this when you say where a thing is in the house.",
+      "expressionTask": "Tom and Lily talk about the rooms. Where is the box?",
+      "grammar": "prepositions of place: The box is in the attic",
+      "pattern": "The box is in the attic.",
+      "task": "The box is ___ the attic.",
+      "answer": "in",
+      "example": "The box is in the attic.",
+      "context": [
+        "Tom and Lily talk about rooms in the house.",
+        "The box is in the attic. The old books are up the stairs."
+      ],
+      "dialogue": [
+        "Tom, where is the box?",
+        "The box is in the attic.",
+        "Are the old books up the stairs?",
+        "Yes. They are up the stairs, in the attic.",
+        "Where is the bathroom?",
+        "It is down the hall, on the left."
+      ],
+      "listening": "Tom and Lily talk. Tom says, 'Where is the box?' Lily says, 'The box is in the attic.' Tom says, 'Are the old books up the stairs?' Lily says, 'Yes. They are up the stairs, in the attic.' Tom says, 'Where is the bathroom?' Lily says, 'It is down the hall, on the left.'",
+      "question": "Where is the box?",
+      "correct": "In the attic",
+      "other": "In the kitchen",
+      "reading": "On Thursday, Tom and Lily talk about rooms in the house. Tom says, 'Where is the box?' Lily says, 'The box is in the attic. The old books are up the stairs, in the attic.' Tom says, 'Where is the bathroom?' Lily says, 'It is down the hall, on the left. The bedroom is down the hall too.' Tom says, 'Is the staircase new?' Lily says, 'Yes. The staircase is new, and the house is big. The box is in the attic, and the books are up the stairs.' Tom says, 'The house is very big. I like the rooms in this house. I can talk about rooms in the house.'",
+      "readingQ": "Where is the box?",
+      "readingA": "In the attic.",
+      "speaking": "Tell a friend about rooms in your house. Where are the things?",
+      "speakingSample": "I talk about rooms in the house with my friend Tom. The box is in the attic. The old books are up the stairs, in the attic. The bathroom is down the hall, on the left. The bedroom is down the hall too. The staircase is new, and the house is big.",
+      "writing": "Write a short email to a friend about rooms in your house. Say where the things are.",
+      "writingSample": "Dear Anna, I want to tell you about rooms in the house. The box is in the attic. The old books are up the stairs, in the attic. The bathroom is down the hall, on the left. The bedroom is down the hall too. The staircase is new, and the house is big. I like the rooms in this house. See you soon. Best, Lily",
+      "sound": "Attic has its strongest beat on AT. In attic, say AT clearly at the start. In staircase, say STAIR clearly at the start.",
+      "model": "The old books are in the attic.",
+      "wordTask": "Where is the box?",
+      "wordSample": "In the attic."
+    },
+    {
+      "unit": 16,
+      "day": 125,
+      "title": "The house outside",
+      "goal": "I can talk about the house outside.",
+      "newItems": [
+        {
+          "category": "new_word",
+          "definition": "A small house with only one floor.",
+          "example": "They live in a bungalow.",
+          "ipa": "/ˈbʌŋɡəˌloʊ/",
+          "pos": "noun",
+          "word": "bungalow",
+          "status": "new"
+        },
+        {
+          "category": "new_word",
+          "definition": "A big nice house, often in a warm place.",
+          "example": "The villa is by the sea.",
+          "ipa": "/ˈvɪlə/",
+          "pos": "noun",
+          "word": "villa",
+          "status": "new"
+        },
+        {
+          "category": "new_word",
+          "definition": "A short road from the street to a house.",
+          "example": "The car is on the driveway.",
+          "ipa": "/ˈdraɪvˌweɪ/",
+          "pos": "noun",
+          "word": "driveway",
+          "status": "new"
+        },
+        {
+          "category": "fixed_phrase",
+          "definition": "At the main door of a house.",
+          "example": "Meet me at the front door.",
+          "ipa": "/æt ðə frʌnt dɔr/",
+          "pos": "fixed phrase",
+          "word": "at the front door",
+          "status": "new"
+        },
+        {
+          "category": "fixed_phrase",
+          "definition": "A room that is only yours.",
+          "example": "You have your own room.",
+          "ipa": "/jɔr oʊn rum/",
+          "pos": "fixed phrase",
+          "word": "your own room",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "tree",
+        "grass",
+        "sun",
+        "rain",
+        "wind"
+      ],
+      "mainWord": {
+        "category": "new_word",
+        "definition": "A small house with only one floor.",
+        "example": "They live in a bungalow.",
+        "ipa": "/ˈbʌŋɡəˌloʊ/",
+        "pos": "noun",
+        "word": "bungalow",
+        "status": "new"
+      },
+      "mainWordForms": "Bungalow is a noun. A bungalow is a small house with only one floor. They live in a bungalow.",
+      "pronunciationTarget": {
+        "word": "bungalow",
+        "ipa": "/ˈbʌŋɡəˌloʊ/"
+      },
+      "expression": "There is a driveway at the front.",
+      "use": "Use this when you say what is outside a house.",
+      "expressionTask": "Tom and Lily look at a house. What is at the front?",
+      "grammar": "there is and there are: There is a driveway at the front",
+      "pattern": "There is a driveway at the front.",
+      "task": "There is a driveway ___ the front.",
+      "answer": "at",
+      "example": "There is a driveway at the front.",
+      "context": [
+        "Tom and Lily talk about the house outside.",
+        "There is a driveway at the front. The villa has a big room."
+      ],
+      "dialogue": [
+        "Tom, is this a bungalow?",
+        "No. It is a villa by the sea.",
+        "Is there a driveway at the front?",
+        "Yes. The car is on the driveway.",
+        "Do I have my own room?",
+        "Yes. You have your own room."
+      ],
+      "listening": "Tom and Lily talk. Tom says, 'Is this a bungalow?' Lily says, 'No. It is a villa by the sea.' Tom says, 'Is there a driveway at the front?' Lily says, 'Yes. The car is on the driveway.' Tom says, 'Do I have my own room?' Lily says, 'Yes. You have your own room.'",
+      "question": "What kind of house is it?",
+      "correct": "A villa by the sea",
+      "other": "A bungalow by the sea",
+      "reading": "On Friday, Tom and Lily talk about the house outside. Tom says, 'Is this a bungalow?' Lily says, 'No. It is a villa by the sea. There is a driveway at the front, and the car is on the driveway.' Tom says, 'Do I have my own room?' Lily says, 'Yes. You have your own room in the villa. Meet me at the front door in the morning.' Lily says, 'The villa is by the sea, and the trees are green.' Tom says, 'Good. The villa is big, and the bungalow is small. I like the villa by the sea. It is a nice house. I can talk about the house outside.'",
+      "readingQ": "What kind of house is it?",
+      "readingA": "A villa by the sea.",
+      "speaking": "Tell a friend about a house outside. What is it like?",
+      "speakingSample": "I talk about a house with my friend Tom. It is a villa by the sea. There is a driveway at the front, and the car is on the driveway. I have my own room in the villa. Meet me at the front door in the morning. I like the villa by the sea.",
+      "writing": "Write a short email to a friend about a house outside. Say what it is like.",
+      "writingSample": "Dear Anna, I want to tell you about a house outside. It is a villa by the sea. There is a driveway at the front, and the car is on the driveway. I have a room of my own in the villa. Meet me at the front door in the morning. I like the villa by the sea. It is a good house. See you soon. Best, Lily",
+      "sound": "Bungalow has its strongest beat on BUNG. In bungalow, say BUNG clearly at the start. In villa, say VIL clearly at the start.",
+      "model": "They live in a bungalow.",
+      "wordTask": "What kind of house is it?",
+      "wordSample": "A villa by the sea."
+    },
+    {
+      "unit": 16,
+      "day": 126,
+      "title": "Problems at home",
+      "goal": "I can talk about problems at home.",
+      "newItems": [
+        {
+          "category": "new_word",
+          "definition": "A machine that makes hot water for a house.",
+          "example": "The boiler is old.",
+          "ipa": "/ˈbɔɪlər/",
+          "pos": "noun",
+          "word": "boiler",
+          "status": "new"
+        },
+        {
+          "category": "new_word",
+          "definition": "A place in a room where you can make a fire.",
+          "example": "We sit by the fireplace.",
+          "ipa": "/ˈfaɪərˌpleɪs/",
+          "pos": "noun",
+          "word": "fireplace",
+          "status": "new"
+        },
+        {
+          "category": "new_word",
+          "definition": "A tall pipe on a roof that takes smoke away.",
+          "example": "Smoke comes from the chimney.",
+          "ipa": "/ˈtʃɪmni/",
+          "pos": "noun",
+          "word": "chimney",
+          "status": "new"
+        },
+        {
+          "category": "fixed_phrase",
+          "definition": "Water comes through the roof.",
+          "example": "The roof leaks in the rain.",
+          "ipa": "/ðə ruf liks/",
+          "pos": "fixed phrase",
+          "word": "the roof leaks",
+          "status": "new"
+        },
+        {
+          "category": "fixed_phrase",
+          "definition": "Water comes out of the tap in small drops.",
+          "example": "The tap drips all night.",
+          "ipa": "/ðə tæp drɪps/",
+          "pos": "fixed phrase",
+          "word": "the tap drips",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "water",
+        "cold",
+        "hot",
+        "night",
+        "morning"
+      ],
+      "mainWord": {
+        "category": "new_word",
+        "definition": "A machine that makes hot water for a house.",
+        "example": "The boiler is old.",
+        "ipa": "/ˈbɔɪlər/",
+        "pos": "noun",
+        "word": "boiler",
+        "status": "new"
+      },
+      "mainWordForms": "Boiler is a noun. A boiler is a machine that makes hot water for a house. The boiler is old.",
+      "pronunciationTarget": {
+        "word": "boiler",
+        "ipa": "/ˈbɔɪlər/"
+      },
+      "expression": "The roof leaks.",
+      "use": "Use this when water comes through the roof.",
+      "expressionTask": "Tom and Lily have a problem. What is it?",
+      "grammar": "should for problems: You should tell the landlord",
+      "pattern": "You should tell the landlord.",
+      "task": "You should ___ the landlord.",
+      "answer": "tell",
+      "example": "You should tell the landlord.",
+      "context": [
+        "Tom and Lily talk about problems at home.",
+        "The roof leaks. The tap drips all night."
+      ],
+      "dialogue": [
+        "Lily, the roof leaks in the rain.",
+        "Yes. And the tap drips all night.",
+        "Is the boiler old?",
+        "Yes. The boiler is old, and the water is cold.",
+        "What should we do?",
+        "We should tell the landlord about it."
+      ],
+      "listening": "Tom and Lily talk. Lily says, 'The roof leaks in the rain.' Tom says, 'Yes. And the tap drips all night.' Lily says, 'Is the boiler old?' Tom says, 'Yes. The boiler is old, and the water is cold.' Lily says, 'What should we do?' Tom says, 'We should tell the landlord about it.'",
+      "question": "What is the problem?",
+      "correct": "The roof leaks",
+      "other": "The roof is new",
+      "reading": "On Saturday, Tom and Lily talk about problems at home. Lily says, 'The roof leaks in the rain, and the tap drips all night.' Tom says, 'Is the boiler old?' Lily says, 'Yes. The boiler is old, and the water is cold. The fireplace is old too, and smoke comes from the chimney.' Tom says, 'What should we do?' Lily says, 'We should tell the landlord about it. The roof leaks, and the tap drips. We need help.' Tom says, 'The water is cold in the morning.' Lily says, 'We need hot water.' Tom says, 'Yes. It is a cold day. It is a problem at home. I can talk about problems at home.'",
+      "readingQ": "What is the problem?",
+      "readingA": "The roof leaks.",
+      "speaking": "Tell a friend about a problem at home. What is it?",
+      "speakingSample": "I talk about a problem at home with my friend Tom. The roof leaks in the rain, and the tap drips all night. The boiler is old, and the water is cold. The fireplace is old too, and smoke comes from the chimney. We should tell the landlord about it.",
+      "writing": "Write a short email to a friend about a problem at home. Say what it is.",
+      "writingSample": "Dear Anna, I want to tell you about a problem at home. The roof leaks in the rain, and the tap drips all night. The boiler is old, and the water is cold. The fireplace is old too, and smoke comes from the chimney. We should tell the landlord about it. It is a big problem for us. We need help soon. See you soon. Best, Lily",
+      "sound": "Boiler has its strongest beat on BOIL. In boiler, say BOIL clearly at the start. In chimney, say CHIM clearly at the start.",
+      "model": "The boiler is old.",
+      "wordTask": "What is the problem?",
+      "wordSample": "The roof leaks."
+    },
+    {
+      "unit": 16,
+      "day": 127,
+      "title": "Living with other people",
+      "goal": "I can talk about living with other people.",
+      "newItems": [
+        {
+          "category": "new_word",
+          "definition": "A flat place outside a house where you can sit.",
+          "example": "We eat on the patio.",
+          "ipa": "/ˈpætioʊ/",
+          "pos": "noun",
+          "word": "patio",
+          "status": "new"
+        },
+        {
+          "category": "new_word",
+          "definition": "A small covered place at the door of a house.",
+          "example": "We sit on the porch.",
+          "ipa": "/pɔrtʃ/",
+          "pos": "noun",
+          "word": "porch",
+          "status": "new"
+        },
+        {
+          "category": "fixed_phrase",
+          "definition": "To live in the same flat as someone else.",
+          "example": "We share a flat.",
+          "ipa": "/ʃɛr ə flæt/",
+          "pos": "fixed phrase",
+          "word": "share a flat",
+          "status": "new"
+        },
+        {
+          "category": "fixed_phrase",
+          "definition": "To live in a home with your friends.",
+          "example": "We live with friends.",
+          "ipa": "/lɪv wɪð frɛndz/",
+          "pos": "fixed phrase",
+          "word": "live with friends",
+          "status": "new"
+        },
+        {
+          "category": "fixed_phrase",
+          "definition": "A house that two or more people share.",
+          "example": "We live in a shared house.",
+          "ipa": "/ə ʃɛrd haʊs/",
+          "pos": "fixed phrase",
+          "word": "a shared house",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "friend",
+        "sister",
+        "brother",
+        "dinner",
+        "evening"
+      ],
+      "mainWord": {
+        "category": "new_word",
+        "definition": "A flat place outside a house where you can sit.",
+        "example": "We eat on the patio.",
+        "ipa": "/ˈpætioʊ/",
+        "pos": "noun",
+        "word": "patio",
+        "status": "new"
+      },
+      "mainWordForms": "Patio is a noun. A patio is a flat place outside a house where you can sit. We eat on the patio.",
+      "pronunciationTarget": {
+        "word": "patio",
+        "ipa": "/ˈpætioʊ/"
+      },
+      "expression": "We share a flat.",
+      "use": "Use this when you live in the same flat as someone else.",
+      "expressionTask": "Tom and Lily live with friends. What do they do?",
+      "grammar": "present simple for living with others: We share a flat",
+      "pattern": "We share a flat.",
+      "task": "We ___ a flat.",
+      "answer": "share",
+      "example": "We share a flat.",
+      "context": [
+        "Tom and Lily talk about living with other people.",
+        "We share a flat. We live with friends in a shared house."
+      ],
+      "dialogue": [
+        "Tom, do we share a flat?",
+        "Yes. We share a flat with friends.",
+        "Do we live with friends?",
+        "Yes. We live with friends in a shared house.",
+        "Do we eat on the patio?",
+        "Yes. We eat on the patio and on the porch."
+      ],
+      "listening": "Tom and Lily talk. Tom says, 'Do we share a flat?' Lily says, 'Yes. We share a flat with friends.' Tom says, 'Do we live with friends?' Lily says, 'Yes. We live with friends in a shared house.' Tom says, 'Do we eat on the patio?' Lily says, 'Yes. We eat on the patio.'",
+      "question": "Who do Tom and Lily live with?",
+      "correct": "Their friends",
+      "other": "Their mother",
+      "reading": "On Sunday, Tom and Lily talk about living with other people. Tom says, 'Do we share a flat?' Lily says, 'Yes. We share a flat with friends. We live with friends in a shared house.' Tom says, 'Do we eat on the patio?' Lily says, 'Yes. We eat on the patio and on the porch. It is good to live with friends.' Tom says, 'Do we have a room for my mother?' Lily says, 'Yes. We have a room for my mother in the shared house. It is a good home. We are happy.' Tom says, 'We are happy here.' Lily says, 'Our friends are kind. I can talk about living with other people.'",
+      "readingQ": "Who do Tom and Lily live with?",
+      "readingA": "Their friends.",
+      "speaking": "Tell a friend about living with other people. Who do you live with?",
+      "speakingSample": "I talk about living with other people with my friend Tom. We share a flat with friends. We live with friends in a shared house. We eat on the patio and on the porch. It is good to live with friends. We have a room for my mother in the shared house.",
+      "writing": "Write a short email to a friend about living with other people. Say who you live with.",
+      "writingSample": "Dear Anna, I want to tell you about living with other people. We share a flat with friends. We live with friends in a shared house. We eat on the patio and on the porch. It is good to live with friends. We have a room for my mother in the shared house. It is good to live with friends. See you soon. Best, Lily",
+      "sound": "Patio has its strongest beat on PAT. In patio, say PAT clearly at the start. In porch, say PORCH clearly.",
+      "model": "We eat on the patio.",
+      "wordTask": "Who do Tom and Lily live with?",
+      "wordSample": "Their friends."
+    },
+    {
+      "unit": 16,
+      "day": 128,
+      "title": "Use home English in a new situation",
+      "goal": "I can use home English in a new situation.",
+      "newItems": [
+        {
+          "category": "new_word",
+          "definition": "A place with short grass in a garden.",
+          "example": "The lawn is green.",
+          "ipa": "/lɔn/",
+          "pos": "noun",
+          "word": "lawn",
+          "status": "new"
+        },
+        {
+          "category": "new_word",
+          "definition": "A place by a house where you grow plants and flowers.",
+          "example": "The garden is nice.",
+          "ipa": "/ˈɡɑrdən/",
+          "pos": "noun",
+          "word": "garden",
+          "status": "new"
+        },
+        {
+          "category": "new_word",
+          "definition": "A room under a house for keeping things.",
+          "example": "The wine is in the cellar.",
+          "ipa": "/ˈsɛlər/",
+          "pos": "noun",
+          "word": "cellar",
+          "status": "new"
+        },
+        {
+          "category": "new_word",
+          "definition": "A small room for keeping food.",
+          "example": "The food is in the pantry.",
+          "ipa": "/ˈpæntri/",
+          "pos": "noun",
+          "word": "pantry",
+          "status": "new"
+        },
+        {
+          "category": "fixed_phrase",
+          "definition": "To phone the person who owns your home.",
+          "example": "Call the landlord about the leak.",
+          "ipa": "/kɔl ðə ˈlændˌlɔrd/",
+          "pos": "fixed phrase",
+          "word": "call the landlord",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "trip",
+        "travel",
+        "holiday",
+        "mother",
+        "happy"
+      ],
+      "mainWord": {
+        "category": "new_word",
+        "definition": "A place with short grass in a garden.",
+        "example": "The lawn is green.",
+        "ipa": "/lɔn/",
+        "pos": "noun",
+        "word": "lawn",
+        "status": "new"
+      },
+      "mainWordForms": "Garden is a noun. A garden is a place by a house where you grow plants and flowers. The garden is nice.",
+      "pronunciationTarget": {
+        "word": "garden",
+        "ipa": "/ˈɡɑrdən/"
+      },
+      "expression": "Our new house has a garden and a lawn.",
+      "use": "Use this when you talk about your new home.",
+      "expressionTask": "Emma talks about her new house. What does it have?",
+      "grammar": "review: home English",
+      "pattern": "Our new house has a garden.",
+      "task": "Our new house has a ___.",
+      "answer": "garden",
+      "example": "Our new house has a garden.",
+      "context": [
+        "Emma talks about her new house in a new situation.",
+        "Our new house has a garden and a lawn. We call the landlord about the cellar."
+      ],
+      "dialogue": [
+        "Emma, what is your new house like?",
+        "Our new house has a garden and a lawn.",
+        "Is there a cellar in the house?",
+        "Yes. And the pantry is big.",
+        "Do you call the landlord about it?",
+        "Yes. We call the landlord on Monday."
+      ],
+      "listening": "Emma talks about her new house. Emma says, 'Our new house has a garden and a lawn.' Her mother says, 'Is there a cellar in the house?' Emma says, 'Yes. And the pantry is big.' Her mother says, 'Do you call the landlord about it?' Emma says, 'Yes. We call the landlord on Monday.'",
+      "question": "What does Emma's new house have?",
+      "correct": "A garden and a lawn",
+      "other": "A pool and a park",
+      "reading": "On Monday, Emma moves to a new house with her mother. Emma says, 'Our new house has a garden and a lawn. The garden is very nice, and the lawn is green.' Her mother says, 'Is there a cellar in the house?' Emma says, 'Yes. The cellar is under the house, and the pantry is big. We call the landlord on Monday about the new house.' Her mother says, 'Good. We live in a new house with a garden. Do you like it?' Emma says, 'Yes. I like our new house. The house is big and nice. I can use home English in a new situation.' Her mother is happy.",
+      "readingQ": "What does Emma's new house have?",
+      "readingA": "A garden and a lawn.",
+      "speaking": "Tell a friend about a new house. What does it have?",
+      "speakingSample": "I talk about a new house with my friend Emma. Our new house has a garden and a lawn. The garden is nice, and the lawn is green. The cellar is under the house, and the pantry is big. We call the landlord on Monday about the new house. I like our new house.",
+      "writing": "Write a short email to a friend about a new house. Say what it has.",
+      "writingSample": "Dear Anna, I want to tell you about a new house. Our new house has a garden and a lawn. The garden is nice, and the lawn is green. The cellar is under the house, and the pantry is big. We call the landlord on Monday about the new house. I like our new house. It is a good new house. See you soon. Best, Emma",
+      "sound": "Garden has its strongest beat on GAR. In garden, say GAR clearly at the start. In lawn, say LAWN clearly.",
+      "model": "The garden is nice.",
+      "wordTask": "What does Emma's new house have?",
+      "wordSample": "A garden and a lawn.",
+      "transferCheck": {
+        "source": "On Tuesday, Emma visits her teacher, Ms. Green. Emma says, 'I can use home English in a new situation. I move to a new house with my mother.' Ms. Green says, 'Good. What is your new house like?' Emma says, 'Our new house has a garden and a lawn. The garden is nice, and the lawn is green.' Ms. Green says, 'Very good. What do you do about the cellar?' Emma says, 'We call the landlord on Monday. The pantry is big, and the cellar is under the house.' Ms. Green says, 'Good. You use home English well.'",
+        "dictation": "Our new house has a garden and a lawn.",
+        "answer": "1. Emma visits her teacher, Ms. Green. She talks about her new house with her mother. 2. Emma's first job is to say she can use home English in a new situation. 3. On Tuesday, Emma says, 'I can use home English in a new situation.' 4. Our new house has a garden and a lawn. 5. Sample: On Tuesday, Emma visits her teacher, Ms. Green. Emma says, 'I can use home English in a new situation. I move to a new house with my mother.' Ms. Green says, 'Good. What is your new house like?' Emma says, 'Our new house has a garden and a lawn. The garden is nice, and the lawn is green.' Ms. Green says, 'Very good. What do you do about the cellar?' Emma says, 'We call the landlord on Monday. The pantry is big, and the cellar is under the house.' Ms. Green says, 'Good. You use home English well.' Follow-up: What does Emma's new house have? A garden and a lawn.",
+        "tasks": [
+          [
+            "1 · Identify the people and the new situation",
+            "Who does Emma visit, and what does she talk about?"
+          ],
+          [
+            "2 · Work out what Emma does first",
+            "What is Emma's first job, and what does she say?"
+          ],
+          [
+            "3 · Notice the sentence on Tuesday",
+            "What does Emma say on Tuesday?"
+          ],
+          [
+            "4 · Listen and write",
+            "Write the sentence you hear."
+          ],
+          [
+            "5 · Retell and answer",
+            "Tell the story in order, including the people, the new situation, the first talk, and the result. Then answer one follow-up question."
+          ]
+        ]
+      }
+    }
+  ]
+}

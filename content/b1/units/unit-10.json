@@ -1,0 +1,905 @@
+{
+  "number": 10,
+  "title": "Planning a trip",
+  "lessons": [
+    {
+      "unit": 10,
+      "day": 73,
+      "title": "Choose a place to visit",
+      "goal": "I can choose a place to visit and say why I like it.",
+      "newItems": [
+        {
+          "word": "breathtaking",
+          "ipa": "/ˈbrɛθˌteɪkɪŋ/",
+          "pos": "adjective",
+          "definition": "Very beautiful.",
+          "example": "The view is breathtaking.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "ancient",
+          "ipa": "/ˈeɪnʃənt/",
+          "pos": "adjective",
+          "definition": "Very old.",
+          "example": "We visit an ancient castle.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "traditional",
+          "ipa": "/trəˈdɪʃənəl/",
+          "pos": "adjective",
+          "definition": "Old and usual in a place.",
+          "example": "We eat traditional food.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "worth a visit",
+          "ipa": "/wɝθ ə ˈvɪzət/",
+          "pos": "fixed phrase",
+          "definition": "Good enough to visit.",
+          "example": "The castle is worth a visit.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "hidden gem",
+          "ipa": "/ˈhɪdən dʒɛm/",
+          "pos": "fixed phrase",
+          "definition": "A beautiful place not many people know.",
+          "example": "The village is a hidden gem.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "trip",
+        "city",
+        "food",
+        "happy",
+        "week"
+      ],
+      "mainWord": {
+        "word": "breathtaking",
+        "ipa": "/ˈbrɛθˌteɪkɪŋ/",
+        "pos": "adjective",
+        "definition": "Very beautiful.",
+        "example": "The view is breathtaking.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Breathtaking is an adjective. Breathtaking means very beautiful. The view is breathtaking.",
+      "pronunciationTarget": {
+        "word": "breathtaking",
+        "ipa": "/ˈbrɛθˌteɪkɪŋ/"
+      },
+      "expression": "The old town is worth a visit.",
+      "use": "Use this when a place is good enough to visit.",
+      "expressionTask": "Sam and Anna choose a place to visit. What does Sam say?",
+      "grammar": "going to for plans: We are going to visit Rome in June",
+      "pattern": "We are going to visit Rome in June.",
+      "task": "We are going to visit Rome in ___.",
+      "answer": "June",
+      "example": "We are going to visit Rome in June.",
+      "context": [
+        "Sam and Anna look at photos of Rome.",
+        "The old town is worth a visit."
+      ],
+      "dialogue": [
+        "Sam, where are we going to go in June?",
+        "I think Rome is a good place. The view is breathtaking.",
+        "Is it an old city?",
+        "Yes, it is ancient. The old town is worth a visit.",
+        "Do they have traditional food?",
+        "Yes, they do. And the small village near Rome is a hidden gem."
+      ],
+      "listening": "Sam and Anna choose a place to visit in June. They look at photos of Rome. Sam says, 'The view is breathtaking. Rome is ancient, and the old town is worth a visit.' Anna says, 'Do they have traditional food?' Sam says, 'Yes, they do. The small village near Rome is a hidden gem.'",
+      "question": "Where are Sam and Anna going to go in June?",
+      "correct": "Rome",
+      "other": "Paris",
+      "reading": "Sam and Anna want to go on a trip in June. They look at photos of Rome on a rainy day. Sam says, 'Look at this view. It is breathtaking. Rome is ancient, and the old town is worth a visit.' Anna asks, 'Is the food good?' Sam says, 'Yes, they have traditional food. The small village near Rome is a hidden gem. Not many people know it.' Anna smiles. She says, 'I like Rome. We are going to visit Rome in June. We can walk in the old town and eat traditional food.' Sam says, 'Good. I am happy. A trip to Rome is a good plan for June.' Anna and Sam look at more photos. They talk about Rome all evening.",
+      "readingQ": "Why does Sam like Rome?",
+      "readingA": "The view is breathtaking, and the old town is worth a visit.",
+      "speaking": "Tell a friend about a place you want to visit. Why do you like it?",
+      "speakingSample": "I want to visit Rome in June. The view is breathtaking. Rome is ancient, and the old town is worth a visit. They have traditional food. The small village near Rome is a hidden gem. I am going to visit Rome in June. I want to walk in the old town. I am happy about my trip.",
+      "writing": "Write a short email to a friend about a place you want to visit. Say why you like it.",
+      "writingSample": "Dear Tom, I want to tell you about my trip. I am going to visit Rome in June. The view is breathtaking. Rome is ancient, and the old town is worth a visit. They have traditional food. The small village near Rome is a hidden gem. Not many people know it. I want to walk in the old town and eat traditional food. I am happy about my trip. See you soon. Best, Sam",
+      "sound": "Breathtaking has its strongest beat on BREATH. In breathtaking, say BREATH clearly at the start. In ancient, say ANE clearly at the start.",
+      "model": "The view is breathtaking.",
+      "wordTask": "Where are Sam and Anna going to go in June?",
+      "wordSample": "They are going to visit Rome in June."
+    },
+    {
+      "unit": 10,
+      "day": 74,
+      "title": "Plan your days",
+      "goal": "I can plan the days of a trip and say what we are doing.",
+      "newItems": [
+        {
+          "word": "itinerary",
+          "ipa": "/aɪˈtɪnəˌrɛri/",
+          "pos": "noun",
+          "definition": "A plan of a trip with times and places.",
+          "example": "Our itinerary has three days in Rome.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "guidebook",
+          "ipa": "/ˈɡaɪdˌbʊk/",
+          "pos": "noun",
+          "definition": "A book with information for travellers.",
+          "example": "I bought a guidebook about Japan.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "temple",
+          "ipa": "/ˈtɛmpəl/",
+          "pos": "noun",
+          "definition": "A building for praying.",
+          "example": "The temple is very old.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "a guided tour",
+          "ipa": "/ə ˈɡaɪdəd tʊr/",
+          "pos": "fixed phrase",
+          "definition": "A trip with a guide who shows you things.",
+          "example": "We take a guided tour.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "a day trip",
+          "ipa": "/ə deɪ trɪp/",
+          "pos": "fixed phrase",
+          "definition": "A trip for one day.",
+          "example": "We go on a day trip.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "plan",
+        "morning",
+        "today",
+        "book",
+        "friend"
+      ],
+      "mainWord": {
+        "word": "itinerary",
+        "ipa": "/aɪˈtɪnəˌrɛri/",
+        "pos": "noun",
+        "definition": "A plan of a trip with times and places.",
+        "example": "Our itinerary has three days in Rome.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Itinerary is a noun. Itinerary means a plan of a trip with times and places. Our itinerary has three days in Rome.",
+      "pronunciationTarget": {
+        "word": "itinerary",
+        "ipa": "/aɪˈtɪnəˌrɛri/"
+      },
+      "expression": "We take a guided tour on Monday.",
+      "use": "Use this when a guide shows you things on a trip.",
+      "expressionTask": "Sam and Anna plan their days in Rome. What are they doing on Monday?",
+      "grammar": "Present continuous for arrangements: We are visiting the temple on Monday",
+      "pattern": "We are visiting the temple on Monday.",
+      "task": "We are visiting the temple on ___.",
+      "answer": "Monday",
+      "example": "We are visiting the temple on Monday.",
+      "context": [
+        "Sam and Anna make an itinerary for Rome.",
+        "We take a guided tour on Monday."
+      ],
+      "dialogue": [
+        "Anna, what is our itinerary for Rome?",
+        "On Monday, we take a guided tour. We are visiting the temple on Monday.",
+        "What about Tuesday?",
+        "On Tuesday, we go on a day trip to the village.",
+        "Do we need a guidebook?",
+        "Yes, I bought a guidebook about Rome. It is very good."
+      ],
+      "listening": "Sam and Anna make an itinerary for Rome. On Monday, they take a guided tour. They are visiting the temple on Monday. On Tuesday, they go on a day trip to the village. Anna buys a guidebook about Rome. Sam says, 'Our itinerary is good.'",
+      "question": "What are Sam and Anna doing on Monday?",
+      "correct": "Visiting the temple",
+      "other": "Going to the beach",
+      "reading": "Sam and Anna make an itinerary for their trip to Rome. They sit at home in the morning and look at a map. Anna says, 'On Monday, we take a guided tour. We are visiting the temple on Monday.' Sam asks, 'What about Tuesday?' Anna says, 'On Tuesday, we go on a day trip to the village. The village is small and quiet.' Sam says, 'Good. Do we need a guidebook?' Anna says, 'Yes, I bought a guidebook about Rome. It has photos and maps.' Sam reads the guidebook. He says, 'Our itinerary is good. I am happy.' Anna says, 'Me too. Three days in Rome is a good plan.' Sam and Anna are happy about their trip.",
+      "readingQ": "What is on the itinerary for Tuesday?",
+      "readingA": "A day trip to the village.",
+      "speaking": "Tell a friend about your plan for a trip. What are you doing each day?",
+      "speakingSample": "I am going to Rome in June. Our itinerary has three days in Rome. On Monday, we take a guided tour. We are visiting the temple on Monday. On Tuesday, we go on a day trip to the village. I bought a guidebook about Rome. It has photos and maps. Our itinerary is good. I am happy about my trip.",
+      "writing": "Write a short email to a friend about your plan for a trip. Say what you are doing each day.",
+      "writingSample": "Dear Tom, I want to tell you about my trip to Rome. Our itinerary has three days in Rome. On Monday, we take a guided tour. We are visiting the temple on Monday. On Tuesday, we go on a day trip to the village. I bought a guidebook about Rome. It has photos and maps. Our itinerary is good. I am happy about my trip. See you soon. Best, Sam",
+      "sound": "Itinerary has its strongest beat on TIN. In itinerary, say TIN clearly in the middle. In guidebook, say GUIDE clearly at the start.",
+      "model": "Our itinerary has three days in Rome.",
+      "wordTask": "What is on the itinerary for Tuesday?",
+      "wordSample": "A day trip to the village."
+    },
+    {
+      "unit": 10,
+      "day": 75,
+      "title": "Book your trip",
+      "goal": "I can book a trip and say what I will do.",
+      "newItems": [
+        {
+          "word": "cruise",
+          "ipa": "/kruz/",
+          "pos": "noun",
+          "definition": "A trip on a big ship.",
+          "example": "We go on a cruise in summer.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "excursion",
+          "ipa": "/ɪkˈskɝʒən/",
+          "pos": "noun",
+          "definition": "A short trip for fun.",
+          "example": "We go on an excursion to the lake.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "stopover",
+          "ipa": "/ˈstɑpˌoʊvər/",
+          "pos": "noun",
+          "definition": "A short stop on a long trip.",
+          "example": "We have a stopover in Paris.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "book a ticket",
+          "ipa": "/bʊk ə ˈtɪkət/",
+          "pos": "fixed phrase",
+          "definition": "To buy a ticket for a trip.",
+          "example": "Book a ticket online.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "package holiday",
+          "ipa": "/ˈpækɪdʒ ˈhɑləˌdeɪ/",
+          "pos": "fixed phrase",
+          "definition": "A holiday with travel and hotel in one price.",
+          "example": "We book a package holiday.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "ticket",
+        "money",
+        "price",
+        "online",
+        "summer"
+      ],
+      "mainWord": {
+        "word": "cruise",
+        "ipa": "/kruz/",
+        "pos": "noun",
+        "definition": "A trip on a big ship.",
+        "example": "We go on a cruise in summer.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Cruise is a noun. Cruise means a trip on a big ship. We go on a cruise in summer.",
+      "pronunciationTarget": {
+        "word": "cruise",
+        "ipa": "/kruz/"
+      },
+      "expression": "We book a ticket to Rome.",
+      "use": "Use this when you buy a ticket for a trip.",
+      "expressionTask": "Sam books the trip online. What will he book?",
+      "grammar": "will for decisions: I will book the tickets today",
+      "pattern": "I will book the tickets today.",
+      "task": "I will book the tickets ___.",
+      "answer": "today",
+      "example": "I will book the tickets today.",
+      "context": [
+        "Sam books the trip to Rome online.",
+        "We book a ticket to Rome."
+      ],
+      "dialogue": [
+        "Sam, what are we doing today?",
+        "I will book a ticket to Rome today. I want a package holiday.",
+        "A package holiday? What is in the price?",
+        "The hotel and a cruise. Our trip has a stopover in Paris.",
+        "A stopover in Paris? That is good. We can see Paris too.",
+        "Yes, and an excursion to the old town is in our plan."
+      ],
+      "listening": "Sam books the trip to Rome online. He says, 'I will book a ticket to Rome today. I want a package holiday with a hotel and a cruise.' Anna says, 'A cruise is a good idea.' Sam says, 'Our trip has a stopover in Paris. We stay one night in Paris.'",
+      "question": "What will Sam book today?",
+      "correct": "A ticket to Rome",
+      "other": "A new jacket",
+      "reading": "Sam books the trip to Rome online. He says, 'I will book a ticket to Rome today. I want a package holiday with a hotel and a cruise.' Anna says, 'A cruise is a good idea. The ship is big and the food is good.' Sam says, 'Our trip has a stopover in Paris. We stay one night in Paris, and then we go to Rome.' Anna says, 'Good. I like a stopover. We can see Paris too.' Sam books the ticket. He says, 'We go on a cruise. It is a package holiday, so the hotel is in the price.' Anna is happy. She says, 'Thank you, Sam. An excursion is in our plan.' Sam says, 'Yes, we go on an excursion on Monday.'",
+      "readingQ": "Where is the stopover?",
+      "readingA": "The stopover is in Paris.",
+      "speaking": "Tell a friend about booking your trip. What will you book?",
+      "speakingSample": "I am going to Rome in June. I will book a ticket to Rome today. I want a package holiday with a hotel and a cruise. Our trip has a stopover in Paris. We stay one night in Paris. An excursion to the old town is in our plan. I like my trip to Rome.",
+      "writing": "Write a short email to a friend about booking your trip. Say what you will book.",
+      "writingSample": "Dear Tom, I want to tell you about my trip to Rome. I will book a ticket to Rome today. I want a package holiday with a hotel and a cruise. Our trip has a stopover in Paris. We stay one night in Paris. An excursion to the old town is in our plan. I am happy about my trip. See you soon. Best, Sam",
+      "sound": "Cruise has its strongest beat on CRUISE. In cruise, say CRUISE clearly. In excursion, say CUR clearly in the middle.",
+      "model": "We go on a cruise in summer.",
+      "wordTask": "What will Sam book today?",
+      "wordSample": "He will book a ticket to Rome."
+    },
+    {
+      "unit": 10,
+      "day": 76,
+      "title": "Get ready to go",
+      "goal": "I can get ready for a trip and say what I must do.",
+      "newItems": [
+        {
+          "word": "foreign",
+          "ipa": "/ˈfɔrən/",
+          "pos": "adjective",
+          "definition": "From another country.",
+          "example": "I like foreign food.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "traveller",
+          "ipa": "/ˈtrævələr/",
+          "pos": "noun",
+          "definition": "A person who travels.",
+          "example": "The traveller asks for help.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "travel insurance",
+          "ipa": "/ˈtrævəl ɪnˈʃʊrəns/",
+          "pos": "fixed phrase",
+          "definition": "Insurance for a trip.",
+          "example": "Buy travel insurance.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "hand luggage",
+          "ipa": "/hænd ˈlʌɡɪdʒ/",
+          "pos": "fixed phrase",
+          "definition": "A small bag you take on a plane.",
+          "example": "My hand luggage is light.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "exchange rate",
+          "ipa": "/ɪksˈtʃeɪndʒ reɪt/",
+          "pos": "fixed phrase",
+          "definition": "The money you get for your money in another country.",
+          "example": "The exchange rate is good.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "passport",
+        "bag",
+        "phone",
+        "train",
+        "hotel"
+      ],
+      "mainWord": {
+        "word": "foreign",
+        "ipa": "/ˈfɔrən/",
+        "pos": "adjective",
+        "definition": "From another country.",
+        "example": "I like foreign food.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Foreign is an adjective. Foreign means from another country. I like foreign food.",
+      "pronunciationTarget": {
+        "word": "foreign",
+        "ipa": "/ˈfɔrən/"
+      },
+      "expression": "Do not forget your travel insurance.",
+      "use": "Use this when you talk about insurance for a trip.",
+      "expressionTask": "Sam gets ready for Rome. What must he not forget?",
+      "grammar": "must and have to: You must take your passport",
+      "pattern": "You must take your passport.",
+      "task": "You must take your ___.",
+      "answer": "passport",
+      "example": "You must take your passport.",
+      "context": [
+        "Sam gets ready for the trip to Rome.",
+        "Do not forget your travel insurance."
+      ],
+      "dialogue": [
+        "Sam, are you ready for Rome?",
+        "Not yet. I must take my passport. I must buy travel insurance today.",
+        "Do you like foreign food?",
+        "Yes, I do. I like foreign food, but I need to be ready.",
+        "Put your hand luggage by the door.",
+        "Thank you. What is the exchange rate in Italy?"
+      ],
+      "listening": "Sam gets ready for the trip to Rome. Anna says, 'You must take your passport. You must buy travel insurance too.' Sam says, 'Yes, I will buy travel insurance today.' Anna says, 'Put your hand luggage by the door. What is the exchange rate in Italy?'",
+      "question": "What must Sam take?",
+      "correct": "His passport",
+      "other": "His bicycle",
+      "reading": "Sam gets ready for the trip to Rome. He is a traveller, and he wants to be ready. Anna says, 'You must take your passport. You must buy travel insurance too.' Sam says, 'Yes, I will buy travel insurance today. I like foreign food, but I need to be ready.' Anna says, 'Put your hand luggage by the door. Your passport is in your hand luggage.' Sam says, 'Good. What is the exchange rate in Italy?' Anna says, 'One dollar is one euro today. The exchange rate is good.' Sam is a happy traveller. He says, 'Thank you, Anna. I must take my passport, and I must buy travel insurance.' Anna says, 'Yes, and do not forget your hand luggage.'",
+      "readingQ": "What is in Sam's hand luggage?",
+      "readingA": "His passport is in his hand luggage.",
+      "speaking": "Tell a friend about getting ready for a trip. What must you do?",
+      "speakingSample": "I am going to Rome in June. I am a traveller, and I must get ready. I must take my passport. I must buy travel insurance today. I like foreign food, but I need to be ready. I put my hand luggage by the door. What is the exchange rate in Italy? I am happy about my trip.",
+      "writing": "Write a short email to a friend about getting ready for a trip. Say what you must do.",
+      "writingSample": "Dear Tom, I want to tell you about my trip to Rome. I am a traveller, and I must get ready. I must take my passport. I must buy travel insurance today. I like foreign food, but I need to be ready. I put my hand luggage by the door. The exchange rate in Italy is good. I am happy about my trip. See you soon. Best, Sam",
+      "sound": "Foreign has its strongest beat on FOR. In foreign, say FOR clearly at the start. In traveller, say TRAV clearly at the start.",
+      "model": "I like foreign food.",
+      "wordTask": "What must Sam buy today?",
+      "wordSample": "He must buy travel insurance today."
+    },
+    {
+      "unit": 10,
+      "day": 77,
+      "title": "Arrive and explore the city",
+      "goal": "I can talk about arriving in a new city and exploring it.",
+      "newItems": [
+        {
+          "word": "explore",
+          "ipa": "/ɪkˈsplɔr/",
+          "pos": "verb",
+          "definition": "To travel around a place to learn about it.",
+          "example": "We explore the old town.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "landmark",
+          "ipa": "/ˈlændˌmɑrk/",
+          "pos": "noun",
+          "definition": "A famous building or place.",
+          "example": "The tower is a famous landmark.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "set off",
+          "ipa": "/sɛt ɔf/",
+          "pos": "fixed phrase",
+          "definition": "To start a trip.",
+          "example": "We set off at six.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "catch a flight",
+          "ipa": "/kætʃ ə flaɪt/",
+          "pos": "fixed phrase",
+          "definition": "To get on a plane in time.",
+          "example": "Catch a flight to Rome.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "miss a flight",
+          "ipa": "/mɪs ə flaɪt/",
+          "pos": "fixed phrase",
+          "definition": "To be too late for a plane.",
+          "example": "Do not miss a flight.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "flight",
+        "morning",
+        "water",
+        "park",
+        "museum"
+      ],
+      "mainWord": {
+        "word": "explore",
+        "ipa": "/ɪkˈsplɔr/",
+        "pos": "verb",
+        "definition": "To travel around a place to learn about it.",
+        "example": "We explore the old town.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Explore is a verb. Explore means to travel around a place to learn about it. We explore the old town.",
+      "pronunciationTarget": {
+        "word": "explore",
+        "ipa": "/ɪkˈsplɔr/"
+      },
+      "expression": "We catch a flight to Rome.",
+      "use": "Use this when you get on a plane in time.",
+      "expressionTask": "Sam and Anna go to Rome. How do they go?",
+      "grammar": "Past simple: We caught a flight to Rome",
+      "pattern": "We caught a flight to Rome.",
+      "task": "We ___ a flight to Rome.",
+      "answer": "caught",
+      "example": "We caught a flight to Rome.",
+      "context": [
+        "Sam and Anna go to Rome.",
+        "We catch a flight to Rome."
+      ],
+      "dialogue": [
+        "Sam, when do we set off for Rome?",
+        "On Monday. We catch a flight to Rome in the morning.",
+        "Must we get up early?",
+        "Yes, we must not miss a flight. We are happy.",
+        "What do we do in Rome?",
+        "We explore the old town. We see a famous landmark."
+      ],
+      "listening": "Sam and Anna set off for Rome on Monday. They catch a flight to Rome in the morning. In Rome, they explore the old town. They see a famous landmark, a big old tower. Sam says, 'We explore the old town today. The landmark is very old.'",
+      "question": "What do Sam and Anna see in Rome?",
+      "correct": "A famous landmark",
+      "other": "A new school",
+      "reading": "Sam and Anna set off for Rome on Monday. They catch a flight to Rome in the morning. Sam says, 'We must not miss a flight. We are happy.' They catch a flight at nine. In Rome, Sam and Anna explore the old town. They see a famous landmark, a big old tower. Sam says, 'We explore the old town today. The landmark is very old.' Anna says, 'Yes, I like to explore. The old town is beautiful.' They walk in the old town all day. Sam says, 'We set off in the morning, and we are here now. We did not miss a flight.' Anna says, 'Good. We catch a flight home on Friday. Today we explore Rome.'",
+      "readingQ": "What is the famous landmark?",
+      "readingA": "A big old tower.",
+      "speaking": "Tell a friend about arriving in a new city. What do you do there?",
+      "speakingSample": "On Monday, we set off for Rome. We catch a flight to Rome in the morning. We must not miss a flight. In Rome, we explore the old town. We see a famous landmark, a big old tower. We explore the old town today. The landmark is very old. I like to explore Rome.",
+      "writing": "Write a short email to a friend about arriving in a new city. Say what you do there.",
+      "writingSample": "Dear Tom, I want to tell you about Rome. On Monday, we set off for Rome. We catch a flight to Rome in the morning. We must not miss a flight. In Rome, we explore the old town. We see a famous landmark, a big old tower. We explore the old town today. The landmark is very old. I like to explore Rome. See you soon. Best, Sam",
+      "sound": "Explore has its strongest beat on PLORE. In explore, say PLORE clearly at the end. In landmark, say LAND clearly at the start.",
+      "model": "We explore the old town.",
+      "wordTask": "What do Sam and Anna do in Rome?",
+      "wordSample": "They explore the old town."
+    },
+    {
+      "unit": 10,
+      "day": 78,
+      "title": "Take a day trip to the coast",
+      "goal": "I can talk about a day trip and compare places.",
+      "newItems": [
+        {
+          "word": "coast",
+          "ipa": "/koʊst/",
+          "pos": "noun",
+          "definition": "The land near the sea.",
+          "example": "The coast is beautiful.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "valley",
+          "ipa": "/ˈvæli/",
+          "pos": "noun",
+          "definition": "Low land between hills.",
+          "example": "The valley is green.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "harbour",
+          "ipa": "/ˈhɑrbər/",
+          "pos": "noun",
+          "definition": "A place where ships stay.",
+          "example": "The boats are in the harbour.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "road trip",
+          "ipa": "/roʊd trɪp/",
+          "pos": "fixed phrase",
+          "definition": "A long trip by car.",
+          "example": "We go on a road trip.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "rental car",
+          "ipa": "/ˈrɛntəl kɑr/",
+          "pos": "fixed phrase",
+          "definition": "A car you pay to use for a short time.",
+          "example": "We get a rental car.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "beach",
+        "car",
+        "drive",
+        "lunch",
+        "sea"
+      ],
+      "mainWord": {
+        "word": "coast",
+        "ipa": "/koʊst/",
+        "pos": "noun",
+        "definition": "The land near the sea.",
+        "example": "The coast is beautiful.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Coast is a noun. Coast means the land near the sea. The coast is beautiful.",
+      "pronunciationTarget": {
+        "word": "coast",
+        "ipa": "/koʊst/"
+      },
+      "expression": "We go on a road trip to the coast.",
+      "use": "Use this when you travel by car for fun.",
+      "expressionTask": "Sam and Anna take a day trip. How do they go to the coast?",
+      "grammar": "Comparatives: The coast is more beautiful than the city",
+      "pattern": "The coast is more beautiful than the city.",
+      "task": "The coast is ___ beautiful than the city.",
+      "answer": "more",
+      "example": "The coast is more beautiful than the city.",
+      "context": [
+        "Sam and Anna take a day trip to the coast.",
+        "We go on a road trip to the coast."
+      ],
+      "dialogue": [
+        "Sam, where are we going today?",
+        "We go on a road trip to the coast. We get a rental car.",
+        "Is a rental car a good idea?",
+        "Yes, it is. The coast is more beautiful than the city.",
+        "What do we see on the way?",
+        "A green valley and a small harbour. The harbour is quiet."
+      ],
+      "listening": "Sam and Anna go on a road trip to the coast. They get a rental car in the morning. Sam says, 'A rental car is a good idea. The coast is more beautiful than the city.' They drive to the coast and see a green valley and a small harbour.",
+      "question": "How do Sam and Anna go to the coast?",
+      "correct": "By rental car",
+      "other": "By train",
+      "reading": "Sam and Anna go on a road trip to the coast. They get a rental car in the morning. Sam says, 'A rental car is a good idea. The coast is more beautiful than the city.' They drive to the coast. On the way, they see a green valley and a small harbour. Anna says, 'The valley is beautiful. The harbour is quiet.' Sam says, 'Yes, the coast is more beautiful than the city. A road trip is fun.' They stop at the harbour. They eat lunch and look at the boats. Anna says, 'The harbour is beautiful. I like a road trip.' Sam says, 'Me too. Our rental car is good. We drive home in the evening.'",
+      "readingQ": "What do Sam and Anna see on the way?",
+      "readingA": "A green valley and a small harbour.",
+      "speaking": "Tell a friend about a day trip. Where do you go? How do you go?",
+      "speakingSample": "We go on a road trip to the coast. We get a rental car in the morning. A rental car is a good idea. The coast is more beautiful than the city. We see a green valley and a small harbour. The valley is beautiful. The harbour is quiet. I like a road trip to the coast.",
+      "writing": "Write a short email to a friend about a day trip. Say where you go and how you go.",
+      "writingSample": "Dear Tom, I want to tell you about our day trip. We go on a road trip to the coast. We get a rental car in the morning. A rental car is a good idea. The coast is more beautiful than the city. We see a green valley and a small harbour. The valley is beautiful. The harbour is quiet. I like a road trip. See you soon. Best, Sam",
+      "sound": "Coast has its strongest beat on COAST. In coast, say COAST clearly. In valley, say VAL clearly at the start.",
+      "model": "The coast is beautiful.",
+      "wordTask": "Is the coast more beautiful than the city?",
+      "wordSample": "Yes, the coast is more beautiful than the city."
+    },
+    {
+      "unit": 10,
+      "day": 79,
+      "title": "Enjoy the trip",
+      "goal": "I can talk about enjoying a trip and say what I like.",
+      "newItems": [
+        {
+          "word": "scenery",
+          "ipa": "/ˈsinəri/",
+          "pos": "noun",
+          "definition": "The natural beauty of a place.",
+          "example": "The scenery is beautiful.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "waterfall",
+          "ipa": "/ˈwɔtərˌfɔl/",
+          "pos": "noun",
+          "definition": "Water that falls from a high place.",
+          "example": "The waterfall is beautiful.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "a change of scenery",
+          "ipa": "/ə tʃeɪndʒ ʌv ˈsinəri/",
+          "pos": "fixed phrase",
+          "definition": "A different place to see.",
+          "example": "We need a change of scenery.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "once in a lifetime",
+          "ipa": "/wʌns ɪn ə ˈlaɪfˌtaɪm/",
+          "pos": "fixed phrase",
+          "definition": "Something that happens only once in your life.",
+          "example": "It is a once in a lifetime trip.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "tourist trap",
+          "ipa": "/ˈtʊrəst træp/",
+          "pos": "fixed phrase",
+          "definition": "A place for tourists that costs too much.",
+          "example": "That shop is a tourist trap.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "photo",
+        "shop",
+        "market",
+        "family",
+        "time"
+      ],
+      "mainWord": {
+        "word": "scenery",
+        "ipa": "/ˈsinəri/",
+        "pos": "noun",
+        "definition": "The natural beauty of a place.",
+        "example": "The scenery is beautiful.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Scenery is a noun. Scenery means the natural beauty of a place. The scenery is beautiful.",
+      "pronunciationTarget": {
+        "word": "scenery",
+        "ipa": "/ˈsinəri/"
+      },
+      "expression": "We need a change of scenery.",
+      "use": "Use this when you want a different place to see.",
+      "expressionTask": "Sam and Anna enjoy the trip. What does Sam say?",
+      "grammar": "Second conditional: If I had more time, I would stay a week",
+      "pattern": "If I had more time, I would stay a week.",
+      "task": "If I had more time, I would stay a ___.",
+      "answer": "week",
+      "example": "If I had more time, I would stay a week.",
+      "context": [
+        "Sam and Anna enjoy the trip to Rome.",
+        "We need a change of scenery."
+      ],
+      "dialogue": [
+        "Sam, do you enjoy the trip?",
+        "Yes, I do. The scenery is beautiful. We need a change of scenery.",
+        "Is this trip special?",
+        "Yes, it is a once in a lifetime trip. I will never forget it.",
+        "Do you like the waterfall?",
+        "Yes, I do. But that shop is a tourist trap. Do not go there."
+      ],
+      "listening": "Sam and Anna enjoy the trip to Rome. Sam says, 'The scenery is beautiful. We need a change of scenery after work.' Anna says, 'Yes, this trip is a once in a lifetime trip.' They go to a waterfall near Rome. Sam says, 'The waterfall is beautiful.'",
+      "question": "What does Sam say about the shop?",
+      "correct": "It is a tourist trap",
+      "other": "It is very cheap",
+      "reading": "Sam and Anna enjoy the trip to Rome. Sam says, 'The scenery is beautiful. We need a change of scenery after work.' Anna says, 'Yes, this trip is a once in a lifetime trip. I will never forget it.' They go to a waterfall near Rome. Sam says, 'The waterfall is beautiful. The scenery here is very good.' Anna says, 'Yes, I like the waterfall. It is a once in a lifetime trip.' They eat lunch near the waterfall. Sam says, 'Do not go to that shop. That shop is a tourist trap.' Anna says, 'Thank you. I do not want a tourist trap. I want the waterfall and the scenery.' Sam says, 'Good. We need a change of scenery. Rome is a good trip.'",
+      "readingQ": "What do Sam and Anna go to near Rome?",
+      "readingA": "A waterfall near Rome.",
+      "speaking": "Tell a friend about enjoying a trip. What do you like?",
+      "speakingSample": "I enjoy the trip to Rome. The scenery is beautiful. We need a change of scenery after work. This trip is a once in a lifetime trip. I will never forget it. We go to a waterfall near Rome. The waterfall is beautiful. I like the waterfall and the scenery. Rome is a good trip.",
+      "writing": "Write a short email to a friend about enjoying a trip. Say what you like.",
+      "writingSample": "Dear Tom, I want to tell you about my trip to Rome. I enjoy the trip. The scenery is beautiful. We need a change of scenery after work. This trip is a once in a lifetime trip. I will never forget it. We go to a waterfall near Rome. The waterfall is beautiful. I like the waterfall and the scenery. Rome is a good trip. See you soon. Best, Sam",
+      "sound": "Scenery has its strongest beat on SEEN. In scenery, say SEEN clearly at the start. In waterfall, say WA clearly at the start.",
+      "model": "The scenery is beautiful.",
+      "wordTask": "What is beautiful in Rome?",
+      "wordSample": "The scenery is beautiful."
+    },
+    {
+      "unit": 10,
+      "day": 80,
+      "title": "Use travel English in a new situation",
+      "goal": "I can use travel English in a new situation.",
+      "newItems": [
+        {
+          "word": "getaway",
+          "ipa": "/ˈɡɛtəˌweɪ/",
+          "pos": "noun",
+          "definition": "A short holiday.",
+          "example": "We plan a weekend getaway.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "backpacker",
+          "ipa": "/ˈbækˌpækər/",
+          "pos": "noun",
+          "definition": "A person who travels with a backpack.",
+          "example": "The backpacker stays in a hostel.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "get away",
+          "ipa": "/ɡɛt əˈweɪ/",
+          "pos": "fixed phrase",
+          "definition": "To go somewhere for a short break.",
+          "example": "We want to get away for a week.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "a weekend away",
+          "ipa": "/ə ˈwikˌɛnd əˈweɪ/",
+          "pos": "fixed phrase",
+          "definition": "A short trip for the weekend.",
+          "example": "We plan a weekend away.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "bucket list",
+          "ipa": "/ˈbʌkət lɪst/",
+          "pos": "fixed phrase",
+          "definition": "A list of things you want to do in your life.",
+          "example": "Rome is on my bucket list.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "school",
+        "teacher",
+        "class",
+        "month",
+        "year"
+      ],
+      "mainWord": {
+        "word": "getaway",
+        "ipa": "/ˈɡɛtəˌweɪ/",
+        "pos": "noun",
+        "definition": "A short holiday.",
+        "example": "We plan a weekend getaway.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Getaway is a noun. Getaway means a short holiday. We plan a weekend getaway.",
+      "pronunciationTarget": {
+        "word": "getaway",
+        "ipa": "/ˈɡɛtəˌweɪ/"
+      },
+      "expression": "We plan a weekend away with our class.",
+      "use": "Use this when you plan a short trip with friends.",
+      "expressionTask": "Emma plans a weekend away. What does she say?",
+      "grammar": "Review: I can use travel English in a new situation",
+      "pattern": "I can use travel English in a new situation.",
+      "task": "I can use travel English in a new ___.",
+      "answer": "situation",
+      "example": "I can use travel English in a new situation.",
+      "context": [
+        "Emma plans a weekend away with her class.",
+        "We plan a weekend away with our class."
+      ],
+      "dialogue": [
+        "Emma, what are you planning with your class?",
+        "We plan a weekend away. We want to get away for two days.",
+        "Where do you want to go?",
+        "We want to go to the coast. A weekend getaway is on my bucket list.",
+        "Who can help you plan the trip?",
+        "Tom is a backpacker. He travels with a backpack."
+      ],
+      "listening": "Emma plans a weekend away with her class. She says, 'We want to get away for two days. A weekend away is a good plan.' Her teacher, Ms. Green, says, 'Good. Where do you want to go?' Emma says, 'We want to go to the coast.'",
+      "question": "What does Emma plan with her class?",
+      "correct": "A weekend away",
+      "other": "A new school",
+      "reading": "Emma plans a weekend away with her class. She says, 'We want to get away for two days. A weekend away is a good plan.' Her teacher, Ms. Green, says, 'Good. Where do you want to go?' Emma says, 'We want to go to the coast. A weekend getaway is on my bucket list.' Ms. Green says, 'A getaway is a good idea. Who is the backpacker in our class?' Emma says, 'Tom is a backpacker. He travels with a backpack.' Ms. Green says, 'Good. Tom can help us. We get away on Saturday.' Emma says, 'Thank you, Ms. Green. A weekend away with my class is a good plan. Rome is on my bucket list too.'",
+      "readingQ": "Who is a backpacker?",
+      "readingA": "Tom is a backpacker.",
+      "speaking": "Tell a friend about planning a trip with your class. Where do you want to go?",
+      "speakingSample": "I plan a weekend away with my class. We want to get away for two days. A weekend away is a good plan. We want to go to the coast. A weekend getaway is on my bucket list. Tom is a backpacker. He travels with a backpack. I can use travel English in a new situation.",
+      "writing": "Write a short email to a friend about planning a trip with your class. Say where you want to go.",
+      "writingSample": "Dear Tom, I want to tell you about my class trip. I plan a weekend away with my class. We want to get away for two days. A weekend away is a good plan. We want to go to the coast. A weekend getaway is on my bucket list. Tom is a backpacker. He travels with a backpack. I can use travel English in a new situation. Best, Emma",
+      "sound": "Getaway has its strongest beat on GET. In getaway, say GET clearly at the start. In backpacker, say BACK clearly at the start.",
+      "model": "We plan a weekend getaway.",
+      "wordTask": "What does Emma plan?",
+      "wordSample": "She plans a weekend away with her class.",
+      "transferCheck": {
+        "source": "On Tuesday, Emma talks to her friend Lily. Lily wants to get away for two days. Emma says, 'A weekend away is a good plan. Where do you want to go?' Lily says, 'I want to go to the coast. A weekend getaway is on my bucket list.' Emma says, 'Good. Tom is a backpacker. He can help us plan.' Lily says, 'Thank you, Emma. We get away on Saturday.'",
+        "dictation": "Emma plans a weekend away with her class.",
+        "answer": "1. Emma helps her friend Lily. Lily wants to get away for two days. 2. Lily wants to go to the coast. A weekend getaway is on her bucket list. 3. On Tuesday, Emma says, 'A weekend away is a good plan. Where do you want to go?' 4. Emma plans a weekend away with her class. 5. Sample: On Tuesday, Emma talks to her friend Lily. Lily wants to get away for two days. Emma says, 'A weekend away is a good plan. Where do you want to go?' Lily says, 'I want to go to the coast. A weekend getaway is on my bucket list.' Emma says, 'Good. Tom is a backpacker. He can help us plan.' Lily says, 'Thank you, Emma. We get away on Saturday.' Follow-up: Who can help them plan? Tom can help them plan.",
+        "tasks": [
+          [
+            "1 · Identify the people and the new situation",
+            "Who does Emma help, and what do they plan?"
+          ],
+          [
+            "2 · Work out what Lily wants",
+            "Where does Lily want to go, and why?"
+          ],
+          [
+            "3 · Notice the sentence on Tuesday",
+            "What does Emma say on Tuesday?"
+          ],
+          [
+            "4 · Listen and write",
+            "Write the sentence you hear."
+          ],
+          [
+            "5 · Retell and answer",
+            "Tell the story in order, including the people, the new situation, the first talk, and the result. Then answer one follow-up question."
+          ]
+        ]
+      }
+    }
+  ]
+}

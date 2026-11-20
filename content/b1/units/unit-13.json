@@ -1,0 +1,905 @@
+{
+  "number": 13,
+  "title": "Eating out and food",
+  "lessons": [
+    {
+      "unit": 13,
+      "day": 97,
+      "title": "Choose a restaurant",
+      "goal": "I can choose a restaurant.",
+      "newItems": [
+        {
+          "word": "cuisine",
+          "ipa": "/kwɪˈzin/",
+          "pos": "noun",
+          "definition": "A style of cooking from a place.",
+          "example": "I love Italian cuisine.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "vegetarian",
+          "ipa": "/ˌvɛdʒəˈtɛriən/",
+          "pos": "noun",
+          "definition": "A person who does not eat meat.",
+          "example": "She is a vegetarian.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "vegan",
+          "ipa": "/ˈviɡən/",
+          "pos": "noun",
+          "definition": "A person who eats no meat, eggs or milk.",
+          "example": "He is a vegan.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "a taste of",
+          "ipa": "/ə teɪst əv/",
+          "pos": "fixed phrase",
+          "definition": "A little bit of a food to try.",
+          "example": "Have a taste of this soup.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "try the special",
+          "ipa": "/traɪ ðə ˈspɛʃəl/",
+          "pos": "fixed phrase",
+          "definition": "Eat the special dish of the day.",
+          "example": "Try the special today.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "restaurant",
+        "menu",
+        "food",
+        "lunch",
+        "today"
+      ],
+      "mainWord": {
+        "word": "cuisine",
+        "ipa": "/kwɪˈzin/",
+        "pos": "noun",
+        "definition": "A style of cooking from a place.",
+        "example": "I love Italian cuisine.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Cuisine is a noun. A cuisine is a style of cooking from a place. I love Italian cuisine.",
+      "pronunciationTarget": {
+        "word": "cuisine",
+        "ipa": "/kwɪˈzin/"
+      },
+      "expression": "Have a taste of this soup.",
+      "use": "Use this when you try a little bit of a food.",
+      "expressionTask": "Sam and Anna choose a restaurant in Rome. What do they try?",
+      "grammar": "Could for polite requests: Could we try the special today",
+      "pattern": "Could we try the special today?",
+      "task": "Could we ___ the special today?",
+      "answer": "try",
+      "example": "Could we try the special today?",
+      "context": [
+        "Sam and Anna choose a restaurant in Rome.",
+        "Have a taste of this soup. Try the special today."
+      ],
+      "dialogue": [
+        "Sam, which restaurant do we choose?",
+        "The one with Italian cuisine.",
+        "Is the food good for a vegetarian?",
+        "Yes. And I am a vegan too.",
+        "Have a taste of this soup.",
+        "Good. Try the special today."
+      ],
+      "listening": "On Monday, Sam and Anna choose a restaurant in Rome. The restaurant has Italian cuisine. Sam says, 'Have a taste of this soup.' Anna says, 'Good. Try the special today.' The food is good for a vegetarian. Anna is a vegan. They like the restaurant. Sam says, 'I love Italian cuisine.'",
+      "question": "What do Sam and Anna choose?",
+      "correct": "A restaurant in Rome",
+      "other": "A hotel in Rome",
+      "reading": "On Monday, Sam and Anna choose a restaurant in Rome. The restaurant has Italian cuisine. Sam says, 'Have a taste of this soup.' Anna says, 'Good. Try the special today.' The food is good for a vegetarian. Anna is a vegan. She eats no meat, eggs or milk. Sam says, 'I love Italian cuisine. The soup is nice.' Anna says, 'Yes. Have a taste of this soup. It is good.' Sam and Anna like the restaurant. The food is good, and the people are kind. Sam says, 'We eat out in Rome. The restaurant is nice.' Anna says, 'Good. Try the special today. I like Italian cuisine.' Sam is happy. He says, 'Yes. The restaurant is good for a vegetarian and a vegan.'",
+      "readingQ": "What kind of food does the restaurant have?",
+      "readingA": "Italian cuisine.",
+      "speaking": "Tell a friend about a restaurant you choose. What kind of food does it have?",
+      "speakingSample": "I choose a restaurant in Rome. The restaurant has Italian cuisine. I say, 'Have a taste of this soup.' My friend says, 'Good. Try the special today.' The food is good for a vegetarian. My friend is a vegan. She eats no meat, eggs or milk. I love Italian cuisine. The restaurant is nice.",
+      "writing": "Write a short email to a friend about a restaurant you choose. Say what kind of food it has.",
+      "writingSample": "Dear Tom, I want to tell you about a restaurant in Rome. The restaurant has Italian cuisine. I say, 'Have a taste of this soup.' My friend says, 'Good. Try the special today.' The food is good for a vegetarian. My friend is a vegan. She eats no meat, eggs or milk. I love Italian cuisine. The restaurant is nice. See you soon. Best, Sam",
+      "sound": "Cuisine has its strongest beat on ZINE. In cuisine, say ZINE clearly at the end. In vegetarian, say TAIR clearly in the middle.",
+      "model": "I love Italian cuisine.",
+      "wordTask": "What kind of food does the restaurant have?",
+      "wordSample": "Italian cuisine."
+    },
+    {
+      "unit": 13,
+      "day": 98,
+      "title": "Order food and drinks",
+      "goal": "I can order food and drinks.",
+      "newItems": [
+        {
+          "word": "appetizer",
+          "ipa": "/ˈæpəˌtaɪzɚ/",
+          "pos": "noun",
+          "definition": "A small dish you eat before the main dish.",
+          "example": "We share an appetizer before the main dish.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "starter",
+          "ipa": "/ˈstɑrtɚ/",
+          "pos": "noun",
+          "definition": "A small first dish of a meal.",
+          "example": "Soup is a good starter.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "order a starter",
+          "ipa": "/ˈɔrdɚ ə ˈstɑrtɚ/",
+          "pos": "fixed phrase",
+          "definition": "Ask for a small first dish.",
+          "example": "I order a starter first.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "what do you recommend",
+          "ipa": "/wʌt du ju ˌrɛkəˈmɛnd/",
+          "pos": "fixed phrase",
+          "definition": "What food do you think is best here?",
+          "example": "What do you recommend?",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "today's special",
+          "ipa": "/təˈdeɪz ˈspɛʃəl/",
+          "pos": "fixed phrase",
+          "definition": "The special dish of the day.",
+          "example": "Today's special is fish.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "dinner",
+        "table",
+        "water",
+        "tea",
+        "friend"
+      ],
+      "mainWord": {
+        "word": "appetizer",
+        "ipa": "/ˈæpəˌtaɪzɚ/",
+        "pos": "noun",
+        "definition": "A small dish you eat before the main dish.",
+        "example": "We share an appetizer before the main dish.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Appetizer is a noun. An appetizer is a small dish you eat before the main dish. We share an appetizer before the main dish.",
+      "pronunciationTarget": {
+        "word": "appetizer",
+        "ipa": "/ˈæpəˌtaɪzɚ/"
+      },
+      "expression": "Today's special is fish.",
+      "use": "Use this when you say the special dish of the day.",
+      "expressionTask": "Sam and Anna order food in Rome. What is today's special?",
+      "grammar": "would like for ordering: I would like the fish, please",
+      "pattern": "I would like the fish, please.",
+      "task": "I would ___ the fish, please.",
+      "answer": "like",
+      "example": "I would like the fish, please.",
+      "context": [
+        "Sam and Anna order food in Rome.",
+        "Today's special is fish. What do you recommend?"
+      ],
+      "dialogue": [
+        "Sam, what do you order?",
+        "I order a starter first.",
+        "What do you recommend?",
+        "Today's special is fish.",
+        "I would like the fish, please.",
+        "Good. The appetizer is nice too."
+      ],
+      "listening": "On Tuesday, Sam and Anna order food in Rome. Sam says, 'I order a starter first.' Anna says, 'What do you recommend?' The waiter says, 'Today's special is fish.' Sam says, 'I would like the fish, please.' Anna says, 'Good. The appetizer is nice too.' They like the food. Sam says, 'The fish is good.'",
+      "question": "What does Sam order first?",
+      "correct": "A starter",
+      "other": "A dessert",
+      "reading": "On Tuesday, Sam and Anna order food in Rome. Sam says, 'I order a starter first.' Anna asks, 'What do you recommend?' The waiter says, 'Today's special is fish.' Sam says, 'I would like the fish, please.' Anna says, 'Good. The appetizer is nice too. I order a starter first.' Sam says, 'What do you recommend for me?' The waiter says, 'Today's special is fish. It is good.' Sam and Anna like the food. They order a starter and fish. Anna says, 'The appetizer is nice. I like this restaurant.' Sam says, 'Yes. Today's special is fish. I would like the fish, please.' Anna is happy. She says, 'Good. What do you recommend for dessert?'",
+      "readingQ": "What is today's special?",
+      "readingA": "Fish.",
+      "speaking": "Tell a friend about food you order. What do you order first?",
+      "speakingSample": "I order food in Rome. I say, 'I order a starter first.' My friend asks, 'What do you recommend?' The waiter says, 'Today's special is fish.' I say, 'I would like the fish, please.' My friend says, 'Good. The appetizer is nice too.' I like the food. The fish is good.",
+      "writing": "Write a short email to a friend about food you order. Say what you order first.",
+      "writingSample": "Dear Lisa, I want to tell you about food I order in Rome. I say, 'I order a starter first.' My friend asks, 'What do you recommend?' The waiter says, 'Today's special is fish.' I say, 'I would like the fish, please.' My friend says, 'Good. The appetizer is nice too.' I like the food. The fish is good. See you soon. I like this restaurant. Best, Anna",
+      "sound": "Appetizer has its strongest beat on PET. In appetizer, say PET clearly in the middle. In starter, say START clearly at the start.",
+      "model": "We share an appetizer before the main dish.",
+      "wordTask": "What does Sam order first?",
+      "wordSample": "A starter."
+    },
+    {
+      "unit": 13,
+      "day": 99,
+      "title": "Ask about the menu",
+      "goal": "I can ask about the menu.",
+      "newItems": [
+        {
+          "word": "allergy",
+          "ipa": "/ˈælɚdʒi/",
+          "pos": "noun",
+          "definition": "A bad body answer to some food.",
+          "example": "I have an allergy to nuts.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "allergic",
+          "ipa": "/əˈlɝdʒɪk/",
+          "pos": "adjective",
+          "definition": "Made ill by some food.",
+          "example": "I am allergic to nuts.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "is it spicy",
+          "ipa": "/ɪz ɪt ˈspaɪsi/",
+          "pos": "fixed phrase",
+          "definition": "Ask if the food is hot with a strong taste.",
+          "example": "Is it spicy?",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "no onions",
+          "ipa": "/noʊ ˈʌnjənz/",
+          "pos": "fixed phrase",
+          "definition": "Please do not put onions in my food.",
+          "example": "No onions, please.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "extra sauce",
+          "ipa": "/ˈɛkstrə sɔs/",
+          "pos": "fixed phrase",
+          "definition": "More sauce, please.",
+          "example": "Can I have extra sauce?",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "soup",
+        "salad",
+        "sauce",
+        "bread",
+        "rice"
+      ],
+      "mainWord": {
+        "word": "allergy",
+        "ipa": "/ˈælɚdʒi/",
+        "pos": "noun",
+        "definition": "A bad body answer to some food.",
+        "example": "I have an allergy to nuts.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Allergy is a noun. An allergy is a bad body answer to some food. I have an allergy to nuts.",
+      "pronunciationTarget": {
+        "word": "allergy",
+        "ipa": "/ˈælɚdʒi/"
+      },
+      "expression": "No onions, please.",
+      "use": "Use this when you do not want onions in your food.",
+      "expressionTask": "Sam asks about the menu. What does he not want?",
+      "grammar": "questions with What: What is in this dish",
+      "pattern": "What is in this dish?",
+      "task": "What ___ in this dish?",
+      "answer": "is",
+      "example": "What is in this dish?",
+      "context": [
+        "Sam asks about the menu in Rome.",
+        "No onions, please. Is it spicy?"
+      ],
+      "dialogue": [
+        "Sam, is the soup good?",
+        "Yes, but I have an allergy to nuts.",
+        "Is it spicy?",
+        "No. Can I have extra sauce?",
+        "Yes. No onions, please.",
+        "Good. I am allergic to nuts too."
+      ],
+      "listening": "On Wednesday, Sam asks about the menu in Rome. Sam says, 'I have an allergy to nuts.' Anna says, 'Is it spicy?' Sam says, 'No. Can I have extra sauce?' Anna says, 'Yes. No onions, please.' Sam says, 'Good. I am allergic to nuts too.' They like the food. Anna says, 'The soup is good.'",
+      "question": "What does Sam have?",
+      "correct": "An allergy to nuts",
+      "other": "A cold",
+      "reading": "On Wednesday, Sam asks about the menu in Rome. Sam says, 'I have an allergy to nuts.' Anna asks, 'Is it spicy?' Sam says, 'No. Can I have extra sauce?' Anna says, 'Yes. No onions, please.' Sam says, 'Good. I am allergic to nuts too.' Anna says, 'What is in this dish?' Sam says, 'The soup has no nuts. It is good.' Anna is happy. She says, 'No onions, please. Can I have extra sauce too?' Sam says, 'Yes. I have an allergy to nuts. I am allergic to nuts. The food is good.' Anna says, 'Good. Is it spicy? No, it is not spicy.' Sam and Anna like the restaurant. The waiter is kind.",
+      "readingQ": "What is Sam allergic to?",
+      "readingA": "Nuts.",
+      "speaking": "Tell a friend about food you ask about. What do you ask?",
+      "speakingSample": "I ask about the menu in Rome. I say, 'I have an allergy to nuts.' My friend asks, 'Is it spicy?' I say, 'No. Can I have extra sauce?' My friend says, 'Yes. No onions, please.' I say, 'Good. I am allergic to nuts too.' I like the food. The soup is good.",
+      "writing": "Write a short email to a friend about food you ask about. Say what you ask.",
+      "writingSample": "Dear Tom, I want to tell you about food I ask about in Rome. I say, 'I have an allergy to nuts.' My friend asks, 'Is it spicy?' I say, 'No. Can I have extra sauce?' My friend says, 'Yes. No onions, please.' I say, 'Good. I am allergic to nuts too.' I like the food. The soup is good. See you soon. I like this restaurant. Best, Sam",
+      "sound": "Allergy has its strongest beat on LER. In allergy, say LER clearly in the middle. In allergic, say LER clearly in the middle.",
+      "model": "I have an allergy to nuts.",
+      "wordTask": "What is Sam allergic to?",
+      "wordSample": "Nuts."
+    },
+    {
+      "unit": 13,
+      "day": 100,
+      "title": "Talk about food you like",
+      "goal": "I can talk about food I like.",
+      "newItems": [
+        {
+          "word": "crispy",
+          "ipa": "/ˈkrɪspi/",
+          "pos": "adjective",
+          "definition": "Hard and easy to break; it makes a sound when you eat it.",
+          "example": "The chicken is crispy and hot.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "tender",
+          "ipa": "/ˈtɛndɚ/",
+          "pos": "adjective",
+          "definition": "Soft and easy to cut and eat.",
+          "example": "The meat is tender and soft.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "savory",
+          "ipa": "/ˈseɪvəri/",
+          "pos": "adjective",
+          "definition": "Tasting of salt and spice, not sweet.",
+          "example": "I like savory food.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "bland",
+          "ipa": "/blænd/",
+          "pos": "adjective",
+          "definition": "Without much taste.",
+          "example": "The rice is bland.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "home-made",
+          "ipa": "/ˈhoʊm ˈmeɪd/",
+          "pos": "fixed phrase",
+          "definition": "Made at home, not in a factory.",
+          "example": "The cake is home-made.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "meat",
+        "fish",
+        "chicken",
+        "cake",
+        "pizza"
+      ],
+      "mainWord": {
+        "word": "crispy",
+        "ipa": "/ˈkrɪspi/",
+        "pos": "adjective",
+        "definition": "Hard and easy to break; it makes a sound when you eat it.",
+        "example": "The chicken is crispy and hot.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Crispy is an adjective. Crispy food is hard and easy to break; it makes a sound when you eat it. The chicken is crispy and hot.",
+      "pronunciationTarget": {
+        "word": "crispy",
+        "ipa": "/ˈkrɪspi/"
+      },
+      "expression": "The cake is home-made.",
+      "use": "Use this when food is made at home, not in a factory.",
+      "expressionTask": "Sam and Anna talk about food. What do they like?",
+      "grammar": "too + adjective: This soup is too hot",
+      "pattern": "This soup is too hot.",
+      "task": "This soup is ___ hot.",
+      "answer": "too",
+      "example": "This soup is too hot.",
+      "context": [
+        "Sam and Anna talk about food in Rome.",
+        "The cake is home-made. The chicken is crispy."
+      ],
+      "dialogue": [
+        "Sam, do you like the chicken?",
+        "Yes. The chicken is crispy and hot.",
+        "Is the meat tender?",
+        "Yes. It is tender and soft.",
+        "The cake is home-made.",
+        "Good. The food is not bland."
+      ],
+      "listening": "On Thursday, Sam and Anna talk about food in Rome. Sam says, 'The chicken is crispy and hot.' Anna says, 'Is the meat tender?' Sam says, 'Yes. It is tender and soft.' Anna says, 'The cake is home-made.' Sam says, 'Good. The food is not bland.' Anna says, 'I like savory food.'",
+      "question": "What is the chicken like?",
+      "correct": "Crispy and hot",
+      "other": "Cold and soft",
+      "reading": "On Thursday, Sam and Anna talk about food in Rome. Sam says, 'The chicken is crispy and hot.' Anna asks, 'Is the meat tender?' Sam says, 'Yes. It is tender and soft.' Anna says, 'The cake is home-made.' Sam says, 'Good. The food is not bland.' Anna says, 'I like savory food. The chicken is crispy.' Sam says, 'The meat is tender. I like this food.' Anna is happy. She says, 'The cake is home-made. It is good.' Sam says, 'Yes. The food is not bland. I like savory food.' Anna says, 'Good. The chicken is crispy and hot.' Sam and Anna like the restaurant. The food is good, and the people are kind. They eat out in Rome.",
+      "readingQ": "What is the meat like?",
+      "readingA": "Tender and soft.",
+      "speaking": "Tell a friend about food you like. What is it like?",
+      "speakingSample": "I talk about food in Rome. I say, 'The chicken is crispy and hot.' My friend asks, 'Is the meat tender?' I say, 'Yes. It is tender and soft.' My friend says, 'The cake is home-made.' I say, 'Good. The food is not bland.' I like savory food. The chicken is crispy.",
+      "writing": "Write a short email to a friend about food you like. Say what it is like.",
+      "writingSample": "Dear Tom, I want to tell you about food I like in Rome. I say, 'The chicken is crispy and hot.' My friend asks, 'Is the meat tender?' I say, 'Yes. It is tender and soft.' My friend says, 'The cake is home-made.' I say, 'Good. The food is not bland.' I like savory food. The chicken is crispy. See you soon. I like this restaurant. Best, Sam",
+      "sound": "Crispy has its strongest beat on CRIS. In crispy, say CRIS clearly at the start. In tender, say TEN clearly at the start.",
+      "model": "The chicken is crispy and hot.",
+      "wordTask": "What is the chicken like?",
+      "wordSample": "Crispy and hot."
+    },
+    {
+      "unit": 13,
+      "day": 101,
+      "title": "Pay the bill",
+      "goal": "I can pay the bill.",
+      "newItems": [
+        {
+          "word": "portion",
+          "ipa": "/ˈpɔrʃən/",
+          "pos": "noun",
+          "definition": "The amount of food for one person.",
+          "example": "The portion is big.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "serving",
+          "ipa": "/ˈsɝvɪŋ/",
+          "pos": "noun",
+          "definition": "One amount of food for one person.",
+          "example": "A serving of rice is enough.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "split the bill",
+          "ipa": "/splɪt ðə bɪl/",
+          "pos": "fixed phrase",
+          "definition": "Share the cost of the meal.",
+          "example": "We split the bill.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "on the house",
+          "ipa": "/ɑn ðə haʊs/",
+          "pos": "fixed phrase",
+          "definition": "Free, paid for by the restaurant.",
+          "example": "The dessert is on the house.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "my treat",
+          "ipa": "/maɪ trit/",
+          "pos": "fixed phrase",
+          "definition": "I will pay; it is my gift.",
+          "example": "Lunch is my treat.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "hotel",
+        "room",
+        "city",
+        "morning",
+        "mother"
+      ],
+      "mainWord": {
+        "word": "portion",
+        "ipa": "/ˈpɔrʃən/",
+        "pos": "noun",
+        "definition": "The amount of food for one person.",
+        "example": "The portion is big.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Portion is a noun. A portion is the amount of food for one person. The portion is big.",
+      "pronunciationTarget": {
+        "word": "portion",
+        "ipa": "/ˈpɔrʃən/"
+      },
+      "expression": "We split the bill.",
+      "use": "Use this when you share the cost of the meal.",
+      "expressionTask": "Sam and Anna pay the bill. How do they pay?",
+      "grammar": "How much: How much is the bill",
+      "pattern": "How much is the bill?",
+      "task": "How ___ is the bill?",
+      "answer": "much",
+      "example": "How much is the bill?",
+      "context": [
+        "Sam and Anna pay the bill in Rome.",
+        "We split the bill. Dinner is my treat."
+      ],
+      "dialogue": [
+        "Sam, how much is the bill?",
+        "The bill is 40 euros.",
+        "Dinner is my treat.",
+        "No. We split the bill.",
+        "Is the portion big?",
+        "Yes. A serving is big too."
+      ],
+      "listening": "On Friday, Sam and Anna pay the bill in Rome. Sam says, 'How much is the bill?' Anna says, 'The bill is 40 euros.' Sam says, 'Dinner is my treat.' Anna says, 'No. We split the bill.' Sam says, 'Is the portion big?' Anna says, 'Yes. A serving is big too.'",
+      "question": "How much is the bill?",
+      "correct": "40 euros",
+      "other": "20 euros",
+      "reading": "On Friday, Sam and Anna pay the bill in Rome. Sam asks, 'How much is the bill?' Anna says, 'The bill is 40 euros.' Sam says, 'Dinner is my treat.' Anna says, 'No. We split the bill.' Sam says, 'Is the portion big?' Anna says, 'Yes. A serving is big too. The dessert is on the house.' Sam says, 'Good. We split the bill.' Anna is happy. She says, 'The portion is big. A serving is big too.' Sam says, 'Yes. The dessert is on the house. I like this restaurant.' Sam and Anna like the restaurant. The food is good, and the people are kind. They eat out in Rome.",
+      "readingQ": "How much is the bill?",
+      "readingA": "40 euros.",
+      "speaking": "Tell a friend about paying the bill. How much is it?",
+      "speakingSample": "I pay the bill in Rome. I ask, 'How much is the bill?' My friend says, 'The bill is 40 euros.' I say, 'Dinner is my treat.' My friend says, 'No. We split the bill.' I say, 'Is the portion big?' My friend says, 'Yes. A serving is big too.'",
+      "writing": "Write a short email to a friend about paying the bill. Say how much it is.",
+      "writingSample": "Dear Lisa, I want to tell you about paying the bill in Rome. I ask, 'How much is the bill?' My friend says, 'The bill is 40 euros.' I say, 'Dinner is my treat.' My friend says, 'No. We split the bill.' I say, 'Is the portion big?' My friend says, 'Yes. A serving is big too.' I like this restaurant. See you soon. The food is good. Best, Anna",
+      "sound": "Portion has its strongest beat on POR. In portion, say POR clearly at the start. In serving, say SERV clearly at the start.",
+      "model": "The portion is big.",
+      "wordTask": "How much is the bill?",
+      "wordSample": "40 euros."
+    },
+    {
+      "unit": 13,
+      "day": 102,
+      "title": "Eat at a café",
+      "goal": "I can eat at a café.",
+      "newItems": [
+        {
+          "word": "brunch",
+          "ipa": "/brʌntʃ/",
+          "pos": "noun",
+          "definition": "A late morning meal, between breakfast and lunch.",
+          "example": "We have brunch on Sunday.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "dumpling",
+          "ipa": "/ˈdʌmplɪŋ/",
+          "pos": "noun",
+          "definition": "A small piece of dough with meat or vegetables in it.",
+          "example": "We eat dumplings for lunch.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "freshly baked",
+          "ipa": "/ˈfrɛʃli beɪkt/",
+          "pos": "fixed phrase",
+          "definition": "Just cooked in the oven.",
+          "example": "The bread is freshly baked.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "the dessert menu",
+          "ipa": "/ðə dɪˈzɝt ˈmɛnju/",
+          "pos": "fixed phrase",
+          "definition": "The list of sweet food after the meal.",
+          "example": "Can I see the dessert menu?",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "the same again",
+          "ipa": "/ðə seɪm əˈɡɛn/",
+          "pos": "fixed phrase",
+          "definition": "The same drink or food again.",
+          "example": "The same again, please.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "pasta",
+        "fruit",
+        "vegetable",
+        "apple",
+        "milk"
+      ],
+      "mainWord": {
+        "word": "brunch",
+        "ipa": "/brʌntʃ/",
+        "pos": "noun",
+        "definition": "A late morning meal, between breakfast and lunch.",
+        "example": "We have brunch on Sunday.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Brunch is a noun. Brunch is a late morning meal, between breakfast and lunch. We have brunch on Sunday.",
+      "pronunciationTarget": {
+        "word": "brunch",
+        "ipa": "/brʌntʃ/"
+      },
+      "expression": "The bread is freshly baked.",
+      "use": "Use this when bread is just cooked in the oven.",
+      "expressionTask": "Sam and Anna eat at a café. What do they eat?",
+      "grammar": "present continuous for now: We are having brunch at a café",
+      "pattern": "We are having brunch at a café.",
+      "task": "We are ___ brunch at a café.",
+      "answer": "having",
+      "example": "We are having brunch at a café.",
+      "context": [
+        "Sam and Anna eat at a café in Rome.",
+        "The bread is freshly baked. The same again, please."
+      ],
+      "dialogue": [
+        "Sam, do we have brunch today?",
+        "Yes. We are having brunch at a café.",
+        "Is the bread freshly baked?",
+        "Yes. Can I see the dessert menu?",
+        "The same again, please.",
+        "Good. I like dumplings too."
+      ],
+      "listening": "On Saturday, Sam and Anna eat at a café in Rome. Sam says, 'We are having brunch at a café.' Anna says, 'Is the bread freshly baked?' Sam says, 'Yes. Can I see the dessert menu?' Anna says, 'The same again, please.' Sam says, 'Good. I like dumplings too.'",
+      "question": "What do Sam and Anna have at the café?",
+      "correct": "Brunch",
+      "other": "Dinner",
+      "reading": "On Saturday, Sam and Anna eat at a café in Rome. Sam says, 'We are having brunch at a café.' Anna asks, 'Is the bread freshly baked?' Sam says, 'Yes. Can I see the dessert menu?' Anna says, 'The same again, please.' Sam says, 'Good. I like this dumpling.' Anna says, 'We have brunch on Sunday. The bread is freshly baked.' Sam says, 'Can I see the dessert menu? I like this dumpling.' Anna is happy. She says, 'The same again, please. We are having brunch at a café.' Sam says, 'Yes. I like this café.' Sam and Anna like the café. The food is good, and the people are kind. They eat out in Rome.",
+      "readingQ": "What do Sam and Anna have at the café?",
+      "readingA": "Brunch.",
+      "speaking": "Tell a friend about eating at a café. What do you have?",
+      "speakingSample": "I eat at a café in Rome. I say, 'We are having brunch at a café.' My friend asks, 'Is the bread freshly baked?' I say, 'Yes. Can I see the dessert menu?' My friend says, 'The same again, please.' I say, 'Good. I like this dumpling.' The café is nice.",
+      "writing": "Write a short email to a friend about eating at a café. Say what you have.",
+      "writingSample": "Dear Tom, I want to tell you about eating at a café in Rome. I say, 'We are having brunch at a café.' My friend asks, 'Is the bread freshly baked?' I say, 'Yes. Can I see the dessert menu?' My friend says, 'The same again, please.' I say, 'Good. I like this dumpling.' The café is nice. See you soon. I like this café. Best, Sam",
+      "sound": "Brunch has one strong beat: BRUNCH. In brunch, say BRUNCH clearly. In dumpling, say DUMP clearly at the start.",
+      "model": "We have brunch on Sunday.",
+      "wordTask": "What do Sam and Anna have at the café?",
+      "wordSample": "Brunch."
+    },
+    {
+      "unit": 13,
+      "day": 103,
+      "title": "Try food from other countries",
+      "goal": "I can try food from other countries.",
+      "newItems": [
+        {
+          "word": "chopsticks",
+          "ipa": "/ˈtʃɑpˌstɪks/",
+          "pos": "noun",
+          "definition": "Two thin sticks you use to eat with.",
+          "example": "I eat noodles with chopsticks.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "cutlery",
+          "ipa": "/ˈkʌtləri/",
+          "pos": "noun",
+          "definition": "Knives, forks and spoons.",
+          "example": "The cutlery is on the table.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "no ice, please",
+          "ipa": "/noʊ aɪs pliz/",
+          "pos": "fixed phrase",
+          "definition": "Please do not put ice in my drink.",
+          "example": "No ice, please.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "a table outside, please",
+          "ipa": "/ə ˈteɪbəl ˌaʊtˈsaɪd pliz/",
+          "pos": "fixed phrase",
+          "definition": "Ask for a table in the open air.",
+          "example": "A table outside, please.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "take it away",
+          "ipa": "/teɪk ɪt əˈweɪ/",
+          "pos": "fixed phrase",
+          "definition": "Take the food home to eat.",
+          "example": "I take it away.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "cheese",
+        "egg",
+        "good",
+        "nice",
+        "big"
+      ],
+      "mainWord": {
+        "word": "chopsticks",
+        "ipa": "/ˈtʃɑpˌstɪks/",
+        "pos": "noun",
+        "definition": "Two thin sticks you use to eat with.",
+        "example": "I eat noodles with chopsticks.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Chopsticks is a noun. Chopsticks are two thin sticks you use to eat with. I eat noodles with chopsticks.",
+      "pronunciationTarget": {
+        "word": "chopsticks",
+        "ipa": "/ˈtʃɑpˌstɪks/"
+      },
+      "expression": "I eat noodles with chopsticks.",
+      "use": "Use this when you eat with two thin sticks.",
+      "expressionTask": "Sam and Anna try food from Japan. What do they use?",
+      "grammar": "past simple for experiences: I tried sushi last week",
+      "pattern": "I tried sushi last week.",
+      "task": "I ___ sushi last week.",
+      "answer": "tried",
+      "example": "I tried sushi last week.",
+      "context": [
+        "Sam and Anna try food from Japan.",
+        "I eat noodles with chopsticks. Can I take it away?"
+      ],
+      "dialogue": [
+        "Sam, do you like Japanese food?",
+        "Yes. I eat noodles with chopsticks.",
+        "Can I have a table outside, please?",
+        "Yes. No ice, please.",
+        "Can I take it away?",
+        "Yes. The cutlery is on the table."
+      ],
+      "listening": "On Sunday, Sam and Anna try food from Japan. Sam says, 'I eat noodles with chopsticks.' Anna says, 'Can I have a table outside, please?' Sam says, 'Yes. No ice, please.' Anna says, 'Can I take it away?' Sam says, 'Yes. The cutlery is on the table.'",
+      "question": "What does Sam eat with?",
+      "correct": "Chopsticks",
+      "other": "A spoon",
+      "reading": "On Sunday, Sam and Anna try food from Japan. Sam says, 'I eat noodles with chopsticks.' Anna asks, 'Can I have a table outside, please?' Sam says, 'Yes. No ice, please.' Anna says, 'Can I take it away?' Sam says, 'Yes. The cutlery is on the table.' Anna says, 'I tried sushi last week. I eat noodles with chopsticks.' Sam says, 'Good. Can I have a table outside, please?' Anna says, 'Yes. No ice, please. Can I take it away?' Sam is happy. He says, 'Yes. The cutlery is on the table. I like Japanese food.' Sam and Anna like the restaurant. The food is good, and the people are kind. They eat out in Rome.",
+      "readingQ": "What does Sam eat with?",
+      "readingA": "Chopsticks.",
+      "speaking": "Tell a friend about food from another country. What do you eat with?",
+      "speakingSample": "I try food from Japan. I say, 'I eat noodles with chopsticks.' My friend asks, 'Can I have a table outside, please?' I say, 'Yes. No ice, please.' My friend asks, 'Can I take it away?' I say, 'Yes. The cutlery is on the table.' I like Japanese food. The food is good.",
+      "writing": "Write a short email to a friend about food from another country. Say what you eat with.",
+      "writingSample": "Dear Lisa, I want to tell you about food from Japan. I say, 'I eat noodles with chopsticks.' My friend asks, 'Can I have a table outside, please?' I say, 'Yes. No ice, please.' My friend asks, 'Can I take it away?' I say, 'Yes. The cutlery is on the table.' I like Japanese food. The food is good. See you soon. I like this restaurant. Best, Anna",
+      "sound": "Chopsticks has its strongest beat on CHOP. In chopsticks, say CHOP clearly at the start. In cutlery, say CUT clearly at the start.",
+      "model": "I eat noodles with chopsticks.",
+      "wordTask": "What does Sam eat with?",
+      "wordSample": "Chopsticks."
+    },
+    {
+      "unit": 13,
+      "day": 104,
+      "title": "Use restaurant English in a new situation",
+      "goal": "I can use restaurant English in a new situation.",
+      "newItems": [
+        {
+          "word": "crunchy",
+          "ipa": "/ˈkrʌntʃi/",
+          "pos": "adjective",
+          "definition": "Hard and crisp; it makes a sound when you bite it.",
+          "example": "The apple is crunchy.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "chewy",
+          "ipa": "/ˈtʃui/",
+          "pos": "adjective",
+          "definition": "You must bite it many times before you can eat it.",
+          "example": "The bread is chewy.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "filling",
+          "ipa": "/ˈfɪlɪŋ/",
+          "pos": "adjective",
+          "definition": "Food that makes you feel full.",
+          "example": "The soup is filling.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "doggy bag",
+          "ipa": "/ˈdɔɡi bæɡ/",
+          "pos": "fixed phrase",
+          "definition": "A bag for food you take home.",
+          "example": "Can I have a doggy bag?",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "medium rare",
+          "ipa": "/ˈmidiəm rɛr/",
+          "pos": "fixed phrase",
+          "definition": "Cooked a little, still pink inside.",
+          "example": "I like my steak medium rare.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "small",
+        "hot",
+        "cold",
+        "new",
+        "happy"
+      ],
+      "mainWord": {
+        "word": "crunchy",
+        "ipa": "/ˈkrʌntʃi/",
+        "pos": "adjective",
+        "definition": "Hard and crisp; it makes a sound when you bite it.",
+        "example": "The apple is crunchy.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Crunchy is an adjective. Crunchy food is hard and crisp; it makes a sound when you bite it. The apple is crunchy.",
+      "pronunciationTarget": {
+        "word": "crunchy",
+        "ipa": "/ˈkrʌntʃi/"
+      },
+      "expression": "The steak is medium rare.",
+      "use": "Use this when meat is cooked a little, still pink inside.",
+      "expressionTask": "Emma eats at a restaurant by the sea. What is the steak like?",
+      "grammar": "Review: I can use restaurant English in a new situation",
+      "pattern": "I can use restaurant English in a new situation.",
+      "task": "I can ___ restaurant English in a new situation.",
+      "answer": "use",
+      "example": "I can use restaurant English in a new situation.",
+      "context": [
+        "Emma eats at a restaurant by the sea.",
+        "The steak is medium rare. Can I have a doggy bag?"
+      ],
+      "dialogue": [
+        "Emma, is the food good?",
+        "Yes. The steak is medium rare.",
+        "Is the apple crunchy?",
+        "Yes. The bread is chewy.",
+        "The soup is filling.",
+        "Good. Can I have a doggy bag?"
+      ],
+      "listening": "On Monday, Emma eats at a restaurant by the sea. Emma says, 'The steak is medium rare.' Her mother says, 'Is the apple crunchy?' Emma says, 'Yes. The bread is chewy.' Her mother says, 'The soup is filling.' Emma says, 'Good. Can I have a doggy bag?'",
+      "question": "What is the steak like?",
+      "correct": "Medium rare",
+      "other": "Well done",
+      "reading": "On Monday, Emma eats at a restaurant by the sea with her mother. Emma says, 'The steak is medium rare.' Her mother asks, 'Is the apple crunchy?' Emma says, 'Yes. The bread is chewy.' Her mother says, 'The soup is filling.' Emma says, 'Good. Can I have a doggy bag?' Her mother says, 'Yes. The steak is medium rare. I like this restaurant.' Emma is happy. She says, 'The apple is crunchy. The bread is chewy. The soup is filling.' Her mother says, 'Good. Can I have a doggy bag? I can use restaurant English in a new situation.' Emma and her mother like the restaurant. The food is good, and the people are kind.",
+      "readingQ": "What is the steak like?",
+      "readingA": "Medium rare.",
+      "speaking": "Tell a friend about a restaurant meal in a new situation. What is the steak like?",
+      "speakingSample": "I eat at a restaurant by the sea with my mother. I say, 'The steak is medium rare.' My mother asks, 'Is the apple crunchy?' I say, 'Yes. The bread is chewy.' My mother says, 'The soup is filling.' I say, 'Good. Can I have a doggy bag?' I can use restaurant English in a new situation.",
+      "writing": "Write a short email to a friend about a restaurant meal. Say what the steak is like.",
+      "writingSample": "Dear Anna, I want to tell you about a restaurant meal by the sea. I say, 'The steak is medium rare.' My mother asks, 'Is the apple crunchy?' I say, 'Yes. The bread is chewy.' My mother says, 'The soup is filling.' I say, 'Good. Can I have a doggy bag?' I can use restaurant English in a new situation. See you soon. I like this restaurant. Best, Emma",
+      "sound": "Crunchy has its strongest beat on CRUNCH. In crunchy, say CRUNCH clearly at the start. In chewy, say CHEW clearly at the start.",
+      "model": "The apple is crunchy.",
+      "wordTask": "What is the steak like?",
+      "wordSample": "Medium rare.",
+      "transferCheck": {
+        "source": "On Tuesday, Emma visits her teacher, Ms. Green. Emma says, 'I can use restaurant English in a new situation. I eat at a restaurant by the sea with my mother.' Ms. Green says, 'Good. What is the steak like?' Emma says, 'The steak is medium rare. The apple is crunchy.' Ms. Green says, 'Very good. Is the bread chewy?' Emma says, 'Yes. The bread is chewy. The soup is filling.' Ms. Green says, 'Good. You use restaurant English well.'",
+        "dictation": "The steak is medium rare and very good.",
+        "answer": "1. Emma visits her teacher, Ms. Green. She talks about a restaurant meal by the sea with her mother. 2. Emma's first job is to say she can use restaurant English in a new situation. 3. On Tuesday, Emma says, 'I can use restaurant English in a new situation.' 4. The steak is medium rare and very good. 5. Sample: On Tuesday, Emma visits her teacher, Ms. Green. Emma says, 'I can use restaurant English in a new situation. I eat at a restaurant by the sea with my mother.' Ms. Green says, 'Good. What is the steak like?' Emma says, 'The steak is medium rare. The apple is crunchy.' Ms. Green says, 'Very good. Is the bread chewy?' Emma says, 'Yes. The bread is chewy. The soup is filling.' Ms. Green says, 'Good. You use restaurant English well.' Follow-up: What is the steak like? Medium rare.",
+        "tasks": [
+          [
+            "1 · Identify the people and the new situation",
+            "Who does Emma visit, and what does she talk about?"
+          ],
+          [
+            "2 · Work out what Emma does first",
+            "What is Emma's first job, and what does she say?"
+          ],
+          [
+            "3 · Notice the sentence on Tuesday",
+            "What does Emma say on Tuesday?"
+          ],
+          [
+            "4 · Listen and write",
+            "Write the sentence you hear."
+          ],
+          [
+            "5 · Retell and answer",
+            "Tell the story in order, including the people, the new situation, the first talk, and the result. Then answer one follow-up question."
+          ]
+        ]
+      }
+    }
+  ]
+}

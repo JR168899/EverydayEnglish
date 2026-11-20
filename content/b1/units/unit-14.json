@@ -1,0 +1,905 @@
+{
+  "number": 14,
+  "title": "Holidays and memorable trips",
+  "lessons": [
+    {
+      "unit": 14,
+      "day": 105,
+      "title": "Plan a holiday",
+      "goal": "I can plan a holiday.",
+      "newItems": [
+        {
+          "category": "new_word",
+          "definition": "In another country across the sea.",
+          "example": "We go overseas for our holiday.",
+          "ipa": "/ˌoʊvərˈsiz/",
+          "pos": "adverb",
+          "status": "new",
+          "word": "overseas"
+        },
+        {
+          "category": "new_word",
+          "definition": "So good you never forget it.",
+          "example": "It is an unforgettable trip.",
+          "ipa": "/ˌʌnfərˈɡɛtəbəl/",
+          "pos": "adjective",
+          "status": "new",
+          "word": "unforgettable"
+        },
+        {
+          "category": "fixed_phrase",
+          "definition": "The holiday you want most.",
+          "example": "A trip to the island is my dream holiday.",
+          "ipa": "/drim ˈhɑləˌdeɪ/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "dream holiday"
+        },
+        {
+          "category": "fixed_phrase",
+          "definition": "A holiday in the summer.",
+          "example": "We take a summer holiday by the sea.",
+          "ipa": "/ˈsʌmər ˈhɑləˌdeɪ/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "summer holiday"
+        },
+        {
+          "category": "fixed_phrase",
+          "definition": "Go away from work and problems.",
+          "example": "We get away from it all for a week.",
+          "ipa": "/ɡɛt əˈweɪ frʌm ɪt ɔl/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "get away from it all"
+        }
+      ],
+      "reviewWords": [
+        "trip",
+        "travel",
+        "summer",
+        "beach",
+        "sea"
+      ],
+      "mainWord": {
+        "category": "new_word",
+        "definition": "In another country across the sea.",
+        "example": "We go overseas for our holiday.",
+        "ipa": "/ˌoʊvərˈsiz/",
+        "pos": "adverb",
+        "status": "new",
+        "word": "overseas"
+      },
+      "mainWordForms": "Overseas is an adverb. Overseas means in another country across the sea. We go overseas for our holiday.",
+      "pronunciationTarget": {
+        "word": "overseas",
+        "ipa": "/ˌoʊvərˈsiz/"
+      },
+      "expression": "It is my dream holiday.",
+      "use": "Use this when you talk about the holiday you want most.",
+      "expressionTask": "Tom and Lily plan a holiday. What is their dream holiday?",
+      "grammar": "present perfect for experiences: Have you ever been overseas",
+      "pattern": "Have you ever been overseas?",
+      "task": "Have you ever ___ overseas?",
+      "answer": "been",
+      "example": "Have you ever been overseas?",
+      "context": [
+        "Tom and Lily plan a holiday.",
+        "It is my dream holiday. We go overseas for a summer holiday."
+      ],
+      "dialogue": [
+        "Tom, where do we go for our holiday?",
+        "We go overseas for a summer holiday.",
+        "Have you ever been overseas?",
+        "No, I have not. It is my dream holiday.",
+        "Good. We get away from it all for a week.",
+        "Yes. It is an unforgettable trip."
+      ],
+      "listening": "On Monday, Tom and Lily plan a holiday. Tom says, 'We go overseas for a summer holiday.' Lily says, 'Have you ever been overseas?' Tom says, 'No, I have not. It is my dream holiday.' Lily says, 'Good. We get away from it all for a week.' Tom says, 'Yes. It is an unforgettable trip.'",
+      "question": "Where do Tom and Lily go for their holiday?",
+      "correct": "Overseas for a summer holiday",
+      "other": "To work in the city",
+      "reading": "On Monday, Tom and Lily plan a holiday. Tom says, 'We go overseas for a summer holiday.' Lily says, 'Have you ever been overseas?' Tom says, 'No, I have not. It is my dream holiday.' Lily says, 'Good. We get away from it all for a week.' Tom says, 'Yes. It is an unforgettable trip. I want to see the sea and the sun. We can walk on the beach and swim in the sea.' Lily is happy. She says, 'Good. A summer holiday by the sea is my dream holiday too. We get away from it all and we have a good time.' Tom says, 'Yes. We go overseas and we see new places. It is an unforgettable trip for us.' Lily says, 'I can plan a holiday.'",
+      "readingQ": "What is Tom and Lily's dream holiday?",
+      "readingA": "A summer holiday overseas.",
+      "speaking": "Tell a friend about a holiday you plan. Where do you go?",
+      "speakingSample": "I plan a holiday with my friend Tom. We go overseas for a summer holiday. I say, 'Have you ever been overseas?' Tom says, 'No, I have not. It is my dream holiday.' We get away from it all for a week. It is an unforgettable trip. I want to see the sea and the sun.",
+      "writing": "Write a short email to a friend about a holiday you plan. Say where you go.",
+      "writingSample": "Dear Anna, I want to tell you about a holiday I plan with my friend Tom. We go overseas for a summer holiday. I say, 'Have you ever been overseas?' Tom says, 'No, I have not. It is my dream holiday.' We get away from it all for a week. It is an unforgettable trip. I want to see the sea and the sun. We walk on the beach. See you soon. Best, Lily",
+      "sound": "Overseas has its strongest beat on SEA. In overseas, say SEA clearly in the middle. In unforgettable, say GET clearly in the middle.",
+      "model": "We go overseas for our holiday.",
+      "wordTask": "Where do Tom and Lily go for their holiday?",
+      "wordSample": "Overseas for a summer holiday."
+    },
+    {
+      "unit": 14,
+      "day": 106,
+      "title": "A trip to the island",
+      "goal": "I can talk about a trip to an island.",
+      "newItems": [
+        {
+          "category": "new_word",
+          "definition": "Swim under the water with a tube to breathe.",
+          "example": "We snorkel in the sea.",
+          "ipa": "/ˈsnɔrkəl/",
+          "pos": "verb",
+          "status": "new",
+          "word": "snorkel"
+        },
+        {
+          "category": "new_word",
+          "definition": "A long board you stand on in the sea.",
+          "example": "He rides a surfboard.",
+          "ipa": "/ˈsɝfˌbɔrd/",
+          "pos": "noun",
+          "status": "new",
+          "word": "surfboard"
+        },
+        {
+          "category": "new_word",
+          "definition": "A line of rocks under the sea.",
+          "example": "We see fish near the reef.",
+          "ipa": "/rif/",
+          "pos": "noun",
+          "status": "new",
+          "word": "reef"
+        },
+        {
+          "category": "fixed_phrase",
+          "definition": "Use a camera to make pictures.",
+          "example": "We take photos of the castle.",
+          "ipa": "/teɪk ˈfoʊˌtoʊz/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "take photos"
+        },
+        {
+          "category": "fixed_phrase",
+          "definition": "Travel by ferry.",
+          "example": "We ride a ferry to the island.",
+          "ipa": "/raɪd ə ˈfɛri/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "ride a ferry"
+        }
+      ],
+      "reviewWords": [
+        "boat",
+        "water",
+        "sun",
+        "swim",
+        "sand"
+      ],
+      "mainWord": {
+        "category": "new_word",
+        "definition": "Swim under the water with a tube to breathe.",
+        "example": "We snorkel in the sea.",
+        "ipa": "/ˈsnɔrkəl/",
+        "pos": "verb",
+        "status": "new",
+        "word": "snorkel"
+      },
+      "mainWordForms": "Snorkel is a verb. To snorkel is to swim under the water with a tube to breathe. We snorkel in the sea.",
+      "pronunciationTarget": {
+        "word": "snorkel",
+        "ipa": "/ˈsnɔrkəl/"
+      },
+      "expression": "We take photos of the reef.",
+      "use": "Use this when you use a camera on a trip.",
+      "expressionTask": "Tom and Lily go to an island. What do they see in the sea?",
+      "grammar": "past continuous for a longer action: While we were snorkelling, we saw a reef",
+      "pattern": "While we were snorkelling, we saw a reef.",
+      "task": "While we were ___, we saw a reef.",
+      "answer": "snorkelling",
+      "example": "While we were snorkelling, we saw a reef.",
+      "context": [
+        "Tom and Lily go to an island by ferry.",
+        "We take photos of the reef. We ride a ferry to the island."
+      ],
+      "dialogue": [
+        "Lily, how do we go to the island?",
+        "We ride a ferry to the island.",
+        "What do we do in the sea?",
+        "We snorkel in the sea.",
+        "We take photos of the reef.",
+        "Good. I ride a surfboard too."
+      ],
+      "listening": "On Tuesday, Tom and Lily go to an island. Lily says, 'We ride a ferry to the island.' Tom says, 'What do we do in the sea?' Lily says, 'We snorkel in the sea.' Tom says, 'We take photos of the reef.' Lily says, 'Good. I ride a surfboard too.'",
+      "question": "How do Tom and Lily go to the island?",
+      "correct": "By ferry",
+      "other": "By train",
+      "reading": "On Tuesday, Tom and Lily go to an island. Lily says, 'We ride a ferry to the island.' Tom says, 'What do we do in the sea?' Lily says, 'We snorkel in the sea.' Tom says, 'We take photos of the reef.' Lily says, 'Good. I ride a surfboard too.' Tom is happy. He says, 'While we were snorkelling, we saw a reef. The reef is big and the fish are nice. We take photos of the reef and the fish.' Lily says, 'Yes. We ride a ferry to the island and we snorkel in the sea. I ride a surfboard in the morning.' Tom says, 'I can talk about a trip to an island.'",
+      "readingQ": "What do Tom and Lily see in the sea?",
+      "readingA": "A big reef and nice fish.",
+      "speaking": "Tell a friend about a trip to an island. What do you do in the sea?",
+      "speakingSample": "I go to an island with my friend Lily. We ride a ferry to the island. I say, 'What do we do in the sea?' Lily says, 'We snorkel in the sea.' We take photos of the reef. I ride a surfboard too. While we were snorkelling, we saw a reef.",
+      "writing": "Write a short email to a friend about a trip to an island. Say what you do in the sea.",
+      "writingSample": "Dear Tom, I want to tell you about a trip to an island with my friend Lily. We ride a ferry to the island. I say, 'What do we do in the sea?' Lily says, 'We snorkel in the sea.' We take photos of the reef. I ride a surfboard too. While we were snorkelling, we saw a reef. The fish are nice. See you soon. Best, Sam",
+      "sound": "Snorkel has its strongest beat on SNOR. In snorkel, say SNOR clearly at the start. In surfboard, say SURF clearly at the start.",
+      "model": "We snorkel in the sea.",
+      "wordTask": "How do Tom and Lily go to the island?",
+      "wordSample": "By ferry."
+    },
+    {
+      "unit": 14,
+      "day": 107,
+      "title": "A day in the mountains",
+      "goal": "I can talk about a day in the mountains.",
+      "newItems": [
+        {
+          "category": "new_word",
+          "definition": "A path through the country.",
+          "example": "We walk on a long trail.",
+          "ipa": "/treɪl/",
+          "pos": "noun",
+          "status": "new",
+          "word": "trail"
+        },
+        {
+          "category": "new_word",
+          "definition": "A small thing that shows north.",
+          "example": "I use a compass on the mountain.",
+          "ipa": "/ˈkʌmpəs/",
+          "pos": "noun",
+          "status": "new",
+          "word": "compass"
+        },
+        {
+          "category": "fixed_phrase",
+          "definition": "In a place with mountains.",
+          "example": "We walk in the mountains.",
+          "ipa": "/ɪn ðə ˈmaʊntənz/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "in the mountains"
+        },
+        {
+          "category": "fixed_phrase",
+          "definition": "Stay in a tent near a lake.",
+          "example": "We camp by the lake.",
+          "ipa": "/kæmp baɪ ðə leɪk/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "camp by the lake"
+        },
+        {
+          "category": "fixed_phrase",
+          "definition": "Pay to use a bike for a short time.",
+          "example": "We rent a bike in the town.",
+          "ipa": "/rɛnt ə baɪk/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "rent a bike"
+        }
+      ],
+      "reviewWords": [
+        "walk",
+        "mountain",
+        "lake",
+        "road",
+        "morning"
+      ],
+      "mainWord": {
+        "category": "new_word",
+        "definition": "A path through the country.",
+        "example": "We walk on a long trail.",
+        "ipa": "/treɪl/",
+        "pos": "noun",
+        "status": "new",
+        "word": "trail"
+      },
+      "mainWordForms": "Trail is a noun. A trail is a path through the country. We walk on a long trail.",
+      "pronunciationTarget": {
+        "word": "trail",
+        "ipa": "/treɪl/"
+      },
+      "expression": "We camp by the lake.",
+      "use": "Use this when you stay in a tent near a lake.",
+      "expressionTask": "Tom and Lily go to the mountains. Where do they stay?",
+      "grammar": "comparatives: The trail is longer than the road",
+      "pattern": "The trail is longer than the road.",
+      "task": "The trail is ___ than the road.",
+      "answer": "longer",
+      "example": "The trail is longer than the road.",
+      "context": [
+        "Tom and Lily go to the mountains.",
+        "We camp by the lake. We rent a bike in the town."
+      ],
+      "dialogue": [
+        "Tom, where do we walk in the mountains?",
+        "We walk on a long trail.",
+        "Do we take a compass?",
+        "Yes. I use a compass on the mountain.",
+        "We camp by the lake.",
+        "Good. We rent a bike in the town."
+      ],
+      "listening": "On Wednesday, Tom and Lily go to the mountains. Tom says, 'We walk on a long trail.' Lily says, 'Do we take a compass?' Tom says, 'Yes. I use a compass on the mountain.' Lily says, 'We camp by the lake.' Tom says, 'Good. We rent a bike in the town.'",
+      "question": "Where do Tom and Lily walk?",
+      "correct": "On a long trail",
+      "other": "On a long road",
+      "reading": "On Wednesday, Tom and Lily go to the mountains. Tom says, 'We walk on a long trail.' Lily says, 'Do we take a compass?' Tom says, 'Yes. I use a compass on the mountain. The trail is longer than the road, but it is nice.' Lily says, 'We camp by the lake.' Tom says, 'Good. We rent a bike in the town. In the mountains, we walk on a long trail and we see the lake. We camp by the lake at night.' Lily is happy. She says, 'Yes. I use a compass in the mountains. We rent a bike and we ride in the town.' Tom says, 'I can talk about a day in the mountains.'",
+      "readingQ": "Where do Tom and Lily camp?",
+      "readingA": "By the lake.",
+      "speaking": "Tell a friend about a day in the mountains. Where do you walk?",
+      "speakingSample": "I go to the mountains with my friend Tom. We walk on a long trail. I say, 'Do we take a compass?' Tom says, 'Yes. I use a compass on the mountain.' We camp by the lake. We rent a bike in the town. In the mountains, we have a good day.",
+      "writing": "Write a short email to a friend about a day in the mountains. Say where you walk.",
+      "writingSample": "Dear Anna, I want to tell you about a day in the mountains with my friend Tom. We walk on a long trail. I say, 'Do we take a compass?' Tom says, 'Yes. I use a compass on the mountain.' We camp by the lake. We rent a bike in the town. In the mountains, we walk on a long trail and we see the lake. It is a good day. See you. Best, Lily",
+      "sound": "Trail has its strongest beat on TRAIL. In trail, say TRAIL clearly. In compass, say COM clearly at the start.",
+      "model": "We walk on a long trail.",
+      "wordTask": "Where do Tom and Lily walk?",
+      "wordSample": "On a long trail."
+    },
+    {
+      "unit": 14,
+      "day": 108,
+      "title": "Sightseeing in the old town",
+      "goal": "I can talk about sightseeing in an old town.",
+      "newItems": [
+        {
+          "category": "new_word",
+          "definition": "A tall tower with a light to help ships.",
+          "example": "We see the lighthouse.",
+          "ipa": "/ˈlaɪtˌhaʊs/",
+          "pos": "noun",
+          "status": "new",
+          "word": "lighthouse"
+        },
+        {
+          "category": "new_word",
+          "definition": "A line of people walking in a festival.",
+          "example": "We watch the parade.",
+          "ipa": "/pəˈreɪd/",
+          "pos": "noun",
+          "status": "new",
+          "word": "parade"
+        },
+        {
+          "category": "new_word",
+          "definition": "Bright lights in the sky at night.",
+          "example": "We watch the fireworks.",
+          "ipa": "/ˈfaɪɚˌwɝks/",
+          "pos": "noun",
+          "status": "new",
+          "word": "fireworks"
+        },
+        {
+          "category": "fixed_phrase",
+          "definition": "Look at the sun going down.",
+          "example": "We watch the sunset from the hill.",
+          "ipa": "/wɑtʃ ðə ˈsʌnˌsɛt/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "watch the sunset"
+        },
+        {
+          "category": "fixed_phrase",
+          "definition": "Eat the food of a place.",
+          "example": "We try local food in the village.",
+          "ipa": "/traɪ ˈloʊkəl fud/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "try local food"
+        }
+      ],
+      "reviewWords": [
+        "town",
+        "night",
+        "light",
+        "sky",
+        "park"
+      ],
+      "mainWord": {
+        "category": "new_word",
+        "definition": "A tall tower with a light to help ships.",
+        "example": "We see the lighthouse.",
+        "ipa": "/ˈlaɪtˌhaʊs/",
+        "pos": "noun",
+        "status": "new",
+        "word": "lighthouse"
+      },
+      "mainWordForms": "Lighthouse is a noun. A lighthouse is a tall tower with a light to help ships. We see the lighthouse.",
+      "pronunciationTarget": {
+        "word": "lighthouse",
+        "ipa": "/ˈlaɪtˌhaʊs/"
+      },
+      "expression": "We watch the sunset from the hill.",
+      "use": "Use this when you look at the sun going down.",
+      "expressionTask": "Tom and Lily visit an old town. What do they see at night?",
+      "grammar": "superlatives: The lighthouse is the tallest building in the town",
+      "pattern": "The lighthouse is the tallest building in the town.",
+      "task": "The lighthouse is the ___ building in the town.",
+      "answer": "tallest",
+      "example": "The lighthouse is the tallest building in the town.",
+      "context": [
+        "Tom and Lily visit an old town by the sea.",
+        "We watch the sunset from the hill. We try local food in the town."
+      ],
+      "dialogue": [
+        "Lily, what do we see in the old town?",
+        "We see the lighthouse.",
+        "Is it the tallest building in the town?",
+        "Yes. We watch the sunset from the hill.",
+        "We try local food in the town.",
+        "Good. We watch the parade and the fireworks."
+      ],
+      "listening": "On Thursday, Tom and Lily visit an old town. Lily says, 'We see the lighthouse.' Tom says, 'Is it the tallest building in the town?' Lily says, 'Yes. We watch the sunset from the hill.' Tom says, 'We try local food in the town.' Lily says, 'Good. We watch the parade and the fireworks.'",
+      "question": "What do Tom and Lily see in the old town?",
+      "correct": "The lighthouse",
+      "other": "The airport",
+      "reading": "On Thursday, Tom and Lily visit an old town. Lily says, 'We see the lighthouse.' Tom says, 'Is it the tallest building in the town?' Lily says, 'Yes. The lighthouse is the tallest building in the town. We watch the sunset from the hill.' Tom says, 'We try local food in the town. The food is good.' Lily says, 'Good. We watch the parade and the fireworks. The parade is nice and the fireworks are bright.' Tom is happy. He says, 'We see the lighthouse and we watch the sunset from the hill. We try local food in the town.' Lily says, 'I can talk about sightseeing in an old town.'",
+      "readingQ": "What is the tallest building in the town?",
+      "readingA": "The lighthouse.",
+      "speaking": "Tell a friend about sightseeing in an old town. What do you see?",
+      "speakingSample": "I visit an old town with my friend Lily. We see the lighthouse. I say, 'Is it the tallest building in the town?' Lily says, 'Yes. We watch the sunset from the hill.' We try local food in the town. We watch the parade and the fireworks. It is a good day.",
+      "writing": "Write a short email to a friend about sightseeing in an old town. Say what you see.",
+      "writingSample": "Dear Tom, I want to tell you about sightseeing in an old town with my friend Lily. We see the lighthouse. I say, 'Is it the tallest building in the town?' Lily says, 'Yes. We watch the sunset from the hill.' We try local food in the town. We watch the parade and the fireworks. It is a good day. See you soon. Best, Sam",
+      "sound": "Lighthouse has its strongest beat on LIGHT. In lighthouse, say LIGHT clearly at the start. In parade, say RADE clearly at the end.",
+      "model": "We see the lighthouse.",
+      "wordTask": "What do Tom and Lily see in the old town?",
+      "wordSample": "The lighthouse."
+    },
+    {
+      "unit": 14,
+      "day": 109,
+      "title": "A memorable day",
+      "goal": "I can talk about a memorable day.",
+      "newItems": [
+        {
+          "category": "new_word",
+          "definition": "Easy to remember.",
+          "example": "It is a memorable day.",
+          "ipa": "/ˈmɛmərəbəl/",
+          "pos": "adjective",
+          "status": "new",
+          "word": "memorable"
+        },
+        {
+          "category": "new_word",
+          "definition": "Very beautiful.",
+          "example": "The sunset is stunning.",
+          "ipa": "/ˈstʌnɪŋ/",
+          "pos": "adjective",
+          "status": "new",
+          "word": "stunning"
+        },
+        {
+          "category": "fixed_phrase",
+          "definition": "The best trip of your life.",
+          "example": "It is the trip of a lifetime.",
+          "ipa": "/ðə trɪp əv ə ˈlaɪfˌtaɪm/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "the trip of a lifetime"
+        },
+        {
+          "category": "fixed_phrase",
+          "definition": "Far from the places most people visit.",
+          "example": "The village is off the beaten track.",
+          "ipa": "/ɔf ðə ˈbitən træk/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "off the beaten track"
+        },
+        {
+          "category": "fixed_phrase",
+          "definition": "Send a card from a holiday.",
+          "example": "I send a postcard to my mother.",
+          "ipa": "/sɛnd ə ˈpoʊstˌkɑrd/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "send a postcard"
+        }
+      ],
+      "reviewWords": [
+        "day",
+        "time",
+        "photo",
+        "family",
+        "home"
+      ],
+      "mainWord": {
+        "category": "new_word",
+        "definition": "Easy to remember.",
+        "example": "It is a memorable day.",
+        "ipa": "/ˈmɛmərəbəl/",
+        "pos": "adjective",
+        "status": "new",
+        "word": "memorable"
+      },
+      "mainWordForms": "Memorable is an adjective. Memorable means easy to remember. It is a memorable day.",
+      "pronunciationTarget": {
+        "word": "memorable",
+        "ipa": "/ˈmɛmərəbəl/"
+      },
+      "expression": "It is the trip of a lifetime.",
+      "use": "Use this when a trip is the best of your life.",
+      "expressionTask": "Tom and Lily talk about their trip. Why is it special?",
+      "grammar": "past simple and past continuous: While we were walking, we saw the parade",
+      "pattern": "While we were walking, we saw the parade.",
+      "task": "While we were ___, we saw the parade.",
+      "answer": "walking",
+      "example": "While we were walking, we saw the parade.",
+      "context": [
+        "Tom and Lily talk about their trip.",
+        "It is the trip of a lifetime. I send a postcard to my mother."
+      ],
+      "dialogue": [
+        "Tom, what is the best day of our trip?",
+        "It is the trip of a lifetime.",
+        "What did we do on that day?",
+        "While we were walking, we saw the parade.",
+        "It is a memorable day.",
+        "Yes. I send a postcard to my mother."
+      ],
+      "listening": "On Friday, Tom and Lily talk about their trip. Tom says, 'It is the trip of a lifetime.' Lily says, 'What did we do on that day?' Tom says, 'While we were walking, we saw the parade.' Lily says, 'It is a memorable day.' Tom says, 'Yes. I send a postcard to my mother.'",
+      "question": "What did Tom and Lily see on their best day?",
+      "correct": "The parade",
+      "other": "The train",
+      "reading": "On Friday, Tom and Lily talk about their trip. Tom says, 'It is the trip of a lifetime.' Lily says, 'What did we do on that day?' Tom says, 'While we were walking, we saw the parade. The village is off the beaten track and the view is stunning.' Lily says, 'It is a memorable day. The sunset is stunning too.' Tom says, 'Yes. I send a postcard to my mother. I tell her about our trip. It is the trip of a lifetime.' Lily is happy. She says, 'The village is off the beaten track. It is a memorable day for us.' Tom says, 'I can talk about a memorable day.'",
+      "readingQ": "Why is the day memorable?",
+      "readingA": "They saw the parade in a village off the beaten track.",
+      "speaking": "Tell a friend about a memorable day on a trip. What did you see?",
+      "speakingSample": "I talk about a memorable day with my friend Tom. I say, 'It is the trip of a lifetime.' Tom says, 'While we were walking, we saw the parade.' The village is off the beaten track and the view is stunning. I send a postcard to my mother. It is a memorable day.",
+      "writing": "Write a short email to a friend about a memorable day on a trip. Say what you saw.",
+      "writingSample": "Dear Anna, I want to tell you about a memorable day on a trip with my friend Tom. I say, 'It is the trip of a lifetime.' Tom says, 'While we were walking, we saw the parade.' The village is off the beaten track and the view is stunning. I send a postcard to my mother. It is a memorable day for us. See you soon. Best, Lily",
+      "sound": "Memorable has its strongest beat on MEM. In memorable, say MEM clearly at the start. In stunning, say STUN clearly at the start.",
+      "model": "It is a memorable day.",
+      "wordTask": "What did Tom and Lily see on their best day?",
+      "wordSample": "The parade."
+    },
+    {
+      "unit": 14,
+      "day": 110,
+      "title": "Holidays with family",
+      "goal": "I can talk about holidays with family.",
+      "newItems": [
+        {
+          "category": "new_word",
+          "definition": "A small house in the country.",
+          "example": "We stay in a cottage by the sea.",
+          "ipa": "/ˈkɑtədʒ/",
+          "pos": "noun",
+          "status": "new",
+          "word": "cottage"
+        },
+        {
+          "category": "new_word",
+          "definition": "A bed of cloth hung between trees.",
+          "example": "I sleep in a hammock.",
+          "ipa": "/ˈhæmək/",
+          "pos": "noun",
+          "status": "new",
+          "word": "hammock"
+        },
+        {
+          "category": "new_word",
+          "definition": "Making you feel calm.",
+          "example": "It is a relaxing holiday.",
+          "ipa": "/rɪˈlæksɪŋ/",
+          "pos": "adjective",
+          "status": "new",
+          "word": "relaxing"
+        },
+        {
+          "category": "fixed_phrase",
+          "definition": "Live at a friend's house for a short time.",
+          "example": "We stay with friends in the country.",
+          "ipa": "/steɪ wɪð frɛndz/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "stay with friends"
+        },
+        {
+          "category": "fixed_phrase",
+          "definition": "Ask a campsite to keep a place for you.",
+          "example": "We book a campsite for Friday.",
+          "ipa": "/bʊk ə ˈkæmpˌsaɪt/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "book a campsite"
+        }
+      ],
+      "reviewWords": [
+        "house",
+        "grass",
+        "tree",
+        "dog",
+        "cat"
+      ],
+      "mainWord": {
+        "category": "new_word",
+        "definition": "A small house in the country.",
+        "example": "We stay in a cottage by the sea.",
+        "ipa": "/ˈkɑtədʒ/",
+        "pos": "noun",
+        "status": "new",
+        "word": "cottage"
+      },
+      "mainWordForms": "Cottage is a noun. A cottage is a small house in the country. We stay in a cottage by the sea.",
+      "pronunciationTarget": {
+        "word": "cottage",
+        "ipa": "/ˈkɑtədʒ/"
+      },
+      "expression": "We stay with friends in the country.",
+      "use": "Use this when you live at a friend's house for a short time.",
+      "expressionTask": "Tom and Lily stay with friends. Where do they sleep?",
+      "grammar": "second conditional: If we had more time, we would stay longer",
+      "pattern": "If we had more time, we would stay longer.",
+      "task": "If we had more time, we ___ stay longer.",
+      "answer": "would",
+      "example": "If we had more time, we would stay longer.",
+      "context": [
+        "Tom and Lily stay with friends in the country.",
+        "We stay with friends in the country. We stay in a cottage by the sea."
+      ],
+      "dialogue": [
+        "Lily, where do we stay with our friends?",
+        "We stay in a cottage by the sea.",
+        "Is it a relaxing holiday?",
+        "Yes. I sleep in a hammock.",
+        "We book a campsite for Friday.",
+        "Good. If we had more time, we would stay longer."
+      ],
+      "listening": "On Saturday, Tom and Lily stay with friends. Lily says, 'We stay in a cottage by the sea.' Tom says, 'Is it a relaxing holiday?' Lily says, 'Yes. I sleep in a hammock.' Tom says, 'We book a campsite for Friday.' Lily says, 'Good. If we had more time, we would stay longer.'",
+      "question": "Where do Tom and Lily stay?",
+      "correct": "In a cottage by the sea",
+      "other": "In a hotel in the city",
+      "reading": "On Saturday, Tom and Lily stay with friends in the country. Lily says, 'We stay in a cottage by the sea.' Tom says, 'Is it a relaxing holiday?' Lily says, 'Yes. I sleep in a hammock. The cottage is small and the grass is green. It is a relaxing holiday. The dog and the cat play in the grass. The friends are kind and the food is good.' Tom says, 'We book a campsite for Friday. If we had more time, we would stay longer.' Lily says, 'Good. We stay with friends in the country and we have a good time. I sleep in a hammock at night.' Tom says, 'I can talk about holidays with family.'",
+      "readingQ": "Where do Tom and Lily sleep?",
+      "readingA": "In a hammock in a cottage by the sea.",
+      "speaking": "Tell a friend about a holiday with family. Where do you stay?",
+      "speakingSample": "I stay with friends in the country with my friend Tom. We stay in a cottage by the sea. I say, 'Is it a relaxing holiday?' Tom says, 'Yes. I sleep in a hammock.' We book a campsite for Friday. If we had more time, we would stay longer. Good.",
+      "writing": "Write a short email to a friend about a holiday with family. Say where you stay.",
+      "writingSample": "Dear Anna, I want to tell you about a holiday with family and my friend Tom. We stay with friends in the country. We stay in a cottage by the sea. I say, 'Is it a relaxing holiday?' Tom says, 'Yes. I sleep in a hammock.' We book a campsite for Friday. If we had more time, we would stay longer. See you soon. Best, Lily",
+      "sound": "Cottage has its strongest beat on COT. In cottage, say COT clearly at the start. In hammock, say HAM clearly at the start.",
+      "model": "We stay in a cottage by the sea.",
+      "wordTask": "Where do Tom and Lily stay?",
+      "wordSample": "In a cottage by the sea."
+    },
+    {
+      "unit": 14,
+      "day": 111,
+      "title": "Problems on holiday",
+      "goal": "I can talk about problems on holiday.",
+      "newItems": [
+        {
+          "category": "new_word",
+          "definition": "Red skin from too much sun.",
+          "example": "I get a sunburn at the beach.",
+          "ipa": "/ˈsʌnˌbɝn/",
+          "pos": "noun",
+          "status": "new",
+          "word": "sunburn"
+        },
+        {
+          "category": "new_word",
+          "definition": "Sad because you are away from home.",
+          "example": "I feel homesick on the first night.",
+          "ipa": "/ˈhoʊmˌsɪk/",
+          "pos": "adjective",
+          "status": "new",
+          "word": "homesick"
+        },
+        {
+          "category": "fixed_phrase",
+          "definition": "A long way from home.",
+          "example": "We travel far away from home.",
+          "ipa": "/fɑr əˈweɪ frʌm hoʊm/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "far away from home"
+        },
+        {
+          "category": "fixed_phrase",
+          "definition": "Very far from any town.",
+          "example": "The campsite is in the middle of nowhere.",
+          "ipa": "/ɪn ðə ˈmɪdəl əv ˈnoʊˌwɛr/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "in the middle of nowhere"
+        },
+        {
+          "category": "fixed_phrase",
+          "definition": "Put your things in a bag for a trip.",
+          "example": "I pack a suitcase for the holiday.",
+          "ipa": "/pæk ə ˈsutˌkeɪs/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "pack a suitcase"
+        }
+      ],
+      "reviewWords": [
+        "rain",
+        "wind",
+        "cloud",
+        "storm",
+        "wet"
+      ],
+      "mainWord": {
+        "category": "new_word",
+        "definition": "Red skin from too much sun.",
+        "example": "I get a sunburn at the beach.",
+        "ipa": "/ˈsʌnˌbɝn/",
+        "pos": "noun",
+        "status": "new",
+        "word": "sunburn"
+      },
+      "mainWordForms": "Sunburn is a noun. A sunburn is red skin from too much sun. I get a sunburn at the beach.",
+      "pronunciationTarget": {
+        "word": "sunburn",
+        "ipa": "/ˈsʌnˌbɝn/"
+      },
+      "expression": "We are far away from home.",
+      "use": "Use this when you are a long way from home.",
+      "expressionTask": "Tom and Lily have problems on holiday. What is the problem?",
+      "grammar": "first conditional: If it rains, we will stay in the cottage",
+      "pattern": "If it rains, we will stay in the cottage.",
+      "task": "If it rains, we ___ stay in the cottage.",
+      "answer": "will",
+      "example": "If it rains, we will stay in the cottage.",
+      "context": [
+        "Tom and Lily have problems on holiday.",
+        "We are far away from home. I pack a suitcase for the trip home."
+      ],
+      "dialogue": [
+        "Lily, what is the problem on holiday?",
+        "I get a sunburn at the beach.",
+        "And I feel homesick on the first night.",
+        "We are far away from home.",
+        "If it rains, we will stay in the cottage.",
+        "Good. I pack a suitcase for the trip home."
+      ],
+      "listening": "On Sunday, Tom and Lily have problems on holiday. Lily says, 'I get a sunburn at the beach.' Tom says, 'And I feel homesick.' Lily says, 'We are far away from home.' Tom says, 'If it rains, we will stay in the cottage.' Lily says, 'Good. I pack a suitcase for the trip home.'",
+      "question": "What is Lily's problem?",
+      "correct": "A sunburn",
+      "other": "A cold",
+      "reading": "On Sunday, Tom and Lily have problems on holiday. Lily says, 'I get a sunburn at the beach.' Tom says, 'And I feel homesick on the first night. We are far away from home. The campsite is in the middle of nowhere.' Lily says, 'If it rains, we will stay in the cottage.' Tom says, 'Good. I pack a suitcase for the trip home. I get a sunburn and I feel homesick. We are far away from home and the rain is cold.' Lily is sad. She says, 'The campsite is in the middle of nowhere. I pack a suitcase and we go home.' Tom says, 'I can talk about problems on holiday.'",
+      "readingQ": "Where is the campsite?",
+      "readingA": "In the middle of nowhere.",
+      "speaking": "Tell a friend about a problem on holiday. What is the problem?",
+      "speakingSample": "I have a problem on holiday with my friend Lily. I say, 'I get a sunburn at the beach.' Lily says, 'And I feel homesick on the first night.' We are far away from home. If it rains, we will stay in the cottage. I pack a suitcase for the trip home.",
+      "writing": "Write a short email to a friend about a problem on holiday. Say what the problem is.",
+      "writingSample": "Dear Tom, I want to tell you about a problem on holiday with my friend Lily. I say, 'I get a sunburn at the beach.' Lily says, 'And I feel homesick on the first night.' We are far away from home. The campsite is in the middle of nowhere. If it rains, we will stay in the cottage. I pack a suitcase for the trip home. See you soon. Best, Sam",
+      "sound": "Sunburn has its strongest beat on SUN. In sunburn, say SUN clearly at the start. In homesick, say HOME clearly at the start.",
+      "model": "I get a sunburn at the beach.",
+      "wordTask": "What is Lily's problem?",
+      "wordSample": "A sunburn."
+    },
+    {
+      "unit": 14,
+      "day": 112,
+      "title": "Use holiday English in a new situation",
+      "goal": "I can use holiday English in a new situation.",
+      "newItems": [
+        {
+          "category": "new_word",
+          "definition": "The sea going up and down.",
+          "example": "The tide comes in at night.",
+          "ipa": "/taɪd/",
+          "pos": "noun",
+          "status": "new",
+          "word": "tide"
+        },
+        {
+          "category": "new_word",
+          "definition": "Get away from a place.",
+          "example": "We escape from the city.",
+          "ipa": "/ɪˈskeɪp/",
+          "pos": "verb",
+          "status": "new",
+          "word": "escape"
+        },
+        {
+          "category": "new_word",
+          "definition": "Two small tubes you look through to see far away.",
+          "example": "I use binoculars to see the birds.",
+          "ipa": "/bəˈnɑkjələr/",
+          "pos": "noun",
+          "status": "new",
+          "word": "binoculars"
+        },
+        {
+          "category": "fixed_phrase",
+          "definition": "Outside at night under the sky.",
+          "example": "We sleep under the stars.",
+          "ipa": "/ˈʌndər ðə stɑrz/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "under the stars"
+        },
+        {
+          "category": "fixed_phrase",
+          "definition": "At home again after a trip.",
+          "example": "We are back home on Monday.",
+          "ipa": "/bæk hoʊm/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "back home"
+        }
+      ],
+      "reviewWords": [
+        "week",
+        "year",
+        "school",
+        "work",
+        "love"
+      ],
+      "mainWord": {
+        "category": "new_word",
+        "definition": "The sea going up and down.",
+        "example": "The tide comes in at night.",
+        "ipa": "/taɪd/",
+        "pos": "noun",
+        "status": "new",
+        "word": "tide"
+      },
+      "mainWordForms": "Tide is a noun. A tide is the sea going up and down. The tide comes in at night.",
+      "pronunciationTarget": {
+        "word": "tide",
+        "ipa": "/taɪd/"
+      },
+      "expression": "We sleep under the stars.",
+      "use": "Use this when you sleep outside at night under the sky.",
+      "expressionTask": "Emma goes on holiday by a lake. What does she do at night?",
+      "grammar": "Review: I can use holiday English in a new situation",
+      "pattern": "I can use holiday English in a new situation.",
+      "task": "I can ___ holiday English in a new situation.",
+      "answer": "use",
+      "example": "I can use holiday English in a new situation.",
+      "context": [
+        "Emma goes on holiday by a lake with her mother.",
+        "We sleep under the stars. We are back home on Monday."
+      ],
+      "dialogue": [
+        "Emma, what do you do on holiday?",
+        "We sleep under the stars.",
+        "Do you see the tide at night?",
+        "Yes. The tide comes in at night.",
+        "We escape from the city.",
+        "Good. I use binoculars to see the birds."
+      ],
+      "listening": "On Monday, Emma goes on holiday by a lake. Emma says, 'We sleep under the stars.' Her mother says, 'Do you see the tide at night?' Emma says, 'Yes. The tide comes in at night.' Her mother says, 'We escape from the city.' Emma says, 'Good. I use binoculars to see the birds.'",
+      "question": "What does Emma do at night?",
+      "correct": "Sleep under the stars",
+      "other": "Watch TV",
+      "reading": "On Monday, Emma goes on holiday by a lake with her mother. Emma says, 'We sleep under the stars.' Her mother says, 'Do you see the tide at night?' Emma says, 'Yes. The tide comes in at night.' Her mother says, 'We escape from the city. We sleep under the stars and we see the birds.' Emma says, 'Good. I use binoculars to see the birds. The tide is nice and the night is quiet.' Her mother says, 'Yes. We are back home on Monday. We escape from the city and we have a good time. It is a good holiday.' Emma says, 'I can use holiday English in a new situation.'",
+      "readingQ": "What does Emma use to see the birds?",
+      "readingA": "Binoculars.",
+      "speaking": "Tell a friend about a holiday in a new situation. What do you do at night?",
+      "speakingSample": "I go on holiday by a lake with my mother. I say, 'We sleep under the stars.' My mother says, 'Do you see the tide at night?' I say, 'Yes. The tide comes in at night.' We escape from the city. I use binoculars to see the birds. I can use holiday English in a new situation.",
+      "writing": "Write a short email to a friend about a holiday by a lake. Say what you do at night.",
+      "writingSample": "Dear Anna, I want to tell you about a holiday by a lake with my mother. I say, 'We sleep under the stars.' My mother says, 'Do you see the tide at night?' I say, 'Yes. The tide comes in at night.' We escape from the city. I use binoculars to see the birds. I can use holiday English in a new situation. See you soon. Best, Emma",
+      "sound": "Tide has its strongest beat on TIDE. In tide, say TIDE clearly. In binoculars, say NOC clearly in the middle.",
+      "model": "The tide comes in at night.",
+      "wordTask": "What does Emma do at night?",
+      "wordSample": "Sleep under the stars.",
+      "transferCheck": {
+        "source": "On Tuesday, Emma visits her teacher, Ms. Green. Emma says, 'I can use holiday English in a new situation. I go on holiday by a lake with my mother.' Ms. Green says, 'Good. What do you do at night?' Emma says, 'We sleep under the stars. The tide comes in at night.' Ms. Green says, 'Very good. Do you see the birds?' Emma says, 'Yes. I use binoculars to see the birds. We escape from the city.' Ms. Green says, 'Good. You use holiday English well.'",
+        "dictation": "We sleep under the stars tonight.",
+        "answer": "1. Emma visits her teacher, Ms. Green. She talks about a holiday by a lake with her mother. 2. Emma's first job is to say she can use holiday English in a new situation. 3. On Tuesday, Emma says, 'I can use holiday English in a new situation.' 4. We sleep under the stars tonight. 5. Sample: On Tuesday, Emma visits her teacher, Ms. Green. Emma says, 'I can use holiday English in a new situation. I go on holiday by a lake with my mother.' Ms. Green says, 'Good. What do you do at night?' Emma says, 'We sleep under the stars. The tide comes in at night.' Ms. Green says, 'Very good. Do you see the birds?' Emma says, 'Yes. I use binoculars to see the birds. We escape from the city.' Ms. Green says, 'Good. You use holiday English well.' Follow-up: What does Emma do at night? Sleep under the stars.",
+        "tasks": [
+          [
+            "1 · Identify the people and the new situation",
+            "Who does Emma visit, and what does she talk about?"
+          ],
+          [
+            "2 · Work out what Emma does first",
+            "What is Emma's first job, and what does she say?"
+          ],
+          [
+            "3 · Notice the sentence on Tuesday",
+            "What does Emma say on Tuesday?"
+          ],
+          [
+            "4 · Listen and write",
+            "Write the sentence you hear."
+          ],
+          [
+            "5 · Retell and answer",
+            "Tell the story in order, including the people, the new situation, the first talk, and the result. Then answer one follow-up question."
+          ]
+        ]
+      }
+    }
+  ]
+}

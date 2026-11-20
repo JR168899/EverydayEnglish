@@ -1,0 +1,905 @@
+{
+  "number": 9,
+  "title": "Health and staying well",
+  "lessons": [
+    {
+      "unit": 9,
+      "day": 65,
+      "title": "Feeling unwell",
+      "goal": "I can talk about feeling unwell and say what is wrong.",
+      "newItems": [
+        {
+          "word": "symptom",
+          "ipa": "/ˈsɪmptəm/",
+          "pos": "noun",
+          "definition": "A sign that you are ill.",
+          "example": "A fever is a symptom.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "sneeze",
+          "ipa": "/sniz/",
+          "pos": "verb",
+          "definition": "To blow air out of your nose loudly.",
+          "example": "I sneeze in spring.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "dizzy",
+          "ipa": "/ˈdɪzi/",
+          "pos": "adjective",
+          "definition": "Feeling that everything is turning around you.",
+          "example": "I feel dizzy.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "feel under the weather",
+          "ipa": "/fil ˈʌndər ðə ˈwɛðər/",
+          "pos": "fixed phrase",
+          "definition": "To feel a little ill.",
+          "example": "I feel under the weather today.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "catch a cold",
+          "ipa": "/kætʃ ə koʊld/",
+          "pos": "fixed phrase",
+          "definition": "To get a cold.",
+          "example": "I catch a cold in winter.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "cold",
+        "sick",
+        "tired",
+        "head",
+        "morning"
+      ],
+      "mainWord": {
+        "word": "symptom",
+        "ipa": "/ˈsɪmptəm/",
+        "pos": "noun",
+        "definition": "A sign that you are ill.",
+        "example": "A fever is a symptom.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Symptom is a noun. Symptom means a sign that you are ill. A fever is a symptom.",
+      "pronunciationTarget": {
+        "word": "symptom",
+        "ipa": "/ˈsɪmptəm/"
+      },
+      "expression": "I feel under the weather today.",
+      "use": "Use this when you feel a little ill.",
+      "expressionTask": "Sam feels ill in the morning. What does he say?",
+      "grammar": "Present perfect: I have had a cold for three days",
+      "pattern": "I have had a cold for three days.",
+      "task": "I have had a cold for ___ days.",
+      "answer": "three",
+      "example": "I have had a cold for three days.",
+      "context": [
+        "Sam wakes up in the morning. He feels ill.",
+        "I feel under the weather today."
+      ],
+      "dialogue": [
+        "Sam, you look tired. What is wrong?",
+        "I feel under the weather today. I think I catch a cold.",
+        "Oh no. Do you sneeze a lot?",
+        "Yes, I sneeze all morning. My head hurts too.",
+        "Do you feel dizzy?",
+        "A little. A cold is the worst symptom. I will stay home today."
+      ],
+      "listening": "Sam wakes up in the morning and feels ill. He thinks he will catch a cold. Sam sneezes all morning. His head hurts, and he feels dizzy. Anna says, 'You look tired. You feel under the weather today.' Sam says, 'Yes, I have a cold. The worst symptom is my head.' Sam stays home.",
+      "question": "What is wrong with Sam?",
+      "correct": "He has a cold",
+      "other": "He has a broken leg",
+      "reading": "Sam wakes up on Monday morning. He feels ill. He thinks he will catch a cold. Sam sneezes all morning. His head hurts, and he feels dizzy. Anna looks at him and says, 'You feel under the weather today. You look tired.' Sam says, 'Yes, I have a cold. I have had a cold for three days. The worst symptom is my head. It hurts all day.' Anna says, 'You should stay home today. Drink water and rest.' Sam stays home. He drinks water and sleeps in the afternoon. In the evening, Sam feels a little better. He says, 'I still sneeze, but my head does not hurt so much. I hope I feel well tomorrow.' Sam goes to bed. He wants to be well for work.",
+      "readingQ": "How long has Sam had a cold?",
+      "readingA": "He has had a cold for three days.",
+      "speaking": "Tell a friend about feeling unwell. What is wrong with you? How do you feel?",
+      "speakingSample": "I feel under the weather today. I think I catch a cold. I sneeze all morning. My head hurts, and I feel dizzy. I have had a cold for three days. The worst symptom is my head. I stay home today. I drink water and rest. I hope I feel well tomorrow.",
+      "writing": "Write a short email to a friend about feeling unwell. Say what is wrong and how you feel.",
+      "writingSample": "Dear Tom, I want to tell you about my day. I feel under the weather today. I think I catch a cold. I sneeze all morning. My head hurts, and I feel dizzy. I have had a cold for three days. The worst symptom is my head. I stay home today. I drink water and rest. I hope I feel well tomorrow. See you soon. Best, Sam",
+      "sound": "Symptom has its strongest beat on SYMP. In symptom, say SYMP clearly at the start. In sneeze, say SNEEZE clearly.",
+      "model": "A fever is a symptom.",
+      "wordTask": "What is wrong with Sam in the morning?",
+      "wordSample": "He feels under the weather. He thinks he catches a cold."
+    },
+    {
+      "unit": 9,
+      "day": 66,
+      "title": "At the doctor's",
+      "goal": "I can talk about seeing a doctor and say what the doctor says.",
+      "newItems": [
+        {
+          "word": "prescription",
+          "ipa": "/prɪˈskrɪpʃən/",
+          "pos": "noun",
+          "definition": "A paper from a doctor for medicine.",
+          "example": "The doctor gives me a prescription.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "pill",
+          "ipa": "/pɪl/",
+          "pos": "noun",
+          "definition": "A small round piece of medicine.",
+          "example": "Take one pill a day.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "take your temperature",
+          "ipa": "/teɪk jʊər ˈtɛmprətʃər/",
+          "pos": "fixed phrase",
+          "definition": "To check how hot your body is.",
+          "example": "Take your temperature.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "blood pressure",
+          "ipa": "/blʌd ˈprɛʃər/",
+          "pos": "fixed phrase",
+          "definition": "The force of blood in your body.",
+          "example": "My blood pressure is fine.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "health check",
+          "ipa": "/hɛlθ tʃɛk/",
+          "pos": "fixed phrase",
+          "definition": "A check of your health.",
+          "example": "I have a health check.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "doctor",
+        "hospital",
+        "medicine",
+        "time",
+        "today"
+      ],
+      "mainWord": {
+        "word": "prescription",
+        "ipa": "/prɪˈskrɪpʃən/",
+        "pos": "noun",
+        "definition": "A paper from a doctor for medicine.",
+        "example": "The doctor gives me a prescription.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Prescription is a noun. Prescription means a paper from a doctor for medicine. The doctor gives me a prescription.",
+      "pronunciationTarget": {
+        "word": "prescription",
+        "ipa": "/prɪˈskrɪpʃən/"
+      },
+      "expression": "The doctor gives me a prescription.",
+      "use": "Use this when you talk about medicine from a doctor.",
+      "expressionTask": "Sam goes to the doctor. What does the doctor give him?",
+      "grammar": "Polite questions: Could you please take my temperature?",
+      "pattern": "Could you please take my temperature?",
+      "task": "Could you please take my ___?",
+      "answer": "temperature",
+      "example": "Could you please take my temperature?",
+      "context": [
+        "Sam goes to the doctor in the morning.",
+        "The doctor gives me a prescription."
+      ],
+      "dialogue": [
+        "Good morning, Sam. How do you feel today?",
+        "I feel ill. I have a cold and my head hurts.",
+        "Let me take your temperature and check your blood pressure.",
+        "Is my blood pressure fine?",
+        "Yes, it is fine. You need a pill and rest.",
+        "Thank you. I will take one pill a day."
+      ],
+      "listening": "Sam goes to the doctor in the morning. He feels ill. The doctor says, 'Let me take your temperature and check your blood pressure.' Sam's temperature is high, but his blood pressure is fine. The doctor gives Sam a prescription. He says, 'Take one pill a day and rest.' Sam says, 'Thank you, doctor.'",
+      "question": "What does the doctor give Sam?",
+      "correct": "A prescription",
+      "other": "A new jacket",
+      "reading": "Sam feels ill on Tuesday. He goes to the doctor in the morning. Sam waits in the hospital. The doctor says, 'Good morning, Sam. How do you feel today?' Sam says, 'I feel ill. I have a cold and my head hurts.' The doctor says, 'Let me take your temperature and check your blood pressure.' He says, 'Your temperature is high, but your blood pressure is fine. You need a pill and rest.' The doctor gives Sam a prescription. Sam asks, 'How many pills do I take?' The doctor says, 'Take one pill a day and rest. You will feel well soon.' Sam says, 'Thank you, doctor.' Sam goes home. He takes one pill and rests in bed. Sam has a health check next week. He wants to be well.",
+      "readingQ": "What does the doctor give Sam?",
+      "readingA": "The doctor gives Sam a prescription.",
+      "speaking": "Tell a friend about seeing a doctor. What does the doctor say? What do you take?",
+      "speakingSample": "I go to the doctor in the morning. I feel ill. The doctor takes my temperature and checks my blood pressure. My temperature is high, but my blood pressure is fine. The doctor gives me a prescription. I take one pill a day and rest. I have a health check next week.",
+      "writing": "Write a short email to a friend about seeing a doctor. Say what the doctor says and what you take.",
+      "writingSample": "Dear Tom, I want to tell you about my day. I went to the doctor in the morning. I feel ill. The doctor takes my temperature and checks my blood pressure. My temperature is high, but my blood pressure is fine. The doctor gives me a prescription. I take one pill a day and rest. I have a health check next week. I hope I feel well soon. Best, Sam",
+      "sound": "Prescription has its strongest beat on SCRIP. In prescription, say SCRIP clearly in the middle. In pill, say PILL clearly.",
+      "model": "The doctor gives me a prescription.",
+      "wordTask": "What does the doctor give Sam?",
+      "wordSample": "The doctor gives Sam a prescription."
+    },
+    {
+      "unit": 9,
+      "day": 67,
+      "title": "Good advice for a cold",
+      "goal": "I can give advice about health with should and should not.",
+      "newItems": [
+        {
+          "word": "recover",
+          "ipa": "/rɪˈkʌvər/",
+          "pos": "verb",
+          "definition": "To get better after being ill.",
+          "example": "I will recover soon.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "infection",
+          "ipa": "/ɪnˈfɛkʃən/",
+          "pos": "noun",
+          "definition": "An illness caused by germs.",
+          "example": "It is an infection.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "get some rest",
+          "ipa": "/ɡɛt sʌm rɛst/",
+          "pos": "fixed phrase",
+          "definition": "To rest for a time.",
+          "example": "Get some rest today.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "get better soon",
+          "ipa": "/ɡɛt ˈbɛtər sun/",
+          "pos": "fixed phrase",
+          "definition": "To become well soon.",
+          "example": "I hope you get better soon.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "stay in bed",
+          "ipa": "/steɪ ɪn bɛd/",
+          "pos": "fixed phrase",
+          "definition": "To stay in bed because you are ill.",
+          "example": "Stay in bed today.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "rest",
+        "water",
+        "bed",
+        "night",
+        "week"
+      ],
+      "mainWord": {
+        "word": "recover",
+        "ipa": "/rɪˈkʌvər/",
+        "pos": "verb",
+        "definition": "To get better after being ill.",
+        "example": "I will recover soon.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Recover is a verb. Recover means to get better after being ill. I will recover soon.",
+      "pronunciationTarget": {
+        "word": "recover",
+        "ipa": "/rɪˈkʌvər/"
+      },
+      "expression": "Get some rest today.",
+      "use": "Use this to give advice to a sick person.",
+      "expressionTask": "Anna gives Sam advice. What does she say?",
+      "grammar": "should and should not for advice: You should rest",
+      "pattern": "You should rest.",
+      "task": "You should ___.",
+      "answer": "rest",
+      "example": "You should rest.",
+      "context": [
+        "Anna gives Sam advice about his cold.",
+        "Get some rest today."
+      ],
+      "dialogue": [
+        "Sam, you look tired. How do you feel?",
+        "I feel ill. I have an infection.",
+        "You should get some rest today. Stay in bed.",
+        "Should I drink water too?",
+        "Yes, drink plenty of water. You will recover soon.",
+        "Thank you. I hope I get better soon."
+      ],
+      "listening": "Sam has an infection. He feels ill. Anna gives him advice. She says, 'You should get some rest today. Stay in bed and drink water.' Sam says, 'Should I take my pill too?' Anna says, 'Yes, take your pill. You will recover soon.' Sam stays in bed. He drinks water and rests.",
+      "question": "What should Sam do today?",
+      "correct": "Get some rest",
+      "other": "Go to work",
+      "reading": "Sam has an infection. He feels ill. Anna gives him good advice. She says, 'You should get some rest today. Stay in bed and drink plenty of water.' Sam says, 'Should I take my pill too?' Anna says, 'Yes, take your pill after meals. You will recover soon.' Sam stays in bed all day. He drinks water and rests. In the evening, Sam feels a little better. He says, 'Thank you, Anna. Your advice is good. I hope I get better soon.' Anna says, 'You should sleep well tonight. Do not work tomorrow. You need time to recover.' Sam goes to bed. He sleeps well. In the morning, Sam feels better. He says, 'I am happy. I will recover soon.'",
+      "readingQ": "What should Sam do today?",
+      "readingA": "He should get some rest and stay in bed.",
+      "speaking": "Tell a friend about good advice for a cold. What should a sick person do?",
+      "speakingSample": "My friend has a cold. I give him good advice. I say, 'You should get some rest today. Stay in bed and drink plenty of water.' He should take his pill too. He will recover soon. I hope he gets better soon. Good advice helps a sick person. I am happy to help him.",
+      "writing": "Write a short email to a friend about good advice for a cold. Say what a sick person should do.",
+      "writingSample": "Dear Tom, I want to tell you about my friend Sam. He has an infection. I give him good advice. I say, 'You should get some rest today. Stay in bed and drink plenty of water.' He should take his pill too. He will recover soon. I hope he gets better soon. Good advice helps a sick person. I am happy to help him. Best, Anna",
+      "sound": "Recover has its strongest beat on COV. In recover, say COV clearly in the middle. In infection, say FEC clearly in the middle.",
+      "model": "You will recover soon.",
+      "wordTask": "What should Sam do today?",
+      "wordSample": "He should get some rest and stay in bed."
+    },
+    {
+      "unit": 9,
+      "day": 68,
+      "title": "Exercise every day",
+      "goal": "I can talk about exercise and staying active.",
+      "newItems": [
+        {
+          "word": "jogging",
+          "ipa": "/ˈdʒɑɡɪŋ/",
+          "pos": "noun",
+          "definition": "Running slowly for exercise.",
+          "example": "Jogging is good for you.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "workout",
+          "ipa": "/ˈwɝkaʊt/",
+          "pos": "noun",
+          "definition": "Exercise you do to stay strong and healthy.",
+          "example": "My workout is fun.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "stamina",
+          "ipa": "/ˈstæmɪnə/",
+          "pos": "noun",
+          "definition": "Being able to do exercise for a long time.",
+          "example": "Running builds stamina.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "keep fit",
+          "ipa": "/kip fɪt/",
+          "pos": "fixed phrase",
+          "definition": "To stay strong and healthy.",
+          "example": "I run to keep fit.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "cool down",
+          "ipa": "/kul daʊn/",
+          "pos": "fixed phrase",
+          "definition": "To do gentle exercise after you finish.",
+          "example": "Cool down after you run.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "run",
+        "walk",
+        "park",
+        "happy",
+        "morning"
+      ],
+      "mainWord": {
+        "word": "jogging",
+        "ipa": "/ˈdʒɑɡɪŋ/",
+        "pos": "noun",
+        "definition": "Running slowly for exercise.",
+        "example": "Jogging is good for you.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Jogging is a noun. Jogging means running slowly for exercise. Jogging is good for you.",
+      "pronunciationTarget": {
+        "word": "jogging",
+        "ipa": "/ˈdʒɑɡɪŋ/"
+      },
+      "expression": "I run to keep fit.",
+      "use": "Use this when you talk about exercise.",
+      "expressionTask": "Sam runs in the park. Why does he run?",
+      "grammar": "Comparatives: Jogging is healthier than sitting all day",
+      "pattern": "Jogging is healthier than sitting all day.",
+      "task": "Jogging is ___ than sitting all day.",
+      "answer": "healthier",
+      "example": "Jogging is healthier than sitting all day.",
+      "context": [
+        "Sam runs in the park in the morning.",
+        "I run to keep fit."
+      ],
+      "dialogue": [
+        "Sam, you look happy. Do you run every day?",
+        "Yes, I go jogging in the park in the morning.",
+        "Is jogging good for your health?",
+        "Yes, it is. Jogging builds my stamina.",
+        "Do you cool down after your workout?",
+        "Yes, I cool down and drink water. I run to keep fit."
+      ],
+      "listening": "Sam runs in the park every morning. He goes jogging to keep fit. Jogging is good for his health. It builds his stamina. Sam does a workout three times a week. He cools down after his workout and drinks water. Sam says, 'Jogging is healthier than sitting all day. I feel happy and strong.'",
+      "question": "Why does Sam go jogging?",
+      "correct": "To keep fit",
+      "other": "To buy a jacket",
+      "reading": "Sam runs in the park every morning. He goes jogging to keep fit. Jogging is good for his health. It builds his stamina. Sam does a workout three times a week. His workout is fun. Sam runs, and then he cools down. He says, 'I cool down after my workout. Then I drink water.' Sam's friend Tom asks, 'Is jogging healthier than sitting all day?' Sam says, 'Yes, it is. Jogging is healthier than sitting all day. I feel happy and strong.' Tom says, 'I want to keep fit too. Can I run with you?' Sam says, 'Yes, let's run together tomorrow. We can jog in the park in the morning.' Tom is happy. He wants to be strong and healthy.",
+      "readingQ": "How many times a week does Sam do a workout?",
+      "readingA": "Three times a week.",
+      "speaking": "Tell a friend about exercise. What do you do to keep fit?",
+      "speakingSample": "I go jogging in the park every morning. I run to keep fit. Jogging is good for my health. It builds my stamina. I do a workout three times a week. I cool down after my workout and drink water. Jogging is healthier than sitting all day. I feel happy and strong.",
+      "writing": "Write a short email to a friend about exercise. Say what you do to keep fit.",
+      "writingSample": "Dear Tom, I want to tell you about my exercise. I go jogging in the park every morning. I run to keep fit. Jogging is good for my health. It builds my stamina. I do a workout three times a week. I cool down after my workout and drink water. Jogging is healthier than sitting all day. I feel happy and strong. Let's run together tomorrow. Best, Sam",
+      "sound": "Jogging has its strongest beat on JOG. In jogging, say JOG clearly at the start. In workout, say WORK clearly at the start.",
+      "model": "I go jogging every day.",
+      "wordTask": "Why does Sam go jogging?",
+      "wordSample": "He goes jogging to keep fit."
+    },
+    {
+      "unit": 9,
+      "day": 69,
+      "title": "Eat well, stay well",
+      "goal": "I can talk about healthy food and eating well.",
+      "newItems": [
+        {
+          "word": "vitamin",
+          "ipa": "/ˈvaɪtəmɪn/",
+          "pos": "noun",
+          "definition": "Something in food that keeps you healthy.",
+          "example": "Oranges have vitamin C.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "protein",
+          "ipa": "/ˈproʊtin/",
+          "pos": "noun",
+          "definition": "Something in food that helps you grow strong.",
+          "example": "Eggs have protein.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "calcium",
+          "ipa": "/ˈkælsiəm/",
+          "pos": "noun",
+          "definition": "Something in milk that makes bones strong.",
+          "example": "Milk has calcium.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "eat well",
+          "ipa": "/it wɛl/",
+          "pos": "fixed phrase",
+          "definition": "To eat healthy food.",
+          "example": "Eat well every day.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "eat more vegetables",
+          "ipa": "/it mɔr ˈvɛdʒtəbəlz/",
+          "pos": "fixed phrase",
+          "definition": "To eat more vegetables.",
+          "example": "Eat more vegetables.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "food",
+        "fruit",
+        "rice",
+        "milk",
+        "lunch"
+      ],
+      "mainWord": {
+        "word": "vitamin",
+        "ipa": "/ˈvaɪtəmɪn/",
+        "pos": "noun",
+        "definition": "Something in food that keeps you healthy.",
+        "example": "Oranges have vitamin C.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Vitamin is a noun. Vitamin means something in food that keeps you healthy. Oranges have vitamin C.",
+      "pronunciationTarget": {
+        "word": "vitamin",
+        "ipa": "/ˈvaɪtəmɪn/"
+      },
+      "expression": "Eat more vegetables every day.",
+      "use": "Use this to give advice about healthy food.",
+      "expressionTask": "Sam eats lunch with Anna. What does Anna say?",
+      "grammar": "too much and not enough: You eat too much sugar",
+      "pattern": "You eat too much sugar.",
+      "task": "You eat too much ___.",
+      "answer": "sugar",
+      "example": "You eat too much sugar.",
+      "context": [
+        "Sam eats lunch with Anna.",
+        "Eat more vegetables every day."
+      ],
+      "dialogue": [
+        "Sam, what do you eat for lunch?",
+        "I eat rice and chicken. What about you?",
+        "I eat vegetables and fruit. Eat more vegetables every day.",
+        "Do vegetables have vitamins?",
+        "Yes, they do. Milk has calcium, and eggs have protein.",
+        "Thank you. I want to eat well and stay well."
+      ],
+      "listening": "Sam eats lunch with Anna. Anna eats vegetables and fruit. She says, 'Eat more vegetables every day. Vegetables have vitamins.' Sam asks, 'What food has calcium and protein?' Anna says, 'Milk has calcium, and eggs have protein. Eat well and stay well.' Sam says, 'Thank you. I will eat more vegetables.'",
+      "question": "What does milk have?",
+      "correct": "Calcium",
+      "other": "Vitamin C",
+      "reading": "Sam eats lunch with Anna on Monday. Anna eats vegetables and fruit. She says, 'Eat more vegetables every day. Vegetables have vitamins. Oranges have vitamin C.' Sam asks, 'What food has calcium and protein?' Anna says, 'Milk has calcium, and eggs have protein. You should eat well. Do not eat too much sugar.' Sam says, 'I eat rice and chicken. I want to eat well and stay well.' Anna says, 'Good. Eat more vegetables. Drink milk too. A healthy lunch helps you stay strong.' Sam eats vegetables and drinks milk. He says, 'Thank you, Anna. I feel happy. I will eat well every day.' Sam goes home and tells his friend about healthy food.",
+      "readingQ": "What food has calcium?",
+      "readingA": "Milk has calcium.",
+      "speaking": "Tell a friend about healthy food. What do you eat? What is good for you?",
+      "speakingSample": "I eat lunch with Anna. She eats vegetables and fruit. She says, 'Eat more vegetables every day.' Vegetables have vitamins. Milk has calcium, and eggs have protein. I want to eat well and stay well. I eat more vegetables and drink milk. I feel happy. Healthy food helps me stay strong.",
+      "writing": "Write a short email to a friend about healthy food. Say what you eat and what is good for you.",
+      "writingSample": "Dear Tom, I want to tell you about my lunch. I eat lunch with Anna. She eats vegetables and fruit. She says, 'Eat more vegetables every day.' Vegetables have vitamins. Milk has calcium, and eggs have protein. I want to eat well and stay well. I eat more vegetables and drink milk. Healthy food helps me stay strong. I feel happy. See you soon. Best, Sam",
+      "sound": "Vitamin has its strongest beat on VI. In vitamin, say VI clearly at the start. In protein, say PRO clearly at the start.",
+      "model": "Oranges have vitamin C.",
+      "wordTask": "What food has calcium?",
+      "wordSample": "Milk has calcium."
+    },
+    {
+      "unit": 9,
+      "day": 70,
+      "title": "Sleep well",
+      "goal": "I can talk about sleep and rest.",
+      "newItems": [
+        {
+          "word": "insomnia",
+          "ipa": "/ɪnˈsɑmniə/",
+          "pos": "noun",
+          "definition": "Being unable to sleep.",
+          "example": "I have insomnia.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "nightmare",
+          "ipa": "/ˈnaɪtmɛr/",
+          "pos": "noun",
+          "definition": "A bad dream.",
+          "example": "I have a nightmare.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "drowsy",
+          "ipa": "/ˈdraʊzi/",
+          "pos": "adjective",
+          "definition": "Feeling sleepy.",
+          "example": "The medicine makes me drowsy.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "get enough sleep",
+          "ipa": "/ɡɛt ɪˈnʌf slip/",
+          "pos": "fixed phrase",
+          "definition": "To sleep as much as you need.",
+          "example": "Get enough sleep.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "go to bed early",
+          "ipa": "/ɡoʊ tə bɛd ˈɝli/",
+          "pos": "fixed phrase",
+          "definition": "To go to sleep early.",
+          "example": "Go to bed early tonight.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "sleep",
+        "night",
+        "bed",
+        "morning",
+        "tired"
+      ],
+      "mainWord": {
+        "word": "insomnia",
+        "ipa": "/ɪnˈsɑmniə/",
+        "pos": "noun",
+        "definition": "Being unable to sleep.",
+        "example": "I have insomnia.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Insomnia is a noun. Insomnia means being unable to sleep. I have insomnia.",
+      "pronunciationTarget": {
+        "word": "insomnia",
+        "ipa": "/ɪnˈsɑmniə/"
+      },
+      "expression": "Get enough sleep every night.",
+      "use": "Use this to give advice about sleep.",
+      "expressionTask": "Sam cannot sleep at night. What does Anna say?",
+      "grammar": "Past continuous: I was sleeping when the phone rang",
+      "pattern": "I was sleeping when the phone rang.",
+      "task": "I was ___ when the phone rang.",
+      "answer": "sleeping",
+      "example": "I was sleeping when the phone rang.",
+      "context": [
+        "Sam cannot sleep at night.",
+        "Get enough sleep every night."
+      ],
+      "dialogue": [
+        "Sam, you look tired. Did you sleep well?",
+        "No, I have insomnia. I cannot sleep at night.",
+        "Do you have nightmares?",
+        "Yes, sometimes. I feel drowsy in the morning.",
+        "You should get enough sleep. Go to bed early tonight.",
+        "Thank you. I will go to bed early."
+      ],
+      "listening": "Sam looks tired in the morning. He has insomnia. He cannot sleep at night. He has a nightmare. In the morning, Sam feels drowsy. Anna says, 'You should get enough sleep. Go to bed early tonight.' Sam says, 'Thank you. I will go to bed early. I was sleeping when the phone rang last night.'",
+      "question": "Why is Sam tired?",
+      "correct": "He has insomnia",
+      "other": "He runs a lot",
+      "reading": "Sam looks tired in the morning. He has insomnia. He cannot sleep at night. Sometimes he has a nightmare. Sam says, 'I was sleeping when the phone rang. Then I could not sleep again.' In the morning, Sam feels drowsy. Anna says, 'You should get enough sleep. Go to bed early tonight. Do not drink coffee at night.' Sam says, 'Thank you. I will go to bed early. I want to sleep well.' Sam goes to bed early. He reads a book and sleeps well. In the morning, Sam feels happy. He says, 'I feel well today. I got enough sleep. Good sleep helps me stay well.' Sam is happy.",
+      "readingQ": "What should Sam do tonight?",
+      "readingA": "He should go to bed early.",
+      "speaking": "Tell a friend about sleep. Do you sleep well? What do you do at night?",
+      "speakingSample": "I have insomnia. I cannot sleep at night. Sometimes I have a nightmare. In the morning, I feel drowsy. My friend says, 'You should get enough sleep. Go to bed early tonight.' I go to bed early. I read a book and sleep well. Good sleep helps me stay well.",
+      "writing": "Write a short email to a friend about sleep. Say if you sleep well and what you do at night.",
+      "writingSample": "Dear Tom, I want to tell you about my sleep. I have insomnia. I cannot sleep at night. Sometimes I have a nightmare. In the morning, I feel drowsy. My friend says, 'You should get enough sleep. Go to bed early tonight.' I go to bed early. I read a book and sleep well. Good sleep helps me stay well. I feel happy. Best, Sam",
+      "sound": "Insomnia has its strongest beat on SOM. In insomnia, say SOM clearly in the middle. In nightmare, say NIGHT clearly at the start.",
+      "model": "I have insomnia.",
+      "wordTask": "Why is Sam tired?",
+      "wordSample": "He has insomnia. He cannot sleep at night."
+    },
+    {
+      "unit": 9,
+      "day": 71,
+      "title": "Less stress, more rest",
+      "goal": "I can talk about stress and feeling calm.",
+      "newItems": [
+        {
+          "word": "anxiety",
+          "ipa": "/æŋˈzaɪəti/",
+          "pos": "noun",
+          "definition": "Worry about what will happen.",
+          "example": "I feel anxiety.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "meditate",
+          "ipa": "/ˈmɛdɪteɪt/",
+          "pos": "verb",
+          "definition": "To sit quietly and think calmly.",
+          "example": "I meditate every day.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "take it easy",
+          "ipa": "/teɪk ɪt ˈizi/",
+          "pos": "fixed phrase",
+          "definition": "To rest and not work hard.",
+          "example": "Take it easy today.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "take a deep breath",
+          "ipa": "/teɪk ə dip brɛθ/",
+          "pos": "fixed phrase",
+          "definition": "To breathe in a lot of air slowly.",
+          "example": "Take a deep breath.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "a moment of peace",
+          "ipa": "/ə ˈmoʊmənt ʌv pis/",
+          "pos": "fixed phrase",
+          "definition": "A short time with no worry.",
+          "example": "I need a moment of peace.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "work",
+        "busy",
+        "quiet",
+        "music",
+        "friend"
+      ],
+      "mainWord": {
+        "word": "anxiety",
+        "ipa": "/æŋˈzaɪəti/",
+        "pos": "noun",
+        "definition": "Worry about what will happen.",
+        "example": "I feel anxiety.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Anxiety is a noun. Anxiety means worry about what will happen. I feel anxiety.",
+      "pronunciationTarget": {
+        "word": "anxiety",
+        "ipa": "/æŋˈzaɪəti/"
+      },
+      "expression": "Take it easy today.",
+      "use": "Use this to tell a busy person to rest.",
+      "expressionTask": "Sam has too much work. What does Anna say?",
+      "grammar": "First conditional: If you rest, you will feel calm",
+      "pattern": "If you rest, you will feel calm.",
+      "task": "If you rest, you will feel ___.",
+      "answer": "calm",
+      "example": "If you rest, you will feel calm.",
+      "context": [
+        "Sam has too much work this week.",
+        "Take it easy today."
+      ],
+      "dialogue": [
+        "Sam, you look tired. What is wrong?",
+        "I have too much work. I need a moment of peace.",
+        "Do you feel anxiety?",
+        "Yes, I feel anxiety every day. I cannot rest.",
+        "Take it easy today. Take a deep breath and meditate.",
+        "Thank you. If I rest, I will feel calm."
+      ],
+      "listening": "Sam has too much work this week. He needs a moment of peace. Sam feels anxiety every day. He cannot rest. Anna says, 'Take it easy today. Take a deep breath and meditate.' Sam sits quietly and meditates. He listens to music. Sam says, 'If I rest, I will feel calm. Thank you, Anna.'",
+      "question": "What does Anna tell Sam to do?",
+      "correct": "Take it easy",
+      "other": "Work more",
+      "reading": "Sam has too much work this week. He needs a moment of peace. Sam feels anxiety every day. He cannot rest. Anna says, 'Take it easy today. Take a deep breath and meditate. If you rest, you will feel calm.' Sam sits quietly and meditates. He listens to music. Sam says, 'I feel calm now. Meditation helps me.' Anna says, 'Good. Work is busy, but you need time to rest. Take a deep breath when you feel anxiety.' Sam says, 'Thank you, Anna. I will take it easy today. I will meditate every day.' In the evening, Sam feels happy. He says, 'I feel calm. I can work well tomorrow.'",
+      "readingQ": "What helps Sam feel calm?",
+      "readingA": "Meditation helps him feel calm.",
+      "speaking": "Tell a friend about stress. What makes you feel calm?",
+      "speakingSample": "I have too much work this week. I need a moment of peace. I feel anxiety every day. My friend says, 'Take it easy today. Take a deep breath and meditate.' I sit quietly and meditate. I listen to music. If I rest, I will feel calm. I feel happy.",
+      "writing": "Write a short email to a friend about stress. Say what makes you feel calm.",
+      "writingSample": "Dear Tom, I want to tell you about my week. I have too much work this week. I need a moment of peace. I feel anxiety every day. My friend says, 'Take it easy today. Take a deep breath and meditate.' I sit quietly and meditate. I listen to music. If I rest, I will feel calm. Meditation helps me. I feel happy. Best, Sam",
+      "sound": "Anxiety has its strongest beat on ZAI. In anxiety, say ZAI clearly in the middle. In meditate, say MED clearly at the start.",
+      "model": "I feel anxiety.",
+      "wordTask": "What does Anna tell Sam to do?",
+      "wordSample": "Take it easy today. Take a deep breath and meditate."
+    },
+    {
+      "unit": 9,
+      "day": 72,
+      "title": "Use health English in a new situation",
+      "goal": "I can use health English in a new situation.",
+      "newItems": [
+        {
+          "word": "heal",
+          "ipa": "/hil/",
+          "pos": "verb",
+          "definition": "To become well again after an injury.",
+          "example": "The cut will heal.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "lifestyle",
+          "ipa": "/ˈlaɪfˌstaɪl/",
+          "pos": "noun",
+          "definition": "The way you live every day.",
+          "example": "A healthy lifestyle is good.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "look after yourself",
+          "ipa": "/lʊk ˈæftər jʊərˈsɛlf/",
+          "pos": "fixed phrase",
+          "definition": "To take care of your health.",
+          "example": "Look after yourself.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "in good shape",
+          "ipa": "/ɪn ɡʊd ʃeɪp/",
+          "pos": "fixed phrase",
+          "definition": "Strong and healthy.",
+          "example": "She is in good shape.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "get over a cold",
+          "ipa": "/ɡɛt ˈoʊvər ə koʊld/",
+          "pos": "fixed phrase",
+          "definition": "To become well after a cold.",
+          "example": "It takes a week to get over a cold.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "help",
+        "friend",
+        "mother",
+        "happy",
+        "today"
+      ],
+      "mainWord": {
+        "word": "heal",
+        "ipa": "/hil/",
+        "pos": "verb",
+        "definition": "To become well again after an injury.",
+        "example": "The cut will heal.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Heal is a verb. Heal means to become well again after an injury. The cut will heal.",
+      "pronunciationTarget": {
+        "word": "heal",
+        "ipa": "/hil/"
+      },
+      "expression": "Look after yourself.",
+      "use": "Use this to tell a person to take care of their health.",
+      "expressionTask": "Emma helps her mother. What does she say?",
+      "grammar": "Review: I can use health English in a new situation",
+      "pattern": "I can use health English in a new situation.",
+      "task": "I can use health English in a new ___.",
+      "answer": "situation",
+      "example": "I can use health English in a new situation.",
+      "context": [
+        "Emma helps her mother stay well.",
+        "Look after yourself."
+      ],
+      "dialogue": [
+        "Emma, what are you doing today?",
+        "I help my mother. She has a cold.",
+        "Is she in good shape?",
+        "She is getting better. She will get over a cold soon.",
+        "Does she have a healthy lifestyle?",
+        "Yes, she eats well and sleeps well. Look after yourself, Mum."
+      ],
+      "listening": "Emma helps her mother. Her mother has a cold. Emma says, 'Mum, look after yourself. Eat well and get some rest.' Her mother says, 'Thank you, Emma. I will get over a cold soon. The cut on my hand will heal.' Emma says, 'A healthy lifestyle helps you stay well. You are in good shape.'",
+      "question": "Who does Emma help?",
+      "correct": "Her mother",
+      "other": "Her teacher",
+      "reading": "Emma helps her mother today. Her mother has a cold. Emma says, 'Mum, look after yourself. Eat well and get some rest.' Her mother says, 'Thank you, Emma. I will get over a cold soon. The cut on my hand will heal.' Emma says, 'Good. A healthy lifestyle helps you stay well. You are in good shape.' Her mother says, 'Yes, I eat well and sleep well. I go jogging in the park.' Emma says, 'Good. Jogging builds your stamina. You will heal soon.' Her mother is happy. She says, 'Thank you, Emma. I feel well today. Look after yourself too.' Emma says, 'I will, Mum. We can jog together tomorrow.'",
+      "readingQ": "What does Emma's mother do to stay well?",
+      "readingA": "She eats well and sleeps well.",
+      "speaking": "Tell a friend about helping a sick person. What do you say? What do you do?",
+      "speakingSample": "I help my mother today. She has a cold. I say, 'Mum, look after yourself. Eat well and get some rest.' She says, 'Thank you. I will get over a cold soon. The cut on my hand will heal.' A healthy lifestyle helps you stay well. She is in good shape. I am happy to help her.",
+      "writing": "Write a short email to a friend about helping a sick person. Say what you say and what you do.",
+      "writingSample": "Dear Tom, I want to tell you about my mother. I help my mother today. She has a cold. I say, 'Mum, look after yourself. Eat well and get some rest.' She says, 'Thank you. I will get over a cold soon. The cut on my hand will heal.' A healthy lifestyle helps you stay well. She is in good shape. I am happy to help her. Best, Emma",
+      "sound": "Heal has its strongest beat on HEAL. In heal, say HEAL clearly. In lifestyle, say LIFE clearly at the start.",
+      "model": "The cut will heal.",
+      "wordTask": "Who does Emma help?",
+      "wordSample": "Emma helps her mother.",
+      "transferCheck": {
+        "source": "Emma helps her mother today. Her mother has a cold. Emma says, 'Mum, look after yourself. Eat well and get some rest.' Her mother says, 'Thank you, Emma. I will get over a cold soon. The cut on my hand will heal.' Emma says, 'A healthy lifestyle helps you stay well. You are in good shape.' Emma's mother is happy. She says, 'Thank you, Emma. I feel well today.'",
+        "dictation": "Emma helps her mother stay well.",
+        "answer": "1. Emma helps her mother today. Her mother has a cold. 2. Emma says, 'Mum, look after yourself. Eat well and get some rest.' 3. Her mother says, 'Thank you, Emma. I will get over a cold soon. The cut on my hand will heal.' 4. Emma says, 'A healthy lifestyle helps you stay well. You are in good shape.' 5. Sample: Emma helps her mother today. Her mother has a cold. Emma says, 'Mum, look after yourself. Eat well and get some rest.' Her mother says, 'Thank you, Emma. I will get over a cold soon. The cut on my hand will heal.' Emma says, 'A healthy lifestyle helps you stay well. You are in good shape.' Follow-up: Who does Emma help? She helps her mother.",
+        "tasks": [
+          [
+            "1 · Identify the person and the problem",
+            "Who does Emma help, and what is wrong?"
+          ],
+          [
+            "2 · Notice how Emma gives advice",
+            "What does Emma tell her mother to do?"
+          ],
+          [
+            "3 · Work out what the mother says about her cold",
+            "What will happen to her cold soon?"
+          ],
+          [
+            "4 · Listen and write",
+            "Write the sentence you hear."
+          ],
+          [
+            "5 · Retell and answer",
+            "Tell the story in order, including the advice, the cold, and the cut. Then answer one follow-up question."
+          ]
+        ]
+      }
+    }
+  ]
+}

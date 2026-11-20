@@ -1,0 +1,905 @@
+{
+  "number": 23,
+  "title": "Skills, goals and progress",
+  "lessons": [
+    {
+      "unit": 23,
+      "day": 177,
+      "title": "My skills",
+      "goal": "I can talk about my skills.",
+      "newItems": [
+        {
+          "word": "talent",
+          "ipa": "/ˈtælənt/",
+          "pos": "noun",
+          "definition": "A natural gift for doing something well.",
+          "example": "She has a talent for music.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "skilled",
+          "ipa": "/skɪld/",
+          "pos": "adjective",
+          "definition": "Good at doing something because you practiced.",
+          "example": "She is skilled at cooking.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "work on your skills",
+          "ipa": "/wɝk ɑn jɔr skɪlz/",
+          "pos": "fixed phrase",
+          "definition": "To practice to get better at something.",
+          "example": "I work on my skills every day.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "take the first step",
+          "ipa": "/teɪk ðə fɝst stɛp/",
+          "pos": "fixed phrase",
+          "definition": "To start doing something.",
+          "example": "Take the first step today.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "step out of your comfort zone",
+          "ipa": "/stɛp aʊt ʌv jɔr ˈkʌmfɚt zoʊn/",
+          "pos": "fixed phrase",
+          "definition": "To try new and hard things.",
+          "example": "Step out of your comfort zone and speak.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "skill",
+        "goal",
+        "learn",
+        "study",
+        "practice"
+      ],
+      "mainWord": {
+        "word": "talent",
+        "ipa": "/ˈtælənt/",
+        "pos": "noun",
+        "definition": "A natural gift for doing something well.",
+        "example": "She has a talent for music.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Talent is a noun. Talent means a natural gift for doing something well. She has a talent for music.",
+      "pronunciationTarget": {
+        "word": "talent",
+        "ipa": "/ˈtælənt/"
+      },
+      "expression": "I work on my skills every day.",
+      "use": "Use this when you talk about practicing your skills.",
+      "expressionTask": "Tom and Lily talk about skills. What do they say?",
+      "grammar": "present simple for skills: Skills help me every day",
+      "pattern": "Skills help me every day.",
+      "task": "Skills ___ me every day.",
+      "answer": "help",
+      "example": "Skills help me every day.",
+      "context": [
+        "Tom and Lily talk about my skills.",
+        "Tom says, 'I work on my skills every day. I take the first step today.'"
+      ],
+      "dialogue": [
+        "Lily, what is a talent?",
+        "It is a natural gift for doing something well. She has a talent for music.",
+        "Are you skilled at cooking?",
+        "Yes. She is skilled at cooking. I work on my skills every day.",
+        "Do you step out of your comfort zone?",
+        "Yes. I step out of my comfort zone and speak."
+      ],
+      "listening": "Tom and Lily talk about my skills. Tom says, 'I work on my skills every day. I take the first step today.' Lily says, 'What is a talent?' Tom says, 'It is a natural gift for doing something well.' Lily says, 'Are you skilled at cooking?' Tom says, 'Yes. She is skilled at cooking.'",
+      "question": "What does Tom do every day?",
+      "correct": "Work on his skills",
+      "other": "Go to school",
+      "reading": "On Monday, Tom and Lily talk about my skills. Tom says, 'I work on my skills every day. I take the first step today. Skills help me every day.' Lily says, 'What is a talent?' Tom says, 'It is a natural gift for doing something well. She has a talent for music. A talent is a gift.' Lily says, 'Are you skilled at cooking?' Tom says, 'Yes. She is skilled at cooking. To be skilled is to be good at something because you practiced. I step out of my comfort zone and speak. I like my skills. We learn new things every day. Tom and Lily are good friends. They help each other learn new things every day.'",
+      "readingQ": "What does Tom do every day?",
+      "readingA": "Work on his skills.",
+      "speaking": "Tell a friend about your skills. What do you say?",
+      "speakingSample": "I talk about my skills with my friend Tom. I work on my skills every day. I take the first step today. She has a talent for music. She is skilled at cooking. I step out of my comfort zone and speak. Skills help me every day. I like my skills very much.",
+      "writing": "Write a short email to a friend about your skills. Say what you do.",
+      "writingSample": "Dear Anna, I want to tell you about my skills. I work on my skills every day. I take the first step today. She has a talent for music. She is skilled at cooking. I step out of my comfort zone and speak. Skills help me every day. I like my skills very much. We learn new things every day. See you soon. Best, Lily",
+      "sound": "Talent has its strongest beat on TAL. In talent, say TAL clearly at the start. In skilled, say SKILLED clearly.",
+      "model": "She has a talent for music.",
+      "wordTask": "What is a talent?",
+      "wordSample": "A natural gift for doing something well."
+    },
+    {
+      "unit": 23,
+      "day": 178,
+      "title": "Learning a new skill",
+      "goal": "I can talk about learning a new skill.",
+      "newItems": [
+        {
+          "word": "talented",
+          "ipa": "/ˈtæləntɪd/",
+          "pos": "adjective",
+          "definition": "With a natural gift for something.",
+          "example": "He is a talented singer.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "develop",
+          "ipa": "/dɪˈvɛləp/",
+          "pos": "verb",
+          "definition": "To grow and get better over time.",
+          "example": "I develop my skills every day.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "master",
+          "ipa": "/ˈmæstɚ/",
+          "pos": "verb",
+          "definition": "To learn something very well.",
+          "example": "I want to master English.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "learn from experience",
+          "ipa": "/lɝn frʌm ɪkˈspɪriəns/",
+          "pos": "fixed phrase",
+          "definition": "To get better by doing things.",
+          "example": "I learn from experience every day.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "keep practicing",
+          "ipa": "/kip ˈpræktɪsɪŋ/",
+          "pos": "fixed phrase",
+          "definition": "To practice again and again.",
+          "example": "Keep practicing every day.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "book",
+        "school",
+        "teacher",
+        "lesson",
+        "class"
+      ],
+      "mainWord": {
+        "word": "talented",
+        "ipa": "/ˈtæləntɪd/",
+        "pos": "adjective",
+        "definition": "With a natural gift for something.",
+        "example": "He is a talented singer.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Talented is an adjective. Talented means with a natural gift for something. He is a talented singer.",
+      "pronunciationTarget": {
+        "word": "talented",
+        "ipa": "/ˈtæləntɪd/"
+      },
+      "expression": "I learn from experience every day.",
+      "use": "Use this when you talk about learning by doing things.",
+      "expressionTask": "Tom and Lily talk about learning a new skill. What do they say?",
+      "grammar": "comparatives: Practice is better than talent",
+      "pattern": "Practice is better than talent.",
+      "task": "Practice is ___ than talent.",
+      "answer": "better",
+      "example": "Practice is better than talent.",
+      "context": [
+        "Tom and Lily talk about learning a new skill.",
+        "Tom says, 'I learn from experience every day. I keep practicing every day.'"
+      ],
+      "dialogue": [
+        "Lily, what is a talented singer?",
+        "He is a talented singer. He has a gift for music.",
+        "How do you develop your skills?",
+        "I develop my skills every day. I learn from experience.",
+        "Do you want to master English?",
+        "Yes. I want to master English. I keep practicing every day."
+      ],
+      "listening": "Tom and Lily talk about learning a new skill. Tom says, 'I learn from experience every day. I keep practicing every day.' Lily says, 'What is a talented singer?' Tom says, 'He is a talented singer.' Lily says, 'How do you develop your skills?' Tom says, 'I develop my skills every day.'",
+      "question": "How does Tom learn?",
+      "correct": "From experience",
+      "other": "From a book",
+      "reading": "On Tuesday, Tom and Lily talk about learning a new skill. Tom says, 'I learn from experience every day. I keep practicing every day. Practice is better than talent.' Lily says, 'What is a talented singer?' Tom says, 'He is a talented singer. A talented person has a gift. I develop my skills every day. To develop is to grow and get better.' Lily says, 'Do you want to master English?' Tom says, 'Yes. I want to master English. I keep practicing and I get better. Learning a new skill is fun for all of us. Tom likes English very much. Lily likes English too. They speak English every day at school together.'",
+      "readingQ": "How does Tom learn?",
+      "readingA": "From experience.",
+      "speaking": "Tell a friend about learning a new skill. What do you say?",
+      "speakingSample": "I talk about learning a new skill with my friend Tom. I learn from experience every day. I keep practicing every day. He is a talented singer. I develop my skills every day. I want to master English. Practice is better than talent. I like learning a new skill very much.",
+      "writing": "Write a short email to a friend about learning a new skill. Say what you do.",
+      "writingSample": "Dear Anna, I want to tell you about learning a new skill. I learn from experience every day. I keep practicing every day. He is a talented singer. I develop my skills every day. I want to master English. Practice is better than talent. I like learning a new skill very much. It is fun to learn. Learning is fun for all of us. See you soon. Best, Lily",
+      "sound": "Talented has its strongest beat on TAL. In talented, say TAL clearly at the start. In develop, say VEL clearly in the middle.",
+      "model": "He is a talented singer.",
+      "wordTask": "What does talented mean?",
+      "wordSample": "With a natural gift for something."
+    },
+    {
+      "unit": 23,
+      "day": 179,
+      "title": "Setting goals",
+      "goal": "I can talk about setting goals.",
+      "newItems": [
+        {
+          "word": "determination",
+          "ipa": "/dɪˌtɝmɪˈneɪʃən/",
+          "pos": "noun",
+          "definition": "A strong will to do something.",
+          "example": "Her determination helps her win.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "achieve",
+          "ipa": "/əˈtʃiv/",
+          "pos": "verb",
+          "definition": "To do well and reach a goal.",
+          "example": "I want to achieve my dream.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "set your sights on",
+          "ipa": "/sɛt jɔr saɪts ɑn/",
+          "pos": "fixed phrase",
+          "definition": "To choose a goal to work for.",
+          "example": "I set my sights on a new job.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "start small",
+          "ipa": "/stɑrt smɔl/",
+          "pos": "fixed phrase",
+          "definition": "To begin with a small thing.",
+          "example": "Start small and grow big.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "keep at it",
+          "ipa": "/kip æt ɪt/",
+          "pos": "fixed phrase",
+          "definition": "To not stop doing something.",
+          "example": "Keep at it and you will win.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "new",
+        "big",
+        "small",
+        "good",
+        "great"
+      ],
+      "mainWord": {
+        "word": "determination",
+        "ipa": "/dɪˌtɝmɪˈneɪʃən/",
+        "pos": "noun",
+        "definition": "A strong will to do something.",
+        "example": "Her determination helps her win.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Determination is a noun. Determination means a strong will to do something. Her determination helps her win.",
+      "pronunciationTarget": {
+        "word": "determination",
+        "ipa": "/dɪˌtɝmɪˈneɪʃən/"
+      },
+      "expression": "I set my sights on a new job.",
+      "use": "Use this when you talk about choosing a goal.",
+      "expressionTask": "Tom and Lily talk about setting goals. What do they say?",
+      "grammar": "past simple for goal stories: I set a goal last year",
+      "pattern": "I set a goal last year.",
+      "task": "I ___ a goal last year.",
+      "answer": "set",
+      "example": "I set a goal last year.",
+      "context": [
+        "Tom and Lily talk about setting goals.",
+        "Tom says, 'I set my sights on a new job. Start small and grow big.'"
+      ],
+      "dialogue": [
+        "Lily, what is determination?",
+        "It is a strong will to do something. Her determination helps her win.",
+        "Do you want to achieve your dream?",
+        "Yes. I want to achieve my dream. I set my sights on a new job.",
+        "How do you start?",
+        "Start small and grow big. Keep at it and you will win."
+      ],
+      "listening": "Tom and Lily talk about setting goals. Tom says, 'I set my sights on a new job. Start small and grow big.' Lily says, 'What is determination?' Tom says, 'It is a strong will to do something.' Lily says, 'Do you want to achieve your dream?' Tom says, 'Yes. I want to achieve my dream.'",
+      "question": "What does Tom set his sights on?",
+      "correct": "A new job",
+      "other": "A new car",
+      "reading": "On Wednesday, Tom and Lily talk about setting goals. Tom says, 'I set my sights on a new job. Start small and grow big. I set a goal last year.' Lily says, 'What is determination?' Tom says, 'It is a strong will to do something. Her determination helps her win. Determination is a strong will.' Lily says, 'Do you want to achieve your dream?' Tom says, 'Yes. I want to achieve my dream. To achieve is to do well and reach a goal. Keep at it and you will win. Setting goals is good for all of us. Tom and Lily are good friends. They help each other every day at school.'",
+      "readingQ": "What does Tom set his sights on?",
+      "readingA": "A new job.",
+      "speaking": "Tell a friend about setting goals. What do you say?",
+      "speakingSample": "I talk about setting goals with my friend Tom. I set my sights on a new job. Start small and grow big. I set a goal last year. Her determination helps her win. I want to achieve my dream. Keep at it and you will win. I like setting goals.",
+      "writing": "Write a short email to a friend about setting goals. Say what you do.",
+      "writingSample": "Dear Anna, I want to tell you about setting goals. I set my sights on a new job. Start small and grow big. I set a goal last year. Her determination helps her win. I want to achieve my dream. Keep at it and you will win. Setting goals is good for all of us. I like goals very much. See you soon. Best, Lily",
+      "sound": "Determination has its strongest beat on NATION. In determination, say NATION clearly at the end. In achieve, say CHIEVE clearly at the end.",
+      "model": "Her determination helps her win.",
+      "wordTask": "What is determination?",
+      "wordSample": "A strong will to do something."
+    },
+    {
+      "unit": 23,
+      "day": 180,
+      "title": "Making a plan",
+      "goal": "I can talk about making a plan.",
+      "newItems": [
+        {
+          "word": "discipline",
+          "ipa": "/ˈdɪsəplɪn/",
+          "pos": "noun",
+          "definition": "Control of what you do every day.",
+          "example": "Good discipline helps me study.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "commit",
+          "ipa": "/kəˈmɪt/",
+          "pos": "verb",
+          "definition": "To say you will do something and do it.",
+          "example": "I commit to study every day.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "manage",
+          "ipa": "/ˈmænɪdʒ/",
+          "pos": "verb",
+          "definition": "To control your time or your work well.",
+          "example": "I manage my time every day.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "follow through",
+          "ipa": "/ˈfɑloʊ θru/",
+          "pos": "fixed phrase",
+          "definition": "To finish what you start.",
+          "example": "Follow through and finish the course.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "one day at a time",
+          "ipa": "/wʌn deɪ æt ə taɪm/",
+          "pos": "fixed phrase",
+          "definition": "Slowly, one day after another.",
+          "example": "Take it one day at a time.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "make",
+        "take",
+        "time",
+        "day",
+        "week"
+      ],
+      "mainWord": {
+        "word": "discipline",
+        "ipa": "/ˈdɪsəplɪn/",
+        "pos": "noun",
+        "definition": "Control of what you do every day.",
+        "example": "Good discipline helps me study.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Discipline is a noun. Discipline means control of what you do every day. Good discipline helps me study.",
+      "pronunciationTarget": {
+        "word": "discipline",
+        "ipa": "/ˈdɪsəplɪn/"
+      },
+      "expression": "I follow through and finish the course.",
+      "use": "Use this when you talk about finishing what you start.",
+      "expressionTask": "Tom and Lily talk about making a plan. What do they say?",
+      "grammar": "present continuous for plans: I am working on my plan today",
+      "pattern": "I am working on my plan today.",
+      "task": "I am ___ on my plan today.",
+      "answer": "working",
+      "example": "I am working on my plan today.",
+      "context": [
+        "Tom and Lily talk about making a plan.",
+        "Tom says, 'I follow through and finish the course. Take it one day at a time.'"
+      ],
+      "dialogue": [
+        "Lily, what is discipline?",
+        "It is control of what you do every day. Good discipline helps me study.",
+        "Do you commit to study every day?",
+        "Yes. I commit to study every day. I follow through and finish the course.",
+        "How do you manage your time?",
+        "I manage my time every day. Take it one day at a time."
+      ],
+      "listening": "Tom and Lily talk about making a plan. Tom says, 'I follow through and finish the course. Take it one day at a time.' Lily says, 'What is discipline?' Tom says, 'It is control of what you do every day.' Lily says, 'Do you commit to study every day?' Tom says, 'Yes, I do.'",
+      "question": "What does Tom follow through and finish?",
+      "correct": "The course",
+      "other": "The book",
+      "reading": "On Thursday, Tom and Lily talk about making a plan. Tom says, 'I follow through and finish the course. Take it one day at a time. I am working on my plan today.' Lily says, 'What is discipline?' Tom says, 'It is control of what you do every day. Good discipline helps me study. Discipline is good for us.' Lily says, 'Do you commit to study every day?' Tom says, 'Yes. I commit to study every day. To commit is to say you will do something and do it. I manage my time every day. Making a plan is good for all of us. Tom and Lily are good friends. They make a plan every week.'",
+      "readingQ": "What does Tom follow through and finish?",
+      "readingA": "The course.",
+      "speaking": "Tell a friend about making a plan. What do you say?",
+      "speakingSample": "I talk about making a plan with my friend Tom. I follow through and finish the course. Take it one day at a time. I am working on my plan today. Good discipline helps me study. I commit to study every day. I manage my time every day. I like making a plan.",
+      "writing": "Write a short email to a friend about making a plan. Say what you do.",
+      "writingSample": "Dear Anna, I want to tell you about making a plan. I follow through and finish the course. Take it one day at a time. I am working on my plan today. Good discipline helps me study. I commit to study every day. I manage my time every day. Making a plan is good for all of us. I like plans very much. See you soon. Best, Lily",
+      "sound": "Discipline has its strongest beat on DIS. In discipline, say DIS clearly at the start. In commit, say MIT clearly at the end.",
+      "model": "Good discipline helps me study.",
+      "wordTask": "What is discipline?",
+      "wordSample": "Control of what you do every day."
+    },
+    {
+      "unit": 23,
+      "day": 181,
+      "title": "Working towards a goal",
+      "goal": "I can talk about working towards a goal.",
+      "newItems": [
+        {
+          "word": "motivation",
+          "ipa": "/ˌmoʊtɪˈveɪʃən/",
+          "pos": "noun",
+          "definition": "A reason to do something.",
+          "example": "My dream is my motivation.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "persist",
+          "ipa": "/pɚˈsɪst/",
+          "pos": "verb",
+          "definition": "To keep doing something even when it is hard.",
+          "example": "I persist and do not give up.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "stay motivated",
+          "ipa": "/steɪ ˈmoʊtɪˌveɪtɪd/",
+          "pos": "fixed phrase",
+          "definition": "To keep a strong reason to do something.",
+          "example": "Stay motivated and keep going.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "put in the effort",
+          "ipa": "/pʊt ɪn ði ˈɛfɚt/",
+          "pos": "fixed phrase",
+          "definition": "To work hard at something.",
+          "example": "Put in the effort every day.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "give it a try",
+          "ipa": "/ɡɪv ɪt ə traɪ/",
+          "pos": "fixed phrase",
+          "definition": "To try something new.",
+          "example": "Give it a try and speak English.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "work",
+        "help",
+        "try",
+        "play",
+        "read"
+      ],
+      "mainWord": {
+        "word": "motivation",
+        "ipa": "/ˌmoʊtɪˈveɪʃən/",
+        "pos": "noun",
+        "definition": "A reason to do something.",
+        "example": "My dream is my motivation.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Motivation is a noun. Motivation means a reason to do something. My dream is my motivation.",
+      "pronunciationTarget": {
+        "word": "motivation",
+        "ipa": "/ˌmoʊtɪˈveɪʃən/"
+      },
+      "expression": "I put in the effort every day.",
+      "use": "Use this when you talk about working hard.",
+      "expressionTask": "Tom and Lily talk about working towards a goal. What do they say?",
+      "grammar": "will for the future: I will reach my goal",
+      "pattern": "I will reach my goal.",
+      "task": "I ___ reach my goal.",
+      "answer": "will",
+      "example": "I will reach my goal.",
+      "context": [
+        "Tom and Lily talk about working towards a goal.",
+        "Tom says, 'I put in the effort every day. Give it a try and speak English.'"
+      ],
+      "dialogue": [
+        "Lily, what is motivation?",
+        "It is a reason to do something. My dream is my motivation.",
+        "Do you persist when it is hard?",
+        "Yes. I persist and do not give up. I put in the effort every day.",
+        "How do you stay motivated?",
+        "Stay motivated and keep going. Give it a try and speak English."
+      ],
+      "listening": "Tom and Lily talk about working towards a goal. Tom says, 'I put in the effort every day. Give it a try and speak English.' Lily says, 'What is motivation?' Tom says, 'It is a reason to do something.' Lily says, 'Do you persist when it is hard?' Tom says, 'Yes, I do.'",
+      "question": "What does Tom put in every day?",
+      "correct": "The effort",
+      "other": "The book",
+      "reading": "On Friday, Tom and Lily talk about working towards a goal. Tom says, 'I put in the effort every day. Give it a try and speak English. I will reach my goal.' Lily says, 'What is motivation?' Tom says, 'It is a reason to do something. My dream is my motivation. Motivation is a good thing.' Lily says, 'Do you persist when it is hard?' Tom says, 'Yes. I persist and do not give up. To persist is to keep doing something even when it is hard. Stay motivated and keep going. Working towards a goal is good for all of us. Tom and Lily are good friends. They work hard every day at school.'",
+      "readingQ": "What does Tom put in every day?",
+      "readingA": "The effort.",
+      "speaking": "Tell a friend about working towards a goal. What do you say?",
+      "speakingSample": "I talk about working towards a goal with my friend Tom. I put in the effort every day. Give it a try and speak English. I will reach my goal. My dream is my motivation. I persist and do not give up. Stay motivated and keep going. I like working towards a goal.",
+      "writing": "Write a short email to a friend about working towards a goal. Say what you do.",
+      "writingSample": "Dear Anna, I want to tell you about working towards a goal. I put in the effort every day. Give it a try and speak English. I will reach my goal. My dream is my motivation. I persist and do not give up. Stay motivated and keep going. Working towards a goal is good for all of us. I like goals very much. See you soon. Best, Lily",
+      "sound": "Motivation has its strongest beat on VATION. In motivation, say VATION clearly at the end. In persist, say SIST clearly at the end.",
+      "model": "My dream is my motivation.",
+      "wordTask": "What is motivation?",
+      "wordSample": "A reason to do something."
+    },
+    {
+      "unit": 23,
+      "day": 182,
+      "title": "Problems and progress",
+      "goal": "I can talk about problems and progress.",
+      "newItems": [
+        {
+          "word": "failure",
+          "ipa": "/ˈfeɪljɚ/",
+          "pos": "noun",
+          "definition": "Not doing well at something.",
+          "example": "A failure can teach us a lot.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "overcome",
+          "ipa": "/ˌoʊvɚˈkʌm/",
+          "pos": "verb",
+          "definition": "To win against a problem.",
+          "example": "I overcome my fear of speaking.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "challenge",
+          "ipa": "/ˈtʃæləndʒ/",
+          "pos": "noun",
+          "definition": "Something hard that tests you.",
+          "example": "Learning a language is a challenge.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "a work in progress",
+          "ipa": "/ə wɝk ɪn ˈprɑɡrɛs/",
+          "pos": "fixed phrase",
+          "definition": "Something not finished yet.",
+          "example": "My English is a work in progress.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "slow and steady",
+          "ipa": "/sloʊ ənd ˈstɛdi/",
+          "pos": "fixed phrase",
+          "definition": "Not fast, but always going on.",
+          "example": "Slow and steady wins the race.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "hard",
+        "easy",
+        "happy",
+        "kind",
+        "brave"
+      ],
+      "mainWord": {
+        "word": "failure",
+        "ipa": "/ˈfeɪljɚ/",
+        "pos": "noun",
+        "definition": "Not doing well at something.",
+        "example": "A failure can teach us a lot.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Failure is a noun. Failure means not doing well at something. A failure can teach us a lot.",
+      "pronunciationTarget": {
+        "word": "failure",
+        "ipa": "/ˈfeɪljɚ/"
+      },
+      "expression": "My English is a work in progress.",
+      "use": "Use this when you talk about something not finished yet.",
+      "expressionTask": "Tom and Lily talk about problems and progress. What do they say?",
+      "grammar": "should and shouldn't for advice: You should keep trying",
+      "pattern": "You should keep trying.",
+      "task": "You ___ keep trying.",
+      "answer": "should",
+      "example": "You should keep trying.",
+      "context": [
+        "Tom and Lily talk about problems and progress.",
+        "Tom says, 'My English is a work in progress. Slow and steady wins the race.'"
+      ],
+      "dialogue": [
+        "Lily, what is a failure?",
+        "It is not doing well at something. A failure can teach us a lot.",
+        "How do you overcome your fear?",
+        "I overcome my fear of speaking. My English is a work in progress.",
+        "Is learning a language a challenge?",
+        "Yes. Learning a language is a challenge. Slow and steady wins the race."
+      ],
+      "listening": "Tom and Lily talk about problems and progress. Tom says, 'My English is a work in progress. Slow and steady wins the race.' Lily says, 'What is a failure?' Tom says, 'It is not doing well at something.' Lily says, 'How do you overcome your fear?' Tom says, 'I overcome my fear of speaking.'",
+      "question": "What is Tom's English?",
+      "correct": "A work in progress",
+      "other": "A big book",
+      "reading": "On Saturday, Tom and Lily talk about problems and progress. Tom says, 'My English is a work in progress. Slow and steady wins the race. You should keep trying.' Lily says, 'What is a failure?' Tom says, 'It is not doing well at something. A failure can teach us a lot. Failure is a good teacher.' Lily says, 'How do you overcome your fear?' Tom says, 'I overcome my fear of speaking. To overcome is to win against a problem. Learning a language is a challenge. Problems and progress go together for all of us. Tom and Lily are good friends. They help each other learn and grow every day at school.'",
+      "readingQ": "What is Tom's English?",
+      "readingA": "A work in progress.",
+      "speaking": "Tell a friend about problems and progress. What do you say?",
+      "speakingSample": "I talk about problems and progress with my friend Tom. My English is a work in progress. Slow and steady wins the race. You should keep trying. A failure can teach us a lot. I overcome my fear of speaking. Learning a language is a challenge. I like problems and progress.",
+      "writing": "Write a short email to a friend about problems and progress. Say what you think.",
+      "writingSample": "Dear Anna, I want to tell you about problems and progress. My English is a work in progress. Slow and steady wins the race. You should keep trying. A failure can teach us a lot. I overcome my fear of speaking. Learning a language is a challenge. Problems and progress go together for all of us. I like learning very much. See you soon. Best, Lily",
+      "sound": "Failure has its strongest beat on FAIL. In failure, say FAIL clearly at the start. In overcome, say COME clearly in the middle.",
+      "model": "A failure can teach us a lot.",
+      "wordTask": "What is a failure?",
+      "wordSample": "Not doing well at something."
+    },
+    {
+      "unit": 23,
+      "day": 183,
+      "title": "Looking back and moving on",
+      "goal": "I can talk about looking back and moving on.",
+      "newItems": [
+        {
+          "word": "measure",
+          "ipa": "/ˈmɛʒɚ/",
+          "pos": "verb",
+          "definition": "To find out how big or how good something is.",
+          "example": "I measure my progress in English.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "reward",
+          "ipa": "/rɪˈwɔrd/",
+          "pos": "noun",
+          "definition": "Something good you get for doing well.",
+          "example": "A good book is my reward.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "by leaps and bounds",
+          "ipa": "/baɪ lips ənd baʊndz/",
+          "pos": "fixed phrase",
+          "definition": "Very fast and very well.",
+          "example": "My English grows by leaps and bounds.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "hard work pays off",
+          "ipa": "/hɑrd wɝk peɪz ɔf/",
+          "pos": "fixed phrase",
+          "definition": "Hard work brings good results.",
+          "example": "Hard work pays off in the end.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "believe in yourself",
+          "ipa": "/bɪˈliv ɪn jɔrˈsɛlf/",
+          "pos": "fixed phrase",
+          "definition": "To think you can do something well.",
+          "example": "Believe in yourself and speak.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "life",
+        "year",
+        "month",
+        "today",
+        "together"
+      ],
+      "mainWord": {
+        "word": "measure",
+        "ipa": "/ˈmɛʒɚ/",
+        "pos": "verb",
+        "definition": "To find out how big or how good something is.",
+        "example": "I measure my progress in English.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Measure is a verb. Measure means to find out how big or how good something is. I measure my progress in English.",
+      "pronunciationTarget": {
+        "word": "measure",
+        "ipa": "/ˈmɛʒɚ/"
+      },
+      "expression": "Hard work pays off in the end.",
+      "use": "Use this when you talk about good results from hard work.",
+      "expressionTask": "Tom and Lily talk about looking back and moving on. What do they say?",
+      "grammar": "present perfect for experiences: I have learned a lot this year",
+      "pattern": "I have learned a lot this year.",
+      "task": "I have ___ a lot this year.",
+      "answer": "learned",
+      "example": "I have learned a lot this year.",
+      "context": [
+        "Tom and Lily talk about looking back and moving on.",
+        "Tom says, 'Hard work pays off in the end. My English grows by leaps and bounds.'"
+      ],
+      "dialogue": [
+        "Lily, what does measure mean?",
+        "It means to find out how big or how good something is. I measure my progress in English.",
+        "What is your reward?",
+        "A good book is my reward. Hard work pays off in the end.",
+        "Do you believe in yourself?",
+        "Yes. Believe in yourself and speak. My English grows by leaps and bounds."
+      ],
+      "listening": "Tom and Lily talk about looking back and moving on. Tom says, 'Hard work pays off in the end. My English grows by leaps and bounds.' Lily says, 'What does measure mean?' Tom says, 'It means to find out how good something is.' Lily says, 'What is your reward?' Tom says, 'A good book.'",
+      "question": "What does Tom measure?",
+      "correct": "His progress in English",
+      "other": "His new book",
+      "reading": "On Sunday, Tom and Lily talk about looking back and moving on. Tom says, 'Hard work pays off in the end. My English grows by leaps and bounds. I have learned a lot this year.' Lily says, 'What does measure mean?' Tom says, 'It means to find out how big or how good something is. I measure my progress in English. To measure is to find out how good something is.' Lily says, 'What is your reward?' Tom says, 'A good book is my reward. A reward is something good you get for doing well. Believe in yourself and speak. Looking back is good for all of us. Tom and Lily are good friends.'",
+      "readingQ": "What does Tom measure?",
+      "readingA": "His progress in English.",
+      "speaking": "Tell a friend about looking back and moving on. What do you say?",
+      "speakingSample": "I talk about looking back and moving on with my friend Tom. Hard work pays off in the end. My English grows by leaps and bounds. I have learned a lot this year. I measure my progress in English. A good book is my reward. Believe in yourself and speak. I like looking back.",
+      "writing": "Write a short email to a friend about looking back and moving on. Say what you think.",
+      "writingSample": "Dear Anna, I want to tell you about looking back and moving on. Hard work pays off in the end. My English grows by leaps and bounds. I have learned a lot this year. I measure my progress in English. A good book is my reward. Believe in yourself and speak. Looking back is good for all of us. I like learning very much. See you soon. Best, Lily",
+      "sound": "Measure has its strongest beat on MEAS. In measure, say MEAS clearly at the start. In reward, say WARD clearly at the end.",
+      "model": "I measure my progress in English.",
+      "wordTask": "What does measure mean?",
+      "wordSample": "To find out how big or how good something is."
+    },
+    {
+      "unit": 23,
+      "day": 184,
+      "title": "Use skills and goals English in a new situation",
+      "goal": "I can use skills and goals English in a new situation.",
+      "newItems": [
+        {
+          "word": "consistent",
+          "ipa": "/kənˈsɪstənt/",
+          "pos": "adjective",
+          "definition": "Doing the same good thing again and again.",
+          "example": "I am consistent in my study.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "organized",
+          "ipa": "/ˈɔrɡəˌnaɪzd/",
+          "pos": "adjective",
+          "definition": "With a good plan and order.",
+          "example": "She is organized and never late.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "creative",
+          "ipa": "/kriˈeɪtɪv/",
+          "pos": "adjective",
+          "definition": "Good at making new things and ideas.",
+          "example": "She is creative in her writing.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "take it step by step",
+          "ipa": "/teɪk ɪt stɛp baɪ stɛp/",
+          "pos": "fixed phrase",
+          "definition": "To do something slowly, one part at a time.",
+          "example": "Take it step by step and you will win.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "never give up",
+          "ipa": "/ˈnɛvɚ ɡɪv ʌp/",
+          "pos": "fixed phrase",
+          "definition": "To keep trying and not stop.",
+          "example": "Never give up on your dream.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "friend",
+        "family",
+        "home",
+        "love",
+        "fun"
+      ],
+      "mainWord": {
+        "word": "consistent",
+        "ipa": "/kənˈsɪstənt/",
+        "pos": "adjective",
+        "definition": "Doing the same good thing again and again.",
+        "example": "I am consistent in my study.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Consistent is an adjective. Consistent means doing the same good thing again and again. I am consistent in my study.",
+      "pronunciationTarget": {
+        "word": "consistent",
+        "ipa": "/kənˈsɪstənt/"
+      },
+      "expression": "I can use skills and goals English in a new situation.",
+      "use": "Use this when you talk about using English in a new place.",
+      "expressionTask": "Emma talks about skills and goals English. What does she say?",
+      "grammar": "review: skills and goals English",
+      "pattern": "I can use skills and goals English in a new situation.",
+      "task": "I can use skills and goals English in a new ___.",
+      "answer": "situation",
+      "example": "I can use skills and goals English in a new situation.",
+      "context": [
+        "Emma talks about skills and goals English with her mother.",
+        "Emma says, 'I can use skills and goals English in a new situation. Take it step by step and you will win.'"
+      ],
+      "dialogue": [
+        "Emma, what does consistent mean?",
+        "It means doing the same good thing again and again. I am consistent in my study.",
+        "Are you organized?",
+        "Yes. She is organized and never late. Take it step by step and you will win.",
+        "Are you creative in your writing?",
+        "Yes. She is creative in her writing. Never give up on your dream."
+      ],
+      "listening": "Emma talks about skills and goals English. Emma says, 'I can use skills and goals English in a new situation. Take it step by step and you will win.' Her mother says, 'What does consistent mean?' Emma says, 'It means doing the same good thing.' Her mother says, 'Are you?' Emma says, 'Yes, I am.'",
+      "question": "What does consistent mean?",
+      "correct": "Doing the same good thing again and again",
+      "other": "Doing a new thing every day",
+      "reading": "On Tuesday, Emma talks about skills and goals English with her mother. Emma says, 'I can use skills and goals English in a new situation. Take it step by step and you will win. Never give up on your dream.' Her mother says, 'What does consistent mean?' Emma says, 'It means doing the same good thing again and again. I am consistent in my study. Consistent is a good word.' Her mother says, 'Are you organized?' Emma says, 'Yes. She is organized and never late. To be organized is to have a good plan and order.' Her mother says, 'Are you creative in your writing?' Emma says, 'Yes. She is creative in her writing. Today I can use skills and goals English in a new situation.'",
+      "readingQ": "What does consistent mean?",
+      "readingA": "Doing the same good thing again and again.",
+      "speaking": "Tell a friend about skills and goals English. What do you say?",
+      "speakingSample": "I talk about skills and goals English with my friend Emma. I can use skills and goals English in a new situation. Take it step by step and you will win. Never give up on your dream. I am consistent in my study. She is organized and never late. She is creative in her writing. I like it.",
+      "writing": "Write a short email to a friend about skills and goals English. Say what skills and goals English means to you.",
+      "writingSample": "Dear Anna, I want to tell you about skills and goals English. I can use skills and goals English in a new situation. Take it step by step and you will win. Never give up on your dream. I am consistent in my study. She is organized and never late. She is creative in her writing. I like skills and goals English very much. It is fun to learn. See you soon. Best, Emma",
+      "sound": "Consistent has its strongest beat on SIST. In consistent, say SIST clearly in the middle. In organized, say GAN clearly in the middle.",
+      "model": "I am consistent in my study.",
+      "wordTask": "What does consistent mean?",
+      "wordSample": "Doing the same good thing again and again.",
+      "transferCheck": {
+        "source": "On Tuesday, Emma talks about her English goals with her teacher and her friend Sara. Emma says, 'I can use skills and goals English in a new situation. Take it step by step and you will win.' Sara says, 'Yes. What can we do?' Emma says, 'We can take it step by step. Never give up on your dream.' Her teacher says, 'Good. You use skills and goals English well.'",
+        "dictation": "I can use skills and goals English in a new situation.",
+        "answer": "1. Emma talks about her English goals with her teacher and her friend Sara. She talks about skills and goals English. 2. Emma's first job is to say she can use skills and goals English in a new situation. 3. On Tuesday, Emma says, 'I can use skills and goals English in a new situation.' 4. I can use skills and goals English in a new situation. 5. Sample: On Tuesday, Emma talks about her English goals with her teacher and her friend Sara. Emma says, 'I can use skills and goals English in a new situation. Take it step by step and you will win.' Sara says, 'Yes. What can we do?' Emma says, 'We can take it step by step. Never give up on your dream.' Her teacher says, 'Good. You use skills and goals English well.' Follow-up: What can Emma and Sara do? Take it step by step.",
+        "tasks": [
+          [
+            "1 · Identify the people and the new situation",
+            "Who does Emma meet, and what does she talk about?"
+          ],
+          [
+            "2 · Work out what Emma does first",
+            "What is Emma's first job, and what does she say?"
+          ],
+          [
+            "3 · Notice the sentence on Tuesday",
+            "What does Emma say on Tuesday?"
+          ],
+          [
+            "4 · Listen and write",
+            "Write the sentence you hear."
+          ],
+          [
+            "5 · Retell and answer",
+            "Tell the story in order, including the people, the new situation, the first talk, and the result. Then answer one follow-up question."
+          ]
+        ]
+      }
+    }
+  ]
+}

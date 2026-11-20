@@ -1,0 +1,905 @@
+{
+  "number": 26,
+  "title": "Media, news and opinions",
+  "lessons": [
+    {
+      "unit": 26,
+      "day": 201,
+      "title": "The news every day",
+      "goal": "I can talk about the news.",
+      "newItems": [
+        {
+          "word": "channel",
+          "ipa": "/ˈtʃænəl/",
+          "pos": "noun",
+          "definition": "a TV or radio station",
+          "example": "I watch this channel.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "viewer",
+          "ipa": "/ˈvjuɚ/",
+          "pos": "noun",
+          "definition": "a person who watches TV",
+          "example": "The viewer likes the show.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "watch the news",
+          "ipa": "/wɑtʃ ðə nuz/",
+          "pos": "fixed phrase",
+          "definition": "to see the news on TV",
+          "example": "I watch the news.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "follow the news",
+          "ipa": "/ˈfɑloʊ ðə nuz/",
+          "pos": "fixed phrase",
+          "definition": "to keep reading or watching the news",
+          "example": "I follow the news.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "the latest news",
+          "ipa": "/ðə ˈleɪtɪst nuz/",
+          "pos": "fixed phrase",
+          "definition": "the newest news",
+          "example": "It is the latest news.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "news",
+        "read",
+        "watch",
+        "morning",
+        "today"
+      ],
+      "mainWord": {
+        "word": "channel",
+        "ipa": "/ˈtʃænəl/",
+        "pos": "noun",
+        "definition": "a TV or radio station",
+        "example": "I watch this channel.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Channel is a noun. Channel means a TV or radio station. I watch this channel.",
+      "pronunciationTarget": {
+        "word": "channel",
+        "ipa": "/ˈtʃænəl/"
+      },
+      "expression": "I watch the news every morning.",
+      "use": "Use this when you talk about the news.",
+      "expressionTask": "Tom and Lily talk about the news. What do they say?",
+      "grammar": "present simple for news habits: I watch the news every morning",
+      "pattern": "I watch the news every morning.",
+      "task": "I ___ the news every morning.",
+      "answer": "watch",
+      "example": "I watch the news every morning.",
+      "context": [
+        "Tom and Lily talk about the news.",
+        "Tom says, 'I watch the news every morning. I follow the news on TV.'"
+      ],
+      "dialogue": [
+        "Lily, what is a channel?",
+        "It is a TV or radio station. I watch this channel.",
+        "What is a viewer?",
+        "It is a person who watches TV. The viewer likes the show.",
+        "Do you watch the news?",
+        "Yes. I watch the news every morning. I follow the news."
+      ],
+      "listening": "Tom and Lily talk about the news. Tom says, 'I watch the news every morning. I follow the news on TV.' Lily says, 'What is a channel?' Tom says, 'It is a TV or radio station.' Lily says, 'What is a viewer?' Tom says, 'It is a person who watches TV.'",
+      "question": "What do Tom and Lily talk about?",
+      "correct": "The news",
+      "other": "Music",
+      "reading": "On Monday, Tom and Lily talk about the news. Tom says, 'I watch the news every morning. I follow the news on TV. This is the latest news today.' Lily says, 'What is a channel?' Tom says, 'It is a TV or radio station. I watch this channel every day. A channel has many shows.' Lily says, 'What is a viewer?' Tom says, 'It is a person who watches TV. The viewer likes the show. I like the news. We watch the news with our friends. I follow the news every day. This is the latest news for us. A viewer can watch the news in the morning. I watch the news and I learn new things.'",
+      "readingQ": "What do Tom and Lily talk about?",
+      "readingA": "The news.",
+      "speaking": "Tell a friend about the news. What do you say?",
+      "speakingSample": "I talk about the news with my friend Tom. I watch the news every morning. I follow the news on TV. This is the latest news today. I watch this channel every day. The viewer likes the show. I like the news very much. We watch the news with our friends.",
+      "writing": "Write a short email to a friend about the news. Say what you do.",
+      "writingSample": "Dear Anna, I want to tell you about the news. I watch the news every morning. I follow the news on TV. This is the latest news today. I watch this channel every day. The viewer likes the show. I like the news very much. We watch the news with our friends. The news is good for all of us. See you soon. Best, Lily",
+      "sound": "Channel has its strongest beat on CHAN. In channel, say CHAN clearly at the start. In viewer, say VIEW clearly at the start.",
+      "model": "I watch this channel.",
+      "wordTask": "What is a channel?",
+      "wordSample": "A TV or radio station."
+    },
+    {
+      "unit": 26,
+      "day": 202,
+      "title": "Radio and TV shows",
+      "goal": "I can talk about radio and TV shows.",
+      "newItems": [
+        {
+          "word": "podcast",
+          "ipa": "/ˈpɑdˌkæst/",
+          "pos": "noun",
+          "definition": "a sound show you can listen to on the internet",
+          "example": "I listen to a podcast.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "episode",
+          "ipa": "/ˈɛpəˌsoʊd/",
+          "pos": "noun",
+          "definition": "one part of a TV or podcast show",
+          "example": "I watch a new episode.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "listen to the radio",
+          "ipa": "/ˈlɪsən tu ðə ˈreɪdioʊ/",
+          "pos": "fixed phrase",
+          "definition": "to hear a radio show",
+          "example": "I listen to the radio.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "turn on the TV",
+          "ipa": "/tɝn ɔn ðə ˈtivi/",
+          "pos": "fixed phrase",
+          "definition": "to make the TV start",
+          "example": "Turn on the TV.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "turn off the TV",
+          "ipa": "/tɝn ɔf ðə ˈtivi/",
+          "pos": "fixed phrase",
+          "definition": "to make the TV stop",
+          "example": "Turn off the TV.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "listen",
+        "radio",
+        "night",
+        "good",
+        "show"
+      ],
+      "mainWord": {
+        "word": "podcast",
+        "ipa": "/ˈpɑdˌkæst/",
+        "pos": "noun",
+        "definition": "a sound show you can listen to on the internet",
+        "example": "I listen to a podcast.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Podcast is a noun. Podcast means a sound show you can listen to on the internet. I listen to a podcast.",
+      "pronunciationTarget": {
+        "word": "podcast",
+        "ipa": "/ˈpɑdˌkæst/"
+      },
+      "expression": "I listen to the radio every night.",
+      "use": "Use this when you talk about radio and TV.",
+      "expressionTask": "Tom and Lily talk about radio and TV shows. What do they say?",
+      "grammar": "past simple for shows: We listened to the radio last night",
+      "pattern": "We listened to the radio last night.",
+      "task": "We ___ to the radio last night.",
+      "answer": "listened",
+      "example": "We listened to the radio last night.",
+      "context": [
+        "Tom and Lily talk about radio and TV shows.",
+        "Tom says, 'I listen to the radio every night. I turn on the TV at eight.'"
+      ],
+      "dialogue": [
+        "Lily, what is a podcast?",
+        "It is a sound show on the internet. I listen to a podcast.",
+        "What is an episode?",
+        "It is one part of a TV show. I watch a new episode.",
+        "Do you listen to the radio?",
+        "Yes. I listen to the radio every night. I turn off the TV at ten."
+      ],
+      "listening": "Tom and Lily talk about radio and TV shows. Tom says, 'I listen to the radio every night. I turn on the TV at eight.' Lily says, 'What is a podcast?' Tom says, 'It is a sound show.' Lily says, 'What is an episode?' Tom says, 'It is one part of a TV show.'",
+      "question": "What does Tom do every night?",
+      "correct": "Listen to the radio",
+      "other": "Read a book",
+      "reading": "On Tuesday, Tom and Lily talk about radio and TV shows. Tom says, 'I listen to the radio every night. I turn on the TV at eight. I turn off the TV at ten. We listened to the radio last night.' Lily says, 'What is a podcast?' Tom says, 'It is a sound show on the internet. I listen to a podcast in the morning. A podcast is fun to hear.' Lily says, 'What is an episode?' Tom says, 'It is one part of a TV show. I watch a new episode every week. I like radio and TV shows. We listen to the radio with our friends. I turn on the TV at eight and I turn off the TV at ten. A new episode is on TV tonight.'",
+      "readingQ": "What does Tom do every night?",
+      "readingA": "Listen to the radio.",
+      "speaking": "Tell a friend about radio and TV shows. What do you say?",
+      "speakingSample": "I talk about radio and TV shows with my friend Tom. I listen to the radio every night. I turn on the TV at eight. I turn off the TV at ten. I listen to a podcast in the morning. I watch a new episode every week. I like radio and TV shows. We listen to the radio.",
+      "writing": "Write a short email to a friend about radio and TV shows. Say what you do.",
+      "writingSample": "Dear Anna, I want to tell you about radio and TV shows. I listen to the radio every night. I turn on the TV at eight. I turn off the TV at ten. I listen to a podcast in the morning. I watch a new episode every week. I like radio and TV shows. We listen to the radio with our friends. See you soon. Best, Lily",
+      "sound": "Podcast has its strongest beat on POD. In podcast, say POD clearly at the start. In episode, say EP clearly at the start.",
+      "model": "I listen to a podcast.",
+      "wordTask": "What is a podcast?",
+      "wordSample": "A sound show you can listen to on the internet."
+    },
+    {
+      "unit": 26,
+      "day": 203,
+      "title": "Magazines and blogs",
+      "goal": "I can talk about magazines and blogs.",
+      "newItems": [
+        {
+          "word": "series",
+          "ipa": "/ˈsɪriz/",
+          "pos": "noun",
+          "definition": "a group of shows with the same story",
+          "example": "I watch a series.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "blogger",
+          "ipa": "/ˈblɔɡɚ/",
+          "pos": "noun",
+          "definition": "a person who writes a blog on the internet",
+          "example": "He is a blogger.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "subscriber",
+          "ipa": "/səbˈskraɪbɚ/",
+          "pos": "noun",
+          "definition": "a person who pays to get a magazine or channel",
+          "example": "She is a subscriber.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "read a magazine",
+          "ipa": "/rid ə ˈmæɡəˌzin/",
+          "pos": "fixed phrase",
+          "definition": "to read a magazine",
+          "example": "I read a magazine.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "write a review",
+          "ipa": "/raɪt ə rɪˈvju/",
+          "pos": "fixed phrase",
+          "definition": "to write words that say if a film is good",
+          "example": "I write a review.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "book",
+        "story",
+        "paper",
+        "week",
+        "friend"
+      ],
+      "mainWord": {
+        "word": "series",
+        "ipa": "/ˈsɪriz/",
+        "pos": "noun",
+        "definition": "a group of shows with the same story",
+        "example": "I watch a series.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Series is a noun. Series means a group of shows with the same story. I watch a series.",
+      "pronunciationTarget": {
+        "word": "series",
+        "ipa": "/ˈsɪriz/"
+      },
+      "expression": "I read a magazine every week.",
+      "use": "Use this when you talk about magazines and blogs.",
+      "expressionTask": "Tom and Lily talk about magazines and blogs. What do they say?",
+      "grammar": "present continuous for plans: We are reading a magazine tonight",
+      "pattern": "We are reading a magazine tonight.",
+      "task": "We are ___ a magazine tonight.",
+      "answer": "reading",
+      "example": "We are reading a magazine tonight.",
+      "context": [
+        "Tom and Lily talk about magazines and blogs.",
+        "Tom says, 'I read a magazine every week. We are reading a magazine tonight.'"
+      ],
+      "dialogue": [
+        "Lily, what is a series?",
+        "It is a group of shows with the same story. I watch a series.",
+        "What is a blogger?",
+        "It is a person who writes a blog. He is a blogger.",
+        "Who is a subscriber?",
+        "She is a person who pays for a magazine. I want to write a review."
+      ],
+      "listening": "Tom and Lily talk about magazines and blogs. Tom says, 'I read a magazine every week. We are reading a magazine tonight.' Lily says, 'What is a series?' Tom says, 'It is a group of shows.' Lily says, 'What is a blogger?' Tom says, 'It is a person who writes a blog.'",
+      "question": "What does Tom read every week?",
+      "correct": "A magazine",
+      "other": "A letter",
+      "reading": "On Wednesday, Tom and Lily talk about magazines and blogs. Tom says, 'I read a magazine every week. We are reading a magazine tonight. I want to write a review of the film.' Lily says, 'What is a series?' Tom says, 'It is a group of shows with the same story. I watch a series every night. A series is fun to watch.' Lily says, 'What is a blogger?' Tom says, 'It is a person who writes a blog on the internet. He is a blogger. She is a subscriber. I like magazines and blogs. We read a magazine with our friends. I write a review every week. A subscriber pays for a magazine.'",
+      "readingQ": "What does Tom read every week?",
+      "readingA": "A magazine.",
+      "speaking": "Tell a friend about magazines and blogs. What do you say?",
+      "speakingSample": "I talk about magazines and blogs with my friend Tom. I read a magazine every week. We are reading a magazine tonight. I want to write a review of the film. I watch a series every night. He is a blogger. She is a subscriber. I like magazines and blogs very much.",
+      "writing": "Write a short email to a friend about magazines and blogs. Say what you do.",
+      "writingSample": "Dear Anna, I want to tell you about magazines and blogs. I read a magazine every week. We are reading a magazine tonight. I want to write a review of the film. I watch a series every night. He is a blogger. She is a subscriber. I like magazines and blogs very much. Magazines are good for all of us. See you soon. Best, Lily",
+      "sound": "Series has its strongest beat on SEER. In series, say SEER clearly at the start. In blogger, say BLOG clearly at the start.",
+      "model": "I watch a series.",
+      "wordTask": "What is a series?",
+      "wordSample": "A group of shows with the same story."
+    },
+    {
+      "unit": 26,
+      "day": 204,
+      "title": "TV shows and films",
+      "goal": "I can talk about TV shows and films.",
+      "newItems": [
+        {
+          "word": "thriller",
+          "ipa": "/ˈθrɪlɚ/",
+          "pos": "noun",
+          "definition": "a film or book that makes you feel excited and afraid",
+          "example": "I watch a thriller.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "horror",
+          "ipa": "/ˈhɔrɚ/",
+          "pos": "noun",
+          "definition": "a film or book that makes you feel afraid",
+          "example": "I watch a horror film.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "a talk show",
+          "ipa": "/ə tɔk ʃoʊ/",
+          "pos": "fixed phrase",
+          "definition": "a TV show where people talk",
+          "example": "It is a talk show.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "a game show",
+          "ipa": "/ə ɡeɪm ʃoʊ/",
+          "pos": "fixed phrase",
+          "definition": "a TV show where people play games",
+          "example": "It is a game show.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "watch a show",
+          "ipa": "/wɑtʃ ə ʃoʊ/",
+          "pos": "fixed phrase",
+          "definition": "to see a TV show",
+          "example": "I watch a show.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "film",
+        "music",
+        "home",
+        "time",
+        "people"
+      ],
+      "mainWord": {
+        "word": "thriller",
+        "ipa": "/ˈθrɪlɚ/",
+        "pos": "noun",
+        "definition": "a film or book that makes you feel excited and afraid",
+        "example": "I watch a thriller.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Thriller is a noun. Thriller means a film or book that makes you feel excited and afraid. I watch a thriller.",
+      "pronunciationTarget": {
+        "word": "thriller",
+        "ipa": "/ˈθrɪlɚ/"
+      },
+      "expression": "I watch a show on Sunday.",
+      "use": "Use this when you talk about TV shows and films.",
+      "expressionTask": "Tom and Lily talk about TV shows and films. What do they say?",
+      "grammar": "comparatives with than: A talk show is funnier than a game show",
+      "pattern": "A talk show is funnier than a game show.",
+      "task": "A talk show is ___ than a game show.",
+      "answer": "funnier",
+      "example": "A talk show is funnier than a game show.",
+      "context": [
+        "Tom and Lily talk about TV shows and films.",
+        "Tom says, 'I watch a show on Sunday. A talk show is funnier than a game show.'"
+      ],
+      "dialogue": [
+        "Lily, what is a thriller?",
+        "It is a film that makes you feel excited. I watch a thriller.",
+        "What is a horror film?",
+        "It is a film that makes you feel afraid. I do not like horror.",
+        "Do you watch a show?",
+        "Yes. I watch a show on Sunday. A game show is fun."
+      ],
+      "listening": "Tom and Lily talk about TV shows and films. Tom says, 'I watch a show on Sunday. A talk show is funnier than a game show.' Lily says, 'What is a thriller?' Tom says, 'It is a film.' Lily says, 'What is a horror film?' Tom says, 'It is a film.'",
+      "question": "What does Tom watch on Sunday?",
+      "correct": "A show",
+      "other": "A book",
+      "reading": "On Thursday, Tom and Lily talk about TV shows and films. Tom says, 'I watch a show on Sunday. A talk show is funnier than a game show. I watch a thriller on Friday.' Lily says, 'What is a thriller?' Tom says, 'It is a film or book that makes you feel excited and afraid. I watch a thriller every week. A thriller is fun to watch.' Lily says, 'What is a horror film?' Tom says, 'It is a film that makes you feel afraid. I do not like horror. I like TV shows and films. We watch a show with our friends. A game show is fun for us. I watch a show on Sunday with my friends.'",
+      "readingQ": "What does Tom watch on Sunday?",
+      "readingA": "A show.",
+      "speaking": "Tell a friend about TV shows and films. What do you say?",
+      "speakingSample": "I talk about TV shows and films with my friend Tom. I watch a show on Sunday. A talk show is funnier than a game show. I watch a thriller on Friday. I do not like horror. I like TV shows and films very much. We watch a show with our friends.",
+      "writing": "Write a short email to a friend about TV shows and films. Say what you do.",
+      "writingSample": "Dear Anna, I want to tell you about TV shows and films. I watch a show on Sunday. A talk show is funnier than a game show. I watch a thriller on Friday. I do not like horror. I like TV shows and films very much. We watch a show with our friends. TV shows are good for all of us. See you soon. Best, Lily",
+      "sound": "Thriller has its strongest beat on THRILL. In thriller, say THRILL clearly at the start. In horror, say HORR clearly at the start.",
+      "model": "I watch a thriller.",
+      "wordTask": "What is a thriller?",
+      "wordSample": "A film or book that makes you feel excited and afraid."
+    },
+    {
+      "unit": 26,
+      "day": 205,
+      "title": "Giving your opinion",
+      "goal": "I can give my opinion.",
+      "newItems": [
+        {
+          "word": "critic",
+          "ipa": "/ˈkrɪtɪk/",
+          "pos": "noun",
+          "definition": "a person who writes reviews of films or books",
+          "example": "The critic likes the film.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "column",
+          "ipa": "/ˈkɑləm/",
+          "pos": "noun",
+          "definition": "writing by the same person in a newspaper every week",
+          "example": "I read her column.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "trend",
+          "ipa": "/trɛnd/",
+          "pos": "noun",
+          "definition": "something many people do now",
+          "example": "It is a new trend.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "I think that",
+          "ipa": "/aɪ θɪŋk ðæt/",
+          "pos": "fixed phrase",
+          "definition": "used to give your idea about something",
+          "example": "I think that it is good.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "I believe that",
+          "ipa": "/aɪ bɪˈliv ðæt/",
+          "pos": "fixed phrase",
+          "definition": "used to say you feel something is true",
+          "example": "I believe that it is good.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "think",
+        "say",
+        "town",
+        "school",
+        "day"
+      ],
+      "mainWord": {
+        "word": "critic",
+        "ipa": "/ˈkrɪtɪk/",
+        "pos": "noun",
+        "definition": "a person who writes reviews of films or books",
+        "example": "The critic likes the film.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Critic is a noun. Critic means a person who writes reviews of films or books. The critic likes the film.",
+      "pronunciationTarget": {
+        "word": "critic",
+        "ipa": "/ˈkrɪtɪk/"
+      },
+      "expression": "I think that the film is good.",
+      "use": "Use this when you give your opinion.",
+      "expressionTask": "Tom and Lily talk about opinions. What do they say?",
+      "grammar": "that clauses for opinions: I think that the film is good",
+      "pattern": "I think that the film is good.",
+      "task": "I ___ that the film is good.",
+      "answer": "think",
+      "example": "I think that the film is good.",
+      "context": [
+        "Tom and Lily talk about opinions.",
+        "Tom says, 'I think that the film is good. I believe that it is a new trend.'"
+      ],
+      "dialogue": [
+        "Lily, what is a critic?",
+        "It is a person who writes reviews. The critic likes the film.",
+        "What is a column?",
+        "It is writing in a newspaper every week. I read her column.",
+        "What is a trend?",
+        "It is something many people do now. I think that it is a new trend."
+      ],
+      "listening": "Tom and Lily talk about opinions. Tom says, 'I think that the film is good. I believe that it is a new trend.' Lily says, 'What is a critic?' Tom says, 'It is a person who writes reviews.' Lily says, 'What is a column?' Tom says, 'It is writing in a newspaper every week.'",
+      "question": "What does Tom think about the film?",
+      "correct": "It is good",
+      "other": "It is bad",
+      "reading": "On Friday, Tom and Lily talk about opinions. Tom says, 'I think that the film is good. I believe that it is a new trend. I think that the film is fun.' Lily says, 'What is a critic?' Tom says, 'It is a person who writes reviews of films or books. The critic likes the film. A critic can write a good review.' Lily says, 'What is a column?' Tom says, 'It is writing by the same person in a newspaper every week. I read her column. I like opinions. We talk about the film with our friends. I believe that it is a new trend for us. A trend can start with one film.'",
+      "readingQ": "What does Tom think about the film?",
+      "readingA": "It is good.",
+      "speaking": "Tell a friend your opinion about a film. What do you say?",
+      "speakingSample": "I talk about my opinion with my friend Tom. I think that the film is good. I believe that it is a new trend. The critic likes the film. I read her column. I think that the film is fun. I like opinions very much. We talk about the film with our friends.",
+      "writing": "Write a short email to a friend about your opinion. Say what you think.",
+      "writingSample": "Dear Anna, I want to tell you my opinion about the film. I think that the film is good. I believe that it is a new trend. The critic likes the film. I read her column. I think that the film is fun. I like opinions very much. We talk about the film with our friends. Opinions are good for all of us. See you soon. Best, Lily",
+      "sound": "Critic has its strongest beat on CRIT. In critic, say CRIT clearly at the start. In column, say COL clearly at the start.",
+      "model": "The critic likes the film.",
+      "wordTask": "What is a critic?",
+      "wordSample": "A person who writes reviews of films or books."
+    },
+    {
+      "unit": 26,
+      "day": 206,
+      "title": "News and new films",
+      "goal": "I can talk about news and new films.",
+      "newItems": [
+        {
+          "word": "subtitle",
+          "ipa": "/ˈsʌbˌtaɪtəl/",
+          "pos": "noun",
+          "definition": "words at the bottom of a film that show what people say",
+          "example": "I read the subtitle.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "trailer",
+          "ipa": "/ˈtreɪlɚ/",
+          "pos": "noun",
+          "definition": "a short film that shows a new film",
+          "example": "I watch the trailer.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "premiere",
+          "ipa": "/prɪˈmɪr/",
+          "pos": "noun",
+          "definition": "the first show of a new film",
+          "example": "We go to the premiere.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "it seems to me",
+          "ipa": "/ɪt simz tu mi/",
+          "pos": "fixed phrase",
+          "definition": "used to give your idea in a soft way",
+          "example": "It seems to me that it is good.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "according to the news",
+          "ipa": "/əˈkɔrdɪŋ tu ðə nuz/",
+          "pos": "fixed phrase",
+          "definition": "what the news says",
+          "example": "According to the news, it will rain.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "talk",
+        "hear",
+        "write",
+        "big",
+        "small"
+      ],
+      "mainWord": {
+        "word": "subtitle",
+        "ipa": "/ˈsʌbˌtaɪtəl/",
+        "pos": "noun",
+        "definition": "words at the bottom of a film that show what people say",
+        "example": "I read the subtitle.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Subtitle is a noun. Subtitle means words at the bottom of a film that show what people say. I read the subtitle.",
+      "pronunciationTarget": {
+        "word": "subtitle",
+        "ipa": "/ˈsʌbˌtaɪtəl/"
+      },
+      "expression": "It seems to me that the film is good.",
+      "use": "Use this when you talk about a new film.",
+      "expressionTask": "Tom and Lily talk about news and new films. What do they say?",
+      "grammar": "going to for plans: We are going to watch the premiere on Friday",
+      "pattern": "We are going to watch the premiere on Friday.",
+      "task": "We are going to ___ the premiere on Friday.",
+      "answer": "watch",
+      "example": "We are going to watch the premiere on Friday.",
+      "context": [
+        "Tom and Lily talk about news and new films.",
+        "Tom says, 'It seems to me that the film is good. According to the news, it will rain on Friday.'"
+      ],
+      "dialogue": [
+        "Lily, what is a subtitle?",
+        "It is words at the bottom of a film. I read the subtitle.",
+        "What is a trailer?",
+        "It is a short film about a new film. I watch the trailer.",
+        "What is a premiere?",
+        "It is the first show of a new film. We are going to watch the premiere."
+      ],
+      "listening": "Tom and Lily talk about news and new films. Tom says, 'It seems to me that the film is good. According to the news, it will rain on Friday.' Lily says, 'What is a subtitle?' Tom says, 'It is words.' Lily says, 'What is a trailer?' Tom says, 'It is a short film.'",
+      "question": "What will happen on Friday?",
+      "correct": "Rain",
+      "other": "Snow",
+      "reading": "On Saturday, Tom and Lily talk about news and new films. Tom says, 'It seems to me that the film is good. According to the news, it will rain on Friday. We are going to watch the premiere on Friday.' Lily says, 'What is a subtitle?' Tom says, 'It is words at the bottom of a film that show what people say. I read the subtitle. A subtitle helps me a lot.' Lily says, 'What is a trailer?' Tom says, 'It is a short film that shows a new film. I watch the trailer. I like news and new films. We watch the trailer with our friends. A premiere is the first show of a new film. We are going to watch the premiere on Friday.'",
+      "readingQ": "What will happen on Friday?",
+      "readingA": "Rain.",
+      "speaking": "Tell a friend about news and new films. What do you say?",
+      "speakingSample": "I talk about news and new films with my friend Tom. It seems to me that the film is good. According to the news, it will rain on Friday. We are going to watch the premiere on Friday. I read the subtitle. I watch the trailer. I like news and new films very much.",
+      "writing": "Write a short email to a friend about news and new films. Say what you do.",
+      "writingSample": "Dear Anna, I want to tell you about news and new films. It seems to me that the film is good. According to the news, it will rain on Friday. We are going to watch the premiere on Friday. I read the subtitle. I watch the trailer. I like news and new films very much. New films are good for all of us. See you soon. Best, Lily",
+      "sound": "Subtitle has its strongest beat on SUB. In subtitle, say SUB clearly at the start. In trailer, say TRAIL clearly at the start.",
+      "model": "I read the subtitle.",
+      "wordTask": "What is a subtitle?",
+      "wordSample": "Words at the bottom of a film that show what people say."
+    },
+    {
+      "unit": 26,
+      "day": 207,
+      "title": "Famous people and awards",
+      "goal": "I can talk about famous people and awards.",
+      "newItems": [
+        {
+          "word": "celebrity",
+          "ipa": "/səˈlɛbrəti/",
+          "pos": "noun",
+          "definition": "a famous person",
+          "example": "She is a celebrity.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "anchor",
+          "ipa": "/ˈæŋkɚ/",
+          "pos": "noun",
+          "definition": "a person who reads the news on TV",
+          "example": "The anchor reads the news.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "award",
+          "ipa": "/əˈwɔrd/",
+          "pos": "noun",
+          "definition": "a prize for something good",
+          "example": "She wins an award.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "volume",
+          "ipa": "/ˈvɑljəm/",
+          "pos": "noun",
+          "definition": "how loud a sound is",
+          "example": "The volume is low.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "catch up on the news",
+          "ipa": "/kætʃ ʌp ɔn ðə nuz/",
+          "pos": "fixed phrase",
+          "definition": "to learn the news you missed",
+          "example": "I catch up on the news.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "see",
+        "ask",
+        "tell",
+        "happy",
+        "long"
+      ],
+      "mainWord": {
+        "word": "celebrity",
+        "ipa": "/səˈlɛbrəti/",
+        "pos": "noun",
+        "definition": "a famous person",
+        "example": "She is a celebrity.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Celebrity is a noun. Celebrity means a famous person. She is a celebrity.",
+      "pronunciationTarget": {
+        "word": "celebrity",
+        "ipa": "/səˈlɛbrəti/"
+      },
+      "expression": "I catch up on the news every night.",
+      "use": "Use this when you talk about famous people.",
+      "expressionTask": "Tom and Lily talk about famous people and awards. What do they say?",
+      "grammar": "present perfect for experiences: I have seen a celebrity in town",
+      "pattern": "I have seen a celebrity in town.",
+      "task": "I have ___ a celebrity in town.",
+      "answer": "seen",
+      "example": "I have seen a celebrity in town.",
+      "context": [
+        "Tom and Lily talk about famous people and awards.",
+        "Tom says, 'I catch up on the news every night. I have seen a celebrity in town.'"
+      ],
+      "dialogue": [
+        "Lily, what is a celebrity?",
+        "It is a famous person. She is a celebrity.",
+        "What is an anchor?",
+        "It is a person who reads the news on TV. The anchor reads the news.",
+        "What is an award?",
+        "It is a prize for something good. She wins an award."
+      ],
+      "listening": "Tom and Lily talk about famous people and awards. Tom says, 'I catch up on the news every night. I have seen a celebrity in town.' Lily says, 'What is a celebrity?' Tom says, 'It is a famous person.' Lily says, 'What is an anchor?' Tom says, 'It is a person who reads the news.'",
+      "question": "What does Tom do every night?",
+      "correct": "Catch up on the news",
+      "other": "Watch a film",
+      "reading": "On Sunday, Tom and Lily talk about famous people and awards. Tom says, 'I catch up on the news every night. I have seen a celebrity in town. She wins an award this year.' Lily says, 'What is a celebrity?' Tom says, 'It is a famous person. She is a celebrity. A celebrity is on TV a lot.' Lily says, 'What is an anchor?' Tom says, 'It is a person who reads the news on TV. The anchor reads the news. The volume is low. I like famous people and awards. We watch the news with our friends. She wins an award for her film. I catch up on the news every night.'",
+      "readingQ": "What does Tom do every night?",
+      "readingA": "Catch up on the news.",
+      "speaking": "Tell a friend about famous people and awards. What do you say?",
+      "speakingSample": "I talk about famous people and awards with my friend Tom. I catch up on the news every night. I have seen a celebrity in town. She wins an award this year. The anchor reads the news. The volume is low. I like famous people and awards very much. We watch the news with our friends.",
+      "writing": "Write a short email to a friend about famous people and awards. Say what you do.",
+      "writingSample": "Dear Anna, I want to tell you about famous people and awards. I catch up on the news every night. I have seen a celebrity in town. She wins an award this year. The anchor reads the news. The volume is low. I like famous people and awards very much. We watch the news with our friends. Famous people are fun for all of us. See you soon. Best, Lily",
+      "sound": "Celebrity has its strongest beat on LEB. In celebrity, say LEB clearly in the middle. In anchor, say ANK clearly at the start.",
+      "model": "She is a celebrity.",
+      "wordTask": "What is a celebrity?",
+      "wordSample": "A famous person."
+    },
+    {
+      "unit": 26,
+      "day": 208,
+      "title": "Use media English in a new situation",
+      "goal": "I can use media English in a new situation.",
+      "newItems": [
+        {
+          "word": "finale",
+          "ipa": "/fɪˈnæli/",
+          "pos": "noun",
+          "definition": "the last show of a series",
+          "example": "I watch the finale.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "hear about the film",
+          "ipa": "/hɪr əˈbaʊt ðə fɪlm/",
+          "pos": "fixed phrase",
+          "definition": "to hear what people say about a film",
+          "example": "I hear about the film.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "know the news",
+          "ipa": "/noʊ ðə nuz/",
+          "pos": "fixed phrase",
+          "definition": "to know what is new in the world",
+          "example": "I know the news.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "a news story",
+          "ipa": "/ə nuz ˈstɔri/",
+          "pos": "fixed phrase",
+          "definition": "one piece of news",
+          "example": "It is a news story.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "social media",
+          "ipa": "/ˈsoʊʃəl ˈmidiə/",
+          "pos": "fixed phrase",
+          "definition": "websites where people share photos and words",
+          "example": "I use social media.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "use",
+        "help",
+        "live",
+        "work",
+        "play"
+      ],
+      "mainWord": {
+        "word": "finale",
+        "ipa": "/fɪˈnæli/",
+        "pos": "noun",
+        "definition": "the last show of a series",
+        "example": "I watch the finale.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Finale is a noun. Finale means the last show of a series. I watch the finale.",
+      "pronunciationTarget": {
+        "word": "finale",
+        "ipa": "/fɪˈnæli/"
+      },
+      "expression": "I can use media English in a new situation.",
+      "use": "Use this when you talk about using English in a new place.",
+      "expressionTask": "Emma talks about media English. What does she say?",
+      "grammar": "review: media English",
+      "pattern": "I can use media English in a new situation.",
+      "task": "I can use media English in a new ___.",
+      "answer": "situation",
+      "example": "I can use media English in a new situation.",
+      "context": [
+        "Emma talks about media English with her mother.",
+        "Emma says, 'I can use media English in a new situation. We know the news and hear about the film.'"
+      ],
+      "dialogue": [
+        "Emma, what is a finale?",
+        "It is the last show of a series. I watch the finale.",
+        "What is a news story?",
+        "It is one piece of news. It is a news story about town.",
+        "Do you hear about the film?",
+        "Yes. I hear about the film on social media."
+      ],
+      "listening": "Emma talks about media English. Emma says, 'I can use media English in a new situation. I hear about the film.' Her mother says, 'What is a finale?' Emma says, 'It is the last show of a series.' Her mother says, 'What is a news story?' Emma says, 'It is one piece of news.'",
+      "question": "What is a finale?",
+      "correct": "The last show of a series",
+      "other": "A kind of cake",
+      "reading": "On Monday, Emma talks about media English with her mother. Emma says, 'I can use media English in a new situation. We know the news and hear about the film. It is a news story about town.' Her mother says, 'What is a finale?' Emma says, 'It is the last show of a series. I watch the finale every week. A finale is fun to watch.' Her mother says, 'What is a news story?' Emma says, 'It is one piece of news. I use social media to talk about the news. Today I can use media English in a new situation. I hear about the film at home. I use social media every day. I know the news from my friends.'",
+      "readingQ": "What is a finale?",
+      "readingA": "The last show of a series.",
+      "speaking": "Tell a friend about media English. What do you say?",
+      "speakingSample": "I talk about media English with my friend Emma. I can use media English in a new situation. We know the news and hear about the film. It is a news story about town. I watch the finale every week. I use social media every day. I like media English very much.",
+      "writing": "Write a short email to a friend about media English. Say what media English means to you.",
+      "writingSample": "Dear Anna, I want to tell you about media English. I can use media English in a new situation. We know the news and hear about the film. It is a news story about town. I watch the finale every week. I use social media every day. I like media English very much. Today I can use it in a new place. Media is good for all of us. See you soon. Best, Emma",
+      "sound": "Finale has its strongest beat on NAL. In finale, say NAL clearly at the end. In news, say NEWS clearly.",
+      "model": "I watch the finale.",
+      "wordTask": "What is a finale?",
+      "wordSample": "The last show of a series.",
+      "transferCheck": {
+        "source": "On Saturday, Emma goes to a school media day with her friend Sara. Emma says, 'I can use media English in a new situation. We know the news and hear about the film.' Sara says, 'Yes. What can we do?' Emma says, 'We can hear about the film. It is a news story about town.' Sara says, 'Good. You use media English well.'",
+        "dictation": "I can use media English in a new situation.",
+        "answer": "1. Emma goes to a school media day with her friend Sara. She talks about media English. 2. Emma's first job is to say she can use media English in a new situation. 3. On Saturday, Emma says, 'I can use media English in a new situation.' 4. I can use media English in a new situation. 5. Sample: On Saturday, Emma goes to a school media day with her friend Sara. Emma says, 'I can use media English in a new situation. We know the news and hear about the film.' Sara says, 'Yes. What can we do?' Emma says, 'We can hear about the film. It is a news story about town.' Sara says, 'Good. You use media English well.' Follow-up: What can Emma and Sara do? Hear about the film.",
+        "tasks": [
+          [
+            "1 · Identify the people and the new situation",
+            "Who does Emma meet, and what does she talk about?"
+          ],
+          [
+            "2 · Work out what Emma does first",
+            "What is Emma's first job, and what does she say?"
+          ],
+          [
+            "3 · Notice the sentence on Saturday",
+            "What does Emma say on Saturday?"
+          ],
+          [
+            "4 · Listen and write",
+            "Write the sentence you hear."
+          ],
+          [
+            "5 · Retell and answer",
+            "Tell the story in order, including the people, the new situation, the first talk, and the result. Then answer one follow-up question."
+          ]
+        ]
+      }
+    }
+  ]
+}

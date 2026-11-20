@@ -1,0 +1,905 @@
+{
+  "number": 12,
+  "title": "Hotels and places to stay",
+  "lessons": [
+    {
+      "unit": 12,
+      "day": 89,
+      "title": "Choose a hotel",
+      "goal": "I can choose a hotel.",
+      "newItems": [
+        {
+          "word": "vacancy",
+          "ipa": "/ˈveɪkənsi/",
+          "pos": "noun",
+          "definition": "A free room in a hotel.",
+          "example": "Is there a vacancy tonight?",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "resort",
+          "ipa": "/rɪˈzɔrt/",
+          "pos": "noun",
+          "definition": "A place where people go on holiday.",
+          "example": "The resort has a pool and a beach.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "stay the night",
+          "ipa": "/steɪ ðə naɪt/",
+          "pos": "fixed phrase",
+          "definition": "Sleep in a place for one night.",
+          "example": "We stay the night in Rome.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "a night's stay",
+          "ipa": "/ə naɪts steɪ/",
+          "pos": "fixed phrase",
+          "definition": "One night in a hotel.",
+          "example": "A night's stay costs 100 euros.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "sea view",
+          "ipa": "/si vju/",
+          "pos": "fixed phrase",
+          "definition": "A view of the sea from the room.",
+          "example": "The room has a sea view.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "hotel",
+        "room",
+        "night",
+        "city",
+        "today"
+      ],
+      "mainWord": {
+        "word": "vacancy",
+        "ipa": "/ˈveɪkənsi/",
+        "pos": "noun",
+        "definition": "A free room in a hotel.",
+        "example": "Is there a vacancy tonight?",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Vacancy is a noun. A vacancy is a free room in a hotel. Is there a vacancy tonight?",
+      "pronunciationTarget": {
+        "word": "vacancy",
+        "ipa": "/ˈveɪkənsi/"
+      },
+      "expression": "We stay the night in Rome.",
+      "use": "Use this when you say you sleep in a place for one night.",
+      "expressionTask": "Sam and Anna choose a hotel in Rome. How long do they stay?",
+      "grammar": "would like for requests: I would like a room with a sea view",
+      "pattern": "I would like a room with a sea view.",
+      "task": "I would ___ a room with a sea view.",
+      "answer": "like",
+      "example": "I would like a room with a sea view.",
+      "context": [
+        "Sam and Anna choose a hotel in Rome.",
+        "We stay the night in Rome. A night's stay costs 100 euros."
+      ],
+      "dialogue": [
+        "Sam, which hotel do we choose?",
+        "The hotel by the sea. It has a sea view.",
+        "Is there a vacancy tonight?",
+        "Yes. A night's stay costs 100 euros.",
+        "Do we stay the night in Rome?",
+        "Yes. The resort is nice, and the room is big."
+      ],
+      "listening": "On Monday, Sam and Anna choose a hotel in Rome. The hotel is by the sea. Is there a vacancy tonight? Yes. A night's stay costs 100 euros. Sam says, 'We stay the night in Rome.' Anna says, 'Good. I would like a room with a sea view.'",
+      "question": "How much is a night's stay?",
+      "correct": "100 euros",
+      "other": "50 euros",
+      "reading": "On Monday, Sam and Anna choose a hotel in Rome. They want a room by the sea. The hotel is a big resort by the sea. Sam asks, 'Is there a vacancy tonight?' Anna says, 'Yes. A night's stay costs 100 euros.' Sam says, 'Good. We stay the night in Rome. Our room has a sea view.' Anna is happy. She says, 'I would like a room with a sea view. The resort is nice.' Sam says, 'The room is big and clean. We stay the night, and we go to the city in the morning.' Anna says, 'Good. I like this hotel. The sea is blue, and the room is nice.' Sam says, 'Yes. A night's stay is 100 euros. That is a good price.'",
+      "readingQ": "How much is a night's stay?",
+      "readingA": "100 euros.",
+      "speaking": "Tell a friend about a hotel you choose. Where is it? How much is a night's stay?",
+      "speakingSample": "I choose a hotel in Rome. The hotel is by the sea. Is there a vacancy tonight? Yes. A night's stay costs 100 euros. Our room has a sea view. We stay the night in Rome. The resort is nice. The room is big and clean. I would like a room with a sea view. I like this hotel.",
+      "writing": "Write a short email to a friend about a hotel you choose. Say where it is and how much a night's stay costs.",
+      "writingSample": "Dear Tom, I want to tell you about a hotel in Rome. The hotel is by the sea. Is there a vacancy tonight? Yes. A night's stay costs 100 euros. Our room has a sea view. We stay the night in Rome. The resort is nice. The room is big and clean. I would like a room with a sea view. I like this hotel. See you soon. Best, Sam",
+      "sound": "Vacancy has its strongest beat on CAN. In vacancy, say CAN clearly in the middle. In resort, say SORT clearly at the end.",
+      "model": "Is there a vacancy tonight?",
+      "wordTask": "How much is a night's stay?",
+      "wordSample": "A night's stay costs 100 euros."
+    },
+    {
+      "unit": 12,
+      "day": 90,
+      "title": "Check in at the hotel",
+      "goal": "I can check in at a hotel.",
+      "newItems": [
+        {
+          "word": "concierge",
+          "ipa": "/kɑnsiˈɛrʒ/",
+          "pos": "noun",
+          "definition": "A hotel worker who helps guests with tickets and plans.",
+          "example": "Ask the concierge about the show.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "bellboy",
+          "ipa": "/ˈbɛlˌbɔɪ/",
+          "pos": "noun",
+          "definition": "A man who carries bags in a hotel.",
+          "example": "The bellboy takes our bags.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "early check-in",
+          "ipa": "/ˈɝli tʃɛk ɪn/",
+          "pos": "fixed phrase",
+          "definition": "Arriving at the hotel before the usual time.",
+          "example": "Can we have an early check-in?",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "sign here",
+          "ipa": "/saɪn hɪr/",
+          "pos": "fixed phrase",
+          "definition": "Write your name here.",
+          "example": "Please sign here.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "enjoy your stay",
+          "ipa": "/ɛnˈdʒɔɪ jʊər steɪ/",
+          "pos": "fixed phrase",
+          "definition": "Have a good time here.",
+          "example": "Enjoy your stay in Rome.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "desk",
+        "key",
+        "name",
+        "morning",
+        "friend"
+      ],
+      "mainWord": {
+        "word": "concierge",
+        "ipa": "/kɑnsiˈɛrʒ/",
+        "pos": "noun",
+        "definition": "A hotel worker who helps guests with tickets and plans.",
+        "example": "Ask the concierge about the show.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Concierge is a noun. A concierge is a hotel worker who helps guests with tickets and plans. Ask the concierge about the show.",
+      "pronunciationTarget": {
+        "word": "concierge",
+        "ipa": "/kɑnsiˈɛrʒ/"
+      },
+      "expression": "Enjoy your stay in Rome.",
+      "use": "Use this when you wish someone a good time at a hotel.",
+      "expressionTask": "Sam and Anna check in at the hotel. What does the concierge say?",
+      "grammar": "present continuous for arrangements: We are staying for two nights",
+      "pattern": "We are staying for two nights.",
+      "task": "We are ___ for two nights.",
+      "answer": "staying",
+      "example": "We are staying for two nights.",
+      "context": [
+        "Sam and Anna check in at the hotel in Rome.",
+        "Enjoy your stay in Rome. Please sign here."
+      ],
+      "dialogue": [
+        "Sam, are we at the hotel now?",
+        "Yes. The concierge is at the desk.",
+        "Can we have an early check-in?",
+        "Yes. Please sign here.",
+        "Does the bellboy take our bags?",
+        "Yes. Enjoy your stay in Rome."
+      ],
+      "listening": "On Tuesday, Sam and Anna check in at the hotel in Rome. The concierge is at the desk. Sam asks, 'Can we have an early check-in?' The concierge says, 'Yes. Please sign here. Enjoy your stay in Rome.' The bellboy takes our bags to the room. Sam says, 'We are staying for two nights.'",
+      "question": "How long are Sam and Anna staying?",
+      "correct": "For two nights",
+      "other": "For two weeks",
+      "reading": "On Tuesday, Sam and Anna check in at the hotel in Rome. The concierge is at the desk. Sam says, 'Can we have an early check-in?' The concierge says, 'Yes. Please sign here.' Sam signs his name. The bellboy takes our bags to the room. The concierge says, 'Enjoy your stay in Rome. We are happy to see you.' Sam says, 'We are staying for two nights. The room is on the third floor.' Anna says, 'Good. The bellboy is kind. The concierge is kind too.' Sam says, 'Yes. Please sign here, Anna.' Anna signs her name. The concierge says, 'Enjoy your stay in Rome. Have a good time.' Sam and Anna are happy. They go to their room.",
+      "readingQ": "How long are Sam and Anna staying?",
+      "readingA": "For two nights.",
+      "speaking": "Tell a friend about checking in at a hotel. What do you say at the desk?",
+      "speakingSample": "I check in at a hotel in Rome. The concierge is at the desk. I say, 'Can we have an early check-in?' The concierge says, 'Yes. Please sign here.' I sign my name. The bellboy takes our bags to the room. The concierge says, 'Enjoy your stay in Rome.' We are staying for two nights.",
+      "writing": "Write a short email to a friend about checking in at a hotel. Say what happens at the desk.",
+      "writingSample": "Dear Lisa, I want to tell you about checking in at a hotel in Rome. The concierge is at the desk. I say, 'Can we have an early check-in?' The concierge says, 'Yes. Please sign here.' I sign my name. The bellboy takes our bags to the room. The concierge says, 'Enjoy your stay in Rome.' We are staying for two nights. The room is on the third floor. I like this hotel. Best, Anna",
+      "sound": "Concierge has its strongest beat on AIR. In concierge, say AIR clearly at the end. In bellboy, say BELL clearly at the start.",
+      "model": "Ask the concierge about the show.",
+      "wordTask": "What does the concierge say?",
+      "wordSample": "The concierge says, 'Enjoy your stay in Rome.'"
+    },
+    {
+      "unit": 12,
+      "day": 91,
+      "title": "Your room",
+      "goal": "I can talk about my hotel room.",
+      "newItems": [
+        {
+          "word": "suite",
+          "ipa": "/swit/",
+          "pos": "noun",
+          "definition": "A big hotel room with more than one room.",
+          "example": "They stay in a suite with a view.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "minibar",
+          "ipa": "/ˈmɪniˌbɑr/",
+          "pos": "noun",
+          "definition": "A small fridge in a hotel room with drinks.",
+          "example": "The minibar has cold water.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "wardrobe",
+          "ipa": "/ˈwɔrˌdroʊb/",
+          "pos": "noun",
+          "definition": "A tall cupboard where you put your clothes.",
+          "example": "Hang your clothes in the wardrobe.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "twin beds",
+          "ipa": "/twɪn bɛdz/",
+          "pos": "fixed phrase",
+          "definition": "Two beds of the same size in one room.",
+          "example": "The room has twin beds.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "a king-size bed",
+          "ipa": "/ə kɪŋ saɪz bɛd/",
+          "pos": "fixed phrase",
+          "definition": "A very big bed for two people.",
+          "example": "The room has a king-size bed.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "bed",
+        "door",
+        "window",
+        "water",
+        "phone"
+      ],
+      "mainWord": {
+        "word": "suite",
+        "ipa": "/swit/",
+        "pos": "noun",
+        "definition": "A big hotel room with more than one room.",
+        "example": "They stay in a suite with a view.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Suite is a noun. A suite is a big hotel room with more than one room. They stay in a suite with a view.",
+      "pronunciationTarget": {
+        "word": "suite",
+        "ipa": "/swit/"
+      },
+      "expression": "The room has twin beds.",
+      "use": "Use this when you say a room has two beds.",
+      "expressionTask": "Sam and Anna go to their room. What is in the room?",
+      "grammar": "there is and there are: There is a minibar in the room",
+      "pattern": "There is a minibar in the room.",
+      "task": "There ___ a minibar in the room.",
+      "answer": "is",
+      "example": "There is a minibar in the room.",
+      "context": [
+        "Sam and Anna go to their room in Rome.",
+        "The room has twin beds. There is a minibar in the room."
+      ],
+      "dialogue": [
+        "Anna, is our room nice?",
+        "Yes. It is a suite. It is big.",
+        "Is there a minibar in the room?",
+        "Yes. And the room has twin beds.",
+        "Is there a wardrobe for our clothes?",
+        "Yes. But there is no king-size bed here."
+      ],
+      "listening": "On Wednesday, Sam and Anna go to their room. It is a suite. There is a minibar in the room. The room has twin beds. There is a wardrobe for our clothes. Sam says, 'There is no king-size bed here, but the room is nice.' Anna says, 'Good. I like this room.'",
+      "question": "What is in the room?",
+      "correct": "A minibar and a wardrobe",
+      "other": "A car and a bike",
+      "reading": "On Wednesday, Sam and Anna go to their room in Rome. It is a suite. The room is big and clean. There is a minibar in the room. The room has twin beds. There is a wardrobe for our clothes. Anna says, 'Good. The room has twin beds. I like this room.' Sam says, 'There is a wardrobe for our clothes. Hang your clothes in the wardrobe.' Anna says, 'Is there a king-size bed here?' Sam says, 'No. The room has twin beds, not a king-size bed. But the room is nice.' Anna is happy. She says, 'Good. I like our suite. The room is big and clean.' Sam says, 'Yes. There is a minibar in the room, and the water is cold.'",
+      "readingQ": "Is there a king-size bed in the room?",
+      "readingA": "No, the room has twin beds.",
+      "speaking": "Tell a friend about your hotel room. What is in it?",
+      "speakingSample": "I go to my room in Rome. It is a suite. The room is big and clean. There is a minibar in the room. The room has twin beds. There is a wardrobe for our clothes. Is there a king-size bed here? No. The room has twin beds, not a king-size bed. I like this room.",
+      "writing": "Write a short email to a friend about your hotel room. Say what is in it.",
+      "writingSample": "Dear Tom, I want to tell you about my room in Rome. It is a suite. The room is big and clean. There is a minibar in the room. The room has twin beds. There is a wardrobe for our clothes. Is there a king-size bed here? No. The room has twin beds, not a king-size bed. I like this room. The water is cold. See you soon. Best, Sam",
+      "sound": "Suite has one strong beat: SUITE. In suite, say SUITE clearly. In minibar, say MINI clearly at the start.",
+      "model": "We stay in a suite with a view.",
+      "wordTask": "What is in the room?",
+      "wordSample": "There is a minibar in the room."
+    },
+    {
+      "unit": 12,
+      "day": 92,
+      "title": "Hotel services",
+      "goal": "I can ask for hotel services.",
+      "newItems": [
+        {
+          "word": "housekeeping",
+          "ipa": "/ˈhaʊsˌkipɪŋ/",
+          "pos": "noun",
+          "definition": "The hotel workers who clean the rooms.",
+          "example": "Housekeeping cleans the room every day.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "spa",
+          "ipa": "/spɑ/",
+          "pos": "noun",
+          "definition": "A place in a hotel where you can relax and have a massage.",
+          "example": "The hotel has a spa.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "jacuzzi",
+          "ipa": "/dʒəˈkuzi/",
+          "pos": "noun",
+          "definition": "A big bath with hot water that moves.",
+          "example": "The hotel has a jacuzzi.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "ask for extra towels",
+          "ipa": "/æsk fɔr ˈɛkstrə ˈtaʊəlz/",
+          "pos": "fixed phrase",
+          "definition": "Ask the hotel for more towels.",
+          "example": "Please ask for extra towels.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "turn down the bed",
+          "ipa": "/tɝn daʊn ðə bɛd/",
+          "pos": "fixed phrase",
+          "definition": "Make the bed ready for the night.",
+          "example": "Housekeeping will turn down the bed.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "towel",
+        "clean",
+        "help",
+        "time",
+        "evening"
+      ],
+      "mainWord": {
+        "word": "housekeeping",
+        "ipa": "/ˈhaʊsˌkipɪŋ/",
+        "pos": "noun",
+        "definition": "The hotel workers who clean the rooms.",
+        "example": "Housekeeping cleans the room every day.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Housekeeping is a noun. Housekeeping is the hotel workers who clean the rooms. Housekeeping cleans the room every day.",
+      "pronunciationTarget": {
+        "word": "housekeeping",
+        "ipa": "/ˈhaʊsˌkipɪŋ/"
+      },
+      "expression": "Please ask for extra towels.",
+      "use": "Use this when you want more towels.",
+      "expressionTask": "Sam and Anna need more towels. What do they ask for?",
+      "grammar": "can for services: Can I have extra towels, please",
+      "pattern": "Can I have extra towels, please?",
+      "task": "Can I ___ extra towels, please?",
+      "answer": "have",
+      "example": "Can I have extra towels, please?",
+      "context": [
+        "Sam and Anna need more towels in Rome.",
+        "Please ask for extra towels. Housekeeping cleans the room every day."
+      ],
+      "dialogue": [
+        "Anna, do we need more towels?",
+        "Yes. Please ask for extra towels.",
+        "Can I have extra towels, please?",
+        "Yes. Housekeeping cleans the room every day.",
+        "Is there a spa in the hotel?",
+        "Yes. And there is a jacuzzi too."
+      ],
+      "listening": "On Thursday, Sam and Anna need more towels. Sam says, 'Please ask for extra towels.' Anna says, 'Can I have extra towels, please?' Housekeeping cleans the room every day. The hotel has a spa. There is a jacuzzi too. Housekeeping will turn down the bed in the evening.",
+      "question": "What will housekeeping do in the evening?",
+      "correct": "Turn down the bed",
+      "other": "Clean the car",
+      "reading": "On Thursday, Sam and Anna need more towels in Rome. Sam says, 'Please ask for extra towels.' Anna says, 'Can I have extra towels, please?' Housekeeping cleans the room every day. The hotel has a spa. There is a jacuzzi too. Sam says, 'Housekeeping will turn down the bed in the evening. That is nice.' Anna says, 'Good. The spa is nice. The jacuzzi is warm.' Sam says, 'Please ask for extra towels. We need more towels.' Anna says, 'Yes. Housekeeping cleans the room every day. The room is clean.' Sam says, 'Good. I like this hotel. The spa is nice, and the jacuzzi is warm.' Anna is happy. She says, 'Housekeeping will turn down the bed. We can sleep well.'",
+      "readingQ": "What will housekeeping do in the evening?",
+      "readingA": "Turn down the bed.",
+      "speaking": "Tell a friend about hotel services. What do you ask for?",
+      "speakingSample": "I need more towels at the hotel. I say, 'Please ask for extra towels.' Housekeeping cleans the room every day. The hotel has a spa. There is a jacuzzi too. Housekeeping will turn down the bed in the evening. Can I have extra towels, please? Yes. I like this hotel.",
+      "writing": "Write a short email to a friend about hotel services. Say what you ask for.",
+      "writingSample": "Dear Tom, I want to tell you about hotel services in Rome. I need more towels. I say, 'Please ask for extra towels.' Housekeeping cleans the room every day. The hotel has a spa. There is a jacuzzi too. Housekeeping will turn down the bed in the evening. Can I have extra towels, please? Yes. I like this hotel. The room is clean. Best, Sam",
+      "sound": "Housekeeping has its strongest beat on HOUSE. In housekeeping, say HOUSE clearly at the start. In spa, say SPA clearly.",
+      "model": "Please ask housekeeping for more towels.",
+      "wordTask": "What does housekeeping do every day?",
+      "wordSample": "Housekeeping cleans the room every day."
+    },
+    {
+      "unit": 12,
+      "day": 93,
+      "title": "Problems in your room",
+      "goal": "I can talk about problems in my room.",
+      "newItems": [
+        {
+          "word": "iron",
+          "ipa": "/ˈaɪɚn/",
+          "pos": "noun",
+          "definition": "A tool you use to make clothes smooth.",
+          "example": "I need an iron for my shirt.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "hairdryer",
+          "ipa": "/ˈhɛrˌdraɪɚ/",
+          "pos": "noun",
+          "definition": "A small machine that blows hot air to dry your hair.",
+          "example": "The hairdryer is in the bathroom.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "wifi",
+          "ipa": "/ˈwaɪˌfaɪ/",
+          "pos": "noun",
+          "definition": "A way to use the internet without a wire.",
+          "example": "The wifi is free here.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "the lift is broken",
+          "ipa": "/ðə lɪft ɪz ˈbroʊkən/",
+          "pos": "fixed phrase",
+          "definition": "The lift does not work.",
+          "example": "The lift is broken.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "the air conditioning is not working",
+          "ipa": "/ði ɛr kənˈdɪʃənɪŋ ɪz nɑt ˈwɝkɪŋ/",
+          "pos": "fixed phrase",
+          "definition": "The machine that makes the room cool does not work.",
+          "example": "The air conditioning is not working.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "work",
+        "cold",
+        "hot",
+        "light",
+        "week"
+      ],
+      "mainWord": {
+        "word": "iron",
+        "ipa": "/ˈaɪɚn/",
+        "pos": "noun",
+        "definition": "A tool you use to make clothes smooth.",
+        "example": "I need an iron for my shirt.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Iron is a noun. An iron is a tool you use to make clothes smooth. I need an iron for my shirt.",
+      "pronunciationTarget": {
+        "word": "iron",
+        "ipa": "/ˈaɪɚn/"
+      },
+      "expression": "The lift is broken.",
+      "use": "Use this when the lift does not work.",
+      "expressionTask": "Sam and Anna have a problem in the hotel. What is broken?",
+      "grammar": "present perfect for problems: The air conditioning has stopped working",
+      "pattern": "The air conditioning has stopped working.",
+      "task": "The air conditioning has ___ working.",
+      "answer": "stopped",
+      "example": "The air conditioning has stopped working.",
+      "context": [
+        "Sam and Anna have a problem in the hotel.",
+        "The lift is broken. The air conditioning is not working."
+      ],
+      "dialogue": [
+        "Anna, is the lift working?",
+        "No. The lift is broken.",
+        "Is the air conditioning working?",
+        "No. The air conditioning is not working.",
+        "Do we have wifi in the room?",
+        "Yes. The wifi is free here."
+      ],
+      "listening": "On Friday, Sam and Anna have a problem in the hotel. The lift is broken. The air conditioning is not working. Sam says, 'I need an iron for my shirt.' Anna says, 'The hairdryer is in the bathroom.' Sam says, 'The wifi is free here. The air conditioning has stopped working.'",
+      "question": "What is the problem in the hotel?",
+      "correct": "The lift is broken",
+      "other": "The room is too big",
+      "reading": "On Friday, Sam and Anna have a problem in the hotel in Rome. The lift is broken. The air conditioning is not working. Sam says, 'I need an iron for my shirt. The iron is in the room.' Anna says, 'The hairdryer is in the bathroom. The wifi is free here.' Sam says, 'Good. The air conditioning has stopped working. Please help us.' Anna says, 'The lift is broken. We take the stairs to our room.' Sam says, 'I need an iron for my shirt. The hairdryer is in the bathroom.' Anna says, 'Yes. The wifi is free here. The air conditioning is not working.' Sam says, 'Please help us. The lift is broken, and the air conditioning is not working.'",
+      "readingQ": "What is the problem in the hotel?",
+      "readingA": "The lift is broken, and the air conditioning is not working.",
+      "speaking": "Tell a friend about a problem in your hotel room. What is broken?",
+      "speakingSample": "I have a problem in my hotel room. The lift is broken. The air conditioning is not working. I need an iron for my shirt. The hairdryer is in the bathroom. The wifi is free here. The air conditioning has stopped working. Please help us. The hotel is nice, but the lift is broken.",
+      "writing": "Write a short email to a friend about a problem in your hotel room. Say what is broken.",
+      "writingSample": "Dear Lisa, I want to tell you about a problem in my hotel room in Rome. The lift is broken. The air conditioning is not working. I need an iron for my shirt. The hairdryer is in the bathroom. The wifi is free here. The air conditioning has stopped working. Please help us. The hotel is nice, but the lift is broken. I hope they help us soon. Best, Anna",
+      "sound": "Iron has one strong beat: IRON. In iron, say IRON clearly. In hairdryer, say HAIR clearly at the start.",
+      "model": "I need an iron for my shirt.",
+      "wordTask": "What is broken in the hotel?",
+      "wordSample": "The lift is broken."
+    },
+    {
+      "unit": 12,
+      "day": 94,
+      "title": "Eating at the hotel",
+      "goal": "I can talk about food at a hotel.",
+      "newItems": [
+        {
+          "word": "terrace",
+          "ipa": "/ˈtɛrəs/",
+          "pos": "noun",
+          "definition": "A flat place outside where you can sit and eat.",
+          "example": "We eat on the terrace.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "rooftop",
+          "ipa": "/ˈrufˌtɑp/",
+          "pos": "noun",
+          "definition": "The top of a building where you can sit.",
+          "example": "There is a bar on the rooftop.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "half board",
+          "ipa": "/hæf bɔrd/",
+          "pos": "fixed phrase",
+          "definition": "A hotel price that includes breakfast and dinner.",
+          "example": "We pay for half board.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "full board",
+          "ipa": "/fʊl bɔrd/",
+          "pos": "fixed phrase",
+          "definition": "A hotel price that includes all meals.",
+          "example": "We pay for full board.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "what time is breakfast",
+          "ipa": "/wʌt taɪm ɪz ˈbrɛkfəst/",
+          "pos": "fixed phrase",
+          "definition": "Ask when breakfast is.",
+          "example": "What time is breakfast?",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "food",
+        "eat",
+        "table",
+        "breakfast",
+        "dinner"
+      ],
+      "mainWord": {
+        "word": "terrace",
+        "ipa": "/ˈtɛrəs/",
+        "pos": "noun",
+        "definition": "A flat place outside where you can sit and eat.",
+        "example": "We eat on the terrace.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Terrace is a noun. A terrace is a flat place outside where you can sit and eat. We eat on the terrace.",
+      "pronunciationTarget": {
+        "word": "terrace",
+        "ipa": "/ˈtɛrəs/"
+      },
+      "expression": "What time is breakfast?",
+      "use": "Use this when you ask when breakfast is.",
+      "expressionTask": "Sam and Anna eat at the hotel. What do they ask about breakfast?",
+      "grammar": "going to for plans: We are going to eat on the terrace",
+      "pattern": "We are going to eat on the terrace.",
+      "task": "We are going to ___ on the terrace.",
+      "answer": "eat",
+      "example": "We are going to eat on the terrace.",
+      "context": [
+        "Sam and Anna eat at the hotel in Rome.",
+        "What time is breakfast? We eat on the terrace."
+      ],
+      "dialogue": [
+        "Anna, what time is breakfast?",
+        "Breakfast is at eight. We eat on the terrace.",
+        "Do we pay for half board or full board?",
+        "We pay for half board.",
+        "Is there a bar on the rooftop?",
+        "Yes. We can eat on the rooftop too."
+      ],
+      "listening": "On Saturday, Sam and Anna eat at the hotel in Rome. Anna asks, 'What time is breakfast?' Sam says, 'Breakfast is at eight. We eat on the terrace.' Anna says, 'Do we pay for half board or full board?' Sam says, 'We pay for half board. There is a bar on the rooftop.'",
+      "question": "Where do Sam and Anna eat?",
+      "correct": "On the terrace",
+      "other": "In the car",
+      "reading": "On Saturday, Sam and Anna eat at the hotel in Rome. Anna asks, 'What time is breakfast?' Sam says, 'Breakfast is at eight. We eat on the terrace.' Anna says, 'Do we pay for half board or full board?' Sam says, 'We pay for half board. Breakfast and dinner are in the price.' Anna says, 'Good. The food is nice. We are going to eat on the terrace.' Sam says, 'There is a bar on the rooftop. We can eat on the rooftop too.' Anna says, 'Good. The terrace is nice. The rooftop is nice too.' Anna is happy. She says, 'What time is breakfast tomorrow?' Sam says, 'Breakfast is at eight. We eat on the terrace.'",
+      "readingQ": "Where do Sam and Anna eat?",
+      "readingA": "On the terrace.",
+      "speaking": "Tell a friend about eating at a hotel. Where do you eat?",
+      "speakingSample": "I eat at a hotel in Rome. I ask, 'What time is breakfast?' Breakfast is at eight. We eat on the terrace. We pay for half board, not full board. The food is nice. We are going to eat on the terrace. There is a bar on the rooftop. I like this hotel.",
+      "writing": "Write a short email to a friend about eating at a hotel. Say where you eat.",
+      "writingSample": "Dear Tom, I want to tell you about eating at a hotel in Rome. I ask, 'What time is breakfast?' Breakfast is at eight. We eat on the terrace. We pay for half board, not full board. The food is nice. We are going to eat on the terrace. There is a bar on the rooftop. We can eat on the rooftop too. I like this hotel. Best, Sam",
+      "sound": "Terrace has its strongest beat on TERR. In terrace, say TERR clearly at the start. In rooftop, say ROOF clearly at the start.",
+      "model": "We eat on the terrace.",
+      "wordTask": "Where do Sam and Anna eat?",
+      "wordSample": "They eat on the terrace."
+    },
+    {
+      "unit": 12,
+      "day": 95,
+      "title": "Check out and pay",
+      "goal": "I can check out and pay.",
+      "newItems": [
+        {
+          "word": "extend",
+          "ipa": "/ɪkˈstɛnd/",
+          "pos": "verb",
+          "definition": "To make your stay longer.",
+          "example": "We want to extend our stay.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "upgrade",
+          "ipa": "/ˈʌpˌɡreɪd/",
+          "pos": "verb",
+          "definition": "To change to a better room.",
+          "example": "Can we upgrade to a suite?",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "late check-out",
+          "ipa": "/leɪt tʃɛk aʊt/",
+          "pos": "fixed phrase",
+          "definition": "Leaving the hotel later than the usual time.",
+          "example": "Can we have a late check-out?",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "all inclusive",
+          "ipa": "/ɔl ɪnˈklusɪv/",
+          "pos": "fixed phrase",
+          "definition": "A price that includes food, drinks and more.",
+          "example": "The hotel is all inclusive.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "have a nice stay",
+          "ipa": "/hæv ə naɪs steɪ/",
+          "pos": "fixed phrase",
+          "definition": "Have a good time at the hotel.",
+          "example": "Have a nice stay!",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "bill",
+        "money",
+        "pay",
+        "card",
+        "stay"
+      ],
+      "mainWord": {
+        "word": "extend",
+        "ipa": "/ɪkˈstɛnd/",
+        "pos": "verb",
+        "definition": "To make your stay longer.",
+        "example": "We want to extend our stay.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Extend is a verb. To extend is to make your stay longer. We want to extend our stay.",
+      "pronunciationTarget": {
+        "word": "extend",
+        "ipa": "/ɪkˈstɛnd/"
+      },
+      "expression": "Can we have a late check-out?",
+      "use": "Use this when you want to leave the hotel later than the usual time.",
+      "expressionTask": "Sam and Anna check out of the hotel. What do they ask?",
+      "grammar": "must for rules: You must check out by twelve",
+      "pattern": "You must check out by twelve.",
+      "task": "You must ___ out by twelve.",
+      "answer": "check",
+      "example": "You must check out by twelve.",
+      "context": [
+        "Sam and Anna check out of the hotel in Rome.",
+        "Can we have a late check-out? The hotel is all inclusive."
+      ],
+      "dialogue": [
+        "Sam, do we check out today?",
+        "Yes. Can we have a late check-out?",
+        "Can we extend our stay?",
+        "No. But we can upgrade to a suite next time.",
+        "Is the hotel all inclusive?",
+        "Yes. The bill is 200 euros."
+      ],
+      "listening": "On Sunday, Sam and Anna check out of the hotel in Rome. Sam asks, 'Can we have a late check-out?' The concierge says, 'Yes. You must check out by two.' Sam asks, 'Can we extend our stay?' The concierge says, 'No. But you can upgrade to a suite next time.'",
+      "question": "What time must Sam and Anna check out?",
+      "correct": "By two",
+      "other": "By ten",
+      "reading": "On Sunday, Sam and Anna check out of the hotel in Rome. Sam asks, 'Can we have a late check-out?' The concierge says, 'Yes. You must check out by two.' Sam asks, 'Can we extend our stay?' The concierge says, 'No. But you can upgrade to a suite next time.' Anna says, 'The hotel is all inclusive. The bill is 200 euros.' Sam says, 'Good. We pay by card. The concierge said, \"Have a nice stay!\" when we checked in.' Anna says, 'Yes. The hotel is nice. Can we extend our stay next year?' Sam says, 'Yes. We can upgrade to a suite next time. The hotel is all inclusive.' Anna is happy. She says, 'Good. We pay the bill by card. Have a nice stay!'",
+      "readingQ": "What time must Sam and Anna check out?",
+      "readingA": "By two.",
+      "speaking": "Tell a friend about checking out of a hotel. What do you ask?",
+      "speakingSample": "I check out of a hotel in Rome. I ask, 'Can we have a late check-out?' The concierge says, 'Yes. You must check out by two.' I ask, 'Can we extend our stay?' The concierge says, 'No. But you can upgrade to a suite next time.' The hotel is all inclusive. The bill is 200 euros.",
+      "writing": "Write a short email to a friend about checking out of a hotel. Say what you ask.",
+      "writingSample": "Dear Anna, I want to tell you about checking out of a hotel in Rome. I ask, 'Can we have a late check-out?' The concierge says, 'Yes. You must check out by two.' I ask, 'Can we extend our stay?' The concierge says, 'No. But you can upgrade to a suite next time.' The hotel is all inclusive. The bill is 200 euros. We pay by card. Best, Sam",
+      "sound": "Extend has its strongest beat on TEND. In extend, say TEND clearly at the end. In upgrade, say UP clearly at the start.",
+      "model": "We want to extend our stay.",
+      "wordTask": "What do Sam and Anna ask?",
+      "wordSample": "They ask, 'Can we have a late check-out?'"
+    },
+    {
+      "unit": 12,
+      "day": 96,
+      "title": "Use hotel English in a new situation",
+      "goal": "I can use hotel English in a new situation.",
+      "newItems": [
+        {
+          "word": "foyer",
+          "ipa": "/ˈfɔɪɚ/",
+          "pos": "noun",
+          "definition": "The big room at the door of a hotel.",
+          "example": "We meet in the foyer at nine.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "corridor",
+          "ipa": "/ˈkɔrədɔr/",
+          "pos": "noun",
+          "definition": "A long hall with rooms on both sides.",
+          "example": "Our room is at the end of the corridor.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "lounge",
+          "ipa": "/laʊndʒ/",
+          "pos": "noun",
+          "definition": "A room in a hotel where you can sit and relax.",
+          "example": "We wait in the lounge.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "free Wi-Fi",
+          "ipa": "/fri ˈwaɪˌfaɪ/",
+          "pos": "fixed phrase",
+          "definition": "Internet you can use for no money.",
+          "example": "The hotel has free Wi-Fi.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "bed and breakfast",
+          "ipa": "/bɛd ənd ˈbrɛkfəst/",
+          "pos": "fixed phrase",
+          "definition": "A small hotel where you sleep and eat breakfast.",
+          "example": "We stay at a bed and breakfast.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "class",
+        "teacher",
+        "student",
+        "month",
+        "year"
+      ],
+      "mainWord": {
+        "word": "foyer",
+        "ipa": "/ˈfɔɪɚ/",
+        "pos": "noun",
+        "definition": "The big room at the door of a hotel.",
+        "example": "We meet in the foyer at nine.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Foyer is a noun. A foyer is the big room at the door of a hotel. We meet in the foyer at nine.",
+      "pronunciationTarget": {
+        "word": "foyer",
+        "ipa": "/ˈfɔɪɚ/"
+      },
+      "expression": "We stay at a bed and breakfast.",
+      "use": "Use this when you sleep at a small hotel.",
+      "expressionTask": "Emma stays at a hotel by the sea. What is the hotel?",
+      "grammar": "Review: I can use hotel English in a new situation",
+      "pattern": "I can use hotel English in a new situation.",
+      "task": "I can ___ hotel English in a new situation.",
+      "answer": "use",
+      "example": "I can use hotel English in a new situation.",
+      "context": [
+        "Emma stays at a hotel by the sea.",
+        "We stay at a bed and breakfast. The hotel has free Wi-Fi."
+      ],
+      "dialogue": [
+        "Emma, where do you stay?",
+        "I stay at a bed and breakfast by the sea.",
+        "Does the hotel have free Wi-Fi?",
+        "Yes. We meet in the foyer at nine.",
+        "Is the lounge at the end of the corridor?",
+        "Yes. I like this hotel."
+      ],
+      "listening": "On Monday, Emma stays at a hotel by the sea. She stays at a bed and breakfast. The hotel has free Wi-Fi. Emma says, 'We meet in the foyer at nine.' Her mother says, 'Is the lounge at the end of the corridor?' Emma says, 'Yes. I can use hotel English in a new situation.'",
+      "question": "Where does Emma stay?",
+      "correct": "At a bed and breakfast",
+      "other": "At a big school",
+      "reading": "On Monday, Emma stays at a hotel by the sea with her mother. She stays at a bed and breakfast. The hotel has free Wi-Fi. Emma says, 'We meet in the foyer at nine.' Her mother says, 'Is the lounge at the end of the corridor?' Emma says, 'Yes. The lounge is at the end of the corridor. I like this hotel.' Her mother says, 'Good. The bed and breakfast is nice. The hotel has free Wi-Fi.' Emma says, 'We meet in the foyer at nine. Then we go to the lounge.' Her mother says, 'Good. I can use hotel English in a new situation.' Emma is happy. She says, 'Yes. The foyer is big. The corridor is long. The lounge is nice.'",
+      "readingQ": "Where does Emma stay?",
+      "readingA": "At a bed and breakfast by the sea.",
+      "speaking": "Tell a friend about a hotel stay in a new situation. Where do you stay?",
+      "speakingSample": "I stay at a hotel by the sea with my mother. I stay at a bed and breakfast. The hotel has free Wi-Fi. We meet in the foyer at nine. The lounge is at the end of the corridor. I like this hotel. I can use hotel English in a new situation.",
+      "writing": "Write a short email to a friend about a hotel stay. Say where you stay.",
+      "writingSample": "Dear Anna, I want to tell you about a hotel stay by the sea. I stay at a bed and breakfast with my mother. The hotel has free Wi-Fi. We meet in the foyer at nine. The lounge is at the end of the corridor. I like this hotel. I can use hotel English in a new situation. The bed and breakfast is nice. Please tell me what you think. Best, Emma",
+      "sound": "Foyer has its strongest beat on FOY. In foyer, say FOY clearly at the start. In corridor, say CORR clearly at the start.",
+      "model": "We meet in the foyer at nine.",
+      "wordTask": "Where does Emma stay?",
+      "wordSample": "She stays at a bed and breakfast by the sea.",
+      "transferCheck": {
+        "source": "On Tuesday, Emma visits her teacher, Ms. Green. Emma says, 'I can use hotel English in a new situation. I stay at a bed and breakfast by the sea with my mother.' Ms. Green says, 'Good. What is the hotel like?' Emma says, 'The hotel has free Wi-Fi. We meet in the foyer at nine.' Ms. Green says, 'Very good. Is the lounge at the end of the corridor?' Emma says, 'Yes. The lounge is at the end of the corridor.' Ms. Green says, 'Good. You use hotel English well.'",
+        "dictation": "We stay at a bed and breakfast by the sea.",
+        "answer": "1. Emma visits her teacher, Ms. Green. She talks about a hotel stay by the sea with her mother. 2. Emma's first job is to say she can use hotel English in a new situation. 3. On Tuesday, Emma says, 'I can use hotel English in a new situation.' 4. We stay at a bed and breakfast by the sea. 5. Sample: On Tuesday, Emma visits her teacher, Ms. Green. Emma says, 'I can use hotel English in a new situation. I stay at a bed and breakfast by the sea with my mother.' Ms. Green says, 'Good. What is the hotel like?' Emma says, 'The hotel has free Wi-Fi. We meet in the foyer at nine.' Ms. Green says, 'Very good. Is the lounge at the end of the corridor?' Emma says, 'Yes. The lounge is at the end of the corridor.' Follow-up: Where does Emma stay? At a bed and breakfast by the sea.",
+        "tasks": [
+          [
+            "1 · Identify the people and the new situation",
+            "Who does Emma visit, and what does she talk about?"
+          ],
+          [
+            "2 · Work out what Emma does first",
+            "What is Emma's first job, and what does she say?"
+          ],
+          [
+            "3 · Notice the sentence on Tuesday",
+            "What does Emma say on Tuesday?"
+          ],
+          [
+            "4 · Listen and write",
+            "Write the sentence you hear."
+          ],
+          [
+            "5 · Retell and answer",
+            "Tell the story in order, including the people, the new situation, the first talk, and the result. Then answer one follow-up question."
+          ]
+        ]
+      }
+    }
+  ]
+}

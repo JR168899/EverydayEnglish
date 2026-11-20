@@ -1,0 +1,905 @@
+{
+  "number": 21,
+  "title": "Celebrations and special days",
+  "lessons": [
+    {
+      "unit": 21,
+      "day": 161,
+      "title": "Birthdays",
+      "goal": "I can talk about birthdays.",
+      "newItems": [
+        {
+          "word": "confetti",
+          "ipa": "/kənˈfɛti/",
+          "pos": "noun",
+          "definition": "Small pieces of colored paper thrown at parties.",
+          "example": "We throw confetti at the party.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "streamer",
+          "ipa": "/ˈstrimɚ/",
+          "pos": "noun",
+          "definition": "A long strip of colored paper for decoration.",
+          "example": "We hang streamers in the room.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "sparkler",
+          "ipa": "/ˈspɑrklɚ/",
+          "pos": "noun",
+          "definition": "A small firework you hold in your hand.",
+          "example": "The children hold sparklers at night.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "sing happy birthday",
+          "ipa": "/sɪŋ ˈhæpi ˈbɝθˌdeɪ/",
+          "pos": "fixed phrase",
+          "definition": "To sing the birthday song.",
+          "example": "We sing happy birthday to Anna.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "light the candles",
+          "ipa": "/laɪt ðə ˈkændlz/",
+          "pos": "fixed phrase",
+          "definition": "To make the candles burn.",
+          "example": "We light the candles on the cake.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "birthday",
+        "party",
+        "cake",
+        "happy",
+        "sing"
+      ],
+      "mainWord": {
+        "word": "confetti",
+        "ipa": "/kənˈfɛti/",
+        "pos": "noun",
+        "definition": "Small pieces of colored paper thrown at parties.",
+        "example": "We throw confetti at the party.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Confetti is a noun. Confetti means small pieces of colored paper thrown at parties. We throw confetti at the party.",
+      "pronunciationTarget": {
+        "word": "confetti",
+        "ipa": "/kənˈfɛti/"
+      },
+      "expression": "We sing happy birthday to Anna.",
+      "use": "Use this when you talk about a birthday song.",
+      "expressionTask": "Tom and Lily talk about birthdays. What do they say?",
+      "grammar": "present simple for celebrations: Birthdays are special days",
+      "pattern": "Birthdays are special days.",
+      "task": "Birthdays ___ special days.",
+      "answer": "are",
+      "example": "Birthdays are special days.",
+      "context": [
+        "Tom and Lily talk about birthdays.",
+        "Tom says, 'We sing happy birthday to Anna. We light the candles on the cake.'"
+      ],
+      "dialogue": [
+        "Lily, what do we do at a birthday?",
+        "We sing happy birthday to Anna. We light the candles on the cake.",
+        "What is confetti?",
+        "It is small pieces of colored paper. We throw confetti at the party.",
+        "Do you like sparklers?",
+        "Yes. The children hold sparklers at night. We hang streamers in the room."
+      ],
+      "listening": "Tom and Lily talk about birthdays. Tom says, 'We sing happy birthday to Anna. We light the candles on the cake.' Lily says, 'What is confetti?' Tom says, 'It is small pieces of colored paper. We throw confetti at the party.' Lily says, 'Do you like sparklers?' Tom says, 'Yes. The children hold sparklers.'",
+      "question": "What do Tom and Lily do at a birthday?",
+      "correct": "Sing happy birthday",
+      "other": "Go to school",
+      "reading": "On Saturday, Tom and Lily talk about birthdays. Tom says, 'We sing happy birthday to Anna. We light the candles on the cake. It is a happy day.' Lily says, 'What is confetti?' Tom says, 'It is small pieces of colored paper. We throw confetti at the party. Birthdays are special days.' Lily says, 'Do you like sparklers?' Tom says, 'Yes. The children hold sparklers at night. A sparkler is a small firework. We hang streamers in the room. A streamer is a long strip of colored paper. We like birthdays. We sing and dance at the party. I like to sing happy birthday to my friends. We eat cake and play games. Birthdays are fun for all of us.'",
+      "readingQ": "What do Tom and Lily do at a birthday?",
+      "readingA": "Sing happy birthday.",
+      "speaking": "Tell a friend about a birthday. What do you say?",
+      "speakingSample": "I talk about birthdays with my friend Tom. We sing happy birthday to Anna. We light the candles on the cake. We throw confetti at the party. A streamer is a long strip of colored paper. The children hold sparklers at night. Birthdays are special days. I like to sing and dance at the party.",
+      "writing": "Write a short email to a friend about a birthday. Say what you do.",
+      "writingSample": "Dear Anna, I want to tell you about my birthday. We sing happy birthday to Anna. We light the candles on the cake. We throw confetti at the party. A streamer is a long strip of colored paper. The children hold sparklers at night. Birthdays are special days. We eat cake and play games at home. I like birthdays very much. See you soon. Best, Lily",
+      "sound": "Confetti has its strongest beat on FET. In confetti, say FET clearly in the middle. In streamer, say STREAM clearly at the start.",
+      "model": "We throw confetti at the party.",
+      "wordTask": "What is confetti?",
+      "wordSample": "Small pieces of colored paper thrown at parties."
+    },
+    {
+      "unit": 21,
+      "day": 162,
+      "title": "A wedding day",
+      "goal": "I can talk about a wedding day.",
+      "newItems": [
+        {
+          "word": "champagne",
+          "ipa": "/ʃæmˈpeɪn/",
+          "pos": "noun",
+          "definition": "Wine for a special celebration.",
+          "example": "We drink champagne at the wedding.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "honeymoon",
+          "ipa": "/ˈhʌniˌmun/",
+          "pos": "noun",
+          "definition": "A trip after a wedding.",
+          "example": "They go on a honeymoon to the sea.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "vows",
+          "ipa": "/vaʊz/",
+          "pos": "noun",
+          "definition": "Promises at a wedding.",
+          "example": "They say their vows at the church.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "raise a toast",
+          "ipa": "/reɪz ə toʊst/",
+          "pos": "fixed phrase",
+          "definition": "To drink to someone's health.",
+          "example": "We raise a toast to the new year.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "tie the knot",
+          "ipa": "/taɪ ðə nɑt/",
+          "pos": "fixed phrase",
+          "definition": "To get married.",
+          "example": "They tie the knot in June.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "love",
+        "family",
+        "dress",
+        "music",
+        "dance"
+      ],
+      "mainWord": {
+        "word": "champagne",
+        "ipa": "/ʃæmˈpeɪn/",
+        "pos": "noun",
+        "definition": "Wine for a special celebration.",
+        "example": "We drink champagne at the wedding.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Champagne is a noun. Champagne means wine for a special celebration. We drink champagne at the wedding.",
+      "pronunciationTarget": {
+        "word": "champagne",
+        "ipa": "/ʃæmˈpeɪn/"
+      },
+      "expression": "We raise a toast to the bride.",
+      "use": "Use this when you drink to someone's health at a wedding.",
+      "expressionTask": "Tom and Lily talk about a wedding day. What do they say?",
+      "grammar": "comparatives: A wedding is bigger than a birthday party",
+      "pattern": "A wedding is bigger than a birthday party.",
+      "task": "A wedding is ___ than a birthday party.",
+      "answer": "bigger",
+      "example": "A wedding is bigger than a birthday party.",
+      "context": [
+        "Tom and Lily talk about a wedding day.",
+        "Tom says, 'We raise a toast to the bride. They tie the knot in June.'"
+      ],
+      "dialogue": [
+        "Lily, what is champagne?",
+        "It is wine for a special celebration. We drink champagne at the wedding.",
+        "What are vows?",
+        "They are promises at a wedding. They say their vows at the church.",
+        "Where do they go after the wedding?",
+        "They go on a honeymoon to the sea. A wedding is bigger than a birthday party."
+      ],
+      "listening": "Tom and Lily talk about a wedding day. Tom says, 'We raise a toast to the bride. They tie the knot in June.' Lily says, 'What is champagne?' Tom says, 'It is wine for a special celebration. We drink champagne at the wedding.' Lily says, 'What are vows?' Tom says, 'They are promises.'",
+      "question": "What do Tom and Lily drink at the wedding?",
+      "correct": "Champagne",
+      "other": "Tea",
+      "reading": "On Sunday, Tom and Lily talk about a wedding day. Tom says, 'We raise a toast to the bride. They tie the knot in June. A wedding is bigger than a birthday party.' Lily says, 'What is champagne?' Tom says, 'It is wine for a special celebration. We drink champagne at the wedding. The bride wears a white dress.' Lily says, 'What are vows?' Tom says, 'They are promises at a wedding. They say their vows at the church. A vow is a promise at a wedding.' Lily says, 'Where do they go?' Tom says, 'They go on a honeymoon to the sea. I like weddings. We sing and dance at the wedding. A wedding is a happy day.'",
+      "readingQ": "What do Tom and Lily drink at the wedding?",
+      "readingA": "Champagne.",
+      "speaking": "Tell a friend about a wedding day. What do you say?",
+      "speakingSample": "I talk about a wedding day with my friend Tom. We raise a toast to the bride. They tie the knot in June. We drink champagne at the wedding. They say their vows at the church. They go on a honeymoon to the sea. A wedding is bigger than a birthday party.",
+      "writing": "Write a short email to a friend about a wedding day. Say what happens.",
+      "writingSample": "Dear Anna, I want to tell you about a wedding day. We raise a toast to the bride. They tie the knot in June. We drink champagne at the wedding. They say their vows at the church. They go on a honeymoon to the sea. A wedding is bigger than a birthday party. We sing and dance at the wedding. I like weddings very much. See you soon. Best, Lily",
+      "sound": "Champagne has its strongest beat on PAGNE. In champagne, say PAGNE clearly at the end. In honeymoon, say HONEY clearly at the start.",
+      "model": "We drink champagne at the wedding.",
+      "wordTask": "What is champagne?",
+      "wordSample": "Wine for a special celebration."
+    },
+    {
+      "unit": 21,
+      "day": 163,
+      "title": "Festivals around the year",
+      "goal": "I can talk about festivals.",
+      "newItems": [
+        {
+          "word": "carnival",
+          "ipa": "/ˈkɑrnəvəl/",
+          "pos": "noun",
+          "definition": "A big public party in the street.",
+          "example": "We dance at the carnival.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "masquerade",
+          "ipa": "/ˌmæskəˈreɪd/",
+          "pos": "noun",
+          "definition": "A party where people wear masks.",
+          "example": "We go to a masquerade at New Year.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "jubilee",
+          "ipa": "/ˈdʒubəˌli/",
+          "pos": "noun",
+          "definition": "A special anniversary celebration.",
+          "example": "The town has a jubilee this year.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "dress up as",
+          "ipa": "/drɛs ʌp əz/",
+          "pos": "fixed phrase",
+          "definition": "To wear special clothes.",
+          "example": "I dress up as a pirate.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "a fancy dress party",
+          "ipa": "/ə ˈfænsi drɛs ˈpɑrti/",
+          "pos": "fixed phrase",
+          "definition": "A party where people wear special clothes.",
+          "example": "It is a fancy dress party.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "year",
+        "time",
+        "night",
+        "street",
+        "watch"
+      ],
+      "mainWord": {
+        "word": "carnival",
+        "ipa": "/ˈkɑrnəvəl/",
+        "pos": "noun",
+        "definition": "A big public party in the street.",
+        "example": "We dance at the carnival.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Carnival is a noun. Carnival means a big public party in the street. We dance at the carnival.",
+      "pronunciationTarget": {
+        "word": "carnival",
+        "ipa": "/ˈkɑrnəvəl/"
+      },
+      "expression": "I dress up as a pirate.",
+      "use": "Use this when you talk about wearing special clothes.",
+      "expressionTask": "Tom and Lily talk about festivals. What do they say?",
+      "grammar": "past simple for festival stories: We watched the parade last year",
+      "pattern": "We watched the parade last year.",
+      "task": "We ___ the parade last year.",
+      "answer": "watched",
+      "example": "We watched the parade last year.",
+      "context": [
+        "Tom and Lily talk about festivals.",
+        "Tom says, 'I dress up as a pirate. It is a fancy dress party.'"
+      ],
+      "dialogue": [
+        "Lily, what is a carnival?",
+        "It is a big public party in the street. We dance at the carnival.",
+        "What is a masquerade?",
+        "It is a party where people wear masks. We go to a masquerade at New Year.",
+        "What is a jubilee?",
+        "It is a special anniversary celebration. The town has a jubilee this year."
+      ],
+      "listening": "Tom and Lily talk about festivals. Tom says, 'I dress up as a pirate. It is a fancy dress party.' Lily says, 'What is a carnival?' Tom says, 'It is a big public party in the street. We dance at the carnival.' Lily says, 'What is a masquerade?' Tom says, 'People wear masks.'",
+      "question": "What does Tom dress up as?",
+      "correct": "A pirate",
+      "other": "A teacher",
+      "reading": "On Monday, Tom and Lily talk about festivals. Tom says, 'I dress up as a pirate. It is a fancy dress party. We watched the parade last year.' Lily says, 'What is a carnival?' Tom says, 'It is a big public party in the street. We dance at the carnival. A carnival is a big public party.' Lily says, 'What is a masquerade?' Tom says, 'It is a party where people wear masks. We go to a masquerade at New Year. A mask is fun to wear.' Lily says, 'What is a jubilee?' Tom says, 'It is a special anniversary celebration. The town has a jubilee this year. I like festivals. We sing and dance in the street.'",
+      "readingQ": "What does Tom dress up as?",
+      "readingA": "A pirate.",
+      "speaking": "Tell a friend about festivals. What do you say?",
+      "speakingSample": "I talk about festivals with my friend Tom. I dress up as a pirate. It is a fancy dress party. We dance at the carnival. We go to a masquerade at New Year. The town has a jubilee this year. We watched the parade last year. We sing and dance in the street.",
+      "writing": "Write a short email to a friend about festivals. Say what you do.",
+      "writingSample": "Dear Anna, I want to tell you about festivals. I dress up as a pirate. It is a fancy dress party. We dance at the carnival. We go to a masquerade at New Year. The town has a jubilee this year. We watched the parade last year. We sing and dance in the street with my friends. I like festivals very much. See you soon. Best, Lily",
+      "sound": "Carnival has its strongest beat on CAR. In carnival, say CAR clearly at the start. In masquerade, say RADE clearly at the end.",
+      "model": "We dance at the carnival.",
+      "wordTask": "What is a carnival?",
+      "wordSample": "A big public party in the street."
+    },
+    {
+      "unit": 21,
+      "day": 164,
+      "title": "Planning a party",
+      "goal": "I can talk about planning a party.",
+      "newItems": [
+        {
+          "word": "lantern",
+          "ipa": "/ˈlæntɚn/",
+          "pos": "noun",
+          "definition": "A light you can carry.",
+          "example": "We hang lanterns in the garden.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "garland",
+          "ipa": "/ˈɡɑrlənd/",
+          "pos": "noun",
+          "definition": "Flowers or leaves on a string.",
+          "example": "We hang a garland on the door.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "throw a party",
+          "ipa": "/θroʊ ə ˈpɑrti/",
+          "pos": "fixed phrase",
+          "definition": "To give a party.",
+          "example": "We throw a party for Anna.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "put up decorations",
+          "ipa": "/pʊt ʌp ˌdɛkəˈreɪʃənz/",
+          "pos": "fixed phrase",
+          "definition": "To hang things to make a place look nice.",
+          "example": "We put up decorations for the party.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "celebrate in style",
+          "ipa": "/ˈsɛləˌbreɪt ɪn staɪl/",
+          "pos": "fixed phrase",
+          "definition": "To celebrate in a big, happy way.",
+          "example": "We celebrate in style.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "food",
+        "drink",
+        "friend",
+        "home",
+        "table"
+      ],
+      "mainWord": {
+        "word": "lantern",
+        "ipa": "/ˈlæntɚn/",
+        "pos": "noun",
+        "definition": "A light you can carry.",
+        "example": "We hang lanterns in the garden.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Lantern is a noun. Lantern means a light you can carry. We hang lanterns in the garden.",
+      "pronunciationTarget": {
+        "word": "lantern",
+        "ipa": "/ˈlæntɚn/"
+      },
+      "expression": "We throw a party for Anna.",
+      "use": "Use this when you talk about giving a party.",
+      "expressionTask": "Tom and Lily talk about planning a party. What do they say?",
+      "grammar": "present continuous for arrangements: We are throwing a party on Sunday",
+      "pattern": "We are throwing a party on Sunday.",
+      "task": "We are ___ a party on Sunday.",
+      "answer": "throwing",
+      "example": "We are throwing a party on Sunday.",
+      "context": [
+        "Tom and Lily talk about planning a party.",
+        "Tom says, 'We throw a party for Anna. We are throwing a party on Sunday.'"
+      ],
+      "dialogue": [
+        "Lily, what is a lantern?",
+        "It is a light you can carry. We hang lanterns in the garden.",
+        "What is a garland?",
+        "It is flowers or leaves on a string. We hang a garland on the door.",
+        "What do we do at the party?",
+        "We put up decorations for the party. We celebrate in style."
+      ],
+      "listening": "Tom and Lily talk about planning a party. Tom says, 'We throw a party for Anna.' Lily says, 'What is a lantern?' Tom says, 'It is a light you can carry. We hang lanterns in the garden.' Lily says, 'What is a garland?' Tom says, 'It is flowers or leaves on a string.'",
+      "question": "What do Tom and Lily throw?",
+      "correct": "A party",
+      "other": "A ball",
+      "reading": "On Tuesday, Tom and Lily talk about planning a party. Tom says, 'We throw a party for Anna. We are throwing a party on Sunday. We celebrate in style.' Lily says, 'What is a lantern?' Tom says, 'It is a light you can carry. We hang lanterns in the garden. A lantern is a light you can carry.' Lily says, 'What is a garland?' Tom says, 'It is flowers or leaves on a string. We hang a garland on the door. We put up decorations for the party. I like parties. We eat good food and drink at the party. We sing and dance with our friends. Planning a party is fun for all of us.'",
+      "readingQ": "What do Tom and Lily throw?",
+      "readingA": "A party.",
+      "speaking": "Tell a friend about planning a party. What do you say?",
+      "speakingSample": "I talk about planning a party with my friend Tom. We throw a party for Anna. We are throwing a party on Sunday. We hang lanterns in the garden. We hang a garland on the door. We put up decorations for the party. We celebrate in style. I like parties very much.",
+      "writing": "Write a short email to a friend about planning a party. Say what you do.",
+      "writingSample": "Dear Anna, I want to tell you about planning a party. We throw a party for Anna. We are throwing a party on Sunday. We hang lanterns in the garden. We hang a garland on the door. We put up decorations for the party. We celebrate in style. I like parties very much. We eat good food and drink at the party. See you soon. Best, Lily",
+      "sound": "Lantern has its strongest beat on LAN. In lantern, say LAN clearly at the start. In garland, say GAR clearly at the start.",
+      "model": "A lantern is a light you can carry.",
+      "wordTask": "What is a lantern?",
+      "wordSample": "A light you can carry."
+    },
+    {
+      "unit": 21,
+      "day": 165,
+      "title": "Christmas and winter",
+      "goal": "I can talk about Christmas.",
+      "newItems": [
+        {
+          "word": "tinsel",
+          "ipa": "/ˈtɪnsəl/",
+          "pos": "noun",
+          "definition": "Shiny thin strips for decoration.",
+          "example": "We put tinsel on the tree.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "wreath",
+          "ipa": "/riθ/",
+          "pos": "noun",
+          "definition": "A circle of flowers or leaves.",
+          "example": "We put a wreath on the door.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "mistletoe",
+          "ipa": "/ˈmɪsəlˌtoʊ/",
+          "pos": "noun",
+          "definition": "A green plant people kiss under at Christmas.",
+          "example": "We hang mistletoe over the door.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "exchange gifts",
+          "ipa": "/ɪksˈtʃeɪndʒ ɡɪfts/",
+          "pos": "fixed phrase",
+          "definition": "To give gifts to each other.",
+          "example": "We exchange gifts at Christmas.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "on this special day",
+          "ipa": "/ɑn ðɪs ˈspɛʃəl deɪ/",
+          "pos": "fixed phrase",
+          "definition": "On this important day.",
+          "example": "We are happy on this special day.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "give",
+        "card",
+        "box",
+        "paper",
+        "color"
+      ],
+      "mainWord": {
+        "word": "tinsel",
+        "ipa": "/ˈtɪnsəl/",
+        "pos": "noun",
+        "definition": "Shiny thin strips for decoration.",
+        "example": "We put tinsel on the tree.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Tinsel is a noun. Tinsel means shiny thin strips for decoration. We put tinsel on the tree.",
+      "pronunciationTarget": {
+        "word": "tinsel",
+        "ipa": "/ˈtɪnsəl/"
+      },
+      "expression": "We exchange gifts at Christmas.",
+      "use": "Use this when you talk about giving gifts.",
+      "expressionTask": "Tom and Lily talk about Christmas. What do they say?",
+      "grammar": "will for promises: I will bring a gift",
+      "pattern": "I will bring a gift.",
+      "task": "I ___ bring a gift.",
+      "answer": "will",
+      "example": "I will bring a gift.",
+      "context": [
+        "Tom and Lily talk about Christmas.",
+        "Tom says, 'We exchange gifts at Christmas. I will bring a gift.'"
+      ],
+      "dialogue": [
+        "Lily, what is tinsel?",
+        "It is shiny thin strips for decoration. We put tinsel on the tree.",
+        "What is a wreath?",
+        "It is a circle of flowers or leaves. We put a wreath on the door.",
+        "What is mistletoe?",
+        "It is a green plant. We hang mistletoe over the door. We are happy on this special day."
+      ],
+      "listening": "Tom and Lily talk about Christmas. Tom says, 'We exchange gifts at Christmas. I will bring a gift.' Lily says, 'What is tinsel?' Tom says, 'It is shiny thin strips for decoration. We put tinsel on the tree.' Lily says, 'What is a wreath?' Tom says, 'It is a circle of flowers or leaves.'",
+      "question": "What do Tom and Lily exchange?",
+      "correct": "Gifts",
+      "other": "Cards",
+      "reading": "On Wednesday, Tom and Lily talk about Christmas. Tom says, 'We exchange gifts at Christmas. I will bring a gift. We are happy on this special day.' Lily says, 'What is tinsel?' Tom says, 'It is shiny thin strips for decoration. We put tinsel on the tree. Tinsel is shiny and fun.' Lily says, 'What is a wreath?' Tom says, 'It is a circle of flowers or leaves. We put a wreath on the door. A wreath is a circle of flowers.' Lily says, 'What is mistletoe?' Tom says, 'It is a green plant. We hang mistletoe over the door. I like Christmas. We sing songs and eat good food. Christmas is a happy time for all of us.'",
+      "readingQ": "What do Tom and Lily exchange?",
+      "readingA": "Gifts.",
+      "speaking": "Tell a friend about Christmas. What do you say?",
+      "speakingSample": "I talk about Christmas with my friend Tom. We exchange gifts at Christmas. I will bring a gift. We put tinsel on the tree. We put a wreath on the door. We hang mistletoe over the door. We are happy on this special day. We sing songs and eat good food.",
+      "writing": "Write a short email to a friend about Christmas. Say what you do.",
+      "writingSample": "Dear Anna, I want to tell you about Christmas. We exchange gifts at Christmas. I will bring a gift. We put tinsel on the tree. We put a wreath on the door. We hang mistletoe over the door. We are happy on this special day. We sing songs and eat good food at home. I like Christmas very much with my family. See you soon. Best, Lily",
+      "sound": "Tinsel has its strongest beat on TIN. In tinsel, say TIN clearly at the start. In wreath, say WREATH clearly.",
+      "model": "We put tinsel on the tree.",
+      "wordTask": "What is tinsel?",
+      "wordSample": "Shiny thin strips for decoration."
+    },
+    {
+      "unit": 21,
+      "day": 166,
+      "title": "Traditions and customs",
+      "goal": "I can talk about traditions.",
+      "newItems": [
+        {
+          "word": "tradition",
+          "ipa": "/trəˈdɪʃən/",
+          "pos": "noun",
+          "definition": "A way of doing things for many years.",
+          "example": "It is a family tradition.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "blessing",
+          "ipa": "/ˈblɛsɪŋ/",
+          "pos": "noun",
+          "definition": "A good wish for someone.",
+          "example": "We give a blessing to the new baby.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "in honor of",
+          "ipa": "/ɪn ˈɑnɚ ʌv/",
+          "pos": "fixed phrase",
+          "definition": "To show respect for someone.",
+          "example": "This party is in honor of Anna.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "ring in the new year",
+          "ipa": "/rɪŋ ɪn ðə nu jɪr/",
+          "pos": "fixed phrase",
+          "definition": "To celebrate the start of a new year.",
+          "example": "We ring in the new year at home.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "mark the occasion",
+          "ipa": "/mɑrk ði əˈkeɪʒən/",
+          "pos": "fixed phrase",
+          "definition": "To do something special for a day.",
+          "example": "We mark the occasion with a big meal.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "old",
+        "new",
+        "people",
+        "town",
+        "every"
+      ],
+      "mainWord": {
+        "word": "tradition",
+        "ipa": "/trəˈdɪʃən/",
+        "pos": "noun",
+        "definition": "A way of doing things for many years.",
+        "example": "It is a family tradition.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Tradition is a noun. Tradition means a way of doing things for many years. It is a family tradition.",
+      "pronunciationTarget": {
+        "word": "tradition",
+        "ipa": "/trəˈdɪʃən/"
+      },
+      "expression": "We ring in the new year at home.",
+      "use": "Use this when you talk about celebrating the new year.",
+      "expressionTask": "Tom and Lily talk about traditions. What do they say?",
+      "grammar": "should and shouldn't for advice: You should thank your guests",
+      "pattern": "You should thank your guests.",
+      "task": "You ___ thank your guests.",
+      "answer": "should",
+      "example": "You should thank your guests.",
+      "context": [
+        "Tom and Lily talk about traditions.",
+        "Tom says, 'We ring in the new year at home. This party is in honor of Anna.'"
+      ],
+      "dialogue": [
+        "Lily, what is a tradition?",
+        "It is a way of doing things for many years. It is a family tradition.",
+        "What is a blessing?",
+        "It is a good wish for someone. We give a blessing to the new baby.",
+        "What do we do on New Year's Eve?",
+        "We mark the occasion with a big meal. You should thank your guests."
+      ],
+      "listening": "Tom and Lily talk about traditions. Tom says, 'We ring in the new year at home.' Lily says, 'What is a tradition?' Tom says, 'It is a way of doing things for many years. It is a family tradition.' Lily says, 'What is a blessing?' Tom says, 'It is a good wish for someone.'",
+      "question": "What do Tom and Lily do at home?",
+      "correct": "Ring in the new year",
+      "other": "Watch TV",
+      "reading": "On Thursday, Tom and Lily talk about traditions. Tom says, 'We ring in the new year at home. This party is in honor of Anna. We mark the occasion with a big meal.' Lily says, 'What is a tradition?' Tom says, 'It is a way of doing things for many years. It is a family tradition. A tradition is a way of doing things.' Lily says, 'What is a blessing?' Tom says, 'It is a good wish for someone. We give a blessing to the new baby. A blessing is a good wish.' Lily says, 'What should we do?' Tom says, 'You should thank your guests. Traditions make a family happy. I like old traditions.'",
+      "readingQ": "What do Tom and Lily do at home?",
+      "readingA": "Ring in the new year.",
+      "speaking": "Tell a friend about traditions. What do you say?",
+      "speakingSample": "I talk about traditions with my friend Tom. We ring in the new year at home. This party is in honor of Anna. We mark the occasion with a big meal. It is a family tradition. We give a blessing to the new baby. You should thank your guests today.",
+      "writing": "Write a short email to a friend about traditions. Say what you do.",
+      "writingSample": "Dear Anna, I want to tell you about traditions. We ring in the new year at home. This party is in honor of Anna. We mark the occasion with a big meal. It is a family tradition. We give a blessing to the new baby. You should thank your guests today. Traditions make a family happy. I like old traditions. See you soon. Best, Lily",
+      "sound": "Tradition has its strongest beat on DITION. In tradition, say DITION clearly at the end. In blessing, say BLESS clearly at the start.",
+      "model": "It is a family tradition.",
+      "wordTask": "What is a tradition?",
+      "wordSample": "A way of doing things for many years."
+    },
+    {
+      "unit": 21,
+      "day": 167,
+      "title": "A special meal",
+      "goal": "I can talk about a special meal.",
+      "newItems": [
+        {
+          "word": "feast",
+          "ipa": "/fist/",
+          "pos": "noun",
+          "definition": "A big special meal.",
+          "example": "We have a feast at New Year.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "bonfire",
+          "ipa": "/ˈbɑnˌfaɪɚ/",
+          "pos": "noun",
+          "definition": "A big outdoor fire.",
+          "example": "We sit by the bonfire at night.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "cut the cake",
+          "ipa": "/kʌt ðə keɪk/",
+          "pos": "fixed phrase",
+          "definition": "To cut the first piece of cake.",
+          "example": "The bride cuts the cake.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "raise your glass",
+          "ipa": "/reɪz jɔr ɡlæs/",
+          "pos": "fixed phrase",
+          "definition": "To lift your glass to wish someone well.",
+          "example": "We raise our glasses to the bride.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "clink glasses",
+          "ipa": "/klɪŋk ˈɡlæsɪz/",
+          "pos": "fixed phrase",
+          "definition": "To hit glasses together in a toast.",
+          "example": "We clink glasses and say cheers.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "thank",
+        "wish",
+        "good",
+        "luck",
+        "health"
+      ],
+      "mainWord": {
+        "word": "feast",
+        "ipa": "/fist/",
+        "pos": "noun",
+        "definition": "A big special meal.",
+        "example": "We have a feast at New Year.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Feast is a noun. Feast means a big special meal. We have a feast at New Year.",
+      "pronunciationTarget": {
+        "word": "feast",
+        "ipa": "/fist/"
+      },
+      "expression": "Raise your glass to the bride.",
+      "use": "Use this when you drink to someone at a meal.",
+      "expressionTask": "Tom and Lily talk about a special meal. What do they say?",
+      "grammar": "present perfect for experiences: I have been to many feasts",
+      "pattern": "I have been to many feasts.",
+      "task": "I have ___ to many feasts.",
+      "answer": "been",
+      "example": "I have been to many feasts.",
+      "context": [
+        "Tom and Lily talk about a special meal.",
+        "Tom says, 'Raise your glass to the bride. We clink glasses and say cheers.'"
+      ],
+      "dialogue": [
+        "Lily, what is a feast?",
+        "It is a big special meal. We have a feast at New Year.",
+        "What is a bonfire?",
+        "It is a big outdoor fire. We sit by the bonfire at night.",
+        "What do we do at the meal?",
+        "We cut the cake. I have been to many feasts."
+      ],
+      "listening": "Tom and Lily talk about a special meal. Tom says, 'Raise your glass to the bride. We clink glasses.' Lily says, 'What is a feast?' Tom says, 'It is a big special meal. We have a feast at New Year.' Lily says, 'What is a bonfire?' Tom says, 'It is a big outdoor fire.'",
+      "question": "What do Tom and Lily do at the meal?",
+      "correct": "Cut the cake",
+      "other": "Go home",
+      "reading": "On Friday, Tom and Lily talk about a special meal. Tom says, 'Raise your glass to the bride. We clink glasses and say cheers. We cut the cake.' Lily says, 'What is a feast?' Tom says, 'It is a big special meal. We have a feast at New Year. A feast is a big special meal.' Lily says, 'What is a bonfire?' Tom says, 'It is a big outdoor fire. We sit by the bonfire at night. A bonfire is a big outdoor fire.' Lily says, 'What do we do?' Tom says, 'We cut the cake. I have been to many feasts. I like special meals. We eat good food with our friends.'",
+      "readingQ": "What do Tom and Lily do at the meal?",
+      "readingA": "Cut the cake.",
+      "speaking": "Tell a friend about a special meal. What do you say?",
+      "speakingSample": "I talk about a special meal with my friend Tom. Raise your glass to the bride. We clink glasses and say cheers. We cut the cake. We have a feast at New Year. We sit by the bonfire at night. I have been to many feasts. I like special meals very much.",
+      "writing": "Write a short email to a friend about a special meal. Say what you do.",
+      "writingSample": "Dear Anna, I want to tell you about a special meal. Raise your glass to the bride. We clink glasses and say cheers. We cut the cake. We have a feast at New Year. We sit by the bonfire at night. I have been to many feasts. I like special meals very much. We eat good food with our friends. See you soon. Best, Lily",
+      "sound": "Feast has its strongest beat on FEAST. In feast, say FEAST clearly. In bonfire, say BON clearly at the start.",
+      "model": "We have a feast at New Year.",
+      "wordTask": "What is a feast?",
+      "wordSample": "A big special meal."
+    },
+    {
+      "unit": 21,
+      "day": 168,
+      "title": "Use celebration English in a new situation",
+      "goal": "I can use celebration English in a new situation.",
+      "newItems": [
+        {
+          "word": "countdown",
+          "ipa": "/ˈkaʊntˌdaʊn/",
+          "pos": "noun",
+          "definition": "Counting back to a special time.",
+          "example": "The countdown to midnight is fun.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "ornament",
+          "ipa": "/ˈɔrnəmənt/",
+          "pos": "noun",
+          "definition": "A small thing you hang to decorate.",
+          "example": "We put ornaments on the tree.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "dance the night away",
+          "ipa": "/dæns ðə naɪt əˈweɪ/",
+          "pos": "fixed phrase",
+          "definition": "To dance all evening.",
+          "example": "We dance the night away at the party.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "a night to remember",
+          "ipa": "/ə naɪt tə rɪˈmɛmbɚ/",
+          "pos": "fixed phrase",
+          "definition": "A night you will not forget.",
+          "example": "It is a night to remember.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "a big day",
+          "ipa": "/ə bɪɡ deɪ/",
+          "pos": "fixed phrase",
+          "definition": "A very important day.",
+          "example": "Today is a big day for us.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "today",
+        "big",
+        "special",
+        "happy",
+        "together"
+      ],
+      "mainWord": {
+        "word": "countdown",
+        "ipa": "/ˈkaʊntˌdaʊn/",
+        "pos": "noun",
+        "definition": "Counting back to a special time.",
+        "example": "The countdown to midnight is fun.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Countdown is a noun. Countdown means counting back to a special time. The countdown to midnight is fun.",
+      "pronunciationTarget": {
+        "word": "countdown",
+        "ipa": "/ˈkaʊntˌdaʊn/"
+      },
+      "expression": "Today is a big day for us.",
+      "use": "Use this when you talk about a very important day.",
+      "expressionTask": "Emma talks about celebrations. What does she say?",
+      "grammar": "review: celebration English",
+      "pattern": "Today is a big day for us.",
+      "task": "Today is a big ___ for us.",
+      "answer": "day",
+      "example": "Today is a big day for us.",
+      "context": [
+        "Emma talks about celebrations with her mother.",
+        "Emma says, 'Today is a big day for us. It is a night to remember.'"
+      ],
+      "dialogue": [
+        "Emma, what is a countdown?",
+        "It is counting back to a special time. The countdown to midnight is fun.",
+        "What is an ornament?",
+        "It is a small thing you hang to decorate. We put ornaments on the tree.",
+        "Will you dance tonight?",
+        "Yes. We dance the night away at the party. Today is a big day for us."
+      ],
+      "listening": "Emma talks about celebrations. Emma says, 'Today is a big day for us. It is a night to remember.' Her mother says, 'What is a countdown?' Emma says, 'It is counting back to a special time.' Her mother says, 'What is an ornament?' Emma says, 'We put ornaments on the tree.'",
+      "question": "What is a countdown?",
+      "correct": "Counting back to a special time",
+      "other": "A kind of cake",
+      "reading": "On Saturday, Emma talks about celebrations with her mother. Emma says, 'Today is a big day for us. It is a night to remember. We dance the night away at the party.' Her mother says, 'What is a countdown?' Emma says, 'It is counting back to a special time. The countdown to midnight is fun. A countdown is counting back.' Her mother says, 'What is an ornament?' Emma says, 'It is a small thing you hang to decorate. We put ornaments on the tree. An ornament is a small thing.' Her mother says, 'Will you dance tonight?' Emma says, 'Yes. We dance the night away at the party. Today I can use celebration English in a new situation.' Emma says, 'Thank you. I like celebrations. They are good days.'",
+      "readingQ": "What is a countdown?",
+      "readingA": "Counting back to a special time.",
+      "speaking": "Tell a friend about celebrations. What do you say?",
+      "speakingSample": "I talk about celebrations with my friend Emma. Today is a big day for us. It is a night to remember. We dance the night away at the party. The countdown to midnight is fun. We put ornaments on the tree. I like celebrations. They are good days for all of us.",
+      "writing": "Write a short email to a friend about celebrations. Say what celebrations mean to you.",
+      "writingSample": "Dear Anna, I want to tell you about celebrations. Today is a big day for us. It is a night to remember. We dance the night away at the party. The countdown to midnight is fun. We put ornaments on the tree. I like celebrations. They are good days for all of us. I am happy today at the party. See you soon. Best, Emma",
+      "sound": "Countdown has its strongest beat on COUNT. In countdown, say COUNT clearly at the start. In ornament, say ORNA clearly at the start.",
+      "model": "The countdown to midnight is fun.",
+      "wordTask": "What is a countdown?",
+      "wordSample": "Counting back to a special time.",
+      "transferCheck": {
+        "source": "On Saturday, Emma goes to a New Year party with her friend Sara. Emma says, 'I can use celebration English in a new situation. Today is a big day for us. It is a night to remember. We dance the night away at the party.' Sara says, 'Yes. What can we do?' Emma says, 'We can dance the night away. The countdown to midnight is fun.' Sara says, 'Good. You use celebration English well.'",
+        "dictation": "Today is a big day for us.",
+        "answer": "1. Emma goes to a New Year party with her friend Sara. She talks about celebrations. 2. Emma's first job is to say she can use celebration English in a new situation. 3. On Saturday, Emma says, 'I can use celebration English in a new situation.' 4. Today is a big day for us. 5. Sample: On Saturday, Emma goes to a New Year party with her friend Sara. Emma says, 'I can use celebration English in a new situation. Today is a big day for us. It is a night to remember. We dance the night away at the party.' Sara says, 'Yes. What can we do?' Emma says, 'We can dance the night away. The countdown to midnight is fun.' Sara says, 'Good. You use celebration English well.' Follow-up: What can Emma and Sara do? Dance the night away.",
+        "tasks": [
+          [
+            "1 · Identify the people and the new situation",
+            "Who does Emma meet, and what does she talk about?"
+          ],
+          [
+            "2 · Work out what Emma does first",
+            "What is Emma's first job, and what does she say?"
+          ],
+          [
+            "3 · Notice the sentence on Saturday",
+            "What does Emma say on Saturday?"
+          ],
+          [
+            "4 · Listen and write",
+            "Write the sentence you hear."
+          ],
+          [
+            "5 · Retell and answer",
+            "Tell the story in order, including the people, the new situation, the first talk, and the result. Then answer one follow-up question."
+          ]
+        ]
+      }
+    }
+  ]
+}

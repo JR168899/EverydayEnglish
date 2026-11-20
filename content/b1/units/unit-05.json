@@ -1,0 +1,905 @@
+{
+  "number": 5,
+  "title": "Emails and messages at work",
+  "lessons": [
+    {
+      "unit": 5,
+      "day": 33,
+      "title": "Write a short work email",
+      "goal": "I can write a short work email and say why I am writing.",
+      "newItems": [
+        {
+          "word": "draft",
+          "ipa": "/dræft/",
+          "pos": "noun",
+          "definition": "An email that you have written but not sent yet.",
+          "example": "I saved the email as a draft.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "formal",
+          "ipa": "/ˈfɔrməl/",
+          "pos": "adjective",
+          "definition": "Polite and serious in style, for work or official use.",
+          "example": "Write a formal email to the manager.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "memo",
+          "ipa": "/ˈmɛmoʊ/",
+          "pos": "noun",
+          "definition": "A short written message at work.",
+          "example": "The manager sent a memo to the team.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "I am writing to",
+          "ipa": "/aɪ æm ˈraɪtɪŋ tu/",
+          "pos": "fixed phrase",
+          "definition": "Used at the start of an email to say why you write.",
+          "example": "I am writing to ask about the meeting.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "please find attached",
+          "ipa": "/pliz faɪnd əˈtætʃt/",
+          "pos": "fixed phrase",
+          "definition": "Used in an email to say a file is with the email.",
+          "example": "Please find attached the report.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "email",
+        "work",
+        "team",
+        "office",
+        "morning"
+      ],
+      "mainWord": {
+        "word": "draft",
+        "ipa": "/dræft/",
+        "pos": "noun",
+        "definition": "An email that you have written but not sent yet.",
+        "example": "I saved the email as a draft.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Draft is a noun. Draft means an email that you have written but not sent yet. I saved the email as a draft.",
+      "pronunciationTarget": {
+        "word": "draft",
+        "ipa": "/dræft/"
+      },
+      "expression": "I am writing to ask about the meeting.",
+      "use": "Use this at the start of an email to say why you write.",
+      "expressionTask": "Sam writes an email to Anna. What does he say first?",
+      "grammar": "Email openings: I am writing to...",
+      "pattern": "I am writing to ask about the meeting.",
+      "task": "I am writing to ___ about the meeting.",
+      "answer": "ask",
+      "example": "I am writing to ask about the meeting.",
+      "context": [
+        "Sam writes a short work email in the morning.",
+        "I am writing to ask about the meeting. Please find attached the report."
+      ],
+      "dialogue": [
+        "Sam, what are you writing?",
+        "I am writing to ask about the meeting.",
+        "Is the email formal?",
+        "Yes, it is a formal email to the manager.",
+        "Do you attach the report?",
+        "Yes. Please find attached the report. I saved it as a draft first."
+      ],
+      "listening": "Sam writes a short work email in the morning. He says, 'I am writing to ask about the meeting.' The email is formal. Sam writes a memo to his team. He saves the email as a draft. Then he reads it. Sam says, 'Please find attached the report.' He sends the email to the manager.",
+      "question": "What does Sam write in the morning?",
+      "correct": "A short work email",
+      "other": "A long letter",
+      "reading": "Sam writes a short work email in the morning. He says, 'I am writing to ask about the meeting.' The email is formal. Sam writes a memo to his team about the new project. He saves the email as a draft and reads it again. Sam wants the email to be clear and polite. He writes, 'Please find attached the report.' The report is about the new office. Sam sends the email to the manager. The manager reads the email in the morning. She likes the formal email. She says, 'Thank you for the report. I will read it today.' Sam is happy. He likes to write short work emails. He saves every email as a draft first. Then he checks the words and sends it.",
+      "readingQ": "Why does Sam save the email as a draft first?",
+      "readingA": "He wants to check the words before he sends it.",
+      "speaking": "Tell a friend about a short work email. Why do you write it? Is it formal? What do you attach? Do you save it as a draft first?",
+      "speakingSample": "I write a short work email in the morning. I am writing to ask about the meeting. The email is formal. I write a memo to my team. I save the email as a draft. Then I read it again. Please find attached the report. I send the email to the manager. I like to write short work emails.",
+      "writing": "Write a short email to a friend about a work email. Say why you write it and what you attach.",
+      "writingSample": "Dear Tom, I want to tell you about my work email. I write a short work email in the morning. I am writing to ask about the meeting. The email is formal. I write a memo to my team about the new project. I save the email as a draft and read it again. Please find attached the report. I send the email to the manager. Best, Sam",
+      "sound": "Draft has its strongest beat on DRAFT. In draft, say AFT clearly at the end. In formal, say FOR clearly at the start.",
+      "model": "I saved the email as a draft.",
+      "wordTask": "What does Sam save first?",
+      "wordSample": "He saves the email as a draft."
+    },
+    {
+      "unit": 5,
+      "day": 34,
+      "title": "Ask for information by email",
+      "goal": "I can ask for information by email in a polite way.",
+      "newItems": [
+        {
+          "word": "request",
+          "ipa": "/rɪˈkwɛst/",
+          "pos": "noun",
+          "definition": "A polite ask for something.",
+          "example": "I have a request for the team.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "compose",
+          "ipa": "/kəmˈpoʊz/",
+          "pos": "verb",
+          "definition": "To write an email or a message.",
+          "example": "I compose a short email to Anna.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "scan",
+          "ipa": "/skæn/",
+          "pos": "verb",
+          "definition": "To copy a paper page into a computer file.",
+          "example": "Please scan the letter and send it to me.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "as requested",
+          "ipa": "/æz rɪˈkwɛstəd/",
+          "pos": "fixed phrase",
+          "definition": "As you asked me to do.",
+          "example": "As requested, here is the report.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "do not hesitate to",
+          "ipa": "/du nɑt ˈhɛzəˌteɪt tu/",
+          "pos": "fixed phrase",
+          "definition": "Please ask me; I am happy to help.",
+          "example": "Do not hesitate to contact me.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "ask",
+        "help",
+        "question",
+        "project",
+        "meeting"
+      ],
+      "mainWord": {
+        "word": "request",
+        "ipa": "/rɪˈkwɛst/",
+        "pos": "noun",
+        "definition": "A polite ask for something.",
+        "example": "I have a request for the team.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Request is a noun. Request means a polite ask for something. I have a request for the team.",
+      "pronunciationTarget": {
+        "word": "request",
+        "ipa": "/rɪˈkwɛst/"
+      },
+      "expression": "Could you please send me the report?",
+      "use": "Use this when you ask for information by email.",
+      "expressionTask": "Sam needs the report. What does he ask?",
+      "grammar": "Polite requests: Could you please...?",
+      "pattern": "Could you please send me the report?",
+      "task": "Could you please ___ me the report?",
+      "answer": "send",
+      "example": "Could you please send me the report?",
+      "context": [
+        "Sam composes an email to ask for information.",
+        "Could you please send me the report? As requested, here is my question."
+      ],
+      "dialogue": [
+        "Sam, what is your request?",
+        "I need the report for Friday.",
+        "Could you please send me the report?",
+        "Yes, I will send it today.",
+        "Do not hesitate to ask me again.",
+        "Thank you. I will read it today."
+      ],
+      "listening": "Sam composes an email to Anna. He has a request for the team. He writes, 'Could you please send me the report?' Sam needs the report. He scans the letter first. He says, 'Do not hesitate to ask me.' Anna reads it. She sends the report. Sam says, 'As requested, thank you for the report.'",
+      "question": "What does Sam ask Anna to send?",
+      "correct": "The report",
+      "other": "The memo",
+      "reading": "Sam composes an email to Anna in the morning. He has a request for the team. Sam needs the report for Friday. He writes, 'Could you please send me the report?' Sam says, 'I compose a short email every morning.' He says, 'I scan the old letter first.' He wants to ask a good question. He says, 'Do not hesitate to ask me.' Anna reads the email at work. She sends the report to Sam. Sam says, 'As requested, thank you for the report.' Anna is happy to help. Sam likes to ask for information by email. He writes a short email and reads it again. Then he sends it to Anna. Sam says, 'Please ask me if you have a question.'",
+      "readingQ": "What does Sam scan first?",
+      "readingA": "He scans the old letter.",
+      "speaking": "Tell a friend about asking for information by email. What is your request? What do you ask for? How do you ask politely?",
+      "speakingSample": "I compose an email to Anna. I have a request for the team. I write, 'Could you please send me the report?' I scan the old letter first. I say, 'Do not hesitate to ask me.' Anna sends the report. As requested, I read it today. I like to ask for information by email.",
+      "writing": "Write a short email to a friend about asking for information. Say what your request is and how you ask politely.",
+      "writingSample": "Dear Lisa, I want to tell you about my email to Anna. I compose an email to Anna in the morning. I have a request for the team. I write, 'Could you please send me the report?' I scan the old letter first. I say, 'Do not hesitate to ask me.' Anna sends the report to me. As requested, I read it today. Best, Sam",
+      "sound": "Request has its strongest beat on QUEST. In request, say QUEST clearly at the end. In compose, say POSE clearly at the end.",
+      "model": "I have a request for the team.",
+      "wordTask": "What does Sam ask Anna to send?",
+      "wordSample": "He asks Anna to send the report."
+    },
+    {
+      "unit": 5,
+      "day": 35,
+      "title": "Reply to an email politely",
+      "goal": "I can reply to an email in a polite way.",
+      "newItems": [
+        {
+          "word": "enclose",
+          "ipa": "/ɪnˈkloʊz/",
+          "pos": "verb",
+          "definition": "To put something inside an email or a letter.",
+          "example": "I enclose a copy of the report.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "sender",
+          "ipa": "/ˈsɛndɚ/",
+          "pos": "noun",
+          "definition": "The person who sends an email or a message.",
+          "example": "The sender of the email is Sam.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "in reply to",
+          "ipa": "/ɪn rɪˈplaɪ tu/",
+          "pos": "fixed phrase",
+          "definition": "As an answer to an email or a message.",
+          "example": "In reply to your email, the meeting is on Friday.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "write back",
+          "ipa": "/raɪt bæk/",
+          "pos": "fixed phrase",
+          "definition": "To reply to an email or a letter.",
+          "example": "I will write back tomorrow.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "best regards",
+          "ipa": "/bɛst rɪˈɡɑrdz/",
+          "pos": "fixed phrase",
+          "definition": "A polite way to end a work email.",
+          "example": "Best regards, Sam",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "letter",
+        "friend",
+        "write",
+        "read",
+        "client"
+      ],
+      "mainWord": {
+        "word": "enclose",
+        "ipa": "/ɪnˈkloʊz/",
+        "pos": "verb",
+        "definition": "To put something inside an email or a letter.",
+        "example": "I enclose a copy of the report.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Enclose is a verb. Enclose means to put something inside an email or a letter. I enclose a copy of the report.",
+      "pronunciationTarget": {
+        "word": "enclose",
+        "ipa": "/ɪnˈkloʊz/"
+      },
+      "expression": "In reply to your email, the meeting is on Friday.",
+      "use": "Use this at the start of a reply to an email.",
+      "expressionTask": "Sam replies to Anna's email. What does he say first?",
+      "grammar": "Replying politely: In reply to your email...",
+      "pattern": "In reply to your email, the meeting is on Friday.",
+      "task": "In reply to your email, the meeting is on ___.",
+      "answer": "Friday",
+      "example": "In reply to your email, the meeting is on Friday.",
+      "context": [
+        "Sam replies to Anna's email in the morning.",
+        "In reply to your email, the meeting is on Friday. I enclose a copy of the report."
+      ],
+      "dialogue": [
+        "Sam, who is the sender of the email?",
+        "The sender is Anna. She writes about Friday.",
+        "What do you write back?",
+        "In reply to your email, the meeting is on Friday.",
+        "Do you enclose a copy of the report?",
+        "Yes. Best regards, Sam."
+      ],
+      "listening": "Sam gets an email from Anna today. The sender is Anna. Sam writes back to her. He says, 'In reply to your email, the meeting is on Friday.' Sam encloses a copy of the report. He writes, 'Best regards, Sam.' Anna reads the reply. She is happy. Sam likes to reply to emails politely.",
+      "question": "When is the meeting?",
+      "correct": "On Friday",
+      "other": "On Monday",
+      "reading": "Sam gets an email from Anna in the morning. The sender is Anna. She writes about the meeting on Friday. Sam writes back to her. He says, 'In reply to your email, the meeting is on Friday.' Sam says, 'I enclose a copy of the report.' He says, 'I write back today.' He writes, 'Best regards, Sam.' Anna reads the reply at work. She is happy. Sam likes to reply to emails in a polite way. He reads the email first. Then he writes back. Sam says, 'Thank you for your email.' Anna writes back to Sam, too. Sam says, 'Thank you for your email about Friday.' They like to write polite emails.",
+      "readingQ": "Who is the sender of the email?",
+      "readingA": "The sender is Anna.",
+      "speaking": "Tell a friend about replying to an email. Who is the sender? What do you write back? What do you enclose? How do you end the email?",
+      "speakingSample": "I get an email from Anna. The sender is Anna. I write back to her. In reply to your email, the meeting is on Friday. I enclose a copy of the report. I write, 'Best regards, Sam.' I read the email first. I like to reply to emails in a polite way.",
+      "writing": "Write a short email to a friend about replying to an email. Say who the sender is and what you write back.",
+      "writingSample": "Dear Tom, I want to tell you about my reply to Anna. The sender is Anna. She writes about the meeting on Friday. I write back to her. In reply to your email, the meeting is on Friday. I enclose a copy of the report. I write, 'Best regards, Sam.' I read the email first. I like to reply to emails in a polite way. Best, Sam",
+      "sound": "Enclose has its strongest beat on CLOSE. In enclose, say CLOSE clearly at the end. In sender, say SEND clearly at the start.",
+      "model": "I enclose a copy of the report.",
+      "wordTask": "Who is the sender of the email?",
+      "wordSample": "The sender is Anna."
+    },
+    {
+      "unit": 5,
+      "day": 36,
+      "title": "Send a message to a colleague",
+      "goal": "I can send a short message to a colleague.",
+      "newItems": [
+        {
+          "word": "tone",
+          "ipa": "/toʊn/",
+          "pos": "noun",
+          "definition": "The way something sounds; how polite or serious it is.",
+          "example": "Use a friendly tone in your email.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "mailbox",
+          "ipa": "/ˈmeɪlˌbɑks/",
+          "pos": "noun",
+          "definition": "A place where your emails are kept.",
+          "example": "Check your mailbox for new emails.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "thread",
+          "ipa": "/θrɛd/",
+          "pos": "noun",
+          "definition": "A group of emails about the same topic.",
+          "example": "The email thread is very long.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "just a quick note",
+          "ipa": "/dʒʌst ə kwɪk noʊt/",
+          "pos": "fixed phrase",
+          "definition": "A very short message.",
+          "example": "Just a quick note to say thank you.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "just checking in",
+          "ipa": "/dʒʌst ˈtʃɛkɪŋ ɪn/",
+          "pos": "fixed phrase",
+          "definition": "A friendly way to ask how things are.",
+          "example": "Just checking in about the project.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "phone",
+        "call",
+        "talk",
+        "message",
+        "colleague"
+      ],
+      "mainWord": {
+        "word": "tone",
+        "ipa": "/toʊn/",
+        "pos": "noun",
+        "definition": "The way something sounds; how polite or serious it is.",
+        "example": "Use a friendly tone in your email.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Tone is a noun. Tone means the way something sounds; how polite or serious it is. Use a friendly tone in your email.",
+      "pronunciationTarget": {
+        "word": "tone",
+        "ipa": "/toʊn/"
+      },
+      "expression": "Just a quick note to say thank you.",
+      "use": "Use this when you send a very short message.",
+      "expressionTask": "Sam sends a short message to his colleague. What does he say?",
+      "grammar": "Short messages: present continuous for now",
+      "pattern": "I am checking in about the project.",
+      "task": "I am ___ in about the project.",
+      "answer": "checking",
+      "example": "I am checking in about the project.",
+      "context": [
+        "Sam sends a short message to his colleague.",
+        "Just a quick note to say thank you. I am checking in about the project."
+      ],
+      "dialogue": [
+        "Sam, do you call your colleague?",
+        "No, I send a short message on my phone.",
+        "What is the tone of your message?",
+        "The tone is friendly. Just a quick note to say thank you.",
+        "Do you check your mailbox every day?",
+        "Yes, I check my mailbox and the email thread every morning."
+      ],
+      "listening": "Sam sends a short message to his colleague. He says, 'Just a quick note to say thank you.' The tone of the message is friendly. Sam checks his mailbox every morning. He reads the email thread about the project. He says, 'Just checking in about the project.' His colleague is happy. Sam likes short messages.",
+      "question": "What is the tone of Sam's message?",
+      "correct": "Friendly",
+      "other": "Angry",
+      "reading": "Sam sends a short message to his colleague on his phone. He says, 'Just a quick note to say thank you.' The tone of the message is friendly. Sam checks his mailbox every morning. He reads the email thread about the project. He says, 'Just checking in about the project.' His colleague reads the message at work. She is happy. Sam likes to send short messages. He talks to his colleague on the phone, too. Sam says, 'The email thread is very long.' His colleague says, 'Thank you for your message.' Sam talks to Anna on the phone, too. She says, 'Just checking in about the meeting.' Sam is happy. He likes short messages and friendly emails.",
+      "readingQ": "What does Sam check every morning?",
+      "readingA": "He checks his mailbox.",
+      "speaking": "Tell a friend about sending a message to a colleague. How do you send it? What is the tone? What do you check every morning?",
+      "speakingSample": "I send a short message to my colleague. I say, 'Just a quick note to say thank you.' The tone of the message is friendly. I check my mailbox every morning. I read the email thread about the project. I say, 'Just checking in about the project.' I like short messages.",
+      "writing": "Write a short email to a friend about sending a message. Say how you send it and what the tone is.",
+      "writingSample": "Dear Lisa, I want to tell you about my message to my colleague. I send a short message on my phone. I say, 'Just a quick note to say thank you.' The tone of the message is friendly. I check my mailbox every morning. I read the email thread about the project. I say, 'Just checking in about the project.' I talk to my colleague on the phone, too. Best, Sam",
+      "sound": "Tone has its strongest beat on TONE. In tone, say TONE clearly. In mailbox, say MAIL clearly at the start.",
+      "model": "Use a friendly tone in your email.",
+      "wordTask": "What does Sam check every morning?",
+      "wordSample": "He checks his mailbox."
+    },
+    {
+      "unit": 5,
+      "day": 37,
+      "title": "Apologize and explain a delay",
+      "goal": "I can apologize in an email and explain a delay.",
+      "newItems": [
+        {
+          "word": "important",
+          "ipa": "/ɪmˈpɔrtənt/",
+          "pos": "adjective",
+          "definition": "Having great value or meaning.",
+          "example": "This is an important email.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "concise",
+          "ipa": "/kənˈsaɪs/",
+          "pos": "adjective",
+          "definition": "Short and clear, with no extra words.",
+          "example": "Please give a concise answer.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "out of office",
+          "ipa": "/aʊt əv ˈɔfəs/",
+          "pos": "fixed phrase",
+          "definition": "Not at work, so you cannot answer emails now.",
+          "example": "I am out of office today.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "on short notice",
+          "ipa": "/ɑn ʃɔrt ˈnoʊtəs/",
+          "pos": "fixed phrase",
+          "definition": "With very little time to plan.",
+          "example": "The meeting is on short notice.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "at your earliest convenience",
+          "ipa": "/æt jʊər ˈɝliəst kənˈviniəns/",
+          "pos": "fixed phrase",
+          "definition": "As soon as it is easy for you.",
+          "example": "Please reply at your earliest convenience.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "sorry",
+        "late",
+        "today",
+        "busy",
+        "week"
+      ],
+      "mainWord": {
+        "word": "important",
+        "ipa": "/ɪmˈpɔrtənt/",
+        "pos": "adjective",
+        "definition": "Having great value or meaning.",
+        "example": "This is an important email.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Important is an adjective. Important means having great value or meaning. This is an important email.",
+      "pronunciationTarget": {
+        "word": "important",
+        "ipa": "/ɪmˈpɔrtənt/"
+      },
+      "expression": "I am sorry for the delay in my reply.",
+      "use": "Use this when you reply late to an email.",
+      "expressionTask": "Sam replies late to an email. What does he say?",
+      "grammar": "Apologizing: I am sorry for... and past simple + because",
+      "pattern": "I am sorry for the delay.",
+      "task": "I am sorry for the ___.",
+      "answer": "delay",
+      "example": "I am sorry for the delay.",
+      "context": [
+        "Sam replies late to an important email.",
+        "I am sorry for the delay in my reply. I was out of office this week."
+      ],
+      "dialogue": [
+        "Sam, why is your reply late?",
+        "I was out of office this week.",
+        "What do you write to Anna?",
+        "I am sorry for the delay in my reply.",
+        "Is the email important?",
+        "Yes, it is important. Please read it at your earliest convenience."
+      ],
+      "listening": "Sam replies late to an important email. He says, 'I am sorry for the delay in my reply.' Sam was out of office this week. He was busy. He writes a concise email to Anna. He says, 'The meeting is on short notice.' Anna reads the email. She is happy. Sam likes concise emails.",
+      "question": "Why is Sam's reply late?",
+      "correct": "He was out of office",
+      "other": "He was on holiday",
+      "reading": "Sam replies late to an important email. He says, 'I am sorry for the delay in my reply.' Sam was out of office this week. He was very busy at work. He writes a concise email to Anna. He says, 'The meeting is on short notice.' Anna reads the email today. She is happy. Sam says, 'Please read it at your earliest convenience.' Anna says, 'Thank you for your email.' Sam likes to write concise emails. He is sorry for the delay. He says, 'I will reply on time next week.' Sam says, 'I was out of office, but I read your email today.' Anna says, 'Thank you. I will read your concise email now.' Sam is happy. He likes polite emails. Anna is happy with Sam's email.",
+      "readingQ": "What does Sam say about the meeting?",
+      "readingA": "He says the meeting is on short notice.",
+      "speaking": "Tell a friend about apologizing for a late reply. Why is your reply late? What do you say? What do you write?",
+      "speakingSample": "I reply late to an important email. I say, 'I am sorry for the delay in my reply.' I was out of office this week. I was very busy. I write a concise email to Anna. I say, 'The meeting is on short notice.' Please read it at your earliest convenience. I will reply on time next week.",
+      "writing": "Write a short email to a friend about a late reply. Say why you are late and what you write.",
+      "writingSample": "Dear Tom, I want to tell you about my late reply. I reply late to an important email. I say, 'I am sorry for the delay in my reply.' I was out of office this week. I was very busy at work. I write a concise email to Anna. I say, 'The meeting is on short notice.' Please read it at your earliest convenience. Best, Sam",
+      "sound": "Important has its strongest beat on PORT. In important, say PORT clearly in the middle. In concise, say CISE clearly at the end.",
+      "model": "This is an important email.",
+      "wordTask": "Why is Sam's reply late?",
+      "wordSample": "He was out of office this week."
+    },
+    {
+      "unit": 5,
+      "day": 38,
+      "title": "Ask for help by email",
+      "goal": "I can ask for help by email.",
+      "newItems": [
+        {
+          "word": "archive",
+          "ipa": "/ˈɑrkaɪv/",
+          "pos": "verb",
+          "definition": "To move an old email to a safe place to keep it.",
+          "example": "I archive old emails every Friday.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "delete",
+          "ipa": "/dɪˈlit/",
+          "pos": "verb",
+          "definition": "To remove an email or a file.",
+          "example": "Please delete the old email.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "account",
+          "ipa": "/əˈkaʊnt/",
+          "pos": "noun",
+          "definition": "A place where you keep your emails and files online.",
+          "example": "I have a work email account.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "drop me a line",
+          "ipa": "/drɑp mi ə laɪn/",
+          "pos": "fixed phrase",
+          "definition": "Send me a short message.",
+          "example": "Drop me a line if you need help.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "if you have any questions",
+          "ipa": "/ɪf ju hæv ˈɛni ˈkwɛstʃənz/",
+          "pos": "fixed phrase",
+          "definition": "Used to offer help at the end of an email.",
+          "example": "If you have any questions, please let me know.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "need",
+        "thanks",
+        "send",
+        "soon",
+        "polite"
+      ],
+      "mainWord": {
+        "word": "archive",
+        "ipa": "/ˈɑrkaɪv/",
+        "pos": "verb",
+        "definition": "To move an old email to a safe place to keep it.",
+        "example": "I archive old emails every Friday.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Archive is a verb. Archive means to move an old email to a safe place to keep it. I archive old emails every Friday.",
+      "pronunciationTarget": {
+        "word": "archive",
+        "ipa": "/ˈɑrkaɪv/"
+      },
+      "expression": "Could you help me with my email account?",
+      "use": "Use this when you ask for help by email.",
+      "expressionTask": "Sam needs help with his email. What does he ask?",
+      "grammar": "Asking for help: Could you help me...?",
+      "pattern": "Could you help me with my email account?",
+      "task": "Could you ___ me with my email account?",
+      "answer": "help",
+      "example": "Could you help me with my email account?",
+      "context": [
+        "Sam asks Anna for help with his email.",
+        "Could you help me with my email account? I need to delete an old email."
+      ],
+      "dialogue": [
+        "Sam, what do you need help with?",
+        "I need help with my email account.",
+        "Could you help me with my email account?",
+        "Yes, I can help you today.",
+        "Do you archive old emails?",
+        "Yes, I archive old emails every Friday. Drop me a line if you need help."
+      ],
+      "listening": "Sam asks Anna for help with his email. He says, 'Could you help me with my email account?' Sam needs to delete an email. Anna helps him. She says, 'I archive old emails every Friday.' Sam says, 'Drop me a line if you need help.' Anna is happy. Sam likes to ask for help.",
+      "question": "What does Sam need help with?",
+      "correct": "His email account",
+      "other": "His new job",
+      "reading": "Sam asks Anna for help with his email. He says, 'Could you help me with my email account?' Sam needs to delete an old email. Anna helps him today. She says, 'I archive old emails every Friday.' Sam says, 'Drop me a line if you need help.' Anna is happy to help. Sam likes to ask for help by email. He writes a short email to Anna. He says, 'If you have any questions, please let me know.' Anna says, 'Thank you for your email.' Sam says, 'Thank you for your help.' Anna says, 'Drop me a line if you need help again.' Sam is happy. He deletes the old email today. He archives the new email, too. Sam is happy. He is polite and kind.",
+      "readingQ": "What does Sam need to delete?",
+      "readingA": "He needs to delete an old email.",
+      "speaking": "Tell a friend about asking for help by email. What do you need help with? Who helps you? What do you say?",
+      "speakingSample": "I ask Anna for help with my email. I say, 'Could you help me with my email account?' I need to delete an old email. Anna helps me today. She says, 'I archive old emails every Friday.' I say, 'Drop me a line if you need help.' I like to ask for help by email.",
+      "writing": "Write a short email to a friend about asking for help. Say what you need help with and who helps you.",
+      "writingSample": "Dear Lisa, I want to tell you about my email to Anna. I ask Anna for help with my email. I say, 'Could you help me with my email account?' I need to delete an old email. Anna helps me today. She says, 'I archive old emails every Friday.' I say, 'Drop me a line if you need help.' If you have any questions, please let me know. Best, Sam",
+      "sound": "Archive has its strongest beat on AR. In archive, say AR clearly at the start. In delete, say LETE clearly at the end.",
+      "model": "I archive old emails every Friday.",
+      "wordTask": "What does Sam need help with?",
+      "wordSample": "He needs help with his email account."
+    },
+    {
+      "unit": 5,
+      "day": 39,
+      "title": "Confirm plans in writing",
+      "goal": "I can confirm plans in writing.",
+      "newItems": [
+        {
+          "word": "exact",
+          "ipa": "/ɪɡˈzækt/",
+          "pos": "adjective",
+          "definition": "Completely right; not a little wrong.",
+          "example": "Is the exact time nine o'clock?",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "original",
+          "ipa": "/əˈrɪdʒənəl/",
+          "pos": "adjective",
+          "definition": "The first one; not a copy.",
+          "example": "Send the original file, not a copy.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "for your information",
+          "ipa": "/fɔr jʊər ˌɪnfɚˈmeɪʃən/",
+          "pos": "fixed phrase",
+          "definition": "Used when you share information with someone.",
+          "example": "For your information, the meeting moved to Friday.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "for your reference",
+          "ipa": "/fɔr jʊər ˈrɛfɚəns/",
+          "pos": "fixed phrase",
+          "definition": "Used when you send something for someone to read.",
+          "example": "For your reference, here is the new schedule.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "per your request",
+          "ipa": "/pɚ jʊər rɪˈkwɛst/",
+          "pos": "fixed phrase",
+          "definition": "As you asked.",
+          "example": "Per your request, I sent the file.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "plan",
+        "report",
+        "check",
+        "friday",
+        "money"
+      ],
+      "mainWord": {
+        "word": "exact",
+        "ipa": "/ɪɡˈzækt/",
+        "pos": "adjective",
+        "definition": "Completely right; not a little wrong.",
+        "example": "Is the exact time nine o'clock?",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Exact is an adjective. Exact means completely right; not a little wrong. Is the exact time nine o'clock?",
+      "pronunciationTarget": {
+        "word": "exact",
+        "ipa": "/ɪɡˈzækt/"
+      },
+      "expression": "Per your request, I sent the file.",
+      "use": "Use this when you send something someone asked for.",
+      "expressionTask": "Sam sends the file Anna asked for. What does he say?",
+      "grammar": "Confirming: present perfect - I have sent the file",
+      "pattern": "I have sent the file to you.",
+      "task": "I have ___ the file to you.",
+      "answer": "sent",
+      "example": "I have sent the file to you.",
+      "context": [
+        "Sam confirms the plan in an email to Anna.",
+        "Per your request, I sent the file. For your information, the meeting moved to Friday."
+      ],
+      "dialogue": [
+        "Sam, what is the exact time of the meeting?",
+        "The exact time is nine o'clock on Friday.",
+        "Did you send the file?",
+        "Yes. Per your request, I sent the file.",
+        "Is this the original file?",
+        "Yes, it is the original file. For your reference, here is the new schedule."
+      ],
+      "listening": "Sam confirms the plan. He says, 'Per your request, I sent the file.' The exact time of the meeting is nine o'clock. Sam sends the original file to Anna. He says, 'For your information, the meeting moved to Friday.' Anna reads the email. She is happy. Sam likes to confirm plans in writing.",
+      "question": "What is the exact time of the meeting?",
+      "correct": "Nine o'clock",
+      "other": "Ten o'clock",
+      "reading": "Sam confirms the plan in an email to Anna. He says, 'Per your request, I sent the file.' The exact time of the meeting is nine o'clock on Friday. Sam sends the original file to Anna. He says, 'For your information, the meeting moved to Friday.' Anna reads the email at work. She is happy. Sam says, 'For your reference, here is the new schedule.' Anna checks the plan. She says, 'Thank you for the file.' Anna says, 'The exact time is good for me.' Sam says, 'For your information, I will send the original file today.' Anna is happy. She checks the new schedule again. Sam likes to confirm plans in writing. He checks the time and the file first.",
+      "readingQ": "What does Sam send to Anna?",
+      "readingA": "He sends the original file.",
+      "speaking": "Tell a friend about confirming plans in writing. What is the exact time? What do you send? What do you say?",
+      "speakingSample": "I confirm the plan in an email. I say, 'Per your request, I sent the file.' The exact time of the meeting is nine o'clock. I send the original file to Anna. I say, 'For your information, the meeting moved to Friday.' For your reference, here is the new schedule. I like to confirm plans in writing.",
+      "writing": "Write a short email to a friend about confirming plans. Say what the exact time is and what you send.",
+      "writingSample": "Dear Tom, I want to tell you about my email to Anna. I confirm the plan in an email. I say, 'Per your request, I sent the file.' The exact time of the meeting is nine o'clock on Friday. I send the original file to Anna. I say, 'For your information, the meeting moved to Friday.' For your reference, here is the new schedule. Best, Sam",
+      "sound": "Exact has its strongest beat on ZACT. In exact, say ZACT clearly at the end. In original, say RIG clearly in the middle.",
+      "model": "Is the exact time nine o'clock?",
+      "wordTask": "What is the exact time of the meeting?",
+      "wordSample": "The exact time is nine o'clock."
+    },
+    {
+      "unit": 5,
+      "day": 40,
+      "title": "Use email English in a new situation",
+      "goal": "I can use what I learned about emails in a new situation.",
+      "newItems": [
+        {
+          "word": "previous",
+          "ipa": "/ˈpriviəs/",
+          "pos": "adjective",
+          "definition": "Before this time.",
+          "example": "In the previous email, I asked about Friday.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "detailed",
+          "ipa": "/ˈditeɪld/",
+          "pos": "adjective",
+          "definition": "With many small facts.",
+          "example": "Please write a detailed report.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "to whom it may concern",
+          "ipa": "/tu hum ɪt meɪ kənˈsɝn/",
+          "pos": "fixed phrase",
+          "definition": "A formal way to start a letter when you do not know the name.",
+          "example": "To whom it may concern, I am writing about the job.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "yours sincerely",
+          "ipa": "/jʊrz sɪnˈsɪrli/",
+          "pos": "fixed phrase",
+          "definition": "A formal way to end a letter.",
+          "example": "Yours sincerely, Sam",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "carbon copy",
+          "ipa": "/ˈkɑrbən ˈkɑpi/",
+          "pos": "fixed phrase",
+          "definition": "A copy of an email sent to another person.",
+          "example": "I sent a carbon copy to the manager.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "new",
+        "job",
+        "office",
+        "first",
+        "team"
+      ],
+      "mainWord": {
+        "word": "previous",
+        "ipa": "/ˈpriviəs/",
+        "pos": "adjective",
+        "definition": "Before this time.",
+        "example": "In the previous email, I asked about Friday.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Previous is an adjective. Previous means before this time. In the previous email, I asked about Friday.",
+      "pronunciationTarget": {
+        "word": "previous",
+        "ipa": "/ˈpriviəs/"
+      },
+      "expression": "To whom it may concern, I am writing about the job.",
+      "use": "Use this to start a formal letter when you do not know the name.",
+      "expressionTask": "Emma writes a formal letter about a new job. How does she start?",
+      "grammar": "Review: I can use email English in a new situation",
+      "pattern": "I can use email English in a new situation.",
+      "task": "I can ___ email English in a new situation.",
+      "answer": "use",
+      "example": "I can use email English in a new situation.",
+      "context": [
+        "Emma writes a formal letter about a new job.",
+        "To whom it may concern, I am writing about the job. I send a carbon copy to the manager."
+      ],
+      "dialogue": [
+        "Emma, what are you writing?",
+        "I am writing a formal letter about a new job.",
+        "How do you start the letter?",
+        "To whom it may concern, I am writing about the job.",
+        "Do you send a carbon copy?",
+        "Yes. Yours sincerely, Emma."
+      ],
+      "listening": "Emma writes a formal letter about a new job. She says, 'To whom it may concern, I am writing about the job.' Emma writes a detailed letter. She talks about her previous job. She sends a carbon copy to the manager. She writes, 'Yours sincerely, Emma.' The manager reads the letter. Emma is happy.",
+      "question": "What is Emma's letter about?",
+      "correct": "A new job",
+      "other": "A new office",
+      "reading": "Emma writes a formal letter about a new job. She says, 'To whom it may concern, I am writing about the job.' Emma writes a detailed letter. She talks about her previous job. She sends a carbon copy to the manager. She writes, 'Yours sincerely, Emma.' The manager reads the letter at the office. He is happy. Emma likes to write formal letters. She checks the letter first. Then she sends it. Emma says, 'I will start my new job on Monday.' Emma says, 'I talk about my previous job in the letter.' The manager says, 'Thank you for the detailed letter.' Emma sends a carbon copy to the team, too. She is happy. Her team is happy. Emma is happy, too.",
+      "readingQ": "What does Emma send to the manager?",
+      "readingA": "She sends a carbon copy.",
+      "speaking": "Tell a friend about a new situation with emails. What do you write? How do you start? What do you send? How do you end it?",
+      "speakingSample": "I write a formal letter about a new job. I say, 'To whom it may concern, I am writing about the job.' I write a detailed letter. I talk about my previous job. I send a carbon copy to the manager. I write, 'Yours sincerely, Emma.' I like to write formal letters.",
+      "writing": "Write a short email to a friend about a new situation with emails. Say what you write and how you start and end it.",
+      "writingSample": "Dear Lisa, I want to tell you about a new situation with emails. I write a formal letter about a new job. I say, 'To whom it may concern, I am writing about the job.' I write a detailed letter. I talk about my previous job. I send a carbon copy to the manager. I write, 'Yours sincerely, Emma.' I check the letter first. Best, Sam",
+      "sound": "Previous has its strongest beat on PRE. In previous, say PRE clearly at the start. In detailed, say TAILED clearly at the end.",
+      "model": "In the previous email, I asked about Friday.",
+      "wordTask": "What is Emma's letter about?",
+      "wordSample": "Her letter is about a new job.",
+      "transferCheck": {
+        "source": "Emma is a new colleague at Sam's office. On Monday, she writes a formal letter about a new job. Sam helps her. Emma says, 'To whom it may concern, I am writing about the job.' She writes a detailed letter about her previous job. She sends a carbon copy to the manager. She writes, 'Yours sincerely, Emma.' The manager reads the letter. Emma starts her new job on Monday. She is happy.",
+        "dictation": "Emma writes a formal letter about a new job.",
+        "answer": "1. The new colleague is Emma. Sam helps her write a formal letter about a new job. 2. Emma starts her letter with 'To whom it may concern, I am writing about the job.' She does not know the name of the person. 3. Emma writes a detailed letter about her previous job. She sends a carbon copy to the manager. 4. Emma ends the letter with 'Yours sincerely, Emma.' The manager reads the letter. 5. Sample: On Monday, Emma writes a formal letter about a new job. Sam helps her. Emma says, 'To whom it may concern, I am writing about the job.' She writes a detailed letter about her previous job. She sends a carbon copy to the manager. She writes, 'Yours sincerely, Emma.' The manager reads the letter. Emma starts her new job on Monday. She is happy. Follow-up: When does Emma start her new job? She starts her new job on Monday.",
+        "tasks": [
+          [
+            "1 · Identify the new colleague and the helper",
+            "Who is the new colleague, and who helps her?"
+          ],
+          [
+            "2 · Work out how Emma starts the letter",
+            "How does Emma start her formal letter?"
+          ],
+          [
+            "3 · Notice what Emma sends",
+            "What does Emma send to the manager?"
+          ],
+          [
+            "4 · Listen and write",
+            "Write the sentence you hear."
+          ],
+          [
+            "5 · Retell and answer",
+            "Tell the story in order, including the new colleague, the letter, the carbon copy, and the new job. Then answer one follow-up question."
+          ]
+        ]
+      }
+    }
+  ]
+}

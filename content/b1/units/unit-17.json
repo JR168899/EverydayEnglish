@@ -1,0 +1,905 @@
+{
+  "number": 17,
+  "title": "Your town and neighbourhood",
+  "lessons": [
+    {
+      "unit": 17,
+      "day": 129,
+      "title": "Your town",
+      "goal": "I can talk about my town.",
+      "newItems": [
+        {
+          "category": "new_word",
+          "definition": "The area around where you live.",
+          "example": "Our neighborhood is quiet.",
+          "ipa": "/ˈneɪbɚhʊd/",
+          "pos": "noun",
+          "status": "new",
+          "word": "neighborhood"
+        },
+        {
+          "category": "new_word",
+          "definition": "A thing in a town that sends water up into the air.",
+          "example": "The fountain is in the square.",
+          "ipa": "/ˈfaʊntən/",
+          "pos": "noun",
+          "status": "new",
+          "word": "fountain"
+        },
+        {
+          "category": "new_word",
+          "definition": "A big model of a person, made of stone or metal.",
+          "example": "There is a statue in the square.",
+          "ipa": "/ˈstætʃu/",
+          "pos": "noun",
+          "status": "new",
+          "word": "statue"
+        },
+        {
+          "category": "fixed_phrase",
+          "definition": "In the area where you live.",
+          "example": "There is a park in the neighborhood.",
+          "ipa": "/ɪn ðə ˈneɪbɚhʊd/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "in the neighborhood"
+        },
+        {
+          "category": "fixed_phrase",
+          "definition": "In the middle part of a town.",
+          "example": "We shop in the town center.",
+          "ipa": "/ɪn ðə taʊn ˈsɛntɚ/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "in the town center"
+        }
+      ],
+      "reviewWords": [
+        "town",
+        "street",
+        "house",
+        "park",
+        "shop"
+      ],
+      "mainWord": {
+        "category": "new_word",
+        "definition": "The area around where you live.",
+        "example": "Our neighborhood is quiet.",
+        "ipa": "/ˈneɪbɚhʊd/",
+        "pos": "noun",
+        "status": "new",
+        "word": "neighborhood"
+      },
+      "mainWordForms": "Neighborhood is a noun. Neighborhood means the area around where you live. Our neighborhood is quiet.",
+      "pronunciationTarget": {
+        "word": "neighborhood",
+        "ipa": "/ˈneɪbɚhʊd/"
+      },
+      "expression": "We live in the neighborhood.",
+      "use": "Use this when you talk about the place where you live.",
+      "expressionTask": "Tom and Lily talk about their town. Where do they live?",
+      "grammar": "present simple for facts about your town: Our town has a library",
+      "pattern": "Our town has a library.",
+      "task": "Our town ___ a library.",
+      "answer": "has",
+      "example": "Our town has a library.",
+      "context": [
+        "Tom and Lily talk about their town.",
+        "Tom says, 'We live in the neighborhood. There is a fountain in the square, and a statue of a man.'"
+      ],
+      "dialogue": [
+        "Tom, do you like our town?",
+        "Yes. We live in the neighborhood, and it is nice.",
+        "Is there a fountain in the town?",
+        "Yes. The fountain is in the square.",
+        "What is the statue in the square?",
+        "It is a statue of a man from our town."
+      ],
+      "listening": "Tom and Lily talk about their town. Tom says, 'We live in the neighborhood. It is nice.' Lily says, 'Is there a fountain?' Tom says, 'Yes. The fountain is in the square.' Lily says, 'What is the statue in the square?' Tom says, 'It is a statue of a man from our town.'",
+      "question": "Where do Tom and Lily live?",
+      "correct": "In the neighborhood",
+      "other": "In a new house",
+      "reading": "On Saturday, Tom and Lily walk in their town. Tom says, 'We live in the neighborhood, and it is a good place to live. There is a fountain in the square, and it is very nice. The water is clear, and children play near it.' Lily says, 'Yes. I like the fountain. What is the statue in the square?' Tom says, 'It is a statue of a man from our town. He was a good man, and people like him.' Lily says, 'We shop in the town center. The shops are good, and the park is near.' Tom says, 'Yes. Our neighborhood is quiet, and the town center is busy. I can talk about my town.'",
+      "readingQ": "Where do Tom and Lily live?",
+      "readingA": "In the neighborhood.",
+      "speaking": "Tell a friend about your town. What is in it?",
+      "speakingSample": "I talk about my town with my friend Tom. We live in the neighborhood, and it is a good place to live. There is a fountain in the square, and a statue of a man from our town. We shop in the town center. The shops are good, and the park is near. I like my town.",
+      "writing": "Write a short email to a friend about your town. Say what is in it.",
+      "writingSample": "Dear Anna, I want to tell you about my town. We live in the neighborhood, and it is a good place to live. There is a fountain in the square, and a statue of a man from our town. We shop in the town center. The shops are good, and the park is near. I like my town. It is quiet, and the people are kind. See you soon. Best, Lily",
+      "sound": "Neighborhood has its strongest beat on NEIGH. In neighborhood, say NEIGH clearly at the start. In fountain, say FOUN clearly at the start.",
+      "model": "We live in the neighborhood.",
+      "wordTask": "Where do Tom and Lily live?",
+      "wordSample": "In the neighborhood."
+    },
+    {
+      "unit": 17,
+      "day": 130,
+      "title": "Places in town",
+      "goal": "I can talk about places in town.",
+      "newItems": [
+        {
+          "category": "new_word",
+          "definition": "A thing built to help people remember a person or an event.",
+          "example": "The monument is in the park.",
+          "ipa": "/ˈmɑnjəmənt/",
+          "pos": "noun",
+          "status": "new",
+          "word": "monument"
+        },
+        {
+          "category": "new_word",
+          "definition": "The person who is the head of a town.",
+          "example": "The mayor opens the new library.",
+          "ipa": "/ˈmeɪɚ/",
+          "pos": "noun",
+          "status": "new",
+          "word": "mayor"
+        },
+        {
+          "category": "new_word",
+          "definition": "The group of people who look after a town.",
+          "example": "The council looks after the town.",
+          "ipa": "/ˈkaʊnsəl/",
+          "pos": "noun",
+          "status": "new",
+          "word": "council"
+        },
+        {
+          "category": "fixed_phrase",
+          "definition": "A library that anyone can use.",
+          "example": "We read in a public library.",
+          "ipa": "/ə ˈpʌblɪk ˈlaɪbreri/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "a public library"
+        },
+        {
+          "category": "fixed_phrase",
+          "definition": "You do not have to pay to visit.",
+          "example": "The museum is free to visit.",
+          "ipa": "/fri tə ˈvɪzɪt/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "free to visit"
+        }
+      ],
+      "reviewWords": [
+        "book",
+        "picture",
+        "old",
+        "big",
+        "new"
+      ],
+      "mainWord": {
+        "category": "new_word",
+        "definition": "A thing built to help people remember a person or an event.",
+        "example": "The monument is in the park.",
+        "ipa": "/ˈmɑnjəmənt/",
+        "pos": "noun",
+        "status": "new",
+        "word": "monument"
+      },
+      "mainWordForms": "Monument is a noun. Monument means a thing built to help people remember a person or an event. The monument is in the park.",
+      "pronunciationTarget": {
+        "word": "monument",
+        "ipa": "/ˈmɑnjəmənt/"
+      },
+      "expression": "We read in a public library.",
+      "use": "Use this when you talk about a library anyone can use.",
+      "expressionTask": "Tom and Lily visit places in town. What do they do?",
+      "grammar": "superlatives: The museum is the oldest building in town",
+      "pattern": "The museum is the oldest building in town.",
+      "task": "The museum is the ___ building in town.",
+      "answer": "oldest",
+      "example": "The museum is the oldest building in town.",
+      "context": [
+        "Tom and Lily visit places in town.",
+        "Tom says, 'We read in a public library. The books are good, and it is free to visit.'"
+      ],
+      "dialogue": [
+        "Lily, what is the monument in the park?",
+        "It is for a man from our town.",
+        "Who is the mayor of our town?",
+        "Mr. Green is the mayor. He is a good man.",
+        "What does the council do?",
+        "The council looks after the town."
+      ],
+      "listening": "Tom and Lily visit places in town. Tom says, 'We read in a public library.' Lily says, 'What is the monument in the park?' Tom says, 'It is for a man from our town.' Lily says, 'Who is the mayor?' Tom says, 'Mr. Green is the mayor.'",
+      "question": "What do Tom and Lily do in the library?",
+      "correct": "They read",
+      "other": "They swim",
+      "reading": "On Sunday, Tom and Lily visit places in town. Tom says, 'We read in a public library. The books are good, and I like to read here. It is free to visit, and many people come here.' Lily says, 'What is the monument in the park?' Tom says, 'It is for a man from our town. He was a good man, and people like him.' Lily says, 'Who is the mayor of our town?' Tom says, 'Mr. Green is the mayor. He is a good man, and he likes our town.' Lily says, 'What does the council do?' Tom says, 'The council looks after the town. It is a good town, and I can talk about places in town.'",
+      "readingQ": "What do Tom and Lily do in the library?",
+      "readingA": "They read.",
+      "speaking": "Tell a friend about places in your town. What do you visit?",
+      "speakingSample": "I talk about places in my town with my friend Tom. We read in a public library. The books are good, and it is free to visit. The monument in the park is for a man from our town. Mr. Green is the mayor, and the council looks after the town. I like my town.",
+      "writing": "Write a short email to a friend about places in your town. Say what you visit.",
+      "writingSample": "Dear Anna, I want to tell you about places in my town. We read in a public library. The books are good, and it is free to visit. The monument in the park is for a man from our town. Mr. Green is the mayor, and he is a good man. The council looks after the town. I like my town. It is a good place to live. See you soon. Best, Lily",
+      "sound": "Monument has its strongest beat on MON. In monument, say MON clearly at the start. In mayor, say MAY clearly at the start.",
+      "model": "The monument is in the park.",
+      "wordTask": "What do Tom and Lily do in the library?",
+      "wordSample": "They read."
+    },
+    {
+      "unit": 17,
+      "day": 131,
+      "title": "Asking for directions",
+      "goal": "I can ask for directions.",
+      "newItems": [
+        {
+          "category": "new_word",
+          "definition": "A wide street with trees on it.",
+          "example": "We walk down the avenue.",
+          "ipa": "/ˈævəˌnu/",
+          "pos": "noun",
+          "status": "new",
+          "word": "avenue"
+        },
+        {
+          "category": "new_word",
+          "definition": "A small narrow street between buildings.",
+          "example": "The alley is dark at night.",
+          "ipa": "/ˈæli/",
+          "pos": "noun",
+          "status": "new",
+          "word": "alley"
+        },
+        {
+          "category": "fixed_phrase",
+          "definition": "Turn to the left at the place where two streets meet.",
+          "example": "Turn left at the corner.",
+          "ipa": "/tɝn lɛft æt ðə ˈkɔrnɚ/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "turn left at the corner"
+        },
+        {
+          "category": "fixed_phrase",
+          "definition": "Keep going in the same direction.",
+          "example": "Go straight on to the square.",
+          "ipa": "/ɡoʊ streɪt ɑn/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "go straight on"
+        },
+        {
+          "category": "fixed_phrase",
+          "definition": "How can I travel to a place?",
+          "example": "How do I get to the station?",
+          "ipa": "/haʊ də aɪ ɡɛt tə/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "how do I get to"
+        }
+      ],
+      "reviewWords": [
+        "left",
+        "right",
+        "road",
+        "walk",
+        "help"
+      ],
+      "mainWord": {
+        "category": "new_word",
+        "definition": "A wide street with trees on it.",
+        "example": "We walk down the avenue.",
+        "ipa": "/ˈævəˌnu/",
+        "pos": "noun",
+        "status": "new",
+        "word": "avenue"
+      },
+      "mainWordForms": "Avenue is a noun. Avenue means a wide street with trees on it. We walk down the avenue.",
+      "pronunciationTarget": {
+        "word": "avenue",
+        "ipa": "/ˈævəˌnu/"
+      },
+      "expression": "Turn left at the corner.",
+      "use": "Use this when you tell someone the way.",
+      "expressionTask": "Tom asks Lily the way to the station. What does Lily say?",
+      "grammar": "imperatives for directions: Turn left at the corner",
+      "pattern": "Turn left at the corner.",
+      "task": "___ left at the corner.",
+      "answer": "Turn",
+      "example": "Turn left at the corner.",
+      "context": [
+        "Tom asks Lily the way to the station.",
+        "Lily says, 'Turn left at the corner. Then go straight on to the station.'"
+      ],
+      "dialogue": [
+        "Lily, how do I get to the station?",
+        "Turn left at the corner.",
+        "Then what do I do?",
+        "Go straight on to the station.",
+        "Is the station down the avenue?",
+        "Yes. Walk down the avenue, not the alley."
+      ],
+      "listening": "Tom asks Lily the way to the station. Tom says, 'How do I get to the station?' Lily says, 'Turn left at the corner. Then go straight on to the station.' Tom says, 'Is the station down the avenue?' Lily says, 'Yes. Walk down the avenue, not the alley.'",
+      "question": "How does Tom get to the station?",
+      "correct": "Turn left, then go straight on",
+      "other": "Turn right, then go back",
+      "reading": "On Monday, Tom wants to go to the station. He asks Lily, 'How do I get to the station?' Lily says, 'Turn left at the corner. Then go straight on to the station. Walk down the avenue, and you see it.' Tom says, 'Is the station down the avenue?' Lily says, 'Yes. Walk down the avenue, not the alley. The alley is dark, and it is not the way to the station.' Tom says, 'Thank you. I turn left at the corner, and I go straight on.' Lily says, 'Yes. You can ask for the way, and I can help you. I can ask for directions.' Tom is happy, and he goes to the station.",
+      "readingQ": "How does Tom get to the station?",
+      "readingA": "Turn left, then go straight on.",
+      "speaking": "Tell a friend how to get to the station. What do you say?",
+      "speakingSample": "I talk about the way to the station with my friend Tom. He asks, 'How do I get to the station?' I say, 'Turn left at the corner. Then go straight on to the station. Walk down the avenue, and you see it.' Do not go down the alley. I can ask for directions, and I can help you.",
+      "writing": "Write a short email to a friend about the way to the station. Say how to get there.",
+      "writingSample": "Dear Anna, I want to tell you the way to the station. You ask, 'How do I get to the station?' I say, 'Turn left at the corner. Then go straight on to the station. Walk down the avenue, and you see it.' Do not go down the alley. The alley is dark. I can ask for directions, and I can help you. It is easy to find the station. See you soon. Best, Lily",
+      "sound": "Avenue has its strongest beat on AV. In avenue, say AV clearly at the start. In alley, say AL clearly at the start.",
+      "model": "Walk down the avenue.",
+      "wordTask": "How does Tom get to the station?",
+      "wordSample": "Turn left, then go straight on."
+    },
+    {
+      "unit": 17,
+      "day": 132,
+      "title": "Shops and services",
+      "goal": "I can talk about shops and services.",
+      "newItems": [
+        {
+          "category": "new_word",
+          "definition": "A person who brings letters to your home.",
+          "example": "The postman brings a letter.",
+          "ipa": "/ˈpoʊstmən/",
+          "pos": "noun",
+          "status": "new",
+          "word": "postman"
+        },
+        {
+          "category": "new_word",
+          "definition": "A person who sells flowers.",
+          "example": "I buy flowers at the florist.",
+          "ipa": "/ˈflɔrɪst/",
+          "pos": "noun",
+          "status": "new",
+          "word": "florist"
+        },
+        {
+          "category": "new_word",
+          "definition": "A person who sells meat.",
+          "example": "We buy meat at the butcher.",
+          "ipa": "/ˈbʊtʃɚ/",
+          "pos": "noun",
+          "status": "new",
+          "word": "butcher"
+        },
+        {
+          "category": "fixed_phrase",
+          "definition": "The bank that is closest to here.",
+          "example": "Where is the nearest bank?",
+          "ipa": "/ðə ˈnɪrəst bæŋk/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "the nearest bank"
+        },
+        {
+          "category": "fixed_phrase",
+          "definition": "Open for the whole day.",
+          "example": "The shop is open all day.",
+          "ipa": "/ˈoʊpən ɔl deɪ/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "open all day"
+        }
+      ],
+      "reviewWords": [
+        "money",
+        "bread",
+        "fruit",
+        "open",
+        "buy"
+      ],
+      "mainWord": {
+        "category": "new_word",
+        "definition": "A person who brings letters to your home.",
+        "example": "The postman brings a letter.",
+        "ipa": "/ˈpoʊstmən/",
+        "pos": "noun",
+        "status": "new",
+        "word": "postman"
+      },
+      "mainWordForms": "Postman is a noun. Postman means a person who brings letters to your home. The postman brings a letter.",
+      "pronunciationTarget": {
+        "word": "postman",
+        "ipa": "/ˈpoʊstmən/"
+      },
+      "expression": "Where is the nearest bank?",
+      "use": "Use this when you want to find a bank near you.",
+      "expressionTask": "Tom and Lily go shopping. What shops do they visit?",
+      "grammar": "would like for polite requests: I would like some bread, please",
+      "pattern": "I would like some bread, please.",
+      "task": "I would ___ some bread, please.",
+      "answer": "like",
+      "example": "I would like some bread, please.",
+      "context": [
+        "Tom and Lily go shopping in town.",
+        "Tom says, 'Where is the nearest bank? I want to get some money.'"
+      ],
+      "dialogue": [
+        "Tom, where is the nearest bank?",
+        "It is near the florist.",
+        "Is the butcher open all day?",
+        "No. The butcher opens at nine.",
+        "Does the postman come today?",
+        "Yes. The postman brings a letter."
+      ],
+      "listening": "Tom and Lily go shopping in town. Tom says, 'Where is the nearest bank?' Lily says, 'It is near the florist.' Tom says, 'Is the butcher open all day?' Lily says, 'No. The butcher opens at nine.' Tom says, 'Does the postman come today?' Lily says, 'Yes.'",
+      "question": "Where is the nearest bank?",
+      "correct": "Near the florist",
+      "other": "Near the river",
+      "reading": "On Tuesday, Tom and Lily go shopping in town. Tom says, 'Where is the nearest bank? I want to get some money.' Lily says, 'It is near the florist. The florist sells nice flowers, and I buy some for my mother.' Tom says, 'Is the butcher open all day?' Lily says, 'No. The butcher opens at nine, and he sells good meat. We buy meat there.' Tom says, 'The shops in our town are good, and the people are kind.' Lily says, 'Yes. I like to shop in town. It is a good place to buy things.' Tom says, 'Does the postman come today?' Lily says, 'Yes. The postman brings a letter for us. I can talk about shops and services.'",
+      "readingQ": "Where is the nearest bank?",
+      "readingA": "Near the florist.",
+      "speaking": "Tell a friend about shops in your town. What shops do you visit?",
+      "speakingSample": "I talk about shops in my town with my friend Tom. The florist sells nice flowers, and I buy some for my mother. The butcher opens at nine, and he sells good meat. Where is the nearest bank? It is near the florist. The postman brings a letter for us.",
+      "writing": "Write a short email to a friend about shops in your town. Say what shops you visit.",
+      "writingSample": "Dear Anna, I want to tell you about shops in my town. The florist sells nice flowers, and I buy some for my mother. The butcher opens at nine, and he sells good meat. Where is the nearest bank? It is near the florist. The postman brings a letter for us. The shops are open all day, and the people are kind. I like to shop in town. See you soon. Best, Lily",
+      "sound": "Postman has its strongest beat on POST. In postman, say POST clearly at the start. In florist, say FLOR clearly at the start.",
+      "model": "The postman brings a letter.",
+      "wordTask": "Where is the nearest bank?",
+      "wordSample": "Near the florist."
+    },
+    {
+      "unit": 17,
+      "day": 133,
+      "title": "Parks and public places",
+      "goal": "I can talk about parks and public places.",
+      "newItems": [
+        {
+          "category": "new_word",
+          "definition": "A long line of water that runs through land.",
+          "example": "The river runs through the town.",
+          "ipa": "/ˈrɪvɚ/",
+          "pos": "noun",
+          "status": "new",
+          "word": "river"
+        },
+        {
+          "category": "new_word",
+          "definition": "A long line of water made by people for boats.",
+          "example": "Boats move on the canal.",
+          "ipa": "/kəˈnæl/",
+          "pos": "noun",
+          "status": "new",
+          "word": "canal"
+        },
+        {
+          "category": "fixed_phrase",
+          "definition": "To meet friends at the square.",
+          "example": "We meet at the square.",
+          "ipa": "/mit æt ðə skwɛr/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "meet at the square"
+        },
+        {
+          "category": "fixed_phrase",
+          "definition": "Anyone can come in and use it.",
+          "example": "The park is open to the public.",
+          "ipa": "/ˈoʊpən tə ðə ˈpʌblɪk/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "open to the public"
+        },
+        {
+          "category": "fixed_phrase",
+          "definition": "A walk that takes five minutes.",
+          "example": "The school is a five-minute walk.",
+          "ipa": "/ə faɪv ˈmɪnət wɔk/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "a five-minute walk"
+        }
+      ],
+      "reviewWords": [
+        "tree",
+        "grass",
+        "sun",
+        "water",
+        "happy"
+      ],
+      "mainWord": {
+        "category": "new_word",
+        "definition": "A long line of water that runs through land.",
+        "example": "The river runs through the town.",
+        "ipa": "/ˈrɪvɚ/",
+        "pos": "noun",
+        "status": "new",
+        "word": "river"
+      },
+      "mainWordForms": "River is a noun. River means a long line of water that runs through land. The river runs through the town.",
+      "pronunciationTarget": {
+        "word": "river",
+        "ipa": "/ˈrɪvɚ/"
+      },
+      "expression": "We meet at the square.",
+      "use": "Use this when you say where you meet friends.",
+      "expressionTask": "Tom and Lily go to the park. What do they do?",
+      "grammar": "present continuous for what people are doing: People are walking in the park",
+      "pattern": "People are walking in the park.",
+      "task": "People are ___ in the park.",
+      "answer": "walking",
+      "example": "People are walking in the park.",
+      "context": [
+        "Tom and Lily go to the park by the river.",
+        "Tom says, 'We meet at the square. Then we walk to the park.'"
+      ],
+      "dialogue": [
+        "Tom, is the park open to the public?",
+        "Yes. The park is open to the public all day.",
+        "Is the park a five-minute walk from here?",
+        "Yes. It is very near.",
+        "Do we meet at the square?",
+        "Yes. We meet at the square at ten."
+      ],
+      "listening": "Tom and Lily go to the park by the river. Tom says, 'Is the park open to the public?' Lily says, 'Yes. The park is open to the public all day.' Tom says, 'Is the park a five-minute walk from here?' Lily says, 'Yes. It is very near.' They meet at the square at ten.",
+      "question": "Where do Tom and Lily meet?",
+      "correct": "At the square",
+      "other": "At the station",
+      "reading": "On Wednesday, Tom and Lily go to the park. Tom says, 'We meet at the square. Then we walk to the park. It is a five-minute walk from here.' Lily says, 'Is the park open to the public?' Tom says, 'Yes. The park is open to the public all day. The river runs through the town, and the canal is near the park. Boats move on the canal.' Lily says, 'I like the park. The trees are big, and the grass is green.' Lily says, 'The sun is warm, and the water is clear.' Tom says, 'Yes. People are walking in the park, and children play here. I can talk about parks and public places.'",
+      "readingQ": "Where do Tom and Lily meet?",
+      "readingA": "At the square.",
+      "speaking": "Tell a friend about the park. What do you do there?",
+      "speakingSample": "I talk about the park with my friend Tom. We meet at the square. Then we walk to the park. It is a five-minute walk from here. The park is open to the public all day. The river runs through the town, and the canal is near the park. I like the park.",
+      "writing": "Write a short email to a friend about the park. Say what you do there.",
+      "writingSample": "Dear Anna, I want to tell you about the park. We meet at the square. Then we walk to the park. It is a five-minute walk from here. The park is open to the public all day. The river runs through the town, and the canal is near the park. I like the park. The trees are big, and the grass is green. It is a good place to walk. See you soon. Best, Lily",
+      "sound": "River has its strongest beat on RIV. In river, say RIV clearly at the start. In canal, say CAN clearly at the start.",
+      "model": "The river runs through the town.",
+      "wordTask": "Where do Tom and Lily meet?",
+      "wordSample": "At the square."
+    },
+    {
+      "unit": 17,
+      "day": 134,
+      "title": "Neighbors and community",
+      "goal": "I can talk about my neighbors and my community.",
+      "newItems": [
+        {
+          "category": "new_word",
+          "definition": "A person who lives in a place.",
+          "example": "The residents like the new park.",
+          "ipa": "/ˈrɛzɪdənt/",
+          "pos": "noun",
+          "status": "new",
+          "word": "resident"
+        },
+        {
+          "category": "new_word",
+          "definition": "A place where children play.",
+          "example": "The children play in the playground.",
+          "ipa": "/ˈpleɪˌɡraʊnd/",
+          "pos": "noun",
+          "status": "new",
+          "word": "playground"
+        },
+        {
+          "category": "fixed_phrase",
+          "definition": "A neighborhood where people are kind.",
+          "example": "We live in a friendly neighborhood.",
+          "ipa": "/ə ˈfrɛndli ˈneɪbɚhʊd/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "a friendly neighborhood"
+        },
+        {
+          "category": "fixed_phrase",
+          "definition": "To make the streets free of rubbish.",
+          "example": "We keep the streets clean.",
+          "ipa": "/kip ðə strits klin/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "keep the streets clean"
+        },
+        {
+          "category": "fixed_phrase",
+          "definition": "To put the rubbish outside for the bin men.",
+          "example": "I take the rubbish out on Monday.",
+          "ipa": "/teɪk ðə ˈrʌbɪʃ aʊt/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "take the rubbish out"
+        }
+      ],
+      "reviewWords": [
+        "friend",
+        "family",
+        "mother",
+        "father",
+        "sister"
+      ],
+      "mainWord": {
+        "category": "new_word",
+        "definition": "A person who lives in a place.",
+        "example": "The residents like the new park.",
+        "ipa": "/ˈrɛzɪdənt/",
+        "pos": "noun",
+        "status": "new",
+        "word": "resident"
+      },
+      "mainWordForms": "Resident is a noun. Resident means a person who lives in a place. Every resident likes the new park.",
+      "pronunciationTarget": {
+        "word": "resident",
+        "ipa": "/ˈrɛzɪdənt/"
+      },
+      "expression": "We live in a friendly neighborhood.",
+      "use": "Use this when you talk about a kind place to live.",
+      "expressionTask": "Tom and Lily talk about their neighbors. What do they say?",
+      "grammar": "frequency adverbs: We always say hello to our neighbors",
+      "pattern": "We always say hello to our neighbors.",
+      "task": "We ___ say hello to our neighbors.",
+      "answer": "always",
+      "example": "We always say hello to our neighbors.",
+      "context": [
+        "Tom and Lily talk about their neighbors.",
+        "Tom says, 'We live in a friendly neighborhood. The people are kind.'"
+      ],
+      "dialogue": [
+        "Tom, do you know our neighbors?",
+        "Yes. Every resident is kind.",
+        "Do the children play in the playground?",
+        "Yes. They play there every day.",
+        "Do we keep the streets clean?",
+        "Yes. We take the rubbish out on Monday."
+      ],
+      "listening": "Tom and Lily talk about their neighbors. Tom says, 'We live in a friendly neighborhood.' Lily says, 'Do you know our neighbors?' Tom says, 'Yes. Every resident is kind.' Lily says, 'Do the children play in the playground?' Tom says, 'Yes. They play there every day.'",
+      "question": "What do Tom and Lily do on Monday?",
+      "correct": "They take the rubbish out",
+      "other": "They go to school",
+      "reading": "On Thursday, Tom and Lily talk about their neighbors. Tom says, 'We live in a friendly neighborhood. The people are kind, and we say hello every day.' Lily says, 'Do you know our neighbors?' Tom says, 'Yes. Every resident is kind. The children play in the playground, and they are happy.' Lily says, 'My mother likes our neighbors. My father talks to them every day.' Tom says, 'Good. Our neighbors are our friends.' Lily says, 'Do we keep the streets clean?' Tom says, 'Yes. We keep the streets clean, and we take the rubbish out on Monday. Our neighborhood is a good place to live. I can talk about my neighbors and my community.'",
+      "readingQ": "What do Tom and Lily do on Monday?",
+      "readingA": "They take the rubbish out.",
+      "speaking": "Tell a friend about your neighbors. What do you do together?",
+      "speakingSample": "I talk about my neighbors with my friend Tom. We live in a friendly neighborhood. Every resident is kind. The children play in the playground, and they are happy. We keep the streets clean, and we take the rubbish out on Monday. My mother likes our neighbors. I like my neighbors.",
+      "writing": "Write a short email to a friend about your neighbors. Say what you do together.",
+      "writingSample": "Dear Anna, I want to tell you about my neighbors. We live in a friendly neighborhood. Every resident is kind. The children play in the playground, and they are happy. We keep the streets clean, and we take the rubbish out on Monday. My mother likes our neighbors. I like my neighbors. It is a very good place to live. See you soon. Best, Lily",
+      "sound": "Resident has its strongest beat on RES. In resident, say RES clearly at the start. In playground, say PLAY clearly at the start.",
+      "model": "Every resident is kind.",
+      "wordTask": "What do Tom and Lily do on Monday?",
+      "wordSample": "They take the rubbish out."
+    },
+    {
+      "unit": 17,
+      "day": 135,
+      "title": "A walk around town",
+      "goal": "I can talk about a walk around town.",
+      "newItems": [
+        {
+          "category": "new_word",
+          "definition": "A small raised area of land.",
+          "example": "We walk up the hill.",
+          "ipa": "/hɪl/",
+          "pos": "noun",
+          "status": "new",
+          "word": "hill"
+        },
+        {
+          "category": "new_word",
+          "definition": "A place where ships stop, safe from the sea.",
+          "example": "The boats are in the harbor.",
+          "ipa": "/ˈhɑrbɚ/",
+          "pos": "noun",
+          "status": "new",
+          "word": "harbor"
+        },
+        {
+          "category": "new_word",
+          "definition": "A building where people go to pray.",
+          "example": "We visit the church on Sunday.",
+          "ipa": "/tʃɝtʃ/",
+          "pos": "noun",
+          "status": "new",
+          "word": "church"
+        },
+        {
+          "category": "fixed_phrase",
+          "definition": "A street with little noise and few cars.",
+          "example": "We live on a quiet street.",
+          "ipa": "/ə ˈkwaɪət strit/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "a quiet street"
+        },
+        {
+          "category": "fixed_phrase",
+          "definition": "A road with a lot of cars.",
+          "example": "The main road is a busy road.",
+          "ipa": "/ə ˈbɪzi roʊd/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "a busy road"
+        }
+      ],
+      "reviewWords": [
+        "noise",
+        "clean",
+        "safe",
+        "night",
+        "morning"
+      ],
+      "mainWord": {
+        "category": "new_word",
+        "definition": "A small raised area of land.",
+        "example": "We walk up the hill.",
+        "ipa": "/hɪl/",
+        "pos": "noun",
+        "status": "new",
+        "word": "hill"
+      },
+      "mainWordForms": "Hill is a noun. Hill means a small raised area of land. We walk up the hill.",
+      "pronunciationTarget": {
+        "word": "hill",
+        "ipa": "/hɪl/"
+      },
+      "expression": "We live on a quiet street.",
+      "use": "Use this when you talk about a street with little noise.",
+      "expressionTask": "Tom and Lily walk around town. What do they see?",
+      "grammar": "should for problems and advice: You should tell the council about it",
+      "pattern": "You should tell the council about it.",
+      "task": "You ___ tell the council about it.",
+      "answer": "should",
+      "example": "You should tell the council about it.",
+      "context": [
+        "Tom and Lily walk around town.",
+        "Tom says, 'We live on a quiet street. The harbor is near, and the church is old.'"
+      ],
+      "dialogue": [
+        "Tom, is this a quiet street?",
+        "Yes. We live on a quiet street.",
+        "Is the main road a busy road?",
+        "Yes. The main road is a busy road.",
+        "Can we see the harbor from the hill?",
+        "Yes. And the church is near the hill."
+      ],
+      "listening": "Tom and Lily walk around town. Tom says, 'We live on a quiet street.' Lily says, 'Is the main road a busy road?' Tom says, 'Yes. The main road is a busy road.' Lily says, 'Can we see the harbor from the hill?' Tom says, 'Yes. And the church is near the hill.'",
+      "question": "What can Tom and Lily see from the hill?",
+      "correct": "The harbor",
+      "other": "The station",
+      "reading": "On Friday, Tom and Lily walk around town. Tom says, 'We live on a quiet street. It is nice and safe.' Lily says, 'Is the main road a busy road?' Tom says, 'Yes. The main road is a busy road. There are many cars, and it is noisy.' Lily says, 'Can we see the harbor from the hill?' Tom says, 'Yes. We walk up the hill, and we see the harbor. The church is near the hill, and it is very old.' Tom says, 'The harbor is big, and the boats are nice.' Lily says, 'Good. We walk here every morning.' Tom says, 'I like our town. I can talk about a walk around town.'",
+      "readingQ": "What can Tom and Lily see from the hill?",
+      "readingA": "The harbor.",
+      "speaking": "Tell a friend about a walk around town. What do you see?",
+      "speakingSample": "I talk about a walk around town with my friend Tom. We live on a quiet street. The main road is a busy road. We walk up the hill, and we see the harbor. The church is near the hill, and it is very old. I like our town a lot.",
+      "writing": "Write a short email to a friend about a walk around town. Say what you see.",
+      "writingSample": "Dear Anna, I want to tell you about a walk around town. We live on a quiet street. The main road is a busy road. We walk up the hill, and we see the harbor. The church is near the hill, and it is very old. The harbor is big, and the boats are nice. I like our town a lot. It is a good place to walk. See you soon. Best, Lily",
+      "sound": "Hill has its strongest beat on HILL. In hill, say HILL clearly. In harbor, say HAR clearly at the start.",
+      "model": "We walk up the hill.",
+      "wordTask": "What can Tom and Lily see from the hill?",
+      "wordSample": "The harbor."
+    },
+    {
+      "unit": 17,
+      "day": 136,
+      "title": "Use town English in a new situation",
+      "goal": "I can use town English in a new situation.",
+      "newItems": [
+        {
+          "category": "new_word",
+          "definition": "A small shop in the street.",
+          "example": "I buy a newspaper at the kiosk.",
+          "ipa": "/ˈkiɑsk/",
+          "pos": "noun",
+          "status": "new",
+          "word": "kiosk"
+        },
+        {
+          "category": "new_word",
+          "definition": "A tall pole with a light on top, in a street.",
+          "example": "The lamppost lights the street.",
+          "ipa": "/ˈlæmpˌpoʊst/",
+          "pos": "noun",
+          "status": "new",
+          "word": "lamppost"
+        },
+        {
+          "category": "fixed_phrase",
+          "definition": "A walk that does not take long.",
+          "example": "The park is a short walk from here.",
+          "ipa": "/ə ʃɔrt wɔk frəm/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "a short walk from"
+        },
+        {
+          "category": "fixed_phrase",
+          "definition": "Below a bridge.",
+          "example": "We walk under the bridge.",
+          "ipa": "/ˈʌndɚ ðə brɪdʒ/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "under the bridge"
+        },
+        {
+          "category": "fixed_phrase",
+          "definition": "Along the main shopping street.",
+          "example": "We walk down the high street.",
+          "ipa": "/daʊn ðə haɪ strit/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "down the high street"
+        }
+      ],
+      "reviewWords": [
+        "trip",
+        "travel",
+        "holiday",
+        "mother",
+        "happy"
+      ],
+      "mainWord": {
+        "category": "new_word",
+        "definition": "A small shop in the street.",
+        "example": "I buy a newspaper at the kiosk.",
+        "ipa": "/ˈkiɑsk/",
+        "pos": "noun",
+        "status": "new",
+        "word": "kiosk"
+      },
+      "mainWordForms": "Kiosk is a noun. Kiosk means a small shop in the street. I buy a newspaper at the kiosk.",
+      "pronunciationTarget": {
+        "word": "kiosk",
+        "ipa": "/ˈkiɑsk/"
+      },
+      "expression": "The museum is a short walk from here.",
+      "use": "Use this when you say a place is near.",
+      "expressionTask": "Emma talks about her town. What does she say?",
+      "grammar": "review: town English",
+      "pattern": "The museum is a short walk from here.",
+      "task": "The museum is a short ___ from here.",
+      "answer": "walk",
+      "example": "The museum is a short walk from here.",
+      "context": [
+        "Emma talks about her town with her mother.",
+        "Emma says, 'The museum is a short walk from here. We walk down the high street.'"
+      ],
+      "dialogue": [
+        "Emma, is the museum a short walk from here?",
+        "Yes. The museum is a short walk from here.",
+        "Do we walk down the high street?",
+        "Yes. We walk down the high street to the museum.",
+        "Is there a kiosk under the bridge?",
+        "Yes. And a lamppost lights the street at night."
+      ],
+      "listening": "Emma talks about her town with her mother. Emma says, 'The museum is a short walk from here.' Her mother says, 'Do we walk down the high street?' Emma says, 'Yes. We walk down the high street to the museum.' Her mother says, 'Is there a kiosk under the bridge?' Emma says, 'Yes.'",
+      "question": "How does Emma get to the museum?",
+      "correct": "A short walk down the high street",
+      "other": "A long bus ride",
+      "reading": "On Saturday, Emma talks about her town with her mother. Emma says, 'The museum is a short walk from here. We walk down the high street to the museum.' Her mother says, 'Is there a kiosk under the bridge?' Emma says, 'Yes. I buy a newspaper at the kiosk. A lamppost lights the street at night, and it is safe.' Her mother says, 'The museum is a good place. It is free to visit, and the books are good.' Emma says, 'We meet at the square at ten.' Her mother says, 'Good. We walk down the high street every day.' Emma says, 'Yes. I like our town. I can use town English in a new situation.'",
+      "readingQ": "How does Emma get to the museum?",
+      "readingA": "A short walk down the high street.",
+      "speaking": "Tell a friend about your town. How do you get to the museum?",
+      "speakingSample": "I talk about my town with my friend Emma. The museum is a short walk from here. We walk down the high street to the museum. I buy a newspaper at the kiosk under the bridge. A lamppost lights the street at night. It is a good place to live. I like our town.",
+      "writing": "Write a short email to a friend about your town. Say how to get to the museum.",
+      "writingSample": "Dear Anna, I want to tell you about my town. The museum is a short walk from here. We walk down the high street to the museum. I buy a newspaper at the kiosk under the bridge. A lamppost lights the street at night. It is a good place to live. I like our town. It is a good town. See you soon. Best, Emma",
+      "sound": "Kiosk has its strongest beat on KI. In kiosk, say KI clearly at the start. In lamppost, say LAMP clearly at the start.",
+      "model": "I buy a newspaper at the kiosk.",
+      "wordTask": "How does Emma get to the museum?",
+      "wordSample": "A short walk down the high street.",
+      "transferCheck": {
+        "source": "On Tuesday, Emma visits her teacher, Ms. Green. Emma says, 'I can use town English in a new situation. I talk about my town with my mother.' Ms. Green says, 'Good. How do you get to the museum?' Emma says, 'The museum is a short walk from here. We walk down the high street to the museum.' Ms. Green says, 'Very good. What is under the bridge?' Emma says, 'A kiosk is under the bridge. A lamppost lights the street at night.' Ms. Green says, 'Good. You use town English well.'",
+        "dictation": "The museum is a short walk from here.",
+        "answer": "1. Emma visits her teacher, Ms. Green. She talks about her town with her mother. 2. Emma's first job is to say she can use town English in a new situation. 3. On Tuesday, Emma says, 'I can use town English in a new situation.' 4. The museum is a short walk from here. 5. Sample: On Tuesday, Emma visits her teacher, Ms. Green. Emma says, 'I can use town English in a new situation. I talk about my town with my mother.' Ms. Green says, 'Good. How do you get to the museum?' Emma says, 'The museum is a short walk from here. We walk down the high street to the museum.' Ms. Green says, 'Very good. What is under the bridge?' Emma says, 'A kiosk is under the bridge. A lamppost lights the street at night.' Ms. Green says, 'Good. You use town English well.' Follow-up: How does Emma get to the museum? A short walk down the high street.",
+        "tasks": [
+          [
+            "1 · Identify the people and the new situation",
+            "Who does Emma visit, and what does she talk about?"
+          ],
+          [
+            "2 · Work out what Emma does first",
+            "What is Emma's first job, and what does she say?"
+          ],
+          [
+            "3 · Notice the sentence on Tuesday",
+            "What does Emma say on Tuesday?"
+          ],
+          [
+            "4 · Listen and write",
+            "Write the sentence you hear."
+          ],
+          [
+            "5 · Retell and answer",
+            "Tell the story in order, including the people, the new situation, the first talk, and the result. Then answer one follow-up question."
+          ]
+        ]
+      }
+    }
+  ]
+}

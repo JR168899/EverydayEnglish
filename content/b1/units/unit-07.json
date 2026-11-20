@@ -1,0 +1,905 @@
+{
+  "number": 7,
+  "title": "Money, budgets and choices",
+  "lessons": [
+    {
+      "unit": 7,
+      "day": 49,
+      "title": "Make a monthly budget",
+      "goal": "I can talk about my monthly budget and say what I spend.",
+      "newItems": [
+        {
+          "word": "income",
+          "ipa": "/ˈɪnkʌm/",
+          "pos": "noun",
+          "definition": "Money you get for your work.",
+          "example": "My income is $3,000 a month.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "expense",
+          "ipa": "/ɪkˈspɛns/",
+          "pos": "noun",
+          "definition": "Money you spend on something.",
+          "example": "Food is a big expense.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "set a budget",
+          "ipa": "/sɛt ə ˈbʌdʒət/",
+          "pos": "fixed phrase",
+          "definition": "To make a plan for your money.",
+          "example": "Set a budget for the month.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "stick to a budget",
+          "ipa": "/stɪk tə ə ˈbʌdʒət/",
+          "pos": "fixed phrase",
+          "definition": "To follow your money plan.",
+          "example": "Stick to a budget.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "keep track of",
+          "ipa": "/kip træk ʌv/",
+          "pos": "fixed phrase",
+          "definition": "To know how much you spend.",
+          "example": "Keep track of your money.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "money",
+        "month",
+        "food",
+        "work",
+        "price"
+      ],
+      "mainWord": {
+        "word": "income",
+        "ipa": "/ˈɪnkʌm/",
+        "pos": "noun",
+        "definition": "Money you get for your work.",
+        "example": "My income is $3,000 a month.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Income is a noun. Income means money you get for your work. My income is $3,000 a month.",
+      "pronunciationTarget": {
+        "word": "income",
+        "ipa": "/ˈɪnkʌm/"
+      },
+      "expression": "I set a budget every month.",
+      "use": "Use this to talk about your money plan.",
+      "expressionTask": "Sam makes a plan for his money. What does he do every month?",
+      "grammar": "Present simple for habits: I spend $500 on food every month",
+      "pattern": "I spend $500 on food every month.",
+      "task": "I spend $500 on food every ___.",
+      "answer": "month",
+      "example": "I spend $500 on food every month.",
+      "context": [
+        "Sam makes a plan for his money every month.",
+        "I set a budget every month. I keep track of my money."
+      ],
+      "dialogue": [
+        "Sam, do you set a budget every month?",
+        "Yes, I set a budget every month. My income is $3,000 a month.",
+        "What is your biggest expense?",
+        "Food is a big expense. I spend $500 on food every month.",
+        "Do you stick to a budget?",
+        "Yes, I stick to a budget. I keep track of my money every week."
+      ],
+      "listening": "Sam sets a budget every month. His income is $3,000 a month. Food is a big expense. He spends $500 on food every month. Sam sticks to a budget. He keeps track of his money every week. At the end of the month, Sam is happy. He has money left.",
+      "question": "What is Sam's biggest expense?",
+      "correct": "Food",
+      "other": "His car",
+      "reading": "Sam works at an office in the city. Every month, he gets his income. His income is $3,000 a month. Sam sets a budget every month. He writes down his money plan. Food is a big expense. Sam spends $500 on food every month. He also spends money on his car, his house, and his phone. Sam sticks to a budget. He keeps track of his money every week. He writes down every price in a small book. At the end of the month, Sam looks at his book. He is happy. He has money left. Sam says, 'I set a budget every month, and I stick to a budget. I keep track of my money. That is my plan.'",
+      "readingQ": "What does Sam do every month?",
+      "readingA": "He sets a budget.",
+      "speaking": "Tell a friend about your monthly budget. What is your income? What is your biggest expense? Do you stick to a budget?",
+      "speakingSample": "I set a budget every month. My income is $3,000 a month. Food is a big expense. I spend $500 on food every month. I also spend money on my car and my house. I stick to a budget. I keep track of my money every week. At the end of the month, I am happy. I have money left.",
+      "writing": "Write a short email to a friend about your monthly budget. Say what your income is and what your biggest expense is.",
+      "writingSample": "Dear Tom, I want to tell you about my monthly budget. My income is $3,000 a month. I set a budget every month. Food is a big expense. I spend $500 on food every month. I also spend money on my car and my house. I stick to a budget. I keep track of my money every week. At the end of the month, I am happy. I have money left. Best, Sam",
+      "sound": "Income has its strongest beat on IN. In income, say IN clearly at the start. In expense, say PENSE clearly at the end.",
+      "model": "My income is $3,000 a month.",
+      "wordTask": "What is Sam's biggest expense?",
+      "wordSample": "Food is a big expense. He spends $500 on food every month."
+    },
+    {
+      "unit": 7,
+      "day": 50,
+      "title": "Save for something special",
+      "goal": "I can talk about saving money for something special.",
+      "newItems": [
+        {
+          "word": "fortune",
+          "ipa": "/ˈfɔrtʃən/",
+          "pos": "noun",
+          "definition": "A lot of money.",
+          "example": "He made a fortune.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "wealthy",
+          "ipa": "/ˈwɛlθi/",
+          "pos": "adjective",
+          "definition": "Having a lot of money.",
+          "example": "He is wealthy.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "save up for",
+          "ipa": "/seɪv ʌp fɔr/",
+          "pos": "fixed phrase",
+          "definition": "To keep money until you can buy something.",
+          "example": "I save up for a car.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "put money aside",
+          "ipa": "/pʊt ˈmʌni əˈsaɪd/",
+          "pos": "fixed phrase",
+          "definition": "To keep money for later.",
+          "example": "Put money aside every month.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "save for a rainy day",
+          "ipa": "/seɪv fɔr ə ˈreɪni deɪ/",
+          "pos": "fixed phrase",
+          "definition": "To keep money for a hard time later.",
+          "example": "Save for a rainy day.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "car",
+        "house",
+        "holiday",
+        "bank",
+        "family"
+      ],
+      "mainWord": {
+        "word": "fortune",
+        "ipa": "/ˈfɔrtʃən/",
+        "pos": "noun",
+        "definition": "A lot of money.",
+        "example": "He made a fortune.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Fortune is a noun. Fortune means a lot of money. He made a fortune.",
+      "pronunciationTarget": {
+        "word": "fortune",
+        "ipa": "/ˈfɔrtʃən/"
+      },
+      "expression": "I save up for a new car.",
+      "use": "Use this to talk about saving money for something you want.",
+      "expressionTask": "Sam wants a new car. What does he do?",
+      "grammar": "will for plans: I will save $100 every month",
+      "pattern": "I will save $100 every month.",
+      "task": "I will save $100 every ___.",
+      "answer": "month",
+      "example": "I will save $100 every month.",
+      "context": [
+        "Sam wants a new car.",
+        "I save up for a new car. I put money aside every month."
+      ],
+      "dialogue": [
+        "Sam, do you want a new car?",
+        "Yes, I save up for a new car. I put money aside every month.",
+        "How much do you save every month?",
+        "I save $100 every month. I will save for two years.",
+        "Do you want to be wealthy?",
+        "No, I do not need a fortune. I save for a rainy day."
+      ],
+      "listening": "Sam wants a new car. He saves up for a new car. He puts money aside every month. He saves $100 every month. He will save for two years. Sam does not need a fortune. He is not wealthy, but he is happy. At the end of two years, Sam will buy a new car.",
+      "question": "How much does Sam save every month?",
+      "correct": "$100",
+      "other": "$500",
+      "reading": "Sam wants a new car. He saves up for a new car. He puts money aside every month. He saves $100 every month. He will save for two years. Sam does not need a fortune. He is not wealthy, but he is happy. Sam saves for a rainy day. He keeps money in the bank for a hard time later. His family helps him. His family puts money aside, too. At the end of two years, Sam will buy a new car. He says, 'I save up for a new car. I put money aside every month. I save for a rainy day.' Sam is happy. His new car will be red.",
+      "readingQ": "How much does Sam save every month?",
+      "readingA": "$100.",
+      "speaking": "Tell a friend about saving money. What do you save up for? How much do you save every month? Do you save for a rainy day?",
+      "speakingSample": "I save up for a new car. I put money aside every month. I save $100 every month. I will save for two years. I do not need a fortune. I am not wealthy, but I am happy. I save for a rainy day. At the end of two years, I will buy a new car. My family is happy.",
+      "writing": "Write a short email to a friend about saving money. Say what you save up for and how much you save every month.",
+      "writingSample": "Dear Lisa, I want to tell you about saving money. I save up for a new car. I put money aside every month. I save $100 every month. I will save for two years. I do not need a fortune. I am not wealthy, but I am happy. I save for a rainy day. At the end of two years, I will buy a new car. My family is happy, too. Best, Sam",
+      "sound": "Fortune has its strongest beat on FOR. In fortune, say FOR clearly at the start. In wealthy, say WEAL clearly at the start.",
+      "model": "He made a fortune.",
+      "wordTask": "How much does Sam save every month?",
+      "wordSample": "He saves $100 every month. He will save for two years."
+    },
+    {
+      "unit": 7,
+      "day": 51,
+      "title": "Compare prices before you buy",
+      "goal": "I can compare prices and talk about a good deal.",
+      "newItems": [
+        {
+          "word": "reasonable",
+          "ipa": "/ˈrizənəbəl/",
+          "pos": "adjective",
+          "definition": "Fair; not too high in price.",
+          "example": "The price is reasonable.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "secondhand",
+          "ipa": "/ˌsɛkəndˈhænd/",
+          "pos": "adjective",
+          "definition": "Used before by someone else.",
+          "example": "I buy secondhand books.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "a good deal",
+          "ipa": "/ə ɡʊd dil/",
+          "pos": "fixed phrase",
+          "definition": "A good price for something.",
+          "example": "This is a good deal.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "shop around",
+          "ipa": "/ʃɑp əˈraʊnd/",
+          "pos": "fixed phrase",
+          "definition": "To look at prices in different shops.",
+          "example": "Shop around before you buy.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "a steal",
+          "ipa": "/ə stil/",
+          "pos": "fixed phrase",
+          "definition": "A very good price for something.",
+          "example": "It is a steal.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "shop",
+        "buy",
+        "cheap",
+        "book",
+        "market"
+      ],
+      "mainWord": {
+        "word": "reasonable",
+        "ipa": "/ˈrizənəbəl/",
+        "pos": "adjective",
+        "definition": "Fair; not too high in price.",
+        "example": "The price is reasonable.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Reasonable is an adjective. Reasonable means fair; not too high in price. The price is reasonable.",
+      "pronunciationTarget": {
+        "word": "reasonable",
+        "ipa": "/ˈrizənəbəl/"
+      },
+      "expression": "This is a good deal.",
+      "use": "Use this to say the price is good.",
+      "expressionTask": "Sam finds shoes for a low price. What does he say?",
+      "grammar": "Comparatives: This shop is cheaper than that shop",
+      "pattern": "This shop is cheaper than that shop.",
+      "task": "This shop is cheaper than that ___.",
+      "answer": "shop",
+      "example": "This shop is cheaper than that shop.",
+      "context": [
+        "Sam looks at shoes in two shops.",
+        "This is a good deal. The price is reasonable."
+      ],
+      "dialogue": [
+        "Sam, do you like these shoes?",
+        "Yes, and this is a good deal. The price is reasonable.",
+        "Did you shop around?",
+        "Yes, I shopped around. I looked at three shops.",
+        "Is this a steal?",
+        "Yes, it is a steal. Secondhand shoes are cheap, too."
+      ],
+      "listening": "Sam wants new shoes. He shops around. He looks at three shops. In the first shop, the shoes are $100. In the second shop, the shoes are $80. This is a good deal. The price is reasonable. It is a steal. Sam buys the shoes. He is happy. Secondhand shoes are cheap, too.",
+      "question": "How much are the shoes in the second shop?",
+      "correct": "$80",
+      "other": "$100",
+      "reading": "Sam wants new shoes. He shops around before he buys. He looks at shoes in three shops. In the first shop, the shoes are $100. In the second shop, the shoes are $80. In the third shop, the shoes are $50. Sam says, 'This is a good deal. The price is reasonable.' It is a steal. Sam buys the shoes. He is happy. Sam likes to shop around. He looks at the market, too. Secondhand shoes are cheap. Sam buys secondhand books at the market. He says, 'I shop around before I buy. A good deal makes me happy.' Sam tells his friend Tom about the shoes. Tom is happy for Sam. Tom says, 'You found a good deal.'",
+      "readingQ": "How much are the shoes in the third shop?",
+      "readingA": "$50.",
+      "speaking": "Tell a friend about comparing prices. What do you want to buy? Do you shop around? Is the price reasonable?",
+      "speakingSample": "I want new shoes. I shop around before I buy. I look at shoes in three shops. In the first shop, the shoes are $100. In the second shop, the shoes are $80. This is a good deal. The price is reasonable. It is a steal. I buy the shoes. I am happy.",
+      "writing": "Write a short email to a friend about comparing prices. Say what you want to buy and how much it costs in two shops.",
+      "writingSample": "Dear Tom, I want to tell you about comparing prices. I want new shoes. I shop around before I buy. I look at shoes in three shops. In the first shop, the shoes are $100. In the second shop, the shoes are $80. This is a good deal. The price is reasonable. It is a steal. I buy the shoes. I am happy. Secondhand shoes are cheap, too. Best, Sam",
+      "sound": "Reasonable has its strongest beat on REA. In reasonable, say REA clearly at the start. In secondhand, say SEC clearly at the start.",
+      "model": "The price is reasonable.",
+      "wordTask": "How much are the shoes in the second shop?",
+      "wordSample": "The shoes are $80. This is a good deal."
+    },
+    {
+      "unit": 7,
+      "day": 52,
+      "title": "Pay for things",
+      "goal": "I can talk about paying for things.",
+      "newItems": [
+        {
+          "word": "payment",
+          "ipa": "/ˈpeɪmənt/",
+          "pos": "noun",
+          "definition": "Money you pay.",
+          "example": "The payment is due.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "fare",
+          "ipa": "/fɛr/",
+          "pos": "noun",
+          "definition": "The price of a bus or train trip.",
+          "example": "The bus fare is $2.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "pay the bill",
+          "ipa": "/peɪ ðə bɪl/",
+          "pos": "fixed phrase",
+          "definition": "To pay the money you owe.",
+          "example": "I pay the bill.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "add up",
+          "ipa": "/æd ʌp/",
+          "pos": "fixed phrase",
+          "definition": "To put numbers together.",
+          "example": "Add up the costs.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "work out the cost",
+          "ipa": "/wɝk aʊt ðə kɔst/",
+          "pos": "fixed phrase",
+          "definition": "To find out how much something costs.",
+          "example": "Work out the cost first.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "ticket",
+        "bus",
+        "train",
+        "lunch",
+        "water"
+      ],
+      "mainWord": {
+        "word": "payment",
+        "ipa": "/ˈpeɪmənt/",
+        "pos": "noun",
+        "definition": "Money you pay.",
+        "example": "The payment is due.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Payment is a noun. Payment means money you pay. The payment is due.",
+      "pronunciationTarget": {
+        "word": "payment",
+        "ipa": "/ˈpeɪmənt/"
+      },
+      "expression": "I pay the bill.",
+      "use": "Use this to say you pay the money you owe.",
+      "expressionTask": "Sam eats lunch at a restaurant. What does he do?",
+      "grammar": "Past simple for shopping: I paid the bill yesterday",
+      "pattern": "I paid the bill yesterday.",
+      "task": "I paid the bill ___.",
+      "answer": "yesterday",
+      "example": "I paid the bill yesterday.",
+      "context": [
+        "Sam eats lunch at a restaurant with Anna.",
+        "I pay the bill. The payment is $20."
+      ],
+      "dialogue": [
+        "Sam, did you eat lunch at the restaurant?",
+        "Yes, I ate lunch with Anna. I pay the bill.",
+        "How much is the payment?",
+        "The payment is $20. The bus fare is $2.",
+        "Do you work out the cost first?",
+        "Yes, I add up the costs. I work out the cost before I buy."
+      ],
+      "listening": "Sam eats lunch at a restaurant with Anna. The payment is $20. Sam pays the bill. Anna pays the bus fare. The bus fare is $2. Sam adds up the costs. He works out the cost before he buys. Sam and Anna drink coffee. The coffee is $4. Sam is happy.",
+      "question": "How much is the payment for lunch?",
+      "correct": "$20",
+      "other": "$4",
+      "reading": "Sam eats lunch at a restaurant with Anna. The payment is $20. Sam pays the bill. Anna pays the bus fare. The bus fare is $2. Sam adds up the costs. He works out the cost before he buys. Sam likes lunch with Anna. They drink coffee. The coffee is $4. Sam says, 'I pay the bill. I add up the costs. I work out the cost before I buy.' Anna is happy. She says, 'The bus fare is $2. The train fare is $3.' Sam and Anna take the bus home. Sam says, 'The payment is $20. The coffee is $4. Lunch is good.' Anna says, 'Thank you, Sam. Lunch is good.' Sam is happy.",
+      "readingQ": "How much is the bus fare?",
+      "readingA": "$2.",
+      "speaking": "Tell a friend about paying for lunch. How much is the payment? Who pays the bill? What is the bus fare?",
+      "speakingSample": "I eat lunch at a restaurant with Anna. The payment is $20. I pay the bill. Anna pays the bus fare. The bus fare is $2. I add up the costs. I work out the cost before I buy. We drink coffee. The coffee is $4. I am happy. I like lunch with Anna.",
+      "writing": "Write a short email to a friend about paying for lunch. Say how much the payment is and who pays the bill.",
+      "writingSample": "Dear Lisa, I want to tell you about lunch. I eat lunch at a restaurant with Anna. The payment is $20. I pay the bill. Anna pays the bus fare. The bus fare is $2. I add up the costs. I work out the cost before I buy. We drink coffee. The coffee is $4. I am happy. I like lunch with Anna. Best, Sam",
+      "sound": "Payment has its strongest beat on PAY. In payment, say PAY clearly at the start. In fare, say FARE clearly.",
+      "model": "The payment is due.",
+      "wordTask": "How much is the bus fare?",
+      "wordSample": "The bus fare is $2. Anna pays the bus fare."
+    },
+    {
+      "unit": 7,
+      "day": 53,
+      "title": "Borrow money",
+      "goal": "I can talk about borrowing money.",
+      "newItems": [
+        {
+          "word": "debt",
+          "ipa": "/dɛt/",
+          "pos": "noun",
+          "definition": "Money you must pay back.",
+          "example": "He has a big debt.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "loan",
+          "ipa": "/loʊn/",
+          "pos": "noun",
+          "definition": "Money you borrow from a bank.",
+          "example": "She took out a loan.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "interest",
+          "ipa": "/ˈɪntrəst/",
+          "pos": "noun",
+          "definition": "Extra money you pay for a loan.",
+          "example": "The interest is high.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "take out a loan",
+          "ipa": "/teɪk aʊt ə loʊn/",
+          "pos": "fixed phrase",
+          "definition": "To borrow money from a bank.",
+          "example": "She took out a loan.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "pay back",
+          "ipa": "/peɪ bæk/",
+          "pos": "fixed phrase",
+          "definition": "To give back money you borrowed.",
+          "example": "I pay back the loan.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "friend",
+        "help",
+        "call",
+        "letter",
+        "email"
+      ],
+      "mainWord": {
+        "word": "debt",
+        "ipa": "/dɛt/",
+        "pos": "noun",
+        "definition": "Money you must pay back.",
+        "example": "He has a big debt.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Debt is a noun. Debt means money you must pay back. He has a big debt.",
+      "pronunciationTarget": {
+        "word": "debt",
+        "ipa": "/dɛt/"
+      },
+      "expression": "I pay back the loan.",
+      "use": "Use this to say you give back money you borrowed.",
+      "expressionTask": "Tom borrows money from the bank. What does he do every month?",
+      "grammar": "First conditional: If I borrow money, I will pay it back",
+      "pattern": "If I borrow money, I will pay it back.",
+      "task": "If I borrow money, I will pay it ___.",
+      "answer": "back",
+      "example": "If I borrow money, I will pay it back.",
+      "context": [
+        "Tom takes out a loan from the bank.",
+        "I pay back the loan. The interest is $50 a month."
+      ],
+      "dialogue": [
+        "Tom, did you take out a loan?",
+        "Yes, I took out a loan from the bank. The loan is $5,000.",
+        "How much is the interest?",
+        "The interest is $50 a month. I pay back the loan every month.",
+        "Do you have a big debt?",
+        "Yes, I have a big debt, but I pay back the loan every month."
+      ],
+      "listening": "Tom takes out a loan from the bank. The loan is $5,000. The interest is $50 a month. Tom pays back the loan every month. He has a big debt. Tom calls his friend Sam for help. Sam says, 'Do not worry. Pay back the loan every month.' He pays back the loan.",
+      "question": "How much is the interest every month?",
+      "correct": "$50",
+      "other": "$5,000",
+      "reading": "Tom takes out a loan from the bank. The loan is $5,000. The interest is $50 a month. Tom pays back the loan every month. He has a big debt. Tom calls his friend Sam for help. Sam says, 'Do not worry. Pay back the loan every month.' Tom writes a letter to the bank. He says, 'I take out a loan. I pay back the loan every month. The interest is $50 a month.' The bank is happy. Tom is happy. He says, 'I have a big debt, but I pay back the loan. I take out a loan, and I pay it back.' Sam helps Tom. Sam is a good friend. Tom thanks Sam.",
+      "readingQ": "How much is Tom's loan?",
+      "readingA": "$5,000.",
+      "speaking": "Tell a friend about borrowing money. Did you take out a loan? How much is the interest? How do you pay it back?",
+      "speakingSample": "I take out a loan from the bank. The loan is $5,000. The interest is $50 a month. I pay back the loan every month. I have a big debt. I call my friend Sam for help. Sam says, 'Do not worry. Pay back the loan every month.' I am happy.",
+      "writing": "Write a short email to a friend about borrowing money. Say how much the loan is and how much the interest is every month.",
+      "writingSample": "Dear Tom, I want to tell you about my loan. I take out a loan from the bank. The loan is $5,000. The interest is $50 a month. I pay back the loan every month. I have a big debt. I call my friend Sam for help. Sam says, 'Do not worry. Pay back the loan every month.' I am happy. Thank you for your help. Best, Sam",
+      "sound": "Debt has one strong beat. Say DEBT clearly. In loan, say LOAN clearly.",
+      "model": "He has a big debt.",
+      "wordTask": "How much is Tom's loan?",
+      "wordSample": "The loan is $5,000. The interest is $50 a month."
+    },
+    {
+      "unit": 7,
+      "day": 54,
+      "title": "Make a big money choice",
+      "goal": "I can talk about a big money choice.",
+      "newItems": [
+        {
+          "word": "invest",
+          "ipa": "/ɪnˈvɛst/",
+          "pos": "verb",
+          "definition": "To put money into something to make more money.",
+          "example": "I invest in Apple.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "profit",
+          "ipa": "/ˈprɑfɪt/",
+          "pos": "noun",
+          "definition": "Money you make after you pay the costs.",
+          "example": "The shop makes a profit.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "owe",
+          "ipa": "/oʊ/",
+          "pos": "verb",
+          "definition": "To need to pay money back.",
+          "example": "I owe him $50.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "worth every penny",
+          "ipa": "/wɝθ ˈɛvri ˈpɛni/",
+          "pos": "fixed phrase",
+          "definition": "Worth all the money you pay.",
+          "example": "It is worth every penny.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "break the bank",
+          "ipa": "/breɪk ðə bæŋk/",
+          "pos": "fixed phrase",
+          "definition": "To cost too much money.",
+          "example": "It will not break the bank.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "business",
+        "idea",
+        "plan",
+        "today",
+        "computer"
+      ],
+      "mainWord": {
+        "word": "invest",
+        "ipa": "/ɪnˈvɛst/",
+        "pos": "verb",
+        "definition": "To put money into something to make more money.",
+        "example": "I invest in Apple.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Invest is a verb. Invest means to put money into something to make more money. I invest in Apple.",
+      "pronunciationTarget": {
+        "word": "invest",
+        "ipa": "/ɪnˈvɛst/"
+      },
+      "expression": "It is worth every penny.",
+      "use": "Use this to say something is worth all the money you pay.",
+      "expressionTask": "Sam buys a good computer. What does he say about it?",
+      "grammar": "should for advice: You should invest your money",
+      "pattern": "You should invest your money.",
+      "task": "You should invest your ___.",
+      "answer": "money",
+      "example": "You should invest your money.",
+      "context": [
+        "Sam buys a new computer for his business.",
+        "It is worth every penny. It will not break the bank."
+      ],
+      "dialogue": [
+        "Sam, did you buy a new computer?",
+        "Yes, I bought a new computer for my business. It is worth every penny.",
+        "Did it break the bank?",
+        "No, it will not break the bank. I invest my money well.",
+        "Do you owe money for the computer?",
+        "No, I do not owe money. I pay for it today."
+      ],
+      "listening": "Sam buys a new computer for his business. It is worth every penny. It will not break the bank. Sam invests his money well. He does not owe money for the computer. He pays for it today. Sam likes his new computer. He uses it every day. Sam is happy.",
+      "question": "What does Sam buy for his business?",
+      "correct": "A new computer",
+      "other": "A new car",
+      "reading": "Sam buys a new computer for his business. It is worth every penny. It will not break the bank. Sam invests his money well. He does not owe money for the computer. He pays for it today. Sam likes his new computer. He uses it every day. His business is good. The shop makes a profit. Sam says, 'I invest my money well. It is worth every penny.' Anna asks, 'Do you owe money for the computer?' Sam says, 'No, I do not owe money. It will not break the bank.' Sam is happy. He has a good plan for the future. Sam tells his friend Tom about the computer. Tom is happy for Sam. Tom says, 'That is a good plan.'",
+      "readingQ": "Does Sam owe money for the computer?",
+      "readingA": "No, he does not.",
+      "speaking": "Tell a friend about a big money choice. What did you buy? Is it worth every penny? Did it break the bank?",
+      "speakingSample": "I buy a new computer for my business. It is worth every penny. It will not break the bank. I invest my money well. I do not owe money for the computer. I pay for it today. I like my new computer. I use it every day. I am happy.",
+      "writing": "Write a short email to a friend about a big money choice. Say what you bought and if it is worth every penny.",
+      "writingSample": "Dear Tom, I want to tell you about a big money choice. I buy a new computer for my business. It is worth every penny. It will not break the bank. I invest my money well. I do not owe money for the computer. I pay for it today. I like my new computer. I use it every day. I am happy. It is a good plan for the future. Best, Sam",
+      "sound": "Invest has its strongest beat on VEST. In invest, say VEST clearly at the end. In profit, say PROF clearly at the start.",
+      "model": "I invest in Apple.",
+      "wordTask": "What does Sam buy for his business?",
+      "wordSample": "He buys a new computer. It is worth every penny."
+    },
+    {
+      "unit": 7,
+      "day": 55,
+      "title": "Live within your means",
+      "goal": "I can talk about living within my means.",
+      "newItems": [
+        {
+          "word": "tax",
+          "ipa": "/tæks/",
+          "pos": "noun",
+          "definition": "Money you pay to the government.",
+          "example": "We pay tax every year.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "currency",
+          "ipa": "/ˈkɝənsi/",
+          "pos": "noun",
+          "definition": "The money of a country.",
+          "example": "The currency here is the dollar.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "poverty",
+          "ipa": "/ˈpɑvərti/",
+          "pos": "noun",
+          "definition": "Not having enough money.",
+          "example": "They live in poverty.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "make ends meet",
+          "ipa": "/meɪk ɛndz mit/",
+          "pos": "fixed phrase",
+          "definition": "To have just enough money to live.",
+          "example": "It is hard to make ends meet.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "live within your means",
+          "ipa": "/lɪv wɪˈðɪn jʊr minz/",
+          "pos": "fixed phrase",
+          "definition": "To spend no more money than you have.",
+          "example": "Live within your means.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "school",
+        "teacher",
+        "doctor",
+        "city",
+        "travel"
+      ],
+      "mainWord": {
+        "word": "tax",
+        "ipa": "/tæks/",
+        "pos": "noun",
+        "definition": "Money you pay to the government.",
+        "example": "We pay tax every year.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Tax is a noun. Tax means money you pay to the government. We pay tax every year.",
+      "pronunciationTarget": {
+        "word": "tax",
+        "ipa": "/tæks/"
+      },
+      "expression": "Live within your means.",
+      "use": "Use this to say you spend no more money than you have.",
+      "expressionTask": "Sam plans a trip to London. What does he say about money?",
+      "grammar": "going to for plans: I am going to pay my tax in April",
+      "pattern": "I am going to pay my tax in April.",
+      "task": "I am going to pay my tax in ___.",
+      "answer": "April",
+      "example": "I am going to pay my tax in April.",
+      "context": [
+        "Sam plans a trip to London.",
+        "Live within your means. The currency in London is the pound."
+      ],
+      "dialogue": [
+        "Sam, do you plan a trip to London?",
+        "Yes, I plan a trip to London. The currency in London is the pound.",
+        "Do you pay tax every year?",
+        "Yes, I pay tax every year. I am going to pay my tax in April.",
+        "Is it hard to make ends meet?",
+        "Sometimes it is hard to make ends meet, but I live within my means."
+      ],
+      "listening": "Sam plans a trip to London. The currency in London is the pound. Sam pays tax every year. He is going to pay his tax in April. Sometimes it is hard to make ends meet, but Sam lives within his means. Sam reads about poverty in the news.",
+      "question": "What is the currency in London?",
+      "correct": "The pound",
+      "other": "The dollar",
+      "reading": "Sam plans a trip to London. The currency in London is the pound. Sam pays tax every year. He is going to pay his tax in April. Sometimes it is hard to make ends meet, but Sam lives within his means. He does not spend more money than he has. Sam reads about poverty in the news. Many children live in poverty. Sam is happy to help children at school. He says, 'I live within my means. Sometimes it is hard to make ends meet, but I am happy.' Sam saves money for his trip. He is going to travel to London in May. He is happy. His friend Tom is happy for Sam. Tom says, 'Have a good trip.'",
+      "readingQ": "What is the currency in London?",
+      "readingA": "The pound.",
+      "speaking": "Tell a friend about living within your means. Do you pay tax every year? Is it hard to make ends meet? What is the currency in London?",
+      "speakingSample": "I plan a trip to London. The currency in London is the pound. I pay tax every year. I am going to pay my tax in April. Sometimes it is hard to make ends meet, but I live within my means. I do not spend more money than I have. I am happy.",
+      "writing": "Write a short email to a friend about living within your means. Say what the currency is in London and when you pay your tax.",
+      "writingSample": "Dear Anna, I want to tell you about living within my means. I plan a trip to London. The currency in London is the pound. I pay tax every year. I am going to pay my tax in April. Sometimes it is hard to make ends meet, but I live within my means. I do not spend more money than I have. I am happy. I save money for my trip. Best, Sam",
+      "sound": "Tax has one strong beat. Say TAX clearly. In currency, say CUR clearly at the start.",
+      "model": "We pay tax every year.",
+      "wordTask": "What is the currency in London?",
+      "wordSample": "The currency in London is the pound. Sam pays tax every year."
+    },
+    {
+      "unit": 7,
+      "day": 56,
+      "title": "Use money English in a new situation",
+      "goal": "I can use money English in a new situation.",
+      "newItems": [
+        {
+          "word": "wage",
+          "ipa": "/weɪdʒ/",
+          "pos": "noun",
+          "definition": "Money you get for work, usually every week.",
+          "example": "His wage is $20 an hour.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "yearly",
+          "ipa": "/ˈjɪrli/",
+          "pos": "adverb",
+          "definition": "Every year.",
+          "example": "We pay yearly.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "fund",
+          "ipa": "/fʌnd/",
+          "pos": "noun",
+          "definition": "Money for a special purpose.",
+          "example": "A fund for the school.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "cut down on",
+          "ipa": "/kʌt daʊn ɑn/",
+          "pos": "fixed phrase",
+          "definition": "To use or spend less of something.",
+          "example": "Cut down on coffee.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "check your balance",
+          "ipa": "/tʃɛk jʊr ˈbæləns/",
+          "pos": "fixed phrase",
+          "definition": "To see how much money is in your account.",
+          "example": "Check your balance.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "job",
+        "home",
+        "new",
+        "time",
+        "week"
+      ],
+      "mainWord": {
+        "word": "wage",
+        "ipa": "/weɪdʒ/",
+        "pos": "noun",
+        "definition": "Money you get for work, usually every week.",
+        "example": "His wage is $20 an hour.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Wage is a noun. Wage means money you get for work, usually every week. His wage is $20 an hour.",
+      "pronunciationTarget": {
+        "word": "wage",
+        "ipa": "/weɪdʒ/"
+      },
+      "expression": "Check your balance every week.",
+      "use": "Use this to say you see how much money is in your account.",
+      "expressionTask": "Tom moves to London for a new job. What does he do every week?",
+      "grammar": "Review: I can use money English in a new situation",
+      "pattern": "I can use money English in a new situation.",
+      "task": "I can ___ money English in a new situation.",
+      "answer": "use",
+      "example": "I can use money English in a new situation.",
+      "context": [
+        "Tom moves to London for a new job.",
+        "Check your balance every week. Cut down on coffee."
+      ],
+      "dialogue": [
+        "Tom, do you like your new job in London?",
+        "Yes, I like my new job. My wage is $25 an hour.",
+        "Do you check your balance every week?",
+        "Yes, I check my balance every week. I cut down on coffee.",
+        "Do you pay tax yearly?",
+        "Yes, I pay tax yearly. I put money in a fund for a new home."
+      ],
+      "listening": "Tom moves to London for a new job. His wage is $25 an hour. He checks his balance every week. He cuts down on coffee. Tom pays tax yearly. He puts money in a fund for a new home. Tom likes his new job. He likes his new home. He is happy in London.",
+      "question": "How much is Tom's wage?",
+      "correct": "$25 an hour",
+      "other": "$20 an hour",
+      "reading": "Tom moves to London for a new job. His wage is $25 an hour. He checks his balance every week. He cuts down on coffee. Tom pays tax yearly. He puts money in a fund for a new home. Tom likes his new job. He likes his new home. He is happy in London. Tom says, 'I check my balance every week. I cut down on coffee. I pay tax yearly.' His friend Sam is happy for Tom. Sam says, 'You have a good job. Your wage is good.' Tom says, 'Yes. I put money in a fund for a new home.' Sam visits Tom in London. They drink coffee together. Tom is happy. Sam is happy, too.",
+      "readingQ": "How much is Tom's wage?",
+      "readingA": "$25 an hour.",
+      "speaking": "Tell a friend about Tom's new job in London. What is his wage? What does he do every week? Does he pay tax yearly?",
+      "speakingSample": "Tom has a new job in London. His wage is $25 an hour. He checks his balance every week. He cuts down on coffee. Tom pays tax yearly. He puts money in a fund for a new home. He likes his new job and his new home. He is happy in London.",
+      "writing": "Write a short email to a friend about Tom's new job in London. Say what his wage is and what he does every week.",
+      "writingSample": "Dear Anna, I want to tell you about Tom's new job in London. His wage is $25 an hour. He checks his balance every week. He cuts down on coffee. Tom pays tax yearly. He puts money in a fund for a new home. Tom likes his new job. He likes his new home. He is happy in London. I am happy for Tom. Best, Sam",
+      "sound": "Wage has one strong beat. Say WAGE clearly. In yearly, say YEAR clearly at the start.",
+      "model": "His wage is $20 an hour.",
+      "wordTask": "What does Tom do every week?",
+      "wordSample": "He checks his balance every week. He cuts down on coffee.",
+      "transferCheck": {
+        "source": "Tom moves to London for a new job. His wage is $25 an hour. He checks his balance every week. He cuts down on coffee. Tom pays tax yearly. He puts money in a fund for a new home. Tom likes his new job and his new home. He is happy in London. Sam visits Tom in London. They drink coffee together. Tom says, 'I check my balance every week. I cut down on coffee.'",
+        "dictation": "Tom checks his balance every week.",
+        "answer": "1. Tom moves to London for a new job. His wage is $25 an hour. 2. He checks his balance every week. He cuts down on coffee. 3. Tom pays tax yearly. He puts money in a fund for a new home. 4. Tom likes his new job and his new home. He is happy in London. 5. Sample: Tom moves to London for a new job. His wage is $25 an hour. He checks his balance every week. He cuts down on coffee. Tom pays tax yearly. He puts money in a fund for a new home. Tom likes his new job and his new home. He is happy in London. Follow-up: What does Tom do every week? He checks his balance.",
+        "tasks": [
+          [
+            "1 · Identify the new job and the wage",
+            "Where is Tom's new job, and what is his wage?"
+          ],
+          [
+            "2 · Work out what Tom does every week",
+            "What does Tom do every week?"
+          ],
+          [
+            "3 · Notice what Tom pays and saves for",
+            "What does Tom pay yearly, and what does he put money in a fund for?"
+          ],
+          [
+            "4 · Listen and write",
+            "Write the sentence you hear."
+          ],
+          [
+            "5 · Retell and answer",
+            "Tell the story in order, including the new job, the wage, the balance, the coffee, and the fund. Then answer one follow-up question."
+          ]
+        ]
+      }
+    }
+  ]
+}

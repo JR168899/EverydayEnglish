@@ -1,0 +1,905 @@
+{
+  "number": 15,
+  "title": "Weather and the seasons",
+  "lessons": [
+    {
+      "unit": 15,
+      "day": 113,
+      "title": "Talking about the weather today",
+      "goal": "I can talk about the weather today.",
+      "newItems": [
+        {
+          "word": "drizzle",
+          "ipa": "/ˈdrɪzəl/",
+          "pos": "noun",
+          "definition": "Very light rain.",
+          "example": "There is drizzle in the morning.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "overcast",
+          "ipa": "/ˈoʊvərˌkæst/",
+          "pos": "adjective",
+          "definition": "With clouds all over the sky.",
+          "example": "It is overcast today.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "clear skies",
+          "ipa": "/klɪr skaɪz/",
+          "pos": "fixed phrase",
+          "definition": "A sky with no clouds.",
+          "example": "We have clear skies today.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "a break in the clouds",
+          "ipa": "/ə breɪk ɪn ðə klaʊdz/",
+          "pos": "fixed phrase",
+          "definition": "A short time when the sun comes out.",
+          "example": "There is a break in the clouds.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "a change in the weather",
+          "ipa": "/ə tʃeɪndʒ ɪn ðə ˈwɛðər/",
+          "pos": "fixed phrase",
+          "definition": "The weather becomes different.",
+          "example": "There is a change in the weather.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "weather",
+        "rain",
+        "sun",
+        "cloud",
+        "today"
+      ],
+      "mainWord": {
+        "word": "drizzle",
+        "ipa": "/ˈdrɪzəl/",
+        "pos": "noun",
+        "definition": "Very light rain.",
+        "example": "There is drizzle in the morning.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Drizzle is a noun. Drizzle means very light rain. There is drizzle in the morning.",
+      "pronunciationTarget": {
+        "word": "drizzle",
+        "ipa": "/ˈdrɪzəl/"
+      },
+      "expression": "There is a change in the weather.",
+      "use": "Use this when the weather is not the same as before.",
+      "expressionTask": "Tom and Lily talk about the weather. What is the change?",
+      "grammar": "present simple for weather: It is overcast today",
+      "pattern": "It is overcast today.",
+      "task": "It is ___ today.",
+      "answer": "overcast",
+      "example": "It is overcast today.",
+      "context": [
+        "Tom and Lily talk about the weather today.",
+        "There is a change in the weather. It is overcast, and there is drizzle in the morning."
+      ],
+      "dialogue": [
+        "Tom, what is the weather today?",
+        "It is overcast, with drizzle in the morning.",
+        "Will it rain all day?",
+        "No. There is a break in the clouds at noon.",
+        "Good. Then we have clear skies.",
+        "Yes. There is a change in the weather."
+      ],
+      "listening": "Tom and Lily talk about the weather today. Tom says, 'It is overcast, with drizzle in the morning.' Lily says, 'Will it rain all day?' Tom says, 'No. There is a break in the clouds at noon.' Lily says, 'Good. Then we have clear skies.' Tom says, 'Yes. There is a change in the weather.'",
+      "question": "What is the weather like today?",
+      "correct": "Overcast, with drizzle in the morning",
+      "other": "Sunny and hot",
+      "reading": "On Monday morning, Tom and Lily talk about the weather today. Tom looks out of the window. He says, 'It is overcast today, and there is drizzle in the morning. The sky is grey, and the rain is very light.' Lily says, 'Is it going to rain all day?' Tom says, 'No. There is a break in the clouds at noon. Then we have clear skies in the afternoon.' Lily is happy. She says, 'Good. I like clear skies. We can walk in the park.' Tom says, 'Yes. There is a change in the weather today. In the morning it is overcast, and in the afternoon the sun comes out.' Lily says, 'I can talk about the weather today.'",
+      "readingQ": "What is the weather like in the morning?",
+      "readingA": "Overcast, with drizzle.",
+      "speaking": "Tell a friend about the weather today. What is it like?",
+      "speakingSample": "I talk about the weather today with my friend Tom. It is overcast in the morning, and there is drizzle. At noon there is a break in the clouds. Then we have clear skies in the afternoon. There is a change in the weather today. I like clear skies. We can walk in the park.",
+      "writing": "Write a short email to a friend about the weather today. Say what it is like.",
+      "writingSample": "Dear Anna, I want to tell you about the weather today. In the morning it is overcast, and there is drizzle. At noon there is a break in the clouds. Then we have clear skies in the afternoon. There is a change in the weather today. I like clear skies. We can walk in the park in the afternoon. It is a good day. See you soon. Best, Lily",
+      "sound": "Drizzle has its strongest beat on DRIZ. In drizzle, say DRIZ clearly at the start. In overcast, say VER clearly in the middle.",
+      "model": "There is drizzle in the morning.",
+      "wordTask": "What is the weather like today?",
+      "wordSample": "Overcast, with drizzle in the morning."
+    },
+    {
+      "unit": 15,
+      "day": 114,
+      "title": "Rain and storms",
+      "goal": "I can talk about rain and storms.",
+      "newItems": [
+        {
+          "word": "downpour",
+          "ipa": "/ˈdaʊnˌpɔr/",
+          "pos": "noun",
+          "definition": "A lot of rain in a short time.",
+          "example": "A downpour comes at noon.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "flood",
+          "ipa": "/flʌd/",
+          "pos": "noun",
+          "definition": "A lot of water over land.",
+          "example": "A flood comes after the rain.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "puddle",
+          "ipa": "/ˈpʌdəl/",
+          "pos": "noun",
+          "definition": "A small pool of water on the ground.",
+          "example": "We jump over a puddle.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "it's pouring down",
+          "ipa": "/ɪts ˈpɔrɪŋ daʊn/",
+          "pos": "fixed phrase",
+          "definition": "It is raining very hard.",
+          "example": "It's pouring down outside.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "raining cats and dogs",
+          "ipa": "/ˈreɪnɪŋ kæts ənd dɔɡz/",
+          "pos": "fixed phrase",
+          "definition": "Raining very hard.",
+          "example": "It is raining cats and dogs.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "storm",
+        "wind",
+        "water",
+        "night",
+        "home"
+      ],
+      "mainWord": {
+        "word": "downpour",
+        "ipa": "/ˈdaʊnˌpɔr/",
+        "pos": "noun",
+        "definition": "A lot of rain in a short time.",
+        "example": "A downpour comes at noon.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Downpour is a noun. A downpour is a lot of rain in a short time. A downpour comes at noon.",
+      "pronunciationTarget": {
+        "word": "downpour",
+        "ipa": "/ˈdaʊnˌpɔr/"
+      },
+      "expression": "It's pouring down outside.",
+      "use": "Use this when it rains very hard.",
+      "expressionTask": "Tom and Lily talk about a storm. How hard is the rain?",
+      "grammar": "past simple for storms: It poured down last night",
+      "pattern": "It poured down last night.",
+      "task": "It ___ down last night.",
+      "answer": "poured",
+      "example": "It poured down last night.",
+      "context": [
+        "Tom and Lily talk about rain and a storm.",
+        "It's pouring down outside. A downpour comes at noon."
+      ],
+      "dialogue": [
+        "Lily, look! It's pouring down outside.",
+        "Yes. It is raining cats and dogs.",
+        "Is there a flood in the street?",
+        "No. The water runs away from the house.",
+        "Good. But there is a big puddle by the door.",
+        "Yes. We stay at home today."
+      ],
+      "listening": "Tom says, 'Look! It's pouring down outside.' Lily says, 'Yes. It is raining cats and dogs.' Tom says, 'Is there a flood in the street?' Lily says, 'No. The water runs away from the house.' Tom says, 'Good. But there is a big puddle by the door.' Lily says, 'Yes. We stay at home today.'",
+      "question": "How hard is the rain?",
+      "correct": "It is raining cats and dogs",
+      "other": "It is a light rain",
+      "reading": "On Tuesday, Tom and Lily talk about rain and a storm. Tom looks out of the window. He says, 'Look! It's pouring down outside. It is raining cats and dogs.' Lily says, 'Is there a flood in the street?' Tom says, 'No. The water runs away from the house. But a downpour comes at noon, and the street is wet.' Lily says, 'What do we do today?' Tom says, 'We stay at home. There is a big puddle by the door, and we are wet. It is a good day to stay at home. We can read a book and drink hot tea.' Lily says, 'I can talk about rain and storms.'",
+      "readingQ": "Is there a flood in the street?",
+      "readingA": "No, there is not.",
+      "speaking": "Tell a friend about a storm. How hard is the rain?",
+      "speakingSample": "I talk about a storm with my friend Tom. It is raining cats and dogs. It's pouring down outside. A downpour comes at noon. There is a flood in the street, and there is a big puddle by the door. We stay at home today. It is a good day to read a book.",
+      "writing": "Write a short email to a friend about a storm. Say how hard the rain is.",
+      "writingSample": "Dear Anna, I want to tell you about a storm today. It's pouring down outside. It is raining cats and dogs. A downpour comes at noon. There is a flood in the street, and there is a big puddle by the door. We stay at home today. It is a good day to read a book and drink hot tea. See you soon. Best, Lily",
+      "sound": "Downpour has its strongest beat on DOWN. In downpour, say DOWN clearly at the start. In puddle, say PUD clearly at the start.",
+      "model": "A downpour comes at noon.",
+      "wordTask": "How hard is the rain?",
+      "wordSample": "It is raining cats and dogs."
+    },
+    {
+      "unit": 15,
+      "day": 115,
+      "title": "Snow and winter",
+      "goal": "I can talk about snow and winter.",
+      "newItems": [
+        {
+          "word": "blizzard",
+          "ipa": "/ˈblɪzərd/",
+          "pos": "noun",
+          "definition": "A very strong snow storm.",
+          "example": "A blizzard comes in winter.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "frosty",
+          "ipa": "/ˈfrɔsti/",
+          "pos": "adjective",
+          "definition": "Very cold with frost.",
+          "example": "It is a frosty morning.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "thaw",
+          "ipa": "/θɔ/",
+          "pos": "verb",
+          "definition": "To melt after ice.",
+          "example": "The snow thaws in spring.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "a cold snap",
+          "ipa": "/ə koʊld snæp/",
+          "pos": "fixed phrase",
+          "definition": "A short time of very cold weather.",
+          "example": "A cold snap comes in January.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "in the middle of winter",
+          "ipa": "/ɪn ðə ˈmɪdəl əv ˈwɪntər/",
+          "pos": "fixed phrase",
+          "definition": "At the coldest time of winter.",
+          "example": "It is cold in the middle of winter.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "snow",
+        "winter",
+        "cold",
+        "coat",
+        "morning"
+      ],
+      "mainWord": {
+        "word": "blizzard",
+        "ipa": "/ˈblɪzərd/",
+        "pos": "noun",
+        "definition": "A very strong snow storm.",
+        "example": "A blizzard comes in winter.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Blizzard is a noun. A blizzard is a very strong snow storm. A blizzard comes in winter.",
+      "pronunciationTarget": {
+        "word": "blizzard",
+        "ipa": "/ˈblɪzərd/"
+      },
+      "expression": "A cold snap comes this week.",
+      "use": "Use this when it is very cold for a short time.",
+      "expressionTask": "Tom and Lily talk about winter. What comes this week?",
+      "grammar": "superlatives: January is the coldest month",
+      "pattern": "January is the coldest month.",
+      "task": "January is the ___ month.",
+      "answer": "coldest",
+      "example": "January is the coldest month.",
+      "context": [
+        "Tom and Lily talk about snow and winter.",
+        "A cold snap comes this week. It is frosty in the morning."
+      ],
+      "dialogue": [
+        "Tom, is it cold today?",
+        "Yes. A cold snap comes this week.",
+        "Is there a blizzard tonight?",
+        "No. But it is frosty in the morning.",
+        "What do we do in the middle of winter?",
+        "We stay at home and drink hot tea."
+      ],
+      "listening": "Tom and Lily talk about snow and winter. Tom says, 'A cold snap comes this week.' Lily says, 'Is there a blizzard tonight?' Tom says, 'No. But it is frosty in the morning.' Lily says, 'What do we do in the middle of winter?' Tom says, 'We stay at home and drink hot tea.'",
+      "question": "Is there a blizzard tonight?",
+      "correct": "No, there is not",
+      "other": "Yes, there is",
+      "reading": "On Wednesday, Tom and Lily talk about snow and winter. Lily says, 'Tom, is it cold today?' Tom says, 'Yes. A cold snap comes this week. January is the coldest month. It is frosty in the morning, and the snow is white on the trees.' Lily says, 'Is there a blizzard tonight?' Tom says, 'No. In the afternoon the snow begins to thaw, and the sun comes out. In the middle of winter we stay at home and drink hot tea. It is a good day to stay at home and read a book by the fire.' Lily says, 'Yes. I like winter. I can talk about snow and winter.'",
+      "readingQ": "What is the coldest month?",
+      "readingA": "January.",
+      "speaking": "Tell a friend about snow and winter. What is it like?",
+      "speakingSample": "I talk about snow and winter with my friend Tom. A cold snap comes this week. January is the coldest month. It is frosty in the morning. There is no blizzard tonight, but the snow thaws in the afternoon. In the middle of winter we stay at home and drink hot tea.",
+      "writing": "Write a short email to a friend about snow and winter. Say what it is like.",
+      "writingSample": "Dear Anna, I want to tell you about snow and winter. A cold snap comes this week. January is the coldest month. It is frosty in the morning. There is no blizzard tonight, but the snow thaws in the afternoon. In the middle of winter we stay at home and drink hot tea. It is a good day to stay at home. See you soon. Best, Lily",
+      "sound": "Blizzard has its strongest beat on BLIZ. In blizzard, say BLIZ clearly at the start. In frosty, say FROS clearly at the start.",
+      "model": "A blizzard comes in winter.",
+      "wordTask": "Is it cold today?",
+      "wordSample": "Yes. A cold snap comes this week."
+    },
+    {
+      "unit": 15,
+      "day": 116,
+      "title": "Hot days and summer",
+      "goal": "I can talk about hot days and summer.",
+      "newItems": [
+        {
+          "word": "scorching",
+          "ipa": "/ˈskɔrtʃɪŋ/",
+          "pos": "adjective",
+          "definition": "Very, very hot.",
+          "example": "It is scorching today.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "heatwave",
+          "ipa": "/ˈhitˌweɪv/",
+          "pos": "noun",
+          "definition": "Many very hot days in a row.",
+          "example": "A heatwave comes in July.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "sweaty",
+          "ipa": "/ˈswɛti/",
+          "pos": "adjective",
+          "definition": "Wet with sweat from heat.",
+          "example": "I am sweaty after the walk.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "soak up the sun",
+          "ipa": "/soʊk ʌp ðə sʌn/",
+          "pos": "fixed phrase",
+          "definition": "Enjoy the hot sun.",
+          "example": "We soak up the sun on the beach.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "out of the sun",
+          "ipa": "/aʊt əv ðə sʌn/",
+          "pos": "fixed phrase",
+          "definition": "Away from the hot sun.",
+          "example": "Sit out of the sun.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "summer",
+        "hot",
+        "beach",
+        "sea",
+        "afternoon"
+      ],
+      "mainWord": {
+        "word": "scorching",
+        "ipa": "/ˈskɔrtʃɪŋ/",
+        "pos": "adjective",
+        "definition": "Very, very hot.",
+        "example": "It is scorching today.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Scorching is an adjective. Scorching means very, very hot. It is scorching today.",
+      "pronunciationTarget": {
+        "word": "scorching",
+        "ipa": "/ˈskɔrtʃɪŋ/"
+      },
+      "expression": "We soak up the sun on the beach.",
+      "use": "Use this when you enjoy the hot sun.",
+      "expressionTask": "Tom and Lily talk about a hot day. What do they do on the beach?",
+      "grammar": "comparatives: Today is hotter than yesterday",
+      "pattern": "Today is hotter than yesterday.",
+      "task": "Today is ___ than yesterday.",
+      "answer": "hotter",
+      "example": "Today is hotter than yesterday.",
+      "context": [
+        "Tom and Lily talk about a hot day in summer.",
+        "It is scorching today. We soak up the sun on the beach."
+      ],
+      "dialogue": [
+        "Lily, it is scorching today!",
+        "Yes. We soak up the sun on the beach.",
+        "Is it a heatwave this week?",
+        "Yes. It is hot all week.",
+        "I am sweaty after the walk.",
+        "Sit out of the sun and drink water."
+      ],
+      "listening": "Tom says, 'It is scorching today!' Lily says, 'We soak up the sun on the beach.' Tom says, 'Is it a heatwave this week?' Lily says, 'Yes. It is hot all week.' Tom says, 'I am sweaty after the walk.' Lily says, 'Sit out of the sun and drink water.'",
+      "question": "Is it a heatwave this week?",
+      "correct": "Yes, it is",
+      "other": "No, it is not",
+      "reading": "On Thursday, Tom and Lily talk about a hot day in summer. Tom says, 'Lily, it is scorching today! Today is hotter than yesterday.' Lily says, 'Yes. We soak up the sun on the beach. Is it a heatwave this week?' Tom says, 'Yes. It is hot all week. I am sweaty after the walk in the sun.' Lily says, 'Sit out of the sun and drink water. We drink cold water and eat ice cream in the afternoon. It is a good day to sit in the afternoon and rest.' Tom says, 'Yes. I like summer. It is a very hot day in summer. I can talk about hot days and summer.'",
+      "readingQ": "What do Tom and Lily do on the beach?",
+      "readingA": "They soak up the sun.",
+      "speaking": "Tell a friend about a hot day. What is it like?",
+      "speakingSample": "I talk about a hot day with my friend Tom. It is scorching today. Today is hotter than yesterday. We soak up the sun on the beach. Is it a heatwave this week? Yes. It is hot all week. I am sweaty after the walk. We sit out of the sun and drink water.",
+      "writing": "Write a short email to a friend about a hot day. Say what it is like.",
+      "writingSample": "Dear Anna, I want to tell you about a hot day in summer. It is scorching today. Today is hotter than yesterday. We soak up the sun on the beach. Is it a heatwave this week? Yes. It is hot all week. I am sweaty after the walk. Sit out of the sun and drink water. It is a good day to sit in the afternoon. See you soon. Best, Lily",
+      "sound": "Scorching has its strongest beat on SCORCH. In scorching, say SCORCH clearly at the start. In heatwave, say HEAT clearly at the start.",
+      "model": "It is scorching today.",
+      "wordTask": "What do Tom and Lily do on the beach?",
+      "wordSample": "They soak up the sun."
+    },
+    {
+      "unit": 15,
+      "day": 117,
+      "title": "Spring and autumn",
+      "goal": "I can talk about spring and autumn.",
+      "newItems": [
+        {
+          "word": "bloom",
+          "ipa": "/blum/",
+          "pos": "verb",
+          "definition": "To open as a flower.",
+          "example": "Flowers bloom in spring.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "harvest",
+          "ipa": "/ˈhɑrvəst/",
+          "pos": "noun",
+          "definition": "The food farmers pick in autumn.",
+          "example": "We have a good harvest.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "all year round",
+          "ipa": "/ɔl jɪr raʊnd/",
+          "pos": "fixed phrase",
+          "definition": "In every season of the year.",
+          "example": "It is warm here all year round.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "a breath of fresh air",
+          "ipa": "/ə brɛθ əv frɛʃ ɛr/",
+          "pos": "fixed phrase",
+          "definition": "Clean, cool air outside.",
+          "example": "I need a breath of fresh air.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "in the middle of summer",
+          "ipa": "/ɪn ðə ˈmɪdəl əv ˈsʌmər/",
+          "pos": "fixed phrase",
+          "definition": "At the hottest time of summer.",
+          "example": "It is hot in the middle of summer.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "spring",
+        "autumn",
+        "season",
+        "tree",
+        "grass"
+      ],
+      "mainWord": {
+        "word": "bloom",
+        "ipa": "/blum/",
+        "pos": "verb",
+        "definition": "To open as a flower.",
+        "example": "Flowers bloom in spring.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Bloom is a verb. To bloom is to open as a flower. Flowers bloom in spring.",
+      "pronunciationTarget": {
+        "word": "bloom",
+        "ipa": "/blum/"
+      },
+      "expression": "I need a breath of fresh air.",
+      "use": "Use this when you want clean, cool air outside.",
+      "expressionTask": "Tom and Lily talk about spring. What does Lily need?",
+      "grammar": "present perfect for seasons: It has been warm all week",
+      "pattern": "It has been warm all week.",
+      "task": "It has been ___ all week.",
+      "answer": "warm",
+      "example": "It has been warm all week.",
+      "context": [
+        "Tom and Lily talk about spring and autumn.",
+        "Flowers bloom in spring. I need a breath of fresh air."
+      ],
+      "dialogue": [
+        "Tom, flowers bloom in spring.",
+        "Yes. And we have a harvest in autumn.",
+        "Do we have good weather all year round?",
+        "No. In the middle of summer it is very hot.",
+        "I like spring. I need a breath of fresh air.",
+        "Yes. We walk in the park in spring."
+      ],
+      "listening": "Tom says, 'Flowers bloom in spring.' Lily says, 'And we have a harvest in autumn.' Tom says, 'Do we have good weather all year round?' Lily says, 'No. In the middle of summer it is very hot.' Tom says, 'I need a breath of fresh air.' Lily says, 'We walk in the park.'",
+      "question": "Do they have good weather all year round?",
+      "correct": "No, they do not",
+      "other": "Yes, they do",
+      "reading": "On Friday, Tom and Lily talk about spring and autumn. Tom says, 'Flowers bloom in spring. It has been warm all week.' Lily says, 'Yes. And we have a harvest in autumn. Do we have good weather all year round?' Tom says, 'No. In the middle of summer it is very hot. In spring it is warm, and I need a breath of fresh air after a long winter.' Lily says, 'Yes. We walk in the park in spring in the morning and see the flowers. It is a very good day for a walk in the park with my friend.' Tom says, 'I can talk about spring and autumn.'",
+      "readingQ": "What blooms in spring?",
+      "readingA": "Flowers bloom in spring.",
+      "speaking": "Tell a friend about spring and autumn. What is it like?",
+      "speakingSample": "I talk about spring and autumn with my friend Tom. Flowers bloom in spring. It has been warm all week. We have a harvest in autumn. We do not have good weather all year round. In the middle of summer it is very hot. I like spring. I need a breath of fresh air.",
+      "writing": "Write a short email to a friend about spring and autumn. Say what it is like.",
+      "writingSample": "Dear Anna, I want to tell you about spring and autumn. Flowers bloom in spring. It has been warm all week. We have a harvest in autumn. We do not have good weather all year round. In the middle of summer it is very hot. I like spring. I need a breath of fresh air. We walk in the park in spring. See you soon. Best, Lily",
+      "sound": "Bloom has one strong beat: BLOOM. Say BLOOM clearly. In harvest, say HAR clearly at the start.",
+      "model": "Flowers bloom in spring.",
+      "wordTask": "What blooms in spring?",
+      "wordSample": "Flowers bloom in spring."
+    },
+    {
+      "unit": 15,
+      "day": 118,
+      "title": "Weather forecasts",
+      "goal": "I can talk about weather forecasts.",
+      "newItems": [
+        {
+          "word": "monsoon",
+          "ipa": "/mɑnˈsun/",
+          "pos": "noun",
+          "definition": "A season of very heavy rain.",
+          "example": "The monsoon comes in June.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "tornado",
+          "ipa": "/tɔrˈneɪdoʊ/",
+          "pos": "noun",
+          "definition": "A very strong wind that spins.",
+          "example": "A tornado comes in spring.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "hurricane",
+          "ipa": "/ˈhɝrəˌkeɪn/",
+          "pos": "noun",
+          "definition": "A very strong storm with wind.",
+          "example": "A hurricane comes in summer.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "weather permitting",
+          "ipa": "/ˈwɛðər pərˈmɪtɪŋ/",
+          "pos": "fixed phrase",
+          "definition": "If the weather is good.",
+          "example": "We go out, weather permitting.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "a spell of good weather",
+          "ipa": "/ə spɛl əv ɡʊd ˈwɛðər/",
+          "pos": "fixed phrase",
+          "definition": "A time of good weather.",
+          "example": "We have a spell of good weather.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "tomorrow",
+        "weekend",
+        "friend",
+        "family",
+        "work"
+      ],
+      "mainWord": {
+        "word": "monsoon",
+        "ipa": "/mɑnˈsun/",
+        "pos": "noun",
+        "definition": "A season of very heavy rain.",
+        "example": "The monsoon comes in June.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Monsoon is a noun. A monsoon is a season of very heavy rain. The monsoon comes in June.",
+      "pronunciationTarget": {
+        "word": "monsoon",
+        "ipa": "/mɑnˈsun/"
+      },
+      "expression": "We go out, weather permitting.",
+      "use": "Use this when you go out if the weather is good.",
+      "expressionTask": "Tom and Lily talk about the forecast. When do they go out?",
+      "grammar": "will for forecasts: It will rain tomorrow",
+      "pattern": "It will rain tomorrow.",
+      "task": "It will ___ tomorrow.",
+      "answer": "rain",
+      "example": "It will rain tomorrow.",
+      "context": [
+        "Tom and Lily talk about the weather forecast.",
+        "A monsoon comes in June. We go out, weather permitting."
+      ],
+      "dialogue": [
+        "Tom, what does the forecast say?",
+        "It will rain tomorrow. A monsoon comes in June.",
+        "Is there a tornado in spring?",
+        "No. But a hurricane comes in summer.",
+        "Do we go out tomorrow?",
+        "Yes. We go out, weather permitting."
+      ],
+      "listening": "Lily says, 'What does the forecast say?' Tom says, 'It will rain tomorrow. A monsoon comes in June.' Lily says, 'Is there a tornado in spring?' Tom says, 'No. But a hurricane comes in summer.' Lily says, 'Do we go out tomorrow?' Tom says, 'Yes. We go out, weather permitting.'",
+      "question": "What does the forecast say?",
+      "correct": "It will rain tomorrow",
+      "other": "It will be sunny",
+      "reading": "On Saturday, Tom and Lily talk about the weather forecast. Lily says, 'Tom, what does the forecast say?' Tom says, 'It will rain tomorrow. A monsoon comes in June, and we have a spell of good weather in May.' Lily says, 'Is there a tornado in spring?' Tom says, 'No. But a hurricane comes in summer, and the wind is very strong. We go out, weather permitting, and we walk in the park.' Lily says, 'Good. I like a spell of good weather. We can walk in the park and see the sun in May.' Tom says, 'Yes. It is a good day for a walk. I can talk about weather forecasts.'",
+      "readingQ": "When does a monsoon come?",
+      "readingA": "In June.",
+      "speaking": "Tell a friend about a weather forecast. What will it be?",
+      "speakingSample": "I talk about a weather forecast with my friend Tom. It will rain tomorrow. A monsoon comes in June, and we have a spell of good weather in May. Is there a tornado in spring? No. But a hurricane comes in summer. We go out, weather permitting. I like a spell of good weather.",
+      "writing": "Write a short email to a friend about a weather forecast. Say what it will be.",
+      "writingSample": "Dear Anna, I want to tell you about a weather forecast. It will rain tomorrow. A monsoon comes in June, and we have a spell of good weather in May. Is there a tornado in spring? No. But a hurricane comes in summer. We go out, weather permitting. We can walk in the park and see the sun in May. It is a good day to stay at home. See you soon. Best, Lily",
+      "sound": "Monsoon has its strongest beat on SOON. In monsoon, say SOON clearly at the end. In tornado, say NA clearly in the middle.",
+      "model": "The monsoon comes in June.",
+      "wordTask": "What does the forecast say?",
+      "wordSample": "It will rain tomorrow."
+    },
+    {
+      "unit": 15,
+      "day": 119,
+      "title": "Seasons and clothes",
+      "goal": "I can talk about seasons and clothes.",
+      "newItems": [
+        {
+          "word": "chilly",
+          "ipa": "/ˈtʃɪli/",
+          "pos": "adjective",
+          "definition": "Cold in a way you feel.",
+          "example": "It is chilly this morning.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "freezing",
+          "ipa": "/ˈfrizɪŋ/",
+          "pos": "adjective",
+          "definition": "Very cold, below zero.",
+          "example": "It is freezing outside.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "wrap up warm",
+          "ipa": "/ræp ʌp wɔrm/",
+          "pos": "fixed phrase",
+          "definition": "Wear warm clothes.",
+          "example": "Wrap up warm today.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "take off your coat",
+          "ipa": "/teɪk ɔf jʊr koʊt/",
+          "pos": "fixed phrase",
+          "definition": "Remove your coat.",
+          "example": "Take off your coat inside.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "bitterly cold",
+          "ipa": "/ˈbɪtərli koʊld/",
+          "pos": "fixed phrase",
+          "definition": "Very, very cold.",
+          "example": "It is bitterly cold today.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "jacket",
+        "scarf",
+        "hat",
+        "sweater",
+        "warm"
+      ],
+      "mainWord": {
+        "word": "chilly",
+        "ipa": "/ˈtʃɪli/",
+        "pos": "adjective",
+        "definition": "Cold in a way you feel.",
+        "example": "It is chilly this morning.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Chilly is an adjective. Chilly means cold in a way you feel. It is chilly this morning.",
+      "pronunciationTarget": {
+        "word": "chilly",
+        "ipa": "/ˈtʃɪli/"
+      },
+      "expression": "Wrap up warm today.",
+      "use": "Use this when you tell someone to wear warm clothes.",
+      "expressionTask": "Tom and Lily talk about clothes. What does Lily say?",
+      "grammar": "should for advice: You should wrap up warm",
+      "pattern": "You should wrap up warm.",
+      "task": "You should ___ up warm.",
+      "answer": "wrap",
+      "example": "You should wrap up warm.",
+      "context": [
+        "Tom and Lily talk about seasons and clothes.",
+        "It is chilly this morning. Wrap up warm today."
+      ],
+      "dialogue": [
+        "Tom, it is chilly this morning.",
+        "Yes. It is bitterly cold and freezing today.",
+        "What do I wear?",
+        "Wrap up warm. Put on your coat and hat.",
+        "Do I take off my coat inside?",
+        "Yes. Take off your coat inside. It is warm in the house."
+      ],
+      "listening": "Lily says, 'It is chilly this morning.' Tom says, 'Yes. It is bitterly cold and freezing today.' Lily says, 'What do I wear?' Tom says, 'Wrap up warm. Put on your coat and hat.' Lily says, 'Do I take off my coat inside?' Tom says, 'Yes. Take off your coat inside.'",
+      "question": "What does Tom wear?",
+      "correct": "A coat and a hat",
+      "other": "A shirt and shoes",
+      "reading": "On Sunday, Tom and Lily talk about seasons and clothes. Lily says, 'Tom, it is chilly this morning.' Tom says, 'Yes. It is bitterly cold and freezing today. You should wrap up warm.' Lily says, 'What do I wear?' Tom says, 'Put on your coat and hat and scarf.' Lily says, 'What do I wear in winter?' Tom says, 'Put on your coat and hat. In the house it is warm. Take off your coat inside and sit by the fire. It is a good day to stay at home.' Lily says, 'Good. I like winter clothes. I like my warm coat and hat.' Tom says, 'Yes. Winter is cold, but we are warm. I can talk about seasons and clothes.'",
+      "readingQ": "Is it chilly this morning?",
+      "readingA": "Yes, it is.",
+      "speaking": "Tell a friend about seasons and clothes. What do you wear?",
+      "speakingSample": "I talk about seasons and clothes with my friend Tom. It is chilly this morning. It is bitterly cold and freezing today. You should wrap up warm. Put on your coat and hat. Take off your coat inside. It is warm in the house. I like winter clothes. Winter is cold, but we are warm.",
+      "writing": "Write a short email to a friend about seasons and clothes. Say what you wear.",
+      "writingSample": "Dear Anna, I want to tell you about seasons and clothes. It is chilly this morning. It is bitterly cold and freezing today. You should wrap up warm. Put on your coat and hat. Take off your coat inside. It is warm in the house. I like winter clothes. Winter is cold, but we are warm. It is a good day to stay at home. See you soon. Best, Lily",
+      "sound": "Chilly has its strongest beat on CHIL. In chilly, say CHIL clearly at the start. In freezing, say FREEZ clearly at the start.",
+      "model": "It is chilly this morning.",
+      "wordTask": "What does Lily say to Tom?",
+      "wordSample": "Wrap up warm today."
+    },
+    {
+      "unit": 15,
+      "day": 120,
+      "title": "Use weather English in a new situation",
+      "goal": "I can use weather English in a new situation.",
+      "newItems": [
+        {
+          "word": "sticky",
+          "ipa": "/ˈstɪki/",
+          "pos": "adjective",
+          "definition": "Hot and wet in the air.",
+          "example": "It is sticky today.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "slippery",
+          "ipa": "/ˈslɪpəri/",
+          "pos": "adjective",
+          "definition": "Easy to fall on.",
+          "example": "The road is slippery.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "stay warm",
+          "ipa": "/steɪ wɔrm/",
+          "pos": "fixed phrase",
+          "definition": "Not get cold.",
+          "example": "Stay warm in winter.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "keep cool",
+          "ipa": "/kip kul/",
+          "pos": "fixed phrase",
+          "definition": "Not get hot.",
+          "example": "Keep cool in summer.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "stay out of the rain",
+          "ipa": "/steɪ aʊt əv ðə reɪn/",
+          "pos": "fixed phrase",
+          "definition": "Keep dry in rain.",
+          "example": "Stay out of the rain today.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "trip",
+        "travel",
+        "holiday",
+        "mother",
+        "happy"
+      ],
+      "mainWord": {
+        "word": "sticky",
+        "ipa": "/ˈstɪki/",
+        "pos": "adjective",
+        "definition": "Hot and wet in the air.",
+        "example": "It is sticky today.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Sticky is an adjective. Sticky means hot and wet in the air. It is sticky today.",
+      "pronunciationTarget": {
+        "word": "sticky",
+        "ipa": "/ˈstɪki/"
+      },
+      "expression": "We stay warm in winter and keep cool in summer.",
+      "use": "Use this when you talk about seasons.",
+      "expressionTask": "Emma talks about the weather in a new place. What does she do in winter and summer?",
+      "grammar": "review: weather English",
+      "pattern": "We stay warm in winter.",
+      "task": "We stay ___ in winter.",
+      "answer": "warm",
+      "example": "We stay warm in winter.",
+      "context": [
+        "Emma talks about the weather in a new situation.",
+        "It is sticky today. We stay warm in winter and keep cool in summer."
+      ],
+      "dialogue": [
+        "Emma, what is the weather like here?",
+        "It is sticky today. I am hot and wet.",
+        "Do you stay warm in winter?",
+        "Yes. We stay warm in winter.",
+        "And do you keep cool in summer?",
+        "Yes. We keep cool and stay out of the rain."
+      ],
+      "listening": "Emma says, 'It is sticky today. I am hot and wet.' Her mother says, 'Do you stay warm in winter?' Emma says, 'Yes. We stay warm in winter.' Her mother says, 'And do you keep cool in summer?' Emma says, 'Yes. We keep cool and stay out of the rain.'",
+      "question": "What does Emma do in summer?",
+      "correct": "She keeps cool",
+      "other": "She stays warm",
+      "reading": "On Monday, Emma goes to her grandmother's house in the mountains. It is sticky today, and Emma is hot and wet. Her mother says, 'Do you stay warm in winter?' Emma says, 'Yes. We stay warm in winter. In summer we keep cool. We stay out of the rain, and we sit in the afternoon and drink cold water.' Her mother says, 'Is the road slippery in the rain?' Emma says, 'Yes. The road is slippery in the rain. We walk slowly in the mountains. It is a good day to stay at home and read a book.' Her mother says, 'Good. You use weather English well.' Emma says, 'I can use weather English in a new situation.'",
+      "readingQ": "Is the road slippery in the rain?",
+      "readingA": "Yes, it is.",
+      "speaking": "Tell a friend about the weather in a new place. What do you do?",
+      "speakingSample": "I talk about the weather in a new place with my friend Emma. It is sticky today. We stay warm in winter. In summer we keep cool. We stay out of the rain. The road is slippery in the rain. We walk slowly in the rain. It is a good day to stay at home.",
+      "writing": "Write a short email to a friend about the weather in a new place. Say what you do.",
+      "writingSample": "Dear Anna, I want to tell you about the weather in a new place. It is sticky today. We stay warm in winter. In summer we keep cool. We stay out of the rain. The road is slippery in the rain. We walk slowly in the rain. We walk slowly in the mountains. It is a good day to stay at home. See you soon. Best, Emma",
+      "sound": "Sticky has its strongest beat on STICK. In sticky, say STICK clearly at the start. In slippery, say SLIP clearly at the start.",
+      "model": "It is sticky today.",
+      "wordTask": "What does Emma do in summer?",
+      "wordSample": "She keeps cool.",
+      "transferCheck": {
+        "source": "On Tuesday, Emma visits her teacher, Ms. Green. Emma says, 'I can use weather English in a new situation. I go to my grandmother's house in the mountains.' Ms. Green says, 'Good. What is the weather like there?' Emma says, 'In winter we stay warm. In summer it is sticky, and we keep cool.' Ms. Green says, 'Very good. What do you do in the rain?' Emma says, 'We stay out of the rain. The road is slippery in the rain.' Ms. Green says, 'Good. You use weather English well.'",
+        "dictation": "We stay warm in winter and keep cool in summer.",
+        "answer": "1. Emma visits her teacher, Ms. Green. She talks about the weather at her grandmother's house in the mountains. 2. Emma's first job is to say she can use weather English in a new situation. 3. On Tuesday, Emma says, 'I can use weather English in a new situation.' 4. We stay warm in winter and keep cool in summer. 5. Sample: On Tuesday, Emma visits her teacher, Ms. Green. Emma says, 'I can use weather English in a new situation. I go to my grandmother's house in the mountains.' Ms. Green says, 'Good. What is the weather like there?' Emma says, 'In winter we stay warm. In summer it is sticky, and we keep cool.' Ms. Green says, 'Very good. What do you do in the rain?' Emma says, 'We stay out of the rain. The road is slippery in the rain.' Ms. Green says, 'Good. You use weather English well.' Follow-up: Is the road slippery in the rain? Yes, it is.",
+        "tasks": [
+          [
+            "1 · Identify the people and the new situation",
+            "Who does Emma visit, and what does she talk about?"
+          ],
+          [
+            "2 · Work out what Emma does first",
+            "What is Emma's first job, and what does she say?"
+          ],
+          [
+            "3 · Notice the sentence on Tuesday",
+            "What does Emma say on Tuesday?"
+          ],
+          [
+            "4 · Listen and write",
+            "Write the sentence you hear."
+          ],
+          [
+            "5 · Retell and answer",
+            "Tell the story in order, including the people, the new situation, the first talk, and the result. Then answer one follow-up question."
+          ]
+        ]
+      }
+    }
+  ]
+}

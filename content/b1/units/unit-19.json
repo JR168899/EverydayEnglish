@@ -1,0 +1,905 @@
+{
+  "number": 19,
+  "title": "Family and relationships",
+  "lessons": [
+    {
+      "unit": 19,
+      "day": 145,
+      "title": "My family",
+      "goal": "I can talk about my family.",
+      "newItems": [
+        {
+          "word": "generation",
+          "ipa": "/ˌdʒɛnəˈreɪʃən/",
+          "pos": "noun",
+          "definition": "People born at about the same time.",
+          "example": "Three generations live in this house.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "extended",
+          "ipa": "/ɪkˈstɛndɪd/",
+          "pos": "adjective",
+          "definition": "With many family members, not only parents and children.",
+          "example": "We have an extended family.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "family tree",
+          "ipa": "/ˈfæməli tri/",
+          "pos": "fixed phrase",
+          "definition": "A picture of all the people in a family.",
+          "example": "We made a family tree at school.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "a close-knit family",
+          "ipa": "/ə kloʊs nɪt ˈfæməli/",
+          "pos": "fixed phrase",
+          "definition": "A family with a very strong bond.",
+          "example": "We are a close-knit family.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "blood relative",
+          "ipa": "/blʌd ˈrɛlətɪv/",
+          "pos": "fixed phrase",
+          "definition": "A family member by birth, not by marriage.",
+          "example": "She is a blood relative.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "mother",
+        "father",
+        "brother",
+        "sister",
+        "family"
+      ],
+      "mainWord": {
+        "word": "generation",
+        "ipa": "/ˌdʒɛnəˈreɪʃən/",
+        "pos": "noun",
+        "definition": "People born at about the same time.",
+        "example": "Three generations live in this house.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Generation is a noun. Generation means people born at about the same time. Three generations live in this house.",
+      "pronunciationTarget": {
+        "word": "generation",
+        "ipa": "/ˌdʒɛnəˈreɪʃən/"
+      },
+      "expression": "We are a close-knit family.",
+      "use": "Use this when you talk about your family with a strong bond.",
+      "expressionTask": "Tom and Lily talk about their family. What do they say?",
+      "grammar": "present simple for family facts: My family is big",
+      "pattern": "My family is big.",
+      "task": "My family ___ big.",
+      "answer": "is",
+      "example": "My family is big.",
+      "context": [
+        "Tom and Lily talk about their family.",
+        "Tom says, 'We are a close-knit family. Three generations live in our house.'"
+      ],
+      "dialogue": [
+        "Tom, is your family big?",
+        "Yes. We are an extended family. Three generations live in our house.",
+        "What is a generation?",
+        "It is people born at about the same time.",
+        "Do you have a family tree?",
+        "Yes. We made a family tree at school. My uncle is a blood relative."
+      ],
+      "listening": "Tom and Lily talk about their family. Tom says, 'We are a close-knit family. Three generations live in our house.' Lily says, 'What is a generation?' Tom says, 'It is people born at about the same time.' Lily says, 'Do you have a family tree?' Tom says, 'Yes. We made a family tree at school.'",
+      "question": "How many generations live in Tom's house?",
+      "correct": "Three",
+      "other": "Two",
+      "reading": "On Monday, Tom and Lily talk about their family. Tom says, 'We are a close-knit family. Three generations live in our house. My mother, my father, my brother and my sister live with me, and my grandparents live with us too.' Lily says, 'What is a generation?' Tom says, 'It is people born at about the same time. My grandparents, my parents and I are three generations.' Lily says, 'Is your family big?' Tom says, 'Yes. We are an extended family. We made a family tree at school. My uncle is a blood relative, and my aunt is a blood relative too.' Lily says, 'Good. I can talk about my family.'",
+      "readingQ": "How many generations live in Tom's house?",
+      "readingA": "Three.",
+      "speaking": "Tell a friend about your family. What do you say?",
+      "speakingSample": "I talk about my family with my friend Tom. We are a close-knit family. Three generations live in our house. My mother, my father, my brother and my sister live with me. We are an extended family. We made a family tree at school. My uncle is a blood relative. I like my family.",
+      "writing": "Write a short email to a friend about your family. Say who lives in your house.",
+      "writingSample": "Dear Anna, I want to tell you about my family. We are a close-knit family. Three generations live in our house. My mother, my father, my brother and my sister live with me, and my grandparents live with us too. We are an extended family. We made a family tree at school. My uncle is a blood relative. I like my family. It is a good place to live. See you soon. Best, Lily",
+      "sound": "Generation has its strongest beat on GEN. In generation, say GEN clearly at the start. In extended, say TEND clearly in the middle.",
+      "model": "A generation is people born at about the same time.",
+      "wordTask": "What is a generation?",
+      "wordSample": "People born at about the same time."
+    },
+    {
+      "unit": 19,
+      "day": 146,
+      "title": "Brothers and sisters",
+      "goal": "I can talk about brothers and sisters.",
+      "newItems": [
+        {
+          "word": "stepbrother",
+          "ipa": "/ˈstɛpˌbrʌðɚ/",
+          "pos": "noun",
+          "definition": "Your stepmother's or stepfather's son.",
+          "example": "My stepbrother plays the piano.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "stepsister",
+          "ipa": "/ˈstɛpˌsɪstɚ/",
+          "pos": "noun",
+          "definition": "Your stepmother's or stepfather's daughter.",
+          "example": "My stepsister is ten years old.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "get on well with",
+          "ipa": "/ɡɛt ɔn wɛl wɪθ/",
+          "pos": "fixed phrase",
+          "definition": "To have a good relationship with someone.",
+          "example": "I get on well with my sister.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "fall out with",
+          "ipa": "/fɔl aʊt wɪθ/",
+          "pos": "fixed phrase",
+          "definition": "To have an argument with someone and stop talking.",
+          "example": "He fell out with his brother.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "drift apart",
+          "ipa": "/drɪft əˈpɑrt/",
+          "pos": "fixed phrase",
+          "definition": "To slowly become less close.",
+          "example": "The brothers drifted apart.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "son",
+        "daughter",
+        "baby",
+        "home",
+        "school"
+      ],
+      "mainWord": {
+        "word": "stepbrother",
+        "ipa": "/ˈstɛpˌbrʌðɚ/",
+        "pos": "noun",
+        "definition": "Your stepmother's or stepfather's son.",
+        "example": "My stepbrother plays the piano.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Stepbrother is a noun. Stepbrother means your stepmother's or stepfather's son. My stepbrother plays the piano.",
+      "pronunciationTarget": {
+        "word": "stepbrother",
+        "ipa": "/ˈstɛpˌbrʌðɚ/"
+      },
+      "expression": "I get on well with my sister.",
+      "use": "Use this when you talk about a good relationship with someone.",
+      "expressionTask": "Tom and Lily talk about brothers and sisters. What do they say?",
+      "grammar": "comparatives: My brother is older than me",
+      "pattern": "My brother is older than me.",
+      "task": "My brother is ___ than me.",
+      "answer": "older",
+      "example": "My brother is older than me.",
+      "context": [
+        "Tom and Lily talk about brothers and sisters.",
+        "Tom says, 'I get on well with my sister. My stepbrother is older than me.'"
+      ],
+      "dialogue": [
+        "Lily, do you get on well with your sister?",
+        "Yes. I get on well with my sister. We play together.",
+        "Do you have a stepbrother?",
+        "Yes. My stepbrother is older than me. He plays the piano.",
+        "Do brothers and sisters fall out with each other?",
+        "Sometimes. Sometimes brothers fall out with each other, but they can drift apart or stay close."
+      ],
+      "listening": "Tom and Lily talk about brothers and sisters. Tom says, 'I get on well with my sister.' Lily says, 'Do you have a stepbrother?' Tom says, 'My stepbrother is older than me.' Lily says, 'Do brothers fall out with each other?' Tom says, 'Sometimes they fall out, but they can drift apart or stay close.'",
+      "question": "Who is older than Tom?",
+      "correct": "His stepbrother",
+      "other": "His sister",
+      "reading": "On Tuesday, Tom and Lily talk about brothers and sisters. Tom says, 'I get on well with my sister. We play together at home and at school. My sister is younger than me.' Lily says, 'Do you have a stepbrother?' Tom says, 'Yes. My stepbrother is older than me. He plays the piano, and my stepsister plays the piano too.' Lily says, 'Do brothers and sisters fall out with each other?' Tom says, 'Sometimes brothers fall out with each other. They can drift apart over the years, but my family talks a lot. I get on well with my sister, and I like my brothers and sisters.' Lily says, 'Good. I can talk about brothers and sisters.'",
+      "readingQ": "Who plays the piano?",
+      "readingA": "Tom's stepbrother and stepsister.",
+      "speaking": "Tell a friend about your brothers and sisters. What do you say?",
+      "speakingSample": "I talk about my brothers and sisters with my friend Tom. I get on well with my sister. We play together at home. My stepbrother is older than me. He plays the piano, and my stepsister plays the piano too. Sometimes brothers fall out with each other, but they can drift apart or stay close. I like my family.",
+      "writing": "Write a short email to a friend about your brothers and sisters. Say what you do together.",
+      "writingSample": "Dear Anna, I want to tell you about my brothers and sisters. I get on well with my sister. We play together at home and at school. My stepbrother is older than me. He plays the piano, and my stepsister plays the piano too. Sometimes brothers fall out with each other, but they can drift apart or stay close. I like my brothers and sisters a lot. See you soon. Best, Lily",
+      "sound": "Stepbrother has its strongest beat on STEP. In stepbrother, say STEP clearly at the start. In stepsister, say STEP clearly at the start.",
+      "model": "My stepbrother is older than me.",
+      "wordTask": "Who is older than Tom?",
+      "wordSample": "His stepbrother."
+    },
+    {
+      "unit": 19,
+      "day": 147,
+      "title": "Parents and grandparents",
+      "goal": "I can talk about parents and grandparents.",
+      "newItems": [
+        {
+          "word": "stepmother",
+          "ipa": "/ˈstɛpˌmʌðɚ/",
+          "pos": "noun",
+          "definition": "The woman your father married after your mother.",
+          "example": "His stepmother is very kind.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "stepfather",
+          "ipa": "/ˈstɛpˌfɑðɚ/",
+          "pos": "noun",
+          "definition": "The man your mother married after your father.",
+          "example": "Her stepfather is a teacher.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "ancestor",
+          "ipa": "/ˈænsɛstɚ/",
+          "pos": "noun",
+          "definition": "A person in your family from long ago.",
+          "example": "My ancestors came from the north.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "stand by someone",
+          "ipa": "/stænd baɪ ˈsʌmwʌn/",
+          "pos": "fixed phrase",
+          "definition": "To help someone in a hard time.",
+          "example": "My family stands by me.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "stay in touch",
+          "ipa": "/steɪ ɪn tʌtʃ/",
+          "pos": "fixed phrase",
+          "definition": "To talk to someone often, not lose contact.",
+          "example": "We stay in touch by phone.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "grandfather",
+        "grandmother",
+        "uncle",
+        "aunt",
+        "cousin"
+      ],
+      "mainWord": {
+        "word": "stepmother",
+        "ipa": "/ˈstɛpˌmʌðɚ/",
+        "pos": "noun",
+        "definition": "The woman your father married after your mother.",
+        "example": "His stepmother is very kind.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Stepmother is a noun. Stepmother means the woman your father married after your mother. His stepmother is very kind.",
+      "pronunciationTarget": {
+        "word": "stepmother",
+        "ipa": "/ˈstɛpˌmʌðɚ/"
+      },
+      "expression": "My family stands by me.",
+      "use": "Use this when you talk about your family helping you in a hard time.",
+      "expressionTask": "Tom and Lily talk about parents and grandparents. What do they say?",
+      "grammar": "past simple for family stories: My grandmother lived in a small town",
+      "pattern": "My grandmother lived in a small town.",
+      "task": "My grandmother ___ in a small town.",
+      "answer": "lived",
+      "example": "My grandmother lived in a small town.",
+      "context": [
+        "Tom and Lily talk about parents and grandparents.",
+        "Tom says, 'My family stands by me. My stepmother is very kind.'"
+      ],
+      "dialogue": [
+        "Lily, who is your stepmother?",
+        "She is the woman my father married after my mother. She is very kind.",
+        "Do you stay in touch with your grandparents?",
+        "Yes. We stay in touch by phone. My grandmother lived in a small town.",
+        "Who are your ancestors?",
+        "They are people in my family from long ago. My family stands by me."
+      ],
+      "listening": "Tom and Lily talk about parents and grandparents. Tom says, 'My family stands by me.' Lily says, 'Who is your stepmother?' Tom says, 'She is the woman my father married after my mother.' Lily says, 'Do you stay in touch with your grandparents?' Tom says, 'Yes. We stay in touch by phone.'",
+      "question": "How do Tom and Lily stay in touch with their grandparents?",
+      "correct": "By phone",
+      "other": "By letter",
+      "reading": "On Wednesday, Tom and Lily talk about parents and grandparents. Tom says, 'My family stands by me. My stepmother is very kind, and my stepfather is a teacher. They help me in hard times.' Lily says, 'Who is an ancestor?' Tom says, 'An ancestor is a person in my family from long ago. My ancestors came from the north. My grandmother lived in a small town.' Lily says, 'Do you stay in touch with your grandparents?' Tom says, 'Yes. We stay in touch by phone. My grandmother tells me stories, and my grandfather listens to me. A good family can stand by someone in a hard time. I can talk about parents and grandparents.'",
+      "readingQ": "Where did Tom's grandmother live?",
+      "readingA": "In a small town.",
+      "speaking": "Tell a friend about your parents and grandparents. What do you say?",
+      "speakingSample": "I talk about my parents and grandparents with my friend Tom. My family stands by me. My stepmother is very kind, and my stepfather is a teacher. An ancestor is a person in my family from long ago. My grandmother lived in a small town. We stay in touch by phone. I like my grandparents.",
+      "writing": "Write a short email to a friend about your parents and grandparents. Say what they do for you.",
+      "writingSample": "Dear Anna, I want to tell you about my parents and grandparents. My family stands by me. My stepmother is very kind, and my stepfather is a teacher. They help me in hard times. An ancestor is a person in my family from long ago. My grandmother lived in a small town. We stay in touch by phone. My grandmother tells me stories, and I like my grandparents a lot. See you soon. Best, Lily",
+      "sound": "Stepmother has its strongest beat on STEP. In stepmother, say STEP clearly at the start. In stepfather, say STEP clearly at the start.",
+      "model": "My stepmother is very kind.",
+      "wordTask": "Who is a stepmother?",
+      "wordSample": "The woman your father married after your mother."
+    },
+    {
+      "unit": 19,
+      "day": 148,
+      "title": "Family life at home",
+      "goal": "I can talk about family life at home.",
+      "newItems": [
+        {
+          "word": "upbringing",
+          "ipa": "/ˈʌpˌbrɪŋɪŋ/",
+          "pos": "noun",
+          "definition": "The way your parents raise you.",
+          "example": "She had a good upbringing.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "strict",
+          "ipa": "/strɪkt/",
+          "pos": "adjective",
+          "definition": "With many rules, not easy to please.",
+          "example": "My teacher is very strict.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "under the same roof",
+          "ipa": "/ˈʌndɚ ðə seɪm ruf/",
+          "pos": "fixed phrase",
+          "definition": "Living in the same house.",
+          "example": "We live under the same roof.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "spend time with",
+          "ipa": "/spɛnd taɪm wɪθ/",
+          "pos": "fixed phrase",
+          "definition": "To be with someone for a time.",
+          "example": "I spend time with my family.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "family gathering",
+          "ipa": "/ˈfæməli ˈɡæðɚɪŋ/",
+          "pos": "fixed phrase",
+          "definition": "A time when many family members meet.",
+          "example": "We have a family gathering in summer.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "house",
+        "kitchen",
+        "room",
+        "table",
+        "food"
+      ],
+      "mainWord": {
+        "word": "upbringing",
+        "ipa": "/ˈʌpˌbrɪŋɪŋ/",
+        "pos": "noun",
+        "definition": "The way your parents raise you.",
+        "example": "She had a good upbringing.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Upbringing is a noun. Upbringing means the way your parents raise you. She had a good upbringing.",
+      "pronunciationTarget": {
+        "word": "upbringing",
+        "ipa": "/ˈʌpˌbrɪŋɪŋ/"
+      },
+      "expression": "We live under the same roof.",
+      "use": "Use this when you talk about living in the same house.",
+      "expressionTask": "Tom and Lily talk about family life at home. What do they say?",
+      "grammar": "present continuous for arrangements: We are visiting Grandma on Sunday",
+      "pattern": "We are visiting Grandma on Sunday.",
+      "task": "We ___ visiting Grandma on Sunday.",
+      "answer": "are",
+      "example": "We are visiting Grandma on Sunday.",
+      "context": [
+        "Tom and Lily talk about family life at home.",
+        "Tom says, 'We live under the same roof. We spend time with our family at home.'"
+      ],
+      "dialogue": [
+        "Lily, do you live under the same roof as your grandparents?",
+        "Yes. We live under the same roof. Five people live in our house.",
+        "What is an upbringing?",
+        "It is the way your parents raise you. I had a good upbringing.",
+        "Are your parents strict?",
+        "Yes, a little. We spend time with our family, and we have a family gathering in summer."
+      ],
+      "listening": "Tom and Lily talk about family life at home. Tom says, 'We live under the same roof.' Lily says, 'What is an upbringing?' Tom says, 'It is the way your parents raise you.' Lily says, 'Are your parents strict?' Tom says, 'Yes, a little. We spend time with our family at home.'",
+      "question": "How many people live in Tom's house?",
+      "correct": "Five",
+      "other": "Four",
+      "reading": "On Thursday, Tom and Lily talk about family life at home. Tom says, 'We live under the same roof. Five people live in our house. My mother cooks in the kitchen, and we eat at the table.' Lily says, 'What is an upbringing?' Tom says, 'It is the way your parents raise you. I had a good upbringing. My parents are strict, but they are kind.' Lily says, 'Do you spend time with your family?' Tom says, 'Yes. We spend time with our family at home every day. We are visiting Grandma on Sunday, and we have a family gathering in summer. I can talk about family life at home.'",
+      "readingQ": "Where does Tom's mother cook?",
+      "readingA": "In the kitchen.",
+      "speaking": "Tell a friend about family life at home. What do you say?",
+      "speakingSample": "I talk about family life at home with my friend Tom. We live under the same roof. Five people live in our house. I had a good upbringing. My parents are strict, but they are kind. We spend time with our family at home every day. We have a family gathering in summer.",
+      "writing": "Write a short email to a friend about family life at home. Say what your family does together.",
+      "writingSample": "Dear Anna, I want to tell you about family life at home. We live under the same roof. Five people live in our house. My mother cooks in the kitchen, and we eat at the table. I had a good upbringing. My parents are strict, but they are kind. We spend time with our family at home every day. We have a family gathering in summer. See you soon. Best, Lily",
+      "sound": "Upbringing has its strongest beat on UP. In upbringing, say UP clearly at the start. In strict, say STRICT clearly.",
+      "model": "She had a good upbringing.",
+      "wordTask": "What is an upbringing?",
+      "wordSample": "The way your parents raise you."
+    },
+    {
+      "unit": 19,
+      "day": 149,
+      "title": "Love and marriage",
+      "goal": "I can talk about love and marriage.",
+      "newItems": [
+        {
+          "word": "spouse",
+          "ipa": "/spaʊs/",
+          "pos": "noun",
+          "definition": "A husband or a wife.",
+          "example": "Her spouse works in a school.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "engaged",
+          "ipa": "/ɪnˈɡeɪdʒd/",
+          "pos": "adjective",
+          "definition": "Promised to marry someone.",
+          "example": "Anna is engaged to Tom.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "pregnant",
+          "ipa": "/ˈprɛɡnənt/",
+          "pos": "adjective",
+          "definition": "A woman who will have a baby.",
+          "example": "She is pregnant.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "start a family",
+          "ipa": "/stɑrt ə ˈfæməli/",
+          "pos": "fixed phrase",
+          "definition": "To have your first child.",
+          "example": "We want to start a family.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "raise a family",
+          "ipa": "/reɪz ə ˈfæməli/",
+          "pos": "fixed phrase",
+          "definition": "To have children and take care of them.",
+          "example": "They want to raise a family.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "love",
+        "happy",
+        "married",
+        "wedding",
+        "party"
+      ],
+      "mainWord": {
+        "word": "spouse",
+        "ipa": "/spaʊs/",
+        "pos": "noun",
+        "definition": "A husband or a wife.",
+        "example": "Her spouse works in a school.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Spouse is a noun. Spouse means a husband or a wife. Her spouse works in a school.",
+      "pronunciationTarget": {
+        "word": "spouse",
+        "ipa": "/spaʊs/"
+      },
+      "expression": "They want to start a family.",
+      "use": "Use this when you talk about having your first child.",
+      "expressionTask": "Tom and Lily talk about love and marriage. What do they say?",
+      "grammar": "will for the future: They will start a family soon",
+      "pattern": "They will start a family soon.",
+      "task": "They ___ start a family soon.",
+      "answer": "will",
+      "example": "They will start a family soon.",
+      "context": [
+        "Tom and Lily talk about love and marriage.",
+        "Tom says, 'They want to start a family. Anna is engaged to Tom.'"
+      ],
+      "dialogue": [
+        "Lily, is Anna engaged?",
+        "Yes. Anna is engaged to Tom. They will get married in June.",
+        "What is a spouse?",
+        "It is a husband or a wife. Her spouse works in a school.",
+        "Do they want to start a family?",
+        "Yes. They want to start a family and raise a family. Anna is pregnant."
+      ],
+      "listening": "Tom and Lily talk about love and marriage. Tom says, 'Anna is engaged to Tom.' Lily says, 'What is a spouse?' Tom says, 'It is a husband or a wife.' Lily says, 'Do they want to start a family?' Tom says, 'Yes. They want to start a family and raise a family.'",
+      "question": "When will Anna and Tom get married?",
+      "correct": "In June",
+      "other": "In May",
+      "reading": "On Friday, Tom and Lily talk about love and marriage. Tom says, 'Anna is engaged to Tom. They will get married in June. Her spouse works in a school, and Tom works in a shop.' Lily says, 'What is a spouse?' Tom says, 'It is a husband or a wife. Anna is happy, and Tom is happy too.' Lily says, 'Do they want to start a family?' Tom says, 'Yes. They want to start a family and raise a family. Anna is pregnant. They will have a baby in winter.' Lily says, 'Is the wedding in June?' Tom says, 'Yes. The wedding party is in June, and many friends will come.' Lily says, 'Good. I can talk about love and marriage.'",
+      "readingQ": "Where does Anna's spouse work?",
+      "readingA": "In a school.",
+      "speaking": "Tell a friend about love and marriage. What do you say?",
+      "speakingSample": "I talk about love and marriage with my friend Tom. Anna is engaged to Tom. They will get married in June. Her spouse works in a school. They want to start a family and raise a family. Anna is pregnant. They will have a baby in winter. I like weddings.",
+      "writing": "Write a short email to a friend about love and marriage. Say what Anna and Tom will do.",
+      "writingSample": "Dear Anna, I want to tell you about love and marriage. Anna is engaged to Tom. They will get married in June. Her spouse works in a school, and Tom works in a shop. They want to start a family and raise a family. Anna is pregnant. They will have a baby in winter. The wedding party is in June, and many friends will come. I like weddings a lot. See you soon. Best, Lily",
+      "sound": "Spouse has its strongest beat on SPOUSE. In spouse, say SPOUSE clearly. In engaged, say GAGED clearly at the end.",
+      "model": "Her spouse works in a school.",
+      "wordTask": "What is a spouse?",
+      "wordSample": "A husband or a wife."
+    },
+    {
+      "unit": 19,
+      "day": 150,
+      "title": "Family problems",
+      "goal": "I can talk about family problems.",
+      "newItems": [
+        {
+          "word": "argument",
+          "ipa": "/ˈɑrɡjumənt/",
+          "pos": "noun",
+          "definition": "An angry talk about something you do not agree on.",
+          "example": "They had a big argument.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "distant",
+          "ipa": "/ˈdɪstənt/",
+          "pos": "adjective",
+          "definition": "Far away, or not close in feeling.",
+          "example": "He is a distant cousin.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "lose touch with",
+          "ipa": "/luz tʌtʃ wɪθ/",
+          "pos": "fixed phrase",
+          "definition": "To stop talking to someone.",
+          "example": "I lost touch with my uncle.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "count on",
+          "ipa": "/kaʊnt ɔn/",
+          "pos": "fixed phrase",
+          "definition": "To trust someone to help you.",
+          "example": "You can count on my father.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "a shoulder to cry on",
+          "ipa": "/ə ˈʃoʊldɚ tə kraɪ ɔn/",
+          "pos": "fixed phrase",
+          "definition": "Someone who helps you when you are sad.",
+          "example": "My sister is a shoulder to cry on.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "sad",
+        "angry",
+        "sorry",
+        "help",
+        "listen"
+      ],
+      "mainWord": {
+        "word": "argument",
+        "ipa": "/ˈɑrɡjumənt/",
+        "pos": "noun",
+        "definition": "An angry talk about something you do not agree on.",
+        "example": "They had a big argument.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Argument is a noun. Argument means an angry talk about something you do not agree on. They had a big argument.",
+      "pronunciationTarget": {
+        "word": "argument",
+        "ipa": "/ˈɑrɡjumənt/"
+      },
+      "expression": "My sister is a shoulder to cry on.",
+      "use": "Use this when you talk about someone who helps you when you are sad.",
+      "expressionTask": "Tom and Lily talk about family problems. What do they say?",
+      "grammar": "should and shouldn't for advice: You should listen to your sister",
+      "pattern": "You should listen to your sister.",
+      "task": "You ___ listen to your sister.",
+      "answer": "should",
+      "example": "You should listen to your sister.",
+      "context": [
+        "Tom and Lily talk about family problems.",
+        "Tom says, 'My sister is a shoulder to cry on. You can count on my father.'"
+      ],
+      "dialogue": [
+        "Lily, do you have an argument with your brother?",
+        "Sometimes. We had a big argument, and my brother is distant now.",
+        "Do you lose touch with your uncle?",
+        "No. I do not want to lose touch with my uncle. I call him every week.",
+        "Who can you count on?",
+        "I can count on my father. My sister is a shoulder to cry on."
+      ],
+      "listening": "Tom and Lily talk about family problems. Tom says, 'My sister is a shoulder to cry on.' Lily says, 'Do you lose touch with your uncle?' Tom says, 'No. I call him every week.' Lily says, 'Who can you count on?' Tom says, 'I can count on my father.'",
+      "question": "Who does Tom call every week?",
+      "correct": "His uncle",
+      "other": "His brother",
+      "reading": "On Saturday, Tom and Lily talk about family problems. Tom says, 'My sister is a shoulder to cry on. We had a big argument about the TV, and my brother is distant now. He does not talk to me. I am sad, and my sister listens to me.' Lily says, 'Do you lose touch with your uncle?' Tom says, 'No. I do not want to lose touch with my uncle. I call him every week, and he is happy to hear from me.' Lily says, 'Who can you count on?' Tom says, 'I can count on my father. You should listen to your sister. I can talk about family problems.'",
+      "readingQ": "Why is Tom sad?",
+      "readingA": "He had a big argument with his brother.",
+      "speaking": "Tell a friend about family problems. What do you say?",
+      "speakingSample": "I talk about family problems with my friend Tom. My sister is a shoulder to cry on. We had a big argument about the TV, and my brother is distant now. I do not want to lose touch with my uncle. I call him every week. I can count on my father. I like my family.",
+      "writing": "Write a short email to a friend about family problems. Say who helps you.",
+      "writingSample": "Dear Anna, I want to tell you about family problems. My sister is a shoulder to cry on. We had a big argument about the TV, and my brother is distant now. He does not talk to me. I do not want to lose touch with my uncle. I call him every week. I can count on my father. You should listen to your sister. I like my family. See you soon. Best, Lily",
+      "sound": "Argument has its strongest beat on AR. In argument, say AR clearly at the start. In distant, say DIS clearly at the start.",
+      "model": "They had a big argument.",
+      "wordTask": "What is an argument?",
+      "wordSample": "An angry talk about something you do not agree on."
+    },
+    {
+      "unit": 19,
+      "day": 151,
+      "title": "Family changes",
+      "goal": "I can talk about family changes.",
+      "newItems": [
+        {
+          "word": "orphan",
+          "ipa": "/ˈɔrfən/",
+          "pos": "noun",
+          "definition": "A child with no mother and no father.",
+          "example": "The orphan lives with her aunt.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "adopt",
+          "ipa": "/əˈdɑpt/",
+          "pos": "verb",
+          "definition": "To take a child into your family.",
+          "example": "They want to adopt a baby.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "divorce",
+          "ipa": "/dɪˈvɔrs/",
+          "pos": "noun",
+          "definition": "The end of a marriage by law.",
+          "example": "Their divorce was very sad.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "run in the family",
+          "ipa": "/rʌn ɪn ðə ˈfæməli/",
+          "pos": "fixed phrase",
+          "definition": "Something many people in a family have.",
+          "example": "Music runs in the family.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "the black sheep",
+          "ipa": "/ðə blæk ʃip/",
+          "pos": "fixed phrase",
+          "definition": "The family member who is different from the others.",
+          "example": "He is the black sheep of the family.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "old",
+        "young",
+        "new",
+        "big",
+        "small"
+      ],
+      "mainWord": {
+        "word": "orphan",
+        "ipa": "/ˈɔrfən/",
+        "pos": "noun",
+        "definition": "A child with no mother and no father.",
+        "example": "The orphan lives with her aunt.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Orphan is a noun. Orphan means a child with no mother and no father. The orphan lives with her aunt.",
+      "pronunciationTarget": {
+        "word": "orphan",
+        "ipa": "/ˈɔrfən/"
+      },
+      "expression": "Music runs in the family.",
+      "use": "Use this when you talk about something many people in a family have.",
+      "expressionTask": "Tom and Lily talk about family changes. What do they say?",
+      "grammar": "present perfect for life experiences: I have lived here for ten years",
+      "pattern": "I have lived here for ten years.",
+      "task": "I have ___ here for ten years.",
+      "answer": "lived",
+      "example": "I have lived here for ten years.",
+      "context": [
+        "Tom and Lily talk about family changes.",
+        "Tom says, 'Music runs in the family. My uncle is the black sheep of the family.'"
+      ],
+      "dialogue": [
+        "Lily, what is an orphan?",
+        "It is a child with no mother and no father. The orphan lives with her aunt.",
+        "Do you know a family that wants to adopt a baby?",
+        "Yes. They want to adopt a baby. They are a musical family.",
+        "What is a divorce?",
+        "It is the end of a marriage by law. Music runs in the family, and my uncle is the black sheep of the family."
+      ],
+      "listening": "Tom and Lily talk about family changes. Tom says, 'Music runs in the family.' Lily says, 'What is an orphan?' Tom says, 'It is a child with no mother and no father.' Lily says, 'What is a divorce?' Tom says, 'It is the end of a marriage by law.'",
+      "question": "What runs in Tom's family?",
+      "correct": "Music",
+      "other": "Football",
+      "reading": "On Sunday, Tom and Lily talk about family changes. Tom says, 'Music runs in the family. My uncle is the black sheep of the family. He plays the guitar well, and he sings songs every day.' Lily says, 'What is an orphan?' Tom says, 'It is a child with no mother and no father. The orphan lives with her aunt. I have lived here for ten years.' Lily says, 'Do you know a family that wants to adopt a baby?' Tom says, 'Yes. They want to adopt a baby. What is a divorce?' Lily says, 'It is the end of a marriage by law. I can talk about family changes.'",
+      "readingQ": "What does Tom's uncle play?",
+      "readingA": "The guitar.",
+      "speaking": "Tell a friend about family changes. What do you say?",
+      "speakingSample": "I talk about family changes with my friend Tom. Music runs in the family. My uncle is the black sheep of the family. He plays the guitar well. The orphan lives with her aunt. They want to adopt a baby. A divorce is the end of a marriage by law. I have lived here for ten years.",
+      "writing": "Write a short email to a friend about family changes. Say what has changed in your family.",
+      "writingSample": "Dear Anna, I want to tell you about family changes. Music runs in the family. My uncle is the black sheep of the family. He plays the guitar well, and he sings songs every day. The orphan lives with her aunt. They want to adopt a baby. A divorce is the end of a marriage by law. I have lived here for ten years. I like my family a lot. See you soon. Best, Lily",
+      "sound": "Orphan has its strongest beat on OR. In orphan, say OR clearly at the start. In adopt, say DOPT clearly at the end.",
+      "model": "The orphan lives with her aunt.",
+      "wordTask": "What is an orphan?",
+      "wordSample": "A child with no mother and no father."
+    },
+    {
+      "unit": 19,
+      "day": 152,
+      "title": "Use family English in a new situation",
+      "goal": "I can use family English in a new situation.",
+      "newItems": [
+        {
+          "word": "elderly",
+          "ipa": "/ˈɛldɚli/",
+          "pos": "adjective",
+          "definition": "Old, about people.",
+          "example": "We help the elderly people in town.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "middle-aged",
+          "ipa": "/ˈmɪdəl eɪdʒd/",
+          "pos": "adjective",
+          "definition": "About forty to sixty years old.",
+          "example": "My father is middle-aged.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "widowed",
+          "ipa": "/ˈwɪdoʊd/",
+          "pos": "adjective",
+          "definition": "A person whose husband or wife has died.",
+          "example": "My grandmother is widowed.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "family comes first",
+          "ipa": "/ˈfæməli kʌmz fɝst/",
+          "pos": "fixed phrase",
+          "definition": "Family is more important than other things.",
+          "example": "For me, family comes first.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "open up to",
+          "ipa": "/ˈoʊpən ʌp tə/",
+          "pos": "fixed phrase",
+          "definition": "To tell someone how you feel.",
+          "example": "She opens up to her mother.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "people",
+        "friend",
+        "life",
+        "time",
+        "day"
+      ],
+      "mainWord": {
+        "word": "elderly",
+        "ipa": "/ˈɛldɚli/",
+        "pos": "adjective",
+        "definition": "Old, about people.",
+        "example": "We help the elderly people in town.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Elderly is an adjective. Elderly means old, about people. We help the elderly people in town.",
+      "pronunciationTarget": {
+        "word": "elderly",
+        "ipa": "/ˈɛldɚli/"
+      },
+      "expression": "For me, family comes first.",
+      "use": "Use this when you talk about family being more important than other things.",
+      "expressionTask": "Emma talks about family. What does she say?",
+      "grammar": "review: family English",
+      "pattern": "Family comes first.",
+      "task": "Family ___ first.",
+      "answer": "comes",
+      "example": "Family comes first.",
+      "context": [
+        "Emma talks about family with her mother.",
+        "Emma says, 'For me, family comes first. I open up to my mother.'"
+      ],
+      "dialogue": [
+        "Emma, who is the elderly woman?",
+        "She is my grandmother. She is elderly, and she is widowed.",
+        "Is your father middle-aged?",
+        "Yes. My father is middle-aged. He is forty-five years old.",
+        "Do you open up to your mother?",
+        "Yes. I open up to my mother. For me, family comes first."
+      ],
+      "listening": "Emma talks about family with her mother. Emma says, 'Family comes first.' Her mother says, 'Who is the elderly woman?' Emma says, 'She is my grandmother. She is elderly, and she is widowed.' Her mother says, 'Do you open up to me?' Emma says, 'Yes. I open up to you.'",
+      "question": "Who is the elderly woman?",
+      "correct": "Emma's grandmother",
+      "other": "Emma's mother",
+      "reading": "On Sunday, Emma talks about family with her mother. Emma says, 'Family comes first. My grandmother is elderly, and she is widowed. She lives near our house. She likes to cook, and she tells me stories.' Her mother says, 'Is your father middle-aged?' Emma says, 'Yes. My father is middle-aged. He is forty-five years old. He works in a shop.' Her mother says, 'Do you open up to me?' Emma says, 'Yes. I open up to you. You are my mother, and I can talk to you about my life. My friends are good, but my family is the best. For me, family comes first. I can use family English in a new situation.'",
+      "readingQ": "How old is Emma's father?",
+      "readingA": "Forty-five years old.",
+      "speaking": "Tell a friend about your family. What do you say?",
+      "speakingSample": "I talk about my family with my friend Emma. For me, family comes first. My grandmother is elderly, and she is widowed. My father is middle-aged. He is forty-five years old. I open up to my mother. You are my mother, and I can talk to you about my life. I like my family.",
+      "writing": "Write a short email to a friend about your family. Say what your family means to you.",
+      "writingSample": "Dear Anna, I want to tell you about my family. For me, family comes first. My grandmother is elderly, and she is widowed. She lives near our house. My father is middle-aged. He is forty-five years old. I open up to my mother. You are my mother, and I can talk to you about my life. My friends are good, but my family is the best. I like my family. See you soon. Best, Emma",
+      "sound": "Elderly has its strongest beat on EL. In elderly, say EL clearly at the start. In middle-aged, say MID clearly at the start.",
+      "model": "We help the elderly people in town.",
+      "wordTask": "Who is elderly?",
+      "wordSample": "An old person.",
+      "transferCheck": {
+        "source": "On Sunday, Emma visits her grandmother with her friend Sara. Emma says, 'I can use family English in a new situation. For me, family comes first. My grandmother is elderly, and she is widowed.' Sara says, 'Yes. What can we do?' Emma says, 'We can help her. My father is middle-aged, and I open up to my mother.' Sara says, 'Good. You use family English well.'",
+        "dictation": "Family comes first.",
+        "answer": "1. Emma visits her grandmother with her friend Sara. She talks about family. 2. Emma's first job is to say she can use family English in a new situation. 3. On Sunday, Emma says, 'I can use family English in a new situation.' 4. Family comes first. 5. Sample: On Sunday, Emma visits her grandmother with her friend Sara. Emma says, 'I can use family English in a new situation. For me, family comes first. My grandmother is elderly, and she is widowed.' Sara says, 'Yes. What can we do?' Emma says, 'We can help her. My father is middle-aged, and I open up to my mother.' Sara says, 'Good. You use family English well.' Follow-up: What can Emma and Sara do? Help Emma's grandmother.",
+        "tasks": [
+          [
+            "1 · Identify the people and the new situation",
+            "Who does Emma visit, and what does she talk about?"
+          ],
+          [
+            "2 · Work out what Emma does first",
+            "What is Emma's first job, and what does she say?"
+          ],
+          [
+            "3 · Notice the sentence on Sunday",
+            "What does Emma say on Sunday?"
+          ],
+          [
+            "4 · Listen and write",
+            "Write the sentence you hear."
+          ],
+          [
+            "5 · Retell and answer",
+            "Tell the story in order, including the people, the new situation, the first talk, and the result. Then answer one follow-up question."
+          ]
+        ]
+      }
+    }
+  ]
+}

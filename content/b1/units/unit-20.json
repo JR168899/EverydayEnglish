@@ -1,0 +1,905 @@
+{
+  "number": 20,
+  "title": "Friendship and social life",
+  "lessons": [
+    {
+      "unit": 20,
+      "day": 153,
+      "title": "Making new friends",
+      "goal": "I can talk about making new friends.",
+      "newItems": [
+        {
+          "word": "friendship",
+          "ipa": "/ˈfrɛndʃɪp/",
+          "pos": "noun",
+          "definition": "A close feeling between friends.",
+          "example": "Their friendship is very strong.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "easy-going",
+          "ipa": "/ˈizi ˈɡoʊɪŋ/",
+          "pos": "adjective",
+          "definition": "Relaxed and not easily worried.",
+          "example": "He is easy-going and fun.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "acquaintance",
+          "ipa": "/əˈkweɪntəns/",
+          "pos": "noun",
+          "definition": "A person you know, but not well.",
+          "example": "He is an old acquaintance of mine.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "hit it off",
+          "ipa": "/hɪt ɪt ɔf/",
+          "pos": "fixed phrase",
+          "definition": "To like someone at once.",
+          "example": "We hit it off on the first day.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "get to know someone",
+          "ipa": "/ɡɛt tə noʊ ˈsʌmwʌn/",
+          "pos": "fixed phrase",
+          "definition": "To learn about someone.",
+          "example": "I want to get to know my new friend.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "friend",
+        "people",
+        "school",
+        "happy",
+        "meet"
+      ],
+      "mainWord": {
+        "word": "friendship",
+        "ipa": "/ˈfrɛndʃɪp/",
+        "pos": "noun",
+        "definition": "A close feeling between friends.",
+        "example": "Their friendship is very strong.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Friendship is a noun. Friendship means a close feeling between friends. Their friendship is very strong.",
+      "pronunciationTarget": {
+        "word": "friendship",
+        "ipa": "/ˈfrɛndʃɪp/"
+      },
+      "expression": "We hit it off on the first day.",
+      "use": "Use this when you talk about liking a new friend at once.",
+      "expressionTask": "Tom and Lily talk about new friends. What do they say?",
+      "grammar": "present simple for facts about friends: A good friend is kind",
+      "pattern": "A good friend is kind.",
+      "task": "A good friend ___ kind.",
+      "answer": "is",
+      "example": "A good friend is kind.",
+      "context": [
+        "Tom and Lily talk about new friends.",
+        "Tom says, 'We hit it off on the first day. Our friendship is very strong.'"
+      ],
+      "dialogue": [
+        "Lily, do you like your new friend?",
+        "Yes. We hit it off on the first day. He is easy-going and fun.",
+        "What is friendship?",
+        "It is a close feeling between friends. Our friendship is very strong.",
+        "Do you know him well?",
+        "Not yet. I want to get to know someone new. He is an old acquaintance of my brother."
+      ],
+      "listening": "Tom and Lily talk about new friends. Tom says, 'We hit it off on the first day. Our friendship is very strong.' Lily says, 'What is friendship?' Tom says, 'It is a close feeling between friends.' Lily says, 'Do you know him well?' Tom says, 'Not yet. I want to get to know someone new.'",
+      "question": "What is friendship?",
+      "correct": "A close feeling between friends",
+      "other": "A new school",
+      "reading": "On Monday, Tom and Lily talk about new friends. Tom says, 'We hit it off on the first day. Our friendship is very strong. He is easy-going and fun, and he likes school.' Lily says, 'What is friendship?' Tom says, 'It is a close feeling between friends. I want to get to know someone new. He is an old acquaintance of my brother, and now he is my friend too.' Lily says, 'That is good. New friends make school happy.' Tom says, 'Yes. I meet new people at school, and I like it.' Lily says, 'Do you like your new friend?' Tom says, 'Yes. He is easy-going, and we talk every day at school.'",
+      "readingQ": "When did Tom and Lily hit it off?",
+      "readingA": "On the first day.",
+      "speaking": "Tell a friend about a new friend. What do you say?",
+      "speakingSample": "I talk about my new friend with my friend Tom. We hit it off on the first day. Our friendship is very strong. He is easy-going and fun. I want to get to know someone new. He is an old acquaintance of my brother. I meet new people at school, and I like it.",
+      "writing": "Write a short email to a friend about a new friend. Say how you met.",
+      "writingSample": "Dear Anna, I want to tell you about my new friend. We hit it off on the first day. Our friendship is very strong. He is easy-going and fun. I want to get to know someone new. He is an old acquaintance of my brother. I meet new people at school. He likes school, and we talk every day at school. I am happy to have a new friend. See you soon. Best, Lily",
+      "sound": "Friendship has its strongest beat on FRIEND. In friendship, say FRIEND clearly at the start. In acquaintance, say QUAINT clearly in the middle.",
+      "model": "Their friendship is very strong.",
+      "wordTask": "What is friendship?",
+      "wordSample": "A close feeling between friends."
+    },
+    {
+      "unit": 20,
+      "day": 154,
+      "title": "A close friend",
+      "goal": "I can talk about a close friend.",
+      "newItems": [
+        {
+          "word": "devoted",
+          "ipa": "/dɪˈvoʊtɪd/",
+          "pos": "adjective",
+          "definition": "Loving someone very much.",
+          "example": "He is a devoted friend.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "supportive",
+          "ipa": "/səˈpɔrtɪv/",
+          "pos": "adjective",
+          "definition": "Ready to help and encourage someone.",
+          "example": "My friends are very supportive.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "a close friend",
+          "ipa": "/ə kloʊs frɛnd/",
+          "pos": "fixed phrase",
+          "definition": "A friend you know very well.",
+          "example": "She is a close friend of mine.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "be there for someone",
+          "ipa": "/bi ðɛr fɔr ˈsʌmwʌn/",
+          "pos": "fixed phrase",
+          "definition": "To help and support someone.",
+          "example": "I am there for my friend.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "through thick and thin",
+          "ipa": "/θru θɪk ənd θɪn/",
+          "pos": "fixed phrase",
+          "definition": "In good times and bad times.",
+          "example": "True friends stay through thick and thin.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "family",
+        "home",
+        "good",
+        "help",
+        "talk"
+      ],
+      "mainWord": {
+        "word": "devoted",
+        "ipa": "/dɪˈvoʊtɪd/",
+        "pos": "adjective",
+        "definition": "Loving someone very much.",
+        "example": "He is a devoted friend.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Devoted is an adjective. Devoted means loving someone very much. He is a devoted friend.",
+      "pronunciationTarget": {
+        "word": "devoted",
+        "ipa": "/dɪˈvoʊtɪd/"
+      },
+      "expression": "She is a close friend of mine.",
+      "use": "Use this when you talk about a friend you know very well.",
+      "expressionTask": "Tom and Lily talk about a close friend. What do they say?",
+      "grammar": "comparatives: A close friend is kinder than a new friend",
+      "pattern": "A close friend is kinder than a new friend.",
+      "task": "A close friend is ___ than a new friend.",
+      "answer": "kinder",
+      "example": "A close friend is kinder than a new friend.",
+      "context": [
+        "Tom and Lily talk about a close friend.",
+        "Tom says, 'She is a close friend of mine. She is devoted and supportive.'"
+      ],
+      "dialogue": [
+        "Lily, who is your close friend?",
+        "Anna is a close friend of mine. She is devoted and supportive.",
+        "What does a close friend do?",
+        "A close friend is there for someone in a hard time.",
+        "Do you talk every day?",
+        "Yes. We talk every day. Good friends stay through thick and thin."
+      ],
+      "listening": "Tom and Lily talk about a close friend. Tom says, 'She is a close friend of mine. She is devoted and supportive.' Lily says, 'What does a close friend do?' Tom says, 'A close friend is there for someone in a hard time. Good friends stay through thick and thin.'",
+      "question": "Who is Lily's close friend?",
+      "correct": "Anna",
+      "other": "Tom",
+      "reading": "On Tuesday, Tom and Lily talk about a close friend. Tom says, 'Anna is a close friend of mine. She is devoted and supportive. A close friend is kinder than a new friend.' Lily says, 'What does a close friend do?' Tom says, 'A close friend can be there for someone in a hard time. Good friends stay through thick and thin.' Lily says, 'Do you talk every day?' Tom says, 'Yes. We talk every day at home and at school. I like to talk with my family and my friends.' Lily says, 'Is Anna kind?' Tom says, 'Yes. Anna is kind and good. She helps me at home and at school.'",
+      "readingQ": "Who is a close friend of Lily?",
+      "readingA": "Anna.",
+      "speaking": "Tell a friend about your close friend. What do you say?",
+      "speakingSample": "I talk about my close friend with my friend Tom. Anna is a close friend of mine. She is devoted and supportive. A close friend is kinder than a new friend. A close friend can be there for someone in a hard time. Good friends stay through thick and thin. We talk every day.",
+      "writing": "Write a short email to a friend about your close friend. Say why you like them.",
+      "writingSample": "Dear Tom, I want to tell you about my close friend Anna. She is a close friend of mine. She is devoted and supportive. A close friend is kinder than a new friend. A close friend can be there for someone in a hard time. Good friends stay through thick and thin. We talk every day. She helps me at home and at school. See you soon. Best, Lily",
+      "sound": "Devoted has its strongest beat on VOT. In devoted, say VOT clearly in the middle. In supportive, say PORT clearly in the middle.",
+      "model": "He is a devoted friend.",
+      "wordTask": "What is a devoted friend?",
+      "wordSample": "A friend who loves you very much."
+    },
+    {
+      "unit": 20,
+      "day": 155,
+      "title": "Meeting people",
+      "goal": "I can talk about meeting people.",
+      "newItems": [
+        {
+          "word": "chatty",
+          "ipa": "/ˈtʃæti/",
+          "pos": "adjective",
+          "definition": "Talking a lot in a friendly way.",
+          "example": "She is chatty and fun.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "extrovert",
+          "ipa": "/ˈɛkstrəˌvɝt/",
+          "pos": "noun",
+          "definition": "A person who likes being with people.",
+          "example": "She is an extrovert.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "introvert",
+          "ipa": "/ˈɪntrəˌvɝt/",
+          "pos": "noun",
+          "definition": "A quiet person who likes time alone.",
+          "example": "He is an introvert.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "strike up a conversation",
+          "ipa": "/straɪk ʌp ə ˌkɑnvɚˈseɪʃən/",
+          "pos": "fixed phrase",
+          "definition": "To start talking with someone.",
+          "example": "He struck up a conversation with me.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "hang out with",
+          "ipa": "/hæŋ aʊt wɪð/",
+          "pos": "fixed phrase",
+          "definition": "To spend time with someone.",
+          "example": "I hang out with my friends on Sunday.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "work",
+        "time",
+        "day",
+        "play",
+        "visit"
+      ],
+      "mainWord": {
+        "word": "chatty",
+        "ipa": "/ˈtʃæti/",
+        "pos": "adjective",
+        "definition": "Talking a lot in a friendly way.",
+        "example": "She is chatty and fun.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Chatty is an adjective. Chatty means talking a lot in a friendly way. She is chatty and fun.",
+      "pronunciationTarget": {
+        "word": "chatty",
+        "ipa": "/ˈtʃæti/"
+      },
+      "expression": "I strike up a conversation with new people.",
+      "use": "Use this when you talk about starting to talk with someone new.",
+      "expressionTask": "Tom and Lily talk about meeting people. What do they say?",
+      "grammar": "past simple for friendship stories: We met at school",
+      "pattern": "We met at school.",
+      "task": "We ___ at school.",
+      "answer": "met",
+      "example": "We met at school.",
+      "context": [
+        "Tom and Lily talk about meeting people.",
+        "Tom says, 'I strike up a conversation with new people. We met at school.'"
+      ],
+      "dialogue": [
+        "Lily, do you like meeting new people?",
+        "Yes. I strike up a conversation with new people. I am chatty and fun.",
+        "Are you an extrovert?",
+        "Yes. I am an extrovert. I like to meet people and play.",
+        "What about your brother?",
+        "He is an introvert. He likes time alone, but we hang out with our friends on Sunday."
+      ],
+      "listening": "Tom and Lily talk about meeting people. Lily says, 'Do you like meeting new people?' Tom says, 'Yes. I strike up a conversation with new people. I am chatty and fun.' Lily says, 'Are you an extrovert?' Tom says, 'Yes. I am an extrovert. I like to meet people and play.'",
+      "question": "Is Lily an extrovert?",
+      "correct": "Yes",
+      "other": "No",
+      "reading": "On Wednesday, Tom and Lily talk about meeting people. Tom says, 'I strike up a conversation with new people. We met at school. I am chatty and fun.' Lily says, 'Are you an extrovert?' Tom says, 'Yes. I am an extrovert. I like to meet people and play at work and at school.' Lily says, 'What about your brother?' Tom says, 'He is an introvert. He likes time alone, but we hang out with our friends on Sunday. We visit new places and play games.' Lily says, 'Do you like to play?' Tom says, 'Yes. I like to play games and visit new places with my friends. We meet new people at school every day.'",
+      "readingQ": "What does Tom do with new people?",
+      "readingA": "Strikes up a conversation.",
+      "speaking": "Tell a friend about meeting new people. What do you say?",
+      "speakingSample": "I talk about meeting people with my friend Tom. I strike up a conversation with new people. We met at school. I am chatty and fun. I am an extrovert. I like to meet people and play. My brother is an introvert. We hang out with our friends on Sunday.",
+      "writing": "Write a short email to a friend about meeting new people. Say what you do.",
+      "writingSample": "Dear Anna, I want to tell you about meeting new people. I strike up a conversation with new people. We met at school. I am chatty and fun. I am an extrovert. I like to meet people and play. My brother is an introvert. We hang out with our friends on Sunday. We visit new places and play games together. See you soon. Best, Lily",
+      "sound": "Chatty has its strongest beat on CHAT. In chatty, say CHAT clearly at the start. In extrovert, say EXTRO clearly at the start.",
+      "model": "She is chatty and fun.",
+      "wordTask": "What does chatty mean?",
+      "wordSample": "Talking a lot in a friendly way."
+    },
+    {
+      "unit": 20,
+      "day": 156,
+      "title": "Keeping in touch",
+      "goal": "I can talk about keeping in touch.",
+      "newItems": [
+        {
+          "word": "pen pal",
+          "ipa": "/ˈpɛn pæl/",
+          "pos": "noun",
+          "definition": "A friend you write letters to.",
+          "example": "My pen pal lives in Canada.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "sympathetic",
+          "ipa": "/ˌsɪmpəˈθɛtɪk/",
+          "pos": "adjective",
+          "definition": "Kind to someone who is sad.",
+          "example": "He is sympathetic and listens well.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "catch up with",
+          "ipa": "/kætʃ ʌp wɪð/",
+          "pos": "fixed phrase",
+          "definition": "To talk after a long time.",
+          "example": "Let us catch up with our old friends.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "drop someone a line",
+          "ipa": "/drɑp ˈsʌmwʌn ə laɪn/",
+          "pos": "fixed phrase",
+          "definition": "To send someone a short message.",
+          "example": "Drop me a line when you are free.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "get back in touch",
+          "ipa": "/ɡɛt bæk ɪn tʌtʃ/",
+          "pos": "fixed phrase",
+          "definition": "To talk to someone again after a long time.",
+          "example": "I want to get back in touch with Tom.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "phone",
+        "letter",
+        "call",
+        "week",
+        "write"
+      ],
+      "mainWord": {
+        "word": "pen pal",
+        "ipa": "/ˈpɛn pæl/",
+        "pos": "noun",
+        "definition": "A friend you write letters to.",
+        "example": "My pen pal lives in Canada.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Pen pal is a noun. Pen pal means a friend you write letters to. My pen pal lives in Canada.",
+      "pronunciationTarget": {
+        "word": "pen pal",
+        "ipa": "/ˈpɛn pæl/"
+      },
+      "expression": "Let us catch up with our old friends.",
+      "use": "Use this when you talk about meeting friends after a long time.",
+      "expressionTask": "Tom and Lily talk about keeping in touch. What do they say?",
+      "grammar": "present continuous for arrangements: We are meeting on Sunday",
+      "pattern": "We are meeting on Sunday.",
+      "task": "We are ___ on Sunday.",
+      "answer": "meeting",
+      "example": "We are meeting on Sunday.",
+      "context": [
+        "Tom and Lily talk about keeping in touch.",
+        "Tom says, 'Let us catch up with our old friends. We are meeting on Sunday.'"
+      ],
+      "dialogue": [
+        "Lily, do you write to your pen pal?",
+        "Yes. My pen pal lives in Canada. I write a letter every week.",
+        "How do you keep in touch?",
+        "I call and write. I drop someone a line when I am free.",
+        "What about Tom?",
+        "He is sympathetic and listens well. I want to get back in touch with Tom."
+      ],
+      "listening": "Tom and Lily talk about keeping in touch. Tom says, 'Let us catch up with our old friends. We are meeting on Sunday.' Lily says, 'Do you write to your pen pal?' Tom says, 'Yes. My pen pal lives in Canada. I write a letter every week.'",
+      "question": "Where does Lily's pen pal live?",
+      "correct": "In Canada",
+      "other": "In China",
+      "reading": "On Thursday, Tom and Lily talk about keeping in touch. Tom says, 'Let us catch up with our old friends. We are meeting on Sunday.' Lily says, 'Do you write to your pen pal?' Tom says, 'Yes. My pen pal lives in Canada. I write a letter every week. I call and write.' Lily says, 'How do you keep in touch?' Tom says, 'I drop someone a line when I am free. He is sympathetic and listens well. I want to get back in touch with Tom.' Lily says, 'Do you call your pen pal?' Tom says, 'Yes. I call and write every week. We talk on the phone and write letters.'",
+      "readingQ": "How often does Lily write to her pen pal?",
+      "readingA": "Every week.",
+      "speaking": "Tell a friend about keeping in touch. What do you say?",
+      "speakingSample": "I talk about keeping in touch with my friend Tom. Let us catch up with our old friends. We are meeting on Sunday. My pen pal lives in Canada. I write a letter every week. I drop someone a line when I am free. He is sympathetic and listens well. I want to get back in touch with Tom.",
+      "writing": "Write a short email to a friend about keeping in touch. Say how you do it.",
+      "writingSample": "Dear Anna, I want to tell you about keeping in touch. Let us catch up with our old friends. We are meeting on Sunday. My pen pal lives in Canada. I write a letter every week. I drop someone a line when I am free. He is sympathetic and listens well. I want to get back in touch with Tom. See you soon. Best, Lily",
+      "sound": "Pen pal has its strongest beat on PEN. In pen pal, say PEN clearly at the start. In sympathetic, say THET clearly in the middle.",
+      "model": "My pen pal lives in Canada.",
+      "wordTask": "What is a pen pal?",
+      "wordSample": "A friend you write letters to."
+    },
+    {
+      "unit": 20,
+      "day": 157,
+      "title": "Helping a friend",
+      "goal": "I can talk about helping a friend.",
+      "newItems": [
+        {
+          "word": "caring",
+          "ipa": "/ˈkɛrɪŋ/",
+          "pos": "adjective",
+          "definition": "Kind and thinking about others.",
+          "example": "She is a caring friend.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "kind-hearted",
+          "ipa": "/ˈkaɪnd ˈhɑrtɪd/",
+          "pos": "adjective",
+          "definition": "Kind and caring.",
+          "example": "He is kind-hearted.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "lend a hand",
+          "ipa": "/lɛnd ə hænd/",
+          "pos": "fixed phrase",
+          "definition": "To help someone.",
+          "example": "Can you lend a hand with this?",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "do someone a favor",
+          "ipa": "/du ˈsʌmwʌn ə ˈfeɪvɚ/",
+          "pos": "fixed phrase",
+          "definition": "To do something kind for someone.",
+          "example": "Can you do me a favor?",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "cheer someone up",
+          "ipa": "/tʃɪr ˈsʌmwʌn ʌp/",
+          "pos": "fixed phrase",
+          "definition": "To make someone happy.",
+          "example": "A kind word can cheer someone up.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "kind",
+        "give",
+        "share",
+        "love",
+        "care"
+      ],
+      "mainWord": {
+        "word": "caring",
+        "ipa": "/ˈkɛrɪŋ/",
+        "pos": "adjective",
+        "definition": "Kind and thinking about others.",
+        "example": "She is a caring friend.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Caring is an adjective. Caring means kind and thinking about others. She is a caring friend.",
+      "pronunciationTarget": {
+        "word": "caring",
+        "ipa": "/ˈkɛrɪŋ/"
+      },
+      "expression": "Can you lend a hand with this?",
+      "use": "Use this when you ask someone to help you.",
+      "expressionTask": "Tom and Lily talk about helping a friend. What do they say?",
+      "grammar": "will for promises: I will help you",
+      "pattern": "I will help you.",
+      "task": "I ___ help you.",
+      "answer": "will",
+      "example": "I will help you.",
+      "context": [
+        "Tom and Lily talk about helping a friend.",
+        "Tom says, 'Can you lend a hand with this? I will help you.'"
+      ],
+      "dialogue": [
+        "Tom, do you need help?",
+        "Yes, please. Can you lend a hand with this?",
+        "Of course. I will help you. I am a caring friend.",
+        "Thank you. You are kind-hearted.",
+        "A good friend will do someone a favor.",
+        "I want to cheer someone up today."
+      ],
+      "listening": "Tom and Lily talk about helping a friend. Lily says, 'Tom, do you need help?' Tom says, 'Yes, please. Can you lend a hand with this?' Lily says, 'Of course. I will help you. I am a caring friend.' Tom says, 'Thank you. You are kind-hearted.'",
+      "question": "What does Lily do?",
+      "correct": "She helps Tom",
+      "other": "She goes home",
+      "reading": "On Friday, Tom and Lily talk about helping a friend. Lily says, 'Tom, do you need help?' Tom says, 'Yes, please. Can you lend a hand with this?' Lily says, 'Of course. I will help you. I am a caring friend.' Tom says, 'Thank you. You are kind-hearted.' Lily says, 'A good friend will do someone a favor. I want to cheer someone up today. I give and share, and I love to help my friends.' Lily says, 'Do you like to help?' Tom says, 'Yes. I like to give and share. I love to help my friends at home and at school.' Tom says, 'A caring friend is kind. I want to be a caring friend.'",
+      "readingQ": "What does Lily say she will do?",
+      "readingA": "Help Tom.",
+      "speaking": "Tell a friend about helping a friend. What do you say?",
+      "speakingSample": "I talk about helping a friend with my friend Tom. Can you lend a hand with this? I will help you. I am a caring friend. You are kind-hearted. A good friend will do someone a favor. I want to cheer someone up today. I give and share, and I love to help my friends.",
+      "writing": "Write a short email to a friend about helping a friend. Say what you do.",
+      "writingSample": "Dear Anna, I want to tell you about helping a friend. Can you lend a hand with this? I will help you. I am a caring friend. You are kind-hearted. A good friend will do someone a favor. I want to cheer someone up today. I give and share, and I love to help my friends. I love to help my friends at home and at school. See you soon. Best, Lily",
+      "sound": "Caring has its strongest beat on CAR. In caring, say CAR clearly at the start. In kind-hearted, say KIND clearly at the start.",
+      "model": "She is a caring friend.",
+      "wordTask": "What does caring mean?",
+      "wordSample": "Kind and thinking about others."
+    },
+    {
+      "unit": 20,
+      "day": 158,
+      "title": "Saying sorry",
+      "goal": "I can talk about saying sorry.",
+      "newItems": [
+        {
+          "word": "misunderstand",
+          "ipa": "/ˌmɪsʌndɚˈstænd/",
+          "pos": "verb",
+          "definition": "To understand something in the wrong way.",
+          "example": "Do not misunderstand my words.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "jealous",
+          "ipa": "/ˈdʒɛləs/",
+          "pos": "adjective",
+          "definition": "Unhappy because someone has something you want.",
+          "example": "Do not be jealous of your friend.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "gossip",
+          "ipa": "/ˈɡɑsɪp/",
+          "pos": "noun",
+          "definition": "Talk about other people.",
+          "example": "Do not listen to gossip.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "lean on someone",
+          "ipa": "/lin ɑn ˈsʌmwʌn/",
+          "pos": "fixed phrase",
+          "definition": "To ask someone for help.",
+          "example": "You can lean on your friends.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "talk things over",
+          "ipa": "/tɔk θɪŋz ˈoʊvɚ/",
+          "pos": "fixed phrase",
+          "definition": "To talk about a problem.",
+          "example": "Let us talk things over.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "sorry",
+        "sad",
+        "angry",
+        "listen",
+        "understand"
+      ],
+      "mainWord": {
+        "word": "misunderstand",
+        "ipa": "/ˌmɪsʌndɚˈstænd/",
+        "pos": "verb",
+        "definition": "To understand something in the wrong way.",
+        "example": "Do not misunderstand my words.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Misunderstand is a verb. Misunderstand means to understand something in the wrong way. Do not misunderstand my words.",
+      "pronunciationTarget": {
+        "word": "misunderstand",
+        "ipa": "/ˌmɪsʌndɚˈstænd/"
+      },
+      "expression": "Let us talk things over.",
+      "use": "Use this when you talk about a problem with a friend.",
+      "expressionTask": "Tom and Lily talk about saying sorry. What do they say?",
+      "grammar": "should and shouldn't for advice: You should say sorry",
+      "pattern": "You should say sorry.",
+      "task": "You ___ say sorry.",
+      "answer": "should",
+      "example": "You should say sorry.",
+      "context": [
+        "Tom and Lily talk about saying sorry.",
+        "Tom says, 'Let us talk things over. You should say sorry.'"
+      ],
+      "dialogue": [
+        "Lily, are you angry?",
+        "Yes. I am sad. You misunderstand my words.",
+        "I am sorry. Let us talk things over.",
+        "Good. Do not listen to gossip. You can lean on someone when you are sad.",
+        "Thank you. I should not be jealous of my friend.",
+        "You should say sorry when you are wrong."
+      ],
+      "listening": "Tom and Lily talk about saying sorry. Tom says, 'Lily, are you angry?' Lily says, 'Yes. I am sad. You misunderstand my words.' Tom says, 'I am sorry. Let us talk things over.' Lily says, 'Good. Do not listen to gossip. You can lean on someone when you are sad.'",
+      "question": "Why is Lily sad?",
+      "correct": "Tom misunderstands her words",
+      "other": "She is tired",
+      "reading": "On Saturday, Tom and Lily talk about saying sorry. Tom says, 'Lily, are you angry?' Lily says, 'Yes. I am sad. You misunderstand my words.' Tom says, 'I am sorry. Let us talk things over. You should say sorry when you are wrong.' Lily says, 'Good. Do not listen to gossip. You can lean on someone when you are sad.' Tom says, 'Thank you. I should not be jealous of my friend. I listen and understand.' Tom says, 'I understand. I will listen to you.' Lily says, 'Thank you. We can talk every day. I am happy to have a good friend.' Tom says, 'Friends help each other. I will help you at home and at school.'",
+      "readingQ": "What does Lily say about gossip?",
+      "readingA": "Do not listen to it.",
+      "speaking": "Tell a friend about saying sorry. What do you say?",
+      "speakingSample": "I talk about saying sorry with my friend Tom. Let us talk things over. You should say sorry when you are wrong. Do not listen to gossip. You can lean on someone when you are sad. I should not be jealous of my friend. I listen and understand. I am happy to have a good friend.",
+      "writing": "Write a short email to a friend about saying sorry. Say what happened.",
+      "writingSample": "Dear Anna, I want to tell you about saying sorry. Let us talk things over. You should say sorry when you are wrong. Do not listen to gossip. You can lean on someone when you are sad. I should not be jealous of my friend. I listen and understand. I am happy to have a good friend. Friends help each other. See you soon. Best, Lily",
+      "sound": "Misunderstand has its strongest beat on STAND. In misunderstand, say STAND clearly at the end. In jealous, say JEAL clearly at the start.",
+      "model": "Do not misunderstand my words.",
+      "wordTask": "What does misunderstand mean?",
+      "wordSample": "To understand something in the wrong way."
+    },
+    {
+      "unit": 20,
+      "day": 159,
+      "title": "Friends and fun",
+      "goal": "I can talk about friends and fun.",
+      "newItems": [
+        {
+          "word": "humorous",
+          "ipa": "/ˈhjumərəs/",
+          "pos": "adjective",
+          "definition": "Funny and making people laugh.",
+          "example": "He is humorous and fun.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "playful",
+          "ipa": "/ˈpleɪfəl/",
+          "pos": "adjective",
+          "definition": "Fun and full of play.",
+          "example": "He is playful with his friends.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "buddy",
+          "ipa": "/ˈbʌdi/",
+          "pos": "noun",
+          "definition": "A close friend.",
+          "example": "He is my best buddy.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "laugh together",
+          "ipa": "/læf təˈɡɛðɚ/",
+          "pos": "fixed phrase",
+          "definition": "To laugh with friends.",
+          "example": "We laugh together every day.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "meet up with",
+          "ipa": "/mit ʌp wɪð/",
+          "pos": "fixed phrase",
+          "definition": "To meet someone at a place and time.",
+          "example": "Let us meet up with Anna.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "fun",
+        "laugh",
+        "music",
+        "party",
+        "food"
+      ],
+      "mainWord": {
+        "word": "humorous",
+        "ipa": "/ˈhjumərəs/",
+        "pos": "adjective",
+        "definition": "Funny and making people laugh.",
+        "example": "He is humorous and fun.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Humorous is an adjective. Humorous means funny and making people laugh. He is humorous and fun.",
+      "pronunciationTarget": {
+        "word": "humorous",
+        "ipa": "/ˈhjumərəs/"
+      },
+      "expression": "We laugh together every day.",
+      "use": "Use this when you talk about having fun with friends.",
+      "expressionTask": "Tom and Lily talk about friends and fun. What do they say?",
+      "grammar": "present perfect for experiences: I have known my friend for five years",
+      "pattern": "I have known my friend for five years.",
+      "task": "I have ___ my friend for five years.",
+      "answer": "known",
+      "example": "I have known my friend for five years.",
+      "context": [
+        "Tom and Lily talk about friends and fun.",
+        "Tom says, 'We laugh together every day. I have known my friend for five years.'"
+      ],
+      "dialogue": [
+        "Lily, is Tom humorous?",
+        "Yes. He is humorous and fun. We laugh together every day.",
+        "Is he playful?",
+        "Yes. He is playful. He is my best buddy.",
+        "Do you meet up with him?",
+        "Yes. Let us meet up with Tom at the party."
+      ],
+      "listening": "Tom and Lily talk about friends and fun. Lily says, 'Is Tom humorous?' Tom says, 'Yes. He is humorous and fun. We laugh together every day. I have known my friend for five years.' Lily says, 'Is he playful?' Tom says, 'Yes. He is playful. He is my best buddy.'",
+      "question": "How long has Tom known his friend?",
+      "correct": "For five years",
+      "other": "For five days",
+      "reading": "On Sunday, Tom and Lily talk about friends and fun. Lily says, 'Is Tom humorous?' Tom says, 'Yes. He is humorous and fun. We laugh together every day. I have known my friend for five years.' Lily says, 'Is he playful?' Tom says, 'Yes. He is playful. He is my best buddy.' Lily says, 'Do you meet up with him?' Tom says, 'Yes. Let us meet up with Tom at the party. We like music, food and fun.' Tom says, 'We like to play games and listen to music. We eat good food at the party.' Lily says, 'Do you like parties?' Tom says, 'Yes. I like parties with my friends.'",
+      "readingQ": "What do Tom and Lily like?",
+      "readingA": "Music, food and fun.",
+      "speaking": "Tell a friend about friends and fun. What do you say?",
+      "speakingSample": "I talk about friends and fun with my friend Tom. He is humorous and fun. We laugh together every day. I have known my friend for five years. He is playful. He is my best buddy. Let us meet up with Tom at the party. We like music, food and fun.",
+      "writing": "Write a short email to a friend about friends and fun. Say what you do together.",
+      "writingSample": "Dear Anna, I want to tell you about friends and fun. He is humorous and fun. We laugh together every day. I have known my friend for five years. He is playful. He is my best buddy. Let us meet up with Tom at the party. We like music, food and fun. We like to play games and listen to music. See you soon. Best, Lily",
+      "sound": "Humorous has its strongest beat on HU. In humorous, say HU clearly at the start. In playful, say PLAY clearly at the start.",
+      "model": "He is humorous and fun.",
+      "wordTask": "What does humorous mean?",
+      "wordSample": "Funny and making people laugh."
+    },
+    {
+      "unit": 20,
+      "day": 160,
+      "title": "Use friendship English in a new situation",
+      "goal": "I can use friendship English in a new situation.",
+      "newItems": [
+        {
+          "word": "gratitude",
+          "ipa": "/ˈɡrætɪˌtud/",
+          "pos": "noun",
+          "definition": "A feeling of thanks.",
+          "example": "I feel gratitude for my friends.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "affection",
+          "ipa": "/əˈfɛkʃən/",
+          "pos": "noun",
+          "definition": "A warm feeling of love for someone.",
+          "example": "She shows affection for her friends.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "a true friend",
+          "ipa": "/ə tru frɛnd/",
+          "pos": "fixed phrase",
+          "definition": "A friend you can trust.",
+          "example": "A true friend is hard to find.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "have someone's back",
+          "ipa": "/hæv ˈsʌmwʌnz bæk/",
+          "pos": "fixed phrase",
+          "definition": "To help and protect someone.",
+          "example": "I have your back.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "a friend in need",
+          "ipa": "/ə frɛnd ɪn nid/",
+          "pos": "fixed phrase",
+          "definition": "A friend who needs help.",
+          "example": "Help a friend in need.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "together",
+        "always",
+        "never",
+        "sometimes",
+        "today"
+      ],
+      "mainWord": {
+        "word": "gratitude",
+        "ipa": "/ˈɡrætɪˌtud/",
+        "pos": "noun",
+        "definition": "A feeling of thanks.",
+        "example": "I feel gratitude for my friends.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Gratitude is a noun. Gratitude means a feeling of thanks. I feel gratitude for my friends.",
+      "pronunciationTarget": {
+        "word": "gratitude",
+        "ipa": "/ˈɡrætɪˌtud/"
+      },
+      "expression": "A true friend is hard to find.",
+      "use": "Use this when you talk about a friend you can trust.",
+      "expressionTask": "Emma talks about friendship. What does she say?",
+      "grammar": "review: friendship English",
+      "pattern": "A true friend is hard to find.",
+      "task": "A true friend is hard to ___.",
+      "answer": "find",
+      "example": "A true friend is hard to find.",
+      "context": [
+        "Emma talks about friendship with her mother.",
+        "Emma says, 'A true friend is hard to find. I feel gratitude for my friends.'"
+      ],
+      "dialogue": [
+        "Emma, what is gratitude?",
+        "It is a feeling of thanks. I feel gratitude for my friends.",
+        "Do you show affection for your friends?",
+        "Yes. I show affection for my friends. A true friend is hard to find.",
+        "Will you help a friend in need?",
+        "Yes. I will have someone's back. I am always there for my friends."
+      ],
+      "listening": "Emma talks about friendship with her mother. Emma says, 'A true friend is hard to find.' Her mother says, 'What is gratitude?' Emma says, 'It is a feeling of thanks. I feel gratitude for my friends.' Her mother says, 'Do you show affection for your friends?' Emma says, 'Yes. I show affection for my friends.'",
+      "question": "What is gratitude?",
+      "correct": "A feeling of thanks",
+      "other": "A new friend",
+      "reading": "On Monday, Emma talks about friendship with her mother. Emma says, 'A true friend is hard to find. I feel gratitude for my friends.' Her mother says, 'What is gratitude?' Emma says, 'It is a feeling of thanks. I feel gratitude for my friends.' Her mother says, 'Do you show affection for your friends?' Emma says, 'Yes. I show affection for my friends. A true friend is hard to find.' Her mother says, 'Will you help a friend in need?' Emma says, 'Yes. I will have someone's back. I am always there for my friends. Today I can use friendship English in a new situation.' Emma says, 'Thank you. I like my friends. They are good people.'",
+      "readingQ": "What is gratitude?",
+      "readingA": "A feeling of thanks.",
+      "speaking": "Tell a friend about friendship. What do you say?",
+      "speakingSample": "I talk about friendship with my friend Emma. A true friend is hard to find. I feel gratitude for my friends. I show affection for my friends. I will help a friend in need. I will have someone's back. I am always there for my friends. I like my friends.",
+      "writing": "Write a short email to a friend about friendship. Say what friendship means to you.",
+      "writingSample": "Dear Anna, I want to tell you about friendship. A true friend is hard to find. I feel gratitude for my friends. I show affection for my friends. I will help a friend in need. I will have someone's back. I am always there for my friends. I like my friends. They are good people, and I am happy today. See you soon. Best, Emma",
+      "sound": "Gratitude has its strongest beat on GRAT. In gratitude, say GRAT clearly at the start. In affection, say FEC clearly in the middle.",
+      "model": "I feel gratitude for my friends.",
+      "wordTask": "What is gratitude?",
+      "wordSample": "A feeling of thanks.",
+      "transferCheck": {
+        "source": "On Monday, Emma meets a new friend at the park with her friend Sara. Emma says, 'I can use friendship English in a new situation. A true friend is hard to find. I feel gratitude for my friends. I show affection for my friends.' Sara says, 'Yes. What can we do?' Emma says, 'We can help a friend in need. I will have someone's back.' Sara says, 'Good. You use friendship English well.'",
+        "dictation": "A true friend is hard to find.",
+        "answer": "1. Emma meets a new friend at the park with her friend Sara. She talks about friendship. 2. Emma's first job is to say she can use friendship English in a new situation. 3. On Monday, Emma says, 'I can use friendship English in a new situation.' 4. A true friend is hard to find. 5. Sample: On Monday, Emma meets a new friend at the park with her friend Sara. Emma says, 'I can use friendship English in a new situation. A true friend is hard to find. I feel gratitude for my friends. I show affection for my friends.' Sara says, 'Yes. What can we do?' Emma says, 'We can help a friend in need. I will have someone's back.' Sara says, 'Good. You use friendship English well.' Follow-up: What can Emma and Sara do? Help a friend in need.",
+        "tasks": [
+          [
+            "1 · Identify the people and the new situation",
+            "Who does Emma meet, and what does she talk about?"
+          ],
+          [
+            "2 · Work out what Emma does first",
+            "What is Emma's first job, and what does she say?"
+          ],
+          [
+            "3 · Notice the sentence on Monday",
+            "What does Emma say on Monday?"
+          ],
+          [
+            "4 · Listen and write",
+            "Write the sentence you hear."
+          ],
+          [
+            "5 · Retell and answer",
+            "Tell the story in order, including the people, the new situation, the first talk, and the result. Then answer one follow-up question."
+          ]
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,905 @@
+{
+  "number": 3,
+  "title": "Daily routines and time",
+  "lessons": [
+    {
+      "unit": 3,
+      "day": 17,
+      "title": "My morning routine",
+      "goal": "I can talk about my morning routine and say what I do first.",
+      "newItems": [
+        {
+          "word": "snooze",
+          "ipa": "/snuz/",
+          "pos": "verb",
+          "definition": "To sleep lightly for a short time.",
+          "example": "I snooze for ten more minutes.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "dawn",
+          "ipa": "/dɔn/",
+          "pos": "noun",
+          "definition": "The first light of the day.",
+          "example": "We left home at dawn.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "alarm clock",
+          "ipa": "/əˈlɑrm klɑk/",
+          "pos": "noun",
+          "definition": "A clock that makes a sound to wake you up.",
+          "example": "My alarm clock rings at six.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "hit the snooze button",
+          "ipa": "/hɪt ðə snuz ˈbʌtən/",
+          "pos": "fixed phrase",
+          "definition": "To press a button so your alarm stops for a few minutes.",
+          "example": "I hit the snooze button three times today.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "bright and early",
+          "ipa": "/braɪt ənd ˈɝli/",
+          "pos": "fixed phrase",
+          "definition": "Very early in the morning.",
+          "example": "We left bright and early.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "morning",
+        "early",
+        "clock",
+        "sleep",
+        "breakfast"
+      ],
+      "mainWord": {
+        "word": "snooze",
+        "ipa": "/snuz/",
+        "pos": "verb",
+        "definition": "To sleep lightly for a short time.",
+        "example": "I snooze for ten more minutes.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Snooze is a verb. Snooze means to sleep lightly for a short time. I snooze for ten more minutes.",
+      "pronunciationTarget": {
+        "word": "snooze",
+        "ipa": "/snuz/"
+      },
+      "expression": "His alarm clock rings at six.",
+      "use": "Use this when you talk about your morning routine.",
+      "expressionTask": "Sam wakes up at six. What wakes him up?",
+      "grammar": "Present simple for routines: I get up at six",
+      "pattern": "I get up at six every morning.",
+      "task": "I get up at ___ every morning.",
+      "answer": "six",
+      "example": "I get up at six every morning.",
+      "context": [
+        "Sam wakes up at six in the morning.",
+        "His alarm clock rings at six. He hits the snooze button."
+      ],
+      "dialogue": [
+        "Good morning, Sam. You are up bright and early.",
+        "Good morning, Anna. My alarm clock rings at six every day.",
+        "Do you get up at six, or do you snooze?",
+        "I snooze for ten more minutes. Then I get up.",
+        "Do you hit the snooze button every morning?",
+        "Yes, I hit the snooze button two or three times."
+      ],
+      "listening": "Sam gets up bright and early. His alarm clock rings at six, and he hits the snooze button. He snoozes for ten more minutes. Then he gets up, takes a shower, and has breakfast. Sam likes his morning routine. At dawn, the sky is quiet and bright.",
+      "question": "What time does Sam get up?",
+      "correct": "At six",
+      "other": "At eight",
+      "reading": "Sam gets up bright and early every morning. His alarm clock rings at six, and he hits the snooze button. He snoozes for ten more minutes, and then he gets up. Sam takes a shower and has breakfast at seven. He likes his morning routine. In the summer, he gets up at dawn. At dawn, the sky is quiet, and the birds sing. Sam drinks water and reads the news. Then he leaves home at eight. Sam says, 'My morning routine is simple. I get up at six, I have breakfast at seven, and I leave home at eight. I hit the snooze button every morning. It is a good start to the day.'",
+      "readingQ": "What does Sam do when his alarm clock rings?",
+      "readingA": "He hits the snooze button and snoozes for ten more minutes.",
+      "speaking": "Tell a friend about your morning routine. What time do you get up? What do you do first? What do you do at dawn or in the morning?",
+      "speakingSample": "I get up bright and early every morning. My alarm clock rings at six, and I hit the snooze button. I snooze for ten more minutes, and then I get up. I take a shower and have breakfast at seven. Then I leave home at eight. I like my morning routine.",
+      "writing": "Write a short email to a friend about your morning routine. Say what time you get up and what you do first.",
+      "writingSample": "Dear Tom, I want to tell you about my morning routine. I get up bright and early every morning. My alarm clock rings at six, and I hit the snooze button. I snooze for ten more minutes, and then I get up. I take a shower and have breakfast at seven. Then I leave home at eight. I like my morning routine. It is simple and good. Best, Sam",
+      "sound": "Snooze has its strongest beat on SNOOZE. In snooze, say OO clearly in the middle. In dawn, say AW clearly in the middle.",
+      "model": "I snooze for ten more minutes.",
+      "wordTask": "What wakes Sam up in the morning?",
+      "wordSample": "His alarm clock rings at six, and he hits the snooze button."
+    },
+    {
+      "unit": 3,
+      "day": 18,
+      "title": "A typical workday",
+      "goal": "I can talk about a typical workday and say when things happen.",
+      "newItems": [
+        {
+          "word": "commute",
+          "ipa": "/kəˈmjut/",
+          "pos": "verb",
+          "definition": "To travel to work or school every day.",
+          "example": "I commute to work by train.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "frequent",
+          "ipa": "/ˈfrikwənt/",
+          "pos": "adjective",
+          "definition": "Happening often, but not always.",
+          "example": "I have frequent meetings on Mondays.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "arrive at work",
+          "ipa": "/əˈraɪv ət wɝk/",
+          "pos": "fixed phrase",
+          "definition": "To get to your workplace.",
+          "example": "I arrive at work at nine.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "nine-to-five job",
+          "ipa": "/naɪn tə faɪv dʒɑb/",
+          "pos": "noun",
+          "definition": "A job with normal daytime hours.",
+          "example": "He has a nine-to-five job.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "lunch break",
+          "ipa": "/lʌntʃ breɪk/",
+          "pos": "noun",
+          "definition": "The time in the middle of the day when you stop work to eat.",
+          "example": "I eat with Anna on my lunch break.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "work",
+        "job",
+        "train",
+        "office",
+        "lunch"
+      ],
+      "mainWord": {
+        "word": "commute",
+        "ipa": "/kəˈmjut/",
+        "pos": "verb",
+        "definition": "To travel to work or school every day.",
+        "example": "I commute to work by train.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Commute is a verb. Commute means to travel to work or school every day. I commute to work by train.",
+      "pronunciationTarget": {
+        "word": "commute",
+        "ipa": "/kəˈmjut/"
+      },
+      "expression": "I commute to work by train.",
+      "use": "Use this when you talk about how you travel to work.",
+      "expressionTask": "Sam travels to work by train. What does he do every day?",
+      "grammar": "Time prepositions: at nine, on Monday, in the morning",
+      "pattern": "I arrive at work at nine.",
+      "task": "I arrive at work at ___.",
+      "answer": "nine",
+      "example": "I arrive at work at nine.",
+      "context": [
+        "Sam commutes to work by train every morning.",
+        "I commute to work by train. I arrive at work at nine."
+      ],
+      "dialogue": [
+        "Sam, what time do you arrive at work?",
+        "I arrive at work at nine. I commute to work by train.",
+        "Is your job a nine-to-five job?",
+        "Yes, it is a nine-to-five job. I work from nine to five.",
+        "Do you have frequent meetings?",
+        "Yes, I have frequent meetings on Mondays. Then I eat on my lunch break."
+      ],
+      "listening": "Sam has a nine-to-five job. He commutes to work by train every morning, and he arrives at work at nine. He has frequent meetings on Mondays. At noon, he eats lunch with Anna on his lunch break. Sam likes his workday. It is the same every day, and he knows his routine.",
+      "question": "How does Sam travel to work?",
+      "correct": "By train",
+      "other": "By car",
+      "reading": "Sam has a nine-to-five job. He commutes to work by train every morning. He leaves home at eight and arrives at work at nine. Sam works from nine to five. He has frequent meetings on Mondays, and he writes reports on Tuesdays. At noon, he eats lunch with Anna on his lunch break. They talk about work and about their families. In the afternoon, Sam helps his clients and answers emails. At five, he leaves the office and takes the train home. Sam says, 'My workday is the same every day, but I like it. I know my routine, and I have time for my family in the evening. I commute to work by train, and I arrive at work at nine.'",
+      "readingQ": "What time does Sam arrive at work?",
+      "readingA": "He arrives at work at nine.",
+      "speaking": "Tell a friend about a typical workday. How do you travel to work? What time do you arrive? What do you do on your lunch break?",
+      "speakingSample": "I have a nine-to-five job. I commute to work by train every morning, and I arrive at work at nine. I have frequent meetings on Mondays. At noon, I eat lunch with Anna on my lunch break. In the afternoon, I answer emails and help my clients. I like my workday.",
+      "writing": "Write a short email to a friend about a typical workday. Say how you travel to work and what you do at noon.",
+      "writingSample": "Dear Lisa, I want to tell you about a typical workday. I have a nine-to-five job. I commute to work by train every morning, and I arrive at work at nine. I have frequent meetings on Mondays, and I write reports on Tuesdays. At noon, I eat lunch with Anna on my lunch break. In the afternoon, I help my clients and answer emails. Best, Sam",
+      "sound": "Commute has its strongest beat on MUTE. In commute, say MUTE clearly at the end. In frequent, say FRE clearly at the start.",
+      "model": "I commute to work by train.",
+      "wordTask": "How does Sam travel to work?",
+      "wordSample": "Sam commutes to work by train, and he arrives at work at nine."
+    },
+    {
+      "unit": 3,
+      "day": 19,
+      "title": "How often do you do it?",
+      "goal": "I can use adverbs of frequency to talk about my routines.",
+      "newItems": [
+        {
+          "word": "frequently",
+          "ipa": "/ˈfrikwəntli/",
+          "pos": "adverb",
+          "definition": "Often; many times.",
+          "example": "I frequently work from home.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "occasionally",
+          "ipa": "/əˈkeɪʒənəli/",
+          "pos": "adverb",
+          "definition": "Sometimes, but not often.",
+          "example": "We occasionally eat out on Sundays.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "rarely",
+          "ipa": "/ˈrɛrli/",
+          "pos": "adverb",
+          "definition": "Almost never.",
+          "example": "I rarely watch TV in the morning.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "seldom",
+          "ipa": "/ˈsɛldəm/",
+          "pos": "adverb",
+          "definition": "Almost never; not often.",
+          "example": "I seldom eat out during the week.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "hardly ever",
+          "ipa": "/ˈhɑrdli ˈɛvɚ/",
+          "pos": "fixed phrase",
+          "definition": "Almost never.",
+          "example": "I hardly ever watch TV.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "week",
+        "month",
+        "year",
+        "often",
+        "always"
+      ],
+      "mainWord": {
+        "word": "frequently",
+        "ipa": "/ˈfrikwəntli/",
+        "pos": "adverb",
+        "definition": "Often; many times.",
+        "example": "I frequently work from home.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Frequently is an adverb. Frequently means often; many times. I frequently work from home.",
+      "pronunciationTarget": {
+        "word": "frequently",
+        "ipa": "/ˈfrikwəntli/"
+      },
+      "expression": "I hardly ever watch TV.",
+      "use": "Use this when you say you almost never do something.",
+      "expressionTask": "Sam almost never watches TV. What does he say?",
+      "grammar": "Adverbs of frequency: I always / usually / often / sometimes / rarely do it",
+      "pattern": "I rarely watch TV in the morning.",
+      "task": "I ___ watch TV in the morning.",
+      "answer": "rarely",
+      "example": "I rarely watch TV in the morning.",
+      "context": [
+        "Sam talks to Sara about his week.",
+        "I hardly ever watch TV. I frequently work from home."
+      ],
+      "dialogue": [
+        "Sam, do you frequently work from home?",
+        "Yes, I frequently work from home on Fridays.",
+        "Do you watch TV in the morning?",
+        "No, I rarely watch TV in the morning. I read the news.",
+        "Do you eat out during the week?",
+        "I seldom eat out during the week. I occasionally eat out on Sundays."
+      ],
+      "listening": "Sam frequently works from home on Fridays. He rarely watches TV in the morning. He reads the news and drinks water. Sam seldom eats out during the week. He cooks dinner at home. He occasionally eats out on Sundays with his family. Sam hardly ever watches TV. He likes reading and listening to music.",
+      "question": "How often does Sam work from home?",
+      "correct": "Frequently",
+      "other": "Rarely",
+      "reading": "Sam frequently works from home on Fridays. He likes working at home because it is quiet. Sam rarely watches TV in the morning. He reads the news and drinks water. He hardly ever watches TV in the evening, too. Sam seldom eats out during the week. He cooks dinner at home with his family. He occasionally eats out on Sundays. On Sundays, they go to a restaurant and eat together. Sam says, 'I frequently work from home, and I seldom eat out. I like my routine. I cook at home, I read books, and I listen to music. I rarely watch TV, and I hardly ever go to bed late.'",
+      "readingQ": "How often does Sam eat out during the week?",
+      "readingA": "He seldom eats out during the week. He cooks dinner at home.",
+      "speaking": "Tell a friend how often you do things. How often do you work from home? How often do you eat out? How often do you watch TV?",
+      "speakingSample": "I frequently work from home on Fridays. I rarely watch TV in the morning. I seldom eat out during the week. I occasionally eat out on Sundays with my family. I hardly ever watch TV in the evening. I cook at home, I read books, and I listen to music in the evening.",
+      "writing": "Write a short email to a friend about your week. Say how often you work from home, eat out, and watch TV.",
+      "writingSample": "Dear Tom, I want to tell you about my week. I frequently work from home on Fridays. I rarely watch TV in the morning. I read the news and drink water. I seldom eat out during the week. I cook dinner at home. I occasionally eat out on Sundays with my family. I hardly ever watch TV in the evening. I like my routine. Best, Sam",
+      "sound": "Frequently has its strongest beat on QUENT. In frequently, say QUENT clearly in the middle. In occasionally, say CA clearly in the middle.",
+      "model": "I frequently work from home.",
+      "wordTask": "How often does Sam work from home?",
+      "wordSample": "Sam frequently works from home on Fridays."
+    },
+    {
+      "unit": 3,
+      "day": 20,
+      "title": "Talking about time",
+      "goal": "I can use time expressions to talk about when things happen.",
+      "newItems": [
+        {
+          "word": "currently",
+          "ipa": "/ˈkɝəntli/",
+          "pos": "adverb",
+          "definition": "At this time; now.",
+          "example": "I am currently working on a new project.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "right on time",
+          "ipa": "/raɪt ɑn taɪm/",
+          "pos": "fixed phrase",
+          "definition": "Exactly at the right time.",
+          "example": "The train arrived right on time.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "in no time",
+          "ipa": "/ɪn noʊ taɪm/",
+          "pos": "fixed phrase",
+          "definition": "Very quickly; very soon.",
+          "example": "I will finish this in no time.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "from time to time",
+          "ipa": "/frʌm taɪm tə taɪm/",
+          "pos": "fixed phrase",
+          "definition": "Sometimes, but not often.",
+          "example": "From time to time, we eat out.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "once in a while",
+          "ipa": "/wʌns ɪn ə waɪl/",
+          "pos": "fixed phrase",
+          "definition": "Sometimes, but not often.",
+          "example": "Once in a while, I watch a film.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "time",
+        "minute",
+        "hour",
+        "today",
+        "day"
+      ],
+      "mainWord": {
+        "word": "currently",
+        "ipa": "/ˈkɝəntli/",
+        "pos": "adverb",
+        "definition": "At this time; now.",
+        "example": "I am currently working on a new project.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Currently is an adverb. Currently means at this time; now. I am currently working on a new project.",
+      "pronunciationTarget": {
+        "word": "currently",
+        "ipa": "/ˈkɝəntli/"
+      },
+      "expression": "The train arrived right on time.",
+      "use": "Use this when something happens exactly at the right time.",
+      "expressionTask": "The train arrived at nine, not late. What do you say?",
+      "grammar": "It takes + time: It takes twenty minutes to get to work",
+      "pattern": "It takes twenty minutes to get to work.",
+      "task": "It takes twenty minutes to ___ to work.",
+      "answer": "get",
+      "example": "It takes twenty minutes to get to work.",
+      "context": [
+        "Sam takes the train to work every day.",
+        "The train arrived right on time. It takes twenty minutes to get to work."
+      ],
+      "dialogue": [
+        "Sam, how long does it take to get to work?",
+        "It takes twenty minutes to get to work by train.",
+        "Is the train right on time?",
+        "Yes, the train arrived right on time today.",
+        "What are you working on now?",
+        "I am currently working on a new project. I will finish it in no time."
+      ],
+      "listening": "Sam takes the train to work. It takes twenty minutes to get to work by train. The train arrived right on time today. Sam is currently working on a new project. From time to time, Sam eats out with Anna. Once in a while, he watches a film with his family.",
+      "question": "How long does it take Sam to get to work?",
+      "correct": "Twenty minutes",
+      "other": "Two hours",
+      "reading": "Sam takes the train to work every day. It takes twenty minutes to get to work by train. The train arrived right on time today, at nine. Sam is currently working on a new project. He is busy, but he says, 'I will finish this in no time.' From time to time, Sam eats out with Anna. They talk about work and about their families. Once in a while, Sam watches a film with his family on Sundays. He likes his routine. He works in the day, and he has time for his family in the evening. Sam says, 'It takes twenty minutes to get to work, and the train is right on time every day.'",
+      "readingQ": "How long does it take Sam to get to work?",
+      "readingA": "It takes twenty minutes to get to work by train.",
+      "speaking": "Tell a friend about time in your day. How long does it take to get to work? What are you working on now? What do you do from time to time?",
+      "speakingSample": "It takes twenty minutes to get to work by train. The train arrived right on time today. I am currently working on a new project. I will finish it in no time. From time to time, I eat out with Anna. Once in a while, I watch a film with my family.",
+      "writing": "Write a short email to a friend about your day. Say how long it takes to get to work and what you are working on now.",
+      "writingSample": "Dear Lisa, I want to tell you about my day. It takes twenty minutes to get to work by train. The train arrived right on time today. I am currently working on a new project. I will finish it in no time. From time to time, I eat out with Anna. Once in a while, I watch a film with my family on Sundays. Best, Sam",
+      "sound": "Currently has its strongest beat on CUR. In currently, say CUR clearly at the start. In time, say TIME clearly.",
+      "model": "I am currently working on a new project.",
+      "wordTask": "How long does it take Sam to get to work?",
+      "wordSample": "It takes twenty minutes to get to work by train."
+    },
+    {
+      "unit": 3,
+      "day": 21,
+      "title": "Managing your time",
+      "goal": "I can talk about managing my time and making time for things.",
+      "newItems": [
+        {
+          "word": "prioritize",
+          "ipa": "/praɪˈɔrəˌtaɪz/",
+          "pos": "verb",
+          "definition": "To decide what is most important.",
+          "example": "I prioritize my tasks every morning.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "procrastinate",
+          "ipa": "/proʊˈkræstəˌneɪt/",
+          "pos": "verb",
+          "definition": "To put off doing something you should do.",
+          "example": "Do not procrastinate. Start your work now.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "time management",
+          "ipa": "/taɪm ˈmænədʒmənt/",
+          "pos": "noun",
+          "definition": "The skill of using your time well.",
+          "example": "Good time management helps me finish my work.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "make time for",
+          "ipa": "/meɪk taɪm fɔr/",
+          "pos": "fixed phrase",
+          "definition": "To find time to do something.",
+          "example": "I always make time for my family.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "waste time",
+          "ipa": "/weɪst taɪm/",
+          "pos": "fixed phrase",
+          "definition": "To use time badly, without a good result.",
+          "example": "Do not waste time on your phone.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "task",
+        "list",
+        "phone",
+        "plan",
+        "goal"
+      ],
+      "mainWord": {
+        "word": "prioritize",
+        "ipa": "/praɪˈɔrəˌtaɪz/",
+        "pos": "verb",
+        "definition": "To decide what is most important.",
+        "example": "I prioritize my tasks every morning.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Prioritize is a verb. Prioritize means to decide what is most important. I prioritize my tasks every morning.",
+      "pronunciationTarget": {
+        "word": "prioritize",
+        "ipa": "/praɪˈɔrəˌtaɪz/"
+      },
+      "expression": "I always make time for my family.",
+      "use": "Use this when you talk about finding time for something important.",
+      "expressionTask": "Sam has many tasks. What does he do first?",
+      "grammar": "spend + time + -ing: I spend two hours reading",
+      "pattern": "I spend two hours reading every evening.",
+      "task": "I spend two hours ___ every evening.",
+      "answer": "reading",
+      "example": "I spend two hours reading every evening.",
+      "context": [
+        "Sam makes a list of his tasks every morning.",
+        "I always make time for my family. We eat dinner together in the evening."
+      ],
+      "dialogue": [
+        "Sam, how do you manage your time?",
+        "I prioritize my tasks every morning. I make a list first.",
+        "Do you procrastinate?",
+        "No, I do not procrastinate. I start my work at nine.",
+        "Do you make time for your family?",
+        "Yes, I always make time for my family in the evening."
+      ],
+      "listening": "Sam has many tasks every day. He prioritizes his tasks every morning and makes a list. Good time management helps him finish his work. Sam does not procrastinate. He starts his work at nine and does not waste time on his phone. He always makes time for his family in the evening.",
+      "question": "What does Sam do first in the morning?",
+      "correct": "He makes a list",
+      "other": "He watches TV",
+      "reading": "Sam has many tasks every day, but he manages his time well. Every morning, he prioritizes his tasks and makes a list. Good time management helps him finish his work on time. Sam does not procrastinate. He starts his work at nine and does not waste time on his phone. He spends two hours reading in the evening. Sam always makes time for his family. He says, 'I make time for my family every evening. We eat dinner together and talk about our day. Time management is important to me, and my family is my first priority. I prioritize my tasks every morning. I do not procrastinate, and I always make time for my family.'",
+      "readingQ": "What does Sam do every morning?",
+      "readingA": "He prioritizes his tasks and makes a list.",
+      "speaking": "Tell a friend how you manage your time. How do you prioritize your tasks? Do you procrastinate? What do you make time for?",
+      "speakingSample": "Every morning, I prioritize my tasks and make a list. Good time management helps me finish my work. I do not procrastinate. I start my work at nine and do not waste time on my phone. I always make time for my family. I spend two hours reading in the evening.",
+      "writing": "Write a short email to a friend about managing your time. Say how you prioritize your tasks and what you make time for.",
+      "writingSample": "Dear Tom, I want to tell you how I manage my time. Every morning, I prioritize my tasks and make a list. Good time management helps me finish my work. I do not procrastinate. I start my work at nine and do not waste time on my phone. I always make time for my family in the evening. I spend two hours reading in the evening. Best, Sam",
+      "sound": "Prioritize has its strongest beat on OR. In prioritize, say OR clearly in the middle. In procrastinate, say CRAS clearly in the middle.",
+      "model": "I prioritize my tasks every morning.",
+      "wordTask": "What does Sam do every morning?",
+      "wordSample": "Sam prioritizes his tasks and makes a list every morning."
+    },
+    {
+      "unit": 3,
+      "day": 22,
+      "title": "Evening and sleep",
+      "goal": "I can talk about my evening routine and going to sleep.",
+      "newItems": [
+        {
+          "word": "nap",
+          "ipa": "/næp/",
+          "pos": "noun",
+          "definition": "A short sleep during the day.",
+          "example": "I take a short nap after lunch.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "dusk",
+          "ipa": "/dʌsk/",
+          "pos": "noun",
+          "definition": "The time when day and night meet in the evening.",
+          "example": "We walked home at dusk.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "take a nap",
+          "ipa": "/teɪk ə næp/",
+          "pos": "fixed phrase",
+          "definition": "To have a short sleep during the day.",
+          "example": "I take a nap after lunch on Sundays.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "stay up late",
+          "ipa": "/steɪ ʌp leɪt/",
+          "pos": "fixed phrase",
+          "definition": "To go to bed late at night.",
+          "example": "I stay up late on Fridays.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "wind down",
+          "ipa": "/waɪnd daʊn/",
+          "pos": "fixed phrase",
+          "definition": "To relax after a busy day.",
+          "example": "I wind down with a book in the evening.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "evening",
+        "night",
+        "bed",
+        "tired",
+        "quiet"
+      ],
+      "mainWord": {
+        "word": "nap",
+        "ipa": "/næp/",
+        "pos": "noun",
+        "definition": "A short sleep during the day.",
+        "example": "I take a short nap after lunch.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Nap is a noun. Nap means a short sleep during the day. I take a short nap after lunch.",
+      "pronunciationTarget": {
+        "word": "nap",
+        "ipa": "/næp/"
+      },
+      "expression": "I take a nap after lunch on Sundays.",
+      "use": "Use this when you talk about a short sleep in the day.",
+      "expressionTask": "Sam is tired after lunch. What does he do on Sundays?",
+      "grammar": "Present continuous for now: I am reading now",
+      "pattern": "I am reading a book now.",
+      "task": "I am ___ a book now.",
+      "answer": "reading",
+      "example": "I am reading a book now.",
+      "context": [
+        "Sam comes home at six in the evening.",
+        "I take a nap after lunch on Sundays. Then I wind down with a book."
+      ],
+      "dialogue": [
+        "Sam, what do you do in the evening?",
+        "I wind down with a book in the evening. I am reading a book now.",
+        "Do you take a nap?",
+        "Yes, I take a nap after lunch on Sundays. A short nap helps me.",
+        "Do you stay up late?",
+        "No, I do not stay up late. I go to bed at eleven."
+      ],
+      "listening": "Sam comes home at six in the evening. He winds down with a book. On Sundays, he takes a nap after lunch. A short nap helps him. At dusk, Sam walks home and looks at the sky. He does not stay up late. He goes to bed at eleven.",
+      "question": "What does Sam do on Sundays after lunch?",
+      "correct": "He takes a nap",
+      "other": "He goes to work",
+      "reading": "Sam comes home at six in the evening. He winds down with a book in the evening. On Sundays, he takes a nap after lunch. A short nap helps him feel good. At dusk, Sam walks home and looks at the sky. The sky is quiet, and the birds are quiet, too. Sam does not stay up late. He goes to bed at eleven, and he is not tired in the morning. Sam is reading a book now. He likes quiet time in the evening. He says, 'I wind down with a book, and I take a nap on Sundays. A short nap helps me, and I sleep well at night.'",
+      "readingQ": "What does Sam do at dusk?",
+      "readingA": "He walks home and looks at the sky.",
+      "speaking": "Tell a friend about your evening routine. What do you do to wind down? Do you take a nap? What time do you go to bed?",
+      "speakingSample": "I come home at six in the evening. I wind down with a book. On Sundays, I take a nap after lunch. A short nap helps me feel good. At dusk, I walk home and look at the sky. I do not stay up late. I go to bed at eleven.",
+      "writing": "Write a short email to a friend about your evening routine. Say what you do to wind down and what time you go to bed.",
+      "writingSample": "Dear Lisa, I want to tell you about my evening routine. I come home at six in the evening. I wind down with a book. On Sundays, I take a nap after lunch. A short nap helps me feel good. At dusk, I walk home and look at the sky. I do not stay up late. I go to bed at eleven. I sleep well at night. Best, Sam",
+      "sound": "Nap has its strongest beat on NAP. In nap, say A clearly in the middle. In dusk, say U clearly in the middle.",
+      "model": "I take a short nap after lunch.",
+      "wordTask": "What does Sam do on Sundays after lunch?",
+      "wordSample": "Sam takes a nap after lunch on Sundays."
+    },
+    {
+      "unit": 3,
+      "day": 23,
+      "title": "Staying focused at work",
+      "goal": "I can talk about staying focused and work-life balance.",
+      "newItems": [
+        {
+          "word": "focus",
+          "ipa": "/ˈfoʊkəs/",
+          "pos": "verb",
+          "definition": "To give all your attention to something.",
+          "example": "I focus on my work in the morning.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "concentrate",
+          "ipa": "/ˈkɑnsənˌtreɪt/",
+          "pos": "verb",
+          "definition": "To give all your attention to one thing.",
+          "example": "I concentrate best in the morning.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "distraction",
+          "ipa": "/dɪˈstrækʃən/",
+          "pos": "noun",
+          "definition": "Something that takes your attention away from your work.",
+          "example": "My phone is a big distraction.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "multitask",
+          "ipa": "/ˈmʌltiˌtæsk/",
+          "pos": "verb",
+          "definition": "To do two or more things at the same time.",
+          "example": "I cannot multitask when I am tired.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "work-life balance",
+          "ipa": "/wɝk laɪf ˈbæləns/",
+          "pos": "noun",
+          "definition": "The balance between your job and your life outside work.",
+          "example": "Good work-life balance is important.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "office",
+        "email",
+        "report",
+        "busy",
+        "music"
+      ],
+      "mainWord": {
+        "word": "focus",
+        "ipa": "/ˈfoʊkəs/",
+        "pos": "verb",
+        "definition": "To give all your attention to something.",
+        "example": "I focus on my work in the morning.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Focus is a verb. Focus means to give all your attention to something. I focus on my work in the morning.",
+      "pronunciationTarget": {
+        "word": "focus",
+        "ipa": "/ˈfoʊkəs/"
+      },
+      "expression": "My phone is a big distraction.",
+      "use": "Use this when something takes your attention away from your work.",
+      "expressionTask": "Sam cannot work well when his phone rings. What is the problem?",
+      "grammar": "focus on and concentrate on + -ing",
+      "pattern": "I focus on my work in the morning.",
+      "task": "I focus ___ my work in the morning.",
+      "answer": "on",
+      "example": "I focus on my work in the morning.",
+      "context": [
+        "Sam works in a busy office.",
+        "My phone is a big distraction. I put it in my bag."
+      ],
+      "dialogue": [
+        "Sam, can you focus on your work in the office?",
+        "Yes, I focus on my work in the morning. I concentrate best then.",
+        "Is your phone a distraction?",
+        "Yes, my phone is a big distraction. I put it in my bag.",
+        "Can you multitask?",
+        "No, I cannot multitask when I am tired. I do one thing at a time."
+      ],
+      "listening": "Sam works in a busy office. He focuses on his work in the morning. He concentrates best in the morning. His phone is a big distraction, so he puts it in his bag. Sam cannot multitask when he is tired. He does one thing at a time.",
+      "question": "What is a big distraction for Sam?",
+      "correct": "His phone",
+      "other": "His music",
+      "reading": "Sam works in a busy office. He focuses on his work in the morning, and he concentrates best in the morning. His phone is a big distraction, so he puts it in his bag and turns off the sound. Sam cannot multitask when he is tired. He does one thing at a time, and he finishes his work well. Good work-life balance is important to Sam. He works in the day, and he has time for his family in the evening. Sam says, 'I focus on my work in the morning. I do not multitask. I do one thing at a time, and I finish my work. Then I have time for my family. I concentrate best in the morning.'",
+      "readingQ": "Why does Sam put his phone in his bag?",
+      "readingA": "His phone is a big distraction.",
+      "speaking": "Tell a friend how you stay focused at work. What helps you concentrate? What is a distraction for you? Can you multitask?",
+      "speakingSample": "I focus on my work in the morning. I concentrate best in the morning. My phone is a big distraction, so I put it in my bag. I cannot multitask when I am tired. I do one thing at a time, and I finish my work well. Good work-life balance is important to me.",
+      "writing": "Write a short email to a friend about staying focused at work. Say what helps you concentrate and what is a distraction for you.",
+      "writingSample": "Dear Tom, I want to tell you how I stay focused at work. I focus on my work in the morning. I concentrate best in the morning. My phone is a big distraction, so I put it in my bag. I cannot multitask when I am tired. I do one thing at a time. I finish my work well. Good work-life balance is important to me. Best, Sam",
+      "sound": "Focus has its strongest beat on FO. In focus, say FO clearly at the start. In concentrate, say CEN clearly in the middle.",
+      "model": "I focus on my work in the morning.",
+      "wordTask": "What is a big distraction for Sam?",
+      "wordSample": "His phone is a big distraction."
+    },
+    {
+      "unit": 3,
+      "day": 24,
+      "title": "A very busy day",
+      "goal": "I can use what I learned about routines and time in a new situation.",
+      "newItems": [
+        {
+          "word": "organize",
+          "ipa": "/ˈɔrɡəˌnaɪz/",
+          "pos": "verb",
+          "definition": "To arrange things so you can do them well.",
+          "example": "I organize my day the night before.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "productive",
+          "ipa": "/prəˈdʌktɪv/",
+          "pos": "adjective",
+          "definition": "Doing a lot of work in a short time.",
+          "example": "I was very productive this morning.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "exhausted",
+          "ipa": "/ɪɡˈzɔstəd/",
+          "pos": "adjective",
+          "definition": "Very tired, with no energy left.",
+          "example": "I am exhausted after a long day.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "run late",
+          "ipa": "/rʌn leɪt/",
+          "pos": "fixed phrase",
+          "definition": "To be late; to not have enough time.",
+          "example": "I am running late for the meeting.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "every now and then",
+          "ipa": "/ˈɛvri naʊ ənd ðɛn/",
+          "pos": "fixed phrase",
+          "definition": "Sometimes, but not often.",
+          "example": "Every now and then, I call my old friend.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "saturday",
+        "sunday",
+        "weekend",
+        "busy",
+        "family"
+      ],
+      "mainWord": {
+        "word": "organize",
+        "ipa": "/ˈɔrɡəˌnaɪz/",
+        "pos": "verb",
+        "definition": "To arrange things so you can do them well.",
+        "example": "I organize my day the night before.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Organize is a verb. Organize means to arrange things so you can do them well. I organize my day the night before.",
+      "pronunciationTarget": {
+        "word": "organize",
+        "ipa": "/ˈɔrɡəˌnaɪz/"
+      },
+      "expression": "I do not want to run late.",
+      "use": "Use this when you talk about being late and not having enough time.",
+      "expressionTask": "Sam has a very busy day. What does he not want to do?",
+      "grammar": "Review: I can talk about routines and time",
+      "pattern": "I can talk about routines and time.",
+      "task": "I can ___ about routines and time.",
+      "answer": "talk",
+      "example": "I can talk about routines and time.",
+      "context": [
+        "Sam has a very busy day on Saturday.",
+        "I do not want to run late. I organize my day the night before."
+      ],
+      "dialogue": [
+        "Sam, you have a very busy day on Saturday. Are you ready?",
+        "Yes, I organize my day the night before. I make a list.",
+        "Do you think you will run late?",
+        "No, I do not want to run late. I will get up bright and early.",
+        "Will you be productive?",
+        "Yes, I will be productive. Every now and then, I take a short break."
+      ],
+      "listening": "Sam has a very busy day on Saturday. He organizes his day the night before. He gets up bright and early. He does not want to run late. Sam is productive in the morning. He finishes his work, and then he is exhausted. Every now and then, Sam takes a short break.",
+      "question": "What does Sam do the night before?",
+      "correct": "He organizes his day",
+      "other": "He watches TV",
+      "reading": "Sam has a very busy day on Saturday. He organizes his day the night before. He makes a list and gets up bright and early. Sam does not want to run late. He is productive in the morning and finishes his work. In the afternoon, Sam is exhausted after a long day. Every now and then, he takes a short break and drinks water. On Sunday, Sam rests at home with his family. He reads a book and listens to music. Sam says, 'I organize my day the night before. I am productive in the morning, and I am exhausted in the afternoon. I do not run late. Every now and then, I take a short break.'",
+      "readingQ": "Why is Sam exhausted in the afternoon?",
+      "readingA": "He is exhausted after a long day of work.",
+      "speaking": "Tell a friend about a very busy day. How do you organize your day? Are you productive? Do you run late? What do you do every now and then?",
+      "speakingSample": "I organize my day the night before. I get up bright and early. I do not want to run late. I am productive in the morning. Every now and then, I take a short break. In the afternoon, I am exhausted after a long day. Then I go home and rest.",
+      "writing": "Write a short email to a friend about a very busy day. Say how you organize your day and how you feel at the end.",
+      "writingSample": "Dear Lisa, I want to tell you about a very busy day. I organize my day the night before. I get up bright and early. I do not want to run late. I am productive in the morning and finish my work. Every now and then, I take a short break. In the afternoon, I am exhausted after a long day. Then I go home and rest. Best, Sam",
+      "sound": "Organize has its strongest beat on OR. In organize, say OR clearly at the start. In productive, say DUC clearly in the middle.",
+      "model": "I organize my day the night before.",
+      "wordTask": "How does Sam organize his busy day?",
+      "wordSample": "Sam organizes his day the night before and makes a list.",
+      "transferCheck": {
+        "source": "Mia is a new colleague at Sam's office. On Monday, she starts her first busy day. Sam helps her. He says, 'Organize your day the night before. Make a list, and get up bright and early.' Mia gets up at six. Her alarm clock rings, and she hits the snooze button. Then she gets up. Mia commutes to work by train, and she arrives at work at nine. She does not want to run late. In the morning, Mia is productive. She finishes her work and prioritizes her tasks. Every now and then, she takes a short break. In the afternoon, Mia is exhausted after a long day. On Friday, Mia gives Sam an update. She says, 'I organize my day, and I am productive. I do not run late.' Sam is happy with Mia's first week.",
+        "dictation": "Sam helps Mia organize her busy day.",
+        "answer": "1. The new colleague is Mia. Sam helps her plan her first busy day. 2. Mia gets up at six. Her alarm clock rings, and she hits the snooze button. Then she gets up and commutes to work by train. 3. In the morning, Mia is productive. She finishes her work and prioritizes her tasks. Every now and then, she takes a short break. 4. In the afternoon, Mia is exhausted after a long day. 5. Sample: On Monday, Mia starts her first busy day. Sam helps her organize her day. Mia gets up at six and commutes to work by train. She arrives at work at nine and does not run late. In the morning, Mia is productive. Every now and then, she takes a short break. In the afternoon, she is exhausted. On Friday, Mia gives Sam an update. She says, 'I organize my day, and I am productive.' Follow-up: What does Mia do in the morning? She is productive. She finishes her work and prioritizes her tasks.",
+        "tasks": [
+          [
+            "1 · Identify the new colleague and the helper",
+            "Who is the new colleague, and who helps her?"
+          ],
+          [
+            "2 · Work out Mia's morning",
+            "What time does Mia get up, and how does she travel to work?"
+          ],
+          [
+            "3 · Notice the morning work",
+            "What does Mia do in the morning?"
+          ],
+          [
+            "4 · Listen and write",
+            "Write the sentence you hear."
+          ],
+          [
+            "5 · Retell and answer",
+            "Tell the story in order, including the new colleague, the morning, the work, and the update. Then answer one follow-up question."
+          ]
+        ]
+      }
+    }
+  ]
+}

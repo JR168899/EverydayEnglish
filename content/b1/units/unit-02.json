@@ -1,0 +1,905 @@
+{
+  "number": 2,
+  "title": "People and personalities",
+  "lessons": [
+    {
+      "unit": 2,
+      "day": 9,
+      "title": "Meet someone new",
+      "goal": "I can meet a new person and describe their personality.",
+      "newItems": [
+        {
+          "word": "personality",
+          "ipa": "/ˌpɝsəˈnæləti/",
+          "pos": "noun",
+          "definition": "The way a person usually acts and feels.",
+          "example": "Sara has a friendly personality.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "impression",
+          "ipa": "/ɪmˈprɛʃən/",
+          "pos": "noun",
+          "definition": "The idea you have about someone when you first meet them.",
+          "example": "My first impression of Sara was good.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "curious",
+          "ipa": "/ˈkjʊriəs/",
+          "pos": "adjective",
+          "definition": "Wanting to know or learn about things.",
+          "example": "The children are curious about the new teacher.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "a good sense of humor",
+          "ipa": "/ə ɡʊd sɛns ʌv ˈhjumɚ/",
+          "pos": "fixed phrase",
+          "definition": "The ability to laugh and make other people laugh.",
+          "example": "Sara has a good sense of humor and makes us laugh.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "easy to talk to",
+          "ipa": "/ˈizi tə tɔk tə/",
+          "pos": "fixed phrase",
+          "definition": "Friendly and easy to have a conversation with.",
+          "example": "Sara is easy to talk to.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "friend",
+        "happy",
+        "kind",
+        "good",
+        "nice"
+      ],
+      "mainWord": {
+        "word": "personality",
+        "ipa": "/ˌpɝsəˈnæləti/",
+        "pos": "noun",
+        "definition": "The way a person usually acts and feels.",
+        "example": "Sara has a friendly personality.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Personality is a noun. The plural is personalities. A personality is the way a person usually acts and feels. Sara has a friendly personality.",
+      "pronunciationTarget": {
+        "word": "personality",
+        "ipa": "/ˌpɝsəˈnæləti/"
+      },
+      "expression": "She is easy to talk to.",
+      "use": "Use this when you meet a friendly person and enjoy talking to them.",
+      "expressionTask": "Sam meets a new coworker, Sara. What does he say about her?",
+      "grammar": "Describing people: She is + adjective",
+      "pattern": "She is friendly and easy to talk to.",
+      "task": "She is friendly and ___ to talk to.",
+      "answer": "easy",
+      "example": "She is friendly and easy to talk to.",
+      "context": [
+        "Sam meets Sara, a new coworker, in the office kitchen.",
+        "She is easy to talk to. They talk about books and films for ten minutes."
+      ],
+      "dialogue": [
+        "Good morning. I am Sara. I am new here.",
+        "Good morning, Sara. I am Sam. Welcome to the team.",
+        "Thank you, Sam. What do you do in this office?",
+        "I write reports and help our clients. What about you?",
+        "I am curious about this job. I worked in a shop before.",
+        "You will like it here. Anna is kind, and everyone is easy to talk to."
+      ],
+      "listening": "Sara starts her job on Monday. In the office kitchen, she meets Sam. Sam says, 'Welcome to the team.' Sara smiles and says, 'Thank you. I am happy to be here.' Sara is curious about her new job, and she asks Sam questions. Sara has a good sense of humor, and she makes Sam laugh.",
+      "question": "What does Sam say to Sara?",
+      "correct": "Welcome to the team",
+      "other": "Goodbye and good luck",
+      "reading": "On Monday, Sara starts her new job in the office. She is nervous, but she smiles when she meets Sam in the kitchen. Sam says, 'Good morning. I am Sam. Welcome to the team.' Sara says, 'Thank you. I am happy to be here.' Sam's first impression of Sara is good. Sara has a friendly personality, and she is easy to talk to. She asks Sam about the office, the team, and the work. Sara is curious about everything, and Sam answers all her questions. At lunch, Sara sits with Anna and Ben. She tells them a story, and everyone laughs. Sara has a good sense of humor. Anna says, 'Sara, you will like it here.' Sara smiles and says, 'Thank you. I like it here.' Everyone is kind.",
+      "readingQ": "What is Sam's first impression of Sara?",
+      "readingA": "His first impression of Sara is good. She has a friendly personality, and she is easy to talk to.",
+      "speaking": "Tell a friend about a new person you met. What is their personality like? What did you talk about? How did you feel?",
+      "speakingSample": "Yesterday, I met a new coworker, Sara. My first impression of her was good. She has a friendly personality, and she is easy to talk to. Sara is curious about her new job, and she asked me many questions. She has a good sense of humor and made me laugh. I like her, and I think we will be friends.",
+      "writing": "Write a short email to a friend about a new person you met. Say what their personality is like and what you talked about.",
+      "writingSample": "Dear Tom, I met a new coworker, Sara, and I want to tell you about her. My first impression of her was good. She has a friendly personality, and she is easy to talk to. Sara is curious about her new job and asked me many questions about the office. She has a good sense of humor and made us laugh at lunch. I like her, and I think we will be friends. Best, Sam",
+      "sound": "Personality has its strongest beat on NAL. In personality, say SON clearly in the middle. In curious, say CURE clearly at the start.",
+      "model": "Sara has a friendly personality.",
+      "wordTask": "What is Sara like when you first meet her?",
+      "wordSample": "Sara has a friendly personality, and she is easy to talk to."
+    },
+    {
+      "unit": 2,
+      "day": 10,
+      "title": "Compare two friends",
+      "goal": "I can compare two people and say who is more friendly.",
+      "newItems": [
+        {
+          "word": "generous",
+          "ipa": "/ˈdʒɛnərəs/",
+          "pos": "adjective",
+          "definition": "Happy to give time or money to other people.",
+          "example": "Anna is generous and often helps her friends.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "cheerful",
+          "ipa": "/ˈtʃɪrfəl/",
+          "pos": "adjective",
+          "definition": "Happy and smiling a lot.",
+          "example": "Ben has a cheerful smile every morning.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "reliable",
+          "ipa": "/rɪˈlaɪəbəl/",
+          "pos": "adjective",
+          "definition": "Someone you can trust to do what they say.",
+          "example": "Ben is reliable. He always finishes his work on time.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "a people person",
+          "ipa": "/ə ˈpipəl ˈpɝsən/",
+          "pos": "fixed phrase",
+          "definition": "Someone who likes meeting and talking to people.",
+          "example": "Anna is a people person. She loves meeting new people.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "a good listener",
+          "ipa": "/ə ɡʊd ˈlɪsənɚ/",
+          "pos": "fixed phrase",
+          "definition": "Someone who listens carefully to other people.",
+          "example": "Ben is a good listener. He always understands me.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "patient",
+        "confident",
+        "polite",
+        "calm",
+        "team"
+      ],
+      "mainWord": {
+        "word": "generous",
+        "ipa": "/ˈdʒɛnərəs/",
+        "pos": "adjective",
+        "definition": "Happy to give time or money to other people.",
+        "example": "Anna is generous and often helps her friends.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Generous is an adjective. The comparative is more generous. Generous means happy to give time or money to other people. Anna is generous and often helps her friends.",
+      "pronunciationTarget": {
+        "word": "generous",
+        "ipa": "/ˈdʒɛnərəs/"
+      },
+      "expression": "Anna is more generous than Ben.",
+      "use": "Use this when you compare two people.",
+      "expressionTask": "Sam compares Anna and Ben. What does he say about Anna?",
+      "grammar": "Comparatives: more + adjective + than",
+      "pattern": "Anna is more generous than Ben.",
+      "task": "Anna is ___ generous than Ben.",
+      "answer": "more",
+      "example": "Anna is more generous than Ben.",
+      "context": [
+        "Sam talks to Sara about Anna and Ben.",
+        "Anna is more generous than Ben. She often helps her friends."
+      ],
+      "dialogue": [
+        "Sara, who is more generous, Anna or Ben?",
+        "Anna is more generous than Ben. She is a people person.",
+        "Is Ben friendly, too?",
+        "Yes, Ben is friendly. He is a good listener, and he is more reliable than Anna.",
+        "Who is more cheerful in the morning?",
+        "Ben is more cheerful. He has a cheerful smile every morning."
+      ],
+      "listening": "Sam talks to Sara about Anna and Ben. Anna is more generous than Ben. She often helps her friends. Ben is more reliable than Anna. He always finishes his work on time. Anna is a people person, and Ben is a good listener. They are different, but Sam likes them both.",
+      "question": "Who is more reliable, Anna or Ben?",
+      "correct": "Ben",
+      "other": "Anna",
+      "reading": "Anna and Ben are both good coworkers, but they are different. Anna is more generous than Ben. She often helps her friends, and she gives them her time. Anna is a people person. She loves meeting new people and talking to them. Ben is more reliable than Anna. He always finishes his work on time, and you can trust him. Ben is a good listener. He listens carefully and understands people. Ben is more cheerful in the morning. He has a cheerful smile, and he says hello to everyone. Anna is cheerful, too, but Ben is more cheerful than Anna. Sam likes them both. Anna is generous and friendly. Ben is reliable and cheerful. They are different, but they work well together.",
+      "readingQ": "Who is more reliable, Anna or Ben?",
+      "readingA": "Ben is more reliable than Anna. He always finishes his work on time.",
+      "speaking": "Compare two people you know. Who is more generous? Who is more reliable? Who is more cheerful? Tell a friend about them.",
+      "speakingSample": "Anna and Ben are my coworkers. Anna is more generous than Ben. She often helps her friends. Ben is more reliable than Anna. He always finishes his work on time. Anna is a people person, and Ben is a good listener. Ben is more cheerful in the morning. They are different, but I like them both.",
+      "writing": "Write a short email to a friend. Compare two people you know and say how they are different.",
+      "writingSample": "Dear Tom, I want to tell you about two people at my office. Anna is more generous than Ben. She often helps her friends. Anna is a people person and loves meeting people. Ben is more reliable than Anna. He always finishes his work on time, and he is a good listener. Ben is more cheerful in the morning, and he says hello to everyone. They are different, but I like them both. Best, Sam",
+      "sound": "Generous has its strongest beat on GEN. In generous, say NER clearly in the middle. In reliable, say LI clearly in the middle.",
+      "model": "Anna is generous and often helps her friends.",
+      "wordTask": "Who is more generous, Anna or Ben?",
+      "wordSample": "Anna is more generous than Ben. She often helps her friends."
+    },
+    {
+      "unit": 2,
+      "day": 11,
+      "title": "The most sociable person I know",
+      "goal": "I can use superlatives to describe people I know.",
+      "newItems": [
+        {
+          "word": "sociable",
+          "ipa": "/ˈsoʊʃəbəl/",
+          "pos": "adjective",
+          "definition": "Enjoying talking to and meeting other people.",
+          "example": "My sociable neighbor talks to everyone in the street.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "ambitious",
+          "ipa": "/æmˈbɪʃəs/",
+          "pos": "adjective",
+          "definition": "Wanting to do well and to succeed.",
+          "example": "He is ambitious and wants to be a manager one day.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "modest",
+          "ipa": "/ˈmɑdəst/",
+          "pos": "adjective",
+          "definition": "Not talking too much about your own good work.",
+          "example": "She is modest about her good exam results.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "the life of the party",
+          "ipa": "/ðə laɪf ʌv ðə ˈpɑrti/",
+          "pos": "fixed phrase",
+          "definition": "The most fun and lively person at a party.",
+          "example": "At the party, Tom was the life of the party.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "full of energy",
+          "ipa": "/fʊl ʌv ˈɛnɚdʒi/",
+          "pos": "fixed phrase",
+          "definition": "With a lot of energy.",
+          "example": "The children are full of energy in the morning.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "happy",
+        "kind",
+        "friend",
+        "work",
+        "job"
+      ],
+      "mainWord": {
+        "word": "sociable",
+        "ipa": "/ˈsoʊʃəbəl/",
+        "pos": "adjective",
+        "definition": "Enjoying talking to and meeting other people.",
+        "example": "My sociable neighbor talks to everyone in the street.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Sociable is an adjective. The superlative is the most sociable. Sociable means enjoying talking to and meeting other people. My sociable neighbor talks to everyone in the street.",
+      "pronunciationTarget": {
+        "word": "sociable",
+        "ipa": "/ˈsoʊʃəbəl/"
+      },
+      "expression": "Tom is the life of the party.",
+      "use": "Use this when someone is the most fun person at a party.",
+      "expressionTask": "Sam talks about the office party. Who was the most fun person there?",
+      "grammar": "Superlatives: the most + adjective",
+      "pattern": "Tom is the most sociable person at the party.",
+      "task": "Tom is the ___ sociable person at the party.",
+      "answer": "most",
+      "example": "Tom is the most sociable person at the party.",
+      "context": [
+        "Sam and Sara talk about the office party on Friday.",
+        "Tom is the life of the party. He sang and danced all evening."
+      ],
+      "dialogue": [
+        "Who was the most sociable person at the party?",
+        "Tom was the most sociable person. He talked to everyone.",
+        "Was he the life of the party?",
+        "Yes, he was the life of the party. He sang and danced all evening.",
+        "Who is the most ambitious person in our office?",
+        "Anna is the most ambitious person. She wants to be a manager one day."
+      ],
+      "listening": "On Friday, our office had a party. Tom was the life of the party. He sang, danced, and talked to everyone. Tom is the most sociable person in our office, and he is full of energy all evening. Anna is the most ambitious person. She wants to be a manager one day.",
+      "question": "Who was the life of the party?",
+      "correct": "Tom",
+      "other": "Anna",
+      "reading": "On Friday, our office had a party. It was a good party, and everyone came. Tom was the life of the party. He sang, danced, and talked to everyone. Tom is the most sociable person in our office. He is full of energy all evening, and he makes everyone laugh. Anna is the most ambitious person in our office. She wants to be a manager one day, and she works hard every day. Ben is the most modest person in our team. He does good work, but he never talks about it. Sara is the most curious person at the party. She asked everyone about their work and their families. Sam says, 'It was a great party. Tom was the life of the party, and everyone had a good time.'",
+      "readingQ": "Who is the most ambitious person in the office?",
+      "readingA": "Anna is the most ambitious person in the office. She wants to be a manager one day.",
+      "speaking": "Tell a friend about the people at a party. Who was the most sociable? Who was the life of the party? Who was the most ambitious?",
+      "speakingSample": "On Friday, our office had a party. Tom was the life of the party. He sang and danced all evening. Tom is the most sociable person in our office, and he is full of energy. Anna is the most ambitious person. She wants to be a manager one day. It was a great party.",
+      "writing": "Write a short email to a friend about a party. Say who was the most sociable, who was the life of the party, and who was the most ambitious.",
+      "writingSample": "Dear Lisa, Our office had a party on Friday, and it was great. Tom was the life of the party. He sang, danced, and talked to everyone. Tom is the most sociable person in our office, and he is full of energy. Anna is the most ambitious person. She wants to be a manager one day. Ben is the most modest person in our team. It was a great party. Best, Sam",
+      "sound": "Sociable has its strongest beat on SO. In sociable, say SHA clearly in the middle. In ambitious, say BISH clearly in the middle.",
+      "model": "My sociable neighbor talks to everyone in the street.",
+      "wordTask": "Who is the most sociable person in the office?",
+      "wordSample": "Tom is the most sociable person in the office. He talked to everyone at the party."
+    },
+    {
+      "unit": 2,
+      "day": 12,
+      "title": "How things make you feel",
+      "goal": "I can talk about feelings with -ing and -ed adjectives.",
+      "newItems": [
+        {
+          "word": "embarrassed",
+          "ipa": "/ɪmˈbærəst/",
+          "pos": "adjective",
+          "definition": "Feeling shy or ashamed about something.",
+          "example": "I was embarrassed when I forgot her name.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "disappointed",
+          "ipa": "/ˌdɪsəˈpɔɪntəd/",
+          "pos": "adjective",
+          "definition": "Sad because something was not as good as you hoped.",
+          "example": "We were disappointed when the trip was cancelled.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "surprising",
+          "ipa": "/sɚˈpraɪzɪŋ/",
+          "pos": "adjective",
+          "definition": "Something you did not expect.",
+          "example": "The news was surprising to everyone.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "in a good mood",
+          "ipa": "/ɪn ə ɡʊd mud/",
+          "pos": "fixed phrase",
+          "definition": "Feeling happy.",
+          "example": "He is in a good mood today.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "in a bad mood",
+          "ipa": "/ɪn ə bæd mud/",
+          "pos": "fixed phrase",
+          "definition": "Feeling unhappy or angry.",
+          "example": "Please be quiet. Dad is in a bad mood.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "happy",
+        "excited",
+        "interested",
+        "surprised",
+        "boring"
+      ],
+      "mainWord": {
+        "word": "embarrassed",
+        "ipa": "/ɪmˈbærəst/",
+        "pos": "adjective",
+        "definition": "Feeling shy or ashamed about something.",
+        "example": "I was embarrassed when I forgot her name.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Embarrassed is an adjective. The comparative is more embarrassed. Embarrassed means feeling shy or ashamed about something. I was embarrassed when I forgot her name.",
+      "pronunciationTarget": {
+        "word": "embarrassed",
+        "ipa": "/ɪmˈbærəst/"
+      },
+      "expression": "I was embarrassed when I forgot the words to the song.",
+      "use": "Use this when you talk about a time you felt shy or ashamed.",
+      "expressionTask": "Sam forgot the words to the song at the party. How did he feel?",
+      "grammar": "-ing and -ed adjectives: The news was surprising; I was surprised",
+      "pattern": "The news was surprising.",
+      "task": "The news was ___.",
+      "answer": "surprising",
+      "example": "The news was surprising.",
+      "context": [
+        "Sam tells Sara about the office party.",
+        "I was embarrassed when I forgot the words to the song. Everyone laughed, but it was fun."
+      ],
+      "dialogue": [
+        "Sam, how was the office party?",
+        "It was surprising. Tom sang, and everyone laughed.",
+        "Were you in a good mood?",
+        "Yes, I was in a good mood. But I was embarrassed when I forgot the words to the song.",
+        "Oh, no. Was Anna in a bad mood?",
+        "No, Anna was not in a bad mood. She smiled and said, 'Sing it again!'"
+      ],
+      "listening": "On Friday, Sam went to the office party. He was in a good mood. Tom sang a song, and Sam sang with him. But Sam forgot the words, and he was embarrassed. Everyone laughed, but it was fun. The news was surprising. Tom can sing very well. It was a great party.",
+      "question": "How did Sam feel when he forgot the words?",
+      "correct": "Embarrassed",
+      "other": "In a bad mood",
+      "reading": "On Friday, Sam went to the office party. He was in a good mood. Tom sang a song, and Sam sang with him. But Sam forgot the words to the song, and he was embarrassed. Everyone laughed, but it was fun. The news was surprising. Tom can sing very well, and everyone was surprised. Sam was not disappointed. He had a great time at the party. On Saturday, Sam was in a bad mood. It rained all day, and he could not go to the park. His friend Tom called him and said, 'Come to my house. We can watch a film.' Sam went to Tom's house. They watched a film, and Sam was in a good mood. A good friend can change a bad day into a good day.",
+      "readingQ": "Why was Sam in a bad mood on Saturday?",
+      "readingA": "It rained all day, and he could not go to the park.",
+      "speaking": "Tell a friend about a time you felt embarrassed or disappointed. What happened? How did you feel? What did you do?",
+      "speakingSample": "On Friday, I went to the office party. I was in a good mood. I sang a song with Tom, but I forgot the words, and I was embarrassed. Everyone laughed, but it was fun. The news was surprising. Tom can sing very well. I was not disappointed. It was a great party, and I had a good time.",
+      "writing": "Write a short email to a friend about your weekend. Say how you felt and what happened.",
+      "writingSample": "Dear Tom, Thank you for Saturday. In the morning, I was in a bad mood. It rained, and I could not go to the park. I was disappointed. Then you called me and said, 'Come to my house. We can watch a film.' I went to your house. We watched a film, and I was in a good mood again. A good friend can change a bad day into a good day. Best, Sam",
+      "sound": "Embarrassed has its strongest beat on BAR. In embarrassed, say RAST clearly at the end. In disappointed, say POINT clearly in the middle.",
+      "model": "I was embarrassed when I forgot the words to the song.",
+      "wordTask": "How did Sam feel when he forgot the words to the song?",
+      "wordSample": "Sam was embarrassed when he forgot the words to the song."
+    },
+    {
+      "unit": 2,
+      "day": 13,
+      "title": "Getting along at work",
+      "goal": "I can talk about getting along with people at work.",
+      "newItems": [
+        {
+          "word": "honest",
+          "ipa": "/ˈɑnəst/",
+          "pos": "adjective",
+          "definition": "Always telling the truth.",
+          "example": "An honest friend tells you the truth.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "punctual",
+          "ipa": "/ˈpʌŋktʃuəl/",
+          "pos": "adjective",
+          "definition": "Always on time.",
+          "example": "She is punctual and never late for work.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "get along with",
+          "ipa": "/ɡɛt əˈlɔŋ wɪð/",
+          "pos": "fixed phrase",
+          "definition": "To have a good relationship with someone.",
+          "example": "I get along with my coworkers very well.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "a team player",
+          "ipa": "/ə tim ˈpleɪɚ/",
+          "pos": "fixed phrase",
+          "definition": "Someone who works well with other people in a team.",
+          "example": "Ben is a team player. He always helps the team.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "a quick learner",
+          "ipa": "/ə kwɪk ˈlɝnɚ/",
+          "pos": "fixed phrase",
+          "definition": "Someone who learns new things fast.",
+          "example": "Sara is a quick learner. She learned the new system in one day.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "work",
+        "team",
+        "job",
+        "help",
+        "meeting"
+      ],
+      "mainWord": {
+        "word": "honest",
+        "ipa": "/ˈɑnəst/",
+        "pos": "adjective",
+        "definition": "Always telling the truth.",
+        "example": "An honest friend tells you the truth.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Honest is an adjective. The comparative is more honest. Honest means always telling the truth. An honest friend tells you the truth.",
+      "pronunciationTarget": {
+        "word": "honest",
+        "ipa": "/ˈɑnəst/"
+      },
+      "expression": "I get along with my coworkers very well.",
+      "use": "Use this when you talk about a good relationship with people at work.",
+      "expressionTask": "Sam talks about his team. How does he get along with his coworkers?",
+      "grammar": "As ... as: Ben is as punctual as Anna",
+      "pattern": "Ben is as punctual as Anna.",
+      "task": "Ben is ___ punctual as Anna.",
+      "answer": "as",
+      "example": "Ben is as punctual as Anna.",
+      "context": [
+        "Sam talks to his friend Tom about his team at work.",
+        "I get along with my coworkers very well. We help each other every day."
+      ],
+      "dialogue": [
+        "Sam, do you get along with your coworkers?",
+        "Yes, I get along with my coworkers very well.",
+        "Who is the most punctual person on your team?",
+        "Anna is as punctual as Ben. They are never late.",
+        "Is Sara a team player?",
+        "Yes, Sara is a team player and a quick learner. She learned the new system in one day."
+      ],
+      "listening": "Sam likes his team at work. He gets along with his coworkers very well. Anna is honest and punctual. Ben is a team player and always helps the team. Sara is a quick learner. She learned the new system in one day. Anna is as punctual as Ben. Sam is happy with his team.",
+      "question": "Who is a quick learner?",
+      "correct": "Sara",
+      "other": "Tom",
+      "reading": "Sam likes his team at work. He gets along with his coworkers very well. They help each other every day. Anna is honest and punctual. She always tells the truth, and she is never late for work. Ben is a team player. He always helps the team, and he shares his ideas with everyone. Sara is a quick learner. She learned the new system in one day, and now she can help other people. Anna is as punctual as Ben. They are both on time every morning. Sam says, 'I am happy with my team. Anna is honest, Ben is a team player, and Sara is a quick learner. We get along very well, and we do good work together.'",
+      "readingQ": "Why is Sara a quick learner?",
+      "readingA": "She learned the new system in one day, and now she can help other people.",
+      "speaking": "Tell a friend about your team at work or at school. Who do you get along with? Who is honest? Who is a team player?",
+      "speakingSample": "I like my team at work. I get along with my coworkers very well. Anna is honest and punctual. She is never late. Ben is a team player. He always helps the team. Sara is a quick learner. She learned the new system in one day. Anna is as punctual as Ben. We do good work together.",
+      "writing": "Write a short email to a friend about your team. Say who you get along with and what each person is like.",
+      "writingSample": "Dear Lisa, I like my team at work. I get along with my coworkers very well. Anna is honest and punctual. She is never late for work. Ben is a team player. He always helps the team and shares his ideas. Sara is a quick learner. She learned the new system in one day. Anna is as punctual as Ben. We help each other every day, and we do good work together. Best, Sam",
+      "sound": "Honest has its strongest beat on ON. In honest, say NEST clearly at the end. In punctual, say PUNC clearly at the start.",
+      "model": "An honest friend tells you the truth.",
+      "wordTask": "Who is a quick learner on Sam's team?",
+      "wordSample": "Sara is a quick learner. She learned the new system in one day."
+    },
+    {
+      "unit": 2,
+      "day": 14,
+      "title": "Family resemblances",
+      "goal": "I can describe my family and say who I take after.",
+      "newItems": [
+        {
+          "word": "thoughtful",
+          "ipa": "/ˈθɔtfəl/",
+          "pos": "adjective",
+          "definition": "Thinking about other people and their needs.",
+          "example": "It was thoughtful of you to bring flowers.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "outgoing",
+          "ipa": "/ˈaʊtˌɡoʊɪŋ/",
+          "pos": "adjective",
+          "definition": "Friendly and enjoying meeting new people.",
+          "example": "Her outgoing sister makes friends everywhere.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "take after",
+          "ipa": "/teɪk ˈæftɚ/",
+          "pos": "fixed phrase",
+          "definition": "To be like an older person in your family.",
+          "example": "She takes after her mother. They are both patient.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "an early bird",
+          "ipa": "/ən ˈɝli bɝd/",
+          "pos": "fixed phrase",
+          "definition": "Someone who likes getting up early.",
+          "example": "My father is an early bird. He gets up at five.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "a night owl",
+          "ipa": "/ə naɪt aʊl/",
+          "pos": "fixed phrase",
+          "definition": "Someone who likes staying up late at night.",
+          "example": "My brother is a night owl. He sleeps at two in the morning.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "mother",
+        "father",
+        "sister",
+        "brother",
+        "family"
+      ],
+      "mainWord": {
+        "word": "thoughtful",
+        "ipa": "/ˈθɔtfəl/",
+        "pos": "adjective",
+        "definition": "Thinking about other people and their needs.",
+        "example": "It was thoughtful of you to bring flowers.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Thoughtful is an adjective. The comparative is more thoughtful. Thoughtful means thinking about other people and their needs. It was thoughtful of you to bring flowers.",
+      "pronunciationTarget": {
+        "word": "thoughtful",
+        "ipa": "/ˈθɔtfəl/"
+      },
+      "expression": "She takes after her mother.",
+      "use": "Use this when someone is like an older person in their family.",
+      "expressionTask": "Sam talks about his sister. Who does she take after?",
+      "grammar": "Take after: She takes after her mother",
+      "pattern": "She takes after her mother.",
+      "task": "She ___ after her mother.",
+      "answer": "takes",
+      "example": "She takes after her mother.",
+      "context": [
+        "Sam talks to Sara about his family.",
+        "She takes after her mother. They are both patient and thoughtful."
+      ],
+      "dialogue": [
+        "Sam, tell me about your family.",
+        "My father is an early bird. He gets up at five every morning.",
+        "And your mother?",
+        "My mother is a night owl. She reads books late at night.",
+        "Who do you take after?",
+        "I take after my father. We both get up early and like quiet mornings."
+      ],
+      "listening": "Sam talks about his family. His father is an early bird. He gets up at five every morning. His mother is a night owl. She reads books late at night. Sam takes after his father. They both like quiet mornings. His sister takes after their mother. She is thoughtful and patient. Sam loves his family.",
+      "question": "Who does Sam take after?",
+      "correct": "His father",
+      "other": "His mother",
+      "reading": "Sam's family is interesting. His father is an early bird. He gets up at five every morning and goes for a walk. His mother is a night owl. She reads books late at night and sleeps late in the morning. Sam takes after his father. They both get up early and like quiet mornings. Sam's sister, Kate, takes after their mother. She is thoughtful and patient, and she likes reading late at night. Kate is outgoing, too. She makes friends everywhere. Sam is more quiet than Kate. He likes reading and listening to music at home. But Sam and Kate get along very well. They both love music, and they often cook dinner together on Sundays.",
+      "readingQ": "Who does Kate take after?",
+      "readingA": "Kate takes after their mother. She is thoughtful and patient.",
+      "speaking": "Tell a friend about your family. Who do you take after? Who is an early bird? Who is a night owl?",
+      "speakingSample": "My father is an early bird. He gets up at five every morning. My mother is a night owl. She reads books late at night. I take after my father. We both like quiet mornings. My sister, Kate, takes after our mother. She is thoughtful and patient. She is outgoing, too, and she makes friends everywhere.",
+      "writing": "Write a short email to a friend about your family. Say who you take after and what each person is like.",
+      "writingSample": "Dear Tom, I want to tell you about my family. My father is an early bird. He gets up at five every morning. My mother is a night owl. She reads books late at night. I take after my father. We both like quiet mornings. My sister, Kate, takes after our mother. She is thoughtful and patient, and she is outgoing, too. She makes friends everywhere. We get along very well. Best, Sam",
+      "sound": "Thoughtful has its strongest beat on THOUGHT. In thoughtful, say THOUGHT clearly at the start. In outgoing, say OUT clearly at the start.",
+      "model": "It was thoughtful of you to bring flowers.",
+      "wordTask": "Who does Kate take after?",
+      "wordSample": "Kate takes after their mother. She is thoughtful and patient."
+    },
+    {
+      "unit": 2,
+      "day": 15,
+      "title": "Someone you admire",
+      "goal": "I can describe someone I admire and say why.",
+      "newItems": [
+        {
+          "word": "talkative",
+          "ipa": "/ˈtɔkətɪv/",
+          "pos": "adjective",
+          "definition": "Talking a lot.",
+          "example": "The talkative driver told us many stories.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "admire",
+          "ipa": "/ædˈmaɪɚ/",
+          "pos": "verb",
+          "definition": "To like and respect someone very much.",
+          "example": "I admire my teacher because she is patient and kind.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "look up to",
+          "ipa": "/lʊk ʌp tə/",
+          "pos": "fixed phrase",
+          "definition": "To admire and respect someone.",
+          "example": "I look up to my teacher.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "a heart of gold",
+          "ipa": "/ə hɑrt ʌv ɡoʊld/",
+          "pos": "fixed phrase",
+          "definition": "A very kind person.",
+          "example": "She has a heart of gold and helps everyone.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "make a good impression",
+          "ipa": "/meɪk ə ɡʊd ɪmˈprɛʃən/",
+          "pos": "fixed phrase",
+          "definition": "To make people think well of you when they first meet you.",
+          "example": "Smile and be polite to make a good impression.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "teacher",
+        "student",
+        "kind",
+        "good",
+        "happy"
+      ],
+      "mainWord": {
+        "word": "talkative",
+        "ipa": "/ˈtɔkətɪv/",
+        "pos": "adjective",
+        "definition": "Talking a lot.",
+        "example": "The talkative driver told us many stories.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Talkative is an adjective. The comparative is more talkative. Talkative means talking a lot. The talkative driver told us many stories.",
+      "pronunciationTarget": {
+        "word": "talkative",
+        "ipa": "/ˈtɔkətɪv/"
+      },
+      "expression": "I look up to my grandfather.",
+      "use": "Use this when you talk about someone you admire and respect.",
+      "expressionTask": "Sam talks about his grandfather. Who does Sam look up to?",
+      "grammar": "Look up to: I look up to + person",
+      "pattern": "I look up to my grandfather.",
+      "task": "I ___ up to my grandfather.",
+      "answer": "look",
+      "example": "I look up to my grandfather.",
+      "context": [
+        "Sam talks to Sara about his grandfather.",
+        "I look up to my grandfather. He has a heart of gold."
+      ],
+      "dialogue": [
+        "Sam, who do you look up to?",
+        "I look up to my grandfather. He is eighty years old.",
+        "What is he like?",
+        "He has a heart of gold. He helps everyone in our street.",
+        "Is he talkative?",
+        "Yes, he is talkative. He tells many stories, and I admire him very much."
+      ],
+      "listening": "Sam talks about his grandfather. He is eighty years old. Sam looks up to him. His grandfather has a heart of gold. He helps everyone in their street. He is talkative and tells many stories. Sam admires him very much. When Sam first met his new teacher, he wanted to make a good impression.",
+      "question": "Who does Sam look up to?",
+      "correct": "His grandfather",
+      "other": "His teacher",
+      "reading": "Sam looks up to his grandfather. His grandfather is eighty years old, and he has a heart of gold. He helps everyone in their street. He is talkative and tells many stories about his life. Sam says, 'I admire my grandfather very much. He is patient and kind. He always listens to me, and he helps me when I have a problem.' Sam wants to be like his grandfather one day. When Sam first met his new teacher, he wanted to make a good impression. He smiled, he was polite, and he listened carefully. His teacher said, 'Sam, you are a good student.' Sam was happy. He thinks a good impression is important. Be polite, smile, and listen. Then people will like you and want to know you.",
+      "readingQ": "Why does Sam admire his grandfather?",
+      "readingA": "His grandfather is patient and kind, he always listens to Sam, and he helps him when he has a problem.",
+      "speaking": "Tell a friend about someone you admire. Who is it? What are they like? Why do you look up to them?",
+      "speakingSample": "I look up to my grandfather. He is eighty years old, and he has a heart of gold. He helps everyone in our street. He is talkative and tells many stories. I admire him very much. He is patient and kind, and he always listens to me. I want to be like him one day.",
+      "writing": "Write a short email to a friend about someone you admire. Say who it is, what they are like, and why you look up to them.",
+      "writingSample": "Dear Lisa, I want to tell you about my grandfather. He is eighty years old, and I look up to him. He has a heart of gold and helps everyone in our street. He is talkative and tells many stories. I admire him very much. He is patient and kind. He always listens to me. When I first met my new teacher, I wanted to make a good impression. Best, Sam",
+      "sound": "Talkative has its strongest beat on TALK. In talkative, say KA clearly in the middle. In admire, say MIRE clearly at the end.",
+      "model": "The talkative driver told us many stories.",
+      "wordTask": "Who does Sam look up to?",
+      "wordSample": "Sam looks up to his grandfather. His grandfather has a heart of gold."
+    },
+    {
+      "unit": 2,
+      "day": 16,
+      "title": "Meet your new neighbors",
+      "goal": "I can describe new neighbors and compare them.",
+      "newItems": [
+        {
+          "word": "determined",
+          "ipa": "/dɪˈtɝmənd/",
+          "pos": "adjective",
+          "definition": "Not giving up, even when things are hard.",
+          "example": "She is determined to learn English well.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "sensitive",
+          "ipa": "/ˈsɛnsətɪv/",
+          "pos": "adjective",
+          "definition": "Easily hurt by what people say or do.",
+          "example": "He is sensitive, so please be kind to him.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "down to earth",
+          "ipa": "/daʊn tə ɝθ/",
+          "pos": "fixed phrase",
+          "definition": "Practical and easy to talk to, not proud.",
+          "example": "Our new manager is down to earth and friendly.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "have a lot in common",
+          "ipa": "/hæv ə lɑt ɪn ˈkɑmən/",
+          "pos": "fixed phrase",
+          "definition": "To share the same interests or ideas.",
+          "example": "We have a lot in common. We both love music.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "see eye to eye",
+          "ipa": "/si aɪ tə aɪ/",
+          "pos": "fixed phrase",
+          "definition": "To agree with someone.",
+          "example": "We do not always see eye to eye, but we are good friends.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "neighbor",
+        "colleague",
+        "patient",
+        "calm",
+        "house"
+      ],
+      "mainWord": {
+        "word": "determined",
+        "ipa": "/dɪˈtɝmənd/",
+        "pos": "adjective",
+        "definition": "Not giving up, even when things are hard.",
+        "example": "She is determined to learn English well.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Determined is an adjective. The comparative is more determined. Determined means not giving up, even when things are hard. She is determined to learn English well.",
+      "pronunciationTarget": {
+        "word": "determined",
+        "ipa": "/dɪˈtɝmənd/"
+      },
+      "expression": "We have a lot in common.",
+      "use": "Use this when you share the same interests or ideas with someone.",
+      "expressionTask": "Sam meets his new neighbors. What do Sam and Mr. Park have in common?",
+      "grammar": "Review: I can describe people and compare them",
+      "pattern": "I can describe people and compare them.",
+      "task": "I can ___ people and compare them.",
+      "answer": "describe",
+      "example": "I can describe people and compare them.",
+      "context": [
+        "Sam meets his new neighbors, the Park family, in the street.",
+        "We have a lot in common. We both love music and cooking."
+      ],
+      "dialogue": [
+        "Good morning. I am Sam. I live in the house next to you.",
+        "Good morning, Sam. I am Mr. Park. This is my wife, Mrs. Park.",
+        "Welcome to our street. What do you like to do?",
+        "We love music and cooking. We have a lot in common.",
+        "Our son, Leo, is determined to learn English well.",
+        "That is great. We are down to earth people. Please come for dinner on Sunday."
+      ],
+      "listening": "Sam meets his new neighbors in the street. Mr. Park is down to earth and friendly. Their son, Leo, is determined to learn English well. Sam and Mr. Park have a lot in common. They both love music and cooking. They do not always see eye to eye, but they are good friends.",
+      "question": "What do Sam and Mr. Park have in common?",
+      "correct": "Music and cooking",
+      "other": "Football and films",
+      "reading": "Sam has new neighbors in his street. Their name is Park, and they moved here last week. Mr. Park is down to earth and friendly. He talks to everyone in the street. Mrs. Park is sensitive, so Sam is kind to her. She likes quiet mornings and reading. Their son, Leo, is sixteen. He is determined to learn English well, and he studies every evening. Sam and Mr. Park have a lot in common. They both love music and cooking. Sam is more talkative than Mr. Park, but Mr. Park is the most patient person in the family. Sam and Mr. Park do not always see eye to eye, but they are good friends. Sam says, 'I like our new neighbors. They are friendly and down to earth.'",
+      "readingQ": "What is Leo determined to do?",
+      "readingA": "Leo is determined to learn English well, and he studies every evening.",
+      "speaking": "Tell a friend about new neighbors or new people you met. What are they like? What do you have in common? Do you always see eye to eye?",
+      "speakingSample": "I have new neighbors in my street. Their name is Park. Mr. Park is down to earth and friendly. Leo, their son, is determined to learn English well. Mr. Park and I have a lot in common. We both love music and cooking. We do not always see eye to eye, but we are good friends.",
+      "writing": "Write a short email to a friend about new neighbors you met. Say what they are like and what you have in common.",
+      "writingSample": "Dear Tom, I have new neighbors. Their name is Park, and they moved here last week. Mr. Park is down to earth and friendly. Mrs. Park is sensitive, so I am kind to her. Their son, Leo, is determined to learn English well. Mr. Park and I have a lot in common. We both love music and cooking. We do not always see eye to eye, but we are good friends. Best, Sam",
+      "sound": "Determined has its strongest beat on MIN. In determined, say MINED clearly at the end. In sensitive, say SEN clearly at the start.",
+      "model": "She is determined to learn English well.",
+      "wordTask": "What are the new neighbors like?",
+      "wordSample": "Mr. Park is down to earth and friendly. Leo is determined to learn English well.",
+      "transferCheck": {
+        "source": "Alex starts an evening English class on Monday. His teacher, Mrs. Green, meets him at the door. She says, 'Welcome! I am Mrs. Green. It is nice to meet you.' Alex's first class is about describing people. He meets a new classmate, David. David is down to earth and easy to talk to. Alex and David have a lot in common. They both love films and cooking. On Friday, Alex gives Mrs. Green an update. He says, 'I have learned many new words, and I can describe people now.' Mrs. Green is happy with Alex's first week.",
+        "dictation": "Alex and David have a lot in common.",
+        "answer": "1. The new student is Alex. His new class is an evening English class on Monday. 2. Alex's new classmate is David. David is down to earth and easy to talk to. 3. On Friday, Alex says, 'I have learned many new words, and I can describe people now.' 4. Alex and David have a lot in common. 5. Sample: On Monday, Alex starts an evening English class. His teacher, Mrs. Green, meets him at the door. She says, 'Welcome!' Alex meets a new classmate, David. David is down to earth and easy to talk to. Alex and David have a lot in common. On Friday, Alex gives Mrs. Green an update. He says, 'I have learned many new words, and I can describe people now.' Follow-up: What do Alex and David have in common? They both love films and cooking.",
+        "tasks": [
+          [
+            "1 · Identify the student and the new class",
+            "Who is the new student, and what is his new class?"
+          ],
+          [
+            "2 · Work out who Alex meets",
+            "Who is Alex's new classmate, and what is he like?"
+          ],
+          [
+            "3 · Notice the update on Friday",
+            "What does Alex say in his update on Friday?"
+          ],
+          [
+            "4 · Listen and write",
+            "Write the sentence you hear."
+          ],
+          [
+            "5 · Retell and answer",
+            "Tell the story in order, including the student, the new class, the new classmate, and the update. Then answer one follow-up question."
+          ]
+        ]
+      }
+    }
+  ]
+}

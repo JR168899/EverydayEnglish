@@ -1,0 +1,905 @@
+{
+  "number": 8,
+  "title": "Shopping and customer service",
+  "lessons": [
+    {
+      "unit": 8,
+      "day": 57,
+      "title": "Buy a new jacket",
+      "goal": "I can talk about buying a jacket and say if it looks good.",
+      "newItems": [
+        {
+          "word": "stylish",
+          "ipa": "/ˈstaɪlɪʃ/",
+          "pos": "adjective",
+          "definition": "Looking good and modern.",
+          "example": "That jacket is stylish.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "striped",
+          "ipa": "/straɪpt/",
+          "pos": "adjective",
+          "definition": "With lines of colour.",
+          "example": "He wears a striped shirt.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "it suits you",
+          "ipa": "/ɪt suts ju/",
+          "pos": "fixed phrase",
+          "definition": "It looks good on you.",
+          "example": "That jacket? It suits you.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "it looks good on you",
+          "ipa": "/ɪt lʊks ɡʊd ɑn ju/",
+          "pos": "fixed phrase",
+          "definition": "It is nice when you wear it.",
+          "example": "That dress looks good on you.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "in a different colour",
+          "ipa": "/ɪn ə ˈdɪfərənt ˈkʌlər/",
+          "pos": "fixed phrase",
+          "definition": "In another colour.",
+          "example": "Do you have it in a different colour?",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "shirt",
+        "dress",
+        "jacket",
+        "blue",
+        "new"
+      ],
+      "mainWord": {
+        "word": "stylish",
+        "ipa": "/ˈstaɪlɪʃ/",
+        "pos": "adjective",
+        "definition": "Looking good and modern.",
+        "example": "That jacket is stylish.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Stylish is an adjective. Stylish means looking good and modern. That jacket is stylish.",
+      "pronunciationTarget": {
+        "word": "stylish",
+        "ipa": "/ˈstaɪlɪʃ/"
+      },
+      "expression": "That jacket suits you.",
+      "use": "Use this when clothes look good on a person.",
+      "expressionTask": "Sam tries on a new jacket. What does Anna say?",
+      "grammar": "too + adjective: This jacket is too long",
+      "pattern": "This jacket is too long.",
+      "task": "This jacket is too ___.",
+      "answer": "long",
+      "example": "This jacket is too long.",
+      "context": [
+        "Sam tries on a new jacket in a shop.",
+        "That jacket suits you. It looks good on you."
+      ],
+      "dialogue": [
+        "Sam, that jacket suits you. It looks good on you.",
+        "Thank you, Anna. Is it stylish?",
+        "Yes, it is very stylish. Do you like the stripes?",
+        "I like this striped jacket. Do you have it in a different colour?",
+        "Yes, we have it in blue and in black.",
+        "Blue is nice. I will take the blue jacket."
+      ],
+      "listening": "Sam goes to a shop to buy a jacket. He tries on a striped jacket. Anna says, 'That jacket suits you. It looks good on you.' Sam likes the jacket. It is stylish. He asks, 'Do you have it in a different colour?' Anna says, 'Yes, in blue.' Sam takes the blue one.",
+      "question": "What does Sam buy?",
+      "correct": "A jacket",
+      "other": "A shirt",
+      "reading": "Sam needs a new jacket for work. On Saturday, he goes to a big shop with Anna. Sam sees a striped jacket in the window. He likes it. It is stylish. Sam tries on the jacket. Anna says, 'It suits you. It looks good on you.' Sam looks in the mirror. The jacket is nice, but it is black. Sam likes blue. He asks, 'Do you have it in a different colour?' Anna says, 'Yes, we have it in blue and in black.' Sam takes the blue jacket. It is stylish and it looks good on him. Sam is happy. He says, 'This jacket suits me. I will wear it to work on Monday.'",
+      "readingQ": "What colour jacket does Sam take?",
+      "readingA": "He takes the blue jacket.",
+      "speaking": "Tell a friend about a jacket you like. What colour is it? Is it stylish? Does it suit you?",
+      "speakingSample": "I like my new jacket. It is blue and striped. It is stylish. My friend says, 'That jacket suits you. It looks good on you.' I am happy. I wear it to work every day. I like blue. Do you have a jacket in a different colour? I want a black jacket too. It looks good on me.",
+      "writing": "Write a short email to a friend about a new jacket you bought. Say what colour it is and if it suits you.",
+      "writingSample": "Dear Tom, I want to tell you about my new jacket. I bought it on Saturday. It is blue and striped. It is stylish. My friend Anna says, 'That jacket suits you. It looks good on you.' I am happy. I wear it to work every day. Do you have a jacket in a different colour? I want a black jacket too. It looks good on me. Best, Sam",
+      "sound": "Stylish has its strongest beat on STY. In stylish, say STY clearly at the start. In striped, say STRIPE clearly at the start.",
+      "model": "That jacket is stylish.",
+      "wordTask": "What does Anna say about Sam's jacket?",
+      "wordSample": "That jacket suits you. It looks good on you."
+    },
+    {
+      "unit": 8,
+      "day": 58,
+      "title": "Ask for help in a shop",
+      "goal": "I can ask for help in a shop and say what I want.",
+      "newItems": [
+        {
+          "word": "fashionable",
+          "ipa": "/ˈfæʃənəbəl/",
+          "pos": "adjective",
+          "definition": "Popular now; in style.",
+          "example": "That dress is fashionable.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "brand",
+          "ipa": "/brænd/",
+          "pos": "noun",
+          "definition": "The name of a thing a company makes.",
+          "example": "This is a good brand.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "silk",
+          "ipa": "/sɪlk/",
+          "pos": "noun",
+          "definition": "Soft, smooth cloth.",
+          "example": "This dress is silk.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "just looking",
+          "ipa": "/dʒʌst ˈlʊkɪŋ/",
+          "pos": "fixed phrase",
+          "definition": "Only looking, not buying now.",
+          "example": "No, thanks. I am just looking.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "too big for me",
+          "ipa": "/tu bɪɡ fɔr mi/",
+          "pos": "fixed phrase",
+          "definition": "Bigger than the size I need.",
+          "example": "This shirt is too big for me.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "help",
+        "shop",
+        "colour",
+        "small",
+        "big"
+      ],
+      "mainWord": {
+        "word": "fashionable",
+        "ipa": "/ˈfæʃənəbəl/",
+        "pos": "adjective",
+        "definition": "Popular now; in style.",
+        "example": "That dress is fashionable.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Fashionable is an adjective. Fashionable means popular now; in style. That dress is fashionable.",
+      "pronunciationTarget": {
+        "word": "fashionable",
+        "ipa": "/ˈfæʃənəbəl/"
+      },
+      "expression": "I am just looking, thank you.",
+      "use": "Use this when you do not want help now.",
+      "expressionTask": "Sam is in a shop. A shop assistant speaks to him. What does Sam say?",
+      "grammar": "Polite questions: Could I try it on, please?",
+      "pattern": "Could I try it on, please?",
+      "task": "Could I ___ it on, please?",
+      "answer": "try",
+      "example": "Could I try it on, please?",
+      "context": [
+        "Sam looks at a fashionable shirt in a shop.",
+        "I am just looking, thank you."
+      ],
+      "dialogue": [
+        "Good morning. Can I help you?",
+        "I am just looking, thank you.",
+        "That shirt is fashionable. It is silk.",
+        "Is it a good brand?",
+        "Yes, it is a good brand. Do you want to try it on?",
+        "It is too big for me. Do you have a small one?"
+      ],
+      "listening": "Sam is in a shop. He looks at a fashionable shirt. The assistant asks, 'Can I help you?' Sam says, 'I am just looking, thank you.' The shirt is silk. It is a good brand. Sam asks, 'Is it too big for me?' The assistant says, 'We have a small one.' Sam is happy.",
+      "question": "What does Sam look at?",
+      "correct": "A shirt",
+      "other": "A jacket",
+      "reading": "Sam goes to a shop to buy a shirt. He sees a fashionable shirt. It is silk, and it is a good brand. A shop assistant comes to Sam and asks, 'Can I help you?' Sam says, 'I am just looking, thank you.' Sam looks at the shirt. It is blue. Sam likes blue. He tries on the shirt. Sam asks, 'Is it too big for me?' The assistant says, 'No, we have a small one. This shirt is fashionable. It is silk.' Sam takes the small shirt. He is happy. He says, 'I like this shirt. It is a good brand.' Sam pays for the shirt and goes home.",
+      "readingQ": "What does Sam buy?",
+      "readingA": "He buys a small shirt.",
+      "speaking": "Tell a friend about shopping for a shirt. What do you ask the assistant? Is the shirt too big for you?",
+      "speakingSample": "I go to a shop to buy a shirt. I see a fashionable shirt. It is silk, and it is a good brand. The assistant asks, 'Can I help you?' I say, 'I am just looking, thank you.' I try on the shirt. Is it too big for me? No, I take a small one. I like this shirt.",
+      "writing": "Write a short email to a friend about shopping for a shirt. Say what the assistant asks and what you buy.",
+      "writingSample": "Dear Tom, I want to tell you about my new shirt. I went to a shop on Saturday. I saw a fashionable shirt. It is silk, and it is a good brand. The assistant asked, 'Can I help you?' I said, 'I am just looking, thank you.' I tried on the shirt. It was too big for me, so I took a small one. I like this shirt. Best, Sam",
+      "sound": "Fashionable has its strongest beat on FASH. In fashionable, say FASH clearly at the start. In brand, say BRAND clearly.",
+      "model": "That shirt is fashionable.",
+      "wordTask": "What does Sam say to the assistant?",
+      "wordSample": "I am just looking, thank you."
+    },
+    {
+      "unit": 8,
+      "day": 59,
+      "title": "Pay at the checkout",
+      "goal": "I can pay at the checkout and understand the price.",
+      "newItems": [
+        {
+          "word": "checkout",
+          "ipa": "/ˈtʃɛkaʊt/",
+          "pos": "noun",
+          "definition": "The place where you pay in a shop.",
+          "example": "Go to the checkout.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "tag",
+          "ipa": "/tæɡ/",
+          "pos": "noun",
+          "definition": "A small card on something with the price.",
+          "example": "Look at the tag.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "barcode",
+          "ipa": "/ˈbɑrkoʊd/",
+          "pos": "noun",
+          "definition": "Black lines on a thing that a shop reads.",
+          "example": "The cashier reads the barcode.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "that comes to",
+          "ipa": "/ðæt kʌmz tə/",
+          "pos": "fixed phrase",
+          "definition": "The price is this much.",
+          "example": "That comes to $25.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "here is your change",
+          "ipa": "/hɪr ɪz jʊər tʃeɪndʒ/",
+          "pos": "fixed phrase",
+          "definition": "Take the money you get back.",
+          "example": "Here is your change.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "pay",
+        "card",
+        "money",
+        "box",
+        "week"
+      ],
+      "mainWord": {
+        "word": "checkout",
+        "ipa": "/ˈtʃɛkaʊt/",
+        "pos": "noun",
+        "definition": "The place where you pay in a shop.",
+        "example": "Go to the checkout.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Checkout is a noun. Checkout means the place where you pay in a shop. Go to the checkout.",
+      "pronunciationTarget": {
+        "word": "checkout",
+        "ipa": "/ˈtʃɛkaʊt/"
+      },
+      "expression": "That comes to $25.",
+      "use": "Use this to say the price you pay.",
+      "expressionTask": "Sam buys a shirt for $25. What does the cashier say?",
+      "grammar": "How much...?: How much is the shirt?",
+      "pattern": "How much is the shirt?",
+      "task": "How much is the ___?",
+      "answer": "shirt",
+      "example": "How much is the shirt?",
+      "context": [
+        "Sam goes to the checkout to pay.",
+        "That comes to $25."
+      ],
+      "dialogue": [
+        "How much is this shirt?",
+        "That comes to $25.",
+        "Can I pay by card?",
+        "Yes, you can pay by card.",
+        "Here is your change. Thank you.",
+        "Thank you. Goodbye."
+      ],
+      "listening": "Sam goes to the checkout to pay for his shirt. The cashier reads the barcode. The cashier says, 'That comes to $25.' Sam pays by card. The cashier says, 'Here is your change. Thank you.' Sam looks at the tag. The shirt is $25. Sam is happy.",
+      "question": "How much is the shirt?",
+      "correct": "$25",
+      "other": "$15",
+      "reading": "Sam takes his shirt to the checkout. He wants to pay. The cashier is a nice woman. She reads the barcode on the tag. The cashier says, 'That comes to $25.' Sam asks, 'How much is the shirt?' The cashier says, 'The shirt is $25.' Sam pays by card. The cashier gives Sam his change and says, 'Here is your change. Thank you.' Sam looks at the tag again. The tag says $25. Sam is happy. He says, 'The shirt is $25. That is a good price.' Sam goes home with his new shirt. Sam likes his new shirt. He will wear it to work on Monday.",
+      "readingQ": "How much is the shirt?",
+      "readingA": "The shirt is $25.",
+      "speaking": "Tell a friend about paying at the checkout. How much is the shirt? How do you pay?",
+      "speakingSample": "I go to the checkout to pay for my shirt. The cashier reads the barcode on the tag. She says, 'That comes to $25.' I pay by card. She says, 'Here is your change. Thank you.' I look at the tag. The shirt is $25. I am happy. I like my new shirt.",
+      "writing": "Write a short email to a friend about buying a shirt. Say how much it is and how you pay.",
+      "writingSample": "Dear Tom, I want to tell you about my new shirt. I bought it on Saturday. It is $25. I went to the checkout to pay. The cashier read the barcode on the tag. She said, 'That comes to $25.' I paid by card. She said, 'Here is your change. Thank you.' I am happy. I like my new shirt. I will wear it to work on Monday. Best, Sam",
+      "sound": "Checkout has its strongest beat on CHECK. In checkout, say CHECK clearly at the start. In barcode, say BAR clearly at the start.",
+      "model": "Go to the checkout to pay.",
+      "wordTask": "How much is the shirt?",
+      "wordSample": "That comes to $25."
+    },
+    {
+      "unit": 8,
+      "day": 60,
+      "title": "Return a shirt that does not fit",
+      "goal": "I can return a shirt and ask for a different one.",
+      "newItems": [
+        {
+          "word": "damaged",
+          "ipa": "/ˈdæmɪdʒd/",
+          "pos": "adjective",
+          "definition": "Broken or hurt in some way.",
+          "example": "The box is damaged.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "faulty",
+          "ipa": "/ˈfɔlti/",
+          "pos": "adjective",
+          "definition": "Not working well.",
+          "example": "The phone is faulty.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "complain",
+          "ipa": "/kəmˈpleɪn/",
+          "pos": "verb",
+          "definition": "To say you are not happy about something.",
+          "example": "I want to complain.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "I would like to exchange this",
+          "ipa": "/aɪ wʊd laɪk tə ɪksˈtʃeɪndʒ ðɪs/",
+          "pos": "fixed phrase",
+          "definition": "I want a different one, please.",
+          "example": "I would like to exchange this.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "it is too tight",
+          "ipa": "/ɪt ɪz tu taɪt/",
+          "pos": "fixed phrase",
+          "definition": "It is too small for me.",
+          "example": "It is too tight.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "book",
+        "phone",
+        "home",
+        "today",
+        "fast"
+      ],
+      "mainWord": {
+        "word": "damaged",
+        "ipa": "/ˈdæmɪdʒd/",
+        "pos": "adjective",
+        "definition": "Broken or hurt in some way.",
+        "example": "The box is damaged.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Damaged is an adjective. Damaged means broken or hurt in some way. The box is damaged.",
+      "pronunciationTarget": {
+        "word": "damaged",
+        "ipa": "/ˈdæmɪdʒd/"
+      },
+      "expression": "I would like to exchange this, please.",
+      "use": "Use this when you want a different one.",
+      "expressionTask": "Sam's shirt is too tight. What does he say in the shop?",
+      "grammar": "Past simple: I bought this shirt yesterday",
+      "pattern": "I bought this shirt yesterday.",
+      "task": "I bought this shirt ___.",
+      "answer": "yesterday",
+      "example": "I bought this shirt yesterday.",
+      "context": [
+        "Sam goes back to the shop with his shirt.",
+        "I would like to exchange this, please."
+      ],
+      "dialogue": [
+        "Good morning. How can I help you?",
+        "I bought this shirt yesterday, but it is too tight.",
+        "I am sorry. Is the shirt damaged?",
+        "No, it is not damaged. It is too small for me.",
+        "I would like to exchange this, please.",
+        "Of course. Here is a bigger shirt."
+      ],
+      "listening": "Sam bought a shirt yesterday, but it is too tight. Sam goes back to the shop. He says, 'I would like to exchange this, please.' The assistant says, 'Is the shirt damaged?' Sam says, 'No, it is not damaged. It is too small for me.' The assistant gives Sam a bigger shirt. Sam is happy.",
+      "question": "Why does Sam go back to the shop?",
+      "correct": "The shirt is too tight",
+      "other": "The shirt is damaged",
+      "reading": "Sam bought a shirt on Saturday. The shirt is blue. On Sunday, Sam tries on the shirt at home. It is too tight. Sam is not happy. He goes back to the shop on Monday. Sam says, 'I bought this shirt yesterday, but it is too tight. I would like to exchange this, please.' The assistant asks, 'Is the shirt damaged? Is it faulty?' Sam says, 'No, it is not damaged. It is not faulty. It is too small for me.' The assistant says, 'I am sorry. Here is a bigger shirt.' Sam tries on the bigger shirt. It is good. Sam says, 'Thank you. I do not want to complain. The new shirt is good.' Sam goes home. He is happy.",
+      "readingQ": "What is wrong with the shirt?",
+      "readingA": "It is too tight.",
+      "speaking": "Tell a friend about returning a shirt. Why do you return it? What do you say in the shop?",
+      "speakingSample": "I bought a shirt on Saturday, but it is too tight. I go back to the shop. I say, 'I would like to exchange this, please.' The assistant asks, 'Is the shirt damaged? Is it faulty?' I say, 'No, it is not damaged. It is too small for me.' The assistant gives me a bigger shirt. I am happy.",
+      "writing": "Write a short email to a friend about returning a shirt. Say why you return it and what the shop gives you.",
+      "writingSample": "Dear Tom, I want to tell you about my shirt. I bought it on Saturday, but it is too tight. I went back to the shop on Monday. I said, 'I would like to exchange this, please.' The assistant asked, 'Is the shirt damaged? Is it faulty?' I said, 'No, it is not damaged. It is too small for me.' The assistant gave me a bigger shirt. I am happy. Best, Sam",
+      "sound": "Damaged has its strongest beat on DAM. In damaged, say DAM clearly at the start. In faulty, say FAULT clearly at the start.",
+      "model": "The box is damaged.",
+      "wordTask": "Why does Sam return the shirt?",
+      "wordSample": "It is too tight. He wants a bigger shirt."
+    },
+    {
+      "unit": 8,
+      "day": 61,
+      "title": "Shop online",
+      "goal": "I can shop online and talk about delivery.",
+      "newItems": [
+        {
+          "word": "trolley",
+          "ipa": "/ˈtrɑli/",
+          "pos": "noun",
+          "definition": "A big basket on wheels in a supermarket.",
+          "example": "Push the trolley.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "grocery",
+          "ipa": "/ˈɡroʊsəri/",
+          "pos": "noun",
+          "definition": "Food you buy in a shop.",
+          "example": "I buy groceries.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "free delivery",
+          "ipa": "/fri dɪˈlɪvəri/",
+          "pos": "fixed phrase",
+          "definition": "The shop brings it to you for no money.",
+          "example": "We have free delivery.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "track my order",
+          "ipa": "/træk maɪ ˈɔrdər/",
+          "pos": "fixed phrase",
+          "definition": "To see where my order is.",
+          "example": "I can track my order online.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "out for delivery",
+          "ipa": "/aʊt fɔr dɪˈlɪvəri/",
+          "pos": "fixed phrase",
+          "definition": "On the way to your home now.",
+          "example": "Your order is out for delivery.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "food",
+        "fruit",
+        "milk",
+        "bread",
+        "store"
+      ],
+      "mainWord": {
+        "word": "trolley",
+        "ipa": "/ˈtrɑli/",
+        "pos": "noun",
+        "definition": "A big basket on wheels in a supermarket.",
+        "example": "Push the trolley.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Trolley is a noun. Trolley means a big basket on wheels in a supermarket. Push the trolley.",
+      "pronunciationTarget": {
+        "word": "trolley",
+        "ipa": "/ˈtrɑli/"
+      },
+      "expression": "Your order is out for delivery.",
+      "use": "Use this to say an order is on the way.",
+      "expressionTask": "Sam orders food online. What does the shop say?",
+      "grammar": "will for delivery: It will arrive on Friday",
+      "pattern": "It will arrive on Friday.",
+      "task": "It will arrive on ___.",
+      "answer": "Friday",
+      "example": "It will arrive on Friday.",
+      "context": [
+        "Sam orders his grocery online.",
+        "Your order is out for delivery."
+      ],
+      "dialogue": [
+        "Sam, did you order the food online?",
+        "Yes, I put the food in my trolley online.",
+        "Is there free delivery?",
+        "Yes, delivery is free. It will arrive on Friday.",
+        "Can I track my order?",
+        "Yes, your order is out for delivery."
+      ],
+      "listening": "Sam orders his grocery online. He puts food and fruit in his trolley. The shop says, 'Delivery is free. It will arrive on Friday.' Sam asks, 'Can I track my order?' The shop says, 'Yes, your order is out for delivery.' Sam is happy. His food will come on Friday.",
+      "question": "When will Sam's food arrive?",
+      "correct": "On Friday",
+      "other": "On Monday",
+      "reading": "Sam is busy this week. He does not go to the store. Sam orders his grocery online. He puts food, fruit, milk, and bread in his trolley. The shop says, 'We have free delivery. It will arrive on Friday.' Sam is happy. He asks, 'Can I track my order?' The shop says, 'Yes, you can track my order online. Your order is out for delivery.' On Friday, Sam is at home. The food comes to his home. Sam looks at the food. The fruit is good. The milk is cold. The bread is fresh. Sam says, 'Online shopping is easy. I put food in my trolley, and the shop brings it to my home. I like free delivery.'",
+      "readingQ": "What does Sam order online?",
+      "readingA": "He orders his grocery online.",
+      "speaking": "Tell a friend about shopping online. What do you order? When will it arrive?",
+      "speakingSample": "I order my grocery online. I put food, fruit, milk, and bread in my trolley. The shop says, 'We have free delivery. It will arrive on Friday.' I ask, 'Can I track my order?' The shop says, 'Your order is out for delivery.' I am happy. Online shopping is easy.",
+      "writing": "Write a short email to a friend about shopping online. Say what you order and when it will arrive.",
+      "writingSample": "Dear Tom, I want to tell you about shopping online. I order my grocery online. I put food, fruit, milk, and bread in my trolley. The shop says, 'We have free delivery. It will arrive on Friday.' I ask, 'Can I track my order?' The shop says, 'Your order is out for delivery.' I am happy. Online shopping is easy. I will shop online again next week. Best, Sam",
+      "sound": "Trolley has its strongest beat on TROL. In trolley, say TROL clearly at the start. In grocery, say GRO clearly at the start.",
+      "model": "Push the trolley.",
+      "wordTask": "When will Sam's food arrive?",
+      "wordSample": "It will arrive on Friday. His order is out for delivery."
+    },
+    {
+      "unit": 8,
+      "day": 62,
+      "title": "Compare two pairs of shoes",
+      "goal": "I can compare two pairs of shoes and say which is better.",
+      "newItems": [
+        {
+          "word": "shoes",
+          "ipa": "/ʃuz/",
+          "pos": "noun",
+          "definition": "Things you wear on your feet.",
+          "example": "I buy new shoes.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "sneakers",
+          "ipa": "/ˈsnikərz/",
+          "pos": "noun",
+          "definition": "Soft shoes for sports.",
+          "example": "I wear sneakers.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "sole",
+          "ipa": "/soʊl/",
+          "pos": "noun",
+          "definition": "The bottom part of a shoe.",
+          "example": "The sole is thick.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "good value for money",
+          "ipa": "/ɡʊd ˈvælju fɔr ˈmʌni/",
+          "pos": "fixed phrase",
+          "definition": "A good thing for the price.",
+          "example": "It is good value for money.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "price tag",
+          "ipa": "/praɪs tæɡ/",
+          "pos": "fixed phrase",
+          "definition": "A small card with the price.",
+          "example": "Look at the price tag.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "foot",
+        "black",
+        "white",
+        "red",
+        "cheap"
+      ],
+      "mainWord": {
+        "word": "shoes",
+        "ipa": "/ʃuz/",
+        "pos": "noun",
+        "definition": "Things you wear on your feet.",
+        "example": "I buy new shoes.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Shoes is a noun. Shoes means things you wear on your feet. I buy new shoes.",
+      "pronunciationTarget": {
+        "word": "shoes",
+        "ipa": "/ʃuz/"
+      },
+      "expression": "These shoes are good value for money.",
+      "use": "Use this when shoes are good for the price.",
+      "expressionTask": "Sam looks at two pairs of shoes. What does he say about the price?",
+      "grammar": "Comparatives: These shoes are cheaper than those shoes",
+      "pattern": "These shoes are cheaper than those shoes.",
+      "task": "These shoes are ___ than those shoes.",
+      "answer": "cheaper",
+      "example": "These shoes are cheaper than those shoes.",
+      "context": [
+        "Sam looks at two pairs of shoes in a shop.",
+        "These shoes are good value for money."
+      ],
+      "dialogue": [
+        "Sam, do you like these sneakers?",
+        "Yes, they are nice. Look at the price tag.",
+        "They are $50. Are they good value for money?",
+        "Yes, they are good value for money. The sole is thick.",
+        "Are these shoes cheaper than those shoes?",
+        "Yes, they are cheaper. I will take these sneakers."
+      ],
+      "listening": "Sam looks at two pairs of shoes. He likes the black sneakers. The price tag says $50. Sam says, 'These shoes are good value for money.' The sole is thick. The white shoes are $80. Sam says, 'These sneakers are cheaper than those shoes.' He takes the black sneakers.",
+      "question": "Which shoes does Sam take?",
+      "correct": "The black sneakers",
+      "other": "The white shoes",
+      "reading": "Sam needs new shoes for work. He goes to a shop with Anna. Sam sees two pairs of shoes. The black sneakers are $50. The white shoes are $80. Sam looks at the price tag. He says, 'These shoes are good value for money.' Anna looks at the black sneakers. The sole is thick. Anna says, 'These sneakers are cheaper than those shoes.' Sam tries on the black sneakers. They are good for his foot. Sam says, 'I like these sneakers. They are good value for money.' He takes the black sneakers. Sam is happy. He says, 'New shoes are good. I will wear them to work.' Sam likes his new shoes.",
+      "readingQ": "How much are the black sneakers?",
+      "readingA": "They are $50.",
+      "speaking": "Tell a friend about two pairs of shoes. Which shoes are cheaper? Which shoes do you take?",
+      "speakingSample": "I look at two pairs of shoes. The black sneakers are $50. The white shoes are $80. I look at the price tag. I say, 'These shoes are good value for money.' The sole is thick. These sneakers are cheaper than those shoes. I take the black sneakers. I am happy.",
+      "writing": "Write a short email to a friend about buying shoes. Say how much they are and why you take them.",
+      "writingSample": "Dear Tom, I want to tell you about my new shoes. I went to a shop on Saturday. I saw two pairs of shoes. The black sneakers are $50. The white shoes are $80. I looked at the price tag. I said, 'These shoes are good value for money.' The sole is thick. These sneakers are cheaper than those shoes. I took the black sneakers. I am happy. Best, Sam",
+      "sound": "Shoes has its strongest beat on SHOES. In shoes, say SHOO clearly. In sneakers, say SNEAK clearly at the start.",
+      "model": "I buy new shoes.",
+      "wordTask": "Which shoes are cheaper?",
+      "wordSample": "The black sneakers are cheaper than the white shoes."
+    },
+    {
+      "unit": 8,
+      "day": 63,
+      "title": "Use coupons and gift cards",
+      "goal": "I can use a coupon and a gift card in a shop.",
+      "newItems": [
+        {
+          "word": "coupon",
+          "ipa": "/ˈkupɑn/",
+          "pos": "noun",
+          "definition": "A paper that gives you a lower price.",
+          "example": "Use this coupon.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "voucher",
+          "ipa": "/ˈvaʊtʃər/",
+          "pos": "noun",
+          "definition": "A paper you can use like money in a shop.",
+          "example": "I have a $20 voucher.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "loyalty card",
+          "ipa": "/ˈlɔɪəlti kɑrd/",
+          "pos": "fixed phrase",
+          "definition": "A card that gives you points in a shop.",
+          "example": "Do you have a loyalty card?",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "gift card",
+          "ipa": "/ɡɪft kɑrd/",
+          "pos": "fixed phrase",
+          "definition": "A card you can use like money in a shop.",
+          "example": "I have a gift card.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "buy one, get one free",
+          "ipa": "/baɪ wʌn ɡɛt wʌn fri/",
+          "pos": "fixed phrase",
+          "definition": "Buy one thing and get a second one free.",
+          "example": "Buy one, get one free.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "gift",
+        "free",
+        "save",
+        "much",
+        "good"
+      ],
+      "mainWord": {
+        "word": "coupon",
+        "ipa": "/ˈkupɑn/",
+        "pos": "noun",
+        "definition": "A paper that gives you a lower price.",
+        "example": "Use this coupon.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Coupon is a noun. Coupon means a paper that gives you a lower price. Use this coupon.",
+      "pronunciationTarget": {
+        "word": "coupon",
+        "ipa": "/ˈkupɑn/"
+      },
+      "expression": "Buy one, get one free.",
+      "use": "Use this when a shop has a special price.",
+      "expressionTask": "Sam sees a sign in a shop. What does the sign say?",
+      "grammar": "First conditional: If you use a coupon, you will save money",
+      "pattern": "If you use a coupon, you will save money.",
+      "task": "If you use a coupon, you will ___ money.",
+      "answer": "save",
+      "example": "If you use a coupon, you will save money.",
+      "context": [
+        "Sam sees a sign in the shop.",
+        "Buy one, get one free."
+      ],
+      "dialogue": [
+        "Sam, do you have a loyalty card?",
+        "Yes, I have a loyalty card and a gift card.",
+        "Do you have a coupon?",
+        "Yes, I have a coupon. It is $10.",
+        "Buy one, get one free. That is good.",
+        "Yes, if you use a coupon, you will save money."
+      ],
+      "listening": "Sam goes to a shop with a coupon and a gift card. He has a loyalty card too. Sam sees a sign: 'Buy one, get one free.' Sam asks, 'Can I use my voucher?' The assistant says, 'Yes, you can use your voucher. If you use a coupon, you will save money.' Sam is happy.",
+      "question": "What does Sam have?",
+      "correct": "A coupon and a gift card",
+      "other": "A new shirt",
+      "reading": "Sam goes to a shop on Saturday. He has a coupon and a gift card. He has a loyalty card too. Sam sees a sign in the shop. The sign says, 'Buy one, get one free.' Sam is happy. He asks the assistant, 'Can I use my voucher?' The assistant says, 'Yes, you can use your voucher. If you use a coupon, you will save money.' Sam buys two shirts. He uses his coupon. He uses his gift card too. Sam saves much money. He says, 'I like this shop. Buy one, get one free. That is good.' Sam goes home with two new shirts. He is happy. Sam will shop here again.",
+      "readingQ": "What does Sam save?",
+      "readingA": "He saves much money.",
+      "speaking": "Tell a friend about using a coupon. What do you have? How much money do you save?",
+      "speakingSample": "I go to a shop with a coupon and a gift card. I have a loyalty card too. I see a sign: 'Buy one, get one free.' I ask, 'Can I use my voucher?' The assistant says, 'Yes, you can use your voucher. If you use a coupon, you will save money.' I am happy. I save much money.",
+      "writing": "Write a short email to a friend about using a coupon. Say what you have and how much money you save.",
+      "writingSample": "Dear Tom, I want to tell you about my shopping. I went to a shop on Saturday. I had a coupon and a gift card. I had a loyalty card too. I saw a sign: 'Buy one, get one free.' I asked, 'Can I use my voucher?' The assistant said, 'Yes, you can use your voucher. If you use a coupon, you will save money.' I saved much money. I am happy. Best, Sam",
+      "sound": "Coupon has its strongest beat on COO. In coupon, say COO clearly at the start. In voucher, say VOW clearly at the start.",
+      "model": "Use this coupon.",
+      "wordTask": "What does the sign say?",
+      "wordSample": "Buy one, get one free."
+    },
+    {
+      "unit": 8,
+      "day": 64,
+      "title": "Buy a present for a friend",
+      "goal": "I can use shopping English in a new situation.",
+      "newItems": [
+        {
+          "word": "denim",
+          "ipa": "/ˈdɛnɪm/",
+          "pos": "noun",
+          "definition": "Strong blue cloth for jeans.",
+          "example": "These jeans are denim.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "handmade",
+          "ipa": "/ˈhændˌmeɪd/",
+          "pos": "adjective",
+          "definition": "Made by hand.",
+          "example": "A handmade bag.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "window shopping",
+          "ipa": "/ˈwɪndoʊ ˈʃɑpɪŋ/",
+          "pos": "fixed phrase",
+          "definition": "Looking at shop windows, not buying.",
+          "example": "We go window shopping.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "a waste of money",
+          "ipa": "/ə weɪst ʌv ˈmʌni/",
+          "pos": "fixed phrase",
+          "definition": "Money spent on something not good.",
+          "example": "It was a waste of money.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "do you take credit cards",
+          "ipa": "/du ju teɪk ˈkrɛdɪt kɑrdz/",
+          "pos": "fixed phrase",
+          "definition": "Can I pay with a card?",
+          "example": "Do you take credit cards?",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "friend",
+        "mother",
+        "happy",
+        "look",
+        "buy"
+      ],
+      "mainWord": {
+        "word": "denim",
+        "ipa": "/ˈdɛnɪm/",
+        "pos": "noun",
+        "definition": "Strong blue cloth for jeans.",
+        "example": "These jeans are denim.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Denim is a noun. Denim means strong blue cloth for jeans. These jeans are denim.",
+      "pronunciationTarget": {
+        "word": "denim",
+        "ipa": "/ˈdɛnɪm/"
+      },
+      "expression": "Do you take credit cards?",
+      "use": "Use this to ask how you can pay.",
+      "expressionTask": "Emma buys a present in a shop. What does she ask?",
+      "grammar": "Review: I can use shopping English in a new situation",
+      "pattern": "I can use shopping English in a new situation.",
+      "task": "I can use shopping English in a new ___.",
+      "answer": "situation",
+      "example": "I can use shopping English in a new situation.",
+      "context": [
+        "Emma buys a birthday present for her mother.",
+        "Do you take credit cards?"
+      ],
+      "dialogue": [
+        "Emma, what are you doing today?",
+        "I am going window shopping with my mother.",
+        "I want to buy a handmade bag. Is it a waste of money?",
+        "No, it is not a waste of money. It is a good present.",
+        "These jeans are denim. Do you like them?",
+        "Yes, I like them. Do you take credit cards?"
+      ],
+      "listening": "Emma buys a birthday present for her mother. She goes window shopping. Emma sees a handmade bag. It is not a waste of money. Emma also sees denim jeans. She asks, 'Do you take credit cards?' The assistant says, 'Yes, we do.' Emma is happy.",
+      "question": "What does Emma buy?",
+      "correct": "A present for her mother",
+      "other": "Shoes for herself",
+      "reading": "Emma wants to buy a birthday present for her mother. On Saturday, Emma goes window shopping with her friend. Emma sees a handmade bag in a shop. It is nice. Emma says, 'This bag is not a waste of money. It is a good present.' Emma also sees denim jeans. She likes them. Emma asks the assistant, 'Do you take credit cards?' The assistant says, 'Yes, we take credit cards.' Emma buys the handmade bag and the denim jeans. She is happy. Emma says, 'My mother will like this bag. It is handmade. I like window shopping with my friend.' Emma goes home with her presents. She will give the bag to her mother on Sunday.",
+      "readingQ": "What does Emma buy?",
+      "readingA": "She buys a handmade bag and denim jeans.",
+      "speaking": "Tell a friend about buying a present. What do you buy? How do you pay?",
+      "speakingSample": "I want to buy a birthday present for my mother. I go window shopping with my friend. I see a handmade bag. It is not a waste of money. I also see denim jeans. I ask, 'Do you take credit cards?' The assistant says, 'Yes, we do.' I buy the bag and the jeans. I am happy.",
+      "writing": "Write a short email to a friend about buying a present. Say what you buy and how you pay.",
+      "writingSample": "Dear Tom, I want to tell you about my shopping. I went window shopping with my friend on Saturday. I wanted to buy a birthday present for my mother. I saw a handmade bag. It is not a waste of money. I also saw denim jeans. I asked, 'Do you take credit cards?' The assistant said, 'Yes, we do.' I bought the bag and the jeans. I am happy. Best, Emma",
+      "sound": "Denim has its strongest beat on DEN. In denim, say DEN clearly at the start. In handmade, say HAND clearly at the start.",
+      "model": "These jeans are denim.",
+      "wordTask": "What does Emma ask in the shop?",
+      "wordSample": "Do you take credit cards?",
+      "transferCheck": {
+        "source": "Emma buys a birthday present for her mother. She goes window shopping with her friend. Emma sees a handmade bag in a shop. It is not a waste of money. Emma asks, 'Do you take credit cards?' The assistant says, 'Yes, we take credit cards.' Emma buys the handmade bag and the denim jeans. She is happy. Emma says, 'My mother will like this bag.'",
+        "dictation": "Emma buys a handmade bag for her mother.",
+        "answer": "1. Emma buys a birthday present for her mother. She goes window shopping with her friend. 2. Emma sees a handmade bag. It is not a waste of money. 3. Emma asks, 'Do you take credit cards?' The assistant says, 'Yes, we take credit cards.' 4. Emma buys the handmade bag and the denim jeans. She is happy. 5. Sample: Emma buys a birthday present for her mother. She goes window shopping with her friend. Emma sees a handmade bag. It is not a waste of money. Emma asks, 'Do you take credit cards?' The assistant says, 'Yes, we take credit cards.' Emma buys the handmade bag and the denim jeans. She is happy. Follow-up: What does Emma buy? She buys a handmade bag and denim jeans.",
+        "tasks": [
+          [
+            "1 · Identify the present and the person",
+            "What does Emma buy, and who is it for?"
+          ],
+          [
+            "2 · Work out what Emma thinks about the bag",
+            "Is the bag a waste of money?"
+          ],
+          [
+            "3 · Notice how Emma asks about paying",
+            "What does Emma ask the assistant?"
+          ],
+          [
+            "4 · Listen and write",
+            "Write the sentence you hear."
+          ],
+          [
+            "5 · Retell and answer",
+            "Tell the story in order, including the present, the bag, the jeans, and the payment. Then answer one follow-up question."
+          ]
+        ]
+      }
+    }
+  ]
+}

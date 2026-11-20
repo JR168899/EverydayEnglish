@@ -1,0 +1,905 @@
+{
+  "number": 22,
+  "title": "Learning and education",
+  "lessons": [
+    {
+      "unit": 22,
+      "day": 169,
+      "title": "School days",
+      "goal": "I can talk about school days.",
+      "newItems": [
+        {
+          "word": "curriculum",
+          "ipa": "/kəˈrɪkjələm/",
+          "pos": "noun",
+          "definition": "The subjects in a school course.",
+          "example": "The new curriculum has more science.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "semester",
+          "ipa": "/sɪˈmɛstɚ/",
+          "pos": "noun",
+          "definition": "One half of a school year.",
+          "example": "The new semester starts in September.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "back to school",
+          "ipa": "/bæk tə skul/",
+          "pos": "fixed phrase",
+          "definition": "Going to school again after a break.",
+          "example": "We go back to school in September.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "first day at school",
+          "ipa": "/fɝst deɪ ət skul/",
+          "pos": "fixed phrase",
+          "definition": "The first time you go to a new school.",
+          "example": "My first day at school was fun.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "school days",
+          "ipa": "/skul deɪz/",
+          "pos": "fixed phrase",
+          "definition": "The time when you are a student.",
+          "example": "I miss my school days.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "school",
+        "teacher",
+        "student",
+        "book",
+        "class"
+      ],
+      "mainWord": {
+        "word": "curriculum",
+        "ipa": "/kəˈrɪkjələm/",
+        "pos": "noun",
+        "definition": "The subjects in a school course.",
+        "example": "The new curriculum has more science.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Curriculum is a noun. Curriculum means the subjects in a school course. The new curriculum has more science.",
+      "pronunciationTarget": {
+        "word": "curriculum",
+        "ipa": "/kəˈrɪkjələm/"
+      },
+      "expression": "We go back to school in September.",
+      "use": "Use this when you talk about going to school again.",
+      "expressionTask": "Tom and Lily talk about school days. What do they say?",
+      "grammar": "present simple for school days: School days are happy days",
+      "pattern": "School days are happy days.",
+      "task": "School days ___ happy days.",
+      "answer": "are",
+      "example": "School days are happy days.",
+      "context": [
+        "Tom and Lily talk about school days.",
+        "Tom says, 'We go back to school in September. My first day at school was fun.'"
+      ],
+      "dialogue": [
+        "Lily, what is a curriculum?",
+        "It is the subjects in a school course. The new curriculum has more science.",
+        "What is a semester?",
+        "It is one half of a school year. The new semester starts in September.",
+        "Do you like school days?",
+        "Yes. I miss my school days. We go back to school in September."
+      ],
+      "listening": "Tom and Lily talk about school days. Tom says, 'We go back to school in September. My first day at school was fun.' Lily says, 'What is a curriculum?' Tom says, 'It is the subjects in a school course.' Lily says, 'What is a semester?' Tom says, 'It is one half of a school year.'",
+      "question": "When do Tom and Lily go back to school?",
+      "correct": "In September",
+      "other": "In June",
+      "reading": "On Monday, Tom and Lily talk about school days. Tom says, 'We go back to school in September. My first day at school was fun. School days are happy days.' Lily says, 'What is a curriculum?' Tom says, 'It is the subjects in a school course. The new curriculum has more science. A curriculum tells us what we learn at school.' Lily says, 'What is a semester?' Tom says, 'It is one half of a school year. The new semester starts in September. I like school days. We learn new things at school. I miss my school days. We read books and play games at school. School is a good place for all of us.'",
+      "readingQ": "When do Tom and Lily go back to school?",
+      "readingA": "In September.",
+      "speaking": "Tell a friend about school days. What do you say?",
+      "speakingSample": "I talk about school days with my friend Tom. We go back to school in September. My first day at school was fun. School days are happy days. The new curriculum has more science. The new semester starts in September. I miss my school days. We learn new things at school. I like school days very much.",
+      "writing": "Write a short email to a friend about school days. Say what you do.",
+      "writingSample": "Dear Anna, I want to tell you about school days. We go back to school in September. My first day at school was fun. School days are happy days. The new curriculum has more science. The new semester starts in September. I miss my school days. We learn new things at school. We read books and play games at school. I like school days very much. See you soon. Best, Lily",
+      "sound": "Curriculum has its strongest beat on RIC. In curriculum, say RIC clearly in the middle. In semester, say MES clearly in the middle.",
+      "model": "The new curriculum has more science.",
+      "wordTask": "What is a curriculum?",
+      "wordSample": "The subjects in a school course."
+    },
+    {
+      "unit": 22,
+      "day": 170,
+      "title": "A new school",
+      "goal": "I can talk about a new school.",
+      "newItems": [
+        {
+          "word": "principal",
+          "ipa": "/ˈprɪnsəpəl/",
+          "pos": "noun",
+          "definition": "The head teacher of a school.",
+          "example": "The principal talks to the students.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "dormitory",
+          "ipa": "/ˈdɔrmɪˌtɔri/",
+          "pos": "noun",
+          "definition": "A building where students live.",
+          "example": "He lives in a dormitory at school.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "syllabus",
+          "ipa": "/ˈsɪləbəs/",
+          "pos": "noun",
+          "definition": "A list of what a course will teach.",
+          "example": "The syllabus has ten lessons.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "start school",
+          "ipa": "/stɑrt skul/",
+          "pos": "fixed phrase",
+          "definition": "To begin to go to school.",
+          "example": "Children start school at five.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "go to class",
+          "ipa": "/ɡoʊ tə klæs/",
+          "pos": "fixed phrase",
+          "definition": "To be in a lesson.",
+          "example": "I go to class every morning.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "new",
+        "friend",
+        "morning",
+        "room",
+        "door"
+      ],
+      "mainWord": {
+        "word": "principal",
+        "ipa": "/ˈprɪnsəpəl/",
+        "pos": "noun",
+        "definition": "The head teacher of a school.",
+        "example": "The principal talks to the students.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Principal is a noun. Principal means the head teacher of a school. The principal talks to the students.",
+      "pronunciationTarget": {
+        "word": "principal",
+        "ipa": "/ˈprɪnsəpəl/"
+      },
+      "expression": "I start school on Monday.",
+      "use": "Use this when you talk about a new school.",
+      "expressionTask": "Tom and Lily talk about a new school. What do they say?",
+      "grammar": "comparatives: A new school is bigger than my old school",
+      "pattern": "A new school is bigger than my old school.",
+      "task": "A new school is ___ than my old school.",
+      "answer": "bigger",
+      "example": "A new school is bigger than my old school.",
+      "context": [
+        "Tom and Lily talk about a new school.",
+        "Tom says, 'I start school on Monday. I go to class every morning.'"
+      ],
+      "dialogue": [
+        "Lily, what is a principal?",
+        "The principal is the head teacher of a school. The principal talks to the students.",
+        "Where do the students live?",
+        "Some live in a dormitory at school. He lives in a dormitory at school.",
+        "What is a syllabus?",
+        "It is a list of what a course will teach. The syllabus has ten lessons."
+      ],
+      "listening": "Tom and Lily talk about a new school. Tom says, 'I start school on Monday. I go to class every morning.' Lily says, 'What is a principal?' Tom says, 'The principal is the head teacher of a school.' Lily says, 'Where do the students live?' Tom says, 'Some live in a dormitory at school.'",
+      "question": "What does Tom do on Monday?",
+      "correct": "Start school",
+      "other": "Go home",
+      "reading": "On Tuesday, Tom and Lily talk about a new school. Tom says, 'I start school on Monday. I go to class every morning. A new school is bigger than my old school.' Lily says, 'What is a principal?' Tom says, 'The principal is the head teacher of a school. The principal talks to the students. A principal is kind and fair.' Lily says, 'Where do the students live?' Tom says, 'Some live in a dormitory at school. He lives in a dormitory at school. A dormitory is a building where students live.' Lily says, 'What is a syllabus?' Tom says, 'It is a list of what a course will teach. The syllabus has ten lessons. I like my new school very much.'",
+      "readingQ": "What does Tom do on Monday?",
+      "readingA": "Start school.",
+      "speaking": "Tell a friend about a new school. What do you say?",
+      "speakingSample": "I talk about a new school with my friend Tom. I start school on Monday. I go to class every morning. A new school is bigger than my old school. The principal is the head teacher of a school. He lives in a dormitory at school. The syllabus has ten lessons. I like my new school very much.",
+      "writing": "Write a short email to a friend about a new school. Say what happens.",
+      "writingSample": "Dear Anna, I want to tell you about a new school. I start school on Monday. I go to class every morning. A new school is bigger than my old school. The principal is the head teacher of a school. He lives in a dormitory at school. The syllabus has ten lessons. I like my new school very much. We learn new things every day. See you soon. Best, Lily",
+      "sound": "Principal has its strongest beat on PRIN. In principal, say PRIN clearly at the start. In dormitory, say DOR clearly at the start.",
+      "model": "The principal talks to the students.",
+      "wordTask": "What is a principal?",
+      "wordSample": "The head teacher of a school."
+    },
+    {
+      "unit": 22,
+      "day": 171,
+      "title": "Studying hard",
+      "goal": "I can talk about studying hard.",
+      "newItems": [
+        {
+          "word": "memorize",
+          "ipa": "/ˈmɛməˌraɪz/",
+          "pos": "verb",
+          "definition": "To learn something and keep it in your mind.",
+          "example": "I memorize new words every day.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "revision",
+          "ipa": "/rɪˈvɪʒən/",
+          "pos": "noun",
+          "definition": "Study to get ready for a test.",
+          "example": "Revision helps me in the exam.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "study hard",
+          "ipa": "/ˈstʌdi hɑrd/",
+          "pos": "fixed phrase",
+          "definition": "To work hard at lessons.",
+          "example": "I study hard every day.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "learn by heart",
+          "ipa": "/lɝn baɪ hɑrt/",
+          "pos": "fixed phrase",
+          "definition": "To learn something and remember it well.",
+          "example": "I learn new words by heart.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "hit the books",
+          "ipa": "/hɪt ðə bʊks/",
+          "pos": "fixed phrase",
+          "definition": "To start to study hard.",
+          "example": "It is time to hit the books.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "read",
+        "write",
+        "learn",
+        "lesson",
+        "test"
+      ],
+      "mainWord": {
+        "word": "memorize",
+        "ipa": "/ˈmɛməˌraɪz/",
+        "pos": "verb",
+        "definition": "To learn something and keep it in your mind.",
+        "example": "I memorize new words every day.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Memorize is a verb. Memorize means to learn something and keep it in your mind. I memorize new words every day.",
+      "pronunciationTarget": {
+        "word": "memorize",
+        "ipa": "/ˈmɛməˌraɪz/"
+      },
+      "expression": "I learn new words by heart.",
+      "use": "Use this when you talk about learning words.",
+      "expressionTask": "Tom and Lily talk about studying hard. What do they say?",
+      "grammar": "past simple for study stories: We studied hard last night",
+      "pattern": "We studied hard last night.",
+      "task": "We ___ hard last night.",
+      "answer": "studied",
+      "example": "We studied hard last night.",
+      "context": [
+        "Tom and Lily talk about studying hard.",
+        "Tom says, 'I learn new words by heart. I study hard every day.'"
+      ],
+      "dialogue": [
+        "Lily, how do you learn new words?",
+        "I memorize new words every day. I learn new words by heart.",
+        "What is revision?",
+        "It is study to get ready for a test. Revision helps me in the exam.",
+        "Are you diligent?",
+        "Yes. I study hard every day. It is time to hit the books."
+      ],
+      "listening": "Tom and Lily talk about studying hard. Tom says, 'I learn new words by heart. I study hard every day.' Lily says, 'How do you learn new words?' Tom says, 'I memorize new words every day.' Lily says, 'What is revision?' Tom says, 'It is study to get ready for a test.'",
+      "question": "How does Tom learn new words?",
+      "correct": "By heart",
+      "other": "By car",
+      "reading": "On Wednesday, Tom and Lily talk about studying hard. Tom says, 'I learn by heart every day. I study hard every day. We studied hard last night.' Lily says, 'How do you learn new words?' Tom says, 'I memorize new words every day. To memorize is to learn something and keep it in your mind. I am a diligent student.' Lily says, 'What is revision?' Tom says, 'It is study to get ready for a test. Revision helps me in the exam. I study hard and I do well. It is time to hit the books. I read my books and write in my notebook. Studying hard is good for all of us.'",
+      "readingQ": "How does Tom learn new words?",
+      "readingA": "By heart.",
+      "speaking": "Tell a friend about studying hard. What do you say?",
+      "speakingSample": "I talk about studying hard with my friend Tom. I learn new words by heart. I study hard every day. We studied hard last night. I memorize new words every day. Revision helps me in the exam. It is time to hit the books. Studying hard is good for all of us.",
+      "writing": "Write a short email to a friend about studying hard. Say what you do.",
+      "writingSample": "Dear Anna, I want to tell you about studying hard. I learn new words by heart. I study hard every day. We studied hard last night. I memorize new words every day. Revision helps me in the exam. It is time to hit the books. I read my books and write in my notebook. Studying hard is good for all of us. See you soon. Best, Lily",
+      "sound": "Memorize has its strongest beat on MEM. In memorize, say MEM clearly at the start. In revision, say VISION clearly at the end.",
+      "model": "I memorize new words every day.",
+      "wordTask": "What does memorize mean?",
+      "wordSample": "To learn something and keep it in your mind."
+    },
+    {
+      "unit": 22,
+      "day": 172,
+      "title": "Exams and tests",
+      "goal": "I can talk about exams and tests.",
+      "newItems": [
+        {
+          "word": "scholarship",
+          "ipa": "/ˈskɑlɚʃɪp/",
+          "pos": "noun",
+          "definition": "Money to help you study at school.",
+          "example": "She got a scholarship for her study.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "diploma",
+          "ipa": "/dɪˈploʊmə/",
+          "pos": "noun",
+          "definition": "A paper that shows you finished school.",
+          "example": "He got his diploma in June.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "fail an exam",
+          "ipa": "/feɪl ən ɪɡˈzæm/",
+          "pos": "fixed phrase",
+          "definition": "To not do well in a test.",
+          "example": "He did not want to fail an exam.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "get a good grade",
+          "ipa": "/ɡɛt ə ɡʊd ɡreɪd/",
+          "pos": "fixed phrase",
+          "definition": "To do well in school work.",
+          "example": "She wants to get a good grade.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "top of the class",
+          "ipa": "/tɑp ʌv ðə klæs/",
+          "pos": "fixed phrase",
+          "definition": "The best student in a class.",
+          "example": "He is at the top of the class.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "good",
+        "bad",
+        "hard",
+        "easy",
+        "time"
+      ],
+      "mainWord": {
+        "word": "scholarship",
+        "ipa": "/ˈskɑlɚʃɪp/",
+        "pos": "noun",
+        "definition": "Money to help you study at school.",
+        "example": "She got a scholarship for her study.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Scholarship is a noun. Scholarship means money to help you study at school. She got a scholarship for her study.",
+      "pronunciationTarget": {
+        "word": "scholarship",
+        "ipa": "/ˈskɑlɚʃɪp/"
+      },
+      "expression": "I want to get a good grade.",
+      "use": "Use this when you talk about doing well in school.",
+      "expressionTask": "Tom and Lily talk about exams and tests. What do they say?",
+      "grammar": "present continuous for plans: We are studying for the test today",
+      "pattern": "We are studying for the test today.",
+      "task": "We are ___ for the test today.",
+      "answer": "studying",
+      "example": "We are studying for the test today.",
+      "context": [
+        "Tom and Lily talk about exams and tests.",
+        "Tom says, 'I want to get a good grade. He is at the top of the class.'"
+      ],
+      "dialogue": [
+        "Lily, what is a scholarship?",
+        "It is money to help you study at school. She got a scholarship for her study.",
+        "What is a diploma?",
+        "It is a paper that shows you finished school. He got his diploma in June.",
+        "Do you want to fail an exam?",
+        "No. I want to get a good grade. I study hard every day."
+      ],
+      "listening": "Tom and Lily talk about exams and tests. Tom says, 'I want to get a good grade.' Lily says, 'What is a scholarship?' Tom says, 'It is money to help you study at school.' Lily says, 'What is a diploma?' Tom says, 'It is a paper that shows you finished school.'",
+      "question": "What does Tom want to get?",
+      "correct": "A good grade",
+      "other": "A new book",
+      "reading": "On Thursday, Tom and Lily talk about exams and tests. Tom says, 'I want to get a good grade. He is at the top of the class. We are studying for the test today.' Lily says, 'What is a scholarship?' Tom says, 'It is money to help you study at school. She got a scholarship for her study. A scholarship is a big help.' Lily says, 'What is a diploma?' Tom says, 'It is a paper that shows you finished school. He got his diploma in June. A diploma is a big prize for a student.' Lily says, 'Do you want to fail an exam?' Tom says, 'No. I study hard every day. I want to do well in my tests.'",
+      "readingQ": "What does Tom want to get?",
+      "readingA": "A good grade.",
+      "speaking": "Tell a friend about exams and tests. What do you say?",
+      "speakingSample": "I talk about exams and tests with my friend Tom. I want to get a good grade. He is at the top of the class. We are studying for the test today. She got a scholarship for her study. He got his diploma in June. I do not want to fail an exam. I study hard every day.",
+      "writing": "Write a short email to a friend about exams and tests. Say what you do.",
+      "writingSample": "Dear Anna, I want to tell you about exams and tests. I want to get a good grade. He is at the top of the class. We are studying for the test today. She got a scholarship for her study. He got his diploma in June. I do not want to fail an exam. I study hard every day. I want to do well in my tests. See you soon. Best, Lily",
+      "sound": "Scholarship has its strongest beat on SCHOL. In scholarship, say SCHOL clearly at the start. In diploma, say PLO clearly in the middle.",
+      "model": "She got a scholarship for her study.",
+      "wordTask": "What is a scholarship?",
+      "wordSample": "Money to help you study at school."
+    },
+    {
+      "unit": 22,
+      "day": 173,
+      "title": "Learning a language",
+      "goal": "I can talk about learning a language.",
+      "newItems": [
+        {
+          "word": "lecture",
+          "ipa": "/ˈlɛktʃɚ/",
+          "pos": "noun",
+          "definition": "A talk a teacher gives to a class.",
+          "example": "The lecture starts at nine.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "seminar",
+          "ipa": "/ˈsɛmɪˌnɑr/",
+          "pos": "noun",
+          "definition": "A small class for talking and study.",
+          "example": "We have a seminar on Friday.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "tutor",
+          "ipa": "/ˈtutɚ/",
+          "pos": "noun",
+          "definition": "A teacher who helps one student.",
+          "example": "My tutor helps me with English.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "learn a language",
+          "ipa": "/lɝn ə ˈlæŋɡwɪdʒ/",
+          "pos": "fixed phrase",
+          "definition": "To study how to speak a language.",
+          "example": "I learn a language at school.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "learn something new",
+          "ipa": "/lɝn ˈsʌmθɪŋ nu/",
+          "pos": "fixed phrase",
+          "definition": "To get new knowledge.",
+          "example": "I learn something new every day.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "speak",
+        "listen",
+        "talk",
+        "help",
+        "work"
+      ],
+      "mainWord": {
+        "word": "lecture",
+        "ipa": "/ˈlɛktʃɚ/",
+        "pos": "noun",
+        "definition": "A talk a teacher gives to a class.",
+        "example": "The lecture starts at nine.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Lecture is a noun. Lecture means a talk a teacher gives to a class. The lecture starts at nine.",
+      "pronunciationTarget": {
+        "word": "lecture",
+        "ipa": "/ˈlɛktʃɚ/"
+      },
+      "expression": "I learn a language at school.",
+      "use": "Use this when you talk about learning a language.",
+      "expressionTask": "Tom and Lily talk about learning a language. What do they say?",
+      "grammar": "will for the future: I will learn a new language",
+      "pattern": "I will learn a new language.",
+      "task": "I ___ learn a new language.",
+      "answer": "will",
+      "example": "I will learn a new language.",
+      "context": [
+        "Tom and Lily talk about learning a language.",
+        "Tom says, 'I learn a language at school. I will learn a new language.'"
+      ],
+      "dialogue": [
+        "Lily, what is a lecture?",
+        "It is a talk a teacher gives to a class. The lecture starts at nine.",
+        "What is a seminar?",
+        "It is a small class for talking and study. We have a seminar on Friday.",
+        "Who is your tutor?",
+        "My tutor helps me with English. I learn something new every day."
+      ],
+      "listening": "Tom and Lily talk about learning a language. Tom says, 'I learn a language at school.' Lily says, 'What is a lecture?' Tom says, 'It is a talk a teacher gives to a class.' Lily says, 'What is a seminar?' Tom says, 'It is a small class for talking and study.'",
+      "question": "What does Tom learn at school?",
+      "correct": "A language",
+      "other": "A song",
+      "reading": "On Friday, Tom and Lily talk about learning a language. Tom says, 'I learn a language at school. I will learn a new language. A language is words people use to talk.' Lily says, 'What is a lecture?' Tom says, 'It is a talk a teacher gives to a class. The lecture starts at nine. A lecture is a good way to learn.' Lily says, 'What is a seminar?' Tom says, 'It is a small class for talking and study. We have a seminar on Friday. A seminar is small and fun.' Lily says, 'Who is your tutor?' Tom says, 'My tutor helps me with English. I learn something new every day. I like learning a language.'",
+      "readingQ": "What does Tom learn at school?",
+      "readingA": "A language.",
+      "speaking": "Tell a friend about learning a language. What do you say?",
+      "speakingSample": "I talk about learning a language with my friend Tom. I learn a language at school. I will learn a new language. The lecture starts at nine. We have a seminar on Friday. My tutor helps me with English. I learn something new every day. I like learning a language.",
+      "writing": "Write a short email to a friend about learning a language. Say what you do.",
+      "writingSample": "Dear Anna, I want to tell you about learning a language. I learn a language at school. I will learn a new language. The lecture starts at nine. We have a seminar on Friday. My tutor helps me with English. I learn something new every day. I like learning a language very much. It is fun to learn. Learning is good for all of us. See you soon. Best, Lily",
+      "sound": "Lecture has its strongest beat on LEC. In lecture, say LEC clearly at the start. In seminar, say SEM clearly at the start.",
+      "model": "The lecture starts at nine.",
+      "wordTask": "What is a lecture?",
+      "wordSample": "A talk a teacher gives to a class."
+    },
+    {
+      "unit": 22,
+      "day": 174,
+      "title": "Teachers and students",
+      "goal": "I can talk about teachers and students.",
+      "newItems": [
+        {
+          "word": "educate",
+          "ipa": "/ˈɛdʒəˌkeɪt/",
+          "pos": "verb",
+          "definition": "To teach someone.",
+          "example": "Good schools educate children well.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "knowledge",
+          "ipa": "/ˈnɑlɪdʒ/",
+          "pos": "noun",
+          "definition": "What you learn and know.",
+          "example": "Books give us knowledge.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "achievement",
+          "ipa": "/əˈtʃivmənt/",
+          "pos": "noun",
+          "definition": "Something good you do after hard work.",
+          "example": "Her high score is a big achievement.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "do your best",
+          "ipa": "/du jɔr bɛst/",
+          "pos": "fixed phrase",
+          "definition": "To try as hard as you can.",
+          "example": "Do your best in the test.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "try your best",
+          "ipa": "/traɪ jɔr bɛst/",
+          "pos": "fixed phrase",
+          "definition": "To make a big effort.",
+          "example": "I try my best every day.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "love",
+        "like",
+        "happy",
+        "family",
+        "home"
+      ],
+      "mainWord": {
+        "word": "educate",
+        "ipa": "/ˈɛdʒəˌkeɪt/",
+        "pos": "verb",
+        "definition": "To teach someone.",
+        "example": "Good schools educate children well.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Educate is a verb. Educate means to teach someone. Good schools educate children well.",
+      "pronunciationTarget": {
+        "word": "educate",
+        "ipa": "/ˈɛdʒəˌkeɪt/"
+      },
+      "expression": "Do your best in the test.",
+      "use": "Use this when you tell someone to try hard.",
+      "expressionTask": "Tom and Lily talk about teachers and students. What do they say?",
+      "grammar": "should and shouldn't for advice: You should study every day",
+      "pattern": "You should study every day.",
+      "task": "You ___ study every day.",
+      "answer": "should",
+      "example": "You should study every day.",
+      "context": [
+        "Tom and Lily talk about teachers and students.",
+        "Tom says, 'Do your best in the test. I try my best every day.'"
+      ],
+      "dialogue": [
+        "Lily, what does educate mean?",
+        "It means to teach someone. Good schools educate children well.",
+        "What is knowledge?",
+        "It is what you learn and know. Books give us knowledge.",
+        "What is an achievement?",
+        "It is something good you do after hard work. Her high score is a big achievement."
+      ],
+      "listening": "Tom and Lily talk about teachers and students. Tom says, 'Do your best in the test. I try my best every day.' Lily says, 'What does educate mean?' Tom says, 'It means to teach someone.' Lily says, 'What is knowledge?' Tom says, 'It is what you learn and know.'",
+      "question": "What should Tom do in the test?",
+      "correct": "Do his best",
+      "other": "Go home",
+      "reading": "On Saturday, Tom and Lily talk about teachers and students. Tom says, 'Do your best in the test. I try my best every day. You should study every day.' Lily says, 'What does educate mean?' Tom says, 'It means to teach someone. Good schools educate children well. Teachers educate us with care.' Lily says, 'What is knowledge?' Tom says, 'It is what you learn and know. Books give us knowledge. Knowledge is a good thing.' Lily says, 'What is an achievement?' Tom says, 'It is something good you do after hard work. Her high score is a big achievement. Teachers help us learn new things every day. I like my teachers very much.'",
+      "readingQ": "What should Tom do in the test?",
+      "readingA": "Do his best.",
+      "speaking": "Tell a friend about teachers and students. What do you say?",
+      "speakingSample": "I talk about teachers and students with my friend Tom. Do your best in the test. I try my best every day. You should study every day. Good schools educate children well. Books give us knowledge. Her high score is a big achievement. I like my teachers very much. They help us learn.",
+      "writing": "Write a short email to a friend about teachers and students. Say what you think.",
+      "writingSample": "Dear Anna, I want to tell you about teachers and students. Do your best in the test. I try my best every day. You should study every day. Good schools educate children well. Books give us knowledge. Her high score is a big achievement. I like my teachers very much. They help us learn new things. Teachers are kind and fair. See you soon. Best, Lily",
+      "sound": "Educate has its strongest beat on ED. In educate, say ED clearly at the start. In knowledge, say KNOWL clearly at the start.",
+      "model": "Good schools educate children well.",
+      "wordTask": "What does educate mean?",
+      "wordSample": "To teach someone."
+    },
+    {
+      "unit": 22,
+      "day": 175,
+      "title": "Learning for life",
+      "goal": "I can talk about learning for life.",
+      "newItems": [
+        {
+          "word": "graduate",
+          "ipa": "/ˈɡrædʒuˌeɪt/",
+          "pos": "verb",
+          "definition": "To finish school and leave.",
+          "example": "She will graduate in June.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "enroll",
+          "ipa": "/ɪnˈroʊl/",
+          "pos": "verb",
+          "definition": "To join a school or a course.",
+          "example": "I enroll in an English course.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "sign up for a course",
+          "ipa": "/saɪn ʌp fɔr ə kɔrs/",
+          "pos": "fixed phrase",
+          "definition": "To join a course.",
+          "example": "I sign up for a course in English.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "drop out of school",
+          "ipa": "/drɑp aʊt ʌv skul/",
+          "pos": "fixed phrase",
+          "definition": "To leave school before you finish.",
+          "example": "He does not want to drop out of school.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "catch up on lessons",
+          "ipa": "/kætʃ ʌp ɑn ˈlɛsənz/",
+          "pos": "fixed phrase",
+          "definition": "To study what you missed.",
+          "example": "I catch up on lessons after class.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "life",
+        "year",
+        "month",
+        "week",
+        "day"
+      ],
+      "mainWord": {
+        "word": "graduate",
+        "ipa": "/ˈɡrædʒuˌeɪt/",
+        "pos": "verb",
+        "definition": "To finish school and leave.",
+        "example": "She will graduate in June.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Graduate is a verb. Graduate means to finish school and leave. She will graduate in June.",
+      "pronunciationTarget": {
+        "word": "graduate",
+        "ipa": "/ˈɡrædʒuˌeɪt/"
+      },
+      "expression": "I sign up for a course in English.",
+      "use": "Use this when you talk about joining a course.",
+      "expressionTask": "Tom and Lily talk about learning for life. What do they say?",
+      "grammar": "present perfect for experiences: I have learned a lot in my life",
+      "pattern": "I have learned a lot in my life.",
+      "task": "I have ___ a lot in my life.",
+      "answer": "learned",
+      "example": "I have learned a lot in my life.",
+      "context": [
+        "Tom and Lily talk about learning for life.",
+        "Tom says, 'I sign up for a course in English. I have learned a lot in my life.'"
+      ],
+      "dialogue": [
+        "Lily, what will you do after school?",
+        "I will graduate in June. She will graduate in June too.",
+        "Do you want to enroll in a course?",
+        "Yes. I enroll in an English course. I sign up for a course in English.",
+        "What if you miss a lesson?",
+        "I catch up on lessons after class. I do not want to drop out of school."
+      ],
+      "listening": "Tom and Lily talk about learning for life. Tom says, 'I sign up for a course in English.' Lily says, 'What will you do after school?' Tom says, 'I will graduate in June.' Lily says, 'Do you want to enroll in a course?' Tom says, 'Yes. I enroll in an English course.'",
+      "question": "What will Tom do in June?",
+      "correct": "Graduate",
+      "other": "Travel",
+      "reading": "On Sunday, Tom and Lily talk about learning for life. Tom says, 'I sign up for a course in English. I have learned a lot in my life. Learning is good for all of us.' Lily says, 'What will you do after school?' Tom says, 'I will graduate in June. She will graduate in June too. To graduate is to finish school and leave.' Lily says, 'Do you want to enroll in a course?' Tom says, 'Yes. I enroll in an English course. Learning for life is a good thing.' Lily says, 'What if you miss a lesson?' Tom says, 'I catch up on lessons after class. I do not want to drop out of school. I learn new things every day.'",
+      "readingQ": "What will Tom do in June?",
+      "readingA": "Graduate.",
+      "speaking": "Tell a friend about learning for life. What do you say?",
+      "speakingSample": "I talk about learning for life with my friend Tom. I sign up for a course in English. I have learned a lot in my life. I will graduate in June. I enroll in an English course. I catch up on lessons after class. I do not want to drop out of school. Learning is good for all of us.",
+      "writing": "Write a short email to a friend about learning for life. Say what you do.",
+      "writingSample": "Dear Anna, I want to tell you about learning for life. I sign up for a course in English. I have learned a lot in my life. I will graduate in June. I enroll in an English course. I catch up on lessons after class. I do not want to drop out of school. Learning is good for all of us. I learn new things every day. See you soon. Best, Lily",
+      "sound": "Graduate has its strongest beat on GRAD. In graduate, say GRAD clearly at the start. In enroll, say ROLL clearly at the end.",
+      "model": "She will graduate in June.",
+      "wordTask": "What does graduate mean?",
+      "wordSample": "To finish school and leave."
+    },
+    {
+      "unit": 22,
+      "day": 176,
+      "title": "Use learning English in a new situation",
+      "goal": "I can use learning English in a new situation.",
+      "newItems": [
+        {
+          "word": "answer",
+          "ipa": "/ˈænsɚ/",
+          "pos": "noun",
+          "definition": "What you say to a question.",
+          "example": "Give the correct answer.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "ability",
+          "ipa": "/əˈbɪləti/",
+          "pos": "noun",
+          "definition": "What you can do.",
+          "example": "She has a great ability to learn.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "grammar",
+          "ipa": "/ˈɡræmɚ/",
+          "pos": "noun",
+          "definition": "The rules of a language.",
+          "example": "Grammar helps us speak well.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "hand in homework",
+          "ipa": "/hænd ɪn ˈhoʊmˌwɝk/",
+          "pos": "fixed phrase",
+          "definition": "To give your homework to the teacher.",
+          "example": "I hand in my homework on Monday.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "write an essay",
+          "ipa": "/raɪt ən ˈɛseɪ/",
+          "pos": "fixed phrase",
+          "definition": "To write a short piece about a topic.",
+          "example": "I write an essay about my school.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "today",
+        "big",
+        "special",
+        "together",
+        "fun"
+      ],
+      "mainWord": {
+        "word": "answer",
+        "ipa": "/ˈænsɚ/",
+        "pos": "noun",
+        "definition": "What you say to a question.",
+        "example": "Give the correct answer.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Answer is a noun. Answer means what you say to a question. Give the correct answer.",
+      "pronunciationTarget": {
+        "word": "answer",
+        "ipa": "/ˈænsɚ/"
+      },
+      "expression": "I can use learning English in a new situation.",
+      "use": "Use this when you talk about using English in a new place.",
+      "expressionTask": "Emma talks about learning English. What does she say?",
+      "grammar": "review: learning English",
+      "pattern": "I can use learning English in a new situation.",
+      "task": "I can use learning English in a new ___.",
+      "answer": "situation",
+      "example": "I can use learning English in a new situation.",
+      "context": [
+        "Emma talks about learning English with her mother.",
+        "Emma says, 'I can use learning English in a new situation. Give the correct answer.'"
+      ],
+      "dialogue": [
+        "Emma, what is an answer?",
+        "It is what you say to a question. Give the correct answer.",
+        "What is ability?",
+        "It is what you can do. She has a great ability to learn.",
+        "What is grammar?",
+        "It is the rules of a language. Grammar helps us speak well."
+      ],
+      "listening": "Emma talks about learning English. Emma says, 'I can use learning English in a new situation. Give the correct answer.' Her mother says, 'What is an answer?' Emma says, 'It is what you say to a question.' Her mother says, 'What is ability?' Emma says, 'It is what you can do.'",
+      "question": "What is an answer?",
+      "correct": "What you say to a question",
+      "other": "A kind of food",
+      "reading": "On Monday, Emma talks about learning English with her mother. Emma says, 'I can use learning English in a new situation. Give the correct answer.' Her mother says, 'What is an answer?' Emma says, 'It is what you say to a question. Give the correct answer. An answer is what you say.' Her mother says, 'What is ability?' Emma says, 'It is what you can do. She has a great ability to learn. Ability is a good thing.' Her mother says, 'What is grammar?' Emma says, 'It is the rules of a language. Grammar helps us speak well. I hand in homework on Monday. I write an essay about my school. Today I can use learning English in a new situation.'",
+      "readingQ": "What is an answer?",
+      "readingA": "What you say to a question.",
+      "speaking": "Tell a friend about learning English. What do you say?",
+      "speakingSample": "I talk about learning English with my friend Emma. I can use learning English in a new situation. Give the correct answer. She has a great ability to learn. Grammar helps us speak well. I hand in my homework on Monday. I write an essay about my school. I like learning English very much.",
+      "writing": "Write a short email to a friend about learning English. Say what learning English means to you.",
+      "writingSample": "Dear Anna, I want to tell you about learning English. I can use learning English in a new situation. Give the correct answer. She has a great ability to learn. Grammar helps us speak well. I hand in my homework on Monday. I write an essay about my school. I like learning English very much. It is fun to learn. See you soon. Best, Emma",
+      "sound": "Answer has its strongest beat on AN. In answer, say AN clearly at the start. In ability, say BIL clearly in the middle.",
+      "model": "Give the correct answer.",
+      "wordTask": "What is an answer?",
+      "wordSample": "What you say to a question.",
+      "transferCheck": {
+        "source": "On Monday, Emma goes to a new English class with her friend Sara. Emma says, 'I can use learning English in a new situation. Give the correct answer.' Sara says, 'Yes. What can we do?' Emma says, 'We can hand in our homework. I write an essay about my school.' Sara says, 'Good. You use learning English well.'",
+        "dictation": "I can use learning English in a new situation.",
+        "answer": "1. Emma goes to a new English class with her friend Sara. She talks about learning English. 2. Emma's first job is to say she can use learning English in a new situation. 3. On Monday, Emma says, 'I can use learning English in a new situation.' 4. I can use learning English in a new situation. 5. Sample: On Monday, Emma goes to a new English class with her friend Sara. Emma says, 'I can use learning English in a new situation. Give the correct answer.' Sara says, 'Yes. What can we do?' Emma says, 'We can hand in our homework. I write an essay about my school.' Sara says, 'Good. You use learning English well.' Follow-up: What can Emma and Sara do? Hand in their homework.",
+        "tasks": [
+          [
+            "1 · Identify the people and the new situation",
+            "Who does Emma meet, and what does she talk about?"
+          ],
+          [
+            "2 · Work out what Emma does first",
+            "What is Emma's first job, and what does she say?"
+          ],
+          [
+            "3 · Notice the sentence on Monday",
+            "What does Emma say on Monday?"
+          ],
+          [
+            "4 · Listen and write",
+            "Write the sentence you hear."
+          ],
+          [
+            "5 · Retell and answer",
+            "Tell the story in order, including the people, the new situation, the first talk, and the result. Then answer one follow-up question."
+          ]
+        ]
+      }
+    }
+  ]
+}

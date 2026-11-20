@@ -1,0 +1,905 @@
+{
+  "number": 18,
+  "title": "The environment",
+  "lessons": [
+    {
+      "unit": 18,
+      "day": 137,
+      "title": "Our planet",
+      "goal": "I can talk about our planet.",
+      "newItems": [
+        {
+          "word": "planet",
+          "ipa": "/ˈplænət/",
+          "pos": "noun",
+          "definition": "A large round world in space.",
+          "example": "The Earth is a planet.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "climate",
+          "ipa": "/ˈklaɪmət/",
+          "pos": "noun",
+          "definition": "The usual weather in a place.",
+          "example": "The climate here is hot.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "protect",
+          "ipa": "/prəˈtɛkt/",
+          "pos": "verb",
+          "definition": "To keep safe.",
+          "example": "We protect animals.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "care for the planet",
+          "ipa": "/kɛr fɔr ðə ˈplænət/",
+          "pos": "fixed phrase",
+          "definition": "To look after the Earth.",
+          "example": "We care for the planet.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "protect the environment",
+          "ipa": "/prəˈtɛkt ði ɪnˈvaɪrənmənt/",
+          "pos": "fixed phrase",
+          "definition": "To keep nature safe.",
+          "example": "We protect the environment.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "people",
+        "home",
+        "school",
+        "family",
+        "friend"
+      ],
+      "mainWord": {
+        "word": "planet",
+        "ipa": "/ˈplænət/",
+        "pos": "noun",
+        "definition": "A large round world in space.",
+        "example": "The Earth is a planet.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Planet is a noun. Planet means a large round world in space. The Earth is a planet.",
+      "pronunciationTarget": {
+        "word": "planet",
+        "ipa": "/ˈplænət/"
+      },
+      "expression": "We care for the planet.",
+      "use": "Use this when you talk about looking after the Earth.",
+      "expressionTask": "Tom and Lily talk about the Earth. What do they say?",
+      "grammar": "present simple for facts about the Earth: The Earth is our home",
+      "pattern": "The Earth is our home.",
+      "task": "The Earth ___ our home.",
+      "answer": "is",
+      "example": "The Earth is our home.",
+      "context": [
+        "Tom and Lily talk about the Earth.",
+        "Tom says, 'We care for the planet. It is our home.'"
+      ],
+      "dialogue": [
+        "Tom, what is the Earth?",
+        "It is our planet. It is our home.",
+        "What is the climate like here?",
+        "The climate is warm in summer and cold in winter.",
+        "How do we protect the environment?",
+        "We care for the planet every day."
+      ],
+      "listening": "Tom and Lily talk about the Earth. Tom says, 'The Earth is our planet. It is our home.' Lily says, 'What is the climate like here?' Tom says, 'The climate is warm in summer and cold in winter.' Lily says, 'How do we protect the environment?' Tom says, 'We care for the planet every day.'",
+      "question": "What is the Earth?",
+      "correct": "Our planet",
+      "other": "A big star",
+      "reading": "On Monday, Tom and Lily talk about the Earth. Tom says, 'The Earth is our planet. It is our home. The climate here is warm in summer and cold in winter. I like the warm sun and the green trees.' Lily says, 'Yes. Our planet is very beautiful. How do we protect the environment?' Tom says, 'We care for the planet every day. We protect animals and plants, and we help our friends at school.' Lily says, 'Good. Our school is near our home. My family likes our planet, and my friends help too.' Tom says, 'Yes. We can talk about our planet. I can talk about the Earth with my friends.'",
+      "readingQ": "What do Tom and Lily talk about?",
+      "readingA": "The Earth.",
+      "speaking": "Tell a friend about our planet. What do you say?",
+      "speakingSample": "I talk about our planet with my friend Tom. The Earth is our planet, and it is our home. The climate here is warm in summer and cold in winter. We care for the planet every day. We protect the environment, and we protect animals and plants. I like our planet.",
+      "writing": "Write a short email to a friend about our planet. Say what it is like.",
+      "writingSample": "Dear Anna, I want to tell you about our planet. The Earth is our planet, and it is our home. The climate here is warm in summer and cold in winter. We care for the planet every day. We protect the environment, and we protect animals and plants. My family likes our planet, and my friends help too. I like our planet. It is a good place to live. See you soon. Best, Lily",
+      "sound": "Planet has its strongest beat on PLAN. In planet, say PLAN clearly at the start. In climate, say CLI clearly at the start.",
+      "model": "The planet is our home.",
+      "wordTask": "What is the Earth?",
+      "wordSample": "Our planet."
+    },
+    {
+      "unit": 18,
+      "day": 138,
+      "title": "Air and pollution",
+      "goal": "I can talk about air and pollution.",
+      "newItems": [
+        {
+          "word": "smoke",
+          "ipa": "/smoʊk/",
+          "pos": "noun",
+          "definition": "Gray air from a fire.",
+          "example": "Smoke comes from the factory.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "emission",
+          "ipa": "/ɪˈmɪʃən/",
+          "pos": "noun",
+          "definition": "Gas or smoke that goes into the air.",
+          "example": "Cars make emissions.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "clean air",
+          "ipa": "/klin ɛr/",
+          "pos": "fixed phrase",
+          "definition": "Air with no smoke or dirt.",
+          "example": "We need clean air.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "stop pollution",
+          "ipa": "/stɑp pəˈluʃən/",
+          "pos": "fixed phrase",
+          "definition": "To end dirty air and water.",
+          "example": "We must stop pollution.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "fight pollution",
+          "ipa": "/faɪt pəˈluʃən/",
+          "pos": "fixed phrase",
+          "definition": "To work against dirty air and water.",
+          "example": "We fight pollution.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "sky",
+        "sun",
+        "wind",
+        "rain",
+        "cloud"
+      ],
+      "mainWord": {
+        "word": "smoke",
+        "ipa": "/smoʊk/",
+        "pos": "noun",
+        "definition": "Gray air from a fire.",
+        "example": "Smoke comes from the factory.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Smoke is a noun. Smoke means gray air from a fire. Smoke comes from the factory.",
+      "pronunciationTarget": {
+        "word": "smoke",
+        "ipa": "/smoʊk/"
+      },
+      "expression": "We need clean air.",
+      "use": "Use this when you talk about air with no smoke or dirt.",
+      "expressionTask": "Tom and Lily talk about the air. What do they say?",
+      "grammar": "comparatives: The air is cleaner in the park",
+      "pattern": "The air is cleaner in the park.",
+      "task": "The air is ___ in the park.",
+      "answer": "cleaner",
+      "example": "The air is cleaner in the park.",
+      "context": [
+        "Tom and Lily talk about the air in town.",
+        "Tom says, 'We need clean air. The smoke is bad here.'"
+      ],
+      "dialogue": [
+        "Lily, is the air clean here?",
+        "No. There is smoke from cars and factories.",
+        "What is an emission?",
+        "It is gas or smoke that goes into the air.",
+        "Can we stop pollution?",
+        "Yes. We can stop pollution and fight pollution."
+      ],
+      "listening": "Tom and Lily talk about the air. Tom says, 'We need clean air.' Lily says, 'Is the air clean here?' Tom says, 'No. There is smoke from cars.' Lily says, 'What is an emission?' Tom says, 'It is smoke that goes into the air.' Lily says, 'Can we stop pollution?' Tom says, 'Yes. We can.'",
+      "question": "Is the air clean?",
+      "correct": "No, there is smoke",
+      "other": "Yes, it is very clean",
+      "reading": "On Tuesday, Tom and Lily talk about the air. Tom says, 'We need clean air. The sky is very gray, and there is smoke from cars. The sun is not bright today.' Lily says, 'What is an emission?' Tom says, 'It is gas or smoke that goes into the air. Cars make emissions, and the wind moves the smoke.' Lily says, 'The rain is good. It makes the air clean.' Tom says, 'Yes. We can stop pollution. We can fight pollution every day. We ride bikes, and we walk to school.' Lily says, 'Good. The clouds are white, and the sky is blue. I can talk about air and pollution.'",
+      "readingQ": "What is an emission?",
+      "readingA": "Gas or smoke that goes into the air.",
+      "speaking": "Tell a friend about the air in your town. What do you say?",
+      "speakingSample": "I talk about the air with my friend Tom. We need clean air, but there is smoke from cars. The sky is gray, and the sun is not bright. Cars make emissions, and the wind moves the smoke. We can stop pollution. We can fight pollution every day. I like clean air.",
+      "writing": "Write a short email to a friend about the air. Say what the problem is.",
+      "writingSample": "Dear Anna, I want to tell you about the air in my town. We need clean air, but there is smoke from cars. The sky is gray, and the sun is not bright today. Cars make emissions, and the wind moves the smoke. We can stop pollution. We can fight pollution every day. We ride bikes, and we walk to school. I like clean air. It is good for us. See you soon. Best, Lily",
+      "sound": "Smoke has its strongest beat on SMOKE. In smoke, say SMOKE clearly. In emission, say MI clearly in the middle.",
+      "model": "There is smoke from cars.",
+      "wordTask": "What is an emission?",
+      "wordSample": "Gas or smoke that goes into the air."
+    },
+    {
+      "unit": 18,
+      "day": 139,
+      "title": "Water",
+      "goal": "I can talk about water.",
+      "newItems": [
+        {
+          "word": "ocean",
+          "ipa": "/ˈoʊʃən/",
+          "pos": "noun",
+          "definition": "A very big sea.",
+          "example": "The ocean is deep and wide.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "melt",
+          "ipa": "/mɛlt/",
+          "pos": "verb",
+          "definition": "To turn to water.",
+          "example": "The snow melts in the sun.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "drought",
+          "ipa": "/draʊt/",
+          "pos": "noun",
+          "definition": "A long time with no rain.",
+          "example": "A drought is bad for farms.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "save water",
+          "ipa": "/seɪv ˈwɔtɚ/",
+          "pos": "fixed phrase",
+          "definition": "To use less water.",
+          "example": "We save water every day.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "waste water",
+          "ipa": "/weɪst ˈwɔtɚ/",
+          "pos": "fixed phrase",
+          "definition": "To use water with no need.",
+          "example": "Do not waste water.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "sea",
+        "river",
+        "lake",
+        "fish",
+        "boat"
+      ],
+      "mainWord": {
+        "word": "ocean",
+        "ipa": "/ˈoʊʃən/",
+        "pos": "noun",
+        "definition": "A very big sea.",
+        "example": "The ocean is deep and wide.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Ocean is a noun. Ocean means a very big sea. The ocean is deep and wide.",
+      "pronunciationTarget": {
+        "word": "ocean",
+        "ipa": "/ˈoʊʃən/"
+      },
+      "expression": "We save water every day.",
+      "use": "Use this when you talk about using less water.",
+      "expressionTask": "Tom and Lily talk about water. What do they say?",
+      "grammar": "should for advice: We should save water",
+      "pattern": "We should save water.",
+      "task": "We ___ save water.",
+      "answer": "should",
+      "example": "We should save water.",
+      "context": [
+        "Tom and Lily talk about water.",
+        "Tom says, 'We save water every day. Do not waste water.'"
+      ],
+      "dialogue": [
+        "Lily, what is the ocean?",
+        "It is a very big sea. Fish live in it.",
+        "Do we save water?",
+        "Yes. We save water every day. Do not waste water.",
+        "What happens to the snow?",
+        "It melts in the sun."
+      ],
+      "listening": "Tom and Lily talk about water. Tom says, 'We save water every day.' Lily says, 'What is the ocean?' Tom says, 'It is a big sea.' Lily says, 'What happens to snow?' Tom says, 'It melts in the sun.' Lily says, 'What is a drought?' Tom says, 'It is a long time with no rain.'",
+      "question": "What is the ocean?",
+      "correct": "A very big sea",
+      "other": "A small lake",
+      "reading": "On Wednesday, Tom and Lily talk about water. Tom says, 'The ocean is a very big sea. Fish live in it, and boats move on it. The river runs to the sea, and the lake is near our home.' Lily says, 'Do we save water?' Tom says, 'Yes. We save water every day. Do not waste water. We take short showers, and we turn off the tap.' Lily says, 'What happens to the snow?' Tom says, 'Snow can melt in the sun. The water runs to the river.' Lily says, 'What is a drought?' Tom says, 'It is a long time with no rain. A drought is bad for farms. We need rain for the plants.' Lily says, 'Good. I can talk about water.'",
+      "readingQ": "What is a drought?",
+      "readingA": "A long time with no rain.",
+      "speaking": "Tell a friend about water. What do you say?",
+      "speakingSample": "I talk about water with my friend Tom. The ocean is a very big sea, and fish live in it. We save water every day. Do not waste water. The snow melts in the sun, and the water runs to the river. A drought is a long time with no rain. I like clean water.",
+      "writing": "Write a short email to a friend about water. Say why it is important.",
+      "writingSample": "Dear Anna, I want to tell you about water. The ocean is a very big sea, and fish live in it. We save water every day. Do not waste water. The snow melts in the sun, and the water runs to the river. A drought is a long time with no rain. We need rain for the plants. Water is important for us all. See you soon. Best, Lily",
+      "sound": "Ocean has its strongest beat on O. In ocean, say O clearly at the start. In melt, say MELT clearly.",
+      "model": "The ocean is a very big sea.",
+      "wordTask": "What is the ocean?",
+      "wordSample": "A very big sea."
+    },
+    {
+      "unit": 18,
+      "day": 140,
+      "title": "Rubbish and recycling",
+      "goal": "I can talk about rubbish and recycling.",
+      "newItems": [
+        {
+          "word": "reduce",
+          "ipa": "/rɪˈdus/",
+          "pos": "verb",
+          "definition": "To make less.",
+          "example": "We reduce waste.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "chemical",
+          "ipa": "/ˈkɛmɪkəl/",
+          "pos": "noun",
+          "definition": "A thing made in a factory.",
+          "example": "This chemical is not safe.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "recycle paper",
+          "ipa": "/riˈsaɪkəl ˈpeɪpɚ/",
+          "pos": "fixed phrase",
+          "definition": "To use old paper again.",
+          "example": "We recycle paper at school.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "sort the rubbish",
+          "ipa": "/sɔrt ðə ˈrʌbɪʃ/",
+          "pos": "fixed phrase",
+          "definition": "To put rubbish in the right bins.",
+          "example": "We sort the rubbish at home.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "use less plastic",
+          "ipa": "/juz lɛs ˈplæstɪk/",
+          "pos": "fixed phrase",
+          "definition": "To take less plastic.",
+          "example": "We use less plastic now.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "paper",
+        "glass",
+        "box",
+        "bag",
+        "shop"
+      ],
+      "mainWord": {
+        "word": "reduce",
+        "ipa": "/rɪˈdus/",
+        "pos": "verb",
+        "definition": "To make less.",
+        "example": "We reduce waste.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Reduce is a verb. Reduce means to make less. We reduce waste.",
+      "pronunciationTarget": {
+        "word": "reduce",
+        "ipa": "/rɪˈdus/"
+      },
+      "expression": "We recycle paper at school.",
+      "use": "Use this when you talk about using old paper again.",
+      "expressionTask": "Tom and Lily talk about rubbish. What do they do?",
+      "grammar": "imperatives for instructions: Sort the rubbish, please",
+      "pattern": "Sort the rubbish, please.",
+      "task": "___ the rubbish, please.",
+      "answer": "Sort",
+      "example": "Sort the rubbish, please.",
+      "context": [
+        "Tom and Lily talk about rubbish at home.",
+        "Tom says, 'We recycle paper at school. We sort the rubbish.'"
+      ],
+      "dialogue": [
+        "Lily, do we recycle paper?",
+        "Yes. We recycle paper at school.",
+        "What do we do with the rubbish?",
+        "We sort the rubbish at home.",
+        "Do we use less plastic?",
+        "Yes. We use less plastic now."
+      ],
+      "listening": "Tom and Lily talk about rubbish at home. Tom says, 'We recycle paper at school.' Lily says, 'What do we do with the rubbish?' Tom says, 'We sort the rubbish at home.' Lily says, 'Do we use less plastic?' Tom says, 'Yes. We use less plastic now.'",
+      "question": "What do Tom and Lily recycle?",
+      "correct": "Paper",
+      "other": "Glass",
+      "reading": "On Thursday, Tom and Lily talk about rubbish. Tom says, 'We recycle paper at school. Paper is in a green box, and glass is in a blue box. We sort the rubbish at home.' Lily says, 'What is a chemical?' Tom says, 'It is a thing made in a factory. This chemical is not safe. We must be careful with it.' Lily says, 'Do we use less plastic?' Tom says, 'Yes. We use less plastic now. We take a bag to the shop, and we do not take a plastic bag.' Lily says, 'Good. We reduce waste. We can talk about rubbish and recycling. Recycling is good for the Earth, and it helps our town.'",
+      "readingQ": "What is a chemical?",
+      "readingA": "A thing made in a factory.",
+      "speaking": "Tell a friend about rubbish and recycling. What do you say?",
+      "speakingSample": "I talk about rubbish with my friend Tom. We recycle paper at school. Paper is in a green box, and glass is in a blue box. We sort the rubbish at home. We use less plastic now. We take a bag to the shop. We reduce waste every day, and it is good.",
+      "writing": "Write a short email to a friend about rubbish and recycling. Say what you do.",
+      "writingSample": "Dear Anna, I want to tell you about rubbish and recycling. We recycle paper at school. Paper is in a green box, and glass is in a blue box. We sort the rubbish at home. We use less plastic now. We take a bag to the shop, and we do not take a plastic bag. We reduce waste every day, and it is good. Recycling is good for the Earth. See you soon. Best, Lily",
+      "sound": "Reduce has its strongest beat on DUCE. In reduce, say DUCE clearly at the end. In chemical, say KEM clearly at the start.",
+      "model": "We reduce waste.",
+      "wordTask": "What is a chemical?",
+      "wordSample": "A thing made in a factory."
+    },
+    {
+      "unit": 18,
+      "day": 141,
+      "title": "Energy",
+      "goal": "I can talk about energy.",
+      "newItems": [
+        {
+          "word": "solar",
+          "ipa": "/ˈsoʊlɚ/",
+          "pos": "adjective",
+          "definition": "From the sun.",
+          "example": "We use solar power.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "renewable",
+          "ipa": "/rɪˈnuəbəl/",
+          "pos": "adjective",
+          "definition": "Can be used again and again.",
+          "example": "Sun power is renewable.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "sustainable",
+          "ipa": "/səˈsteɪnəbəl/",
+          "pos": "adjective",
+          "definition": "Good for the future.",
+          "example": "We need a sustainable life.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "solar power",
+          "ipa": "/ˈsoʊlɚ ˈpaʊɚ/",
+          "pos": "fixed phrase",
+          "definition": "Power from the sun.",
+          "example": "Solar power is clean.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "wind power",
+          "ipa": "/wɪnd ˈpaʊɚ/",
+          "pos": "fixed phrase",
+          "definition": "Power from the wind.",
+          "example": "Wind power is clean too.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "light",
+        "night",
+        "morning",
+        "house",
+        "car"
+      ],
+      "mainWord": {
+        "word": "solar",
+        "ipa": "/ˈsoʊlɚ/",
+        "pos": "adjective",
+        "definition": "From the sun.",
+        "example": "We use solar power.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Solar is an adjective. Solar means from the sun. We use solar power.",
+      "pronunciationTarget": {
+        "word": "solar",
+        "ipa": "/ˈsoʊlɚ/"
+      },
+      "expression": "Solar power is clean.",
+      "use": "Use this when you talk about power from the sun.",
+      "expressionTask": "Tom and Lily talk about energy. What do they say?",
+      "grammar": "will for the future: Solar power will help us",
+      "pattern": "Solar power will help us.",
+      "task": "Solar power ___ help us.",
+      "answer": "will",
+      "example": "Solar power will help us.",
+      "context": [
+        "Tom and Lily talk about energy at home.",
+        "Tom says, 'Solar power is clean. It comes from the sun.'"
+      ],
+      "dialogue": [
+        "Lily, what is solar power?",
+        "It is power from the sun. It is clean.",
+        "What is wind power?",
+        "It is power from the wind. It is clean too.",
+        "Is sun power renewable?",
+        "Yes. Sun power is renewable."
+      ],
+      "listening": "Tom and Lily talk about energy at home. Tom says, 'Solar power is clean.' Lily says, 'What is solar power?' Tom says, 'It is power from the sun.' Lily says, 'What is wind power?' Tom says, 'It is power from the wind.' Lily says, 'Is sun power renewable?' Tom says, 'Yes. Sun power is renewable.'",
+      "question": "What is solar power?",
+      "correct": "Power from the sun",
+      "other": "Power from the sea",
+      "reading": "On Friday, Tom and Lily talk about energy. Tom says, 'Solar power is clean. It comes from the sun. The sun is very bright in the morning, and the light is warm.' Lily says, 'What is wind power?' Tom says, 'It is power from the wind. Wind power is clean too. We use it at home at night. We turn off the lights at night.' Lily says, 'Is sun power renewable?' Tom says, 'Yes. Sun power is renewable. We can use it again and again. It is good for a sustainable life.' Lily says, 'Good. Our house uses solar power, and our car is clean. I can talk about energy.'",
+      "readingQ": "What is wind power?",
+      "readingA": "Power from the wind.",
+      "speaking": "Tell a friend about energy. What do you say?",
+      "speakingSample": "I talk about energy with my friend Tom. Solar power is clean. It comes from the sun. Wind power is clean too. Sun power is renewable. We can use it again and again. It is good for a sustainable life. Our house uses solar power. We turn off the lights at night, and we save power.",
+      "writing": "Write a short email to a friend about energy. Say what solar power is.",
+      "writingSample": "Dear Anna, I want to tell you about energy. Solar power is clean. It comes from the sun. Wind power is clean too. Sun power is renewable. We can use it again and again. It is good for a sustainable life. Our house uses solar power, and our car is clean. We turn off the lights at night, and we save power. I like clean energy. See you soon. Best, Lily",
+      "sound": "Solar has its strongest beat on SO. In solar, say SO clearly at the start. In renewable, say NEW clearly in the middle.",
+      "model": "We use solar power at home.",
+      "wordTask": "What is solar power?",
+      "wordSample": "Power from the sun."
+    },
+    {
+      "unit": 18,
+      "day": 142,
+      "title": "Animals and nature",
+      "goal": "I can talk about animals and nature.",
+      "newItems": [
+        {
+          "word": "species",
+          "ipa": "/ˈspiʃiz/",
+          "pos": "noun",
+          "definition": "A kind of plant or animal.",
+          "example": "This species is rare.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "habitat",
+          "ipa": "/ˈhæbətæt/",
+          "pos": "noun",
+          "definition": "The home of a plant or animal.",
+          "example": "This is the bear's habitat.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "endangered",
+          "ipa": "/ɪnˈdeɪndʒɚd/",
+          "pos": "adjective",
+          "definition": "At risk of dying out.",
+          "example": "The tiger is endangered.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "in danger",
+          "ipa": "/ɪn ˈdeɪndʒɚ/",
+          "pos": "fixed phrase",
+          "definition": "At risk of harm.",
+          "example": "Many animals are in danger.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "look after nature",
+          "ipa": "/lʊk ˈæftɚ ˈneɪtʃɚ/",
+          "pos": "fixed phrase",
+          "definition": "To take care of the natural world.",
+          "example": "We look after nature.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "rabbit",
+        "bird",
+        "dog",
+        "cat",
+        "horse"
+      ],
+      "mainWord": {
+        "word": "species",
+        "ipa": "/ˈspiʃiz/",
+        "pos": "noun",
+        "definition": "A kind of plant or animal.",
+        "example": "This species is rare.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Species is a noun. Species means a kind of plant or animal. This species is rare.",
+      "pronunciationTarget": {
+        "word": "species",
+        "ipa": "/ˈspiʃiz/"
+      },
+      "expression": "We look after nature.",
+      "use": "Use this when you talk about taking care of the natural world.",
+      "expressionTask": "Tom and Lily talk about animals. What do they say?",
+      "grammar": "can for ability: We can help animals",
+      "pattern": "We can help animals.",
+      "task": "We ___ help animals.",
+      "answer": "can",
+      "example": "We can help animals.",
+      "context": [
+        "Tom and Lily talk about animals and nature.",
+        "Tom says, 'We look after nature. Many animals are in danger.'"
+      ],
+      "dialogue": [
+        "Lily, what is a species?",
+        "It is a kind of plant or animal.",
+        "What is a habitat?",
+        "It is the home of a plant or animal.",
+        "Is this species in danger?",
+        "Yes. This species is endangered."
+      ],
+      "listening": "Tom and Lily talk about animals. Tom says, 'We look after nature.' Lily says, 'What is a species?' Tom says, 'It is a kind of plant or animal.' Lily says, 'What is a habitat?' Tom says, 'It is the home of an animal.' Lily says, 'Is this species in danger?' Tom says, 'Yes, it is.'",
+      "question": "What is a habitat?",
+      "correct": "The home of a plant or animal",
+      "other": "A kind of food",
+      "reading": "On Saturday, Tom and Lily talk about animals. Tom says, 'We look after nature. Many animals are in danger. The rabbit is in the park, and the bird is in the tree.' Lily says, 'What is a species?' Tom says, 'It is a kind of plant or animal. This species is rare, and it needs a home.' Lily says, 'What is a habitat?' Tom says, 'It is the home of a plant or animal. The dog and the cat are at home, and the horse is in the field.' Lily says, 'Is this species endangered?' Tom says, 'Yes. This species is endangered. We can help animals. I can talk about animals and nature.'",
+      "readingQ": "Is this species endangered?",
+      "readingA": "Yes, it is.",
+      "speaking": "Tell a friend about animals and nature. What do you say?",
+      "speakingSample": "I talk about animals with my friend Tom. We look after nature. Many animals are in danger. This species is rare, and it needs a home. A habitat is the home of a plant or animal. This species is endangered. We can help animals. The rabbit is in the park.",
+      "writing": "Write a short email to a friend about animals and nature. Say what animals need.",
+      "writingSample": "Dear Anna, I want to tell you about animals and nature. We look after nature. Many animals are in danger. This species is rare, and it needs a home. A habitat is the home of a plant or animal. This species is endangered. We can help animals. The rabbit is in the park, and the bird is in the tree. I like animals a lot. See you soon. Best, Lily",
+      "sound": "Species has its strongest beat on SPEE. In species, say SPEE clearly at the start. In habitat, say HAB clearly at the start.",
+      "model": "This species is rare.",
+      "wordTask": "What is a species?",
+      "wordSample": "A kind of plant or animal."
+    },
+    {
+      "unit": 18,
+      "day": 143,
+      "title": "What we can do",
+      "goal": "I can talk about what we can do for the Earth.",
+      "newItems": [
+        {
+          "word": "destroy",
+          "ipa": "/dɪˈstrɔɪ/",
+          "pos": "verb",
+          "definition": "To break badly.",
+          "example": "Fires destroy trees.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "harmful",
+          "ipa": "/ˈhɑrmfəl/",
+          "pos": "adjective",
+          "definition": "Bad for people or nature.",
+          "example": "Smoke is harmful.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "plant a tree",
+          "ipa": "/plænt ə tri/",
+          "pos": "fixed phrase",
+          "definition": "To put a young tree in the ground.",
+          "example": "We plant a tree each year.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "grow your own",
+          "ipa": "/ɡroʊ jʊr oʊn/",
+          "pos": "fixed phrase",
+          "definition": "To grow food for yourself.",
+          "example": "We grow our own food.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "buy local",
+          "ipa": "/baɪ ˈloʊkəl/",
+          "pos": "fixed phrase",
+          "definition": "To buy food from near your home.",
+          "example": "We buy local food.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "tree",
+        "grass",
+        "food",
+        "water",
+        "fruit"
+      ],
+      "mainWord": {
+        "word": "destroy",
+        "ipa": "/dɪˈstrɔɪ/",
+        "pos": "verb",
+        "definition": "To break badly.",
+        "example": "Fires destroy trees.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Destroy is a verb. Destroy means to break badly. Fires destroy trees.",
+      "pronunciationTarget": {
+        "word": "destroy",
+        "ipa": "/dɪˈstrɔɪ/"
+      },
+      "expression": "We plant a tree each year.",
+      "use": "Use this when you talk about putting a young tree in the ground.",
+      "expressionTask": "Tom and Lily talk about what we can do. What do they do?",
+      "grammar": "first conditional: If we plant trees, the air is cleaner",
+      "pattern": "If we plant trees, the air is cleaner.",
+      "task": "If we plant trees, the air is ___.",
+      "answer": "cleaner",
+      "example": "If we plant trees, the air is cleaner.",
+      "context": [
+        "Tom and Lily talk about what we can do for the Earth.",
+        "Tom says, 'We plant a tree each year. It is good for the air.'"
+      ],
+      "dialogue": [
+        "Lily, what can we do for the Earth?",
+        "We can plant a tree each year.",
+        "Do we grow our own food?",
+        "Yes. We grow our own food at home.",
+        "Do we buy local food?",
+        "Yes. We buy local food near our home."
+      ],
+      "listening": "Tom and Lily talk about what we can do. Tom says, 'We plant a tree each year.' Lily says, 'Do we grow our own food?' Tom says, 'Yes. We grow our own food at home.' Lily says, 'Do we buy local food?' Tom says, 'Yes. We buy local food near our home.'",
+      "question": "What do Tom and Lily plant each year?",
+      "correct": "A tree",
+      "other": "A flower",
+      "reading": "On Sunday, Tom and Lily talk about what we can do. Tom says, 'We plant a tree each year. Trees are very good for the air, and the grass is green. We grow our own food at home.' Lily says, 'What food do we grow?' Tom says, 'We grow our own food at home. We buy local food near our home. It is good and fresh.' Lily says, 'What is harmful?' Tom says, 'Smoke is harmful. It is bad for people and nature. Fires destroy trees, and we must be careful.' Lily says, 'Good. If we plant trees, the air is cleaner. I can talk about what we can do.'",
+      "readingQ": "What is harmful?",
+      "readingA": "Smoke is harmful.",
+      "speaking": "Tell a friend what we can do for the Earth. What do you say?",
+      "speakingSample": "I talk about what we can do with my friend Tom. We plant a tree each year. Trees are very good for the air. We grow our own food at home. We buy local food near our home. Smoke is harmful, and fires destroy trees. If we plant trees, the air is cleaner.",
+      "writing": "Write a short email to a friend about what we can do. Say what you do.",
+      "writingSample": "Dear Anna, I want to tell you what we can do for the Earth. We plant a tree each year. Trees are very good for the air, and the grass is green. We grow our own food at home. We buy local food near our home. Smoke is harmful. Fires destroy trees, and we must be careful. If we plant trees, the air is cleaner. I like our planet. See you soon. Best, Lily",
+      "sound": "Destroy has its strongest beat on STROY. In destroy, say STROY clearly at the end. In harmful, say HARM clearly at the start.",
+      "model": "Fires destroy trees.",
+      "wordTask": "What is harmful?",
+      "wordSample": "Smoke is harmful."
+    },
+    {
+      "unit": 18,
+      "day": 144,
+      "title": "Use environment English in a new situation",
+      "goal": "I can use environment English in a new situation.",
+      "newItems": [
+        {
+          "word": "forest",
+          "ipa": "/ˈfɔrəst/",
+          "pos": "noun",
+          "definition": "A big area of trees.",
+          "example": "Many animals live in the forest.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "ecosystem",
+          "ipa": "/ˈikoʊˌsɪstəm/",
+          "pos": "noun",
+          "definition": "All the living things in one place.",
+          "example": "A forest is an ecosystem.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "climate change",
+          "ipa": "/ˈklaɪmət tʃeɪndʒ/",
+          "pos": "fixed phrase",
+          "definition": "A change in the usual weather.",
+          "example": "Climate change is real.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "carbon footprint",
+          "ipa": "/ˈkɑrbən ˈfʊtˌprɪnt/",
+          "pos": "fixed phrase",
+          "definition": "How much carbon your life makes.",
+          "example": "A small carbon footprint is good.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "go green",
+          "ipa": "/ɡoʊ ɡrin/",
+          "pos": "fixed phrase",
+          "definition": "To live in a way that helps nature.",
+          "example": "Our school wants to go green.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "earth",
+        "air",
+        "sea",
+        "park",
+        "life"
+      ],
+      "mainWord": {
+        "word": "forest",
+        "ipa": "/ˈfɔrəst/",
+        "pos": "noun",
+        "definition": "A big area of trees.",
+        "example": "Many animals live in the forest.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Forest is a noun. Forest means a big area of trees. Many animals live in the forest.",
+      "pronunciationTarget": {
+        "word": "forest",
+        "ipa": "/ˈfɔrəst/"
+      },
+      "expression": "Climate change is real.",
+      "use": "Use this when you talk about a change in the usual weather.",
+      "expressionTask": "Emma talks about the environment. What does she say?",
+      "grammar": "review: environment English",
+      "pattern": "Climate change is real.",
+      "task": "Climate change is ___.",
+      "answer": "real",
+      "example": "Climate change is real.",
+      "context": [
+        "Emma talks about the environment with her mother.",
+        "Emma says, 'Climate change is real. We must look after the forest.'"
+      ],
+      "dialogue": [
+        "Emma, what is climate change?",
+        "It is a change in the usual weather.",
+        "What is a carbon footprint?",
+        "It is how much carbon your life makes.",
+        "Can we go green?",
+        "Yes. We can go green every day."
+      ],
+      "listening": "Emma talks about the environment with her mother. Emma says, 'Climate change is real.' Her mother says, 'What is a carbon footprint?' Emma says, 'It is how much carbon your life makes.' Her mother says, 'Can we go green?' Emma says, 'Yes. We can go green every day.'",
+      "question": "What is a carbon footprint?",
+      "correct": "How much carbon your life makes",
+      "other": "A kind of tree",
+      "reading": "On Sunday, Emma talks about the environment with her mother. Emma says, 'Climate change is real. The Earth is very warm, and the sea is warm too.' Her mother says, 'What is a forest?' Emma says, 'It is a big area of trees. Many animals live in the forest. A forest is an ecosystem.' Her mother says, 'What is a carbon footprint?' Emma says, 'It is how much carbon your life makes. A small carbon footprint is good.' Her mother says, 'Can we go green?' Emma says, 'Yes. We can go green every day. We save water, and we plant trees. I can use environment English in a new situation.'",
+      "readingQ": "What is a forest?",
+      "readingA": "A big area of trees.",
+      "speaking": "Tell a friend about the environment. What do you say?",
+      "speakingSample": "I talk about the environment with my friend Emma. Climate change is real. A forest is a big area of trees. Many animals live in the forest. A forest is an ecosystem. A small carbon footprint is good. We can go green every day. We save water, and we plant trees.",
+      "writing": "Write a short email to a friend about the environment. Say what you know.",
+      "writingSample": "Dear Anna, I want to tell you about the environment. Climate change is real. A forest is a big area of trees. Many animals live in the forest. A forest is an ecosystem. A small carbon footprint is good. We can go green every day. We save water, and we plant trees. I like our planet a lot. It is our home. See you soon. Best, Emma",
+      "sound": "Forest has its strongest beat on FOR. In forest, say FOR clearly at the start. In ecosystem, say ECO clearly at the start.",
+      "model": "Many animals live in the forest.",
+      "wordTask": "What is a forest?",
+      "wordSample": "A big area of trees.",
+      "transferCheck": {
+        "source": "On Sunday, Emma visits the park with her friend Sara. Emma says, 'I can use environment English in a new situation. Climate change is real. We must look after the forest.' Sara says, 'Yes. What can we do?' Emma says, 'We can plant trees and save water. A forest is an ecosystem.' Sara says, 'Good. You use environment English well.'",
+        "dictation": "Climate change is real.",
+        "answer": "1. Emma visits the park with her friend Sara. She talks about the environment. 2. Emma's first job is to say she can use environment English in a new situation. 3. On Sunday, Emma says, 'I can use environment English in a new situation.' 4. Climate change is real. 5. Sample: On Sunday, Emma visits the park with her friend Sara. Emma says, 'I can use environment English in a new situation. Climate change is real. We must look after the forest.' Sara says, 'Yes. What can we do?' Emma says, 'We can plant trees and save water. A forest is an ecosystem.' Sara says, 'Good. You use environment English well.' Follow-up: What can Emma and Sara do? Plant trees and save water.",
+        "tasks": [
+          [
+            "1 · Identify the people and the new situation",
+            "Who does Emma visit, and what does she talk about?"
+          ],
+          [
+            "2 · Work out what Emma does first",
+            "What is Emma's first job, and what does she say?"
+          ],
+          [
+            "3 · Notice the sentence on Sunday",
+            "What does Emma say on Sunday?"
+          ],
+          [
+            "4 · Listen and write",
+            "Write the sentence you hear."
+          ],
+          [
+            "5 · Retell and answer",
+            "Tell the story in order, including the people, the new situation, the first talk, and the result. Then answer one follow-up question."
+          ]
+        ]
+      }
+    }
+  ]
+}

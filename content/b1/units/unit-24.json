@@ -1,0 +1,905 @@
+{
+  "number": 24,
+  "title": "Hobbies and free time",
+  "lessons": [
+    {
+      "unit": 24,
+      "day": 185,
+      "title": "Free time",
+      "goal": "I can talk about free time.",
+      "newItems": [
+        {
+          "word": "collector",
+          "ipa": "/kəˈlɛktɚ/",
+          "pos": "noun",
+          "definition": "A person who keeps things of one kind.",
+          "example": "He is a coin collector.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "painting",
+          "ipa": "/ˈpeɪntɪŋ/",
+          "pos": "noun",
+          "definition": "A picture made with paint.",
+          "example": "She shows me her painting.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "in my spare time",
+          "ipa": "/ɪn maɪ spɛr taɪm/",
+          "pos": "fixed phrase",
+          "definition": "When I have extra time with no work to do.",
+          "example": "I paint in my spare time.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "pick up a hobby",
+          "ipa": "/pɪk ʌp ə ˈhɑbi/",
+          "pos": "fixed phrase",
+          "definition": "To start doing a hobby.",
+          "example": "I pick up a hobby in winter.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "pass the time",
+          "ipa": "/pæs ðə taɪm/",
+          "pos": "fixed phrase",
+          "definition": "To do something to make time go by.",
+          "example": "I read to pass the time.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "skill",
+        "goal",
+        "learn",
+        "study",
+        "practice"
+      ],
+      "mainWord": {
+        "word": "collector",
+        "ipa": "/kəˈlɛktɚ/",
+        "pos": "noun",
+        "definition": "A person who keeps things of one kind.",
+        "example": "He is a coin collector.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Collector is a noun. Collector means a person who keeps things of one kind. He is a coin collector.",
+      "pronunciationTarget": {
+        "word": "collector",
+        "ipa": "/kəˈlɛktɚ/"
+      },
+      "expression": "I paint in my spare time.",
+      "use": "Use this when you talk about what you do in your free time.",
+      "expressionTask": "Tom and Lily talk about free time. What do they say?",
+      "grammar": "present simple for hobbies: I collect stamps every week",
+      "pattern": "I collect stamps every week.",
+      "task": "I ___ stamps every week.",
+      "answer": "collect",
+      "example": "I collect stamps every week.",
+      "context": [
+        "Tom and Lily talk about free time.",
+        "Tom says, 'I paint in my spare time. I pick up a hobby every year.'"
+      ],
+      "dialogue": [
+        "Lily, what is a collector?",
+        "It is a person who keeps things of one kind. He is a coin collector.",
+        "What is a painting?",
+        "It is a picture made with paint. She shows me her painting.",
+        "How do you pass the time?",
+        "I read to pass the time. I pick up a hobby in winter."
+      ],
+      "listening": "Tom and Lily talk about free time. Tom says, 'I paint in my spare time. I pick up a hobby.' Lily says, 'What is a collector?' Tom says, 'It is a person who keeps things of one kind.' Lily says, 'How do you pass the time?' Tom says, 'I read to pass the time.'",
+      "question": "What does Tom do in his spare time?",
+      "correct": "Paint",
+      "other": "Go to school",
+      "reading": "On Monday, Tom and Lily talk about free time. Tom says, 'I paint in my spare time. I pick up a hobby every year. I collect stamps every week.' Lily says, 'What is a collector?' Tom says, 'It is a person who keeps things of one kind. He is a coin collector. A collector keeps things he likes.' Lily says, 'What is a painting?' Tom says, 'It is a picture made with paint. She shows me her painting. A painting is fun to see.' Lily says, 'How do you pass the time?' Tom says, 'I read to pass the time. I like free time. We all need time to rest and play. Free time is good for all of us.'",
+      "readingQ": "What does Tom do in his spare time?",
+      "readingA": "Paint.",
+      "speaking": "Tell a friend about your free time. What do you say?",
+      "speakingSample": "I talk about free time with my friend Tom. I paint in my spare time. I pick up a hobby every year. He is a coin collector. She shows me her painting. I read to pass the time. I collect stamps every week. I like free time very much. It is good.",
+      "writing": "Write a short email to a friend about your free time. Say what you do.",
+      "writingSample": "Dear Anna, I want to tell you about my free time. I paint in my spare time. I pick up a hobby every year. He is a coin collector. She shows me her painting. I read to pass the time. I collect stamps every week. I like free time very much. It is good for us. We all need time to rest and play. See you soon. Best, Lily",
+      "sound": "Collector has its strongest beat on LECT. In collector, say LECT clearly in the middle. In painting, say PAINT clearly at the start.",
+      "model": "He is a coin collector.",
+      "wordTask": "What is a collector?",
+      "wordSample": "A person who keeps things of one kind."
+    },
+    {
+      "unit": 24,
+      "day": 186,
+      "title": "Music and singing",
+      "goal": "I can talk about music and singing.",
+      "newItems": [
+        {
+          "word": "piano",
+          "ipa": "/piˈænoʊ/",
+          "pos": "noun",
+          "definition": "A big musical instrument with keys.",
+          "example": "She plays the piano.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "tune",
+          "ipa": "/tun/",
+          "pos": "noun",
+          "definition": "A song or a line of musical notes.",
+          "example": "I know the tune.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "choir",
+          "ipa": "/ˈkwaɪɚ/",
+          "pos": "noun",
+          "definition": "A group of people who sing together.",
+          "example": "She sings in the choir.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "dance to the music",
+          "ipa": "/dæns tu ðə ˈmjuzɪk/",
+          "pos": "fixed phrase",
+          "definition": "To move to music.",
+          "example": "We dance to the music.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "learn a song",
+          "ipa": "/lɝn ə sɔŋ/",
+          "pos": "fixed phrase",
+          "definition": "To learn the words and music of a song.",
+          "example": "I learn a song every week.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "book",
+        "school",
+        "teacher",
+        "lesson",
+        "class"
+      ],
+      "mainWord": {
+        "word": "piano",
+        "ipa": "/piˈænoʊ/",
+        "pos": "noun",
+        "definition": "A big musical instrument with keys.",
+        "example": "She plays the piano.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Piano is a noun. Piano means a big musical instrument with keys. She plays the piano.",
+      "pronunciationTarget": {
+        "word": "piano",
+        "ipa": "/piˈænoʊ/"
+      },
+      "expression": "We dance to the music.",
+      "use": "Use this when you talk about dancing.",
+      "expressionTask": "Tom and Lily talk about music and singing. What do they say?",
+      "grammar": "comparatives: The piano is bigger than the guitar",
+      "pattern": "The piano is bigger than the guitar.",
+      "task": "The piano is ___ than the guitar.",
+      "answer": "bigger",
+      "example": "The piano is bigger than the guitar.",
+      "context": [
+        "Tom and Lily talk about music and singing.",
+        "Tom says, 'We dance to the music. I learn a song every week.'"
+      ],
+      "dialogue": [
+        "Lily, what is a piano?",
+        "It is a big musical instrument with keys. She plays the piano.",
+        "What is a tune?",
+        "It is a song or a line of musical notes. I know the tune.",
+        "Do you sing in the choir?",
+        "Yes. She sings in the choir. We dance to the music."
+      ],
+      "listening": "Tom and Lily talk about music and singing. Tom says, 'We dance to the music. I learn a song every week.' Lily says, 'What is a piano?' Tom says, 'It is a big musical instrument with keys.' Lily says, 'What is a tune?' Tom says, 'I know the tune.'",
+      "question": "What does Tom learn every week?",
+      "correct": "A song",
+      "other": "A book",
+      "reading": "On Tuesday, Tom and Lily talk about music and singing. Tom says, 'We dance to the music. I learn a song every week. The piano is bigger than the guitar.' Lily says, 'What is a piano?' Tom says, 'It is a big musical instrument with keys. She plays the piano. A piano is fun to play.' Lily says, 'What is a tune?' Tom says, 'It is a song or a line of musical notes. I know the tune. A tune is easy to sing.' Lily says, 'Do you sing in the choir?' Tom says, 'Yes. She sings in the choir. We dance to the music. I like music. We sing and dance with our friends.'",
+      "readingQ": "What does Tom learn every week?",
+      "readingA": "A song.",
+      "speaking": "Tell a friend about music and singing. What do you say?",
+      "speakingSample": "I talk about music and singing with my friend Tom. We dance to the music. I learn a song every week. She plays the piano. I know the tune. She sings in the choir. The piano is bigger than the guitar. I like music very much. We sing and dance with our friends.",
+      "writing": "Write a short email to a friend about music and singing. Say what you do.",
+      "writingSample": "Dear Anna, I want to tell you about music and singing. We dance to the music. I learn a song every week. She plays the piano. I know the tune. She sings in the choir. The piano is bigger than the guitar. I like music very much. We sing and dance with our friends. A tune is easy to sing. Music is fun for all of us. See you soon. Best, Lily",
+      "sound": "Piano has its strongest beat on AN. In piano, say AN clearly in the middle. In tune, say TUNE clearly.",
+      "model": "She plays the piano.",
+      "wordTask": "What is a piano?",
+      "wordSample": "A big musical instrument with keys."
+    },
+    {
+      "unit": 24,
+      "day": 187,
+      "title": "Sports and games",
+      "goal": "I can talk about sports and games.",
+      "newItems": [
+        {
+          "word": "bowling",
+          "ipa": "/ˈboʊlɪŋ/",
+          "pos": "noun",
+          "definition": "A game where you roll a ball at pins.",
+          "example": "Bowling is fun on Friday.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "skateboard",
+          "ipa": "/ˈskeɪtˌbɔrd/",
+          "pos": "noun",
+          "definition": "A board with wheels you stand on.",
+          "example": "He rides a skateboard.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "marathon",
+          "ipa": "/ˈmɛrəˌθɑn/",
+          "pos": "noun",
+          "definition": "A very long run of about 42 kilometers.",
+          "example": "He runs a marathon every year.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "go for a run",
+          "ipa": "/ɡoʊ fɔr ə rʌn/",
+          "pos": "fixed phrase",
+          "definition": "To run outside for fun or health.",
+          "example": "I go for a run in the morning.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "play board games",
+          "ipa": "/pleɪ bɔrd ɡeɪmz/",
+          "pos": "fixed phrase",
+          "definition": "To play games on a board.",
+          "example": "We play board games on Friday.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "new",
+        "big",
+        "small",
+        "good",
+        "great"
+      ],
+      "mainWord": {
+        "word": "bowling",
+        "ipa": "/ˈboʊlɪŋ/",
+        "pos": "noun",
+        "definition": "A game where you roll a ball at pins.",
+        "example": "Bowling is fun on Friday.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Bowling is a noun. Bowling means a game where you roll a ball at pins. Bowling is fun on Friday.",
+      "pronunciationTarget": {
+        "word": "bowling",
+        "ipa": "/ˈboʊlɪŋ/"
+      },
+      "expression": "We play board games on Friday.",
+      "use": "Use this when you talk about games.",
+      "expressionTask": "Tom and Lily talk about sports and games. What do they say?",
+      "grammar": "past simple for hobby stories: We played board games last Friday",
+      "pattern": "We played board games last Friday.",
+      "task": "We ___ board games last Friday.",
+      "answer": "played",
+      "example": "We played board games last Friday.",
+      "context": [
+        "Tom and Lily talk about sports and games.",
+        "Tom says, 'We play board games on Friday. I go for a run in the morning.'"
+      ],
+      "dialogue": [
+        "Lily, what is bowling?",
+        "It is a game where you roll a ball at pins. Bowling is fun on Friday.",
+        "What is a skateboard?",
+        "It is a board with wheels you stand on. He rides a skateboard.",
+        "What is a marathon?",
+        "It is a very long run. He runs a marathon every year."
+      ],
+      "listening": "Tom and Lily talk about sports and games. Tom says, 'We play board games on Friday. I go for a run in the morning.' Lily says, 'What is bowling?' Tom says, 'It is a game where you roll a ball at pins.' Lily says, 'What is a marathon?' Tom says, 'He runs a marathon.'",
+      "question": "What do Tom and Lily play on Friday?",
+      "correct": "Board games",
+      "other": "Chess",
+      "reading": "On Wednesday, Tom and Lily talk about sports and games. Tom says, 'We play board games on Friday. I go for a run in the morning. We played board games last Friday.' Lily says, 'What is bowling?' Tom says, 'It is a game where you roll a ball at pins. Bowling is fun on Friday. Bowling is a fun game.' Lily says, 'What is a skateboard?' Tom says, 'It is a board with wheels you stand on. He rides a skateboard. A skateboard is fun to ride.' Lily says, 'What is a marathon?' Tom says, 'It is a very long run. He runs a marathon every year. I like sports and games. We play and run with our friends.'",
+      "readingQ": "What do Tom and Lily play on Friday?",
+      "readingA": "Board games.",
+      "speaking": "Tell a friend about sports and games. What do you say?",
+      "speakingSample": "I talk about sports and games with my friend Tom. We play board games on Friday. I go for a run in the morning. Bowling is fun on Friday. He rides a skateboard. He runs a marathon every year. I like sports and games very much. We play and run with our friends.",
+      "writing": "Write a short email to a friend about sports and games. Say what you do.",
+      "writingSample": "Dear Anna, I want to tell you about sports and games. We play board games on Friday. I go for a run in the morning. Bowling is fun on Friday. He rides a skateboard. He runs a marathon every year. I like sports and games very much. We play and run with our friends. A marathon is a very long run. Sports are good for all of us. See you soon. Best, Lily",
+      "sound": "Bowling has its strongest beat on BOWL. In bowling, say BOWL clearly at the start. In skateboard, say SKATE clearly at the start.",
+      "model": "I like bowling on Friday.",
+      "wordTask": "What is bowling?",
+      "wordSample": "A game where you roll a ball at pins."
+    },
+    {
+      "unit": 24,
+      "day": 188,
+      "title": "Reading and writing",
+      "goal": "I can talk about reading and writing.",
+      "newItems": [
+        {
+          "word": "journal",
+          "ipa": "/ˈdʒɝnəl/",
+          "pos": "noun",
+          "definition": "A book where you write about your days.",
+          "example": "I write in my journal every night.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "blog",
+          "ipa": "/blɑɡ/",
+          "pos": "noun",
+          "definition": "A page on the internet where you write and share.",
+          "example": "I read her blog every week.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "lose track of time",
+          "ipa": "/luz træk ʌv taɪm/",
+          "pos": "fixed phrase",
+          "definition": "To forget what time it is because you enjoy something.",
+          "example": "I lose track of time when I paint.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "on a regular basis",
+          "ipa": "/ɑn ə ˈrɛɡjəlɚ ˈbeɪsɪs/",
+          "pos": "fixed phrase",
+          "definition": "Often, at set times.",
+          "example": "I play tennis on a regular basis.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "every weekend",
+          "ipa": "/ˈɛvri ˈwikˌɛnd/",
+          "pos": "fixed phrase",
+          "definition": "On Saturday and Sunday each week.",
+          "example": "We play tennis every weekend.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "make",
+        "take",
+        "time",
+        "day",
+        "week"
+      ],
+      "mainWord": {
+        "word": "journal",
+        "ipa": "/ˈdʒɝnəl/",
+        "pos": "noun",
+        "definition": "A book where you write about your days.",
+        "example": "I write in my journal every night.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Journal is a noun. Journal means a book where you write about your days. I write in my journal every night.",
+      "pronunciationTarget": {
+        "word": "journal",
+        "ipa": "/ˈdʒɝnəl/"
+      },
+      "expression": "I lose track of time when I read.",
+      "use": "Use this when you talk about reading for a long time.",
+      "expressionTask": "Tom and Lily talk about reading and writing. What do they say?",
+      "grammar": "present continuous for arrangements: I am writing in my journal tonight",
+      "pattern": "I am writing in my journal tonight.",
+      "task": "I am ___ in my journal tonight.",
+      "answer": "writing",
+      "example": "I am writing in my journal tonight.",
+      "context": [
+        "Tom and Lily talk about reading and writing.",
+        "Tom says, 'I lose track of time when I read. I write on a regular basis.'"
+      ],
+      "dialogue": [
+        "Lily, what is a journal?",
+        "It is a book where you write about your days. I write in my journal every night.",
+        "What is a blog?",
+        "It is a page on the internet where you write and share. I read her blog every week.",
+        "Do you write every weekend?",
+        "Yes. I write every weekend. I lose track of time when I read."
+      ],
+      "listening": "Tom and Lily talk about reading and writing. Tom says, 'I lose track of time when I read. I write on a regular basis.' Lily says, 'What is a journal?' Tom says, 'It is a book where you write about your days.' Lily says, 'What is a blog?' Tom says, 'I read her blog.'",
+      "question": "What does Tom write in every night?",
+      "correct": "His journal",
+      "other": "A letter",
+      "reading": "On Thursday, Tom and Lily talk about reading and writing. Tom says, 'I lose track of time when I read. I write on a regular basis. I am writing in my journal tonight.' Lily says, 'What is a journal?' Tom says, 'It is a book where you write about your days. I write in my journal every night. A journal is good for me.' Lily says, 'What is a blog?' Tom says, 'It is a page on the internet where you write and share. I read her blog every week. A blog is fun to read.' Lily says, 'Do you write every weekend?' Tom says, 'Yes. I write every weekend. I lose track of time when I read. I like reading and writing. We read and write with our friends.'",
+      "readingQ": "What does Tom write in every night?",
+      "readingA": "His journal.",
+      "speaking": "Tell a friend about reading and writing. What do you say?",
+      "speakingSample": "I talk about reading and writing with my friend Tom. I lose track of time when I read. I write on a regular basis. I write in my journal every night. I read her blog every week. I write every weekend. I like reading and writing very much. It is good for me.",
+      "writing": "Write a short email to a friend about reading and writing. Say what you do.",
+      "writingSample": "Dear Anna, I want to tell you about reading and writing. I lose track of time when I read. I write on a regular basis. I write in my journal every night. I read her blog every week. I write every weekend. I like reading and writing very much. It is good for me. A journal is good for me. A blog is fun to read. See you soon. Best, Lily",
+      "sound": "Journal has its strongest beat on JOUR. In journal, say JOUR clearly at the start. In blog, say BLOG clearly.",
+      "model": "I write in my journal every night.",
+      "wordTask": "What is a journal?",
+      "wordSample": "A book where you write about your days."
+    },
+    {
+      "unit": 24,
+      "day": 189,
+      "title": "Cooking and gardening",
+      "goal": "I can talk about cooking and gardening.",
+      "newItems": [
+        {
+          "word": "baking",
+          "ipa": "/ˈbeɪkɪŋ/",
+          "pos": "noun",
+          "definition": "Making food like bread and cake in an oven.",
+          "example": "Baking is her hobby.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "gardener",
+          "ipa": "/ˈɡɑrdnɚ/",
+          "pos": "noun",
+          "definition": "A person who grows plants.",
+          "example": "My father is a gardener.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "plant flowers",
+          "ipa": "/plænt ˈflaʊɚz/",
+          "pos": "fixed phrase",
+          "definition": "To put flowers in the ground to grow.",
+          "example": "I plant flowers in spring.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "a great way to",
+          "ipa": "/ə ɡreɪt weɪ tu/",
+          "pos": "fixed phrase",
+          "definition": "A very good way to do something.",
+          "example": "Reading is a great way to learn.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "keep busy",
+          "ipa": "/kip ˈbɪzi/",
+          "pos": "fixed phrase",
+          "definition": "To stay active and do things.",
+          "example": "I keep busy with my hobbies.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "work",
+        "help",
+        "try",
+        "play",
+        "read"
+      ],
+      "mainWord": {
+        "word": "baking",
+        "ipa": "/ˈbeɪkɪŋ/",
+        "pos": "noun",
+        "definition": "Making food like bread and cake in an oven.",
+        "example": "Baking is her hobby.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Baking is a noun. Baking means making food like bread and cake in an oven. Baking is her hobby.",
+      "pronunciationTarget": {
+        "word": "baking",
+        "ipa": "/ˈbeɪkɪŋ/"
+      },
+      "expression": "I plant flowers in spring.",
+      "use": "Use this when you talk about gardening.",
+      "expressionTask": "Tom and Lily talk about cooking and gardening. What do they say?",
+      "grammar": "will for the future: I will bake bread on Sunday",
+      "pattern": "I will bake bread on Sunday.",
+      "task": "I ___ bake bread on Sunday.",
+      "answer": "will",
+      "example": "I will bake bread on Sunday.",
+      "context": [
+        "Tom and Lily talk about cooking and gardening.",
+        "Tom says, 'I plant flowers in spring. Baking is a great way to learn.'"
+      ],
+      "dialogue": [
+        "Lily, what is baking?",
+        "It is making food like bread and cake in an oven. Baking is her hobby.",
+        "What is a gardener?",
+        "It is a person who grows plants. My father is a gardener.",
+        "Do you keep busy in the garden?",
+        "Yes. I keep busy with my hobbies. I plant flowers in spring."
+      ],
+      "listening": "Tom and Lily talk about cooking and gardening. Tom says, 'I plant flowers in spring. Baking is a great way to learn.' Lily says, 'What is baking?' Tom says, 'It is making food like bread and cake in an oven.' Lily says, 'What is a gardener?' Tom says, 'My father is a gardener.'",
+      "question": "What does Tom plant in spring?",
+      "correct": "Flowers",
+      "other": "Trees",
+      "reading": "On Friday, Tom and Lily talk about cooking and gardening. Tom says, 'I plant flowers in spring. Baking is a great way to learn. I will bake bread on Sunday.' Lily says, 'What is baking?' Tom says, 'It is making food like bread and cake in an oven. Baking is her hobby. Baking is fun for me.' Lily says, 'What is a gardener?' Tom says, 'It is a person who grows plants. My father is a gardener. A gardener works in the garden.' Lily says, 'Do you keep busy in the garden?' Tom says, 'Yes. I keep busy with my hobbies. I plant flowers in spring. I like cooking and gardening. We cook and plant with our friends.'",
+      "readingQ": "What does Tom plant in spring?",
+      "readingA": "Flowers.",
+      "speaking": "Tell a friend about cooking and gardening. What do you say?",
+      "speakingSample": "I talk about cooking and gardening with my friend Tom. I plant flowers in spring. Baking is a great way to learn. I will bake bread on Sunday. My father is a gardener. I keep busy with my hobbies. I like cooking and gardening very much. We cook and plant with our friends.",
+      "writing": "Write a short email to a friend about cooking and gardening. Say what you do.",
+      "writingSample": "Dear Anna, I want to tell you about cooking and gardening. I plant flowers in spring. Baking is a great way to learn. I will bake bread on Sunday. My father is a gardener. I keep busy with my hobbies. I like cooking and gardening very much. We cook and plant with our friends. Baking is fun for me. A gardener works in the garden. See you soon. Best, Lily",
+      "sound": "Baking has its strongest beat on BAKE. In baking, say BAKE clearly at the start. In gardener, say GARD clearly at the start.",
+      "model": "I like baking on Sunday.",
+      "wordTask": "What is baking?",
+      "wordSample": "Making food like bread and cake in an oven."
+    },
+    {
+      "unit": 24,
+      "day": 190,
+      "title": "Making things",
+      "goal": "I can talk about making things.",
+      "newItems": [
+        {
+          "word": "pottery",
+          "ipa": "/ˈpɑtɚi/",
+          "pos": "noun",
+          "definition": "Things made from clay, like cups and bowls.",
+          "example": "She makes pottery.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "clay",
+          "ipa": "/kleɪ/",
+          "pos": "noun",
+          "definition": "Soft earth you use to make things.",
+          "example": "She makes a cup from clay.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "origami",
+          "ipa": "/ˌɔrɪˈɡɑmi/",
+          "pos": "noun",
+          "definition": "The art of making shapes from paper.",
+          "example": "Origami is fun for children.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "make a model",
+          "ipa": "/meɪk ə ˈmɑdəl/",
+          "pos": "fixed phrase",
+          "definition": "To build a small copy of something.",
+          "example": "He makes a model of a plane.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "have a go at",
+          "ipa": "/hæv ə ɡoʊ æt/",
+          "pos": "fixed phrase",
+          "definition": "To try to do something.",
+          "example": "I have a go at painting.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "hard",
+        "easy",
+        "happy",
+        "kind",
+        "brave"
+      ],
+      "mainWord": {
+        "word": "pottery",
+        "ipa": "/ˈpɑtɚi/",
+        "pos": "noun",
+        "definition": "Things made from clay, like cups and bowls.",
+        "example": "She makes pottery.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Pottery is a noun. Pottery means things made from clay, like cups and bowls. She makes pottery.",
+      "pronunciationTarget": {
+        "word": "pottery",
+        "ipa": "/ˈpɑtɚi/"
+      },
+      "expression": "I make a model of a plane.",
+      "use": "Use this when you talk about making a model.",
+      "expressionTask": "Tom and Lily talk about making things. What do they say?",
+      "grammar": "should and shouldn't for advice: You should try pottery",
+      "pattern": "You should try pottery.",
+      "task": "You ___ try pottery.",
+      "answer": "should",
+      "example": "You should try pottery.",
+      "context": [
+        "Tom and Lily talk about making things.",
+        "Tom says, 'I make a model of a plane. Have a go at making one.'"
+      ],
+      "dialogue": [
+        "Lily, what is pottery?",
+        "It is things made from clay, like cups and bowls. She makes pottery.",
+        "What is clay?",
+        "It is soft earth you use to make things. She makes a cup from clay.",
+        "What is origami?",
+        "It is the art of making shapes from paper. Origami is fun for children."
+      ],
+      "listening": "Tom and Lily talk about making things. Tom says, 'I make a model of a plane. Have a go at making one.' Lily says, 'What is pottery?' Tom says, 'It is things made from clay, like cups and bowls.' Lily says, 'What is origami?' Tom says, 'Origami is fun for children.'",
+      "question": "What does Tom make a model of?",
+      "correct": "A plane",
+      "other": "A house",
+      "reading": "On Saturday, Tom and Lily talk about making things. Tom says, 'I make a model of a plane. Have a go at making one. You should try pottery.' Lily says, 'What is pottery?' Tom says, 'It is things made from clay, like cups and bowls. She makes pottery. Pottery is fun to make.' Lily says, 'What is clay?' Tom says, 'It is soft earth you use to make things. She makes a cup from clay. Clay is soft and fun.' Lily says, 'What is origami?' Tom says, 'It is the art of making shapes from paper. Origami is fun for children. I like making things. We make things with our friends.'",
+      "readingQ": "What does Tom make a model of?",
+      "readingA": "A plane.",
+      "speaking": "Tell a friend about making things. What do you say?",
+      "speakingSample": "I talk about making things with my friend Tom. I make a model of a plane. Have a go at making one. She makes pottery. She makes a cup from clay. Origami is fun for children. You should try pottery. I like making things very much. We make things with our friends.",
+      "writing": "Write a short email to a friend about making things. Say what you do.",
+      "writingSample": "Dear Anna, I want to tell you about making things. I make a model of a plane. Have a go at making one. She makes pottery. She makes a cup from clay. Origami is fun for children. You should try pottery. I like making things very much. We make things with our friends. Pottery is fun to make. Clay is soft and fun. See you soon. Best, Lily",
+      "sound": "Pottery has its strongest beat on POT. In pottery, say POT clearly at the start. In clay, say CLAY clearly.",
+      "model": "She makes pottery.",
+      "wordTask": "What is pottery?",
+      "wordSample": "Things made from clay, like cups and bowls."
+    },
+    {
+      "unit": 24,
+      "day": 191,
+      "title": "Hobbies with friends",
+      "goal": "I can talk about hobbies with friends.",
+      "newItems": [
+        {
+          "word": "karaoke",
+          "ipa": "/ˌkɛriˈoʊki/",
+          "pos": "noun",
+          "definition": "Singing songs with music for fun.",
+          "example": "We sing karaoke at the party.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "arcade",
+          "ipa": "/ɑrˈkeɪd/",
+          "pos": "noun",
+          "definition": "A place with many game machines.",
+          "example": "We play games at the arcade.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "play cards",
+          "ipa": "/pleɪ kɑrdz/",
+          "pos": "fixed phrase",
+          "definition": "To play a game with cards.",
+          "example": "We play cards at night.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "a night out",
+          "ipa": "/ə naɪt aʊt/",
+          "pos": "fixed phrase",
+          "definition": "An evening out with friends.",
+          "example": "We have a night out on Saturday.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "enjoy yourself",
+          "ipa": "/ɪnˈdʒɔɪ jɔrˈsɛlf/",
+          "pos": "fixed phrase",
+          "definition": "To have a good time.",
+          "example": "Enjoy yourself at the party.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "life",
+        "year",
+        "month",
+        "today",
+        "together"
+      ],
+      "mainWord": {
+        "word": "karaoke",
+        "ipa": "/ˌkɛriˈoʊki/",
+        "pos": "noun",
+        "definition": "Singing songs with music for fun.",
+        "example": "We sing karaoke at the party.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Karaoke is a noun. Karaoke means singing songs with music for fun. We sing karaoke at the party.",
+      "pronunciationTarget": {
+        "word": "karaoke",
+        "ipa": "/ˌkɛriˈoʊki/"
+      },
+      "expression": "We have a night out on Saturday.",
+      "use": "Use this when you talk about going out with friends.",
+      "expressionTask": "Tom and Lily talk about hobbies with friends. What do they say?",
+      "grammar": "present perfect for experiences: I have played cards many times",
+      "pattern": "I have played cards many times.",
+      "task": "I have ___ cards many times.",
+      "answer": "played",
+      "example": "I have played cards many times.",
+      "context": [
+        "Tom and Lily talk about hobbies with friends.",
+        "Tom says, 'We have a night out on Saturday. Enjoy yourself at the party.'"
+      ],
+      "dialogue": [
+        "Lily, what is karaoke?",
+        "It is singing songs with music for fun. We sing karaoke at the party.",
+        "What is an arcade?",
+        "It is a place with many game machines. We play games at the arcade.",
+        "Do you play cards with friends?",
+        "Yes. We play cards at night. Enjoy yourself at the party."
+      ],
+      "listening": "Tom and Lily talk about hobbies with friends. Tom says, 'We have a night out on Saturday. Enjoy yourself at the party.' Lily says, 'What is karaoke?' Tom says, 'It is singing songs with music for fun.' Lily says, 'What is an arcade?' Tom says, 'We play games at the arcade.'",
+      "question": "When do Tom and Lily have a night out?",
+      "correct": "On Saturday",
+      "other": "On Monday",
+      "reading": "On Sunday, Tom and Lily talk about hobbies with friends. Tom says, 'We have a night out on Saturday. Enjoy yourself at the party. I have played cards many times.' Lily says, 'What is karaoke?' Tom says, 'It is singing songs with music for fun. We sing karaoke at the party. Karaoke is fun with friends.' Lily says, 'What is an arcade?' Tom says, 'It is a place with many game machines. We play games at the arcade. An arcade is fun on Friday.' Lily says, 'Do you play cards with friends?' Tom says, 'Yes. We play cards at night. Enjoy yourself at the party. I like hobbies with friends. We play and sing with our friends.'",
+      "readingQ": "When do Tom and Lily have a night out?",
+      "readingA": "On Saturday.",
+      "speaking": "Tell a friend about hobbies with friends. What do you say?",
+      "speakingSample": "I talk about hobbies with friends with my friend Tom. We have a night out on Saturday. Enjoy yourself at the party. We sing karaoke at the party. We play games at the arcade. We play cards at night. I have played cards many times. I like hobbies with friends very much.",
+      "writing": "Write a short email to a friend about hobbies with friends. Say what you do.",
+      "writingSample": "Dear Anna, I want to tell you about hobbies with friends. We have a night out on Saturday. Enjoy yourself at the party. We sing karaoke at the party. We play games at the arcade. We play cards at night. I have played cards many times. I like hobbies with friends very much. We play and sing with our friends. See you soon. Best, Lily",
+      "sound": "Karaoke has its strongest beat on O. In karaoke, say O clearly at the end. In arcade, say CADE clearly at the end.",
+      "model": "We sing karaoke at the party.",
+      "wordTask": "What is karaoke?",
+      "wordSample": "Singing songs with music for fun."
+    },
+    {
+      "unit": 24,
+      "day": 192,
+      "title": "Use hobbies English in a new situation",
+      "goal": "I can use hobbies English in a new situation.",
+      "newItems": [
+        {
+          "word": "surfing",
+          "ipa": "/ˈsɝfɪŋ/",
+          "pos": "noun",
+          "definition": "Riding on waves on a board.",
+          "example": "Surfing is fun at the beach.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "yoga",
+          "ipa": "/ˈjoʊɡə/",
+          "pos": "noun",
+          "definition": "Slow moves and breathing for body and mind.",
+          "example": "Yoga is good for me.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "calligraphy",
+          "ipa": "/kəˈlɪɡrəfi/",
+          "pos": "noun",
+          "definition": "The art of beautiful writing.",
+          "example": "Calligraphy is her hobby.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "stay healthy",
+          "ipa": "/steɪ ˈhɛlθi/",
+          "pos": "fixed phrase",
+          "definition": "To stay well and strong.",
+          "example": "I eat well to stay healthy.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "give it a go",
+          "ipa": "/ɡɪv ɪt ə ɡoʊ/",
+          "pos": "fixed phrase",
+          "definition": "To try something.",
+          "example": "Give it a go and see.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "friend",
+        "family",
+        "home",
+        "love",
+        "fun"
+      ],
+      "mainWord": {
+        "word": "surfing",
+        "ipa": "/ˈsɝfɪŋ/",
+        "pos": "noun",
+        "definition": "Riding on waves on a board.",
+        "example": "Surfing is fun at the beach.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Surfing is a noun. Surfing means riding on waves on a board. Surfing is fun at the beach.",
+      "pronunciationTarget": {
+        "word": "surfing",
+        "ipa": "/ˈsɝfɪŋ/"
+      },
+      "expression": "I can use hobbies English in a new situation.",
+      "use": "Use this when you talk about using English in a new place.",
+      "expressionTask": "Emma talks about hobbies English. What does she say?",
+      "grammar": "review: hobbies English",
+      "pattern": "I can use hobbies English in a new situation.",
+      "task": "I can use hobbies English in a new ___.",
+      "answer": "situation",
+      "example": "I can use hobbies English in a new situation.",
+      "context": [
+        "Emma talks about hobbies English with her mother.",
+        "Emma says, 'I can use hobbies English in a new situation. Give it a go and stay healthy.'"
+      ],
+      "dialogue": [
+        "Emma, what is surfing?",
+        "It is riding on waves on a board. Surfing is fun at the beach.",
+        "What is yoga?",
+        "It is slow moves and breathing for body and mind. Yoga is good for me.",
+        "What is calligraphy?",
+        "It is the art of beautiful writing. Calligraphy is her hobby."
+      ],
+      "listening": "Emma talks about hobbies English. Emma says, 'I can use hobbies English in a new situation. Give it a go and stay healthy.' Her mother says, 'What is surfing?' Emma says, 'It is riding on waves on a board.' Her mother says, 'What is yoga?' Emma says, 'Yoga is good for me.'",
+      "question": "What is surfing?",
+      "correct": "Riding on waves on a board",
+      "other": "A kind of cake",
+      "reading": "On Monday, Emma talks about hobbies English with her mother. Emma says, 'I can use hobbies English in a new situation. Give it a go and stay healthy. Surfing is fun at the beach.' Her mother says, 'What is surfing?' Emma says, 'It is riding on waves on a board. Surfing is fun at the beach. Surfing is a fun hobby.' Her mother says, 'What is yoga?' Emma says, 'It is slow moves and breathing for body and mind. Yoga is good for me. Yoga is good for the body.' Her mother says, 'What is calligraphy?' Emma says, 'It is the art of beautiful writing. Calligraphy is her hobby. Today I can use hobbies English in a new situation.'",
+      "readingQ": "What is surfing?",
+      "readingA": "Riding on waves on a board.",
+      "speaking": "Tell a friend about hobbies English. What do you say?",
+      "speakingSample": "I talk about hobbies English with my friend Emma. I can use hobbies English in a new situation. Give it a go and stay healthy. Surfing is fun at the beach. Yoga is good for me. Calligraphy is her hobby. I like hobbies English very much. It is fun to learn.",
+      "writing": "Write a short email to a friend about hobbies English. Say what hobbies English means to you.",
+      "writingSample": "Dear Anna, I want to tell you about hobbies English. I can use hobbies English in a new situation. Give it a go and stay healthy. Surfing is fun at the beach. Yoga is good for me. Calligraphy is her hobby. I like hobbies English very much. It is fun to learn. Today I can use it in a new place. Hobbies are good for all of us. See you soon. Best, Emma",
+      "sound": "Surfing has its strongest beat on SURF. In surfing, say SURF clearly at the start. In yoga, say YO clearly at the start.",
+      "model": "I like surfing at the beach.",
+      "wordTask": "What is surfing?",
+      "wordSample": "Riding on waves on a board.",
+      "transferCheck": {
+        "source": "On Friday, Emma talks about her hobbies with her friend Sara at a club fair. Emma says, 'I can use hobbies English in a new situation. Give it a go and stay healthy.' Sara says, 'Yes. What can we do?' Emma says, 'We can give it a go. Surfing is fun at the beach.' Sara says, 'Good. You use hobbies English well.'",
+        "dictation": "I can use hobbies English in a new situation.",
+        "answer": "1. Emma talks about her hobbies with her friend Sara at a club fair. She talks about hobbies English. 2. Emma's first job is to say she can use hobbies English in a new situation. 3. On Friday, Emma says, 'I can use hobbies English in a new situation.' 4. I can use hobbies English in a new situation. 5. Sample: On Friday, Emma talks about her hobbies with her friend Sara at a club fair. Emma says, 'I can use hobbies English in a new situation. Give it a go and stay healthy.' Sara says, 'Yes. What can we do?' Emma says, 'We can give it a go. Surfing is fun at the beach.' Sara says, 'Good. You use hobbies English well.' Follow-up: What can Emma and Sara do? Give it a go.",
+        "tasks": [
+          [
+            "1 · Identify the people and the new situation",
+            "Who does Emma meet, and what does she talk about?"
+          ],
+          [
+            "2 · Work out what Emma does first",
+            "What is Emma's first job, and what does she say?"
+          ],
+          [
+            "3 · Notice the sentence on Friday",
+            "What does Emma say on Friday?"
+          ],
+          [
+            "4 · Listen and write",
+            "Write the sentence you hear."
+          ],
+          [
+            "5 · Retell and answer",
+            "Tell the story in order, including the people, the new situation, the first talk, and the result. Then answer one follow-up question."
+          ]
+        ]
+      }
+    }
+  ]
+}

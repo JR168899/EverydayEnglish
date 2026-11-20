@@ -1,0 +1,905 @@
+{
+  "number": 4,
+  "title": "Meetings and teamwork",
+  "lessons": [
+    {
+      "unit": 4,
+      "day": 25,
+      "title": "Your first team meeting",
+      "goal": "I can talk about a team meeting and say what is on the agenda.",
+      "newItems": [
+        {
+          "word": "agenda",
+          "ipa": "/əˈdʒɛndə/",
+          "pos": "noun",
+          "definition": "A list of things to talk about in a meeting.",
+          "example": "The first item on the agenda is the new project.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "minutes",
+          "ipa": "/ˈmɪnəts/",
+          "pos": "noun",
+          "definition": "The written notes of what was said in a meeting.",
+          "example": "Anna writes the minutes of our meetings.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "purpose",
+          "ipa": "/ˈpɝpəs/",
+          "pos": "noun",
+          "definition": "The reason why something is done.",
+          "example": "What is the purpose of this meeting?",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "kick off",
+          "ipa": "/kɪk ɔf/",
+          "pos": "fixed phrase",
+          "definition": "To start something, such as a meeting or a project.",
+          "example": "Let us kick off the meeting at nine.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "on the agenda",
+          "ipa": "/ɑn ði əˈdʒɛndə/",
+          "pos": "fixed phrase",
+          "definition": "Planned to be talked about in a meeting.",
+          "example": "The new office is on the agenda today.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "meeting",
+        "team",
+        "office",
+        "plan",
+        "idea"
+      ],
+      "mainWord": {
+        "word": "agenda",
+        "ipa": "/əˈdʒɛndə/",
+        "pos": "noun",
+        "definition": "A list of things to talk about in a meeting.",
+        "example": "The first item on the agenda is the new project.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Agenda is a noun. Agenda means a list of things to talk about in a meeting. The first item on the agenda is the new project.",
+      "pronunciationTarget": {
+        "word": "agenda",
+        "ipa": "/əˈdʒɛndə/"
+      },
+      "expression": "Let's kick off the meeting at nine.",
+      "use": "Use this when you start a meeting.",
+      "expressionTask": "Sam starts the meeting at nine. What does he say?",
+      "grammar": "Making suggestions: Let's start the meeting",
+      "pattern": "Let's start the meeting at nine.",
+      "task": "Let's start the meeting at ___.",
+      "answer": "nine",
+      "example": "Let's start the meeting at nine.",
+      "context": [
+        "Sam has his first team meeting on Monday.",
+        "Let's kick off the meeting at nine. The first item is the new project."
+      ],
+      "dialogue": [
+        "Sam, what is the purpose of this meeting?",
+        "The purpose is to plan our new project.",
+        "What is on the agenda today?",
+        "The new office is on the agenda today.",
+        "Who writes the minutes?",
+        "Anna writes the minutes of our meetings."
+      ],
+      "listening": "Sam has his first team meeting on Monday. The purpose of the meeting is to plan the new project. Sam says, 'Let's kick off the meeting at nine.' The first item on the agenda is the new office. Anna writes the minutes of our meetings. Sam likes team meetings.",
+      "question": "What is the purpose of the meeting?",
+      "correct": "To plan the new project",
+      "other": "To have lunch",
+      "reading": "Sam has his first team meeting on Monday. The purpose of the meeting is to plan the new project. At nine, Sam says, 'Let's kick off the meeting at nine.' The first item on the agenda is the new office. Anna writes the minutes of our meetings. Sam asks, 'What is the purpose of this meeting?' Anna says, 'The purpose is to plan our new project.' Sam likes team meetings. He listens to his team and learns new ideas. At the end of the meeting, Sam says, 'Thank you for your ideas. Anna will write the minutes, and we will talk again on Friday.' Sam says, 'The agenda is clear. We will kick off the new project on Monday.'",
+      "readingQ": "What is on the agenda today?",
+      "readingA": "The new office is on the agenda today.",
+      "speaking": "Tell a friend about your first team meeting. What is the purpose of the meeting? What is on the agenda? Who writes the minutes?",
+      "speakingSample": "I have my first team meeting on Monday. The purpose of the meeting is to plan our new project. The first item on the agenda is the new office. Anna writes the minutes of our meetings. I like team meetings every week. I listen to my team and learn new ideas.",
+      "writing": "Write a short email to a friend about your first team meeting. Say what the purpose of the meeting is and what is on the agenda.",
+      "writingSample": "Dear Tom, I want to tell you about my first team meeting. The meeting is on Monday at nine. The purpose of the meeting is to plan our new project. The first item on the agenda is the new office. Anna writes the minutes of our meetings. I like team meetings. I listen to my team and learn new ideas. We will kick off the new project on Monday. Best, Sam",
+      "sound": "Agenda has its strongest beat on GEN. In agenda, say GEN clearly in the middle. In minutes, say MIN clearly at the start.",
+      "model": "The first item on the agenda is the new project.",
+      "wordTask": "What is the purpose of the meeting?",
+      "wordSample": "The purpose of the meeting is to plan the new project."
+    },
+    {
+      "unit": 4,
+      "day": 26,
+      "title": "Share your ideas in a meeting",
+      "goal": "I can share my ideas in a meeting and say what I think.",
+      "newItems": [
+        {
+          "word": "brainstorm",
+          "ipa": "/ˈbreɪnˌstɔrm/",
+          "pos": "verb",
+          "definition": "To think of many ideas quickly with other people.",
+          "example": "We brainstorm new ideas every Friday.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "contribute",
+          "ipa": "/kənˈtrɪbjut/",
+          "pos": "verb",
+          "definition": "To give your ideas or work to help a group.",
+          "example": "Everyone can contribute an idea.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "support",
+          "ipa": "/səˈpɔrt/",
+          "pos": "verb",
+          "definition": "To agree with an idea and help it.",
+          "example": "I support Sam's idea.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "in my view",
+          "ipa": "/ɪn maɪ vju/",
+          "pos": "fixed phrase",
+          "definition": "In my opinion; the way I see it.",
+          "example": "In my view, we should start on Monday.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "put forward",
+          "ipa": "/pʊt ˈfɔrwərd/",
+          "pos": "fixed phrase",
+          "definition": "To offer an idea for people to think about.",
+          "example": "Anna put forward a new plan.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "idea",
+        "group",
+        "talk",
+        "work",
+        "question"
+      ],
+      "mainWord": {
+        "word": "brainstorm",
+        "ipa": "/ˈbreɪnˌstɔrm/",
+        "pos": "verb",
+        "definition": "To think of many ideas quickly with other people.",
+        "example": "We brainstorm new ideas every Friday.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Brainstorm is a verb. Brainstorm means to think of many ideas quickly with other people. We brainstorm new ideas every Friday.",
+      "pronunciationTarget": {
+        "word": "brainstorm",
+        "ipa": "/ˈbreɪnˌstɔrm/"
+      },
+      "expression": "In my view, we should start on Monday.",
+      "use": "Use this when you share your opinion in a meeting.",
+      "expressionTask": "Sam thinks the team should start on Monday. What does he say?",
+      "grammar": "How about + -ing: How about starting on Monday?",
+      "pattern": "How about starting on Monday?",
+      "task": "How about ___ on Monday?",
+      "answer": "starting",
+      "example": "How about starting on Monday?",
+      "context": [
+        "Sam and Anna brainstorm ideas in the meeting.",
+        "In my view, we should start on Monday. Anna put forward a new plan."
+      ],
+      "dialogue": [
+        "Sam, do you have an idea for the new project?",
+        "Yes, I have an idea. In my view, we should start on Monday.",
+        "That is a good idea. Can you contribute more?",
+        "Yes, I can contribute an idea every week.",
+        "Anna, do you support Sam's idea?",
+        "Yes, I support Sam's idea. I put forward a new plan, too."
+      ],
+      "listening": "Sam and Anna brainstorm ideas in the meeting. Sam says, 'In my view, we should start on Monday.' Anna puts forward a new plan. Sam supports her idea. Everyone can contribute an idea. Sam likes to brainstorm with his team. He learns a lot from Anna. They work well together.",
+      "question": "What does Anna put forward?",
+      "correct": "A new plan",
+      "other": "A new office",
+      "reading": "Sam and Anna brainstorm ideas in the meeting on Friday. Sam says, 'In my view, we should start on Monday.' Anna puts forward a new plan. Sam supports her idea. He says, 'I support your plan, Anna.' Everyone can contribute an idea. Sam contributes an idea every week. Anna says, 'We brainstorm new ideas every Friday. I put forward a new plan today.' Sam likes to brainstorm with his team. He listens to Anna and learns new ideas. They work well together every Friday. At the end of the meeting, Sam says, 'Thank you for your ideas. In my view, we have a good plan. We will start on Monday.'",
+      "readingQ": "What does Anna put forward?",
+      "readingA": "Anna puts forward a new plan.",
+      "speaking": "Tell a friend about sharing ideas in a meeting. What ideas do you brainstorm? How do you contribute? What do you put forward?",
+      "speakingSample": "We brainstorm new ideas every Friday. In my view, we should start on Monday. Anna puts forward a new plan. I support her idea. Everyone can contribute an idea. I contribute an idea every week. We work well together. I like to brainstorm with my team. I listen to Anna and learn new ideas.",
+      "writing": "Write a short email to a friend about sharing ideas in a meeting. Say what you brainstorm and what you put forward.",
+      "writingSample": "Dear Lisa, I want to tell you about our meeting on Friday. We brainstorm new ideas every Friday. In my view, we should start on Monday. Anna puts forward a new plan. I support her idea. Everyone can contribute an idea. I contribute an idea every week. We work well together. I like to brainstorm with my team. I listen to Anna and learn new ideas. Best, Sam",
+      "sound": "Brainstorm has its strongest beat on BRAIN. In brainstorm, say BRAIN clearly at the start. In contribute, say TRIB clearly in the middle.",
+      "model": "We brainstorm new ideas every Friday.",
+      "wordTask": "What does Anna put forward?",
+      "wordSample": "Anna puts forward a new plan."
+    },
+    {
+      "unit": 4,
+      "day": 27,
+      "title": "Agree and disagree politely",
+      "goal": "I can agree and disagree politely in a meeting.",
+      "newItems": [
+        {
+          "word": "viewpoint",
+          "ipa": "/ˈvjuˌpɔɪnt/",
+          "pos": "noun",
+          "definition": "A way of thinking about something.",
+          "example": "I understand your viewpoint.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "interrupt",
+          "ipa": "/ˌɪntəˈrʌpt/",
+          "pos": "verb",
+          "definition": "To stop someone while they are speaking.",
+          "example": "Please do not interrupt Anna.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "I couldn't agree more",
+          "ipa": "/aɪ ˈkʊdənt əˈɡri mɔr/",
+          "pos": "fixed phrase",
+          "definition": "I agree with you completely.",
+          "example": "We need more time. I couldn't agree more.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "fair enough",
+          "ipa": "/fɛr ɪˈnʌf/",
+          "pos": "fixed phrase",
+          "definition": "That is reasonable; I accept your point.",
+          "example": "You are busy. Fair enough.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "after all",
+          "ipa": "/ˈæftər ɔl/",
+          "pos": "fixed phrase",
+          "definition": "In the end, when you think about it.",
+          "example": "After all, we all want the same thing.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "agree",
+        "think",
+        "friend",
+        "team",
+        "work"
+      ],
+      "mainWord": {
+        "word": "viewpoint",
+        "ipa": "/ˈvjuˌpɔɪnt/",
+        "pos": "noun",
+        "definition": "A way of thinking about something.",
+        "example": "I understand your viewpoint.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Viewpoint is a noun. Viewpoint means a way of thinking about something. I understand your viewpoint.",
+      "pronunciationTarget": {
+        "word": "viewpoint",
+        "ipa": "/ˈvjuˌpɔɪnt/"
+      },
+      "expression": "I couldn't agree more.",
+      "use": "Use this when you agree with someone completely.",
+      "expressionTask": "Sam agrees with Anna completely. What does he say?",
+      "grammar": "I agree with you: I agree with Anna",
+      "pattern": "I agree with Anna.",
+      "task": "I agree ___ Anna.",
+      "answer": "with",
+      "example": "I agree with Anna.",
+      "context": [
+        "Sam and Anna talk about the new plan.",
+        "We need more time. I couldn't agree more. After all, we all want the same thing."
+      ],
+      "dialogue": [
+        "Sam, do you agree with the new plan?",
+        "Yes, I couldn't agree more. We need more time.",
+        "Anna, what is your viewpoint?",
+        "My viewpoint is different. I think we can start today.",
+        "Please do not interrupt Anna. Let her finish.",
+        "You are right. Fair enough. After all, we all want the same thing."
+      ],
+      "listening": "Sam and Anna talk about the new plan. Sam says, 'I couldn't agree more. We need more time.' Anna has a different viewpoint. Sam says, 'Please do not interrupt Anna. Let her finish.' Anna says, 'Thank you, Sam.' Sam says, 'Fair enough. After all, we all want the same thing.'",
+      "question": "What does Sam say to Anna?",
+      "correct": "I couldn't agree more",
+      "other": "I disagree with you",
+      "reading": "Sam and Anna talk about the new plan in the meeting. Sam says, 'I couldn't agree more. We need more time.' Anna has a different viewpoint. She says, 'I think we can start today.' Sam listens to Anna. He says, 'Please do not interrupt Anna. Let her finish.' Anna says, 'Thank you, Sam. After all, we all want the same thing.' Sam says, 'Fair enough. I understand your viewpoint.' Sam likes to listen to Anna. He learns a lot from her viewpoint. They talk about the plan every week. At the end of the meeting, Sam says, 'Thank you for your ideas. I couldn't agree more with Anna. We need more time.'",
+      "readingQ": "What is Anna's viewpoint?",
+      "readingA": "Anna thinks they can start today.",
+      "speaking": "Tell a friend about agreeing and disagreeing politely. What is your viewpoint? When do you say 'I couldn't agree more'? When do you say 'Fair enough'?",
+      "speakingSample": "I understand your viewpoint. I couldn't agree more with you. We need more time. Please do not interrupt Anna. Let her finish. Fair enough. After all, we all want the same thing. I like to listen to my team. I learn a lot from my team. We talk about the plan every week.",
+      "writing": "Write a short email to a friend about agreeing and disagreeing politely. Say what your viewpoint is and when you agree.",
+      "writingSample": "Dear Tom, I want to tell you about our meeting today. I understand your viewpoint. I couldn't agree more with you. We need more time. Please do not interrupt Anna. Let her finish. Fair enough. After all, we all want the same thing. I like to listen to my team. I learn a lot from my team. We talk about the plan every week. Best, Sam",
+      "sound": "Viewpoint has its strongest beat on VIEW. In viewpoint, say VIEW clearly at the start. In interrupt, say RUPT clearly at the end.",
+      "model": "I understand your viewpoint.",
+      "wordTask": "What does Sam say when he agrees completely?",
+      "wordSample": "Sam says, 'I couldn't agree more.'"
+    },
+    {
+      "unit": 4,
+      "day": 28,
+      "title": "Take notes and follow up",
+      "goal": "I can take notes in a meeting and follow up on the tasks.",
+      "newItems": [
+        {
+          "word": "assign",
+          "ipa": "/əˈsaɪn/",
+          "pos": "verb",
+          "definition": "To give a task to someone.",
+          "example": "The manager assigns the tasks on Monday.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "participant",
+          "ipa": "/pɑrˈtɪsəpənt/",
+          "pos": "noun",
+          "definition": "A person who takes part in something.",
+          "example": "Every participant gets a copy of the minutes.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "take minutes",
+          "ipa": "/teɪk ˈmɪnəts/",
+          "pos": "fixed phrase",
+          "definition": "To write the notes of a meeting.",
+          "example": "Anna takes minutes at our meetings.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "follow up on",
+          "ipa": "/ˈfɑloʊ ʌp ɑn/",
+          "pos": "fixed phrase",
+          "definition": "To do the next steps after something.",
+          "example": "Sam will follow up on the plan tomorrow.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "action item",
+          "ipa": "/ˈækʃən ˈaɪtəm/",
+          "pos": "fixed phrase",
+          "definition": "A task that someone must do after a meeting.",
+          "example": "The first action item is to call the client.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "note",
+        "list",
+        "task",
+        "phone",
+        "email"
+      ],
+      "mainWord": {
+        "word": "assign",
+        "ipa": "/əˈsaɪn/",
+        "pos": "verb",
+        "definition": "To give a task to someone.",
+        "example": "The manager assigns the tasks on Monday.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Assign is a verb. Assign means to give a task to someone. The manager assigns the tasks on Monday.",
+      "pronunciationTarget": {
+        "word": "assign",
+        "ipa": "/əˈsaɪn/"
+      },
+      "expression": "Sam will follow up on the plan tomorrow.",
+      "use": "Use this when you talk about the next steps after a meeting.",
+      "expressionTask": "Sam will do the next steps for the plan tomorrow. What does he say?",
+      "grammar": "have to for tasks: I have to call the client",
+      "pattern": "I have to call the client.",
+      "task": "I have to ___ the client.",
+      "answer": "call",
+      "example": "I have to call the client.",
+      "context": [
+        "Sam takes notes in the meeting.",
+        "Sam will follow up on the plan tomorrow. The first action item is to call the client."
+      ],
+      "dialogue": [
+        "Anna, do you take minutes at our meetings?",
+        "Yes, I take minutes at our meetings.",
+        "Who assigns the tasks?",
+        "The manager assigns the tasks on Monday.",
+        "What is the first action item?",
+        "The first action item is to call the client. Sam will follow up on the plan tomorrow."
+      ],
+      "listening": "Anna takes minutes at our meetings. The manager assigns the tasks on Monday. Sam takes notes in the meeting. The first action item is to call the client. Sam will follow up on the plan tomorrow. Every participant gets a copy of the minutes. Sam likes to take notes.",
+      "question": "What is the first action item?",
+      "correct": "To call the client",
+      "other": "To write the minutes",
+      "reading": "Anna takes minutes at our meetings every Monday. Every Monday, the manager says, 'I assign the tasks.' Sam takes notes in the meeting. The first action item is to call the client. Sam will follow up on the plan tomorrow. Every participant gets a copy of the minutes. Anna says, 'I take minutes at our meetings. I write the notes, and I send them to the team.' Sam says, 'The manager assigns the tasks on Monday. I have to call the client.' Sam likes to take notes. He writes the action items in his notebook. At the end of the meeting, Sam says, 'Thank you, Anna. I will follow up on the plan tomorrow.'",
+      "readingQ": "Who takes minutes at the meetings?",
+      "readingA": "Anna takes minutes at the meetings.",
+      "speaking": "Tell a friend about taking notes in a meeting. Who takes minutes? Who assigns the tasks? What is the first action item? What do you follow up on?",
+      "speakingSample": "Anna takes minutes at our meetings. The manager assigns the tasks on Monday. The first action item is to call the client. Sam will follow up on the plan tomorrow. Every participant gets a copy of the minutes. I like to take notes. I write the action items in my notebook. I follow up on the plan tomorrow.",
+      "writing": "Write a short email to a friend about taking notes in a meeting. Say who takes minutes and what the first action item is.",
+      "writingSample": "Dear Lisa, I want to tell you about our meeting on Monday. Anna takes minutes at our meetings. The manager assigns the tasks on Monday. The first action item is to call the client. Sam will follow up on the plan tomorrow. Every participant gets a copy of the minutes. I like to take notes. I write the action items in my notebook. Best, Sam",
+      "sound": "Assign has its strongest beat on SIGN. In assign, say SIGN clearly at the end. In participant, say CIP clearly in the middle.",
+      "model": "I assign the tasks on Monday.",
+      "wordTask": "Who takes minutes at the meetings?",
+      "wordSample": "Anna takes minutes at the meetings."
+    },
+    {
+      "unit": 4,
+      "day": 29,
+      "title": "Plan a project together",
+      "goal": "I can plan a project together with my team.",
+      "newItems": [
+        {
+          "word": "workload",
+          "ipa": "/ˈwɝkˌloʊd/",
+          "pos": "noun",
+          "definition": "The amount of work a person has to do.",
+          "example": "My workload is very heavy this week.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "involve",
+          "ipa": "/ɪnˈvɑlv/",
+          "pos": "verb",
+          "definition": "To include someone in something.",
+          "example": "We should involve everyone in the plan.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "choose",
+          "ipa": "/tʃuz/",
+          "pos": "verb",
+          "definition": "To decide which thing you want.",
+          "example": "We need to choose a plan today.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "break it down",
+          "ipa": "/breɪk ɪt daʊn/",
+          "pos": "fixed phrase",
+          "definition": "To make something big into small, easy parts.",
+          "example": "Let us break it down into three steps.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "go ahead",
+          "ipa": "/ɡoʊ əˈhɛd/",
+          "pos": "fixed phrase",
+          "definition": "To start or continue with something.",
+          "example": "Let us go ahead with the plan.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "plan",
+        "project",
+        "goal",
+        "team",
+        "work"
+      ],
+      "mainWord": {
+        "word": "workload",
+        "ipa": "/ˈwɝkˌloʊd/",
+        "pos": "noun",
+        "definition": "The amount of work a person has to do.",
+        "example": "My workload is very heavy this week.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Workload is a noun. Workload means the amount of work a person has to do. My workload is very heavy this week.",
+      "pronunciationTarget": {
+        "word": "workload",
+        "ipa": "/ˈwɝkˌloʊd/"
+      },
+      "expression": "Let us break it down into three steps.",
+      "use": "Use this when a big plan is hard to do.",
+      "expressionTask": "The plan is big and hard. What does Sam say?",
+      "grammar": "will for plans: We will start on Monday",
+      "pattern": "We will start on Monday.",
+      "task": "We will ___ on Monday.",
+      "answer": "start",
+      "example": "We will start on Monday.",
+      "context": [
+        "Sam and Anna plan the new project together.",
+        "Let us break it down into three steps. Then we can go ahead with the plan."
+      ],
+      "dialogue": [
+        "Sam, what is your workload this week?",
+        "My workload is very heavy this week.",
+        "We should involve everyone in the plan.",
+        "Yes, let us involve everyone. What plan do we choose?",
+        "We need to choose a plan today. Let us break it down into three steps.",
+        "Good idea. Let us go ahead with the plan."
+      ],
+      "listening": "Sam and Anna plan the new project together. Sam says, 'My workload is very heavy this week.' Anna says, 'We should involve everyone in the plan.' Sam says, 'Let us break it down into three steps.' They choose a plan today. Then they go ahead with the plan.",
+      "question": "What do Sam and Anna do with the plan?",
+      "correct": "They break it down into three steps",
+      "other": "They stop the plan",
+      "reading": "Sam and Anna plan the new project together on Monday. Sam says, 'My workload is very heavy this week.' Anna says, 'We should involve everyone in the plan.' Sam says, 'Yes, let us involve everyone. We need to choose a plan today.' Anna says, 'Let us break it down into three steps. Then we can go ahead with the plan.' Sam says, 'Good idea. We will start on Monday.' Sam likes to plan with his team. He listens to Anna and learns new ideas. They work well together. At the end of the meeting, Sam says, 'Thank you for your ideas. We will go ahead with the plan on Monday.'",
+      "readingQ": "What do Sam and Anna break down?",
+      "readingA": "They break the plan down into three steps.",
+      "speaking": "Tell a friend about planning a project together. What is your workload? Who do you involve? What plan do you choose? How do you break it down?",
+      "speakingSample": "My workload is very heavy this week. We should involve everyone in the plan. We need to choose a plan today. Let us break it down into three steps. Then we can go ahead with the plan. We will start on Monday. I like to plan with my team. We work well together.",
+      "writing": "Write a short email to a friend about planning a project together. Say what your workload is and what plan you choose.",
+      "writingSample": "Dear Tom, I want to tell you about our plan for the new project. My workload is very heavy this week. We should involve everyone in the plan. We need to choose a plan today. Let us break it down into three steps. Then we can go ahead with the plan. We will start on Monday. I like to plan with my team. Best, Sam",
+      "sound": "Workload has its strongest beat on WORK. In workload, say WORK clearly at the start. In involve, say VOLVE clearly at the end.",
+      "model": "My workload is very heavy this week.",
+      "wordTask": "What do Sam and Anna break down?",
+      "wordSample": "They break the plan down into three steps."
+    },
+    {
+      "unit": 4,
+      "day": 30,
+      "title": "Solve a problem in a meeting",
+      "goal": "I can talk about solving a problem in a meeting.",
+      "newItems": [
+        {
+          "word": "obstacle",
+          "ipa": "/ˈɑbstəkəl/",
+          "pos": "noun",
+          "definition": "Something that stops you or makes it hard to do something.",
+          "example": "Time is our biggest obstacle.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "issue",
+          "ipa": "/ˈɪʃu/",
+          "pos": "noun",
+          "definition": "A problem or an important question.",
+          "example": "We need to talk about this issue.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "get to the bottom of",
+          "ipa": "/ɡɛt tə ðə ˈbɑtəm əv/",
+          "pos": "fixed phrase",
+          "definition": "To find the real reason for a problem.",
+          "example": "We need to get to the bottom of this problem.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "root cause",
+          "ipa": "/rut kɔz/",
+          "pos": "fixed phrase",
+          "definition": "The real, first reason for a problem.",
+          "example": "The root cause is not enough time.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "come to an agreement",
+          "ipa": "/kʌm tə ən əˈɡrimənt/",
+          "pos": "fixed phrase",
+          "definition": "To decide together and agree on something.",
+          "example": "We came to an agreement in the meeting.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "problem",
+        "help",
+        "time",
+        "work",
+        "team"
+      ],
+      "mainWord": {
+        "word": "obstacle",
+        "ipa": "/ˈɑbstəkəl/",
+        "pos": "noun",
+        "definition": "Something that stops you or makes it hard to do something.",
+        "example": "Time is our biggest obstacle.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Obstacle is a noun. Obstacle means something that stops you or makes it hard to do something. Time is our biggest obstacle.",
+      "pronunciationTarget": {
+        "word": "obstacle",
+        "ipa": "/ˈɑbstəkəl/"
+      },
+      "expression": "We need to get to the bottom of this problem.",
+      "use": "Use this when you talk about finding the real reason for a problem.",
+      "expressionTask": "Sam wants to find the real reason for the problem. What does he say?",
+      "grammar": "should for advice: We should change the plan",
+      "pattern": "We should change the plan.",
+      "task": "We should ___ the plan.",
+      "answer": "change",
+      "example": "We should change the plan.",
+      "context": [
+        "Sam and Anna talk about a problem in the meeting.",
+        "We need to get to the bottom of this problem. The root cause is not enough time."
+      ],
+      "dialogue": [
+        "Sam, what is the issue today?",
+        "The issue is time. Time is our biggest obstacle.",
+        "We need to get to the bottom of this problem.",
+        "Yes, the root cause is not enough time.",
+        "What should we do?",
+        "We should change the plan. Then we can come to an agreement."
+      ],
+      "listening": "Sam and Anna talk about a problem in the meeting. The issue is time. Time is our biggest obstacle. Sam says, 'We need to get to the bottom of this problem.' Anna says, 'The root cause is not enough time.' They change the plan. Then they come to an agreement.",
+      "question": "What is the root cause?",
+      "correct": "Not enough time",
+      "other": "Not enough money",
+      "reading": "Sam and Anna talk about a problem in the meeting on Tuesday. The issue is time. Time is our biggest obstacle. Sam says, 'We need to get to the bottom of this problem.' Anna says, 'The root cause is not enough time. We should change the plan.' Sam says, 'Good idea. We should change the plan, and then we can come to an agreement.' Sam likes to solve problems with his team. He listens to Anna and learns new ideas. They work well together. At the end of the meeting, Sam says, 'Thank you for your ideas. We came to an agreement in the meeting. We will change the plan.'",
+      "readingQ": "What is the biggest obstacle?",
+      "readingA": "Time is the biggest obstacle.",
+      "speaking": "Tell a friend about solving a problem in a meeting. What is the issue? What is the biggest obstacle? What is the root cause? How do you come to an agreement?",
+      "speakingSample": "The issue is time. Time is our biggest obstacle. We need to get to the bottom of this problem. The root cause is not enough time. We should change the plan. Then we can come to an agreement. I like to solve problems with my team. We work well together.",
+      "writing": "Write a short email to a friend about solving a problem in a meeting. Say what the issue is and what the root cause is.",
+      "writingSample": "Dear Lisa, I want to tell you about our meeting on Tuesday. The issue is time. Time is our biggest obstacle. We need to get to the bottom of this problem. The root cause is not enough time. We should change the plan. Then we can come to an agreement. I like to solve problems with my team in the meeting. We work well together. Best, Sam",
+      "sound": "Obstacle has its strongest beat on OB. In obstacle, say OB clearly at the start. In issue, say ISH clearly at the start.",
+      "model": "Time is our biggest obstacle.",
+      "wordTask": "What is the root cause of the problem?",
+      "wordSample": "The root cause is not enough time."
+    },
+    {
+      "unit": 4,
+      "day": 31,
+      "title": "Lead a short meeting",
+      "goal": "I can lead a short meeting and keep it on time.",
+      "newItems": [
+        {
+          "word": "summarize",
+          "ipa": "/ˈsʌməˌraɪz/",
+          "pos": "verb",
+          "definition": "To say the main points of something in a short way.",
+          "example": "Anna will summarize the meeting.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "clarify",
+          "ipa": "/ˈklɛrəˌfaɪ/",
+          "pos": "verb",
+          "definition": "To make something clear and easy to understand.",
+          "example": "Can you clarify that point?",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "absent",
+          "ipa": "/ˈæbsənt/",
+          "pos": "adjective",
+          "definition": "Not here; not at a meeting or a class.",
+          "example": "Two people are absent today.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "wrap up",
+          "ipa": "/ræp ʌp/",
+          "pos": "fixed phrase",
+          "definition": "To finish something.",
+          "example": "Let us wrap up the meeting now.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "in conclusion",
+          "ipa": "/ɪn kənˈkluʒən/",
+          "pos": "fixed phrase",
+          "definition": "In the end; as a final point.",
+          "example": "In conclusion, we need more time.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "short",
+        "end",
+        "team",
+        "meeting",
+        "thanks"
+      ],
+      "mainWord": {
+        "word": "summarize",
+        "ipa": "/ˈsʌməˌraɪz/",
+        "pos": "verb",
+        "definition": "To say the main points of something in a short way.",
+        "example": "Anna will summarize the meeting.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Summarize is a verb. Summarize means to say the main points of something in a short way. Anna will summarize the meeting.",
+      "pronunciationTarget": {
+        "word": "summarize",
+        "ipa": "/ˈsʌməˌraɪz/"
+      },
+      "expression": "Let us wrap up the meeting now.",
+      "use": "Use this when you want to finish a meeting.",
+      "expressionTask": "Sam wants to finish the meeting now. What does he say?",
+      "grammar": "Present continuous for future plans: We are meeting at ten",
+      "pattern": "We are meeting at ten.",
+      "task": "We are ___ at ten.",
+      "answer": "meeting",
+      "example": "We are meeting at ten.",
+      "context": [
+        "Sam leads a short meeting on Friday.",
+        "Let us wrap up the meeting now. In conclusion, we need more time."
+      ],
+      "dialogue": [
+        "Sam, can you lead the meeting today?",
+        "Yes, I can lead a short meeting.",
+        "Who is absent today?",
+        "Two people are absent today.",
+        "Can you clarify that point, Sam?",
+        "Yes. In conclusion, we need more time. Let us wrap up the meeting now."
+      ],
+      "listening": "Sam leads a short meeting on Friday. Two people are absent today. Sam says, 'Can you clarify that point?' Anna summarizes the meeting. Sam says, 'In conclusion, we need more time. Let us wrap up the meeting now.' Sam likes to lead a short meeting.",
+      "question": "How many people are absent?",
+      "correct": "Two",
+      "other": "Five",
+      "reading": "Sam leads a short meeting on Friday. Two people are absent today. Sam says, 'Can you clarify that point?' Anna says, 'Yes. The plan is clear.' Anna will summarize the meeting. Sam asks, 'Does that make sense?' Anna says, 'Yes, it makes sense. The plan is clear and easy.' Sam is happy. He says, 'Good. We will start on Monday.' At the end, Sam says, 'In conclusion, we need more time. Let us wrap up the meeting now.' Sam likes to lead a short meeting. He listens to his team and learns new ideas. They work well together. At the end of the meeting, Sam says, 'Thank you for your ideas. Anna will summarize the meeting, and we will meet again on Monday.'",
+      "readingQ": "What will Anna do?",
+      "readingA": "Anna will summarize the meeting.",
+      "speaking": "Tell a friend about leading a short meeting. Who is absent? What do you clarify? How do you summarize the meeting? How do you wrap up?",
+      "speakingSample": "I lead a short meeting on Friday. Two people are absent today. Can you clarify that point? Anna will summarize the meeting. In conclusion, we need more time. Let us wrap up the meeting now. I like to lead a short meeting. I listen to my team and learn new ideas.",
+      "writing": "Write a short email to a friend about leading a short meeting. Say who is absent and how you wrap up.",
+      "writingSample": "Dear Tom, I want to tell you about the meeting on Friday. I lead a short meeting on Friday. Two people are absent today. Can you clarify that point? Anna will summarize the meeting. In conclusion, we need more time. Let us wrap up the meeting now. I like to lead a short meeting. I listen to my team and learn new ideas. Best, Sam",
+      "sound": "Summarize has its strongest beat on SUM. In summarize, say SUM clearly at the start. In clarify, say CLAR clearly at the start.",
+      "model": "Anna will summarize the meeting.",
+      "wordTask": "Who will summarize the meeting?",
+      "wordSample": "Anna will summarize the meeting."
+    },
+    {
+      "unit": 4,
+      "day": 32,
+      "title": "Use meeting English in a new situation",
+      "goal": "I can use what I learned about meetings in a new situation.",
+      "newItems": [
+        {
+          "word": "concern",
+          "ipa": "/kənˈsɝn/",
+          "pos": "noun",
+          "definition": "Something you worry about.",
+          "example": "My main concern is the time.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "discuss",
+          "ipa": "/dɪˈskʌs/",
+          "pos": "verb",
+          "definition": "To talk about something with other people.",
+          "example": "We need to discuss the new office.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "run a meeting",
+          "ipa": "/rʌn ə ˈmitɪŋ/",
+          "pos": "fixed phrase",
+          "definition": "To lead and organize a meeting.",
+          "example": "Sam runs a meeting every Friday.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "keep to the agenda",
+          "ipa": "/kip tə ði əˈdʒɛndə/",
+          "pos": "fixed phrase",
+          "definition": "To talk only about the planned points in a meeting.",
+          "example": "Please keep to the agenda today.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "bring up",
+          "ipa": "/brɪŋ ʌp/",
+          "pos": "fixed phrase",
+          "definition": "To start talking about something.",
+          "example": "Anna brought up a problem in the meeting.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "new",
+        "office",
+        "team",
+        "work",
+        "help"
+      ],
+      "mainWord": {
+        "word": "concern",
+        "ipa": "/kənˈsɝn/",
+        "pos": "noun",
+        "definition": "Something you worry about.",
+        "example": "My main concern is the time.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Concern is a noun. Concern means something you worry about. My main concern is the time.",
+      "pronunciationTarget": {
+        "word": "concern",
+        "ipa": "/kənˈsɝn/"
+      },
+      "expression": "Please keep to the agenda today.",
+      "use": "Use this when people talk about other things in a meeting.",
+      "expressionTask": "People talk about other things in the meeting. What does Sam say?",
+      "grammar": "Review: I can use meeting English in a new situation",
+      "pattern": "I can use meeting English in a new situation.",
+      "task": "I can ___ meeting English in a new situation.",
+      "answer": "use",
+      "example": "I can use meeting English in a new situation.",
+      "context": [
+        "Sam helps David run his first team meeting.",
+        "Please keep to the agenda today. We need to discuss the new office."
+      ],
+      "dialogue": [
+        "David, are you ready to run a meeting?",
+        "Yes, but I am a little nervous. Can you help me?",
+        "Of course. Please keep to the agenda today.",
+        "What is your main concern?",
+        "My main concern is the time. I will bring up the new office.",
+        "Good. We will discuss the new office together."
+      ],
+      "listening": "Sam helps David run his first team meeting. David says, 'My main concern is the time.' Sam says, 'Please keep to the agenda today.' David brings up the new office. Sam says, 'Good. We will discuss the new office together.' David is happy. He likes team meetings.",
+      "question": "What is David's main concern?",
+      "correct": "The time",
+      "other": "The new office",
+      "reading": "Sam helps David run his first team meeting on Wednesday. David says, 'My main concern is the time.' Sam says, 'Please keep to the agenda today. We need to discuss the new office.' David says, 'I bring up the new office in the meeting.' Sam says, 'Good. We will discuss the new office together.' David runs a meeting every Friday now. He likes team meetings. He listens to his team and learns new ideas. They work well together. David is happy. He is not nervous now. He is a good team leader. At the end of the meeting, David says, 'Thank you for your ideas. I run a meeting every Friday, and I keep to the agenda.'",
+      "readingQ": "What does David bring up?",
+      "readingA": "David brings up the new office.",
+      "speaking": "Tell a friend about a new situation with meetings. What is your main concern? How do you run a meeting? What do you bring up? How do you keep to the agenda?",
+      "speakingSample": "I run a meeting every Friday. My main concern is the time. Please keep to the agenda today. We need to discuss the new office. I bring up a problem in the meeting. We discuss it together. I like team meetings. I listen to my team and learn new ideas.",
+      "writing": "Write a short email to a friend about a new situation with meetings. Say what your main concern is and how you run a meeting.",
+      "writingSample": "Dear Lisa, I want to tell you about a new situation with meetings. I run a meeting every Friday. My main concern is the time. Please keep to the agenda today. We need to discuss the new office. I bring up a problem in the meeting. We discuss it together. I like team meetings. I listen to my team and learn new ideas. Best, Sam",
+      "sound": "Concern has its strongest beat on CERN. In concern, say CERN clearly at the end. In discuss, say CUSS clearly at the end.",
+      "model": "My main concern is the time.",
+      "wordTask": "What does David bring up in the meeting?",
+      "wordSample": "David brings up the new office in the meeting.",
+      "transferCheck": {
+        "source": "David is a new team member at Sam's office. On Wednesday, he runs his first team meeting. Sam helps him. Sam says, 'Please keep to the agenda today. We need to discuss the new office.' David says, 'My main concern is the time.' In the meeting, David brings up the new office. Sam says, 'Good. We will discuss the new office together.' David runs a meeting every Friday now. He keeps to the agenda, and he is not nervous. On Friday, David gives Sam an update. He says, 'I run a meeting every Friday, and I keep to the agenda.' Sam is happy with David's first meeting.",
+        "dictation": "Sam helps David run his first team meeting.",
+        "answer": "1. The new team member is David. Sam helps him run his first team meeting. 2. David's main concern is the time. Sam says, 'Please keep to the agenda today.' 3. In the meeting, David brings up the new office. Sam says, 'Good. We will discuss the new office together.' 4. David runs a meeting every Friday now. He keeps to the agenda, and he is not nervous. 5. Sample: On Wednesday, David runs his first team meeting. Sam helps him. David's main concern is the time. Sam says, 'Please keep to the agenda today.' David brings up the new office. Sam says, 'Good. We will discuss the new office together.' David runs a meeting every Friday now. He is not nervous. On Friday, David gives Sam an update. He says, 'I run a meeting every Friday, and I keep to the agenda.' Follow-up: What does David do every Friday? He runs a meeting every Friday.",
+        "tasks": [
+          [
+            "1 · Identify the new team member and the helper",
+            "Who is the new team member, and who helps him?"
+          ],
+          [
+            "2 · Work out David's concern",
+            "What is David's main concern?"
+          ],
+          [
+            "3 · Notice what David brings up",
+            "What does David bring up in the meeting?"
+          ],
+          [
+            "4 · Listen and write",
+            "Write the sentence you hear."
+          ],
+          [
+            "5 · Retell and answer",
+            "Tell the story in order, including the new team member, the concern, the new office, and the update. Then answer one follow-up question."
+          ]
+        ]
+      }
+    }
+  ]
+}

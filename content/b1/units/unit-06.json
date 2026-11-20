@@ -1,0 +1,905 @@
+{
+  "number": 6,
+  "title": "Solving problems at work",
+  "lessons": [
+    {
+      "unit": 6,
+      "day": 41,
+      "title": "What's the problem?",
+      "goal": "I can talk about a problem at work and say what is wrong.",
+      "newItems": [
+        {
+          "word": "breakdown",
+          "ipa": "/ˈbreɪkdaʊn/",
+          "pos": "noun",
+          "definition": "A time when a machine stops working.",
+          "example": "The printer has a breakdown.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "effect",
+          "ipa": "/ɪˈfɛkt/",
+          "pos": "noun",
+          "definition": "The result of something.",
+          "example": "The effect is clear.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "crash",
+          "ipa": "/kræʃ/",
+          "pos": "verb",
+          "definition": "Of a computer, to stop working suddenly.",
+          "example": "The computer crashed again.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "go wrong",
+          "ipa": "/ɡoʊ rɔŋ/",
+          "pos": "fixed phrase",
+          "definition": "Something does not work as it should.",
+          "example": "Something went wrong with the printer.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "something is wrong with",
+          "ipa": "/ˈsʌmθɪŋ ɪz rɔŋ wɪð/",
+          "pos": "fixed phrase",
+          "definition": "Used to say something is not working.",
+          "example": "Something is wrong with the printer.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "printer",
+        "office",
+        "morning",
+        "paper",
+        "computer"
+      ],
+      "mainWord": {
+        "word": "breakdown",
+        "ipa": "/ˈbreɪkdaʊn/",
+        "pos": "noun",
+        "definition": "A time when a machine stops working.",
+        "example": "The printer has a breakdown.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Breakdown is a noun. Breakdown means a time when a machine stops working. The printer has a breakdown.",
+      "pronunciationTarget": {
+        "word": "breakdown",
+        "ipa": "/ˈbreɪkdaʊn/"
+      },
+      "expression": "Something is wrong with the printer.",
+      "use": "Use this when a machine does not work.",
+      "expressionTask": "Sam is at the office in the morning. What does he say about the printer?",
+      "grammar": "Present simple for problems: Something is wrong with the printer",
+      "pattern": "Something is wrong with the printer.",
+      "task": "Something is wrong with the ___.",
+      "answer": "printer",
+      "example": "Something is wrong with the printer.",
+      "context": [
+        "Sam is at the office in the morning.",
+        "Something is wrong with the printer. It has a breakdown."
+      ],
+      "dialogue": [
+        "Sam, what is the problem with the printer?",
+        "Something is wrong with the printer. It has a breakdown.",
+        "Does it work at all?",
+        "No. It can go wrong every morning. The computer can crash, too.",
+        "What is the effect on your work?",
+        "I cannot print the report. I need paper for the meeting."
+      ],
+      "listening": "Sam is at the office in the morning. Something is wrong with the printer. It has a breakdown. The printer can go wrong every morning. The computer can crash, too. Sam cannot print the report. The effect is clear. Sam has no paper for the meeting. Sam calls Anna for help.",
+      "question": "What is wrong in the morning?",
+      "correct": "The printer has a breakdown",
+      "other": "The computer is new",
+      "reading": "Sam is at the office in the morning. Something is wrong with the printer. It has a breakdown. The printer can go wrong every morning. The computer can crash, too. Sam cannot print the report. The effect is clear. Sam has no paper for the meeting. He calls Anna. Anna is at her desk. She says, 'I can help you.' Sam is happy. Anna looks at the printer. She says, 'The printer is old. It has a breakdown every week.' Sam says, 'Yes. Something is wrong with the printer. I cannot print my report.' Anna says, 'Let's call the office team. They can help us.' Sam calls the team. The team says, 'We will come at ten.' Sam waits. At ten, the team comes to the office.",
+      "readingQ": "What does Sam do when the team says they will come at ten?",
+      "readingA": "He waits at the office.",
+      "speaking": "Tell a friend about a problem at work. What is wrong? What is the effect on your work? Who helps you?",
+      "speakingSample": "Something is wrong with the printer at my office. It has a breakdown. The printer can go wrong every morning. The computer can crash, too. I cannot print my report. The effect is clear. I have no paper for the meeting. I call Anna. The team will come at ten. I wait at the office.",
+      "writing": "Write a short email to a friend about a problem at work. Say what is wrong and what the effect is on your work.",
+      "writingSample": "Dear Tom, I want to tell you about a problem at work. Something is wrong with the printer at my office. It has a breakdown. The printer can go wrong every morning. The computer can crash, too. I cannot print my report. The effect is clear. I have no paper for the meeting. I call Anna. She calls the office team. The team will come at ten. I wait at the office. Best, Sam",
+      "sound": "Breakdown has its strongest beat on BREAK. In breakdown, say BREAK clearly at the start. In effect, say FECT clearly at the end.",
+      "model": "The printer has a breakdown.",
+      "wordTask": "What is wrong with the printer?",
+      "wordSample": "Something is wrong with the printer. It has a breakdown."
+    },
+    {
+      "unit": 6,
+      "day": 42,
+      "title": "Why did it happen?",
+      "goal": "I can talk about the cause of a problem.",
+      "newItems": [
+        {
+          "word": "identify",
+          "ipa": "/aɪˈdɛntəˌfaɪ/",
+          "pos": "verb",
+          "definition": "To find out what something is.",
+          "example": "Can you identify the problem?",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "discover",
+          "ipa": "/dɪˈskʌvɚ/",
+          "pos": "verb",
+          "definition": "To find something new.",
+          "example": "We discovered the cause.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "simple",
+          "ipa": "/ˈsɪmpəl/",
+          "pos": "adjective",
+          "definition": "Easy; not difficult.",
+          "example": "The cause is simple.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "that's why",
+          "ipa": "/ðæts waɪ/",
+          "pos": "fixed phrase",
+          "definition": "That is the reason.",
+          "example": "That's why the printer is slow.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "as a result",
+          "ipa": "/əz ə rɪˈzʌlt/",
+          "pos": "fixed phrase",
+          "definition": "Because of this.",
+          "example": "As a result, we were late.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "report",
+        "yesterday",
+        "problem",
+        "team",
+        "manager"
+      ],
+      "mainWord": {
+        "word": "identify",
+        "ipa": "/aɪˈdɛntəˌfaɪ/",
+        "pos": "verb",
+        "definition": "To find out what something is.",
+        "example": "Can you identify the problem?",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Identify is a verb. Identify means to find out what something is. Can you identify the problem?",
+      "pronunciationTarget": {
+        "word": "identify",
+        "ipa": "/aɪˈdɛntəˌfaɪ/"
+      },
+      "expression": "That's why the printer breaks down.",
+      "use": "Use this to say the reason for a problem.",
+      "expressionTask": "Sam finds the cause of the problem. What does he say?",
+      "grammar": "Past simple for causes: The printer broke down because it is old",
+      "pattern": "The printer broke down because it is old.",
+      "task": "The printer broke down because it is ___.",
+      "answer": "old",
+      "example": "The printer broke down because it is old.",
+      "context": [
+        "Sam and Anna look at the old printer.",
+        "That's why the printer breaks down. The cause is simple."
+      ],
+      "dialogue": [
+        "Sam, can you identify the problem?",
+        "Yes. I can identify the problem. The printer is old.",
+        "Did you discover the cause?",
+        "Yes. I discovered the cause yesterday. The paper is old, too.",
+        "Is the cause simple?",
+        "Yes. The cause is simple. That's why the printer breaks down."
+      ],
+      "listening": "Sam and Anna look at the old printer. Sam can identify the problem. He discovered the cause yesterday. The cause is simple. The printer is old, and the paper is old, too. That's why the printer breaks down. As a result, Sam cannot print his report. Sam calls the manager for help.",
+      "question": "What did Sam discover yesterday?",
+      "correct": "The cause of the problem",
+      "other": "A new printer",
+      "reading": "Sam and Anna look at the old printer in the morning. Sam can identify the problem. He discovered the cause yesterday. The cause is simple. The printer is old, and the paper is old, too. That's why the printer breaks down. As a result, Sam cannot print his report. Sam says, 'I can identify the problem. I discovered the cause yesterday. The cause is simple.' Anna says, 'Can you discover a way to print the report?' Sam says, 'Yes. I can use the printer in the next office.' Anna is happy. Sam prints his report in the next office. The manager reads the report. She says, 'Thank you, Sam. Good work.' Sam is happy. He says, 'The cause is simple. That's why the printer breaks down.'",
+      "readingQ": "What does Sam use to print his report?",
+      "readingA": "The printer in the next office.",
+      "speaking": "Tell a friend about the cause of a problem. What did you discover? Is the cause simple? What did you do as a result?",
+      "speakingSample": "I can identify the problem with the printer. I discovered the cause yesterday. The cause is simple. The printer is old. That's why the printer breaks down. As a result, I cannot print my report. I use the printer in the next office. I print my report there. The manager is happy. I am happy, too.",
+      "writing": "Write a short email to a friend about the cause of a problem. Say what you discovered and what you did as a result.",
+      "writingSample": "Dear Lisa, I want to tell you about the cause of a problem. I can identify the problem with the printer. I discovered the cause yesterday. The cause is simple. The printer is old. That's why the printer breaks down. As a result, I cannot print my report. I use the printer in the next office. I print my report there. The manager reads the report. I am happy. Best, Sam",
+      "sound": "Identify has its strongest beat on DEN. In identify, say DEN clearly in the middle. In discover, say COV clearly in the middle.",
+      "model": "Can you identify the problem?",
+      "wordTask": "What did Sam discover yesterday?",
+      "wordSample": "He discovered the cause of the problem."
+    },
+    {
+      "unit": 6,
+      "day": 43,
+      "title": "Suggest a solution",
+      "goal": "I can suggest a solution to a problem at work.",
+      "newItems": [
+        {
+          "word": "approach",
+          "ipa": "/əˈproʊtʃ/",
+          "pos": "noun",
+          "definition": "A way of doing something.",
+          "example": "We need a new approach.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "method",
+          "ipa": "/ˈmɛθəd/",
+          "pos": "noun",
+          "definition": "A way of doing something.",
+          "example": "What method do we use?",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "think of a way",
+          "ipa": "/θɪŋk ʌv ə weɪ/",
+          "pos": "fixed phrase",
+          "definition": "To have an idea about how to do something.",
+          "example": "Think of a way to fix it.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "any ideas",
+          "ipa": "/ˈɛni aɪˈdiəz/",
+          "pos": "fixed phrase",
+          "definition": "Used to ask other people for ideas.",
+          "example": "Any ideas for a new plan?",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "that might work",
+          "ipa": "/ðæt maɪt wɝk/",
+          "pos": "fixed phrase",
+          "definition": "Used to say an idea may be good.",
+          "example": "That might work. Let's try it.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "meeting",
+        "idea",
+        "team",
+        "plan",
+        "today"
+      ],
+      "mainWord": {
+        "word": "approach",
+        "ipa": "/əˈproʊtʃ/",
+        "pos": "noun",
+        "definition": "A way of doing something.",
+        "example": "We need a new approach.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Approach is a noun. Approach means a way of doing something. We need a new approach.",
+      "pronunciationTarget": {
+        "word": "approach",
+        "ipa": "/əˈproʊtʃ/"
+      },
+      "expression": "That might work.",
+      "use": "Use this to say an idea may be good.",
+      "expressionTask": "Sam has a new idea for the printer. What does he say?",
+      "grammar": "Suggestions: Let's + verb",
+      "pattern": "Let's try a new printer.",
+      "task": "Let's ___ a new printer.",
+      "answer": "try",
+      "example": "Let's try a new printer.",
+      "context": [
+        "Sam has a meeting with Anna and the team today.",
+        "That might work. Let's try a new approach."
+      ],
+      "dialogue": [
+        "Sam, any ideas for the printer?",
+        "Yes. I can think of a way to help.",
+        "What is your approach?",
+        "My approach is simple. We can use the printer in the next office.",
+        "What method do we use?",
+        "Our method is easy. That might work. Let's try it."
+      ],
+      "listening": "Sam has a meeting with Anna and the team today. Sam says, 'Any ideas for the printer?' Anna says, 'I can think of a way to help.' Sam says, 'What is your approach?' Anna says, 'My approach is to use the new printer.' Anna says, 'That might work. Let's try it.'",
+      "question": "What does Anna suggest?",
+      "correct": "To use the new printer",
+      "other": "To buy a new computer",
+      "reading": "Sam has a meeting with Anna and the team today. They talk about the old printer. Sam says, 'Any ideas for the printer?' Anna says, 'I can think of a way to help. My approach is to use the new printer in the next office.' Sam says, 'What method do we use?' Anna says, 'Our method is easy. We print in the next office. That might work.' Sam is happy. He says, 'That might work. Let's try it.' The team tries the new approach. They print the report in the next office. The report is good. The manager is happy. She says, 'Thank you. Your approach is good.' Sam says, 'Anna can think of a way to help. Her method is easy.' Anna is happy.",
+      "readingQ": "What is Anna's approach?",
+      "readingA": "To use the new printer in the next office.",
+      "speaking": "Tell a friend about a solution to a problem. What is your approach? What method do you use? Do you think that might work?",
+      "speakingSample": "I have a meeting with Anna and the team today. We talk about the old printer. Sam says, 'Any ideas for the printer?' I can think of a way to help. My approach is to use the new printer. Our method is easy. That might work. Let's try it. We print the report in the next office.",
+      "writing": "Write a short email to a friend about a solution to a problem. Say what your approach is and what method you use.",
+      "writingSample": "Dear Tom, I want to tell you about a solution to a problem. I have a meeting with Anna and the team today. We talk about the old printer. Sam says, 'Any ideas for the printer?' I can think of a way to help. My approach is to use the new printer in the next office. Our method is easy. That might work. Let's try it. We print the report. Best, Sam",
+      "sound": "Approach has its strongest beat on PROACH. In approach, say PROACH clearly at the end. In method, say METH clearly at the start.",
+      "model": "We need a new approach.",
+      "wordTask": "What is Anna's approach?",
+      "wordSample": "Her approach is to use the new printer in the next office."
+    },
+    {
+      "unit": 6,
+      "day": 44,
+      "title": "Ask the team for ideas",
+      "goal": "I can ask the team for ideas and talk about a plan.",
+      "newItems": [
+        {
+          "word": "strategy",
+          "ipa": "/ˈstrætədʒi/",
+          "pos": "noun",
+          "definition": "A plan to reach a goal.",
+          "example": "Our strategy is simple.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "technique",
+          "ipa": "/tɛkˈnik/",
+          "pos": "noun",
+          "definition": "A way of doing something well.",
+          "example": "This is a good technique.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "let's find out",
+          "ipa": "/lɛts faɪnd aʊt/",
+          "pos": "fixed phrase",
+          "definition": "Used to suggest learning about a problem.",
+          "example": "Let's find out what happened.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "first of all",
+          "ipa": "/fɝst ʌv ɔl/",
+          "pos": "fixed phrase",
+          "definition": "Used to start a list of actions.",
+          "example": "First of all, check the printer.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "how can we fix it",
+          "ipa": "/haʊ kæn wi fɪks ɪt/",
+          "pos": "fixed phrase",
+          "definition": "Used to ask for a way to fix a problem.",
+          "example": "How can we fix it?",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "customer",
+        "phone",
+        "call",
+        "help",
+        "work"
+      ],
+      "mainWord": {
+        "word": "strategy",
+        "ipa": "/ˈstrætədʒi/",
+        "pos": "noun",
+        "definition": "A plan to reach a goal.",
+        "example": "Our strategy is simple.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Strategy is a noun. Strategy means a plan to reach a goal. Our strategy is simple.",
+      "pronunciationTarget": {
+        "word": "strategy",
+        "ipa": "/ˈstrætədʒi/"
+      },
+      "expression": "How can we fix it?",
+      "use": "Use this to ask for a way to fix a problem.",
+      "expressionTask": "Sam asks the team about the old printer. What does he say?",
+      "grammar": "Questions with How: How can we fix it?",
+      "pattern": "How can we fix it?",
+      "task": "How can we ___ it?",
+      "answer": "fix",
+      "example": "How can we fix it?",
+      "context": [
+        "Sam asks the team about the old printer.",
+        "How can we fix it? First of all, let's find out what is wrong."
+      ],
+      "dialogue": [
+        "Sam, how can we fix it?",
+        "First of all, let's find out what is wrong.",
+        "What is our strategy?",
+        "Our strategy is to check the printer and call the team.",
+        "What technique do we use?",
+        "Our technique is easy. We check the printer step by step."
+      ],
+      "listening": "Sam asks the team about the old printer. Sam says, 'How can we fix it?' Anna says, 'First of all, let's find out what is wrong.' Sam says, 'What is our strategy?' Anna says, 'Our strategy is to check the printer and call the team.'",
+      "question": "What is the team's strategy?",
+      "correct": "To check the printer and call the team",
+      "other": "To buy a new printer",
+      "reading": "Sam asks the team about the old printer. He says, 'How can we fix it?' Anna says, 'First of all, let's find out what is wrong.' Sam says, 'What is our strategy?' Anna says, 'Our strategy is to check the printer and call the team.' Sam says, 'What technique do we use?' Anna says, 'Our technique is easy. We check the printer step by step. Then we call the team.' The team checks the printer. They find a problem with the paper. The paper is old. Sam says, 'How can we fix it?' Anna says, 'First of all, let's find out what paper we need.' The team calls the office. The office says, 'We have new paper.' Sam is happy. He says, 'Our strategy is good. Our technique is easy.'",
+      "readingQ": "What do the team find?",
+      "readingA": "A problem with the paper.",
+      "speaking": "Tell a friend about a team meeting. How do you ask for ideas? What is your strategy? What technique do you use?",
+      "speakingSample": "I ask the team about the old printer. I say, 'How can we fix it?' Anna says, 'First of all, let's find out what is wrong.' Our strategy is to check the printer and call the team. Our technique is easy. We check the printer step by step. Then we call the team.",
+      "writing": "Write a short email to a friend about a team meeting. Say how you ask for ideas and what your strategy is.",
+      "writingSample": "Dear Lisa, I want to tell you about a team meeting. I ask the team about the old printer. I say, 'How can we fix it?' Anna says, 'First of all, let's find out what is wrong.' Our strategy is to check the printer and call the team. Our technique is easy. We check the printer step by step. Then we call the team. Best, Sam",
+      "sound": "Strategy has its strongest beat on STRAT. In strategy, say STRAT clearly at the start. In technique, say NIQUE clearly at the end.",
+      "model": "Our strategy is simple.",
+      "wordTask": "What is the team's strategy?",
+      "wordSample": "Their strategy is to check the printer and call the team."
+    },
+    {
+      "unit": 6,
+      "day": 45,
+      "title": "Choose the best solution",
+      "goal": "I can compare solutions and choose the best one.",
+      "newItems": [
+        {
+          "word": "obvious",
+          "ipa": "/ˈɑbviəs/",
+          "pos": "adjective",
+          "definition": "Easy to see or understand.",
+          "example": "The cause is obvious.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "complicated",
+          "ipa": "/ˈkɑmpləˌkeɪtɪd/",
+          "pos": "adjective",
+          "definition": "Difficult to understand.",
+          "example": "The problem is complicated.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "major",
+          "ipa": "/ˈmeɪdʒɚ/",
+          "pos": "adjective",
+          "definition": "Big and important.",
+          "example": "This is a major problem.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "the main problem is",
+          "ipa": "/ðə meɪn ˈprɑbləm ɪz/",
+          "pos": "fixed phrase",
+          "definition": "Used to say the biggest problem.",
+          "example": "The main problem is the old printer.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "for instance",
+          "ipa": "/fɔr ˈɪnstəns/",
+          "pos": "fixed phrase",
+          "definition": "For example.",
+          "example": "For instance, the printer is old.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "file",
+        "desk",
+        "time",
+        "first",
+        "new"
+      ],
+      "mainWord": {
+        "word": "obvious",
+        "ipa": "/ˈɑbviəs/",
+        "pos": "adjective",
+        "definition": "Easy to see or understand.",
+        "example": "The cause is obvious.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Obvious is an adjective. Obvious means easy to see or understand. The cause is obvious.",
+      "pronunciationTarget": {
+        "word": "obvious",
+        "ipa": "/ˈɑbviəs/"
+      },
+      "expression": "The main problem is the old printer.",
+      "use": "Use this to say the biggest problem.",
+      "expressionTask": "Sam talks about two plans for the printer. What does he say is the main problem?",
+      "grammar": "Comparatives: This plan is better than that plan",
+      "pattern": "This plan is better than that plan.",
+      "task": "This plan is better than ___ plan.",
+      "answer": "that",
+      "example": "This plan is better than that plan.",
+      "context": [
+        "Sam talks about two plans for the old printer.",
+        "The main problem is the old printer. The cause is obvious."
+      ],
+      "dialogue": [
+        "Sam, what is the main problem?",
+        "The main problem is the old printer. The cause is obvious.",
+        "Is the problem complicated?",
+        "No. The problem is not complicated. It is a major problem.",
+        "For instance, the printer is ten years old.",
+        "This plan is better than that plan. Let's buy a new printer."
+      ],
+      "listening": "Sam talks about two plans for the old printer. The main problem is the old printer. The cause is obvious. The problem is not complicated. It is a major problem. For instance, the printer is ten years old. This plan is better than that plan. Sam says, 'Let's buy a new printer.'",
+      "question": "What does Sam want to do?",
+      "correct": "Buy a new printer",
+      "other": "Repair the old printer",
+      "reading": "Sam talks about two plans for the old printer. The main problem is the old printer. The cause is obvious. The problem is not complicated. It is a major problem. For instance, the printer is ten years old. Anna says, 'The printer is old. We can repair it, or we can buy a new one.' Sam says, 'This plan is better than that plan. Let's buy a new printer.' Anna says, 'A new printer is good. It is not complicated to use.' Sam says, 'Yes. The main problem is the old printer. A new printer is the best plan.' Anna is happy. They call the manager. The manager says, 'Yes. Buy a new printer.' Sam and Anna buy a new printer. Sam says, 'The new printer is good.'",
+      "readingQ": "What does the manager say?",
+      "readingA": "Buy a new printer.",
+      "speaking": "Tell a friend about two plans. What is the main problem? Which plan is better? Why?",
+      "speakingSample": "I talk about two plans for the old printer. The main problem is the old printer. The cause is obvious. The problem is not complicated. It is a major problem. For instance, the printer is ten years old. This plan is better than that plan. Let's buy a new printer. A new printer is good.",
+      "writing": "Write a short email to a friend about two plans. Say what the main problem is and which plan is better.",
+      "writingSample": "Dear Tom, I want to tell you about two plans for the old printer. The main problem is the old printer. The cause is obvious. The problem is not complicated. It is a major problem. For instance, the printer is ten years old. This plan is better than that plan. Let's buy a new printer. A new printer is good. Anna is happy. The manager says, 'Yes. Buy a new printer.' Best, Sam",
+      "sound": "Complicated has its strongest beat on COM. In complicated, say COM clearly at the start. In obvious, say OB clearly at the start.",
+      "model": "The cause is obvious.",
+      "wordTask": "What is the main problem?",
+      "wordSample": "The main problem is the old printer."
+    },
+    {
+      "unit": 6,
+      "day": 46,
+      "title": "Make a plan to fix it",
+      "goal": "I can make a plan with steps to fix a problem.",
+      "newItems": [
+        {
+          "word": "process",
+          "ipa": "/ˈprɑsɛs/",
+          "pos": "noun",
+          "definition": "A group of actions that make something happen.",
+          "example": "The process is slow.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "procedure",
+          "ipa": "/prəˈsidʒɚ/",
+          "pos": "noun",
+          "definition": "The steps to do something.",
+          "example": "Follow the procedure.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "follow the steps",
+          "ipa": "/ˈfɑloʊ ðə stɛps/",
+          "pos": "fixed phrase",
+          "definition": "To do the actions in order.",
+          "example": "Follow the steps in the plan.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "quick fix",
+          "ipa": "/kwɪk fɪks/",
+          "pos": "fixed phrase",
+          "definition": "A fast answer that may not last.",
+          "example": "This is only a quick fix.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "plan B",
+          "ipa": "/plæn bi/",
+          "pos": "fixed phrase",
+          "definition": "A second plan if the first plan fails.",
+          "example": "Plan B is to use the old printer.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "paper",
+        "computer",
+        "email",
+        "office",
+        "week"
+      ],
+      "mainWord": {
+        "word": "process",
+        "ipa": "/ˈprɑsɛs/",
+        "pos": "noun",
+        "definition": "A group of actions that make something happen.",
+        "example": "The process is slow.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Process is a noun. Process means a group of actions that make something happen. The process is slow.",
+      "pronunciationTarget": {
+        "word": "process",
+        "ipa": "/ˈprɑsɛs/"
+      },
+      "expression": "Follow the steps in the plan.",
+      "use": "Use this to say to do the actions in order.",
+      "expressionTask": "Sam makes a plan to fix the printer. What does he say?",
+      "grammar": "Sequencing: First, then, finally",
+      "pattern": "First, we check the printer. Then, we call the team.",
+      "task": "First, we check the printer. Then, we ___ the team.",
+      "answer": "call",
+      "example": "First, we check the printer. Then, we call the team.",
+      "context": [
+        "Sam makes a plan to fix the printer.",
+        "Follow the steps in the plan. First, we check the printer."
+      ],
+      "dialogue": [
+        "Sam, what is the process?",
+        "The process is easy. First, we check the printer.",
+        "What is the procedure?",
+        "The procedure is in the email. Follow the steps in the plan.",
+        "Is this a quick fix?",
+        "No. A quick fix is not good. Plan B is to buy a new printer."
+      ],
+      "listening": "Sam makes a plan to fix the printer. The process is easy. First, Sam checks the printer. Then, he calls the team. The procedure is in the email. Sam says, 'Follow the steps in the plan.' A quick fix is not good. Plan B is to buy a new printer.",
+      "question": "What is Plan B?",
+      "correct": "To buy a new printer",
+      "other": "To repair the old printer",
+      "reading": "Sam makes a plan to fix the printer. The process is easy. First, Sam checks the printer. Then, he calls the team. The procedure is in the email. Sam says, 'Follow the steps in the plan.' Anna reads the email. She says, 'The procedure is clear. A quick fix is not good. Plan B is to buy a new printer.' Sam says, 'Yes. The process is easy. First, we check the printer. Then, we call the team.' The team comes to the office. They check the printer. They say, 'The printer is old. A quick fix is not good.' Sam says, 'Plan B is to buy a new printer.' The manager says, 'Yes. Buy a new printer this week.' Sam is happy.",
+      "readingQ": "What does the manager say?",
+      "readingA": "Buy a new printer this week.",
+      "speaking": "Tell a friend about a plan to fix a problem. What is the process? What is the procedure? What is Plan B?",
+      "speakingSample": "I make a plan to fix the printer. The process is easy. First, I check the printer. Then, I call the team. The procedure is in the email. I say, 'Follow the steps in the plan.' A quick fix is not good. Plan B is to buy a new printer. The manager says, 'Yes. Buy a new printer this week.'",
+      "writing": "Write a short email to a friend about a plan to fix a problem. Say what the process is and what Plan B is.",
+      "writingSample": "Dear Lisa, I want to tell you about a plan to fix the printer. The process is easy. First, I check the printer. Then, I call the team. The procedure is in the email. I say, 'Follow the steps in the plan.' A quick fix is not good. Plan B is to buy a new printer. The manager says, 'Yes. Buy a new printer this week.' I am happy with the plan. Best, Sam",
+      "sound": "Procedure has its strongest beat on CE. In procedure, say CE clearly in the middle. In process, say PRO clearly at the start.",
+      "model": "The process is easy.",
+      "wordTask": "What is Plan B?",
+      "wordSample": "Plan B is to buy a new printer."
+    },
+    {
+      "unit": 6,
+      "day": 47,
+      "title": "Check if the solution works",
+      "goal": "I can check if a solution works and talk about the result.",
+      "newItems": [
+        {
+          "word": "investigate",
+          "ipa": "/ɪnˈvɛstəˌɡeɪt/",
+          "pos": "verb",
+          "definition": "To try to find out the facts about something.",
+          "example": "Let's investigate the problem.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "recognize",
+          "ipa": "/ˈrɛkəɡˌnaɪz/",
+          "pos": "verb",
+          "definition": "To know something because you have seen it before.",
+          "example": "I recognize this error.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "system",
+          "ipa": "/ˈsɪstəm/",
+          "pos": "noun",
+          "definition": "A group of parts that work together.",
+          "example": "The computer system is old.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "trial and error",
+          "ipa": "/ˈtraɪəl ənd ˈɛrɚ/",
+          "pos": "fixed phrase",
+          "definition": "Trying different ways until one works.",
+          "example": "We learn by trial and error.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "under control",
+          "ipa": "/ˈʌndɚ kənˈtroʊl/",
+          "pos": "fixed phrase",
+          "definition": "Being managed well.",
+          "example": "The problem is under control.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "printer",
+        "report",
+        "morning",
+        "team",
+        "work"
+      ],
+      "mainWord": {
+        "word": "investigate",
+        "ipa": "/ɪnˈvɛstəˌɡeɪt/",
+        "pos": "verb",
+        "definition": "To try to find out the facts about something.",
+        "example": "Let's investigate the problem.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Investigate is a verb. Investigate means to try to find out the facts about something. Let's investigate the problem.",
+      "pronunciationTarget": {
+        "word": "investigate",
+        "ipa": "/ɪnˈvɛstəˌɡeɪt/"
+      },
+      "expression": "The problem is under control.",
+      "use": "Use this to say a problem is being managed well.",
+      "expressionTask": "Sam checks the new printer. What does he say?",
+      "grammar": "Present perfect for results: We have fixed the printer",
+      "pattern": "We have fixed the printer.",
+      "task": "We have ___ the printer.",
+      "answer": "fixed",
+      "example": "We have fixed the printer.",
+      "context": [
+        "Sam checks the new printer in the morning.",
+        "The problem is under control. We have fixed the printer."
+      ],
+      "dialogue": [
+        "Sam, is the new printer good?",
+        "Yes. We have fixed the printer. The problem is under control.",
+        "Did you investigate the old printer?",
+        "Yes. I investigated the old printer. I recognize the problem now.",
+        "How did you learn?",
+        "By trial and error. The new system works well."
+      ],
+      "listening": "Sam checks the new printer in the morning. We have fixed the printer. The problem is under control. Sam investigated the old printer. He can recognize the problem now. The team learned by trial and error. The new system works well. Sam is happy. The team is happy, too.",
+      "question": "How did the team learn?",
+      "correct": "By trial and error",
+      "other": "By reading a book",
+      "reading": "Sam checks the new printer in the morning. We have fixed the printer. The problem is under control. Sam investigated the old printer. He can recognize the problem now. The team learned by trial and error. The new system works well. Sam says, 'Let's investigate the problem. I can recognize the problem now.' Anna says, 'The new system is good. The problem is under control.' Sam prints a report. The report is good. He gives the report to the manager. The manager reads the report. She says, 'Thank you. Good work.' Sam is happy. He says, 'We learned by trial and error. We have fixed the printer.' Anna is happy. She says, 'The new system works well.'",
+      "readingQ": "What does Sam print?",
+      "readingA": "A report.",
+      "speaking": "Tell a friend about a solution that works. Did you investigate the problem? How did you learn? Is the problem under control?",
+      "speakingSample": "I check the new printer in the morning. We have fixed the printer. The problem is under control. I investigated the old printer. I can recognize the problem now. The team learned by trial and error. The new system works well. I print a report. The report is good. The manager is happy.",
+      "writing": "Write a short email to a friend about a solution that works. Say how you learned and what the result is.",
+      "writingSample": "Dear Tom, I want to tell you about a solution that works. I check the new printer in the morning. We have fixed the printer. The problem is under control. I investigated the old printer. I can recognize the problem now. The team learned by trial and error. The new system works well. I print a report. The report is good. The manager says, 'Thank you. Good work.' Best, Sam",
+      "sound": "Investigate has its strongest beat on VES. In investigate, say VES clearly in the middle. In recognize, say COG clearly in the middle.",
+      "model": "Let's investigate the problem.",
+      "wordTask": "How did the team learn?",
+      "wordSample": "They learned by trial and error."
+    },
+    {
+      "unit": 6,
+      "day": 48,
+      "title": "Use problem-solving English in a new situation",
+      "goal": "I can use problem-solving English in a new situation.",
+      "newItems": [
+        {
+          "word": "prevent",
+          "ipa": "/prɪˈvɛnt/",
+          "pos": "verb",
+          "definition": "To stop something bad from happening.",
+          "example": "We can prevent this problem.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "permanent",
+          "ipa": "/ˈpɝmənənt/",
+          "pos": "adjective",
+          "definition": "For a long time; not temporary.",
+          "example": "We need a permanent fix.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "sort out",
+          "ipa": "/sɔrt aʊt/",
+          "pos": "fixed phrase",
+          "definition": "To fix a problem.",
+          "example": "We need to sort out this problem.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "cope with",
+          "ipa": "/koʊp wɪð/",
+          "pos": "fixed phrase",
+          "definition": "To manage a difficult thing.",
+          "example": "We can cope with the delay.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "under pressure",
+          "ipa": "/ˈʌndɚ ˈprɛʃɚ/",
+          "pos": "fixed phrase",
+          "definition": "Feeling stress from work.",
+          "example": "Sam is under pressure today.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "customer",
+        "manager",
+        "office",
+        "problem",
+        "help"
+      ],
+      "mainWord": {
+        "word": "prevent",
+        "ipa": "/prɪˈvɛnt/",
+        "pos": "verb",
+        "definition": "To stop something bad from happening.",
+        "example": "We can prevent this problem.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Prevent is a verb. Prevent means to stop something bad from happening. We can prevent this problem.",
+      "pronunciationTarget": {
+        "word": "prevent",
+        "ipa": "/prɪˈvɛnt/"
+      },
+      "expression": "We need a permanent fix.",
+      "use": "Use this to say you want an answer that lasts.",
+      "expressionTask": "Mia has a problem with a customer order. What does Sam say?",
+      "grammar": "Review: I can use problem-solving English in a new situation",
+      "pattern": "I can use problem-solving English in a new situation.",
+      "task": "I can ___ problem-solving English in a new situation.",
+      "answer": "use",
+      "example": "I can use problem-solving English in a new situation.",
+      "context": [
+        "Mia is a new colleague at Sam's office. She has a problem with a customer order.",
+        "We need a permanent fix. Let's sort out this problem."
+      ],
+      "dialogue": [
+        "Mia, what is the problem?",
+        "A customer order is wrong. I am under pressure.",
+        "Don't worry. We can sort out this problem.",
+        "How can we cope with the order?",
+        "We can call the customer and fix the order. Can we prevent this problem?",
+        "Yes. We need a permanent fix."
+      ],
+      "listening": "Mia is a new colleague at Sam's office. She has a problem with a customer order. The order is wrong. Mia is under pressure. Sam says, 'Don't worry. We can sort out this problem.' Mia says, 'How can we cope with the order?' Sam says, 'We can call the customer.'",
+      "question": "What is Mia's problem?",
+      "correct": "A customer order is wrong",
+      "other": "A printer is broken",
+      "reading": "Mia is a new colleague at Sam's office. She has a problem with a customer order. The order is wrong. Mia is under pressure. Sam helps her. He says, 'Don't worry. We can sort out this problem.' Mia says, 'How can we cope with the order?' Sam says, 'We can call the customer and fix the order.' Mia calls the customer. The customer is happy. Sam says, 'Can we prevent this problem?' Mia says, 'Yes. We need a permanent fix.' Sam says, 'Let's check every order. We can prevent this problem.' Mia is happy. She says, 'Thank you, Sam. We can sort out this problem. We need a permanent fix.' The manager is happy. She says, 'Good work, Mia and Sam.'",
+      "readingQ": "What does Mia do after Sam helps her?",
+      "readingA": "She calls the customer.",
+      "speaking": "Tell a friend about a new situation with a problem. What is the problem? How do you sort it out? Can you prevent it?",
+      "speakingSample": "Mia is a new colleague at my office. She has a problem with a customer order. The order is wrong. Mia is under pressure. I help her. I say, 'Don't worry. We can sort out this problem.' We call the customer and fix the order. We need a permanent fix. We can prevent this problem. The manager is happy.",
+      "writing": "Write a short email to a friend about a new situation with a problem. Say what the problem is and how you sort it out.",
+      "writingSample": "Dear Lisa, I want to tell you about a new situation with a problem. Mia is a new colleague at my office. She has a problem with a customer order. The order is wrong. Mia is under pressure. I help her. I say, 'Don't worry. We can sort out this problem.' We call the customer and fix the order. We need a permanent fix. We can prevent this problem. The manager is happy. Best, Sam",
+      "sound": "Permanent has its strongest beat on PER. In permanent, say PER clearly at the start. In prevent, say VENT clearly at the end.",
+      "model": "We can prevent this problem.",
+      "wordTask": "What does Mia do after Sam helps her?",
+      "wordSample": "She calls the customer and fixes the order.",
+      "transferCheck": {
+        "source": "Mia is a new colleague at Sam's office. On Monday, she has a problem with a customer order. The order is wrong. Mia is under pressure. Sam helps her. Sam says, 'Don't worry. We can sort out this problem.' Mia says, 'How can we cope with the order?' Sam says, 'We can call the customer and fix the order.' Mia calls the customer. The customer is happy. Sam says, 'Can we prevent this problem?' Mia says, 'Yes. We need a permanent fix.' Mia is happy. She says, 'Thank you, Sam.'",
+        "dictation": "Mia has a problem with a customer order.",
+        "answer": "1. The new colleague is Mia. Sam helps her with a problem. A customer order is wrong. 2. Mia is under pressure. Sam says, 'Don't worry. We can sort out this problem.' 3. Mia calls the customer and fixes the order. The customer is happy. 4. Sam asks, 'Can we prevent this problem?' Mia says, 'Yes. We need a permanent fix.' 5. Sample: On Monday, Mia has a problem with a customer order. The order is wrong. Mia is under pressure. Sam helps her. Sam says, 'Don't worry. We can sort out this problem.' Mia calls the customer. The customer is happy. Sam says, 'Can we prevent this problem?' Mia says, 'Yes. We need a permanent fix.' Mia is happy. Follow-up: What does Mia do first? She calls the customer.",
+        "tasks": [
+          [
+            "1 · Identify the new colleague and the problem",
+            "Who is the new colleague, and what is her problem?"
+          ],
+          [
+            "2 · Work out how Sam helps Mia",
+            "What does Sam say to Mia?"
+          ],
+          [
+            "3 · Notice what Mia does",
+            "What does Mia do after Sam helps her?"
+          ],
+          [
+            "4 · Listen and write",
+            "Write the sentence you hear."
+          ],
+          [
+            "5 · Retell and answer",
+            "Tell the story in order, including the new colleague, the customer order, the call, and the permanent fix. Then answer one follow-up question."
+          ]
+        ]
+      }
+    }
+  ]
+}

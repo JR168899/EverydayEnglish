@@ -1,0 +1,905 @@
+{
+  "number": 1,
+  "title": "Starting a new job",
+  "lessons": [
+    {
+      "unit": 1,
+      "day": 1,
+      "title": "Meet your new colleagues",
+      "goal": "I can meet new colleagues and introduce myself at work.",
+      "newItems": [
+        {
+          "word": "supervisor",
+          "ipa": "/ˈsupɚˌvaɪzɚ/",
+          "pos": "noun",
+          "definition": "The person who is in charge of your work.",
+          "example": "My supervisor showed me my desk on my first day.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "coworker",
+          "ipa": "/ˈkoʊˌwɝkɚ/",
+          "pos": "noun",
+          "definition": "A person you work with in the same place.",
+          "example": "My coworker Anna sits next to me.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "welcome aboard",
+          "ipa": "/ˈwɛlkəm əˈbɔrd/",
+          "pos": "fixed phrase",
+          "definition": "A friendly way to say someone is welcome in a new job or team.",
+          "example": "Welcome aboard! We are happy to have you here.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "first day on the job",
+          "ipa": "/fɝst deɪ ɑn ðə dʒɑb/",
+          "pos": "fixed phrase",
+          "definition": "Your first day working in a new job.",
+          "example": "On my first day on the job, I met the whole team.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "nice to work with you",
+          "ipa": "/naɪs tə wɝk wɪð ju/",
+          "pos": "fixed phrase",
+          "definition": "A polite way to greet a new colleague.",
+          "example": "Hello, I am Sam. It is nice to work with you.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "job",
+        "office",
+        "meeting",
+        "team",
+        "help"
+      ],
+      "mainWord": {
+        "word": "supervisor",
+        "ipa": "/ˈsupɚˌvaɪzɚ/",
+        "pos": "noun",
+        "definition": "The person who is in charge of your work.",
+        "example": "My supervisor showed me my desk on my first day.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Supervisor is a noun. The plural is supervisors. Your supervisor is the person who is in charge of your work. Anna is Sam's supervisor.",
+      "pronunciationTarget": {
+        "word": "supervisor",
+        "ipa": "/ˈsupɚˌvaɪzɚ/"
+      },
+      "expression": "Welcome aboard!",
+      "use": "Use this when someone starts a new job or joins your team.",
+      "expressionTask": "Sam starts his new job today. What does Anna say to him?",
+      "grammar": "Introductions: This is + name",
+      "pattern": "This is Anna. She is my supervisor.",
+      "task": "This is ___. She is my supervisor.",
+      "answer": "Anna",
+      "example": "This is Anna. She is my supervisor.",
+      "context": [
+        "Sam arrives at the office on his first morning. Anna meets him at the door.",
+        "Welcome aboard! I am Anna, your supervisor. It is nice to work with you."
+      ],
+      "dialogue": [
+        "Anna: Good morning, Sam. Welcome aboard! I am Anna, your supervisor.",
+        "Sam: Good morning, Anna. Thank you. It is nice to work with you.",
+        "Anna: This is Ben. He is your coworker. He sits next to you.",
+        "Sam: Hello, Ben. It is nice to meet you.",
+        "Ben: Hello, Sam. Welcome to the team. I can help you today.",
+        "Sam: Thank you. I am happy to be here on my first day on the job."
+      ],
+      "listening": "On Monday, Sam arrives at his new office. His supervisor, Anna, meets him at the door. She says, 'Welcome aboard!' Then she shows him his desk. His coworker, Ben, sits next to him. Ben says, 'Welcome to the team. I can help you today.' Sam is happy. It is a good first day on the job.",
+      "question": "Who meets Sam at the door?",
+      "correct": "Anna, his supervisor",
+      "other": "Ben, his coworker",
+      "reading": "Sam starts a new job on Monday. He works in an office in the city. On his first day on the job, his supervisor, Anna, meets him at the door. She smiles and says, 'Welcome aboard! I am Anna. I am your supervisor, and I am happy to work with you.' Sam says, 'Thank you, Anna. It is nice to work with you.' Anna shows Sam his new desk. She says, 'This is Ben. He is your coworker. He sits next to you, and he can help you today.' Ben says hello and shows Sam the office. At lunch, Sam meets the team. Everyone is friendly. Sam is happy. His first day on the job is a good day, and he is ready to learn his new work.",
+      "readingQ": "What does Anna do on Sam's first day?",
+      "readingA": "She meets him at the door, welcomes him, and shows him his desk.",
+      "speaking": "Tell a friend about your first day at a new job. Who did you meet? What did they say? How did you feel?",
+      "speakingSample": "On my first day at my new job, my supervisor met me at the door. She said, 'Welcome aboard!' and showed me my desk. My coworker sat next to me and helped me all morning. I said, 'It is nice to work with you.' Everyone was friendly, and I felt happy and ready to learn.",
+      "writing": "Write a short email to a friend about your first day at a new job. Say who you met, what they said, and how you felt.",
+      "writingSample": "Dear Lisa, I had my first day at my new job today, and it was a good day. My supervisor, Anna, met me at the door and said, 'Welcome aboard!' My coworker, Ben, sits next to me. He showed me the office and helped me all morning. I said, 'It is nice to work with you.' Everyone on the team was friendly. I am happy, and I am ready to learn my work. Best, Sam",
+      "sound": "Supervisor has its strongest beat on SU. In supervisor, say PER clearly in the middle. In welcome aboard, say COME clearly in the middle.",
+      "model": "My supervisor showed me my desk on my first day.",
+      "wordTask": "Who showed Sam his desk on his first day?",
+      "wordSample": "His supervisor, Anna, showed him his desk."
+    },
+    {
+      "unit": 1,
+      "day": 2,
+      "title": "Ask about your work routine",
+      "goal": "I can ask about my work routine and say what is most important.",
+      "newItems": [
+        {
+          "word": "assignment",
+          "ipa": "/əˈsaɪnmənt/",
+          "pos": "noun",
+          "definition": "A piece of work you are asked to do.",
+          "example": "My first assignment is to write a short report.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "priority",
+          "ipa": "/praɪˈɔrəti/",
+          "pos": "noun",
+          "definition": "The most important thing to do first.",
+          "example": "My priority today is to finish the report.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "responsibility",
+          "ipa": "/rɪˌspɑnsəˈbɪləti/",
+          "pos": "noun",
+          "definition": "Something you must do as part of your job.",
+          "example": "My main responsibility is to help new clients.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "so far",
+          "ipa": "/soʊ fɑr/",
+          "pos": "fixed phrase",
+          "definition": "Until now.",
+          "example": "So far, my first week has gone well.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "day to day",
+          "ipa": "/deɪ tə deɪ/",
+          "pos": "fixed phrase",
+          "definition": "The usual things that happen every day.",
+          "example": "My day to day work is answering emails and helping clients.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "work",
+        "time",
+        "morning",
+        "task",
+        "report"
+      ],
+      "mainWord": {
+        "word": "assignment",
+        "ipa": "/əˈsaɪnmənt/",
+        "pos": "noun",
+        "definition": "A piece of work you are asked to do.",
+        "example": "My first assignment is to write a short report.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Assignment is a noun. The plural is assignments. An assignment is a piece of work you are asked to do. Sam's first assignment is to write a short report.",
+      "pronunciationTarget": {
+        "word": "assignment",
+        "ipa": "/əˈsaɪnmənt/"
+      },
+      "expression": "So far, so good.",
+      "use": "Use this when someone asks how things are going.",
+      "expressionTask": "Ben asks Sam how his first week is going. What does Sam say?",
+      "grammar": "Present simple for routines: I start work at nine",
+      "pattern": "I start work at nine.",
+      "task": "I ___ work at nine.",
+      "answer": "start",
+      "example": "I start work at nine.",
+      "context": [
+        "It is Tuesday morning. Sam asks Ben about his work routine.",
+        "So far, so good. I start work at nine and finish at five."
+      ],
+      "dialogue": [
+        "Sam: Ben, what is your work routine? What time do you start?",
+        "Ben: I start work at nine and finish at five, Monday to Friday.",
+        "Sam: What is your first assignment this week?",
+        "Ben: My assignment is to write a report. My priority is to finish it today.",
+        "Sam: And what is your main responsibility?",
+        "Ben: My main responsibility is to help our clients. So far, so good."
+      ],
+      "listening": "Sam asks Ben about his day to day work. Ben starts work at nine and finishes at five. His first assignment is to write a short report, and his priority is to finish it today. He helps the clients every day. Sam has the same assignment. He is learning the routine, and so far, it is going well.",
+      "question": "What time does Ben start work?",
+      "correct": "At nine",
+      "other": "At five",
+      "reading": "On Tuesday, Sam asks Ben about his day to day work. Ben says, 'I start work at nine and finish at five. My first assignment is to write a short report, and my priority is to finish it today. My main responsibility is to help our clients.' Sam's first assignment is the same. He writes a report about the new product. At ten, Sam asks Anna, 'What is my priority today?' Anna says, 'First, finish your report. Then help Ben with his work.' Sam works hard in the morning. At lunch, Ben asks, 'How is it going?' Sam says, 'So far, so good. I am learning the routine, and I like the work.' Sam is happy. His day to day work is new, but he is ready to learn more.",
+      "readingQ": "What is Ben's main responsibility?",
+      "readingA": "His main responsibility is to help the clients.",
+      "speaking": "Tell a friend about your work routine. What time do you start and finish? What is your first task? What is most important?",
+      "speakingSample": "I start work at nine and finish at five, Monday to Friday. My first assignment is to write a short report, and my priority is to finish it today. My main responsibility is to help our clients. My day to day work is answering emails. So far, so good. I am learning the routine, and I like my new job.",
+      "writing": "Write a short note to your supervisor about your first week. Say what your routine is, what your first assignment is, and what is most important.",
+      "writingSample": "Dear Anna, Thank you for a good first week. My work routine is clear now. I start work at nine and finish at five. My first assignment is to write a short report, and my priority is to finish it today. My main responsibility is to help our clients. My day to day work is answering emails and writing reports. So far, so good. I am learning the routine, and I am happy here. Best, Sam",
+      "sound": "Assignment has its strongest beat on SIGN. In assignment, say MENT clearly at the end. In priority, say RI clearly in the middle.",
+      "model": "My first assignment is to write a short report.",
+      "wordTask": "What is Sam's first piece of work?",
+      "wordSample": "His first assignment is to write a short report."
+    },
+    {
+      "unit": 1,
+      "day": 3,
+      "title": "Learn the office rules",
+      "goal": "I can talk about office rules and ask about holidays.",
+      "newItems": [
+        {
+          "word": "policy",
+          "ipa": "/ˈpɑləsi/",
+          "pos": "noun",
+          "definition": "An official rule in a workplace.",
+          "example": "Our company policy says we start work at nine.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "flexible",
+          "ipa": "/ˈflɛksəbəl/",
+          "pos": "adjective",
+          "definition": "Able to change easily; not strict about time.",
+          "example": "We have flexible hours. I can start at eight or nine.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "contract",
+          "ipa": "/ˈkɑntrækt/",
+          "pos": "noun",
+          "definition": "A written agreement about work.",
+          "example": "I signed my work contract on my first day.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "dress code",
+          "ipa": "/drɛs koʊd/",
+          "pos": "fixed phrase",
+          "definition": "The rules about what clothes to wear at work.",
+          "example": "Our dress code is smart but comfortable.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "annual leave",
+          "ipa": "/ˈænjuəl liv/",
+          "pos": "fixed phrase",
+          "definition": "Holiday days from work each year.",
+          "example": "I have twenty days of annual leave a year.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "office",
+        "email",
+        "lunch",
+        "break",
+        "computer"
+      ],
+      "mainWord": {
+        "word": "policy",
+        "ipa": "/ˈpɑləsi/",
+        "pos": "noun",
+        "definition": "An official rule in a workplace.",
+        "example": "Our company policy says we start work at nine.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Policy is a noun. The plural is policies. A policy is an official rule in a workplace. Our company policy says we start work at nine.",
+      "pronunciationTarget": {
+        "word": "policy",
+        "ipa": "/ˈpɑləsi/"
+      },
+      "expression": "What is the dress code here?",
+      "use": "Use this when you want to know what clothes to wear at work.",
+      "expressionTask": "Sam wants to know what to wear at work. What does he ask Ben?",
+      "grammar": "Must and mustn't for rules: You must sign the contract",
+      "pattern": "You must sign the contract.",
+      "task": "You ___ sign the contract.",
+      "answer": "must",
+      "example": "You must sign the contract.",
+      "context": [
+        "Sam reads the office rules on Wednesday morning.",
+        "What is the dress code here? Our policy says smart clothes, but we are flexible on Fridays."
+      ],
+      "dialogue": [
+        "Sam: Ben, what is our company policy about work hours?",
+        "Ben: Our policy says we start at nine. But we have flexible hours on Fridays.",
+        "Sam: What is the dress code here?",
+        "Ben: Smart clothes, please. No jeans on Monday to Thursday.",
+        "Sam: I need to sign my contract today. How much annual leave do I have?",
+        "Ben: You have twenty days a year. Ask Anna if you need more."
+      ],
+      "listening": "On Wednesday, Sam reads the office rules. The company policy says he must start work at nine, but the hours are flexible on Fridays. The dress code is smart clothes. Sam signs his contract in the morning. He learns that he has twenty days of annual leave a year. He is happy with the rules.",
+      "question": "How many days of annual leave does Sam have?",
+      "correct": "Twenty days a year",
+      "other": "Nine days a year",
+      "reading": "On Wednesday, Sam learns the office rules. The company policy is clear. He must start work at nine, and he must sign his contract in the morning. The hours are flexible on Fridays, so he can start at eight or nine. The dress code is smart but comfortable. Sam wears a shirt and trousers. He must not wear jeans from Monday to Thursday. At lunch, Sam asks Ben, 'How much annual leave do I have?' Ben says, 'You have twenty days a year. You can take a holiday in the summer.' Sam is happy. The rules are easy to follow, and the flexible hours help him plan his week. He likes his new office.",
+      "readingQ": "What does Sam wear to work?",
+      "readingA": "He wears a shirt and trousers.",
+      "speaking": "Tell a friend about the rules at your office. What are the work hours? What is the dress code? How much holiday do you have?",
+      "speakingSample": "Our policy is clear. I must start work at nine, and the hours are flexible on Fridays. The dress code is smart but comfortable. I wear a shirt. I signed my contract on my first day. I have twenty days of annual leave a year, so I can take a holiday in the summer. The rules are easy to follow.",
+      "writing": "Write a short email to a friend about the rules at your new office. Say what the hours are, what the dress code is, and how much holiday you have.",
+      "writingSample": "Dear Tom, I like my new office. Our policy is clear. I must start work at nine, and the hours are flexible on Fridays. The dress code is smart but comfortable, so I wear a shirt. I signed my contract on my first day. I have twenty days of annual leave a year, and I can take a holiday in the summer. The rules are easy to follow, and I am happy here. Best, Sam",
+      "sound": "Policy has its strongest beat on POL. In policy, say LI clearly in the middle. In flexible, say FLEX clearly at the start.",
+      "model": "Our company policy says we start work at nine.",
+      "wordTask": "What is an official rule in a workplace called?",
+      "wordSample": "A policy is an official rule in a workplace."
+    },
+    {
+      "unit": 1,
+      "day": 4,
+      "title": "Talk about your first tasks",
+      "goal": "I can talk about my first tasks and present a plan.",
+      "newItems": [
+        {
+          "word": "presentation",
+          "ipa": "/ˌprɛzənˈteɪʃən/",
+          "pos": "noun",
+          "definition": "A talk that shows and explains information to people.",
+          "example": "I gave a short presentation about our new plan.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "conference",
+          "ipa": "/ˈkɑnfɚrəns/",
+          "pos": "noun",
+          "definition": "A large meeting where people talk about work.",
+          "example": "We met our clients at a conference in Chicago.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "position",
+          "ipa": "/pəˈzɪʃən/",
+          "pos": "noun",
+          "definition": "A job in a company.",
+          "example": "She applied for a new position in the company.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "meet a deadline",
+          "ipa": "/mɪt ə ˈdɛdˌlaɪn/",
+          "pos": "fixed phrase",
+          "definition": "To finish work by the agreed time.",
+          "example": "We worked hard to meet a deadline on Friday.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "come up with",
+          "ipa": "/kʌm ʌp wɪð/",
+          "pos": "fixed phrase",
+          "definition": "To think of an idea.",
+          "example": "Can you come up with a plan for Friday?",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "meeting",
+        "email",
+        "project",
+        "idea",
+        "plan"
+      ],
+      "mainWord": {
+        "word": "presentation",
+        "ipa": "/ˌprɛzənˈteɪʃən/",
+        "pos": "noun",
+        "definition": "A talk that shows and explains information to people.",
+        "example": "I gave a short presentation about our new plan.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Presentation is a noun. The plural is presentations. A presentation is a talk that shows and explains information to people. Sam gave a short presentation about the new plan.",
+      "pronunciationTarget": {
+        "word": "presentation",
+        "ipa": "/ˌprɛzənˈteɪʃən/"
+      },
+      "expression": "Can you come up with a plan for Friday?",
+      "use": "Use this when you want someone to think of an idea or a plan.",
+      "expressionTask": "Anna wants a plan for Friday. What does she ask Sam?",
+      "grammar": "Present continuous for current tasks: I am writing a report",
+      "pattern": "I am writing a report.",
+      "task": "I am ___ a report.",
+      "answer": "writing",
+      "example": "I am writing a report.",
+      "context": [
+        "Anna asks Sam about his first tasks on Thursday.",
+        "Can you come up with a plan for Friday? We must meet a deadline."
+      ],
+      "dialogue": [
+        "Anna: Sam, what are you working on today?",
+        "Sam: I am writing a report about the new product. I am also planning a presentation.",
+        "Anna: Good. Can you come up with a plan for Friday?",
+        "Sam: Yes, I can. We must meet a deadline on Friday afternoon.",
+        "Anna: Great. We have a conference next week. You can present your plan there.",
+        "Sam: Thank you. I am happy to have this position on the team."
+      ],
+      "listening": "On Thursday, Sam talks to Anna about his tasks. He is writing a report and planning a presentation. Anna asks him to come up with a plan for Friday. They must meet a deadline on Friday afternoon. Next week, there is a conference, and Sam can present his plan there.",
+      "question": "When must Sam and Anna meet a deadline?",
+      "correct": "On Friday afternoon",
+      "other": "On Thursday morning",
+      "reading": "On Thursday, Anna asks Sam about his first tasks. Sam says, 'I am writing a report about the new product, and I am planning a presentation for the team.' Anna says, 'Good. Can you come up with a plan for Friday? We must meet a deadline on Friday afternoon.' Sam works hard all morning. He writes his report and prepares his presentation. At lunch, Ben asks, 'Are you ready?' Sam says, 'Yes. I have a plan, and I am ready to present it.' Next week, the company has a conference in Chicago. Sam can present his plan there. He is happy to have his new position on the team, and he wants to do good work.",
+      "readingQ": "Where can Sam present his plan next week?",
+      "readingA": "At a conference in Chicago.",
+      "speaking": "Tell a friend about your tasks at work. What are you working on? What is the deadline? What will you present?",
+      "speakingSample": "I am writing a report about the new product, and I am planning a presentation for the team. Anna asked me for a plan for Friday. We must meet a deadline on Friday afternoon. Next week, there is a conference in Chicago, and I can present my plan there. I am happy to have my new position on the team.",
+      "writing": "Write a short email to your supervisor about your tasks. Say what you are working on, what the deadline is, and what you will present.",
+      "writingSample": "Dear Anna, Here is an update on my tasks. I am writing a report about the new product, and I am planning a presentation for the team. I will have a plan for Friday. We must meet a deadline on Friday afternoon, and I will be ready. Next week, there is a conference in Chicago, and I can present my plan there. I am happy to have my new position on the team. Best, Sam",
+      "sound": "Presentation has its strongest beat on TA. In presentation, say SEN clearly in the middle. In conference, say CON clearly at the start.",
+      "model": "I gave a short presentation about our new plan.",
+      "wordTask": "What is a talk that shows and explains information called?",
+      "wordSample": "A presentation is a talk that shows and explains information."
+    },
+    {
+      "unit": 1,
+      "day": 5,
+      "title": "Ask for help politely",
+      "goal": "I can ask for help politely at work.",
+      "newItems": [
+        {
+          "word": "appreciate",
+          "ipa": "/əˈpriʃiˌeɪt/",
+          "pos": "verb",
+          "definition": "To be thankful for something.",
+          "example": "I appreciate your help with my first report.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "client",
+          "ipa": "/ˈklaɪənt/",
+          "pos": "noun",
+          "definition": "A person who pays for a service or advice.",
+          "example": "Our client asked us to send the report today.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "I would appreciate it",
+          "ipa": "/aɪ wʊd əˈpriʃiˌeɪt ɪt/",
+          "pos": "fixed phrase",
+          "definition": "A polite way to ask for help.",
+          "example": "Could you show me the printer? I would appreciate it.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "no rush",
+          "ipa": "/noʊ rʌʃ/",
+          "pos": "fixed phrase",
+          "definition": "There is no need to hurry.",
+          "example": "Take your time with the report. No rush.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "get back to you",
+          "ipa": "/ɡɛt bæk tə ju/",
+          "pos": "fixed phrase",
+          "definition": "To answer you later.",
+          "example": "I will check the numbers and get back to you.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "help",
+        "question",
+        "problem",
+        "meeting",
+        "time"
+      ],
+      "mainWord": {
+        "word": "appreciate",
+        "ipa": "/əˈpriʃiˌeɪt/",
+        "pos": "verb",
+        "definition": "To be thankful for something.",
+        "example": "I appreciate your help with my first report.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Appreciate is a verb. The past is appreciated. To appreciate something is to be thankful for it. I appreciate your help with my first report.",
+      "pronunciationTarget": {
+        "word": "appreciate",
+        "ipa": "/əˈpriʃiˌeɪt/"
+      },
+      "expression": "I would appreciate it.",
+      "use": "Use this when you ask for help in a polite way.",
+      "expressionTask": "Sam needs help with the printer. What does he say to Ben?",
+      "grammar": "Polite requests: Could you + verb...?",
+      "pattern": "Could you help me with the printer?",
+      "task": "Could you ___ me with the printer?",
+      "answer": "help",
+      "example": "Could you help me with the printer?",
+      "context": [
+        "Sam needs help with the printer on Friday morning.",
+        "Could you show me how to use the printer? I would appreciate it."
+      ],
+      "dialogue": [
+        "Sam: Ben, could you help me with the printer? I would appreciate it.",
+        "Ben: Of course. What is the problem?",
+        "Sam: The printer is not working, and I must send a report to a client today.",
+        "Ben: No rush. I will look at it now and get back to you in ten minutes.",
+        "Sam: Thank you. I really appreciate your help.",
+        "Ben: You are welcome. Ask me any time you need help."
+      ],
+      "listening": "On Friday, Sam has a problem with the printer. He must send a report to a client today. He asks Ben, 'Could you help me with the printer? I would appreciate it.' Ben says, 'No rush. I will look at it and get back to you in ten minutes.' Sam is happy. Ben is a good coworker.",
+      "question": "What must Sam send to a client today?",
+      "correct": "A report",
+      "other": "A printer",
+      "reading": "On Friday, Sam has a problem. The printer is not working, and he must send a report to a client today. Sam asks Ben, 'Could you help me with the printer? I would appreciate it.' Ben says, 'Of course. No rush. I will look at it now and get back to you in ten minutes.' Sam says, 'Thank you. I really appreciate your help.' Ben fixes the printer in five minutes. He says, 'Here you are. You can send your report now.' Sam sends the report to the client. The client is happy with the report. Sam is happy, too. He likes his job, and he knows he can ask for help when he has a problem.",
+      "readingQ": "How long does it take Ben to fix the printer?",
+      "readingA": "Five minutes.",
+      "speaking": "Tell a friend about a time you asked for help at work. What was the problem? Who helped you? What did you say?",
+      "speakingSample": "On Friday, I had a problem with the printer. I had to send a report to a client. I asked my coworker, 'Could you help me? I would appreciate it.' He said, 'No rush. I will look at it and get back to you.' He fixed it in five minutes. I said, 'Thank you. I really appreciate your help.'",
+      "writing": "Write a short email to a coworker to thank them for their help. Say what the problem was and how they helped you.",
+      "writingSample": "Dear Ben, Thank you for your help on Friday. The printer was not working, and I had to send a report to a client that day. You said, 'No rush. I will look at it and get back to you in ten minutes.' You fixed it in five minutes. I really appreciate your help. I am happy to work with you, and I will help you any time you need me. Best, Sam",
+      "sound": "Appreciate has its strongest beat on PRE. In appreciate, say SHI clearly in the middle. In client, say CLI clearly at the start.",
+      "model": "I appreciate your help with my first report.",
+      "wordTask": "What do you feel when someone helps you?",
+      "wordSample": "I appreciate your help with my first report."
+    },
+    {
+      "unit": 1,
+      "day": 6,
+      "title": "Give a short update on your work",
+      "goal": "I can give a short update on my work.",
+      "newItems": [
+        {
+          "word": "workshop",
+          "ipa": "/ˈwɝkˌʃɑp/",
+          "pos": "noun",
+          "definition": "A meeting where people learn and practise something together.",
+          "example": "We had a workshop about writing clear emails.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "data",
+          "ipa": "/ˈdeɪtə/",
+          "pos": "noun",
+          "definition": "Facts or numbers that give information.",
+          "example": "The data shows that sales went up in May.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "monitor",
+          "ipa": "/ˈmɑnətɚ/",
+          "pos": "noun",
+          "definition": "The screen of a computer.",
+          "example": "My monitor is on my desk next to my laptop.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "on track",
+          "ipa": "/ɑn træk/",
+          "pos": "fixed phrase",
+          "definition": "Going well and as planned.",
+          "example": "Our project is on track. We will finish on time.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "figure out",
+          "ipa": "/ˈfɪɡjɚ aʊt/",
+          "pos": "fixed phrase",
+          "definition": "To understand something.",
+          "example": "I need time to figure out the new system.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "report",
+        "meeting",
+        "project",
+        "progress",
+        "update"
+      ],
+      "mainWord": {
+        "word": "workshop",
+        "ipa": "/ˈwɝkˌʃɑp/",
+        "pos": "noun",
+        "definition": "A meeting where people learn and practise something together.",
+        "example": "We had a workshop about writing clear emails.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Workshop is a noun. The plural is workshops. A workshop is a meeting where people learn and practise something together. We had a workshop about writing clear emails.",
+      "pronunciationTarget": {
+        "word": "workshop",
+        "ipa": "/ˈwɝkˌʃɑp/"
+      },
+      "expression": "Our project is on track.",
+      "use": "Use this when your work is going well and as planned.",
+      "expressionTask": "Anna asks Sam how the project is going. What does he say?",
+      "grammar": "Present perfect for updates: I have finished the report",
+      "pattern": "I have finished the report.",
+      "task": "I have ___ the report.",
+      "answer": "finished",
+      "example": "I have finished the report.",
+      "context": [
+        "Anna asks Sam for an update on Monday morning.",
+        "Our project is on track. I have finished the report, and the data is ready."
+      ],
+      "dialogue": [
+        "Anna: Good morning, Sam. Can you give me a short update on the project?",
+        "Sam: Of course. I have finished the report, and the data is ready.",
+        "Anna: Good. Are we on track?",
+        "Sam: Yes, our project is on track. We will finish on time.",
+        "Anna: We have a workshop on Wednesday about the new system. Can you come?",
+        "Sam: Yes, I can. I need to figure out the new system first."
+      ],
+      "listening": "On Monday, Anna asks Sam for an update. Sam has finished the report, and the data is ready. The project is on track, and they will finish on time. On Wednesday, there is a workshop about the new system. Sam needs to figure out the system first. He checks the data on his monitor.",
+      "question": "What has Sam finished?",
+      "correct": "The report",
+      "other": "The workshop",
+      "reading": "On Monday, Anna asks Sam for an update on the project. Sam says, 'I have finished the report, and the data is ready. Our project is on track, and we will finish on time.' Anna is happy. She says, 'Good work. We have a workshop on Wednesday about the new system. Please come and bring your report.' Sam says, 'I will. I need to figure out the new system first.' In the afternoon, Sam sits at his desk. He checks the data on his monitor and reads about the new system. The data shows that sales went up in May. Sam is ready for the workshop. He is happy with his work, and his project is on track.",
+      "readingQ": "What does the data show?",
+      "readingA": "The data shows that sales went up in May.",
+      "speaking": "Give a short update on a project at work. What have you finished? Is it on track? What is next?",
+      "speakingSample": "Good morning. Here is a short update on our project. I have finished the report, and the data is ready. Our project is on track, and we will finish on time. We have a workshop on Wednesday about the new system. I need to figure out the new system first. I will check the data and prepare for the workshop.",
+      "writing": "Write a short email to your supervisor with an update on your project. Say what you have finished, if it is on track, and what is next.",
+      "writingSample": "Dear Anna, Here is a short update on our project. I have finished the report, and the data is ready. Our project is on track, and we will finish on time. We have a workshop on Wednesday about the new system. I need to figure out the new system first. I will check the data on my monitor and prepare for the workshop. Please let me know if you need anything else. Best, Sam",
+      "sound": "Workshop has its strongest beat on WORK. In workshop, say SHOP clearly at the end. In data, say DA clearly at the start.",
+      "model": "We had a workshop about writing clear emails.",
+      "wordTask": "What is a meeting where people learn and practise something together?",
+      "wordSample": "A workshop is a meeting where people learn and practise something together."
+    },
+    {
+      "unit": 1,
+      "day": 7,
+      "title": "Plan your first week",
+      "goal": "I can plan my first week and talk about my goals.",
+      "newItems": [
+        {
+          "word": "promotion",
+          "ipa": "/prəˈmoʊʃən/",
+          "pos": "noun",
+          "definition": "A move to a more important job.",
+          "example": "After two years, she got a promotion.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "salary",
+          "ipa": "/ˈsæləri/",
+          "pos": "noun",
+          "definition": "The money you are paid for your work, usually each month.",
+          "example": "My salary is paid on the last day of the month.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "set a goal",
+          "ipa": "/sɛt ə ɡoʊl/",
+          "pos": "fixed phrase",
+          "definition": "To decide something you want to do or learn.",
+          "example": "I set a goal to learn ten new words a week.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "plan ahead",
+          "ipa": "/plæn əˈhɛd/",
+          "pos": "fixed phrase",
+          "definition": "To think about and prepare for the future.",
+          "example": "It helps to plan ahead for a busy week.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "pay raise",
+          "ipa": "/peɪ reɪz/",
+          "pos": "fixed phrase",
+          "definition": "More money for the same job.",
+          "example": "After a good year, she got a pay raise.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "week",
+        "month",
+        "friday",
+        "plan",
+        "goal"
+      ],
+      "mainWord": {
+        "word": "promotion",
+        "ipa": "/prəˈmoʊʃən/",
+        "pos": "noun",
+        "definition": "A move to a more important job.",
+        "example": "After two years, she got a promotion.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Promotion is a noun. The plural is promotions. A promotion is a move to a more important job. After two years, she got a promotion.",
+      "pronunciationTarget": {
+        "word": "promotion",
+        "ipa": "/prəˈmoʊʃən/"
+      },
+      "expression": "I want to plan ahead for a busy week.",
+      "use": "Use this when you want to prepare for the future.",
+      "expressionTask": "Sam has a busy week next week. What does he say to Ben?",
+      "grammar": "Going to for plans: I am going to learn ten new words",
+      "pattern": "I am going to learn ten new words a week.",
+      "task": "I am going to ___ ten new words a week.",
+      "answer": "learn",
+      "example": "I am going to learn ten new words a week.",
+      "context": [
+        "Sam and Ben talk about their goals on Friday afternoon.",
+        "I want to plan ahead for a busy week. I set a goal to learn ten new words a week."
+      ],
+      "dialogue": [
+        "Ben: Sam, your first week is almost over. How do you feel?",
+        "Sam: I feel good. I want to plan ahead for a busy week next week.",
+        "Ben: What is your goal for next month?",
+        "Sam: I set a goal to learn ten new words a week. I want to do good work.",
+        "Ben: That is a good goal. If you work hard, you can get a promotion one day.",
+        "Sam: Yes, and maybe a pay raise. My salary is good, and I am happy here."
+      ],
+      "listening": "On Friday, Sam and Ben talk about their goals. Sam wants to plan ahead for a busy week. He set a goal to learn ten new words a week. Ben says that if Sam works hard, he can get a promotion one day. Sam hopes for a pay raise. His salary is good, and he is happy here.",
+      "question": "What is Sam's goal?",
+      "correct": "To learn ten new words a week",
+      "other": "To get a pay raise this week",
+      "reading": "On Friday afternoon, Sam and Ben talk about their goals. Sam says, 'My first week is almost over. I want to plan ahead for a busy week next week. I set a goal to learn ten new words a week, and I want to do good work.' Ben says, 'That is a good goal. If you work hard, you can get a promotion one day.' Sam smiles and says, 'Yes, and maybe a pay raise. My salary is good, and I am happy here.' Sam writes his plan for next week. He will finish his report on Monday and present it on Friday. He is ready for his second week. A new job is hard work, but Sam likes it, and he wants to learn more.",
+      "readingQ": "What will Sam do on Friday next week?",
+      "readingA": "He will present his report.",
+      "speaking": "Tell a friend about your plans and goals. What is your goal for next month? What will you do next week?",
+      "speakingSample": "My first week is almost over. I want to plan ahead for a busy week. I set a goal to learn ten new words a week. If I work hard, I can get a promotion one day. My salary is good, and I am happy here. Next week, I will finish my report and present it on Friday.",
+      "writing": "Write a short email to a friend about your plans and goals at your new job. Say what your goal is and what you will do next week.",
+      "writingSample": "Dear Tom, My first week at my new job is almost over. I want to plan ahead for a busy week next week. I set a goal to learn ten new words a week. If I work hard, I can get a promotion one day, and maybe a pay raise. My salary is good, and I am happy here. Next week, I will finish my report and present it on Friday. Best, Sam",
+      "sound": "Promotion has its strongest beat on MO. In promotion, say TION clearly at the end. In salary, say SAL clearly at the start.",
+      "model": "After two years, she got a promotion.",
+      "wordTask": "What is a move to a more important job called?",
+      "wordSample": "A promotion is a move to a more important job."
+    },
+    {
+      "unit": 1,
+      "day": 8,
+      "title": "Use work English in a new situation",
+      "goal": "I can use work English in a new situation.",
+      "newItems": [
+        {
+          "word": "resign",
+          "ipa": "/rɪˈzaɪn/",
+          "pos": "verb",
+          "definition": "To leave your job.",
+          "example": "After ten years, he decided to resign.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "retire",
+          "ipa": "/rɪˈtaɪɚ/",
+          "pos": "verb",
+          "definition": "To stop working because you are old enough.",
+          "example": "My father plans to retire at sixty-five.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "hand in your notice",
+          "ipa": "/hænd ɪn jʊər ˈnoʊtɪs/",
+          "pos": "fixed phrase",
+          "definition": "To tell your employer in writing that you will leave your job.",
+          "example": "She handed in her notice on Monday morning.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "a new chapter",
+          "ipa": "/ə nu ˈtʃæptɚ/",
+          "pos": "fixed phrase",
+          "definition": "A new part of your life.",
+          "example": "A new job is a new chapter in her life.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "start fresh",
+          "ipa": "/stɑrt frɛʃ/",
+          "pos": "fixed phrase",
+          "definition": "To begin again in a new way.",
+          "example": "In a new city, you can start fresh.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "job",
+        "work",
+        "team",
+        "help",
+        "meeting"
+      ],
+      "mainWord": {
+        "word": "resign",
+        "ipa": "/rɪˈzaɪn/",
+        "pos": "verb",
+        "definition": "To leave your job.",
+        "example": "After ten years, he decided to resign.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Resign is a verb. The past is resigned. To resign is to leave your job. After ten years, he decided to resign.",
+      "pronunciationTarget": {
+        "word": "resign",
+        "ipa": "/rɪˈzaɪn/"
+      },
+      "expression": "A new job is a new chapter in my life.",
+      "use": "Use this when you start something new in your life.",
+      "expressionTask": "Emma starts a new job at a hotel. What does she say about it?",
+      "grammar": "Review: I can start a new job and plan my week",
+      "pattern": "I can start a new job and plan my week.",
+      "task": "I can ___ a new job and plan my week.",
+      "answer": "start",
+      "example": "I can start a new job and plan my week.",
+      "context": [
+        "Emma starts a new job at a hotel on Monday.",
+        "A new job is a new chapter in my life. I am happy to start fresh here."
+      ],
+      "dialogue": [
+        "Emma: Good morning. I am Emma. Today is my first day at the hotel.",
+        "Sara: Good morning, Emma. Welcome aboard! I am Sara, your supervisor.",
+        "Emma: Thank you. It is nice to work with you. What is my first assignment?",
+        "Sara: Your first assignment is to meet the team. Your priority is to learn the hotel.",
+        "Emma: I am happy to be here. A new job is a new chapter in my life.",
+        "Sara: Yes, it is. We are happy to have you. Let us start fresh today."
+      ],
+      "listening": "On Monday, Emma starts a new job at a hotel. Her supervisor, Sara, meets her at the door. Emma's first assignment is to meet the team. Her priority is to learn the hotel. Emma says, 'A new job is a new chapter in my life. I am happy to start fresh here.' Sara is happy to have her.",
+      "question": "What is Emma's priority?",
+      "correct": "To learn the hotel",
+      "other": "To meet a client",
+      "reading": "Mr. Lee worked at the same company for thirty years. Last month, he decided to retire. He said, 'I am old enough to stop working. I want to travel and see my family.' On his last day, his team had a party for him. They said, 'Thank you for your good work.' Mr. Lee said, 'Thank you all. A new job is a new chapter in my life, and now I can start fresh.' His coworker, Anna, decided to resign and move to a new city. She said, 'I will hand in my notice on Monday. I want a new job and a new life.' A new job is a new chapter for Anna, too. She is happy to start fresh in a new city.",
+      "readingQ": "Why does Anna decide to resign?",
+      "readingA": "She wants a new job and a new life in a new city.",
+      "speaking": "Tell a friend about a change at work. Did someone retire or resign? What did they say? How did the team feel?",
+      "speakingSample": "Last month, Mr. Lee decided to retire after thirty years. On his last day, his team had a party for him. He said, 'Thank you all. I can start fresh now.' His coworker, Anna, decided to resign and move to a new city. She will hand in her notice on Monday. She is happy to start fresh there.",
+      "writing": "Write a short email to a friend about a change at work. Say who is leaving, why they are leaving, and how the team feels.",
+      "writingSample": "Dear Tom, There is a big change at work. Mr. Lee decided to retire after thirty years. On his last day, we had a party for him. He said, 'Thank you all. I can start fresh now.' Anna decided to resign and move to a new city. She will hand in her notice on Monday. She is happy to start fresh there. We will miss them both. Best, Sam",
+      "sound": "Resign has its strongest beat on SIGN. In resign, say ZINE clearly at the end. In retire, say TIRE clearly at the end.",
+      "model": "After ten years, he decided to resign.",
+      "wordTask": "What did Anna decide to do?",
+      "wordSample": "Anna decided to resign.",
+      "transferCheck": {
+        "source": "On Monday, Tom starts a new job at a shop in the city. His supervisor, Lisa, meets him at the door. She says, 'Welcome aboard! I am Lisa. I am happy to work with you.' Tom's first assignment is to meet the team. His priority is to learn the shop. Tom says, 'A new job is a new chapter in my life. I am happy to start fresh here.' On Friday, Tom gives Lisa an update. He says, 'I have finished my report, and our project is on track.' Lisa is happy with Tom's first week.",
+        "dictation": "A new job is a new chapter in my life.",
+        "answer": "1. The new worker is Tom. His new job is at a shop in the city. 2. Tom's first assignment is to meet the team. His priority is to learn the shop. 3. On Friday, Tom says, 'I have finished my report, and our project is on track.' 4. A new job is a new chapter in my life. 5. Sample: On Monday, Tom starts a new job at a shop in the city. His supervisor, Lisa, meets him at the door. She says, 'Welcome aboard!' Tom's first assignment is to meet the team, and his priority is to learn the shop. On Friday, Tom gives Lisa an update. He says, 'I have finished my report, and our project is on track.' Follow-up: What does Tom say in his update? He says he has finished his report, and the project is on track.",
+        "tasks": [
+          [
+            "1 · Identify the people and the new job",
+            "Who is the new worker, and where is his new job?"
+          ],
+          [
+            "2 · Work out what Tom does in his first week",
+            "What is Tom's first assignment, and what is his priority?"
+          ],
+          [
+            "3 · Notice the update on Friday",
+            "What does Tom say in his update on Friday?"
+          ],
+          [
+            "4 · Listen and write",
+            "Write the sentence you hear."
+          ],
+          [
+            "5 · Retell and answer",
+            "Tell the story in order, including the people, the new job, the first week, and the update. Then answer one follow-up question."
+          ]
+        ]
+      }
+    }
+  ]
+}

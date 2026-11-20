@@ -1,0 +1,905 @@
+{
+  "number": 27,
+  "title": "Books, films and stories",
+  "lessons": [
+    {
+      "unit": 27,
+      "day": 209,
+      "title": "A good book",
+      "goal": "I can talk about a good book.",
+      "newItems": [
+        {
+          "category": "new_word",
+          "definition": "the events in a story",
+          "example": "The plot is good.",
+          "ipa": "/plɑt/",
+          "pos": "noun",
+          "status": "new",
+          "word": "plot"
+        },
+        {
+          "category": "new_word",
+          "definition": "the good main person in a story",
+          "example": "He is the hero.",
+          "ipa": "/ˈhɪroʊ/",
+          "pos": "noun",
+          "status": "new",
+          "word": "hero"
+        },
+        {
+          "category": "new_word",
+          "definition": "a short story with animals that teaches something",
+          "example": "It is a fable.",
+          "ipa": "/ˈfeɪbəl/",
+          "pos": "noun",
+          "status": "new",
+          "word": "fable"
+        },
+        {
+          "category": "fixed_phrase",
+          "definition": "to read a book to the end",
+          "example": "I finish a book.",
+          "ipa": "/ˈfɪnɪʃ ə bʊk/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "finish a book"
+        },
+        {
+          "category": "fixed_phrase",
+          "definition": "the book I like the most",
+          "example": "It is my favorite book.",
+          "ipa": "/maɪ ˈfeɪvərɪt bʊk/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "my favorite book"
+        }
+      ],
+      "reviewWords": [
+        "book",
+        "read",
+        "morning",
+        "today",
+        "good"
+      ],
+      "mainWord": {
+        "category": "new_word",
+        "definition": "the events in a story",
+        "example": "The plot is good.",
+        "ipa": "/plɑt/",
+        "pos": "noun",
+        "status": "new",
+        "word": "plot"
+      },
+      "mainWordForms": "Plot is a noun. Plot means the events in a story. The plot is good.",
+      "pronunciationTarget": {
+        "word": "plot",
+        "ipa": "/plɑt/"
+      },
+      "expression": "I finished the book yesterday.",
+      "use": "Use this when you talk about a good book.",
+      "expressionTask": "Tom and Lily talk about a good book. What do they say?",
+      "grammar": "past simple for finished stories: I finished the book yesterday",
+      "pattern": "I finished the book yesterday.",
+      "task": "I ___ the book yesterday.",
+      "answer": "finished",
+      "example": "I finished the book yesterday.",
+      "context": [
+        "Tom and Lily talk about a good book.",
+        "Tom says, 'I finished the book yesterday. My favorite book is a fable. The hero is brave and kind.'"
+      ],
+      "dialogue": [
+        "Lily, what is a plot?",
+        "It is the events in a story. The plot is good.",
+        "Who is the hero?",
+        "He is the good main person in the story. The hero is brave.",
+        "Do you finish a book every week?",
+        "Yes. I finish a book every week. My favorite book is a fable."
+      ],
+      "listening": "Tom and Lily talk about a good book. Tom says, 'I finished the book yesterday. My favorite book is a fable. The hero is brave and kind.' Lily says, 'What is a plot?' Tom says, 'It is the events in a story. The plot is good.'",
+      "question": "What did Tom finish yesterday?",
+      "correct": "A book",
+      "other": "A letter",
+      "reading": "On Monday, Tom and Lily talk about a good book. Tom says, 'I finished the book yesterday. I finish a book every week. I read my favorite book every day. The plot is good. The hero is brave and kind. I like the hero very much.' Lily says, 'What is a plot?' Tom says, 'It is the events in a story. The plot is good. A plot can be funny or sad. I like a good plot.' Lily says, 'What is a fable?' Tom says, 'It is a short story with animals that teaches something. A fable is fun to read. I read a fable with my friends. We finish a book every week. My favorite book is a fable about a hero. I like books very much.'",
+      "readingQ": "What did Tom finish yesterday?",
+      "readingA": "A book.",
+      "speaking": "Tell a friend about a good book. What do you say?",
+      "speakingSample": "I talk about a good book with my friend Tom. I finished the book yesterday. I finish a book every week. I read my favorite book every day. The plot is good. The hero is brave and kind. I like the hero very much. We read a fable with our friends.",
+      "writing": "Write a short email to a friend about a good book. Say what you do.",
+      "writingSample": "Dear Anna, I want to tell you about a good book. I finished the book yesterday. I finish a book every week. I read my favorite book every day. The plot is good. The hero is brave and kind. I like the hero very much. We read a fable with our friends. A good book is fun for all of us. See you soon. Best, Lily",
+      "sound": "Plot has its strongest beat on PLOT. In plot, say PLOT clearly at the start. In hero, say HEER clearly at the start.",
+      "model": "The plot is good.",
+      "wordTask": "What is a plot?",
+      "wordSample": "The events in a story."
+    },
+    {
+      "unit": 27,
+      "day": 210,
+      "title": "Bedtime stories",
+      "goal": "I can talk about bedtime stories.",
+      "newItems": [
+        {
+          "category": "new_word",
+          "definition": "the person who tells a story",
+          "example": "She is the narrator.",
+          "ipa": "/ˈnæreɪtɚ/",
+          "pos": "noun",
+          "status": "new",
+          "word": "narrator"
+        },
+        {
+          "category": "new_word",
+          "definition": "a story",
+          "example": "It is a tale.",
+          "ipa": "/teɪl/",
+          "pos": "noun",
+          "status": "new",
+          "word": "tale"
+        },
+        {
+          "category": "fixed_phrase",
+          "definition": "a story you read before bed",
+          "example": "It is a bedtime story.",
+          "ipa": "/ə ˈbɛdˌtaɪm ˈstɔri/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "a bedtime story"
+        },
+        {
+          "category": "fixed_phrase",
+          "definition": "to move to the next page of a book",
+          "example": "I turn the page.",
+          "ipa": "/tɝn ðə peɪdʒ/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "turn the page"
+        },
+        {
+          "category": "fixed_phrase",
+          "definition": "the last page of a book",
+          "example": "It is the last page.",
+          "ipa": "/ðə læst peɪdʒ/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "the last page"
+        }
+      ],
+      "reviewWords": [
+        "story",
+        "night",
+        "listen",
+        "home",
+        "time"
+      ],
+      "mainWord": {
+        "category": "new_word",
+        "definition": "the person who tells a story",
+        "example": "She is the narrator.",
+        "ipa": "/ˈnæreɪtɚ/",
+        "pos": "noun",
+        "status": "new",
+        "word": "narrator"
+      },
+      "mainWordForms": "Narrator is a noun. Narrator means the person who tells a story. She is the narrator.",
+      "pronunciationTarget": {
+        "word": "narrator",
+        "ipa": "/ˈnæreɪtɚ/"
+      },
+      "expression": "I was reading a bedtime story.",
+      "use": "Use this when you talk about bedtime stories.",
+      "expressionTask": "Tom and Lily talk about bedtime stories. What do they say?",
+      "grammar": "past continuous for scenes: I was reading a bedtime story",
+      "pattern": "I was reading a bedtime story.",
+      "task": "I was ___ a bedtime story.",
+      "answer": "reading",
+      "example": "I was reading a bedtime story.",
+      "context": [
+        "Tom and Lily talk about bedtime stories.",
+        "Tom says, 'I was reading a bedtime story. The narrator tells a good tale.'"
+      ],
+      "dialogue": [
+        "Lily, what is a narrator?",
+        "It is the person who tells a story. She is the narrator.",
+        "What is a tale?",
+        "It is a story. I like this tale.",
+        "Do you turn the page at night?",
+        "Yes. I turn the page and read the last page."
+      ],
+      "listening": "Tom and Lily talk about bedtime stories. Tom says, 'I was reading a bedtime story. The narrator tells a good tale.' Lily says, 'What is a narrator?' Tom says, 'It is the person who tells a story.' Lily says, 'What is a tale?' Tom says, 'It is a story. I like this tale very much.'",
+      "question": "What was Tom reading?",
+      "correct": "A bedtime story",
+      "other": "A letter",
+      "reading": "On Tuesday, Tom and Lily talk about bedtime stories. Tom says, 'I was reading a bedtime story. The narrator tells a good tale. I like this tale very much. I turn the page and read the last page. A bedtime story is fun at night.' Lily says, 'What is a narrator?' Tom says, 'It is the person who tells a story. She is the narrator. A narrator can tell a good tale.' Lily says, 'What is a tale?' Tom says, 'It is a story. I like this tale. I read a bedtime story with my friends. We turn the page every night. I read the last page at home. Bedtime stories are good for all of us.'",
+      "readingQ": "What was Tom reading?",
+      "readingA": "A bedtime story.",
+      "speaking": "Tell a friend about bedtime stories. What do you say?",
+      "speakingSample": "I talk about bedtime stories with my friend Tom. I was reading a bedtime story. The narrator tells a good tale. I like this tale very much. I turn the page and read the last page. A bedtime story is fun at night. We read a bedtime story with our friends.",
+      "writing": "Write a short email to a friend about bedtime stories. Say what you do.",
+      "writingSample": "Dear Anna, I want to tell you about bedtime stories. I was reading a bedtime story. The narrator tells a good tale. I like this tale very much. I turn the page and read the last page. A bedtime story is fun at night. We read a bedtime story with our friends. Bedtime stories are good for all of us. See you soon. Best, Lily",
+      "sound": "Narrator has its strongest beat on NARR. In narrator, say NARR clearly at the start. In tale, say TALE clearly.",
+      "model": "She is the narrator.",
+      "wordTask": "What is a narrator?",
+      "wordSample": "The person who tells a story."
+    },
+    {
+      "unit": 27,
+      "day": 211,
+      "title": "A mysterious tale",
+      "goal": "I can talk about a mysterious tale.",
+      "newItems": [
+        {
+          "category": "new_word",
+          "definition": "the bad person in a story",
+          "example": "He is the villain.",
+          "ipa": "/ˈvɪlən/",
+          "pos": "noun",
+          "status": "new",
+          "word": "villain"
+        },
+        {
+          "category": "new_word",
+          "definition": "strange and hard to understand",
+          "example": "It is mysterious.",
+          "ipa": "/mɪˈstɪriəs/",
+          "pos": "adjective",
+          "status": "new",
+          "word": "mysterious"
+        },
+        {
+          "category": "new_word",
+          "definition": "with magic",
+          "example": "It is magical.",
+          "ipa": "/ˈmædʒɪkəl/",
+          "pos": "adjective",
+          "status": "new",
+          "word": "magical"
+        },
+        {
+          "category": "fixed_phrase",
+          "definition": "a story about love",
+          "example": "It is a love story.",
+          "ipa": "/ə lʌv ˈstɔri/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "a love story"
+        },
+        {
+          "category": "fixed_phrase",
+          "definition": "to live a happy life after the story ends",
+          "example": "They live happily ever after.",
+          "ipa": "/lɪv ˈhæpəli ˈɛvɚ ˈæftɚ/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "live happily ever after"
+        }
+      ],
+      "reviewWords": [
+        "film",
+        "watch",
+        "talk",
+        "happy",
+        "friend"
+      ],
+      "mainWord": {
+        "category": "new_word",
+        "definition": "the bad person in a story",
+        "example": "He is the villain.",
+        "ipa": "/ˈvɪlən/",
+        "pos": "noun",
+        "status": "new",
+        "word": "villain"
+      },
+      "mainWordForms": "Villain is a noun. Villain means the bad person in a story. He is the villain.",
+      "pronunciationTarget": {
+        "word": "villain",
+        "ipa": "/ˈvɪlən/"
+      },
+      "expression": "I was reading when she came in.",
+      "use": "Use this when you talk about a mysterious tale.",
+      "expressionTask": "Tom and Lily talk about a mysterious tale. What do they say?",
+      "grammar": "past simple and past continuous: I was reading when she came in",
+      "pattern": "I was reading when she came in.",
+      "task": "I was reading when she ___ in.",
+      "answer": "came",
+      "example": "I was reading when she came in.",
+      "context": [
+        "Tom and Lily talk about a mysterious tale.",
+        "Tom says, 'I was reading when she came in. It is a love story. They live happily ever after.'"
+      ],
+      "dialogue": [
+        "Lily, what is a villain?",
+        "It is the bad person in a story. He is the villain.",
+        "What does mysterious mean?",
+        "It means strange and hard to understand. The tale is mysterious.",
+        "Is it a love story?",
+        "Yes. It is a love story. They live happily ever after."
+      ],
+      "listening": "Tom and Lily talk about a mysterious tale. Tom says, 'I was reading when she came in. It is a love story.' Lily says, 'What is a villain?' Tom says, 'It is the bad person in a story.' Lily says, 'What does mysterious mean?' Tom says, 'It means strange and hard to understand.'",
+      "question": "What kind of story is it?",
+      "correct": "A love story",
+      "other": "A sad story",
+      "reading": "On Wednesday, Tom and Lily talk about a mysterious tale. Tom says, 'I was reading when she came in. It is a love story. The villain is bad, but the hero is good. The tale is mysterious and magical. They live happily ever after.' Lily says, 'What is a villain?' Tom says, 'It is the bad person in a story. He is the villain. A villain can be very bad.' Lily says, 'What does mysterious mean?' Tom says, 'It means strange and hard to understand. The tale is mysterious. It is magical too. I like a love story with our friends. They live happily ever after at home. A love story is fun to read.'",
+      "readingQ": "What kind of story is it?",
+      "readingA": "A love story.",
+      "speaking": "Tell a friend about a mysterious tale. What do you say?",
+      "speakingSample": "I talk about a mysterious tale with my friend Tom. I was reading when she came in. It is a love story. The villain is bad, but the hero is good. The tale is mysterious and magical. They live happily ever after. I like a love story with our friends very much.",
+      "writing": "Write a short email to a friend about a mysterious tale. Say what you think.",
+      "writingSample": "Dear Anna, I want to tell you about a mysterious tale. I was reading when she came in. It is a love story. The villain is bad, but the hero is good. The tale is mysterious and magical. They live happily ever after. I like a love story with our friends very much. A love story is fun for all of us. See you soon. Best, Lily",
+      "sound": "Villain has its strongest beat on VILL. In villain, say VILL clearly at the start. In mysterious, say MYST clearly at the start.",
+      "model": "He is the villain.",
+      "wordTask": "What is a villain?",
+      "wordSample": "The bad person in a story."
+    },
+    {
+      "unit": 27,
+      "day": 212,
+      "title": "The hero of the story",
+      "goal": "I can talk about the hero of a story.",
+      "newItems": [
+        {
+          "category": "new_word",
+          "definition": "a film or book that comes after another one",
+          "example": "It is a sequel.",
+          "ipa": "/ˈsikwəl/",
+          "pos": "noun",
+          "status": "new",
+          "word": "sequel"
+        },
+        {
+          "category": "new_word",
+          "definition": "a book or film many people love for a long time",
+          "example": "It is a classic.",
+          "ipa": "/ˈklæsɪk/",
+          "pos": "noun",
+          "status": "new",
+          "word": "classic"
+        },
+        {
+          "category": "fixed_phrase",
+          "definition": "the chapter after this one",
+          "example": "It is the next chapter.",
+          "ipa": "/ðə nɛkst ˈtʃæptɚ/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "the next chapter"
+        },
+        {
+          "category": "fixed_phrase",
+          "definition": "a group of people who read the same book",
+          "example": "It is a book club.",
+          "ipa": "/ə bʊk klʌb/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "a book club"
+        },
+        {
+          "category": "fixed_phrase",
+          "definition": "the most important idea",
+          "example": "It is the main idea.",
+          "ipa": "/ðə meɪn aɪˈdiə/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "the main idea"
+        }
+      ],
+      "reviewWords": [
+        "show",
+        "music",
+        "people",
+        "week",
+        "school"
+      ],
+      "mainWord": {
+        "category": "new_word",
+        "definition": "a film or book that comes after another one",
+        "example": "It is a sequel.",
+        "ipa": "/ˈsikwəl/",
+        "pos": "noun",
+        "status": "new",
+        "word": "sequel"
+      },
+      "mainWordForms": "Sequel is a noun. Sequel means a film or book that comes after another one. It is a sequel.",
+      "pronunciationTarget": {
+        "word": "sequel",
+        "ipa": "/ˈsikwəl/"
+      },
+      "expression": "He is the hero who saves the town.",
+      "use": "Use this when you talk about the hero of a story.",
+      "expressionTask": "Tom and Lily talk about the hero of a story. What do they say?",
+      "grammar": "relative clauses with who: He is the hero who saves the town",
+      "pattern": "He is the hero who saves the town.",
+      "task": "He is the hero who ___ the town.",
+      "answer": "saves",
+      "example": "He is the hero who saves the town.",
+      "context": [
+        "Tom and Lily talk about the hero of a story.",
+        "Tom says, 'He is the hero who saves the town. It is a classic. The main idea is good.'"
+      ],
+      "dialogue": [
+        "Lily, what is a sequel?",
+        "It is a film or book that comes after another one. It is a sequel.",
+        "What is a classic?",
+        "It is a book or film many people love for a long time. It is a classic.",
+        "What is the main idea?",
+        "It is the most important idea. We read the next chapter in our book club."
+      ],
+      "listening": "Tom and Lily talk about the hero of a story. Tom says, 'He is the hero who saves the town. It is a classic.' Lily says, 'What is a sequel?' Tom says, 'It is a film or book that comes after another one. It is a sequel.'",
+      "question": "Who is the hero?",
+      "correct": "The hero who saves the town",
+      "other": "The bad person in a story",
+      "reading": "On Thursday, Tom and Lily talk about the hero of a story. Tom says, 'He is the hero who saves the town. It is a classic. We read the next chapter in our book club. The main idea is good. It is a sequel.' Lily says, 'What is a sequel?' Tom says, 'It is a film or book that comes after another one. It is a sequel. A sequel can be very good.' Lily says, 'What is a classic?' Tom says, 'It is a book or film many people love for a long time. It is a classic. I like a classic with our friends. We read the next chapter every week. I like a book club at school. The main idea is good for all of us.'",
+      "readingQ": "Who is the hero?",
+      "readingA": "The hero who saves the town.",
+      "speaking": "Tell a friend about the hero of a story. What do you say?",
+      "speakingSample": "I talk about the hero of a story with my friend Tom. He is the hero who saves the town. It is a classic. We read the next chapter in our book club. The main idea is good. It is a sequel. I like a classic with our friends very much.",
+      "writing": "Write a short email to a friend about the hero of a story. Say what you think.",
+      "writingSample": "Dear Anna, I want to tell you about the hero of a story. He is the hero who saves the town. It is a classic. We read the next chapter in our book club. The main idea is good. It is a sequel. I like a classic with our friends very much. A classic is fun for all of us. See you soon. Best, Lily",
+      "sound": "Sequel has its strongest beat on SEE. In sequel, say SEE clearly at the start. In classic, say CLASS clearly at the start.",
+      "model": "It is a sequel.",
+      "wordTask": "What is a sequel?",
+      "wordSample": "A film or book that comes after another one."
+    },
+    {
+      "unit": 27,
+      "day": 213,
+      "title": "Books about real people",
+      "goal": "I can talk about books about real people.",
+      "newItems": [
+        {
+          "category": "new_word",
+          "definition": "a person who writes poems",
+          "example": "She is a poet.",
+          "ipa": "/ˈpoʊət/",
+          "pos": "noun",
+          "status": "new",
+          "word": "poet"
+        },
+        {
+          "category": "new_word",
+          "definition": "a short piece of writing with short lines",
+          "example": "It is a poem.",
+          "ipa": "/ˈpoʊəm/",
+          "pos": "noun",
+          "status": "new",
+          "word": "poem"
+        },
+        {
+          "category": "new_word",
+          "definition": "poems",
+          "example": "I like poetry.",
+          "ipa": "/ˈpoʊətri/",
+          "pos": "noun",
+          "status": "new",
+          "word": "poetry"
+        },
+        {
+          "category": "fixed_phrase",
+          "definition": "a film or book that comes from a real story",
+          "example": "It is based on a true story.",
+          "ipa": "/beɪst ɔn ə tru ˈstɔri/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "based on a true story"
+        },
+        {
+          "category": "fixed_phrase",
+          "definition": "the last part of a story",
+          "example": "It is the end of the story.",
+          "ipa": "/ðə ɛnd ʌv ðə ˈstɔri/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "the end of the story"
+        }
+      ],
+      "reviewWords": [
+        "write",
+        "say",
+        "think",
+        "day",
+        "town"
+      ],
+      "mainWord": {
+        "category": "new_word",
+        "definition": "a person who writes poems",
+        "example": "She is a poet.",
+        "ipa": "/ˈpoʊət/",
+        "pos": "noun",
+        "status": "new",
+        "word": "poet"
+      },
+      "mainWordForms": "Poet is a noun. Poet means a person who writes poems. She is a poet.",
+      "pronunciationTarget": {
+        "word": "poet",
+        "ipa": "/ˈpoʊət/"
+      },
+      "expression": "It is the book that I like best.",
+      "use": "Use this when you talk about books about real people.",
+      "expressionTask": "Tom and Lily talk about books about real people. What do they say?",
+      "grammar": "relative clauses with which and that: It is the book that I like best",
+      "pattern": "It is the book that I like best.",
+      "task": "It is the book ___ I like best.",
+      "answer": "that",
+      "example": "It is the book that I like best.",
+      "context": [
+        "Tom and Lily talk about books about real people.",
+        "Tom says, 'It is the book that I like best. It is based on a true story. The end of the story is good.'"
+      ],
+      "dialogue": [
+        "Lily, what is a poet?",
+        "It is a person who writes poems. She is a poet.",
+        "What is a poem?",
+        "It is a short piece of writing with short lines. I like this poem.",
+        "Do you like poetry?",
+        "Yes. I like poetry. It is based on a true story."
+      ],
+      "listening": "Tom and Lily talk about books about real people. Tom says, 'It is the book that I like. It is based on a true story.' Lily says, 'What is a poet?' Tom says, 'It is a person who writes poems.' Lily says, 'What is a poem?' Tom says, 'It is a short piece of writing.'",
+      "question": "What does Tom like?",
+      "correct": "The book",
+      "other": "The film",
+      "reading": "On Friday, Tom and Lily talk about books about real people. Tom says, 'It is the book that I like best. It is based on a true story. The end of the story is good. She is a poet. I like her poem very much.' Lily says, 'What is a poet?' Tom says, 'It is a person who writes poems. She is a poet. A poet can write a good poem.' Lily says, 'What is a poem?' Tom says, 'It is a short piece of writing with short lines. I like this poem. I like poetry with our friends. We read a poem every day. It is based on a true story. The end of the story is good for all of us.'",
+      "readingQ": "What does Tom like best?",
+      "readingA": "The book.",
+      "speaking": "Tell a friend about books about real people. What do you say?",
+      "speakingSample": "I talk about books about real people with my friend Tom. It is the book that I like best. It is based on a true story. The end of the story is good. She is a poet. I like her poem very much. I like poetry with our friends today.",
+      "writing": "Write a short email to a friend about books about real people. Say what you think.",
+      "writingSample": "Dear Anna, I want to tell you about books about real people. It is the book that I like best. It is based on a true story. The end of the story is good. She is a poet. I like her poem very much. I like poetry with our friends today. Books about real people are good for all of us. See you soon. Best, Lily",
+      "sound": "Poet has its strongest beat on PO. In poet, say PO clearly at the start. In poem, say PO clearly at the start.",
+      "model": "She is a poet.",
+      "wordTask": "What is a poet?",
+      "wordSample": "A person who writes poems."
+    },
+    {
+      "unit": 27,
+      "day": 214,
+      "title": "A film at the movies",
+      "goal": "I can talk about a film at the movies.",
+      "newItems": [
+        {
+          "category": "new_word",
+          "definition": "the person who tells actors what to do",
+          "example": "She is the director.",
+          "ipa": "/dɪˈrɛktɚ/",
+          "pos": "noun",
+          "status": "new",
+          "word": "director"
+        },
+        {
+          "category": "new_word",
+          "definition": "the words of a film or play",
+          "example": "It is the script.",
+          "ipa": "/skrɪpt/",
+          "pos": "noun",
+          "status": "new",
+          "word": "script"
+        },
+        {
+          "category": "fixed_phrase",
+          "definition": "at the place where you watch films",
+          "example": "We are at the movies.",
+          "ipa": "/æt ðə ˈmuviz/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "at the movies"
+        },
+        {
+          "category": "fixed_phrase",
+          "definition": "a film that tells about something",
+          "example": "It is a film about a king.",
+          "ipa": "/ə fɪlm əˈbaʊt/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "a film about"
+        },
+        {
+          "category": "fixed_phrase",
+          "definition": "used to say what a film tells about",
+          "example": "The film is about a king.",
+          "ipa": "/ðə fɪlm ɪz əˈbaʊt/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "the film is about"
+        }
+      ],
+      "reviewWords": [
+        "see",
+        "ask",
+        "hear",
+        "big",
+        "small"
+      ],
+      "mainWord": {
+        "category": "new_word",
+        "definition": "the person who tells actors what to do",
+        "example": "She is the director.",
+        "ipa": "/dɪˈrɛktɚ/",
+        "pos": "noun",
+        "status": "new",
+        "word": "director"
+      },
+      "mainWordForms": "Director is a noun. Director means the person who tells actors what to do. She is the director.",
+      "pronunciationTarget": {
+        "word": "director",
+        "ipa": "/dɪˈrɛktɚ/"
+      },
+      "expression": "The film was funny and exciting.",
+      "use": "Use this when you talk about a film at the movies.",
+      "expressionTask": "Tom and Lily talk about a film at the movies. What do they say?",
+      "grammar": "adjectives for describing stories: The film was funny and exciting",
+      "pattern": "The film was funny and exciting.",
+      "task": "The film was ___ and exciting.",
+      "answer": "funny",
+      "example": "The film was funny and exciting.",
+      "context": [
+        "Tom and Lily talk about a film at the movies.",
+        "Tom says, 'The film was funny and exciting. The film is about a king. We are at the movies.'"
+      ],
+      "dialogue": [
+        "Lily, what is a director?",
+        "It is the person who tells actors what to do. She is the director.",
+        "What is a script?",
+        "It is the words of a film or play. I read the script.",
+        "Is the film about a king?",
+        "Yes. The film is about a king. We are at the movies."
+      ],
+      "listening": "Tom and Lily talk about a film at the movies. Tom says, 'The film was funny and exciting. The film is about a king.' Lily says, 'What is a director?' Tom says, 'It is the person who tells actors what to do.' Lily says, 'What is a script?' Tom says, 'It is the words.'",
+      "question": "What is the film about?",
+      "correct": "A king",
+      "other": "A queen",
+      "reading": "On Saturday, Tom and Lily talk about a film at the movies. Tom says, 'The film was funny and exciting. The film is about a king. We are at the movies. She is the director. I read the script.' Lily says, 'What is a director?' Tom says, 'It is the person who tells actors what to do. She is the director. A director can make a good film.' Lily says, 'What is a script?' Tom says, 'It is the words of a film or play. I read the script. I like a film about a king. The film is about a king who is good. We are at the movies with our friends.'",
+      "readingQ": "What is the film about?",
+      "readingA": "A king.",
+      "speaking": "Tell a friend about a film at the movies. What do you say?",
+      "speakingSample": "I talk about a film at the movies with my friend Tom. The film was funny and exciting. The film is about a king. We are at the movies. She is the director. I read the script. I like a film about a king very much. We are at the movies with our friends.",
+      "writing": "Write a short email to a friend about a film at the movies. Say what you think.",
+      "writingSample": "Dear Anna, I want to tell you about a film at the movies. The film was funny and exciting. The film is about a king. We are at the movies. She is the director. I read the script. I like a film about a king very much. We are at the movies with our friends. A film is fun for all of us. See you soon. Best, Lily",
+      "sound": "Director has its strongest beat on RECT. In director, say RECT clearly in the middle. In script, say SCRIPT clearly.",
+      "model": "She is the director.",
+      "wordTask": "What is a director?",
+      "wordSample": "The person who tells actors what to do."
+    },
+    {
+      "unit": 27,
+      "day": 215,
+      "title": "What did she say?",
+      "goal": "I can say what people said about a film.",
+      "newItems": [
+        {
+          "category": "new_word",
+          "definition": "a person who finds out who did a crime",
+          "example": "She is a detective.",
+          "ipa": "/dɪˈtɛktɪv/",
+          "pos": "noun",
+          "status": "new",
+          "word": "detective"
+        },
+        {
+          "category": "new_word",
+          "definition": "a small thing that helps you find an answer",
+          "example": "It is a clue.",
+          "ipa": "/klu/",
+          "pos": "noun",
+          "status": "new",
+          "word": "clue"
+        },
+        {
+          "category": "new_word",
+          "definition": "a love story",
+          "example": "It is a romance.",
+          "ipa": "/ˈroʊmæns/",
+          "pos": "noun",
+          "status": "new",
+          "word": "romance"
+        },
+        {
+          "category": "fixed_phrase",
+          "definition": "used to say a book is very good",
+          "example": "I can't put it down.",
+          "ipa": "/aɪ kænt pʊt ɪt daʊn/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "I can't put it down"
+        },
+        {
+          "category": "fixed_phrase",
+          "definition": "used to say a film was very good",
+          "example": "The film was great.",
+          "ipa": "/ðə fɪlm wʌz ɡreɪt/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "the film was great"
+        }
+      ],
+      "reviewWords": [
+        "tell",
+        "use",
+        "help",
+        "long",
+        "live"
+      ],
+      "mainWord": {
+        "category": "new_word",
+        "definition": "a person who finds out who did a crime",
+        "example": "She is a detective.",
+        "ipa": "/dɪˈtɛktɪv/",
+        "pos": "noun",
+        "status": "new",
+        "word": "detective"
+      },
+      "mainWordForms": "Detective is a noun. Detective means a person who finds out who did a crime. She is a detective.",
+      "pronunciationTarget": {
+        "word": "detective",
+        "ipa": "/dɪˈtɛktɪv/"
+      },
+      "expression": "She said that the film was great.",
+      "use": "Use this when you say what people said about a film.",
+      "expressionTask": "Tom and Lily talk about what people said. What do they say?",
+      "grammar": "reported speech basics: She said that the film was great",
+      "pattern": "She said that the film was great.",
+      "task": "She said that the film was ___.",
+      "answer": "great",
+      "example": "She said that the film was great.",
+      "context": [
+        "Tom and Lily talk about what people said.",
+        "Tom says, 'She said that the film was great. I can't put it down. It is a romance.'"
+      ],
+      "dialogue": [
+        "Lily, what is a detective?",
+        "It is a person who finds out who did a crime. She is a detective.",
+        "What is a clue?",
+        "It is a small thing that helps you find an answer. I find a clue.",
+        "Can you put the book down?",
+        "No. I can't put it down. The film was great."
+      ],
+      "listening": "Tom and Lily talk about what people said. Tom says, 'She said that the film was great. I can't put it down.' Lily says, 'What is a detective?' Tom says, 'It is a person who finds out who did a crime.' Lily says, 'What is a clue?' Tom says, 'It is a small thing.'",
+      "question": "What did she say?",
+      "correct": "The film was great",
+      "other": "The book was bad",
+      "reading": "On Sunday, Tom and Lily talk about what people said. Tom says, 'She said that the film was great. I can't put it down. It is a romance. She is a detective. I find a clue.' Lily says, 'What is a detective?' Tom says, 'It is a person who finds out who did a crime. She is a detective. A detective can find a clue.' Lily says, 'What is a clue?' Tom says, 'It is a small thing that helps you find an answer. I find a clue every day. I can't put it down. The film was great. I like it very much. It is a romance for all of us.'",
+      "readingQ": "What did she say?",
+      "readingA": "The film was great.",
+      "speaking": "Tell a friend what people said about a film. What do you say?",
+      "speakingSample": "I talk about what people said with my friend Tom. She said that the film was great. I can't put it down. It is a romance. She is a detective. I find a clue every day. I like it very much. We talk about the film with our friends every day.",
+      "writing": "Write a short email to a friend about what people said. Say what they said.",
+      "writingSample": "Dear Anna, I want to tell you what people said about the film. She said that the film was great. I can't put it down. It is a romance. She is a detective. I find a clue every day. I like it very much. We talk about the film with our friends every day. What people say is fun for all of us. See you soon. Best, Lily",
+      "sound": "Detective has its strongest beat on TECT. In detective, say TECT clearly in the middle. In clue, say CLUE clearly.",
+      "model": "She is a detective.",
+      "wordTask": "What is a detective?",
+      "wordSample": "A person who finds out who did a crime."
+    },
+    {
+      "unit": 27,
+      "day": 216,
+      "title": "Use story English in a new situation",
+      "goal": "I can use story English in a new situation.",
+      "newItems": [
+        {
+          "category": "new_word",
+          "definition": "a story about magic and imaginary worlds",
+          "example": "It is a fantasy.",
+          "ipa": "/ˈfæntəsi/",
+          "pos": "noun",
+          "status": "new",
+          "word": "fantasy"
+        },
+        {
+          "category": "new_word",
+          "definition": "the son of a king or queen",
+          "example": "He is a prince.",
+          "ipa": "/prɪns/",
+          "pos": "noun",
+          "status": "new",
+          "word": "prince"
+        },
+        {
+          "category": "fixed_phrase",
+          "definition": "an ending where people are sad",
+          "example": "It is a sad ending.",
+          "ipa": "/ə sæd ˈɛndɪŋ/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "a sad ending"
+        },
+        {
+          "category": "fixed_phrase",
+          "definition": "to be a person in a play or film",
+          "example": "I play a part.",
+          "ipa": "/pleɪ ə pɑrt/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "play a part"
+        },
+        {
+          "category": "fixed_phrase",
+          "definition": "used to say a book was very good",
+          "example": "The book was great.",
+          "ipa": "/ðə bʊk wʌz ɡreɪt/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "the book was great"
+        }
+      ],
+      "reviewWords": [
+        "work",
+        "play",
+        "paper",
+        "radio",
+        "news"
+      ],
+      "mainWord": {
+        "category": "new_word",
+        "definition": "a story about magic and imaginary worlds",
+        "example": "It is a fantasy.",
+        "ipa": "/ˈfæntəsi/",
+        "pos": "noun",
+        "status": "new",
+        "word": "fantasy"
+      },
+      "mainWordForms": "Fantasy is a noun. Fantasy means a story about magic and imaginary worlds. It is a fantasy.",
+      "pronunciationTarget": {
+        "word": "fantasy",
+        "ipa": "/ˈfæntəsi/"
+      },
+      "expression": "I can use story English in a new situation.",
+      "use": "Use this when you talk about using English in a new place.",
+      "expressionTask": "Emma talks about story English. What does she say?",
+      "grammar": "review: story English",
+      "pattern": "I can use story English in a new situation.",
+      "task": "I can use story English in a new ___.",
+      "answer": "situation",
+      "example": "I can use story English in a new situation.",
+      "context": [
+        "Emma talks about story English with her mother.",
+        "Emma says, 'I can use story English in a new situation. The book was great. I play a part in the play.'"
+      ],
+      "dialogue": [
+        "Emma, what is a fantasy?",
+        "It is a story about magic and imaginary worlds. It is a fantasy.",
+        "Who is a prince?",
+        "He is the son of a king or queen. He is a prince.",
+        "Is it a sad ending?",
+        "No. It is a happy ending. The book was great."
+      ],
+      "listening": "Emma talks about story English. Emma says, 'I can use story English in a new situation. The book was great.' Her mother says, 'What is a fantasy?' Emma says, 'It is a story about magic.' Her mother says, 'Who is a prince?' Emma says, 'He is the son of a king.'",
+      "question": "What is a fantasy?",
+      "correct": "A story about magic",
+      "other": "A kind of cake",
+      "reading": "On Monday, Emma talks about story English with her mother. Emma says, 'I can use story English in a new situation. The book was great. It is a fantasy. He is a prince. I play a part in the play.' Her mother says, 'What is a fantasy?' Emma says, 'It is a story about magic and imaginary worlds. It is a fantasy. A fantasy is fun to read.' Her mother says, 'Who is a prince?' Emma says, 'He is the son of a king or queen. He is a prince. It is a sad ending, but the book was great. I play a part in the play every week. I use story English every day.'",
+      "readingQ": "What is a fantasy?",
+      "readingA": "A story about magic and imaginary worlds.",
+      "speaking": "Tell a friend about story English. What do you say?",
+      "speakingSample": "I talk about story English with my friend Emma. I can use story English in a new situation. The book was great. It is a fantasy. He is a prince. I play a part in the play. It is a sad ending, but I like story English very much today.",
+      "writing": "Write a short email to a friend about story English. Say what story English means to you.",
+      "writingSample": "Dear Anna, I want to tell you about story English. I can use story English in a new situation. The book was great. It is a fantasy. He is a prince. I play a part in the play. It is a sad ending, but I like story English very much today. Today I can use it in a new place. Story English is good for all of us. See you soon. Best, Emma",
+      "sound": "Fantasy has its strongest beat on FANT. In fantasy, say FANT clearly at the start. In prince, say PRINCE clearly.",
+      "model": "It is a fantasy.",
+      "wordTask": "What is a fantasy?",
+      "wordSample": "A story about magic and imaginary worlds.",
+      "transferCheck": {
+        "source": "On Saturday, Emma goes to a school book fair with her friend Sara. Emma says, 'I can use story English in a new situation. The book was great. I play a part in the play.' Sara says, 'Yes. What can we do?' Emma says, 'We can play a part in the play. It is a sad ending, but the book was great.' Sara says, 'Good. You use story English well.'",
+        "dictation": "I can use story English in a new situation.",
+        "answer": "1. Emma goes to a school book fair with her friend Sara. She talks about story English. 2. Emma's first job is to say she can use story English in a new situation. 3. On Saturday, Emma says, 'I can use story English in a new situation.' 4. I can use story English in a new situation. 5. Sample: On Saturday, Emma goes to a school book fair with her friend Sara. Emma says, 'I can use story English in a new situation. The book was great. I play a part in the play.' Sara says, 'Yes. What can we do?' Emma says, 'We can play a part in the play. It is a sad ending, but the book was great.' Sara says, 'Good. You use story English well.' Follow-up: What can Emma and Sara do? Play a part in the play.",
+        "tasks": [
+          [
+            "1 · Identify the people and the new situation",
+            "Who does Emma meet, and what does she talk about?"
+          ],
+          [
+            "2 · Work out what Emma does first",
+            "What is Emma's first job, and what does she say?"
+          ],
+          [
+            "3 · Notice the sentence on Saturday",
+            "What does Emma say on Saturday?"
+          ],
+          [
+            "4 · Listen and write",
+            "Write the sentence you hear."
+          ],
+          [
+            "5 · Retell and answer",
+            "Tell the story in order, including the people, the new situation, the first talk, and the result. Then answer one follow-up question."
+          ]
+        ]
+      }
+    }
+  ]
+}

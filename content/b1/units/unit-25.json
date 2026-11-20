@@ -1,0 +1,905 @@
+{
+  "number": 25,
+  "title": "Sport and keeping active",
+  "lessons": [
+    {
+      "unit": 25,
+      "day": 193,
+      "title": "Playing team sports",
+      "goal": "I can talk about team sports.",
+      "newItems": [
+        {
+          "word": "goalkeeper",
+          "ipa": "/ˈɡoʊlˌkipɚ/",
+          "pos": "noun",
+          "definition": "a player who stops the ball from going into the goal",
+          "example": "Our goalkeeper is very tall.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "striker",
+          "ipa": "/ˈstraɪkɚ/",
+          "pos": "noun",
+          "definition": "a player whose job is to score goals",
+          "example": "The striker scored two goals.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "teammate",
+          "ipa": "/ˈtimˌmeɪt/",
+          "pos": "noun",
+          "definition": "a person on your team",
+          "example": "My teammate passed me the ball.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "play for a team",
+          "ipa": "/pleɪ fɔr ə tim/",
+          "pos": "fixed phrase",
+          "definition": "to be a member of a team",
+          "example": "He plays for a team in town.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "team spirit",
+          "ipa": "/tim ˈspɪrɪt/",
+          "pos": "fixed phrase",
+          "definition": "the good feeling of a team that works well",
+          "example": "Our team spirit is strong.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "run",
+        "ball",
+        "team",
+        "play",
+        "game"
+      ],
+      "mainWord": {
+        "word": "goalkeeper",
+        "ipa": "/ˈɡoʊlˌkipɚ/",
+        "pos": "noun",
+        "definition": "a player who stops the ball from going into the goal",
+        "example": "Our goalkeeper is very tall.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Goalkeeper is a noun. Goalkeeper means a player who stops the ball from going into the goal. Our goalkeeper is very tall.",
+      "pronunciationTarget": {
+        "word": "goalkeeper",
+        "ipa": "/ˈɡoʊlˌkipɚ/"
+      },
+      "expression": "We play for a team in town.",
+      "use": "Use this when you talk about playing in a team.",
+      "expressionTask": "Tom and Lily talk about team sports. What do they say?",
+      "grammar": "present simple for team sports: I play football every week",
+      "pattern": "I play football every week.",
+      "task": "I ___ football every week.",
+      "answer": "play",
+      "example": "I play football every week.",
+      "context": [
+        "Tom and Lily talk about team sports.",
+        "Tom says, 'We play for a team in town. Our goalkeeper is very tall.'"
+      ],
+      "dialogue": [
+        "Lily, what is a goalkeeper?",
+        "It is a player who stops the ball. Our goalkeeper is very tall.",
+        "What is a striker?",
+        "It is a player who scores goals. The striker is fast.",
+        "Do you play for a team?",
+        "Yes. My teammate is kind. We have team spirit."
+      ],
+      "listening": "Tom and Lily talk about team sports. Tom says, 'We play for a team in town. Our goalkeeper is very tall.' Lily says, 'What is a goalkeeper?' Tom says, 'It is a player who stops the ball.' Lily says, 'What is a striker?' Tom says, 'It is a player who scores goals.'",
+      "question": "What do Tom and Lily talk about?",
+      "correct": "Team sports",
+      "other": "Music",
+      "reading": "On Monday, Tom and Lily talk about team sports. Tom says, 'We play for a team in town. Our goalkeeper is very tall. The striker is fast. I play football every week.' Lily says, 'What is a goalkeeper?' Tom says, 'It is a player who stops the ball. Our goalkeeper is very tall. A goalkeeper is strong and fast.' Lily says, 'What is a striker?' Tom says, 'It is a player who scores goals. The striker is fast. My teammate is kind. We have team spirit. We play for a team every week. Team spirit is good for all of us. A good teammate helps the team. I like team sports. We play and run with our friends.'",
+      "readingQ": "What do Tom and Lily talk about?",
+      "readingA": "Team sports.",
+      "speaking": "Tell a friend about team sports. What do you say?",
+      "speakingSample": "I talk about team sports with my friend Tom. We play for a team in town. Our goalkeeper is very tall. The striker is fast. My teammate is kind. We have team spirit. I play football every week. I like team sports very much. We play and run with our friends. Team spirit is good for us.",
+      "writing": "Write a short email to a friend about team sports. Say what you do.",
+      "writingSample": "Dear Anna, I want to tell you about team sports. We play for a team in town. Our goalkeeper is very tall. The striker is fast. My teammate is kind. We have team spirit. I play football every week. I like team sports very much. We play and run with our friends. Team spirit is good for all of us. See you soon. Best, Lily",
+      "sound": "Goalkeeper has its strongest beat on KEEP. In goalkeeper, say KEEP clearly in the middle. In striker, say STRIKE clearly at the start.",
+      "model": "Our goalkeeper is very tall.",
+      "wordTask": "What is a goalkeeper?",
+      "wordSample": "A player who stops the ball from going into the goal."
+    },
+    {
+      "unit": 25,
+      "day": 194,
+      "title": "Running and fitness",
+      "goal": "I can talk about running and fitness.",
+      "newItems": [
+        {
+          "word": "athlete",
+          "ipa": "/ˈæθlit/",
+          "pos": "noun",
+          "definition": "a person who plays sport well",
+          "example": "She is a famous athlete.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "compete",
+          "ipa": "/kəmˈpit/",
+          "pos": "verb",
+          "definition": "to try to win against others",
+          "example": "We compete every week.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "get in shape",
+          "ipa": "/ɡɛt ɪn ʃeɪp/",
+          "pos": "fixed phrase",
+          "definition": "to become fit and healthy",
+          "example": "I run to get in shape.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "hit the gym",
+          "ipa": "/hɪt ðə dʒɪm/",
+          "pos": "fixed phrase",
+          "definition": "to go to the gym to do exercise",
+          "example": "I hit the gym every day.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "run fast",
+          "ipa": "/rʌn fæst/",
+          "pos": "fixed phrase",
+          "definition": "to move fast on your feet",
+          "example": "Run fast to the line.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "fast",
+        "healthy",
+        "body",
+        "morning",
+        "week"
+      ],
+      "mainWord": {
+        "word": "athlete",
+        "ipa": "/ˈæθlit/",
+        "pos": "noun",
+        "definition": "a person who plays sport well",
+        "example": "She is a famous athlete.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Athlete is a noun. Athlete means a person who plays sport well. She is a famous athlete.",
+      "pronunciationTarget": {
+        "word": "athlete",
+        "ipa": "/ˈæθlit/"
+      },
+      "expression": "I run fast every morning.",
+      "use": "Use this when you talk about running.",
+      "expressionTask": "Tom and Lily talk about running and fitness. What do they say?",
+      "grammar": "comparatives: Running is better than swimming",
+      "pattern": "Running is better than swimming.",
+      "task": "Running is ___ than swimming.",
+      "answer": "better",
+      "example": "Running is better than swimming.",
+      "context": [
+        "Tom and Lily talk about running and fitness.",
+        "Tom says, 'I run fast every morning. I hit the gym every week.'"
+      ],
+      "dialogue": [
+        "Lily, what is an athlete?",
+        "It is a person who plays sport well. She is a famous athlete.",
+        "Do you compete every week?",
+        "Yes. We compete at the park. I run fast every morning.",
+        "How do you get in shape?",
+        "I hit the gym every week. I get in shape with my friends."
+      ],
+      "listening": "Tom and Lily talk about running and fitness. Tom says, 'I run fast every morning. I hit the gym every week.' Lily says, 'What is an athlete?' Tom says, 'It is a person who plays sport well.' Lily says, 'Do you compete every week?' Tom says, 'Yes. We compete at the park.'",
+      "question": "What does Tom do every morning?",
+      "correct": "Run fast",
+      "other": "Swim",
+      "reading": "On Tuesday, Tom and Lily talk about running and fitness. Tom says, 'I run fast every morning. I hit the gym every week. Running is better than swimming.' Lily says, 'What is an athlete?' Tom says, 'It is a person who plays sport well. She is a famous athlete. An athlete is strong and fast.' Lily says, 'Do you compete every week?' Tom says, 'Yes. We compete at the park. We compete every week. I get in shape with my friends. I like running and fitness. We run fast with our friends. Running is better than swimming for me. I hit the gym on Monday and Friday. An athlete trains every day. I want to get in shape this year.'",
+      "readingQ": "What does Tom do every morning?",
+      "readingA": "Run fast.",
+      "speaking": "Tell a friend about running and fitness. What do you say?",
+      "speakingSample": "I talk about running and fitness with my friend Tom. I run fast every morning. I hit the gym every week. She is a famous athlete. We compete at the park. I get in shape with my friends. Running is better than swimming. I like running very much. We run fast with our friends.",
+      "writing": "Write a short email to a friend about running and fitness. Say what you do.",
+      "writingSample": "Dear Anna, I want to tell you about running and fitness. I run fast every morning. I hit the gym every week. She is a famous athlete. We compete at the park. I get in shape with my friends. Running is better than swimming. I like running very much. We run fast with our friends. Running is good for all of us. See you soon. Best, Lily",
+      "sound": "Athlete has its strongest beat on ATH. In athlete, say ATH clearly at the start. In compete, say PETE clearly at the end.",
+      "model": "She is a famous athlete.",
+      "wordTask": "What is an athlete?",
+      "wordSample": "A person who plays sport well."
+    },
+    {
+      "unit": 25,
+      "day": 195,
+      "title": "Swimming and water sports",
+      "goal": "I can talk about swimming and water sports.",
+      "newItems": [
+        {
+          "word": "diving",
+          "ipa": "/ˈdaɪvɪŋ/",
+          "pos": "noun",
+          "definition": "jumping into water head first",
+          "example": "Diving is fun in summer.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "rowing",
+          "ipa": "/ˈroʊɪŋ/",
+          "pos": "noun",
+          "definition": "moving a boat with long sticks",
+          "example": "Rowing is good for your arms.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "swim fast",
+          "ipa": "/swɪm fæst/",
+          "pos": "fixed phrase",
+          "definition": "to move fast in the water",
+          "example": "Swim fast to the end.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "take up a sport",
+          "ipa": "/teɪk ʌp ə spɔrt/",
+          "pos": "fixed phrase",
+          "definition": "to start to play a sport",
+          "example": "I want to take up a sport.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "in first place",
+          "ipa": "/ɪn fɝst pleɪs/",
+          "pos": "fixed phrase",
+          "definition": "the best in a race",
+          "example": "She is in first place.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "water",
+        "swim",
+        "summer",
+        "good",
+        "friend"
+      ],
+      "mainWord": {
+        "word": "diving",
+        "ipa": "/ˈdaɪvɪŋ/",
+        "pos": "noun",
+        "definition": "jumping into water head first",
+        "example": "Diving is fun in summer.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Diving is a noun. Diving means jumping into water head first. Diving is fun in summer.",
+      "pronunciationTarget": {
+        "word": "diving",
+        "ipa": "/ˈdaɪvɪŋ/"
+      },
+      "expression": "I swim fast in the pool.",
+      "use": "Use this when you talk about swimming.",
+      "expressionTask": "Tom and Lily talk about swimming and water sports. What do they say?",
+      "grammar": "past simple for sport stories: We watched the game last night",
+      "pattern": "We watched the game last night.",
+      "task": "We ___ the game last night.",
+      "answer": "watched",
+      "example": "We watched the game last night.",
+      "context": [
+        "Tom and Lily talk about swimming and water sports.",
+        "Tom says, 'I swim fast in the pool. We watched the game last night.'"
+      ],
+      "dialogue": [
+        "Lily, what is diving?",
+        "It is jumping into water head first. Diving is fun in summer.",
+        "What is rowing?",
+        "It is moving a boat with long sticks. Rowing is good for your arms.",
+        "Do you swim fast?",
+        "Yes. I swim fast in the pool. I want to take up a sport."
+      ],
+      "listening": "Tom and Lily talk about swimming and water sports. Tom says, 'I swim fast in the pool. We watched the game last night.' Lily says, 'What is diving?' Tom says, 'It is jumping into water head first.' Lily says, 'What is rowing?' Tom says, 'It is moving a boat.'",
+      "question": "What does Tom do in the pool?",
+      "correct": "Swim fast",
+      "other": "Run fast",
+      "reading": "On Wednesday, Tom and Lily talk about swimming and water sports. Tom says, 'I swim fast in the pool. We watched the game last night. I want to take up a sport.' Lily says, 'What is diving?' Tom says, 'It is jumping into water head first. Diving is fun in summer. Diving is a fun sport.' Lily says, 'What is rowing?' Tom says, 'It is moving a boat with long sticks. Rowing is good for your arms. She is in first place. I like swimming and water sports. We swim fast with our friends. I take up a sport every year. Diving is fun in summer for me. Rowing is good for the arms. She is in first place at the pool.'",
+      "readingQ": "What does Tom do in the pool?",
+      "readingA": "Swim fast.",
+      "speaking": "Tell a friend about swimming and water sports. What do you say?",
+      "speakingSample": "I talk about swimming and water sports with my friend Tom. I swim fast in the pool. We watched the game last night. Diving is fun in summer. Rowing is good for your arms. She is in first place. I want to take up a sport. I like swimming very much.",
+      "writing": "Write a short email to a friend about swimming and water sports. Say what you do.",
+      "writingSample": "Dear Anna, I want to tell you about swimming and water sports. I swim fast in the pool. We watched the game last night. Diving is fun in summer. Rowing is good for your arms. She is in first place. I want to take up a sport. I like swimming very much. We swim fast with our friends. Swimming is good for all of us. See you soon. Best, Lily",
+      "sound": "Diving has its strongest beat on DIVE. In diving, say DIVE clearly at the start. In rowing, say ROW clearly at the start.",
+      "model": "I like diving in summer.",
+      "wordTask": "What is diving?",
+      "wordSample": "Jumping into water head first."
+    },
+    {
+      "unit": 25,
+      "day": 196,
+      "title": "Ball games",
+      "goal": "I can talk about ball games.",
+      "newItems": [
+        {
+          "word": "defender",
+          "ipa": "/dɪˈfɛndɚ/",
+          "pos": "noun",
+          "definition": "a player who stops the other team",
+          "example": "The defender is fast.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "midfielder",
+          "ipa": "/ˈmɪdˌfildɚ/",
+          "pos": "noun",
+          "definition": "a player in the middle of the field",
+          "example": "The midfielder passed the ball.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "penalty",
+          "ipa": "/ˈpɛnəlti/",
+          "pos": "noun",
+          "definition": "a free kick or throw after a foul",
+          "example": "He scored a penalty.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "pass the ball",
+          "ipa": "/pæs ðə bɔl/",
+          "pos": "fixed phrase",
+          "definition": "to give the ball to a teammate",
+          "example": "Pass the ball to me.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "bounce the ball",
+          "ipa": "/baʊns ðə bɔl/",
+          "pos": "fixed phrase",
+          "definition": "to make the ball go up and down",
+          "example": "Bounce the ball on the floor.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "kick",
+        "jump",
+        "catch",
+        "school",
+        "happy"
+      ],
+      "mainWord": {
+        "word": "defender",
+        "ipa": "/dɪˈfɛndɚ/",
+        "pos": "noun",
+        "definition": "a player who stops the other team",
+        "example": "The defender is fast.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Defender is a noun. Defender means a player who stops the other team. The defender is fast.",
+      "pronunciationTarget": {
+        "word": "defender",
+        "ipa": "/dɪˈfɛndɚ/"
+      },
+      "expression": "Pass the ball to me.",
+      "use": "Use this when you play a ball game.",
+      "expressionTask": "Tom and Lily talk about ball games. What do they say?",
+      "grammar": "present continuous for plans: We are playing football on Sunday",
+      "pattern": "We are playing football on Sunday.",
+      "task": "We are ___ football on Sunday.",
+      "answer": "playing",
+      "example": "We are playing football on Sunday.",
+      "context": [
+        "Tom and Lily talk about ball games.",
+        "Tom says, 'Pass the ball to me. We are playing football on Sunday.'"
+      ],
+      "dialogue": [
+        "Lily, what is a defender?",
+        "It is a player who stops the other team. The defender is fast.",
+        "What is a midfielder?",
+        "It is a player in the middle of the field. The midfielder passed the ball.",
+        "What is a penalty?",
+        "It is a free kick after a foul. He scored a penalty."
+      ],
+      "listening": "Tom and Lily talk about ball games. Tom says, 'Pass the ball to me. We are playing football on Sunday.' Lily says, 'What is a defender?' Tom says, 'It is a player who stops the other team.' Lily says, 'What is a midfielder?' Tom says, 'It is a player in the middle.'",
+      "question": "What do Tom and Lily play on Sunday?",
+      "correct": "Football",
+      "other": "Tennis",
+      "reading": "On Thursday, Tom and Lily talk about ball games. Tom says, 'Pass the ball to me. We are playing football on Sunday. Bounce the ball on the floor.' Lily says, 'What is a defender?' Tom says, 'It is a player who stops the other team. The defender is fast. A defender is strong and fast.' Lily says, 'What is a midfielder?' Tom says, 'It is a player in the middle of the field. The midfielder passed the ball. He scored a penalty. I like ball games. We pass the ball with our friends. We pass the ball every day. Bounce the ball on the floor at home. A penalty is a free kick after a foul. The defender is fast on the field.'",
+      "readingQ": "What do Tom and Lily play on Sunday?",
+      "readingA": "Football.",
+      "speaking": "Tell a friend about ball games. What do you say?",
+      "speakingSample": "I talk about ball games with my friend Tom. Pass the ball to me. We are playing football on Sunday. The defender is fast. The midfielder passed the ball. He scored a penalty. Bounce the ball on the floor. I like ball games very much. We pass the ball with our friends.",
+      "writing": "Write a short email to a friend about ball games. Say what you do.",
+      "writingSample": "Dear Anna, I want to tell you about ball games. Pass the ball to me. We are playing football on Sunday. The defender is fast. The midfielder passed the ball. He scored a penalty. Bounce the ball on the floor. We pass the ball with our friends. I like ball games very much. Ball games are good for all of us. See you soon. Best, Lily",
+      "sound": "Defender has its strongest beat on FEND. In defender, say FEND clearly in the middle. In midfielder, say MID clearly at the start.",
+      "model": "The defender is fast.",
+      "wordTask": "What is a defender?",
+      "wordSample": "A player who stops the other team."
+    },
+    {
+      "unit": 25,
+      "day": 197,
+      "title": "Watching sport",
+      "goal": "I can talk about watching sport.",
+      "newItems": [
+        {
+          "word": "referee",
+          "ipa": "/ˌrɛfəˈri/",
+          "pos": "noun",
+          "definition": "the person who makes sure players follow the rules",
+          "example": "The referee blew the whistle.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "stadium",
+          "ipa": "/ˈsteɪdiəm/",
+          "pos": "noun",
+          "definition": "a big place where people watch sport",
+          "example": "We go to the stadium on Sunday.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "champion",
+          "ipa": "/ˈtʃæmpiən/",
+          "pos": "noun",
+          "definition": "the winner of a sport event",
+          "example": "He is the world champion.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "cheer for your team",
+          "ipa": "/tʃɪr fɔr jʊr tim/",
+          "pos": "fixed phrase",
+          "definition": "to shout loudly for your team",
+          "example": "We cheer for your team.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "a close game",
+          "ipa": "/ə kloʊs ɡeɪm/",
+          "pos": "fixed phrase",
+          "definition": "a game where the two teams are almost the same",
+          "example": "It was a close game.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "watch",
+        "cheer",
+        "sunday",
+        "loud",
+        "noise"
+      ],
+      "mainWord": {
+        "word": "referee",
+        "ipa": "/ˌrɛfəˈri/",
+        "pos": "noun",
+        "definition": "the person who makes sure players follow the rules",
+        "example": "The referee blew the whistle.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Referee is a noun. Referee means the person who makes sure players follow the rules. The referee blew the whistle.",
+      "pronunciationTarget": {
+        "word": "referee",
+        "ipa": "/ˌrɛfəˈri/"
+      },
+      "expression": "It was a close game.",
+      "use": "Use this when you talk about a game you watched.",
+      "expressionTask": "Tom and Lily talk about watching sport. What do they say?",
+      "grammar": "will for plans: I will watch the game",
+      "pattern": "I will watch the game.",
+      "task": "I ___ watch the game.",
+      "answer": "will",
+      "example": "I will watch the game.",
+      "context": [
+        "Tom and Lily talk about watching sport.",
+        "Tom says, 'It was a close game. I will watch the game on Sunday.'"
+      ],
+      "dialogue": [
+        "Lily, what is a referee?",
+        "It is the person who makes sure players follow the rules. The referee blew the whistle.",
+        "What is a stadium?",
+        "It is a big place where people watch sport. We go to the stadium on Sunday.",
+        "Who is the champion?",
+        "He is the winner of the event. We cheer for your team at the game."
+      ],
+      "listening": "Tom and Lily talk about watching sport. Tom says, 'It was a close game. I will watch the game on Sunday.' Lily says, 'What is a referee?' Tom says, 'It is the person who makes sure players follow the rules.' Lily says, 'What is a stadium?' Tom says, 'It is a big place.'",
+      "question": "What do Tom and Lily talk about?",
+      "correct": "Watching sport",
+      "other": "Cooking",
+      "reading": "On Friday, Tom and Lily talk about watching sport. Tom says, 'It was a close game. I will watch the game on Sunday. We cheer for your team.' Lily says, 'What is a referee?' Tom says, 'It is the person who makes sure players follow the rules. The referee blew the whistle. A referee is fair and strong.' Lily says, 'What is a stadium?' Tom says, 'It is a big place where people watch sport. We go to the stadium on Sunday. He is the champion. I like watching sport. We watch the game with our friends. It was a close game for us. We cheer for your team at the game. The champion is the winner of the event. The stadium is big and full.'",
+      "readingQ": "What do Tom and Lily talk about?",
+      "readingA": "Watching sport.",
+      "speaking": "Tell a friend about watching sport. What do you say?",
+      "speakingSample": "I talk about watching sport with my friend Tom. It was a close game. I will watch the game on Sunday. We cheer for your team. The referee blew the whistle. We go to the stadium on Sunday. He is the champion. I like watching sport very much. We watch the game with our friends.",
+      "writing": "Write a short email to a friend about watching sport. Say what you do.",
+      "writingSample": "Dear Anna, I want to tell you about watching sport. It was a close game. I will watch the game on Sunday. We cheer for your team. The referee blew the whistle. We go to the stadium on Sunday. He is the champion. I like watching sport very much. We watch the game with our friends. Watching sport is fun for all of us. See you soon. Best, Lily",
+      "sound": "Referee has its strongest beat on REE. In referee, say REE clearly at the end. In stadium, say STA clearly at the start.",
+      "model": "The referee blew the whistle.",
+      "wordTask": "What is a referee?",
+      "wordSample": "The person who makes sure players follow the rules."
+    },
+    {
+      "unit": 25,
+      "day": 198,
+      "title": "Injuries and staying safe",
+      "goal": "I can talk about injuries and staying safe.",
+      "newItems": [
+        {
+          "word": "injury",
+          "ipa": "/ˈɪndʒɚi/",
+          "pos": "noun",
+          "definition": "hurt to part of your body",
+          "example": "He has a leg injury.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "sprain",
+          "ipa": "/spreɪn/",
+          "pos": "noun",
+          "definition": "hurt to a joint from a bad move",
+          "example": "She has a sprain in her ankle.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "fracture",
+          "ipa": "/ˈfræktʃɚ/",
+          "pos": "noun",
+          "definition": "a break in a bone",
+          "example": "He has a fracture in his arm.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "out of shape",
+          "ipa": "/aʊt ʌv ʃeɪp/",
+          "pos": "fixed phrase",
+          "definition": "not fit and healthy",
+          "example": "I am out of shape.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "train hard",
+          "ipa": "/treɪn hɑrd/",
+          "pos": "fixed phrase",
+          "definition": "to do a lot of hard exercise",
+          "example": "We train hard every week.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "leg",
+        "arm",
+        "foot",
+        "pain",
+        "rest"
+      ],
+      "mainWord": {
+        "word": "injury",
+        "ipa": "/ˈɪndʒɚi/",
+        "pos": "noun",
+        "definition": "hurt to part of your body",
+        "example": "He has a leg injury.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Injury is a noun. Injury means hurt to part of your body. He has a leg injury.",
+      "pronunciationTarget": {
+        "word": "injury",
+        "ipa": "/ˈɪndʒɚi/"
+      },
+      "expression": "I train hard every week.",
+      "use": "Use this when you talk about training.",
+      "expressionTask": "Tom and Lily talk about injuries and staying safe. What do they say?",
+      "grammar": "should and shouldn't for advice: You should rest your leg",
+      "pattern": "You should rest your leg.",
+      "task": "You ___ rest your leg.",
+      "answer": "should",
+      "example": "You should rest your leg.",
+      "context": [
+        "Tom and Lily talk about injuries and staying safe.",
+        "Tom says, 'I train hard every week. You should rest your leg.'"
+      ],
+      "dialogue": [
+        "Lily, what is an injury?",
+        "It is hurt to part of your body. He has a leg injury.",
+        "What is a sprain?",
+        "It is hurt to a joint from a bad move. She has a sprain in her ankle.",
+        "What is a fracture?",
+        "It is a break in a bone. He has a fracture in his arm."
+      ],
+      "listening": "Tom and Lily talk about injuries and staying safe. Tom says, 'I train hard every week. You should rest your leg.' Lily says, 'What is an injury?' Tom says, 'It is hurt to part of your body.' Lily says, 'What is a sprain?' Tom says, 'It is hurt to a joint.'",
+      "question": "What does Tom do every week?",
+      "correct": "Train hard",
+      "other": "Swim fast",
+      "reading": "On Saturday, Tom and Lily talk about injuries and staying safe. Tom says, 'I train hard every week. You should rest your leg. I am out of shape this year.' Lily says, 'What is an injury?' Tom says, 'It is hurt to part of your body. He has a leg injury. An injury is bad for a player.' Lily says, 'What is a sprain?' Tom says, 'It is hurt to a joint from a bad move. She has a sprain in her ankle. He has a fracture in his arm. I like to stay safe. We train hard with our friends. A fracture is a break in a bone. I train hard but I stay safe. An injury can stop a player for weeks.'",
+      "readingQ": "What does Tom do every week?",
+      "readingA": "Train hard.",
+      "speaking": "Tell a friend about injuries and staying safe. What do you say?",
+      "speakingSample": "I talk about injuries and staying safe with my friend Tom. I train hard every week. You should rest your leg. He has a leg injury. She has a sprain in her ankle. He has a fracture in his arm. I am out of shape this year. I like to stay safe.",
+      "writing": "Write a short email to a friend about injuries and staying safe. Say what you do.",
+      "writingSample": "Dear Anna, I want to tell you about injuries and staying safe. I train hard every week. You should rest your leg. He has a leg injury. She has a sprain in her ankle. He has a fracture in his arm. I am out of shape this year. I like to stay safe. We train hard with our friends. Staying safe is good for all of us. See you soon. Best, Lily",
+      "sound": "Injury has its strongest beat on IN. In injury, say IN clearly at the start. In sprain, say SPRAIN clearly.",
+      "model": "He has a leg injury.",
+      "wordTask": "What is an injury?",
+      "wordSample": "Hurt to part of your body."
+    },
+    {
+      "unit": 25,
+      "day": 199,
+      "title": "Winning and losing",
+      "goal": "I can talk about winning and losing.",
+      "newItems": [
+        {
+          "word": "victory",
+          "ipa": "/ˈvɪktɚi/",
+          "pos": "noun",
+          "definition": "a win in a game",
+          "example": "It was a great victory.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "defeat",
+          "ipa": "/dɪˈfit/",
+          "pos": "noun",
+          "definition": "a loss in a game",
+          "example": "It was a sad defeat.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "win a medal",
+          "ipa": "/wɪn ə ˈmɛdəl/",
+          "pos": "fixed phrase",
+          "definition": "to get a medal in a sport event",
+          "example": "He won a medal.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "break a record",
+          "ipa": "/breɪk ə ˈrɛkɚd/",
+          "pos": "fixed phrase",
+          "definition": "to do better than the best result before",
+          "example": "She broke a record.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "in second place",
+          "ipa": "/ɪn ˈsɛkənd pleɪs/",
+          "pos": "fixed phrase",
+          "definition": "the second best in a race",
+          "example": "He is in second place.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "win",
+        "lose",
+        "best",
+        "first",
+        "gold"
+      ],
+      "mainWord": {
+        "word": "victory",
+        "ipa": "/ˈvɪktɚi/",
+        "pos": "noun",
+        "definition": "a win in a game",
+        "example": "It was a great victory.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Victory is a noun. Victory means a win in a game. It was a great victory.",
+      "pronunciationTarget": {
+        "word": "victory",
+        "ipa": "/ˈvɪktɚi/"
+      },
+      "expression": "She won a medal at the games.",
+      "use": "Use this when you talk about winning.",
+      "expressionTask": "Tom and Lily talk about winning and losing. What do they say?",
+      "grammar": "present perfect for experiences: I have played tennis for two years",
+      "pattern": "I have played tennis for two years.",
+      "task": "I have ___ tennis for two years.",
+      "answer": "played",
+      "example": "I have played tennis for two years.",
+      "context": [
+        "Tom and Lily talk about winning and losing.",
+        "Tom says, 'She won a medal at the games. I have played tennis for two years.'"
+      ],
+      "dialogue": [
+        "Lily, what is a victory?",
+        "It is a win in a game. It was a great victory.",
+        "What is a defeat?",
+        "It is a loss in a game. It was a sad defeat.",
+        "Did she win a medal?",
+        "Yes. She won a medal at the games. She is in second place."
+      ],
+      "listening": "Tom and Lily talk about winning and losing. Tom says, 'She won a medal at the games. I have played tennis for two years.' Lily says, 'What is a victory?' Tom says, 'It is a win in a game.' Lily says, 'What is a defeat?' Tom says, 'It is a loss in a game.'",
+      "question": "What did she win at the games?",
+      "correct": "A medal",
+      "other": "A book",
+      "reading": "On Sunday, Tom and Lily talk about winning and losing. Tom says, 'She won a medal at the games. I have played tennis for two years. She can win a medal this year.' Lily says, 'What is a victory?' Tom says, 'It is a win in a game. It was a great victory. A victory is good for a team.' Lily says, 'What is a defeat?' Tom says, 'It is a loss in a game. It was a sad defeat. She is in second place. I like winning and losing. We play games with our friends. She won a medal at the games last year. She can break a record this year. A defeat can teach a player a lot. It was a great victory for us.'",
+      "readingQ": "What did she win at the games?",
+      "readingA": "A medal.",
+      "speaking": "Tell a friend about winning and losing. What do you say?",
+      "speakingSample": "I talk about winning and losing with my friend Tom. She won a medal at the games. I have played tennis for two years. It was a great victory. It was a sad defeat. She is in second place. She can break a record this year. I like winning and losing.",
+      "writing": "Write a short email to a friend about winning and losing. Say what you do.",
+      "writingSample": "Dear Anna, I want to tell you about winning and losing. She won a medal at the games. I have played tennis for two years. It was a great victory. It was a sad defeat. She is in second place. She can break a record this year. I like winning and losing very much. Winning and losing are good for all of us. See you soon. Best, Lily",
+      "sound": "Victory has its strongest beat on VICT. In victory, say VICT clearly at the start. In defeat, say FEAT clearly at the end.",
+      "model": "It was a great victory.",
+      "wordTask": "What is a victory?",
+      "wordSample": "A win in a game."
+    },
+    {
+      "unit": 25,
+      "day": 200,
+      "title": "Use sport English in a new situation",
+      "goal": "I can use sport English in a new situation.",
+      "newItems": [
+        {
+          "word": "tournament",
+          "ipa": "/ˈtɝnəmənt/",
+          "pos": "noun",
+          "definition": "a sport event with many games",
+          "example": "We play in a tennis tournament.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "league",
+          "ipa": "/liɡ/",
+          "pos": "noun",
+          "definition": "a group of teams that play each other",
+          "example": "Our team is in the top league.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "score a goal",
+          "ipa": "/skɔr ə ɡoʊl/",
+          "pos": "fixed phrase",
+          "definition": "to get a point in a game",
+          "example": "He scored a goal in the last minute.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "win the match",
+          "ipa": "/wɪn ðə mætʃ/",
+          "pos": "fixed phrase",
+          "definition": "to be the best team at the end of a game",
+          "example": "We won the match 2-1.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "the final whistle",
+          "ipa": "/ðə ˈfaɪnəl ˈwɪsəl/",
+          "pos": "fixed phrase",
+          "definition": "the last sound that ends a game",
+          "example": "We won at the final whistle.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "sport",
+        "club",
+        "new",
+        "talk",
+        "today"
+      ],
+      "mainWord": {
+        "word": "tournament",
+        "ipa": "/ˈtɝnəmənt/",
+        "pos": "noun",
+        "definition": "a sport event with many games",
+        "example": "We play in a tennis tournament.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Tournament is a noun. Tournament means a sport event with many games. We play in a tennis tournament.",
+      "pronunciationTarget": {
+        "word": "tournament",
+        "ipa": "/ˈtɝnəmənt/"
+      },
+      "expression": "I can use sport English in a new situation.",
+      "use": "Use this when you talk about using English in a new place.",
+      "expressionTask": "Emma talks about sport English. What does she say?",
+      "grammar": "review: sport English",
+      "pattern": "I can use sport English in a new situation.",
+      "task": "I can use sport English in a new ___.",
+      "answer": "situation",
+      "example": "I can use sport English in a new situation.",
+      "context": [
+        "Emma talks about sport English with her mother.",
+        "Emma says, 'I can use sport English in a new situation. We win the match and score a goal.'"
+      ],
+      "dialogue": [
+        "Emma, what is a tournament?",
+        "It is a sport event with many games. We play in a tennis tournament.",
+        "What is a league?",
+        "It is a group of teams that play each other. Our team is in the top league.",
+        "Did you score a goal?",
+        "Yes. We win the match at the final whistle."
+      ],
+      "listening": "Emma talks about sport English. Emma says, 'I can use sport English in a new situation. We win the match and score a goal.' Her mother says, 'What is a tournament?' Emma says, 'It is a sport event.' Her mother says, 'What is a league?' Emma says, 'It is a group of teams.'",
+      "question": "What is a tournament?",
+      "correct": "A sport event with many games",
+      "other": "A kind of cake",
+      "reading": "On Monday, Emma talks about sport English with her mother. Emma says, 'I can use sport English in a new situation. We win the match and score a goal. It is the final whistle soon.' Her mother says, 'What is a tournament?' Emma says, 'It is a sport event with many games. We play in a tennis tournament. A tournament is fun to watch.' Her mother says, 'What is a league?' Emma says, 'It is a group of teams that play each other. Our team is in the top league. Today I can use sport English in a new situation. We win the match at the final whistle. A league has many teams. We play in a tennis tournament every year.'",
+      "readingQ": "What is a tournament?",
+      "readingA": "A sport event with many games.",
+      "speaking": "Tell a friend about sport English. What do you say?",
+      "speakingSample": "I talk about sport English with my friend Emma. I can use sport English in a new situation. We win the match and score a goal. It is the final whistle soon. We play in a tennis tournament. Our team is in the top league. I like sport English very much.",
+      "writing": "Write a short email to a friend about sport English. Say what sport English means to you.",
+      "writingSample": "Dear Anna, I want to tell you about sport English. I can use sport English in a new situation. We win the match and score a goal. It is the final whistle soon. We play in a tennis tournament. Our team is in the top league. I like sport English very much. Today I can use it in a new place. Sport is good for all of us. See you soon. Best, Emma",
+      "sound": "Tournament has its strongest beat on TOUR. In tournament, say TOUR clearly at the start. In league, say LEAGUE clearly.",
+      "model": "We play in a tennis tournament.",
+      "wordTask": "What is a tournament?",
+      "wordSample": "A sport event with many games.",
+      "transferCheck": {
+        "source": "On Saturday, Emma goes to a school sports day with her friend Sara. Emma says, 'I can use sport English in a new situation. We win the match and score a goal.' Sara says, 'Yes. What can we do?' Emma says, 'We can score a goal. It is the final whistle soon.' Sara says, 'Good. You use sport English well.'",
+        "dictation": "I can use sport English in a new situation.",
+        "answer": "1. Emma goes to a school sports day with her friend Sara. She talks about sport English. 2. Emma's first job is to say she can use sport English in a new situation. 3. On Saturday, Emma says, 'I can use sport English in a new situation.' 4. I can use sport English in a new situation. 5. Sample: On Saturday, Emma goes to a school sports day with her friend Sara. Emma says, 'I can use sport English in a new situation. We win the match and score a goal.' Sara says, 'Yes. What can we do?' Emma says, 'We can score a goal. It is the final whistle soon.' Sara says, 'Good. You use sport English well.' Follow-up: What can Emma and Sara do? Score a goal.",
+        "tasks": [
+          [
+            "1 · Identify the people and the new situation",
+            "Who does Emma meet, and what does she talk about?"
+          ],
+          [
+            "2 · Work out what Emma does first",
+            "What is Emma's first job, and what does she say?"
+          ],
+          [
+            "3 · Notice the sentence on Saturday",
+            "What does Emma say on Saturday?"
+          ],
+          [
+            "4 · Listen and write",
+            "Write the sentence you hear."
+          ],
+          [
+            "5 · Retell and answer",
+            "Tell the story in order, including the people, the new situation, the first talk, and the result. Then answer one follow-up question."
+          ]
+        ]
+      }
+    }
+  ]
+}
