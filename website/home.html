@@ -70,6 +70,17 @@
 
   <div class="layout">
     <article class="card layout-main" style="margin:0">
+      <div class="read-controls" id="readControls">
+        <span class="ic-tile"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polygon points="11 5 6 9 2 9 2 15 6 15 11 19 11 5"/><path d="M15.54 8.46a5 5 0 0 1 0 7.07"/><path d="M19.07 4.93a10 10 0 0 1 0 14.14"/></svg></span><strong>Read aloud</strong>
+        <span class="muted small">Tap Listen on any paragraph to hear just that paragraph — never the whole lesson at once.</span>
+        <label for="readSpeed">Speed</label>
+        <select id="readSpeed">
+          <option value="0.8">Slow · 0.8×</option>
+          <option value="0.9" selected>Normal · 0.9×</option>
+          <option value="1.1">Fast · 1.1×</option>
+        </select>
+        <button class="btn ghost small" id="stopReading" type="button">Stop</button>
+      </div>
       <div class="section-head">
         <span class="ic-tile"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><line x1="2" y1="12" x2="22" y2="12"/><path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"/></svg></span>
         <h2>What is this story about?</h2>
@@ -233,6 +244,51 @@ News lessons use short excerpts with a link to the original. Full articles belon
     '<p><a class="btn small" href="' + href + '">Start today\'s lesson</a></p></section>' +
     '<section class="card"><h3>Main Course</h3><p class="muted">7 levels, Foundation to C2. Your level: ' + name + '.</p>' +
     '<p><a class="btn ghost small" href="courses.html">All courses</a></p></section>';
+  /* ---- Read aloud: one Listen button per paragraph, never read-all. ---- */
+  (function () {
+    var article = document.querySelector('article.card.layout-main');
+    var controls = document.getElementById('readControls');
+    var speedEl = document.getElementById('readSpeed');
+    var stopBtn = document.getElementById('stopReading');
+    if (!article || !controls) return;
+    if (!('speechSynthesis' in window)) {
+      controls.insertAdjacentHTML('beforeend',
+        '<span class="small muted">Read aloud is not available in this browser — try Chrome, Edge or Safari.</span>');
+      return;
+    }
+    var speakerSvg = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polygon points="11 5 6 9 2 9 2 15 6 15 11 19 11 5"/><path d="M15.54 8.46a5 5 0 0 1 0 7.07"/></svg>';
+    var currentBtn = null, currentTarget = null;
+    function reset() {
+      if (currentBtn) { currentBtn.classList.remove('playing'); currentBtn.innerHTML = speakerSvg + 'Listen'; }
+      if (currentTarget) currentTarget.classList.remove('speaking');
+      currentBtn = null; currentTarget = null;
+    }
+    function stop() { window.speechSynthesis.cancel(); reset(); }
+    stopBtn.onclick = stop;
+    /* Each paragraph, quote, list item and vocabulary entry gets its own button. */
+    var targets = article.querySelectorAll('p:not(.small):not(.meta), blockquote, li, dd');
+    targets.forEach(function (el) {
+      var text = el.textContent.replace(/\s+/g, ' ').trim();
+      if (!text) return;
+      var b = document.createElement('button');
+      b.type = 'button'; b.className = 'listen-btn';
+      b.setAttribute('aria-label', 'Listen to this paragraph');
+      b.innerHTML = speakerSvg + 'Listen';
+      b.onclick = function () {
+        if (currentBtn === b) { stop(); return; }
+        stop();
+        var u = new SpeechSynthesisUtterance(text);
+        u.lang = 'en-US';
+        u.rate = parseFloat(speedEl.value || '0.9');
+        u.onend = reset; u.onerror = reset;
+        currentBtn = b; currentTarget = el;
+        b.classList.add('playing'); b.innerHTML = speakerSvg + 'Stop';
+        el.classList.add('speaking');
+        window.speechSynthesis.speak(u);
+      };
+      el.insertBefore(b, el.firstChild);
+    });
+  })();
 })();
 </script>
 </body>
