@@ -14,6 +14,19 @@ window.EE_SUPPLEMENTS = {
   totalItems: 10813,
   types: [
     {
+      id: 'flashcards',
+      name: 'Vocabulary Flashcards',
+      zh: '生字卡',
+      color: '#3B82F6',
+      icon: 'layers',
+      description: 'New words as picture cards: word, sound, meaning and one example sentence you can say yourself.',
+      perLevel: 300,
+      perLevelLabel: '300 items per level',
+      total: 2100,
+      cadence: 'daily',
+      sampleKey: 'flashcards'
+    },
+    {
       id: 'phrasal-verbs',
       name: 'Phrasal Verbs',
       zh: '動詞片語',
@@ -40,19 +53,6 @@ window.EE_SUPPLEMENTS = {
       sampleKey: 'idioms'
     },
     {
-      id: 'jokes',
-      name: 'Jokes',
-      zh: '笑話',
-      color: '#EC4899',
-      icon: 'smile',
-      description: 'One short joke a day. Laugh first, then learn why it is funny and the key words that make it work.',
-      perLevel: 300,
-      perLevelLabel: '300 items per level',
-      total: 2100,
-      cadence: 'daily',
-      sampleKey: 'jokes'
-    },
-    {
       id: 'sentence-patterns',
       name: 'Universal Sentence Patterns',
       zh: '萬用句型',
@@ -66,17 +66,17 @@ window.EE_SUPPLEMENTS = {
       sampleKey: 'sentencePatterns'
     },
     {
-      id: 'flashcards',
-      name: 'Vocabulary Flashcards',
-      zh: '生字卡',
-      color: '#3B82F6',
-      icon: 'layers',
-      description: 'New words as picture cards: word, sound, meaning and one example sentence you can say yourself.',
+      id: 'jokes',
+      name: 'Jokes',
+      zh: '笑話',
+      color: '#EC4899',
+      icon: 'smile',
+      description: 'One short joke a day. Laugh first, then learn why it is funny and the key words that make it work.',
       perLevel: 300,
       perLevelLabel: '300 items per level',
       total: 2100,
       cadence: 'daily',
-      sampleKey: 'flashcards'
+      sampleKey: 'jokes'
     },
     {
       id: 'writing',
@@ -92,5 +92,6 @@ window.EE_SUPPLEMENTS = {
       cadence: 'weekly',
       sampleKey: 'writing'
     }
+
   ]
 };

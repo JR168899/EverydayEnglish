@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 220" role="img" aria-label="Everyday English">
+  <title>Everyday English</title>
+  <!-- Wordmark No. 1, rebuilt as SVG text so it can be pushed to GitHub as code:
+       Everyday in warm orange, English in deep brown, smile-curve underline.
+       Rounded bold type: Nunito ExtraBold, with a system sans-serif fallback. -->
+  <text x="320" y="88" text-anchor="middle" font-family="'Nunito','Arial Rounded MT Bold',system-ui,sans-serif" font-size="72" font-weight="900" letter-spacing="1" fill="#F68A1E">Everyday</text>
+  <text x="320" y="162" text-anchor="middle" font-family="'Nunito','Arial Rounded MT Bold',system-ui,sans-serif" font-size="72" font-weight="900" letter-spacing="1" fill="#7A2A1A">English</text>
+  <path d="M 200 188 Q 320 214 440 188" fill="none" stroke="#F68A1E" stroke-width="9" stroke-linecap="round"/>
+</svg>

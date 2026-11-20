@@ -12,7 +12,7 @@
 </head>
 <body>
 <header class="site"><div class="bar">
-  <a class="logo" href="home.html"><img src="assets/logo-wordmark-1.webp" alt="Everyday English"></a>
+  <a class="logo" href="home.html"><img src="assets/logo-wordmark-1.svg" alt="Everyday English"></a>
   <nav class="main" aria-label="Main navigation">
     <a href="home.html" data-nav="news"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 22h16"/><path d="M18 14h-8"/><path d="M18 18h-8"/><path d="M18 10h-8"/><path d="M10 6h8v4h-8zM4 10v6a2 2 0 0 0 2 2h2"/></svg>News</a>
     <a href="courses.html" data-nav="courses"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M2 3h6a4 4 0 0 1 4 4v14a3 3 0 0 0-3-3H2z"/><path d="M22 3h-6a4 4 0 0 0-4 4v14a3 3 0 0 1 3-3h7z"/></svg>Courses</a>
@@ -119,26 +119,26 @@
   /* ---- supplements (real A1 sample items) ---- */
   var S = data.supplementsA1;
   var tabs = [
-    { id: 'phrasal', label: 'Phrasal verb', icon: 'chat', body:
-      '<div class="flashcard" style="--level:' + lv.color + '"><div class="word">' + EE.esc(S.phrasalVerbs.entry) + '</div>' +
-      '<p>' + EE.esc(S.phrasalVerbs.definition) + '</p><p><em>' + EE.esc(S.phrasalVerbs.example) + '</em></p>' +
-      '<p class="small muted">Try it: ' + (S.phrasalVerbs.conversation || []).map(function (x) { return EE.esc(x.speaker + ': ' + x.line); }).join('<br>') + '</p></div>' },
-    { id: 'idiom', label: 'Idiom', icon: 'spark', body:
-      '<div class="flashcard" style="--level:' + lv.color + '"><div class="word">' + EE.esc(S.idioms.entry) + '</div>' +
-      '<p>' + EE.esc(S.idioms.definition) + '</p><p><em>' + EE.esc(S.idioms.example) + '</em></p></div>' },
-    { id: 'pattern', label: 'Sentence pattern', icon: 'pen', body:
-      '<div class="flashcard" style="--level:' + lv.color + '"><div class="word">' + EE.esc(S.sentencePatterns.pattern) + '</div>' +
-      '<p>' + EE.esc(S.sentencePatterns.explanation) + '</p>' +
-      (S.sentencePatterns.examples || []).map(function (e) { return '<p><em>' + EE.esc(e.sentence) + '</em> <span class="muted">— ' + EE.esc(e.situation) + '</span></p>'; }).join('') + '</div>' },
     { id: 'flash', label: 'Flashcard', icon: 'layers', body:
       '<div class="flashcard" style="--level:' + lv.color + '"><div class="word">' + EE.esc(S.flashcards.word) + '</div>' +
       '<p class="ipa">' + EE.esc(S.flashcards.ipa || '') + ' · ' + EE.esc(S.flashcards.partOfSpeech || '') + '</p>' +
       '<p>' + EE.esc(S.flashcards.definition) + '</p><p><em>' + EE.esc(S.flashcards.example) + '</em></p></div>' },
-    { id: 'joke', label: 'Joke', icon: 'smile', body:
+{ id: 'phrasal', label: 'Phrasal verb', icon: 'chat', body:
+      '<div class="flashcard" style="--level:' + lv.color + '"><div class="word">' + EE.esc(S.phrasalVerbs.entry) + '</div>' +
+      '<p>' + EE.esc(S.phrasalVerbs.definition) + '</p><p><em>' + EE.esc(S.phrasalVerbs.example) + '</em></p>' +
+      '<p class="small muted">Try it: ' + (S.phrasalVerbs.conversation || []).map(function (x) { return EE.esc(x.speaker + ': ' + x.line); }).join('<br>') + '</p></div>' },
+{ id: 'idiom', label: 'Idiom', icon: 'spark', body:
+      '<div class="flashcard" style="--level:' + lv.color + '"><div class="word">' + EE.esc(S.idioms.entry) + '</div>' +
+      '<p>' + EE.esc(S.idioms.definition) + '</p><p><em>' + EE.esc(S.idioms.example) + '</em></p></div>' },
+{ id: 'pattern', label: 'Sentence pattern', icon: 'pen', body:
+      '<div class="flashcard" style="--level:' + lv.color + '"><div class="word">' + EE.esc(S.sentencePatterns.pattern) + '</div>' +
+      '<p>' + EE.esc(S.sentencePatterns.explanation) + '</p>' +
+      (S.sentencePatterns.examples || []).map(function (e) { return '<p><em>' + EE.esc(e.sentence) + '</em> <span class="muted">— ' + EE.esc(e.situation) + '</span></p>'; }).join('') + '</div>' },
+{ id: 'joke', label: 'Joke', icon: 'smile', body:
       '<div class="flashcard" style="--level:' + lv.color + '"><div class="word">' + EE.esc(S.jokes.joke) + '</div>' +
       '<p>' + EE.esc(S.jokes.whyFunny) + '</p>' +
       '<p><strong>Key words:</strong> ' + (S.jokes.keyWords || []).map(function (k) { return EE.esc(k.word) + ' — ' + EE.esc(k.explanation); }).join('; ') + '</p></div>' },
-    { id: 'writing', label: 'Writing · weekly', icon: 'pen', body:
+{ id: 'writing', label: 'Writing · weekly', icon: 'pen', body:
       '<div class="flashcard" style="--level:' + lv.color + '"><div class="word">' + EE.esc(S.writing.topic) + ' (' + S.writing.wordCount + ' words)</div>' +
       '<p><strong>Your task:</strong> ' + EE.esc(S.writing.task) + '</p>' +
       '<p><strong>Model text:</strong><br>' + EE.esc(S.writing.modelText) + '</p>' +
