@@ -44,6 +44,30 @@ html[data-theme="female"]{
   --grad-news:linear-gradient(135deg,#7C3AED 0%,#EC4899 55%,#F9A8D4 100%);
   --grad-warm:linear-gradient(135deg,#FDE7F0,#E9D5FF);
 }
+html[data-theme="rose"]{
+  --bg:#FFF6F1; --surface:#FFFFFF; --surface-2:#FDE8E0; --surface-3:#FFF0E8;
+  --text:#4A2C28; --muted:#8A5A52; --muted-2:#A87A70;
+  --primary:#E11D48; --primary-dark:#BE123C; --primary-deep:#9F1239;
+  --accent:#B45309;
+  --border:#F3C9B8;
+  --shadow:0 6px 24px rgba(159,18,57,.10);
+  --shadow-lg:0 14px 40px rgba(159,18,57,.16);
+  --grad-hero:linear-gradient(135deg,#FDE68A 0%,#F43F5E 55%,#9F1239 100%);
+  --grad-news:linear-gradient(135deg,#9F1239 0%,#E11D48 55%,#F59E0B 100%);
+  --grad-warm:linear-gradient(135deg,#FDE8E0,#FDE68A);
+}
+html[data-theme="forest"]{
+  --bg:#EDF3EC; --surface:#FFFFFF; --surface-2:#DDEADF; --surface-3:#EDF3EC;
+  --text:#14261A; --muted:#4A6B52; --muted-2:#6E8A74;
+  --primary:#15803D; --primary-dark:#166534; --primary-deep:#14532D;
+  --accent:#1F2937;
+  --border:#C3D6C6;
+  --shadow:0 6px 24px rgba(20,83,45,.12);
+  --shadow-lg:0 14px 40px rgba(20,83,45,.18);
+  --grad-hero:linear-gradient(135deg,#14532D 0%,#15803D 60%,#D97706 100%);
+  --grad-news:linear-gradient(135deg,#14261A 0%,#14532D 55%,#15803D 100%);
+  --grad-warm:linear-gradient(135deg,#DDEADF,#FDE68A);
+}
 *{box-sizing:border-box}
 body{
   margin:0; background:var(--bg); color:var(--text);
@@ -362,6 +386,7 @@ blockquote{
 }
 footer.site{border-top:2px solid var(--border);padding:20px;text-align:center}
 .theme-pick{display:flex;gap:12px;flex-wrap:wrap}
+.theme-group{flex:1 1 100%;font-weight:900;margin:8px 0 0}
 .theme-swatch{
   border:3px solid var(--border);border-radius:16px;padding:0;cursor:pointer;overflow:hidden;
   background:var(--surface);font-family:inherit;font-weight:800;color:var(--text);
@@ -372,6 +397,8 @@ footer.site{border-top:2px solid var(--border);padding:20px;text-align:center}
 .theme-swatch .preview.warm{background:linear-gradient(135deg,#FFF6E0 0%,#F68A1E 60%,#7A2A1A 100%)}
 .theme-swatch .preview.navy{background:linear-gradient(135deg,#EAF2F8 0%,#1E3A5F 55%,#0F766E 100%)}
 .theme-swatch .preview.pink{background:linear-gradient(135deg,#FFF5F7 0%,#F9A8D4 55%,#7C3AED 100%)}
+.theme-swatch .preview.rose{background:linear-gradient(135deg,#FFF6F1 0%,#F43F5E 55%,#B45309 100%)}
+.theme-swatch .preview.forest{background:linear-gradient(135deg,#EDF3EC 0%,#14532D 55%,#D97706 100%)}
 .theme-swatch .label{padding:12px 14px}
 .theme-swatch .dots{display:flex;gap:6px;margin-bottom:8px}
 .theme-swatch .dots i{width:22px;height:22px;border-radius:50%;display:block;border:1px solid rgba(0,0,0,.12)}
