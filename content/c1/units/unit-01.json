@@ -1,0 +1,905 @@
+{
+  "number": 1,
+  "title": "Precision and nuance in professional discussion",
+  "lessons": [
+    {
+      "unit": 1,
+      "day": 1,
+      "title": "Say exactly what you mean",
+      "goal": "I can say exactly what I mean in a discussion.",
+      "newItems": [
+        {
+          "word": "precise",
+          "ipa": "/prɪˈsaɪs/",
+          "pos": "adjective",
+          "definition": "Exact and correct in every detail.",
+          "example": "Please give me a precise number, not a rough guess.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "subtle",
+          "ipa": "/ˈsʌtəl/",
+          "pos": "adjective",
+          "definition": "Small and not obvious; hard to notice.",
+          "example": "There was a subtle change in her voice.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "to my mind",
+          "ipa": "/tə maɪ maɪnd/",
+          "pos": "fixed phrase",
+          "definition": "In my opinion.",
+          "example": "To my mind, the plan is sound.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "in essence",
+          "ipa": "/ɪn ˈɛsəns/",
+          "pos": "fixed phrase",
+          "definition": "In the most important way; basically.",
+          "example": "In essence, the plan is about trust.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "to put it another way",
+          "ipa": "/tə pʊt ɪt əˈnʌðɚ weɪ/",
+          "pos": "fixed phrase",
+          "definition": "Used to say the same idea in different words.",
+          "example": "To put it another way, the plan is too slow.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "job",
+        "team",
+        "meeting",
+        "office",
+        "help"
+      ],
+      "mainWord": {
+        "word": "precise",
+        "ipa": "/prɪˈsaɪs/",
+        "pos": "adjective",
+        "definition": "Exact and correct in every detail.",
+        "example": "Please give me a precise number, not a rough guess.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Precise is an adjective. A precise answer is exact and correct in every detail. Please give me a precise number, not a rough guess.",
+      "pronunciationTarget": {
+        "word": "precise",
+        "ipa": "/prɪˈsaɪs/"
+      },
+      "expression": "To my mind, the plan needs more time.",
+      "use": "Use this when you want to give your opinion about a plan.",
+      "expressionTask": "Elena and Marcus discuss the new plan at work. What does Elena say about the plan?",
+      "grammar": "Modal perfects for past judgements: must have + past participle",
+      "pattern": "The team must have finished the work early.",
+      "task": "The team must have ___ the work early.",
+      "answer": "finished",
+      "example": "The team must have finished the work early.",
+      "context": [
+        "Elena and Marcus discuss the new plan at work.",
+        "To my mind, the plan needs more time."
+      ],
+      "dialogue": [
+        "Good morning, Marcus. I read your plan last night. It is clear, but one number is not precise.",
+        "Good morning, Elena. Which number do you mean?",
+        "The cost on page two. To my mind, the plan needs more time.",
+        "I see. There was a subtle change in the cost, and I did not show it well.",
+        "In essence, the plan is about trust. To put it another way, the numbers must be exact.",
+        "You are right. I will give you a precise number today."
+      ],
+      "listening": "On Monday, Elena reads Marcus's plan. She checks the cost on page two. The number is not precise, and she wants an answer. She says, 'To my mind, the plan needs more time.' Marcus listens and says, 'I see. There was a subtle change in the cost.' Elena says, 'In essence, the plan is about trust. To put it another way, the numbers must be exact.' Marcus says he will give her a precise number.",
+      "question": "What does Elena say about the plan?",
+      "correct": "She says it needs more time",
+      "other": "She says it is too short",
+      "reading": "On Monday morning, Elena reads the new plan at work. She is a senior analyst, and her job is to check the numbers before the team meets. The first part of the plan is clear, and the ideas are easy to follow. But one number on page two is not precise. Elena calls Marcus, her colleague, and says, 'To my mind, the plan needs more time.' Marcus listens. He says there was a subtle change in the cost, and he did not show it well. Elena says, 'In essence, the plan is about trust. To put it another way, the numbers must be exact, or the team will not trust the plan.' Marcus agrees. He works on the numbers in the afternoon and gives Elena a precise number before the meeting. Elena reads the new number and smiles. She says, 'Thank you, Marcus. Now the plan is clear. A precise number helps the whole team.'",
+      "readingQ": "What does Elena say about the plan?",
+      "readingA": "She says the plan needs more time because one number is not precise.",
+      "speaking": "Tell a friend about a time you had to say exactly what you meant. What did you say? How did the other person respond? What happened next?",
+      "speakingSample": "Last week, I read a plan from a colleague. One number was not precise, so I called him. I said, 'To my mind, the plan needs more time.' He said there was a subtle change in the cost. I said, 'In essence, the plan is about trust. To put it another way, the numbers must be exact.' He agreed and gave me a precise number that afternoon. I was glad. Clear words helped us both.",
+      "writing": "Write a short email to a colleague. Ask for a precise number in their plan. Say why the exact number matters.",
+      "writingSample": "Dear Marcus, Thank you for your plan. I read it this morning, and the first part is clear. But one number on page two is not precise. To my mind, the plan needs more time. There was a subtle change in the cost, and I did not see it in the plan. In essence, the plan is about trust. To put it another way, the numbers must be exact, or the team will not trust the plan. Please send me a precise number today. Thank you for your help. Best, Elena",
+      "sound": "Precise has its strongest beat on CISE. In precise, say PRE clearly at the start. In subtle, say SUB clearly at the start.",
+      "model": "Please give me a precise number, not a rough guess.",
+      "wordTask": "Who gives Elena a precise number?",
+      "wordSample": "Marcus, her colleague, gives Elena a precise number."
+    },
+    {
+      "unit": 1,
+      "day": 2,
+      "title": "Check what someone really means",
+      "goal": "I can check what someone really means.",
+      "newItems": [
+        {
+          "word": "equivocal",
+          "ipa": "/ɪˈkwɪvəkəl/",
+          "pos": "adjective",
+          "definition": "Open to more than one meaning; not clear.",
+          "example": "His equivocal answer pleased no one.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "infer",
+          "ipa": "/ɪnˈfɝr/",
+          "pos": "verb",
+          "definition": "To form an opinion from facts or signs, not from direct words.",
+          "example": "From his tone, I inferred that he was tired.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "if I understand you correctly",
+          "ipa": "/ɪf aɪ ˌʌndɚˈstænd ju kəˈrɛktli/",
+          "pos": "fixed phrase",
+          "definition": "Used to check that you have understood someone.",
+          "example": "If I understand you correctly, you want a shorter plan.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "correct me if I'm wrong",
+          "ipa": "/kəˈrɛkt mi ɪf aɪm rɔŋ/",
+          "pos": "fixed phrase",
+          "definition": "Used to invite someone to fix a mistake in what you said.",
+          "example": "Correct me if I'm wrong, but the meeting is on Monday.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "that's not quite what I meant",
+          "ipa": "/ðæts nɑt kwaɪt wʌt aɪ mɛnt/",
+          "pos": "fixed phrase",
+          "definition": "Used to fix a misunderstanding of your words.",
+          "example": "That's not quite what I meant. I meant the cost, not the time.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "work",
+        "report",
+        "project",
+        "plan",
+        "goal"
+      ],
+      "mainWord": {
+        "word": "equivocal",
+        "ipa": "/ɪˈkwɪvəkəl/",
+        "pos": "adjective",
+        "definition": "Open to more than one meaning; not clear.",
+        "example": "His equivocal answer pleased no one.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Equivocal is an adjective. An equivocal answer is open to more than one meaning, so it is not clear. His equivocal answer pleased no one.",
+      "pronunciationTarget": {
+        "word": "equivocal",
+        "ipa": "/ɪˈkwɪvəkəl/"
+      },
+      "expression": "If I understand you correctly, you want a shorter plan.",
+      "use": "Use this when you want to check that you have understood someone.",
+      "expressionTask": "Marcus listens to Elena's answer. What does he ask her?",
+      "grammar": "Advanced reported speech: She said that + past tense",
+      "pattern": "Elena said that the plan was too slow.",
+      "task": "Elena said that the plan ___ too slow.",
+      "answer": "was",
+      "example": "Elena said that the plan was too slow.",
+      "context": [
+        "Marcus listens to Elena's answer about the plan.",
+        "If I understand you correctly, you want a shorter plan."
+      ],
+      "dialogue": [
+        "Marcus, I read the new plan. Your answer about the cost was equivocal.",
+        "I am sorry. If I understand you correctly, you want a shorter plan.",
+        "No. That's not quite what I meant. I meant the cost, not the time.",
+        "Correct me if I'm wrong, but the cost is the problem, not the plan.",
+        "Yes. From your tone, I inferred that you were in a hurry.",
+        "You are right. I will give you a clear answer today."
+      ],
+      "listening": "On Tuesday, Marcus talks to Elena. His answer about the cost was equivocal, and Elena is not sure what he means. Marcus says, 'If I understand you correctly, you want a shorter plan.' Elena says, 'No. That's not quite what I meant. I meant the cost, not the time.' Marcus says, 'Correct me if I'm wrong, but the cost is the problem.' Elena says yes, and Marcus says he will give her a clear answer.",
+      "question": "What does Marcus ask Elena?",
+      "correct": "He asks if he understands her correctly",
+      "other": "He asks for a new plan",
+      "reading": "On Tuesday, Marcus talks to Elena about his plan. His answer about the cost was equivocal, and Elena is not sure what he means. She says, 'If I understand you correctly, you want a shorter plan.' Marcus says, 'No. That's not quite what I meant. I meant the cost, not the time.' Elena listens. She can infer from his tone that he was in a hurry, and she does not want to sound unkind. Marcus says, 'Correct me if I'm wrong, but the cost is the problem, not the plan.' Elena says, 'Yes, you are right. The cost is the problem.' Marcus is glad. He says he will give her a clear answer today. In the afternoon, he sends a short note with the true cost. Elena reads it and says, 'Thank you, Marcus. Now I know what you mean. A clear answer helps the whole team.' Elena is glad to hear it.",
+      "readingQ": "How does Marcus check what Elena means?",
+      "readingA": "He asks, 'If I understand you correctly, you want a shorter plan?'",
+      "speaking": "Tell a friend about a time you were not sure what someone meant. What did you ask? What did they say? How did it end?",
+      "speakingSample": "Last week, a colleague gave me an equivocal answer about the cost. I was not sure what he meant, so I said, 'If I understand you correctly, you want a shorter plan.' He said, 'No. That's not quite what I meant. I meant the cost, not the time.' I said, 'Correct me if I'm wrong, but the cost is the problem.' He said yes. I inferred that he was in a hurry. He gave me an answer.",
+      "writing": "Write a short email to a colleague. Check what they meant in their last message. Say what you think they meant, and ask them to fix any mistake.",
+      "writingSample": "Dear Elena, Thank you for your message about the plan. Your answer about the cost was equivocal, and I am not sure what you mean. If I understand you correctly, you want a shorter plan. Correct me if I'm wrong, but the cost is the problem, not the plan. That's not quite what I meant in my last note. I meant the cost, not the time. From your tone, I can infer that you were in a hurry. Please tell me if I am right. I want a clear answer before the team meets. Thank you for your help. Best, Marcus",
+      "sound": "Equivocal has its strongest beat on QUIV. In equivocal, say CAL clearly at the end. In infer, say FER clearly at the end.",
+      "model": "His equivocal answer pleased no one.",
+      "wordTask": "What does Marcus ask Elena?",
+      "wordSample": "He asks, 'If I understand you correctly, you want a shorter plan?'"
+    },
+    {
+      "unit": 1,
+      "day": 3,
+      "title": "Soften a strong opinion without losing it",
+      "goal": "I can soften a strong opinion without losing it.",
+      "newItems": [
+        {
+          "word": "forthright",
+          "ipa": "/ˈfɔrθraɪt/",
+          "pos": "adjective",
+          "definition": "Direct and honest in what you say.",
+          "example": "She gave a forthright answer to a hard question.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "explicit",
+          "ipa": "/ɪkˈsplɪsɪt/",
+          "pos": "adjective",
+          "definition": "Stated clearly and in detail, leaving nothing to guess.",
+          "example": "The report gave explicit instructions for the test.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "implicit",
+          "ipa": "/ɪmˈplɪsɪt/",
+          "pos": "adjective",
+          "definition": "Suggested or understood, though not said directly.",
+          "example": "There was an implicit promise in his words.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "strictly speaking",
+          "ipa": "/ˈstrɪktli ˈspikɪŋ/",
+          "pos": "fixed phrase",
+          "definition": "Using the exact meaning of the words.",
+          "example": "Strictly speaking, the work is not finished yet.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "to put it bluntly",
+          "ipa": "/tə pʊt ɪt ˈblʌntli/",
+          "pos": "fixed phrase",
+          "definition": "Used to say something directly, even if it is hard to hear.",
+          "example": "To put it bluntly, the plan will fail.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "client",
+        "data",
+        "presentation",
+        "supervisor",
+        "coworker"
+      ],
+      "mainWord": {
+        "word": "forthright",
+        "ipa": "/ˈfɔrθraɪt/",
+        "pos": "adjective",
+        "definition": "Direct and honest in what you say.",
+        "example": "She gave a forthright answer to a hard question.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Forthright is an adjective. A forthright person is direct and honest in what they say. She gave a forthright answer to a hard question.",
+      "pronunciationTarget": {
+        "word": "forthright",
+        "ipa": "/ˈfɔrθraɪt/"
+      },
+      "expression": "Strictly speaking, the work is not finished yet.",
+      "use": "Use this when you want to be exact about what a word means.",
+      "expressionTask": "Elena talks about the report with Marcus. What does she say about the work?",
+      "grammar": "Softening with tentative language: I would suggest that + clause",
+      "pattern": "I would suggest that we take more time.",
+      "task": "I would suggest that we ___ more time.",
+      "answer": "take",
+      "example": "I would suggest that we take more time.",
+      "context": [
+        "Elena talks to Marcus about the report.",
+        "Strictly speaking, the work is not finished yet."
+      ],
+      "dialogue": [
+        "Marcus, can I give you a forthright answer? Strictly speaking, the work is not finished yet.",
+        "Thank you. I want your honest view, not polite praise.",
+        "Your report is explicit about the cost, but the promise in it is only implicit.",
+        "To put it bluntly, do you think the plan will fail?",
+        "No. I think the plan is sound, but we need one more week.",
+        "Good. A forthright answer helps me more than a kind one."
+      ],
+      "listening": "On Wednesday, Elena talks to Marcus about his report. She wants to give him a forthright answer, not polite praise. She says, 'Strictly speaking, the work is not finished yet.' Marcus asks, 'To put it bluntly, do you think the plan will fail?' Elena says no, the plan is sound, but they need one more week. She says the report is explicit about the cost, but the promise in it is only implicit.",
+      "question": "What does Elena say about the work?",
+      "correct": "It is not finished yet",
+      "other": "It is ready to send",
+      "reading": "On Wednesday, Elena talks to Marcus about his report. She wants to give him a forthright answer, not polite praise. She says, 'Strictly speaking, the work is not finished yet.' Marcus listens. He asks, 'To put it bluntly, do you think the plan will fail?' Elena says, 'No. I think the plan is sound, but we need one more week.' She says the report is explicit about the cost, and that part is clear. But the promise in it is only implicit, and the team may miss it. Marcus says, 'Thank you. A forthright answer helps me more than a kind one.' He works on the report in the afternoon. He makes the promise explicit, and he writes the date in clear words. On Thursday, he shows the new report to Elena. She reads it and says, 'Good. Now the work is clear. A forthright answer helped us both.' Marcus is glad to hear it.",
+      "readingQ": "What does Elena say about the report?",
+      "readingA": "She says the report is explicit about the cost, but the promise in it is only implicit.",
+      "speaking": "Tell a friend how you soften a strong opinion. What do you say? How do you stay honest? What happened?",
+      "speakingSample": "Last week, I had to give a colleague a forthright answer about his report. I said, 'Strictly speaking, the work is not finished yet.' He asked, 'To put it bluntly, do you think the plan will fail?' I said no, the plan was sound, but we needed one more week. My report was explicit about the cost, but the promise in it was only implicit. He thanked me. A forthright answer helped us both.",
+      "writing": "Write a short email to a colleague. Give your honest view of their report. Soften the strong parts, but stay clear about what must change.",
+      "writingSample": "Dear Marcus, Thank you for your report. I want to give you a forthright answer. Strictly speaking, the work is not finished yet. Your report is explicit about the cost, and that part is clear. But the promise in it is only implicit, and the team may miss it. To put it bluntly, the date must be clear in the report. I think the plan is sound, but we need one more week. Please make the promise explicit and write the date in clear words. Thank you for your honest work. Best, Elena",
+      "sound": "Forthright has its strongest beat on FORTH. In forthright, say RIGHT clearly at the end. In explicit, say PLIC clearly in the middle.",
+      "model": "She gave a forthright answer to a hard question.",
+      "wordTask": "What does Elena say about the work?",
+      "wordSample": "She says, 'Strictly speaking, the work is not finished yet.'"
+    },
+    {
+      "unit": 1,
+      "day": 4,
+      "title": "Challenge an idea politely",
+      "goal": "I can challenge an idea politely.",
+      "newItems": [
+        {
+          "word": "elaborate",
+          "ipa": "/ɪˈlæbəreɪt/",
+          "pos": "verb",
+          "definition": "To give more details about an idea or a plan.",
+          "example": "Could you elaborate on your proposal?",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "contradict",
+          "ipa": "/ˌkɑntrəˈdɪkt/",
+          "pos": "verb",
+          "definition": "To say the opposite of what someone else said.",
+          "example": "His new report seemed to contradict his earlier claim.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "concede",
+          "ipa": "/kənˈsid/",
+          "pos": "verb",
+          "definition": "To admit that something is true, even if you do not want to.",
+          "example": "He conceded that the plan was too slow.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "as far as I can tell",
+          "ipa": "/æz fɑr æz aɪ kæn tɛl/",
+          "pos": "fixed phrase",
+          "definition": "From what I know or can see.",
+          "example": "As far as I can tell, the team agrees.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "on reflection",
+          "ipa": "/ɑn rɪˈflɛkʃən/",
+          "pos": "fixed phrase",
+          "definition": "After thinking about something again.",
+          "example": "On reflection, I think you were right.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "deadline",
+        "idea",
+        "problem",
+        "question",
+        "email"
+      ],
+      "mainWord": {
+        "word": "elaborate",
+        "ipa": "/ɪˈlæbəreɪt/",
+        "pos": "verb",
+        "definition": "To give more details about an idea or a plan.",
+        "example": "Could you elaborate on your proposal?",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Elaborate is a verb. To elaborate is to give more details about an idea or a plan. Could you elaborate on your proposal?",
+      "pronunciationTarget": {
+        "word": "elaborate",
+        "ipa": "/ɪˈlæbəreɪt/"
+      },
+      "expression": "As far as I can tell, the team agrees.",
+      "use": "Use this when you give your view from what you know or can see.",
+      "expressionTask": "Elena wants Marcus to give more details. What does she ask him?",
+      "grammar": "Participle clauses: Having read the report, + main clause",
+      "pattern": "Having read the report, I can see the problem.",
+      "task": "Having read the report, I ___ see the problem.",
+      "answer": "can",
+      "example": "Having read the report, I can see the problem.",
+      "context": [
+        "Elena asks Marcus to give more details about his idea.",
+        "As far as I can tell, the team agrees."
+      ],
+      "dialogue": [
+        "Marcus, could you elaborate on your idea? I want to hear the details.",
+        "Of course. As far as I can tell, the team agrees, but the cost is high.",
+        "I do not want to contradict you, but the cost was lower last year.",
+        "On reflection, you may be right. I concede that the old cost was lower.",
+        "Thank you. A polite challenge helps us both.",
+        "Yes. Let us look at the numbers again tomorrow."
+      ],
+      "listening": "On Thursday, Elena asks Marcus to elaborate on his idea. She wants to hear the details. Marcus says, 'As far as I can tell, the team agrees, but the cost is high.' Elena says, 'I do not want to contradict you, but the cost was lower last year.' Marcus thinks, and on reflection he sees that she may be right. He says he will concede the point and look at the numbers again.",
+      "question": "What does Elena ask Marcus to do?",
+      "correct": "To elaborate on his idea",
+      "other": "To write a new plan",
+      "reading": "On Thursday, Elena asks Marcus to elaborate on his idea. She wants to hear the details before the team meets. Marcus says, 'As far as I can tell, the team agrees, but the cost is high.' Elena says, 'I do not want to contradict you, but the cost was lower last year.' Marcus thinks for a moment. On reflection, he sees that she may be right. He says, 'I concede that the old cost was lower. Let us look at the numbers again.' Elena is glad. Elena listens with care. She does not want to sound unkind. She says a polite challenge helps them both. They sit together and check the old numbers. The old cost was lower, but the new work needs more time. Marcus says, 'Thank you, Elena. You helped me see the facts. A clear challenge makes the plan stronger.' They both want a clear plan. A good talk helps them both.",
+      "readingQ": "What does Marcus concede?",
+      "readingA": "He concedes that the old cost was lower.",
+      "speaking": "Tell a friend about a time you challenged an idea politely. What did you say? How did the other person respond?",
+      "speakingSample": "Last week, I asked a colleague to elaborate on his idea. He said, 'As far as I can tell, the team agrees, but the cost is high.' I said, 'I do not want to contradict you, but the cost was lower last year.' On reflection, he saw that I might be right. He said, 'I concede that the old cost was lower.' We looked at the numbers together. A polite challenge helped us both.",
+      "writing": "Write a short email to a colleague. Challenge one idea in their plan politely. Ask for more details, and say what you think the facts show.",
+      "writingSample": "Dear Marcus, Thank you for your idea. Could you elaborate on your proposal? I want to hear the details before the team meets. As far as I can tell, the team agrees, but the cost is high. I do not want to contradict you, but the cost was lower last year. On reflection, I think we should look at the numbers again. I concede that the new work needs more time. Please send me the old numbers, and we can check them together. Thank you for your clear idea. Best, Elena",
+      "sound": "Elaborate has its strongest beat on LAB. In elaborate, say RATE clearly at the end. In contradict, say DICT clearly at the end.",
+      "model": "Could you elaborate on your proposal?",
+      "wordTask": "What does Elena ask Marcus?",
+      "wordSample": "She asks him to elaborate on his idea."
+    },
+    {
+      "unit": 1,
+      "day": 5,
+      "title": "Admit uncertainty honestly",
+      "goal": "I can admit uncertainty honestly.",
+      "newItems": [
+        {
+          "word": "evasive",
+          "ipa": "/ɪˈveɪsɪv/",
+          "pos": "adjective",
+          "definition": "Avoiding a direct answer or the truth.",
+          "example": "His evasive reply told us nothing.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "retract",
+          "ipa": "/rɪˈtrækt/",
+          "pos": "verb",
+          "definition": "To take back a statement you made before.",
+          "example": "She retracted her claim the next day.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "qualify",
+          "ipa": "/ˈkwɑləfaɪ/",
+          "pos": "verb",
+          "definition": "To limit or change a statement so it is more exact.",
+          "example": "Let me qualify that: the cost, not the time, is the problem.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "in plain terms",
+          "ipa": "/ɪn pleɪn tɝmz/",
+          "pos": "fixed phrase",
+          "definition": "In clear, simple words.",
+          "example": "In plain terms, the cost is too high.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "in hindsight",
+          "ipa": "/ɪn ˈhaɪndsaɪt/",
+          "pos": "fixed phrase",
+          "definition": "When you look back and understand something better.",
+          "example": "In hindsight, the choice was clear.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "time",
+        "morning",
+        "week",
+        "month",
+        "year"
+      ],
+      "mainWord": {
+        "word": "evasive",
+        "ipa": "/ɪˈveɪsɪv/",
+        "pos": "adjective",
+        "definition": "Avoiding a direct answer or the truth.",
+        "example": "His evasive reply told us nothing.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Evasive is an adjective. An evasive answer avoids a direct answer or the truth. His evasive reply told us nothing.",
+      "pronunciationTarget": {
+        "word": "evasive",
+        "ipa": "/ɪˈveɪsɪv/"
+      },
+      "expression": "In plain terms, the cost is too high.",
+      "use": "Use this when you want to say something in clear, simple words.",
+      "expressionTask": "Elena talks about the numbers with Marcus. What does she say in plain terms?",
+      "grammar": "Inversion for emphasis: Not only + auxiliary + subject + verb",
+      "pattern": "Not only did the team finish early, but the work was excellent.",
+      "task": "Not only ___ the team finish early, but the work was excellent.",
+      "answer": "did",
+      "example": "Not only did the team finish early, but the work was excellent.",
+      "context": [
+        "Elena talks to Marcus about the numbers.",
+        "In plain terms, the cost is too high."
+      ],
+      "dialogue": [
+        "Marcus, I must qualify my last answer. In plain terms, the cost is too high.",
+        "Thank you for your honesty. Was your first answer evasive?",
+        "Yes, it was. In hindsight, I should have said the truth at once.",
+        "It is all right. Will you retract the first number?",
+        "Yes. I retract it, and I will send the true number today.",
+        "Good. An honest answer helps the team more than a safe one."
+      ],
+      "listening": "On Friday, Elena talks to Marcus about the numbers. She must qualify her last answer, because it was not clear. She says, 'In plain terms, the cost is too high.' Marcus asks, 'Was your first answer evasive?' Elena says, 'Yes, it was. In hindsight, I should have said the truth at once.' She says she will retract the first number and send the true number today.",
+      "question": "What does Elena say about her first answer?",
+      "correct": "It was evasive",
+      "other": "It was very clear",
+      "reading": "On Friday, Elena talks to Marcus about the numbers. She must qualify her last answer, because it was not clear. She says, 'In plain terms, the cost is too high.' Marcus asks, 'Was your first answer evasive?' Elena says, 'Yes, it was. In hindsight, I should have said the truth at once.' She says she will retract the first number and send the true number today. Marcus says, 'It is all right. An honest answer helps the team more than a safe one.' He does not want Elena to feel bad. He knows that an honest talk takes courage, and he is glad she told the truth. Elena sends the true number in the afternoon. Marcus reads it and says, 'Thank you, Elena. Now the numbers are clear.' Elena says, 'I am glad. I will not give an evasive answer again. Clear words help the whole team.' They both learn from the talk.",
+      "readingQ": "What does Elena do about her first number?",
+      "readingA": "She retracts it and sends the true number the same day.",
+      "speaking": "Tell a friend about a time you admitted you were not sure. What did you say? What happened next?",
+      "speakingSample": "Last week, I had to qualify my last answer to a colleague. I said, 'In plain terms, the cost is too high.' He asked, 'Was your first answer evasive?' I said yes. In hindsight, I should have said the truth at once. I said I would retract the first number and send the true number that day. He thanked me. An honest answer helped us both. I was glad I told the truth.",
+      "writing": "Write a short email to a colleague. Admit that your last answer was not clear. Say what you will change, and give the true number.",
+      "writingSample": "Dear Marcus, I must qualify my last answer. In plain terms, the cost is too high. My first answer was evasive, and I am sorry. In hindsight, I should have said the truth at once. I retract the first number, and I send the true number with this note. The true number is clear, and the team can trust it. Please tell me if you have more questions. Please forgive the trouble. Thank you for your honest words. An honest answer helps the team more than a safe one. Best, Elena",
+      "sound": "Evasive has its strongest beat on VA. In evasive, say SIVE clearly at the end. In retract, say TRACT clearly at the end.",
+      "model": "His evasive reply told us nothing.",
+      "wordTask": "What does Elena say in plain terms?",
+      "wordSample": "She says, 'In plain terms, the cost is too high.'"
+    },
+    {
+      "unit": 1,
+      "day": 6,
+      "title": "Summarise a complex discussion",
+      "goal": "I can summarise a complex discussion.",
+      "newItems": [
+        {
+          "word": "implication",
+          "ipa": "/ˌɪmpləˈkeɪʃən/",
+          "pos": "noun",
+          "definition": "Something that is suggested as a result, without being said directly.",
+          "example": "The implication of the delay was clear to all.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "distinction",
+          "ipa": "/dɪˈstɪŋkʃən/",
+          "pos": "noun",
+          "definition": "A clear difference between two similar things.",
+          "example": "There is an important distinction between a fact and an opinion.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "assert",
+          "ipa": "/əˈsɝrt/",
+          "pos": "verb",
+          "definition": "To state something firmly, as if it is true.",
+          "example": "He asserted that the facts were on his side.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "the point I'm trying to make is",
+          "ipa": "/ðə pɔɪnt aɪm ˈtraɪɪŋ tə meɪk ɪz/",
+          "pos": "fixed phrase",
+          "definition": "Used to state your main idea clearly.",
+          "example": "The point I'm trying to make is that time is short.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "in practical terms",
+          "ipa": "/ɪn ˈpræktɪkəl tɝmz/",
+          "pos": "fixed phrase",
+          "definition": "In terms of what really happens, not just in theory.",
+          "example": "In practical terms, we need one more week.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "today",
+        "tomorrow",
+        "yesterday",
+        "friend",
+        "family"
+      ],
+      "mainWord": {
+        "word": "implication",
+        "ipa": "/ˌɪmpləˈkeɪʃən/",
+        "pos": "noun",
+        "definition": "Something that is suggested as a result, without being said directly.",
+        "example": "The implication of the delay was clear to all.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Implication is a noun. The plural is implications. An implication is something that is suggested as a result, without being said directly. The implication of the delay was clear to all.",
+      "pronunciationTarget": {
+        "word": "implication",
+        "ipa": "/ˌɪmpləˈkeɪʃən/"
+      },
+      "expression": "The point I'm trying to make is that time is short.",
+      "use": "Use this when you want to state your main idea clearly.",
+      "expressionTask": "Elena sums up the long discussion. What is the point she is trying to make?",
+      "grammar": "Cleft sentences: What we need is + noun phrase",
+      "pattern": "What we need is more time.",
+      "task": "What we ___ is more time.",
+      "answer": "need",
+      "example": "What we need is more time.",
+      "context": [
+        "Elena sums up a long discussion for the team.",
+        "The point I'm trying to make is that time is short."
+      ],
+      "dialogue": [
+        "Marcus, let us sum up. The point I'm trying to make is that time is short.",
+        "Yes. There is an important distinction between a fact and an opinion, and we must keep it clear.",
+        "I assert that the plan is sound. In practical terms, we need one more week.",
+        "I agree. The implication of the delay was clear to all of us.",
+        "Good. So we keep the plan and change the date.",
+        "Yes. A clear summary helps the whole team."
+      ],
+      "listening": "On Monday, Elena sums up a long discussion for the team. She says, 'The point I'm trying to make is that time is short.' Marcus agrees. He says there is an important distinction between a fact and an opinion, and the team must keep it clear. Elena says, 'I assert that the plan is sound. In practical terms, we need one more week.' Marcus says the implication of the delay was clear to all.",
+      "question": "What does Elena say the team needs?",
+      "correct": "One more week",
+      "other": "A new plan",
+      "reading": "On Monday, Elena sums up a long discussion for the team. She says, 'The point I'm trying to make is that time is short.' Marcus agrees. He says there is an important distinction between a fact and an opinion, and the team must keep it clear. Elena says, 'I assert that the plan is sound. In practical terms, we need one more week.' Marcus says, 'Yes. The implication of the delay was clear to all of us. We need time, not a new plan.' The team listens. They all want the same result. The team is glad to hear a clear plan. They agree to keep the plan and change the date. Elena writes a short summary and sends it to the team. Marcus reads it and says, 'Good. A clear summary helps the whole team. Now we all know what to do next.' A short note helps them all.",
+      "readingQ": "What does Elena assert?",
+      "readingA": "She asserts that the plan is sound.",
+      "speaking": "Tell a friend how you sum up a long discussion. What was the main point? How did you say it?",
+      "speakingSample": "Last week, I had to sum up a long discussion for my team. I said, 'The point I'm trying to make is that time is short.' My colleague said there was an important distinction between a fact and an opinion. I said, 'I assert that the plan is sound. In practical terms, we need one more week.' She agreed. The implication of the delay was clear to all of us. A clear summary helped the whole team.",
+      "writing": "Write a short email to a colleague. Sum up a long discussion. State the main point, and say what the team will do next.",
+      "writingSample": "Dear Marcus, Thank you for the long discussion today. The point I'm trying to make is that time is short. There is an important distinction between a fact and an opinion, and we must keep it clear. I assert that the plan is sound. In practical terms, we need one more week. The implication of the delay was clear to all of us. We need time, not a new plan. We will keep the plan and change the date. I will write a short summary and send it to the team. Thank you for your clear words. Best, Elena",
+      "sound": "Implication has its strongest beat on CA. In implication, say TION clearly at the end. In distinction, say TINC clearly in the middle.",
+      "model": "The implication of the delay was clear to all.",
+      "wordTask": "What does Elena assert?",
+      "wordSample": "She asserts that the plan is sound."
+    },
+    {
+      "unit": 1,
+      "day": 7,
+      "title": "Respond to a surprising proposal",
+      "goal": "I can respond to a surprising proposal.",
+      "newItems": [
+        {
+          "word": "overstate",
+          "ipa": "/ˌoʊvɚˈsteɪt/",
+          "pos": "verb",
+          "definition": "To describe something as bigger or more important than it is.",
+          "example": "Do not overstate the risk; the facts are calm.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "understate",
+          "ipa": "/ˌʌndɚˈsteɪt/",
+          "pos": "verb",
+          "definition": "To describe something as smaller or less important than it is.",
+          "example": "She understated the problem, and the team was not ready.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "coherent",
+          "ipa": "/koʊˈhɪrənt/",
+          "pos": "adjective",
+          "definition": "Clear and logical; the parts fit together well.",
+          "example": "His argument was coherent and easy to follow.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "on the face of it",
+          "ipa": "/ɑn ðə feɪs əv ɪt/",
+          "pos": "fixed phrase",
+          "definition": "From what can be seen at first, before more thought.",
+          "example": "On the face of it, the plan looks good.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "on the whole",
+          "ipa": "/ɑn ðə hoʊl/",
+          "pos": "fixed phrase",
+          "definition": "In general, when all parts are considered.",
+          "example": "On the whole, the year went well.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "school",
+        "book",
+        "story",
+        "water",
+        "food"
+      ],
+      "mainWord": {
+        "word": "overstate",
+        "ipa": "/ˌoʊvɚˈsteɪt/",
+        "pos": "verb",
+        "definition": "To describe something as bigger or more important than it is.",
+        "example": "Do not overstate the risk; the facts are calm.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Overstate is a verb. To overstate is to describe something as bigger or more important than it is. Do not overstate the risk; the facts are calm.",
+      "pronunciationTarget": {
+        "word": "overstate",
+        "ipa": "/ˌoʊvɚˈsteɪt/"
+      },
+      "expression": "On the face of it, the plan looks good.",
+      "use": "Use this when you give a first view before more thought.",
+      "expressionTask": "Marcus makes a surprising proposal. What does Elena say at first?",
+      "grammar": "Subjunctive after suggest: I suggest that he + base verb",
+      "pattern": "I suggest that he rewrite the ending.",
+      "task": "I suggest that he ___ the ending.",
+      "answer": "rewrite",
+      "example": "I suggest that he rewrite the ending.",
+      "context": [
+        "Marcus makes a surprising proposal to Elena.",
+        "On the face of it, the plan looks good."
+      ],
+      "dialogue": [
+        "Marcus, tell me about your new proposal. I want to hear it.",
+        "On the face of it, the plan looks good.",
+        "It does. But do not overstate the gain. The facts are calm.",
+        "You are right. I may understate the risk, too. The plan is not perfect.",
+        "On the whole, your idea is coherent and easy to follow.",
+        "Thank you. So we keep the idea and check the numbers first."
+      ],
+      "listening": "On Tuesday, Marcus makes a surprising proposal to Elena. He says, 'On the face of it, the plan looks good.' Elena listens. She says, 'Do not overstate the gain. The facts are calm.' Marcus says, 'You are right. I may understate the risk, too. The plan is not perfect.' Elena says, 'On the whole, your idea is coherent and easy to follow.' Marcus says they will keep the idea and check the numbers first.",
+      "question": "What does Elena say about Marcus's idea?",
+      "correct": "It is coherent and easy to follow",
+      "other": "It is too long",
+      "reading": "On Tuesday, Marcus makes a surprising proposal to Elena. He says, 'On the face of it, the plan looks good.' Elena listens. She says, 'Do not overstate the gain. The facts are calm.' Marcus says, 'You are right. I may understate the risk, too. The plan is not perfect.' Elena says, 'On the whole, your idea is coherent and easy to follow.' She says the first part is clear, and the last part is strong. Marcus is glad. Marcus listens with care. He does not want to sound proud. He says, 'Thank you. So we keep the idea and check the numbers first.' They check the numbers together in the afternoon. The numbers are sound, and the plan is clear. Elena says, 'Good. A careful first look helps us both.' Elena smiles. She likes a bold idea. They both want a sound plan. A careful check helps them both. They agree to meet again tomorrow.",
+      "readingQ": "What does Elena warn Marcus not to do?",
+      "readingA": "She warns him not to overstate the gain.",
+      "speaking": "Tell a friend about a surprising proposal you heard. What did you say first? What did you do next?",
+      "speakingSample": "Last week, a colleague made a surprising proposal to me. He said, 'On the face of it, the plan looks good.' I said, 'Do not overstate the gain. The facts are calm.' He said, 'You are right. I may understate the risk, too.' I said, 'On the whole, your idea is coherent and easy to follow.' We kept the idea and checked the numbers first. A careful first look helped us both.",
+      "writing": "Write a short email to a colleague. Respond to their surprising proposal. Say what looks good at first, and what you want to check before you agree.",
+      "writingSample": "Dear Marcus, Thank you for your surprising proposal. On the face of it, the plan looks good. But do not overstate the gain. The facts are calm. You may understate the risk, too. The plan is not perfect. On the whole, your idea is coherent and easy to follow. The first part is clear, and the last part is strong. Let us keep the idea and check the numbers first. I will look at the numbers this afternoon, and we can talk again tomorrow. Thank you for your bold idea. Best, Elena",
+      "sound": "Overstate has its strongest beat on STATE. In overstate, say O clearly at the start. In understate, say STATE clearly at the end.",
+      "model": "Do not overstate the risk; the facts are calm.",
+      "wordTask": "What does Elena say about the proposal?",
+      "wordSample": "She says, 'On the face of it, the plan looks good.'"
+    },
+    {
+      "unit": 1,
+      "day": 8,
+      "title": "Use precise language in a new situation",
+      "goal": "I can use precise language in a new situation.",
+      "newItems": [
+        {
+          "word": "undermine",
+          "ipa": "/ˌʌndɚˈmaɪn/",
+          "pos": "verb",
+          "definition": "To make something weaker, often in a slow or hidden way.",
+          "example": "Constant doubt can undermine a good plan.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "when all is said and done",
+          "ipa": "/wɛn ɔl ɪz sɛd ənd dʌn/",
+          "pos": "fixed phrase",
+          "definition": "When everything is considered in the end.",
+          "example": "When all is said and done, the team did well.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "as I see it",
+          "ipa": "/æz aɪ si ɪt/",
+          "pos": "fixed phrase",
+          "definition": "In my opinion.",
+          "example": "As I see it, the plan needs more time.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "what it comes down to",
+          "ipa": "/wʌt ɪt kʌmz daʊn tə/",
+          "pos": "fixed phrase",
+          "definition": "Used to state the most important part of a question.",
+          "example": "What it comes down to is trust.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "for the most part",
+          "ipa": "/fɔr ðə moʊst pɑrt/",
+          "pos": "fixed phrase",
+          "definition": "In most cases; mostly.",
+          "example": "For the most part, the team agreed.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "money",
+        "price",
+        "shop",
+        "store",
+        "phone"
+      ],
+      "mainWord": {
+        "word": "undermine",
+        "ipa": "/ˌʌndɚˈmaɪn/",
+        "pos": "verb",
+        "definition": "To make something weaker, often in a slow or hidden way.",
+        "example": "Constant doubt can undermine a good plan.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Undermine is a verb. To undermine is to make something weaker, often in a slow or hidden way. Constant doubt can undermine a good plan.",
+      "pronunciationTarget": {
+        "word": "undermine",
+        "ipa": "/ˌʌndɚˈmaɪn/"
+      },
+      "expression": "As I see it, the lab needs a clearer plan.",
+      "use": "Use this to give your opinion in a friendly way.",
+      "expressionTask": "Nina starts a new job at a research lab. What does she say about the plan?",
+      "grammar": "Review: I can use precise language in a new situation",
+      "pattern": "I can use precise language in a new situation.",
+      "task": "I can ___ precise language in a new situation.",
+      "answer": "use",
+      "example": "I can use precise language in a new situation.",
+      "context": [
+        "Nina starts a new job at a research lab on Monday.",
+        "As I see it, the lab needs a clearer plan."
+      ],
+      "dialogue": [
+        "Good morning. I am Nina. Today is my first day at the research lab.",
+        "Good morning, Nina. Welcome aboard! I am Omar, your supervisor.",
+        "Thank you. As I see it, the lab needs a clearer plan.",
+        "That is a fair view. What it comes down to is trust, and trust needs clear numbers.",
+        "Yes. For the most part, the work is good. But constant doubt can undermine a good plan.",
+        "Well said. When all is said and done, clear words help the whole team."
+      ],
+      "listening": "On Monday, Nina starts a new job at a research lab. Her supervisor, Omar, meets her at the door. Nina asks, 'Could you give me some feedback on my plan?' Omar says, 'As I see it, the lab needs a clearer plan.' Nina says, 'What it comes down to is trust, and trust needs clear numbers.' Omar says, 'For the most part, the work is good. But constant doubt can undermine a good plan.'",
+      "question": "What does Nina say about the lab?",
+      "correct": "It needs a clearer plan",
+      "other": "It needs more staff",
+      "reading": "Nina starts a new job at a research lab on Monday. Her supervisor, Omar, meets her at the door. Nina's first job is to write a short plan for the lab. She finishes it on Friday and asks Omar, 'Could you give me some feedback on my plan?' Omar reads the plan. He says, 'As I see it, the lab needs a clearer plan.' Nina says, 'What it comes down to is trust, and trust needs clear numbers.' Omar agrees. He says, 'For the most part, the work is good. But constant doubt can undermine a good plan.' Nina makes the plan clearer. On Monday, she shows the new plan to Omar. Omar reads it and says, 'Well done! When all is said and done, clear words help the whole team.' Nina says, 'Thank you. I am happy to learn here.' Nina is glad to hear it. She likes the lab.",
+      "readingQ": "What does Omar say the work comes down to?",
+      "readingA": "He says it comes down to trust, and trust needs clear numbers.",
+      "speaking": "Tell a friend about a new situation at work. What did you do? What did you say? What was the result?",
+      "speakingSample": "I started a new job at a research lab. My supervisor read my plan. He said, 'As I see it, the lab needs a clearer plan.' I said, 'What it comes down to is trust, and trust needs clear numbers.' He said, 'For the most part, the work is good. But constant doubt can undermine a good plan.' I made the plan clearer. He said, 'Well done! When all is said and done, clear words help the whole team.'",
+      "writing": "Write a short email to a friend about a new situation at work. Say what happened, what you said, and what the result was.",
+      "writingSample": "Dear Tom, I started a new job at a research lab last month. My supervisor, Omar, read my first plan. He said, 'As I see it, the lab needs a clearer plan.' I said, 'What it comes down to is trust, and trust needs clear numbers.' He said, 'For the most part, the work is good. But constant doubt can undermine a good plan.' I made the plan clearer. On Monday, Omar read the new plan. He said, 'Well done! When all is said and done, clear words help the whole team.' I was happy. Best, Nina",
+      "sound": "Undermine has its strongest beat on MINE. In undermine, say DER clearly in the middle.",
+      "model": "Constant doubt can undermine a good plan.",
+      "wordTask": "What does Nina say about the lab?",
+      "wordSample": "She says, 'As I see it, the lab needs a clearer plan.'",
+      "transferCheck": {
+        "source": "On Monday, Alex starts a new job at a design studio in the city. His supervisor, Ruth, meets him at the door. She says, 'Welcome aboard! I am Ruth. I am happy to work with you.' Alex's first job is to write a short plan for the studio. He finishes it on Friday and asks Ruth, 'Could you give me some feedback on my plan?' Ruth reads the plan. She says, 'To my mind, the plan needs more time. One number is not precise.' Alex says, 'I see. There was a subtle change in the cost.' Ruth says, 'In essence, the plan is about trust. To put it another way, the numbers must be exact.' On Monday, Alex shows the new plan to Ruth. She reads it and says, 'Well done! As I see it, the plan is sound. When all is said and done, clear words help the whole team.'",
+        "dictation": "As I see it, the plan is sound.",
+        "answer": "1. The new worker is Alex. His new job is at a design studio in the city. 2. Alex's first job is to write a short plan for the studio. 3. On Friday, Alex asks Ruth, 'Could you give me some feedback on my plan?' 4. As I see it, the plan is sound. 5. Sample: On Monday, Alex starts a new job at a design studio in the city. His supervisor, Ruth, meets him at the door. She says, 'Welcome aboard!' Alex's first job is to write a short plan for the studio. On Friday, he asks Ruth for feedback. Ruth says, 'To my mind, the plan needs more time. One number is not precise.' Alex says, 'I see. There was a subtle change in the cost.' Ruth says, 'In essence, the plan is about trust.' On Monday, Ruth reads the new plan and says, 'Well done! As I see it, the plan is sound.' Follow-up: What does Ruth say about the new plan? She says it is sound, and clear words help the whole team.",
+        "tasks": [
+          [
+            "1 · Identify the people and the new job",
+            "Who is the new worker, and where is his new job?"
+          ],
+          [
+            "2 · Work out what Alex does in his first week",
+            "What is Alex's first job, and what does he do on Friday?"
+          ],
+          [
+            "3 · Notice the feedback on Friday",
+            "What does Ruth say about Alex's plan on Friday?"
+          ],
+          [
+            "4 · Listen and write",
+            "Write the sentence you hear."
+          ],
+          [
+            "5 · Retell and answer",
+            "Tell the story in order, including the people, the new job, the first week, and the result. Then answer one follow-up question."
+          ]
+        ]
+      }
+    }
+  ]
+}
