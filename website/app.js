@@ -19,7 +19,7 @@
 
   var FONT_KEY = 'ee-font-size';
   var RATE_KEY = 'ee-speech-rate';
-  var FONT_SIZES = { normal: '16px', large: '18px', extra: '20px' };
+  var FONT_SIZES = { xsmall: '14px', small: '15px', normal: '16px', large: '18px', extra: '20px' };
 
   /* ---- Text size: applied immediately (script is in <head>) so pages
      never flash at the small size first. ---- */
@@ -187,7 +187,7 @@
         return { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c];
       });
     },
-    /* Text size (normal / large / extra) and speech rate, both saved. */
+    /* Text size (xsmall / small / normal / large / extra) and speech rate, both saved. */
     fontSize: getFontSize,
     setFontSize: setFontSize,
     speakRate: getSpeakRate,
@@ -315,6 +315,8 @@
       wrap.setAttribute('role', 'group');
       wrap.setAttribute('aria-label', 'Text size');
       wrap.innerHTML = '<span class="font-size-label">Text size</span>' +
+        '<button type="button" data-font-size="xsmall" aria-label="Extra small text size">A--</button>' +
+        '<button type="button" data-font-size="small" aria-label="Small text size">A-</button>' +
         '<button type="button" data-font-size="normal" aria-label="Normal text size">A</button>' +
         '<button type="button" data-font-size="large" aria-label="Large text size">A+</button>' +
         '<button type="button" data-font-size="extra" aria-label="Extra large text size">A++</button>';

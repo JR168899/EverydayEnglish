@@ -553,6 +553,8 @@ blockquote.speaking,li.speaking{padding-left:14px}
 .font-size{display:inline-flex;align-items:center;gap:6px;flex-wrap:wrap}
 .font-size-label{font-weight:800;font-size:.9rem}
 .font-size button{min-height:44px;min-width:44px;padding:8px 12px;border:2px solid var(--border);background:#fff;color:var(--text);border-radius:12px;font-family:inherit;font-weight:900;cursor:pointer}
+.font-size button[data-font-size="xsmall"]{font-size:.85rem}
+.font-size button[data-font-size="small"]{font-size:.95rem}
 .font-size button[data-font-size="large"]{font-size:1.1rem}
 .font-size button[data-font-size="extra"]{font-size:1.25rem}
 .font-size button.active{background:var(--primary);border-color:var(--primary);color:#fff}
