@@ -1,0 +1,905 @@
+{
+  "number": 5,
+  "title": "Discussing the news in depth",
+  "lessons": [
+    {
+      "unit": 5,
+      "day": 33,
+      "title": "Get the main idea of a news story",
+      "goal": "I can get the main idea of a news story.",
+      "newItems": [
+        {
+          "word": "journalist",
+          "ipa": "/ˈdʒɝnələst/",
+          "pos": "noun",
+          "definition": "A person who writes news stories or reports the news.",
+          "example": "The journalist asked the official three questions.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "coverage",
+          "ipa": "/ˈkʌvɚɪdʒ/",
+          "pos": "noun",
+          "definition": "The way news is reported in the media.",
+          "example": "The new law got a lot of coverage on TV.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "in depth",
+          "ipa": "/ɪn dɛpθ/",
+          "pos": "fixed phrase",
+          "definition": "With a lot of detail; carefully and fully.",
+          "example": "We will look at the story in depth.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "in the headlines",
+          "ipa": "/ɪn ðə ˈhɛdˌlaɪnz/",
+          "pos": "fixed phrase",
+          "definition": "In the main news stories.",
+          "example": "The new park plan is in the headlines today.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "breaking news",
+          "ipa": "/ˈbreɪkɪŋ nuz/",
+          "pos": "fixed phrase",
+          "definition": "News that has just happened.",
+          "example": "Breaking news: the road is open again.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "news",
+        "story",
+        "paper",
+        "morning",
+        "today"
+      ],
+      "mainWord": {
+        "word": "journalist",
+        "ipa": "/ˈdʒɝnələst/",
+        "pos": "noun",
+        "definition": "A person who writes news stories or reports the news.",
+        "example": "The journalist asked the official three questions.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Journalist is a noun. A journalist is a person who writes news stories or reports the news. The journalist asked the official three questions.",
+      "pronunciationTarget": {
+        "word": "journalist",
+        "ipa": "/ˈdʒɝnələst/"
+      },
+      "expression": "The new bike plan is in the headlines today.",
+      "use": "Use this when you say a story is in the main news.",
+      "expressionTask": "Maya reads the morning paper. What is the top news story?",
+      "grammar": "Passive voice in the news: The plan was announced yesterday",
+      "pattern": "The plan was announced yesterday.",
+      "task": "The plan was ___ yesterday.",
+      "answer": "announced",
+      "example": "The plan was announced yesterday.",
+      "context": [
+        "Maya reads the morning paper at work.",
+        "The new bike plan is in the headlines today. The team must read the story in depth."
+      ],
+      "dialogue": [
+        "Maya: Daniel, have you seen the morning paper? The new bike plan is in the headlines today.",
+        "Daniel: Yes. Breaking news: the city will open 200 new bike stations.",
+        "Maya: A journalist wrote the story in depth. The coverage is very good.",
+        "Daniel: What is the main idea? The plan was announced yesterday, right?",
+        "Priya: Yes. The plan was announced yesterday. It will help workers in the city.",
+        "Maya: Good. Read the story in depth, and tell me the main idea."
+      ],
+      "listening": "On Monday, Maya reads the morning paper at work. The new bike plan is in the headlines today. Breaking news: the city will open 200 new bike stations. A journalist wrote the story in depth. The coverage is very good. The plan was announced yesterday. It will help workers in the city. Maya says, 'Read the story in depth, and tell me the main idea.'",
+      "question": "What is the main news story?",
+      "correct": "The new bike plan",
+      "other": "A new football team",
+      "reading": "On Monday, Maya reads the morning paper at work. The new bike plan is in the headlines today. Breaking news: the city will open 200 new bike stations. A journalist wrote the story in depth. The coverage is very good. The plan was announced yesterday. It will help workers in the city. Maya says, 'Read the story in depth, and tell me the main idea.' Daniel reads the story. He says, 'The main idea is clear. The city will open 200 new bike stations. The work will start in June.' Priya reads the story too. She says, 'The journalist asked the official three questions. The new bike plan is in the headlines today.' Maya is happy. She says, 'Good. First get the main idea. Then read the story in depth.'",
+      "readingQ": "What does Maya tell Daniel to do first?",
+      "readingA": "Get the main idea of the news story.",
+      "speaking": "Tell a friend about a news story you read. What was the main idea? Where did you read it?",
+      "speakingSample": "This morning, I read the news in the paper. The new bike plan is in the headlines today. Breaking news: the city will open 200 new bike stations. A journalist wrote the story in depth. The coverage is very good. The plan was announced yesterday. The main idea is clear. It will help workers in the city. I like to read the story in depth.",
+      "writing": "Write a short email to a friend. Tell them about a news story. Say what the main idea is and where you read it.",
+      "writingSample": "Dear Tom, I want to tell you about a news story I read this morning. The new bike plan is in the headlines today. Breaking news: the city will open 200 new bike stations. A journalist wrote the story in depth. The coverage is very good. The plan was announced yesterday. The main idea is clear. It will help workers in the city. I like to read the story in depth. It helps me understand the news. Best, Daniel",
+      "sound": "Journalist has its strongest beat on JOUR. In journalist, say JOUR clearly at the start. In coverage, say COV clearly at the start.",
+      "model": "The journalist asked the official three questions.",
+      "wordTask": "What is the main news story today?",
+      "wordSample": "The new bike plan is in the headlines today."
+    },
+    {
+      "unit": 5,
+      "day": 34,
+      "title": "Report what the news says",
+      "goal": "I can report what the news says.",
+      "newItems": [
+        {
+          "word": "bulletin",
+          "ipa": "/ˈbʊlətɪn/",
+          "pos": "noun",
+          "definition": "A short news report on radio or television.",
+          "example": "The noon bulletin said the storm had passed.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "correspondent",
+          "ipa": "/ˌkɔrəˈspɑndənt/",
+          "pos": "noun",
+          "definition": "A reporter who reports news from one place or on one subject.",
+          "example": "Our correspondent in the north sent a long report.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "according to reports",
+          "ipa": "/əˈkɔrdɪŋ tə rɪˈpɔrts/",
+          "pos": "fixed phrase",
+          "definition": "As the news reports say.",
+          "example": "According to reports, the road will open in June.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "sources say",
+          "ipa": "/ˈsɔrsəz seɪ/",
+          "pos": "fixed phrase",
+          "definition": "People who gave the news say this.",
+          "example": "Sources say the talks went well.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "in other news",
+          "ipa": "/ɪn ˈʌðɚ nuz/",
+          "pos": "fixed phrase",
+          "definition": "In another news story.",
+          "example": "In other news, the park will open in June.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "report",
+        "radio",
+        "television",
+        "team",
+        "city"
+      ],
+      "mainWord": {
+        "word": "bulletin",
+        "ipa": "/ˈbʊlətɪn/",
+        "pos": "noun",
+        "definition": "A short news report on radio or television.",
+        "example": "The noon bulletin said the storm had passed.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Bulletin is a noun. A bulletin is a short news report on radio or television. The noon bulletin said the storm had passed.",
+      "pronunciationTarget": {
+        "word": "bulletin",
+        "ipa": "/ˈbʊlətɪn/"
+      },
+      "expression": "According to reports, the road will open in June.",
+      "use": "Use this when you report what the news says.",
+      "expressionTask": "Daniel hears the noon bulletin. What does it say about the road?",
+      "grammar": "Reported speech: The report said that the plan would start in June",
+      "pattern": "The report said that the plan would start in June.",
+      "task": "The report said that the plan would ___ in June.",
+      "answer": "start",
+      "example": "The report said that the plan would start in June.",
+      "context": [
+        "Daniel hears the noon bulletin on the radio.",
+        "According to reports, the road will open in June. Sources say the talks went well."
+      ],
+      "dialogue": [
+        "Daniel: Maya, I heard the noon bulletin. According to reports, the road will open in June.",
+        "Maya: Good. What else did the bulletin say?",
+        "Daniel: It said the bike plan would start in June. Our correspondent in the north sent a long report.",
+        "Priya: Sources say the talks went well. In other news, the park will open in June too.",
+        "Maya: Please report what the news says. Use your own words.",
+        "Daniel: The report said that the plan would start in June, and the road will open in June."
+      ],
+      "listening": "On Tuesday, Daniel hears the noon bulletin on the radio. According to reports, the road will open in June. Sources say the talks went well. The report said that the plan would start in June. Our correspondent in the north sent a long report. In other news, the park will open in June too. Maya says, 'Please report what the news says.'",
+      "question": "What does the noon bulletin say about the road?",
+      "correct": "It will open in June",
+      "other": "It will close in June",
+      "reading": "On Tuesday, Daniel hears the noon bulletin on the radio. According to reports, the road will open in June. Sources say the talks went well. The report said that the plan would start in June. Our correspondent in the north sent a long report about the new bike stations. In other news, the park will open in June too. Maya asks Daniel to report what the news says. Daniel says, 'The noon bulletin said the road will open in June. It also said the bike plan would start in June. The correspondent in the north sent a long report. Sources say the talks went well, and the city is happy. In other news, the park will open in June.' Maya says, 'Good. When you report the news, use your own words. Tell me the main points, not every word.' Daniel is happy. He says, 'I will report what the news says in my own words.'",
+      "readingQ": "What does Daniel say about the bike plan?",
+      "readingA": "The plan would start in June.",
+      "speaking": "Tell a friend what the noon bulletin said. What did it say about the road and the park?",
+      "speakingSample": "Yesterday, I heard the noon bulletin on the radio. According to reports, the road will open in June. Sources say the talks went well. The report said that the plan would start in June. Our correspondent in the north sent a long report. In other news, the park will open in June too. I like to report what the news says in my own words.",
+      "writing": "Write a short email to a colleague. Report what the noon bulletin said about the road and the park.",
+      "writingSample": "Dear Priya, I want to tell you what the noon bulletin said. According to reports, the road will open in June. Sources say the talks went well. The report said that the plan would start in June. Our correspondent in the north sent a long report about the new bike stations. In other news, the park will open in June too. I will report what the news says in my own words. Please tell me what you think. Best, Daniel",
+      "sound": "Bulletin has its strongest beat on BULL. In bulletin, say BULL clearly at the start. In correspondent, say SPOND clearly in the middle.",
+      "model": "The noon bulletin said the storm had passed.",
+      "wordTask": "What did the noon bulletin say about the road?",
+      "wordSample": "The road will open in June."
+    },
+    {
+      "unit": 5,
+      "day": 35,
+      "title": "Describe people and places in the news",
+      "goal": "I can describe people and places in the news.",
+      "newItems": [
+        {
+          "word": "exclusive",
+          "ipa": "/ɪkˈsklusɪv/",
+          "pos": "adjective",
+          "definition": "A story that only one newspaper or channel has.",
+          "example": "The paper had an exclusive talk with an official.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "summit",
+          "ipa": "/ˈsʌmət/",
+          "pos": "noun",
+          "definition": "A meeting of leaders from different countries.",
+          "example": "The leaders met at a summit in the spring.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "treaty",
+          "ipa": "/ˈtriti/",
+          "pos": "noun",
+          "definition": "A written agreement between two or more countries.",
+          "example": "The two countries signed a new treaty.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "in the public eye",
+          "ipa": "/ɪn ðə ˈpʌblɪk aɪ/",
+          "pos": "fixed phrase",
+          "definition": "Seen and watched by many people.",
+          "example": "An official is always in the public eye.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "in the spotlight",
+          "ipa": "/ɪn ðə ˈspɑtˌlaɪt/",
+          "pos": "fixed phrase",
+          "definition": "Watched by many people; in public view.",
+          "example": "The new plan is in the spotlight.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "meeting",
+        "office",
+        "friend",
+        "week",
+        "street"
+      ],
+      "mainWord": {
+        "word": "exclusive",
+        "ipa": "/ɪkˈsklusɪv/",
+        "pos": "adjective",
+        "definition": "A story that only one newspaper or channel has.",
+        "example": "The paper had an exclusive talk with an official.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Exclusive is an adjective. An exclusive story is a story that only one newspaper or channel has. The paper had an exclusive talk with an official.",
+      "pronunciationTarget": {
+        "word": "exclusive",
+        "ipa": "/ɪkˈsklusɪv/"
+      },
+      "expression": "The new plan is in the spotlight.",
+      "use": "Use this when you say many people watch something.",
+      "expressionTask": "Priya reads a story about a summit. What is in the spotlight?",
+      "grammar": "Relative clauses: The official, who spoke yesterday, said the plan is good",
+      "pattern": "The official, who spoke yesterday, said the plan is good.",
+      "task": "The official, who spoke ___, said the plan is good.",
+      "answer": "yesterday",
+      "example": "The official, who spoke yesterday, said the plan is good.",
+      "context": [
+        "Priya reads a story about a summit in the paper.",
+        "The new plan is in the spotlight. An official is always in the public eye."
+      ],
+      "dialogue": [
+        "Priya: Maya, I read an exclusive story about a summit. The leaders met in the spring.",
+        "Maya: Tell me more. Who was at the summit?",
+        "Priya: The official, who spoke yesterday, said the plan is good. The two countries signed a new treaty.",
+        "Daniel: The new plan is in the spotlight. An official is always in the public eye.",
+        "Maya: Good. Describe the people and the place in the news.",
+        "Priya: The summit was in a big hall. The treaty will help both countries."
+      ],
+      "listening": "On Wednesday, Priya reads an exclusive story about a summit. The leaders met in the spring. The official, who spoke yesterday, said the plan is good. The two countries signed a new treaty. The new plan is in the spotlight. An official is always in the public eye. Maya says, 'Describe the people and the place in the news.'",
+      "question": "What did the two countries sign?",
+      "correct": "A new treaty",
+      "other": "A new book",
+      "reading": "On Wednesday, Priya reads an exclusive story about a summit. The leaders met in the spring. The official, who spoke yesterday, said the plan is good. The two countries signed a new treaty. The new plan is in the spotlight. An official is always in the public eye. Priya tells Maya about the story. She says, 'The summit was in a big hall. The treaty will help both countries. The official, who spoke yesterday, said the plan is good.' Maya asks, 'Who was at the summit?' Priya says, 'Leaders from two countries. The story is exclusive. Only one paper has it.' Daniel says, 'The new plan is in the spotlight. Many people talk about it. An official is always in the public eye.' Maya says, 'Good. When you describe people and places in the news, use relative clauses. Tell me who they are and where they are.'",
+      "readingQ": "What does Priya say about the story?",
+      "readingA": "It is exclusive; only one paper has it.",
+      "speaking": "Tell a friend about a news story with people and places. Who was in it? Where was it?",
+      "speakingSample": "This week, I read an exclusive story about a summit. The leaders met in the spring. The official, who spoke yesterday, said the plan is good. The two countries signed a new treaty. The new plan is in the spotlight. An official is always in the public eye. I like to describe the people and the places in the news.",
+      "writing": "Write a short email to a friend. Describe a news story about people and places. Say who was in it and where it was.",
+      "writingSample": "Dear Tom, I want to tell you about a news story. I read an exclusive story about a summit. The leaders met in the spring. The official, who spoke yesterday, said the plan is good. The two countries signed a new treaty. The new plan is in the spotlight. An official is always in the public eye. I like to describe the people and the places in the news. It was a good story to read. Best, Daniel",
+      "sound": "Exclusive has its strongest beat on CLU. In exclusive, say CLU clearly in the middle. In summit, say SUM clearly at the start.",
+      "model": "The paper had an exclusive talk with an official.",
+      "wordTask": "What did the two countries sign?",
+      "wordSample": "A new treaty."
+    },
+    {
+      "unit": 5,
+      "day": 36,
+      "title": "Talk about future plans in the news",
+      "goal": "I can talk about future plans in the news.",
+      "newItems": [
+        {
+          "word": "reform",
+          "ipa": "/rɪˈfɔrm/",
+          "pos": "noun",
+          "definition": "A change that makes a system better.",
+          "example": "The new reform will help small shops.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "outbreak",
+          "ipa": "/ˈaʊtˌbreɪk/",
+          "pos": "noun",
+          "definition": "The sudden start of something bad, like a disease.",
+          "example": "The outbreak of flu closed two schools.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "rescue",
+          "ipa": "/ˈrɛskju/",
+          "pos": "verb",
+          "definition": "To save someone from danger.",
+          "example": "The team helped rescue the workers.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "by and large",
+          "ipa": "/baɪ ənd lɑrdʒ/",
+          "pos": "fixed phrase",
+          "definition": "Mostly; in general.",
+          "example": "By and large, the plan works well.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "in the near future",
+          "ipa": "/ɪn ðə nɪr ˈfjutʃɚ/",
+          "pos": "fixed phrase",
+          "definition": "Soon; in a short time from now.",
+          "example": "In the near future, the city will open a new park.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "plan",
+        "town",
+        "school",
+        "park",
+        "water"
+      ],
+      "mainWord": {
+        "word": "reform",
+        "ipa": "/rɪˈfɔrm/",
+        "pos": "noun",
+        "definition": "A change that makes a system better.",
+        "example": "The new reform will help small shops.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Reform is a noun. A reform is a change that makes a system better. The new reform will help small shops.",
+      "pronunciationTarget": {
+        "word": "reform",
+        "ipa": "/rɪˈfɔrm/"
+      },
+      "expression": "In the near future, the city will open a new park.",
+      "use": "Use this when you talk about a plan for the near future.",
+      "expressionTask": "Maya reads about a reform. What will the city do in the near future?",
+      "grammar": "Future perfect: By 2030, the city will have built 200 stations",
+      "pattern": "By 2030, the city will have built 200 stations.",
+      "task": "By 2030, the city will have ___ 200 stations.",
+      "answer": "built",
+      "example": "By 2030, the city will have built 200 stations.",
+      "context": [
+        "Maya reads about a new reform for the town.",
+        "In the near future, the city will open a new park. By and large, the plan works well."
+      ],
+      "dialogue": [
+        "Maya: Team, I read about a new reform for the town. By and large, the plan works well.",
+        "Daniel: What will the city do in the near future?",
+        "Maya: In the near future, the city will open a new park. By 2030, the city will have built 200 stations.",
+        "Priya: The news also talked about an outbreak of flu. The team helped rescue the workers.",
+        "Daniel: A rescue team will help the town. The reform will help small shops.",
+        "Maya: Good. Tell me about future plans in the news."
+      ],
+      "listening": "On Thursday, Maya reads about a new reform for the town. By and large, the plan works well. In the near future, the city will open a new park. By 2030, the city will have built 200 stations. The news also talked about an outbreak of flu. The team helped rescue the workers. Maya says, 'Tell me about future plans in the news.'",
+      "question": "What will the city have built by 2030?",
+      "correct": "200 stations",
+      "other": "200 schools",
+      "reading": "On Thursday, Maya reads about a new reform for the town. By and large, the plan works well. In the near future, the city will open a new park. By 2030, the city will have built 200 stations. The news also talked about an outbreak of flu. Two schools closed, and the team helped rescue the workers. Maya tells the team about the reform. She says, 'The new reform will help small shops. By and large, the plan works well.' Daniel asks, 'What will the city do in the near future?' Maya says, 'In the near future, the city will open a new park. By 2030, the city will have built 200 stations.' Priya says, 'The outbreak of flu closed two schools. The team helped rescue the workers.' Maya says, 'Good. When you talk about future plans in the news, use the future perfect. Say what will have happened by a time in the future.'",
+      "readingQ": "What will the city have built by 2030?",
+      "readingA": "200 stations.",
+      "speaking": "Tell a friend about a future plan in the news. What will happen? By when?",
+      "speakingSample": "This week, I read about a new reform for the town. By and large, the plan works well. In the near future, the city will open a new park. By 2030, the city will have built 200 stations. The news also talked about an outbreak of flu. The team helped rescue the workers. I like to talk about future plans in the news.",
+      "writing": "Write a short email to a friend. Tell them about a future plan in the news. Say what will happen and by when.",
+      "writingSample": "Dear Lisa, I want to tell you about a future plan in the news. I read about a new reform for the town. By and large, the plan works well. In the near future, the city will open a new park. By 2030, the city will have built 200 stations. The news also talked about an outbreak of flu. The team helped rescue the workers. I like to talk about future plans in the news. Best, Daniel",
+      "sound": "Reform has its strongest beat on FORM. In reform, say FORM clearly at the end. In outbreak, say OUT clearly at the start.",
+      "model": "The new reform will help small shops.",
+      "wordTask": "What will the city have built by 2030?",
+      "wordSample": "200 stations."
+    },
+    {
+      "unit": 5,
+      "day": 37,
+      "title": "Talk about what will be happening",
+      "goal": "I can talk about what will be happening.",
+      "newItems": [
+        {
+          "word": "victim",
+          "ipa": "/ˈvɪktəm/",
+          "pos": "noun",
+          "definition": "A person hurt or harmed by something bad.",
+          "example": "The story helped the victims of the flood.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "allegation",
+          "ipa": "/ˌæləˈɡeɪʃən/",
+          "pos": "noun",
+          "definition": "A claim that someone has done something wrong, not yet proven.",
+          "example": "The paper printed an allegation about the firm.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "investigation",
+          "ipa": "/ɪnˌvɛstəˈɡeɪʃən/",
+          "pos": "noun",
+          "definition": "A careful look for the facts about something.",
+          "example": "The investigation took three months.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "keep up with the news",
+          "ipa": "/kip ʌp wɪð ðə nuz/",
+          "pos": "fixed phrase",
+          "definition": "Follow the news so you know what is happening.",
+          "example": "I read the paper to keep up with the news.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "follow the story",
+          "ipa": "/ˈfɑloʊ ðə ˈstɔri/",
+          "pos": "fixed phrase",
+          "definition": "Keep reading or watching to learn more about a story.",
+          "example": "Follow the story in the morning paper.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "worker",
+        "hospital",
+        "storm",
+        "night",
+        "rain"
+      ],
+      "mainWord": {
+        "word": "victim",
+        "ipa": "/ˈvɪktəm/",
+        "pos": "noun",
+        "definition": "A person hurt or harmed by something bad.",
+        "example": "The story helped the victims of the flood.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Victim is a noun. A victim is a person hurt or harmed by something bad. The story helped the victims of the flood.",
+      "pronunciationTarget": {
+        "word": "victim",
+        "ipa": "/ˈvɪktəm/"
+      },
+      "expression": "I read the paper to keep up with the news.",
+      "use": "Use this when you say how you follow the news.",
+      "expressionTask": "Daniel reads about a fire. How does he follow the story?",
+      "grammar": "Future continuous: This time next year, riders will be using the new bikes",
+      "pattern": "This time next year, riders will be using the new bikes.",
+      "task": "This time next year, riders will be ___ the new bikes.",
+      "answer": "using",
+      "example": "This time next year, riders will be using the new bikes.",
+      "context": [
+        "Daniel reads a story about a fire in the town.",
+        "I read the paper to keep up with the news. Follow the story in the morning paper."
+      ],
+      "dialogue": [
+        "Daniel: Maya, I read a story about a fire in the town. I read the paper to keep up with the news.",
+        "Maya: What did the story say? Who was hurt?",
+        "Daniel: The story helped the victims of the flood. The paper printed an allegation about the firm.",
+        "Priya: The investigation took three months. Follow the story in the morning paper.",
+        "Maya: This time next year, riders will be using the new bikes. What will be happening then?",
+        "Daniel: The town will be helping the victims. I will follow the story."
+      ],
+      "listening": "On Friday, Daniel reads a story about a fire in the town. I read the paper to keep up with the news. The story helped the victims of the flood. The paper printed an allegation about the firm. The investigation took three months. Follow the story in the morning paper. This time next year, riders will be using the new bikes.",
+      "question": "How long did the investigation take?",
+      "correct": "Three months",
+      "other": "Three days",
+      "reading": "On Friday, Daniel reads a story about a fire in the town. He reads the paper to keep up with the news. The story helped a victim of the flood. The paper printed an allegation about the firm. The investigation took three months. Daniel tells Maya about the story. He says, 'The story helped a victim of the flood. The paper printed an allegation about the firm.' Maya asks, 'How long did the investigation take?' Daniel says, 'The investigation took three months. Follow the story in the morning paper.' Priya says, 'This time next year, riders will be using the new bikes. The town will be helping the victims.' Maya says, 'Good. When you talk about what will be happening, use the future continuous. Say what people will be doing at a time in the future.'",
+      "readingQ": "What does Daniel say about the investigation?",
+      "readingA": "It took three months.",
+      "speaking": "Tell a friend about a news story you follow. How do you keep up with the news? What will be happening next year?",
+      "speakingSample": "This week, I read a story about a fire in the town. I read the paper to keep up with the news. The story helped the victims of the flood. The paper printed an allegation about the firm. The investigation took three months. Follow the story in the morning paper. This time next year, riders will be using the new bikes.",
+      "writing": "Write a short email to a friend. Tell them about a news story you follow. Say how you keep up with the news.",
+      "writingSample": "Dear Anna, I want to tell you about a news story I follow. I read the paper to keep up with the news. On Friday, I read a story about a fire in the town. The story helped the victims of the flood. The paper printed an allegation about the firm. The investigation took three months. Follow the story in the morning paper. This time next year, riders will be using the new bikes. Best, Daniel",
+      "sound": "Victim has its strongest beat on VIC. In victim, say VIC clearly at the start. In allegation, say GA clearly in the middle.",
+      "model": "The story helped a victim of the flood.",
+      "wordTask": "How long did the investigation take?",
+      "wordSample": "Three months."
+    },
+    {
+      "unit": 5,
+      "day": 38,
+      "title": "Say what should happen",
+      "goal": "I can say what should happen.",
+      "newItems": [
+        {
+          "word": "scandal",
+          "ipa": "/ˈskændəl/",
+          "pos": "noun",
+          "definition": "A shocking event that makes people angry.",
+          "example": "The scandal was in the news for weeks.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "misinformation",
+          "ipa": "/ˌmɪsɪnfɚˈmeɪʃən/",
+          "pos": "noun",
+          "definition": "Wrong information that people believe is true.",
+          "example": "Misinformation about the storm spread fast.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "viral",
+          "ipa": "/ˈvaɪrəl/",
+          "pos": "adjective",
+          "definition": "Shared very fast by many people online.",
+          "example": "The video about the rescue went viral.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "off the record",
+          "ipa": "/ɔf ðə ˈrɛkɚd/",
+          "pos": "fixed phrase",
+          "definition": "Not for the public; not to be printed or said in public.",
+          "example": "The minister spoke off the record.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "on the record",
+          "ipa": "/ɑn ðə ˈrɛkɚd/",
+          "pos": "fixed phrase",
+          "definition": "Said in public, so it can be printed or shared.",
+          "example": "The official spoke on the record about the plan.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "firm",
+        "letter",
+        "money",
+        "question",
+        "result"
+      ],
+      "mainWord": {
+        "word": "scandal",
+        "ipa": "/ˈskændəl/",
+        "pos": "noun",
+        "definition": "A shocking event that makes people angry.",
+        "example": "The scandal was in the news for weeks.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Scandal is a noun. A scandal is a shocking event that makes people angry. The scandal was in the news for weeks.",
+      "pronunciationTarget": {
+        "word": "scandal",
+        "ipa": "/ˈskændəl/"
+      },
+      "expression": "The minister spoke off the record.",
+      "use": "Use this when someone speaks but not for the public.",
+      "expressionTask": "Priya reads about a scandal. What did the minister do?",
+      "grammar": "Recommendations: The report recommends that the city act now",
+      "pattern": "The report recommends that the city act now.",
+      "task": "The report recommends that the city ___ now.",
+      "answer": "act",
+      "example": "The report recommends that the city act now.",
+      "context": [
+        "Priya reads about a scandal in the paper.",
+        "The minister spoke off the record. The official spoke on the record about the plan."
+      ],
+      "dialogue": [
+        "Priya: Maya, I read about a scandal. The minister spoke off the record.",
+        "Maya: What did the report say? What should happen?",
+        "Priya: The report recommends that the city act now. Misinformation about the storm spread fast.",
+        "Daniel: The video about the rescue went viral. The official spoke on the record about the plan.",
+        "Maya: Good. Say what should happen. Use the report's words.",
+        "Priya: The report recommends that the city act now. We must check the facts."
+      ],
+      "listening": "On Saturday, Priya reads about a scandal in the paper. The minister spoke off the record. The report recommends that the city act now. Misinformation about the storm spread fast. The video about the rescue went viral. The official spoke on the record about the plan. Maya says, 'Say what should happen.' The scandal was in the news for weeks.",
+      "question": "What does the report recommend?",
+      "correct": "That the city act now",
+      "other": "That the city wait a year",
+      "reading": "On Saturday, Priya reads about a scandal in the paper. The minister spoke off the record. The report recommends that the city act now. Misinformation about the storm spread fast. The video about the rescue went viral. The official spoke on the record about the plan. The scandal was in the news for weeks. Priya tells Maya about the story. She says, 'The minister spoke off the record. The report recommends that the city act now.' Maya asks, 'What did the official say?' Priya says, 'The official spoke on the record about the plan. Misinformation about the storm spread fast. The video about the rescue went viral.' Daniel says, 'The scandal was in the news for weeks. We must check the facts.' Maya says, 'Good. When you say what should happen, use the report's words. Say what the report recommends.'",
+      "readingQ": "What does the report recommend?",
+      "readingA": "That the city act now.",
+      "speaking": "Tell a friend about a news story. What does the report recommend? What should happen?",
+      "speakingSample": "This week, I read about a scandal in the paper. The minister spoke off the record. The report recommends that the city act now. Misinformation about the storm spread fast. The video about the rescue went viral. The official spoke on the record about the plan. The scandal was in the news for weeks. I think the city should act now.",
+      "writing": "Write a short email to a colleague. Tell them about a scandal in the news. Say what the report recommends.",
+      "writingSample": "Dear Priya, I want to tell you about a scandal in the paper. The minister spoke off the record. The report recommends that the city act now. Misinformation about the storm spread fast. The video about the rescue went viral. The official spoke on the record about the plan. The scandal was in the news for weeks. I think the city should act now. We must check the facts before we believe the story. Best, Daniel",
+      "sound": "Scandal has its strongest beat on SCAN. In scandal, say SCAN clearly at the start. In viral, say VI clearly at the start.",
+      "model": "The scandal was in the news for weeks.",
+      "wordTask": "What does the report recommend?",
+      "wordSample": "That the city act now."
+    },
+    {
+      "unit": 5,
+      "day": 39,
+      "title": "Talk about how sure you are",
+      "goal": "I can talk about how sure I am.",
+      "newItems": [
+        {
+          "word": "hoax",
+          "ipa": "/hoʊks/",
+          "pos": "noun",
+          "definition": "A trick that makes people believe something that is not true.",
+          "example": "The story about free cars was a hoax.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "debate",
+          "ipa": "/dɪˈbeɪt/",
+          "pos": "noun",
+          "definition": "A talk in which people give different views on a subject.",
+          "example": "The debate about the new park lasted two hours.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "protest",
+          "ipa": "/ˈproʊˌtɛst/",
+          "pos": "noun",
+          "definition": "A public show of strong feeling against something.",
+          "example": "A protest about the new road filled the square.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "word of mouth",
+          "ipa": "/wɝd əv maʊθ/",
+          "pos": "fixed phrase",
+          "definition": "News passed from person to person by talking.",
+          "example": "The story spread by word of mouth.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "no comment",
+          "ipa": "/noʊ ˈkɑmɛnt/",
+          "pos": "fixed phrase",
+          "definition": "I will not say anything about this.",
+          "example": "The minister said, 'No comment.'",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "video",
+        "online",
+        "family",
+        "phone",
+        "book"
+      ],
+      "mainWord": {
+        "word": "hoax",
+        "ipa": "/hoʊks/",
+        "pos": "noun",
+        "definition": "A trick that makes people believe something that is not true.",
+        "example": "The story about free cars was a hoax.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Hoax is a noun. A hoax is a trick that makes people believe something that is not true. The story about free cars was a hoax.",
+      "pronunciationTarget": {
+        "word": "hoax",
+        "ipa": "/hoʊks/"
+      },
+      "expression": "The story about free cars was a hoax.",
+      "use": "Use this when a story is a trick and not true.",
+      "expressionTask": "Daniel hears a story about free cars. Is it true?",
+      "grammar": "Certainty: The plan is likely to work",
+      "pattern": "The plan is likely to work.",
+      "task": "The plan is ___ to work.",
+      "answer": "likely",
+      "example": "The plan is likely to work.",
+      "context": [
+        "Daniel hears a story about free cars.",
+        "The story about free cars was a hoax. The story spread by word of mouth."
+      ],
+      "dialogue": [
+        "Daniel: Maya, I heard a story about free cars. The story about free cars was a hoax.",
+        "Maya: How sure are you? The story spread by word of mouth.",
+        "Daniel: The minister said, 'No comment.' The debate about the new park lasted two hours.",
+        "Priya: A protest about the new road filled the square. The plan is likely to work.",
+        "Maya: Good. Talk about how sure you are. Use likely and unlikely.",
+        "Daniel: The plan is likely to work. The story about free cars was a hoax."
+      ],
+      "listening": "On Sunday, Daniel hears a story about free cars. The story about free cars was a hoax. The story spread by word of mouth. The minister said, 'No comment.' The debate about the new park lasted two hours. A protest about the new road filled the square. The plan is likely to work. Maya says, 'Talk about how sure you are.'",
+      "question": "What was the story about free cars?",
+      "correct": "A hoax",
+      "other": "A true story",
+      "reading": "On Sunday, Daniel hears a story about free cars. The story about free cars was a hoax. The story spread by word of mouth. The minister said, 'No comment.' The debate about the new park lasted two hours. A protest about the new road filled the square. The plan is likely to work. Daniel tells Maya about the story. He says, 'The story about free cars was a hoax. The story spread by word of mouth.' Maya asks, 'How sure are you?' Daniel says, 'The minister said, 'No comment.' The debate about the new park lasted two hours. A protest about the new road filled the square. The plan is likely to work.' Maya says, 'Good. When you talk about how sure you are, use likely and unlikely. Say what you think is true, and say how sure you are.'",
+      "readingQ": "What does Daniel say about the free cars story?",
+      "readingA": "It was a hoax.",
+      "speaking": "Tell a friend about a news story. How sure are you that it is true? Why?",
+      "speakingSample": "This week, I heard a story about free cars. The story about free cars was a hoax. The story spread by word of mouth. The minister said, 'No comment.' The debate about the new park lasted two hours. A protest about the new road filled the square. The plan is likely to work. I am quite sure the story is not true.",
+      "writing": "Write a short email to a friend. Tell them about a news story. Say how sure you are that it is true.",
+      "writingSample": "Dear Tom, I want to tell you about a news story. I heard a story about free cars. The story about free cars was a hoax. The story spread by word of mouth. The minister said, 'No comment.' The debate about the new park lasted two hours. A protest about the new road filled the square. The plan is likely to work. I am quite sure the story is not true. Please check the facts before you believe it. Best, Daniel",
+      "sound": "Hoax has one strong beat: HOAX. In hoax, say HOAX clearly. In debate, say BATE clearly at the end.",
+      "model": "The story about free cars was a hoax.",
+      "wordTask": "What was the story about free cars?",
+      "wordSample": "A hoax."
+    },
+    {
+      "unit": 5,
+      "day": 40,
+      "title": "Use news English in a new situation",
+      "goal": "I can use news English in a new situation.",
+      "newItems": [
+        {
+          "word": "campaign",
+          "ipa": "/kæmˈpeɪn/",
+          "pos": "noun",
+          "definition": "A planned set of actions to reach a goal.",
+          "example": "The campaign for clean rivers starts in May.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "make headlines",
+          "ipa": "/meɪk ˈhɛdˌlaɪnz/",
+          "pos": "fixed phrase",
+          "definition": "To become a main news story.",
+          "example": "The new law will make headlines this week.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "hit the headlines",
+          "ipa": "/hɪt ðə ˈhɛdˌlaɪnz/",
+          "pos": "fixed phrase",
+          "definition": "To suddenly become a main news story.",
+          "example": "The storm hit the headlines on Monday.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "top story",
+          "ipa": "/tɑp ˈstɔri/",
+          "pos": "fixed phrase",
+          "definition": "The most important news story.",
+          "example": "The top story is about the new park.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "stay informed",
+          "ipa": "/steɪ ɪnˈfɔrmd/",
+          "pos": "fixed phrase",
+          "definition": "Keep learning the newest news.",
+          "example": "Read the paper to stay informed.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "class",
+        "teacher",
+        "student",
+        "month",
+        "year"
+      ],
+      "mainWord": {
+        "word": "campaign",
+        "ipa": "/kæmˈpeɪn/",
+        "pos": "noun",
+        "definition": "A planned set of actions to reach a goal.",
+        "example": "The campaign for clean rivers starts in May.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Campaign is a noun. A campaign is a planned set of actions to reach a goal. The campaign for clean rivers starts in May.",
+      "pronunciationTarget": {
+        "word": "campaign",
+        "ipa": "/kæmˈpeɪn/"
+      },
+      "expression": "Read the paper to stay informed.",
+      "use": "Use this when you tell someone how to follow the news.",
+      "expressionTask": "Daniel meets Sam at a community event. What is the top story?",
+      "grammar": "Review: I can use news English in a new situation",
+      "pattern": "I can use news English in a new situation.",
+      "task": "I can ___ news English in a new situation.",
+      "answer": "use",
+      "example": "I can use news English in a new situation.",
+      "context": [
+        "Daniel meets Sam at a community event.",
+        "Read the paper to stay informed. The top story is about the new library."
+      ],
+      "dialogue": [
+        "Daniel: Sam, have you read the news? The top story is about the new library.",
+        "Sam: Yes. The campaign for clean rivers starts in May.",
+        "Daniel: The new law will make headlines this week. Read the paper to stay informed.",
+        "Sam: Did the storm hit the headlines on Monday?",
+        "Daniel: Yes. The storm hit the headlines on Monday. The top story is about the new library.",
+        "Sam: Good. I will read the paper to stay informed."
+      ],
+      "listening": "On Monday, Daniel meets Sam at a community event. The top story is about the new library. The campaign for clean rivers starts in May. The new law will make headlines this week. The storm hit the headlines on Monday. Read the paper to stay informed. Daniel says, 'I can use news English in a new situation.'",
+      "question": "What is the top story about?",
+      "correct": "The new library",
+      "other": "A new football team",
+      "reading": "On Monday, Daniel meets Sam at a community event. The top story is about the new library. The campaign for clean rivers starts in May. The new law will make headlines this week. The storm hit the headlines on Monday. Read the paper to stay informed. Daniel tells Sam about the news. He says, 'The top story is about the new library. The campaign for clean rivers starts in May.' Sam asks, 'Will the new law make headlines?' Daniel says, 'Yes. The new law will make headlines this week. The storm hit the headlines on Monday.' Sam says, 'I will read the paper to stay informed.' Daniel says, 'Good. I can use news English in a new situation. Read the paper to stay informed, and tell me the top story.'",
+      "readingQ": "What does Daniel say about the new law?",
+      "readingA": "It will make headlines this week.",
+      "speaking": "Tell a friend about a news story in a new situation. What is the top story? How do you stay informed?",
+      "speakingSample": "This week, I met Sam at a community event. The top story is about the new library. The campaign for clean rivers starts in May. The new law will make headlines this week. The storm hit the headlines on Monday. Read the paper to stay informed. I can use news English in a new situation. Sam will read the paper to stay informed too.",
+      "writing": "Write a short email to a friend about a news story. Say what the top story is and how you stay informed.",
+      "writingSample": "Dear Anna, I want to tell you about a news story. I met Sam at a community event. The top story is about the new library. The campaign for clean rivers starts in May. The new law will make headlines this week. The storm hit the headlines on Monday. Read the paper to stay informed. I can use news English in a new situation. Sam will read the paper to stay informed too. Please tell me what you think. Best, Daniel",
+      "sound": "Campaign has its strongest beat on PAIGN. In campaign, say PAIGN clearly at the end. In library, say LI clearly at the start.",
+      "model": "The campaign for clean rivers starts in May.",
+      "wordTask": "What is the top story about?",
+      "wordSample": "The new library.",
+      "transferCheck": {
+        "source": "On Tuesday, Emma reads a news story. It says the school will start a garden campaign. Emma talks to her teacher, Ms. Green. She says, 'The top story is about the new garden. The campaign for clean gardens starts in May.' Ms. Green says, 'Good. Will the new rule make headlines?' Emma says, 'Yes. The new rule will make headlines this week. The rain hit the headlines on Monday.' Ms. Green says, 'Read the paper to stay informed.' Emma is happy. She says, 'Thank you, Ms. Green. I am glad we talked.'",
+        "dictation": "The campaign for clean gardens starts in May.",
+        "answer": "1. The new checker is Emma. She reads a news story about a school garden campaign and talks to her teacher, Ms. Green. 2. Emma's first job is to say that the top story is about the new garden. 3. On Tuesday, Emma says, 'The campaign for clean gardens starts in May.' 4. The campaign for clean gardens starts in May. 5. Sample: On Tuesday, Emma reads a news story. It says the school will start a garden campaign. Emma talks to her teacher, Ms. Green. She says, 'The top story is about the new garden. The campaign for clean gardens starts in May.' Ms. Green says, 'Good. Will the new rule make headlines?' Emma says, 'Yes. The new rule will make headlines this week. The rain hit the headlines on Monday.' Ms. Green says, 'Read the paper to stay informed.' Follow-up: What does Ms. Green tell Emma to do? Read the paper to stay informed.",
+        "tasks": [
+          [
+            "1 · Identify the people and the new situation",
+            "Who is the new checker, and what does she read?"
+          ],
+          [
+            "2 · Work out what Emma does first",
+            "What is Emma's first job, and what does she say?"
+          ],
+          [
+            "3 · Notice the sentence on Tuesday",
+            "What does Emma say on Tuesday?"
+          ],
+          [
+            "4 · Listen and write",
+            "Write the sentence you hear."
+          ],
+          [
+            "5 · Retell and answer",
+            "Tell the story in order, including the people, the new situation, the first talk, and the result. Then answer one follow-up question."
+          ]
+        ]
+      }
+    }
+  ]
+}

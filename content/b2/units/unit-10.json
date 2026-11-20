@@ -1,0 +1,953 @@
+{
+  "number": 10,
+  "title": "Leadership and management styles",
+  "lessons": [
+    {
+      "unit": 10,
+      "day": 73,
+      "title": "What makes a good leader?",
+      "goal": "I can talk about what makes a good leader.",
+      "newItems": [
+        {
+          "word": "leadership",
+          "ipa": "/ˈlidɚʃɪp/",
+          "pos": "noun",
+          "definition": "The skill of guiding a group of people.",
+          "example": "Good leadership makes a team strong.",
+          "category": "new_word",
+          "status": "new",
+          "day": 73
+        },
+        {
+          "word": "vision",
+          "ipa": "/ˈvɪʒən/",
+          "pos": "noun",
+          "definition": "A clear idea of what you want to do in the future.",
+          "example": "The new manager has a clear vision.",
+          "category": "new_word",
+          "status": "new",
+          "day": 73
+        },
+        {
+          "word": "lead by example",
+          "ipa": "/lid baɪ ɪɡˈzæmpəl/",
+          "pos": "fixed phrase",
+          "definition": "To show others how to act by doing it yourself.",
+          "example": "A good leader leads by example.",
+          "category": "fixed_phrase",
+          "status": "new",
+          "day": 73
+        },
+        {
+          "word": "set a good example",
+          "ipa": "/sɛt ə ɡʊd ɪɡˈzæmpəl/",
+          "pos": "fixed phrase",
+          "definition": "To behave in a way others should copy.",
+          "example": "Arrive on time and set a good example.",
+          "category": "fixed_phrase",
+          "status": "new",
+          "day": 73
+        },
+        {
+          "word": "back someone up",
+          "ipa": "/bæk ˈsʌmˌwʌn ʌp/",
+          "pos": "fixed phrase",
+          "definition": "To support someone.",
+          "example": "Back your team up in a hard week.",
+          "category": "fixed_phrase",
+          "status": "new",
+          "day": 73
+        }
+      ],
+      "reviewWords": [
+        "team",
+        "work",
+        "job",
+        "boss",
+        "office"
+      ],
+      "mainWord": {
+        "word": "leadership",
+        "ipa": "/ˈlidɚʃɪp/",
+        "pos": "noun",
+        "definition": "The skill of guiding a group of people.",
+        "example": "Good leadership makes a team strong.",
+        "category": "new_word",
+        "status": "new",
+        "day": 73
+      },
+      "mainWordForms": "Leadership is a noun. The skill of guiding a group of people. Good leadership makes a team strong.",
+      "pronunciationTarget": {
+        "word": "leadership",
+        "ipa": "/ˈlidɚʃɪp/"
+      },
+      "expression": "A good leader leads by example.",
+      "use": "Use this when you talk about showing others how to act by doing it yourself.",
+      "expressionTask": "Maya talks to Daniel about good leaders. What does a good leader do?",
+      "grammar": "Third conditional: If I had listened to my mentor, I would have avoided that mistake",
+      "pattern": "If I had listened to my mentor, I would have avoided that mistake.",
+      "task": "If I had listened to my mentor, I would have ___ that mistake.",
+      "answer": "avoided",
+      "example": "If I had listened to my mentor, I would have avoided that mistake.",
+      "context": [
+        "Maya talks to Daniel about what makes a good leader.",
+        "A good leader leads by example. She sets a good example for her team every day."
+      ],
+      "dialogue": [
+        "Maya: Daniel, what makes a good leader?",
+        "Daniel: A good leader leads by example. She works hard every day.",
+        "Maya: Yes. She also sets a good example for the team.",
+        "Daniel: True. A leader with a clear vision helps the team grow.",
+        "Priya: And good leadership means you back someone up when they need help.",
+        "Maya: Exactly. A good leader supports the whole team."
+      ],
+      "listening": "On Monday, Maya talks to Daniel about good leaders. She says, 'A good leader leads by example. She sets a good example for her team every day.' Daniel asks, 'What is leadership?' Maya says, 'Leadership is the skill of guiding a group. A leader needs a clear vision.' Priya says, 'Good leaders back someone up when they need help.' Daniel is happy.",
+      "question": "What does Maya say a good leader does?",
+      "correct": "Leads by example and sets a good example",
+      "other": "Works alone every day",
+      "reading": "On Monday, Maya talks to Daniel about what makes a good leader. She says, 'Leadership is the skill of guiding a group of people. A good leader leads by example. A good leader must set a good example for her team every day. A leader also needs a clear vision. The new manager has a clear vision for the shop.' Priya says, 'Good leadership means you back someone up when they need help. A good leader listens to the team and helps people grow.' Maya says, 'Yes. A leader who leads by example earns the trust of the team. She must set a good example in small things too.' Daniel says, 'I want to be a good leader one day. I will learn from Maya and Priya. I will lead by example and back someone up when they need help.' Maya is happy. She says, 'Good. Start now, and learn every day.'",
+      "readingQ": "What does Maya tell Daniel to do?",
+      "readingA": "Start now, and learn every day.",
+      "speaking": "Tell a friend about a good leader you know. What does the leader do? Why do you like the leader?",
+      "speakingSample": "I want to tell you about a good leader. Maya is a good leader. She leads by example and sets a good example for her team every day. Her leadership is clear. She has a clear vision for the shop. She listens to the team and backs someone up when they need help. I want to learn from her. I will work hard and lead by example too.",
+      "writing": "Write a short email to a friend. Tell them about a good leader you know. Say what the leader does and why the team likes the leader.",
+      "writingSample": "Dear Tom, I want to tell you about a good leader. Maya is a good leader at Carter Retail Group. She leads by example and sets a good example for her team every day. Her leadership is clear. She has a clear vision for the shop. She listens to the team and backs someone up when they need help. I want to learn from her. I will work hard and lead by example too. Please tell me about a good leader you know. Best, Daniel",
+      "sound": "Leadership has its strongest beat on LEAD. In leadership, say LEAD clearly at the start. In vision, say VI clearly at the start.",
+      "model": "Good leadership makes a team strong.",
+      "wordTask": "What is leadership?",
+      "wordSample": "It is the skill of guiding a group of people."
+    },
+    {
+      "unit": 10,
+      "day": 74,
+      "title": "Leading a team meeting",
+      "goal": "I can talk about leading a team meeting.",
+      "newItems": [
+        {
+          "word": "inspire",
+          "ipa": "/ɪnˈspaɪɚ/",
+          "pos": "verb",
+          "definition": "To make people feel they want to do something good.",
+          "example": "Her speech inspired the whole team.",
+          "category": "new_word",
+          "status": "new",
+          "day": 74
+        },
+        {
+          "word": "motivate",
+          "ipa": "/ˈmoʊtəˌveɪt/",
+          "pos": "verb",
+          "definition": "To make someone want to work hard.",
+          "example": "A good leader can motivate a team.",
+          "category": "new_word",
+          "status": "new",
+          "day": 74
+        },
+        {
+          "word": "take charge of",
+          "ipa": "/teɪk tʃɑrdʒ əv/",
+          "pos": "fixed phrase",
+          "definition": "To start to control a situation.",
+          "example": "Maya took charge of the meeting.",
+          "category": "fixed_phrase",
+          "status": "new",
+          "day": 74
+        },
+        {
+          "word": "keep everyone in the loop",
+          "ipa": "/kip ˈɛvriˌwʌn ɪn ðə lup/",
+          "pos": "fixed phrase",
+          "definition": "To tell everyone what is happening.",
+          "example": "Send a short note to keep everyone in the loop.",
+          "category": "fixed_phrase",
+          "status": "new",
+          "day": 74
+        },
+        {
+          "word": "lead the way",
+          "ipa": "/lid ðə weɪ/",
+          "pos": "fixed phrase",
+          "definition": "To go first and show others the way.",
+          "example": "Our manager leads the way in new ideas.",
+          "category": "fixed_phrase",
+          "status": "new",
+          "day": 74
+        }
+      ],
+      "reviewWords": [
+        "help",
+        "friend",
+        "plan",
+        "time",
+        "day"
+      ],
+      "mainWord": {
+        "word": "inspire",
+        "ipa": "/ɪnˈspaɪɚ/",
+        "pos": "verb",
+        "definition": "To make people feel they want to do something good.",
+        "example": "Her speech inspired the whole team.",
+        "category": "new_word",
+        "status": "new",
+        "day": 74
+      },
+      "mainWordForms": "Inspire is a verb. To make people feel they want to do something good. Her speech inspired the whole team.",
+      "pronunciationTarget": {
+        "word": "inspire",
+        "ipa": "/ɪnˈspaɪɚ/"
+      },
+      "expression": "Maya took charge of the meeting.",
+      "use": "Use this when you talk about starting to control a situation.",
+      "expressionTask": "Maya leads a team meeting. What did she do at the start?",
+      "grammar": "Mixed conditionals: If I were more confident, I would have applied for the job",
+      "pattern": "If I were more confident, I would have applied for the job.",
+      "task": "If I were more confident, I would have ___ for the job.",
+      "answer": "applied",
+      "example": "If I were more confident, I would have applied for the job.",
+      "context": [
+        "Maya leads a team meeting on Tuesday.",
+        "Maya took charge of the meeting. She kept everyone in the loop about the new plan."
+      ],
+      "dialogue": [
+        "Maya: Daniel, I will lead the team meeting today.",
+        "Daniel: Good. You always inspire the team.",
+        "Maya: Thank you. I took charge of the meeting last week too.",
+        "Daniel: Yes. You keep everyone in the loop about the new plan.",
+        "Priya: And you motivate the team. You lead the way in new ideas.",
+        "Maya: Thank you. A good meeting helps the whole team."
+      ],
+      "listening": "On Tuesday, Maya leads a team meeting. She took charge of the meeting and kept everyone in the loop about the new plan. Daniel says, 'Maya always inspires the team. She leads the way in new ideas.' Priya says, 'Yes. She motivates the team every day. A good leader keeps everyone in the loop.' Maya says, 'Thank you. Good meetings help us.' Daniel is happy.",
+      "question": "What does Maya do in the meeting?",
+      "correct": "Takes charge and keeps everyone in the loop",
+      "other": "Works alone all day",
+      "reading": "On Tuesday, Maya leads a team meeting at Carter Retail Group. She took charge of the meeting. Daniel says, 'Maya can inspire the team. She leads the way in new ideas.' Maya says, 'Thank you. A good leader must keep everyone in the loop. I will tell you about the new plan today.' Priya says, 'Yes. Maya motivates the team every day. She keeps everyone in the loop about changes.' Daniel says, 'I want to lead a meeting one day. If I were more confident, I would have applied for the job last year. I will learn from Maya. I will take charge of small tasks first.' Maya says, 'Good. Take charge of the plan. Keep everyone in the loop, and lead the way for the team.' Daniel is happy. He says, 'Thank you, Maya. I will motivate the team and keep everyone in the loop.' Maya is happy. She says, 'Good. A good meeting helps the whole team.'",
+      "readingQ": "What does Maya tell Daniel to do?",
+      "readingA": "Take charge of the plan, and keep everyone in the loop.",
+      "speaking": "Tell a friend about a team meeting you led or joined. What happened? How did the leader help the team?",
+      "speakingSample": "I want to tell you about a team meeting. Maya led the meeting on Tuesday. She took charge of the meeting and kept everyone in the loop. She inspires the team and leads the way in new ideas. She motivates us every day. I want to lead a meeting one day. I will learn from Maya and take charge of small tasks first.",
+      "writing": "Write a short email to a friend. Tell them about a team meeting. Say who led it and what the leader did.",
+      "writingSample": "Dear Anna, I want to tell you about a team meeting. Maya led the meeting on Tuesday. She took charge of the meeting and kept everyone in the loop about the new plan. She inspires the team and leads the way in new ideas. She motivates us every day. I want to lead a meeting one day. I will learn from Maya. I will take charge of small tasks first and keep everyone in the loop. Please tell me about your meetings. Best, Daniel",
+      "sound": "Inspire has its strongest beat on SPIRE. In inspire, say SPIRE clearly in the middle. In motivate, say MO clearly at the start.",
+      "model": "A good leader can inspire a team.",
+      "wordTask": "What does inspire mean?",
+      "wordSample": "It means to make people feel they want to do something good."
+    },
+    {
+      "unit": 10,
+      "day": 75,
+      "title": "Giving clear instructions",
+      "goal": "I can talk about giving clear instructions.",
+      "newItems": [
+        {
+          "word": "delegate",
+          "ipa": "/ˈdɛləˌɡeɪt/",
+          "pos": "verb",
+          "definition": "To give work to another person to do.",
+          "example": "A good manager knows how to delegate.",
+          "category": "new_word",
+          "status": "new",
+          "day": 75
+        },
+        {
+          "word": "authority",
+          "ipa": "/əˈθɔrəti/",
+          "pos": "noun",
+          "definition": "The power to give orders and make decisions.",
+          "example": "The team leader has the authority to decide.",
+          "category": "new_word",
+          "status": "new",
+          "day": 75
+        },
+        {
+          "word": "guidance",
+          "ipa": "/ˈɡaɪdəns/",
+          "pos": "noun",
+          "definition": "Help and advice about how to do something.",
+          "example": "New workers need clear guidance.",
+          "category": "new_word",
+          "status": "new",
+          "day": 75
+        },
+        {
+          "word": "delegate tasks to",
+          "ipa": "/ˈdɛləˌɡeɪt tæsks tə/",
+          "pos": "fixed phrase",
+          "definition": "To give work to other people to do.",
+          "example": "Delegate tasks to the right people.",
+          "category": "fixed_phrase",
+          "status": "new",
+          "day": 75
+        },
+        {
+          "word": "set clear goals",
+          "ipa": "/sɛt klɪr ɡoʊlz/",
+          "pos": "fixed phrase",
+          "definition": "To decide what you want to reach.",
+          "example": "Set clear goals at the start of the year.",
+          "category": "fixed_phrase",
+          "status": "new",
+          "day": 75
+        }
+      ],
+      "reviewWords": [
+        "learn",
+        "book",
+        "school",
+        "new",
+        "good"
+      ],
+      "mainWord": {
+        "word": "delegate",
+        "ipa": "/ˈdɛləˌɡeɪt/",
+        "pos": "verb",
+        "definition": "To give work to another person to do.",
+        "example": "A good manager knows how to delegate.",
+        "category": "new_word",
+        "status": "new",
+        "day": 75
+      },
+      "mainWordForms": "Delegate is a verb. To give work to another person to do. A good manager knows how to delegate.",
+      "pronunciationTarget": {
+        "word": "delegate",
+        "ipa": "/ˈdɛləˌɡeɪt/"
+      },
+      "expression": "Delegate tasks to the right people.",
+      "use": "Use this when you talk about giving work to other people to do.",
+      "expressionTask": "Daniel gives clear instructions. What should he do with the tasks?",
+      "grammar": "Advanced reported speech: She said she had met the manager the day before",
+      "pattern": "She said she had met the manager the day before.",
+      "task": "She said she had ___ the manager the day before.",
+      "answer": "met",
+      "example": "She said she had met the manager the day before.",
+      "context": [
+        "Daniel gives clear instructions to the team.",
+        "Delegate tasks to the right people. Set clear goals at the start of the work."
+      ],
+      "dialogue": [
+        "Daniel: Maya, how do I give clear instructions?",
+        "Maya: First, set clear goals at the start.",
+        "Daniel: Good. Then I will delegate tasks to the right people.",
+        "Maya: Yes. You have the authority to decide who does what.",
+        "Priya: And give clear guidance. New workers need clear guidance.",
+        "Daniel: Thank you. I will set clear goals and delegate tasks well."
+      ],
+      "listening": "On Wednesday, Daniel gives clear instructions to the team. Maya says, 'First, set clear goals at the start of the work. Then delegate tasks to the right people.' Daniel says, 'I have the authority to decide who does what.' Priya says, 'Yes. Give clear guidance. New workers need clear guidance.' Daniel is happy. He says, 'Thank you, Maya. I will do my best.'",
+      "question": "What does Maya tell Daniel to do first?",
+      "correct": "Set clear goals",
+      "other": "Work alone all day",
+      "reading": "On Wednesday, Daniel gives clear instructions to the team at Carter Retail Group. Maya says, 'First, set clear goals at the start of the work. Then delegate tasks to the right people. A good manager knows how to delegate.' Daniel says, 'I have the authority to decide who does what. She said she had met the manager the day before, and he gave her clear guidance.' Priya says, 'Yes. New workers need clear guidance. Give them help and tell them the plan.' Daniel says, 'I will set clear goals for the team. I will delegate tasks to Priya and Maya. I have the authority to decide, but I will listen to the team.' Maya says, 'Good. Clear guidance helps everyone. Set clear goals, delegate tasks to the right people, and tell the team what to do.' Daniel is happy. He says, 'Thank you, Maya. I will give clear instructions every day.'",
+      "readingQ": "What does Daniel say he will do?",
+      "readingA": "Set clear goals, and delegate tasks to Priya and Maya.",
+      "speaking": "Tell a friend about giving instructions at work. What did you say? How did people know what to do?",
+      "speakingSample": "I want to tell you about giving clear instructions. On Wednesday, Daniel gave clear instructions to the team. He said, 'First, set clear goals. Then delegate tasks to the right people.' He has the authority to decide who does what. Priya said, 'Give clear guidance. New workers need clear guidance.' I will set clear goals too. I will delegate tasks to the right people and give clear guidance every day.",
+      "writing": "Write a short email to a friend. Tell them about giving clear instructions at work. Say what you did and why it helped.",
+      "writingSample": "Dear Tom, I want to tell you about giving clear instructions. On Wednesday, Daniel gave clear instructions to the team. He said, 'First, set clear goals. Then delegate tasks to the right people.' He has the authority to decide who does what. Priya said, 'Give clear guidance. New workers need clear guidance.' I will set clear goals and delegate tasks to the right people too. Thank you for your help. Please tell me about your work. Best, Daniel",
+      "sound": "Delegate has its strongest beat on DEL. In delegate, say DEL clearly at the start. In authority, say THOR clearly in the middle.",
+      "model": "A good manager knows how to delegate.",
+      "wordTask": "What does delegate mean?",
+      "wordSample": "It means to give work to another person to do."
+    },
+    {
+      "unit": 10,
+      "day": 76,
+      "title": "Delegating work",
+      "goal": "I can talk about delegating work.",
+      "newItems": [
+        {
+          "word": "supervise",
+          "ipa": "/ˈsupɚˌvaɪz/",
+          "pos": "verb",
+          "definition": "To watch and direct the work of other people.",
+          "example": "She supervises ten workers in the shop.",
+          "category": "new_word",
+          "status": "new",
+          "day": 76
+        },
+        {
+          "word": "coordinate",
+          "ipa": "/koʊˈɔrdəˌneɪt/",
+          "pos": "verb",
+          "definition": "To organize different people so they work well together.",
+          "example": "He coordinates the work of three teams.",
+          "category": "new_word",
+          "status": "new",
+          "day": 76
+        },
+        {
+          "word": "oversee",
+          "ipa": "/ˌoʊvɚˈsi/",
+          "pos": "verb",
+          "definition": "To watch over work and make sure it is done well.",
+          "example": "She oversees the work of five shops.",
+          "category": "new_word",
+          "status": "new",
+          "day": 76
+        },
+        {
+          "word": "share the workload",
+          "ipa": "/ʃɛr ðə ˈwɝkˌloʊd/",
+          "pos": "fixed phrase",
+          "definition": "To divide the work fairly between people.",
+          "example": "Share the workload with your team.",
+          "category": "fixed_phrase",
+          "status": "new",
+          "day": 76
+        },
+        {
+          "word": "run a tight ship",
+          "ipa": "/rʌn ə taɪt ʃɪp/",
+          "pos": "fixed phrase",
+          "definition": "To manage a group very well.",
+          "example": "She runs a tight ship in her shop.",
+          "category": "fixed_phrase",
+          "status": "new",
+          "day": 76
+        }
+      ],
+      "reviewWords": [
+        "month",
+        "year",
+        "week",
+        "morning",
+        "today"
+      ],
+      "mainWord": {
+        "word": "supervise",
+        "ipa": "/ˈsupɚˌvaɪz/",
+        "pos": "verb",
+        "definition": "To watch and direct the work of other people.",
+        "example": "She supervises ten workers in the shop.",
+        "category": "new_word",
+        "status": "new",
+        "day": 76
+      },
+      "mainWordForms": "Supervise is a verb. To watch and direct the work of other people. She supervises ten workers in the shop.",
+      "pronunciationTarget": {
+        "word": "supervise",
+        "ipa": "/ˈsupɚˌvaɪz/"
+      },
+      "expression": "Share the workload with your team.",
+      "use": "Use this when you talk about dividing the work fairly between people.",
+      "expressionTask": "Maya talks to Daniel about delegating work. What should he do with the work?",
+      "grammar": "Passive in different tenses: The new policy was introduced last month",
+      "pattern": "The new policy was introduced last month.",
+      "task": "The new policy was ___ last month.",
+      "answer": "introduced",
+      "example": "The new policy was introduced last month.",
+      "context": [
+        "Maya talks to Daniel about delegating work.",
+        "Share the workload with your team. A good leader runs a tight ship and helps everyone."
+      ],
+      "dialogue": [
+        "Maya: Daniel, how do you delegate work?",
+        "Daniel: I supervise the team and coordinate their work.",
+        "Maya: Good. You also oversee the work of five shops.",
+        "Daniel: Yes. I share the workload with my team.",
+        "Priya: And you run a tight ship. The team works well.",
+        "Maya: Well done. Good leaders share the workload fairly."
+      ],
+      "listening": "On Thursday, Maya talks to Daniel about delegating work. Daniel says, 'I supervise the team and coordinate their work. I oversee the work of five shops.' Maya says, 'Good. Share the workload with your team. The new policy was introduced last month.' Priya says, 'Yes. Good leaders run a tight ship.' Daniel is happy. He says, 'Thank you.'",
+      "question": "What does Daniel do for the team?",
+      "correct": "Supervises and coordinates their work",
+      "other": "Works alone at home",
+      "reading": "On Thursday, Maya talks to Daniel about delegating work at Carter Retail Group. Daniel says, 'I supervise the team and coordinate their work. I oversee the work of five shops. The new policy was introduced last month, and the team works well.' Maya says, 'Good. Share the workload with your team. Good leaders run a tight ship. They help people and share the work fairly.' Priya says, 'Yes. Daniel coordinates the work of three teams. He supervises new workers and oversees the shop every day.' Daniel says, 'I will share the workload with Priya and Maya. I will coordinate the work and oversee the new plan.' Maya says, 'Good. Run a tight ship, share the workload, and help the team every day.' Daniel is happy. He says, 'Thank you, Maya. I will supervise the team and coordinate their work well.'",
+      "readingQ": "What does Maya tell Daniel to do?",
+      "readingA": "Run a tight ship, and share the workload.",
+      "speaking": "Tell a friend about delegating work. What work did you give to others? How did you help them?",
+      "speakingSample": "I want to tell you about delegating work. On Thursday, Daniel talked about his team. He says, 'I supervise the team and coordinate their work. I oversee the work of five shops.' Maya says, 'Share the workload with your team. Good leaders run a tight ship.' I will share the workload with my team too. I will coordinate the work and oversee the new plan every day.",
+      "writing": "Write a short email to a friend. Tell them about delegating work. Say what you did and how the team worked together.",
+      "writingSample": "Dear Anna, I want to tell you about delegating work. On Thursday, Daniel talked about his team. He says, 'I supervise the team and coordinate their work. I oversee the work of five shops.' Maya says, 'Share the workload with your team. Good leaders run a tight ship.' I will share the workload with my team too. I will coordinate the work and oversee the new plan. Please tell me about your work. Best, Daniel",
+      "sound": "Supervise has its strongest beat on PER. In supervise, say PER clearly in the middle. In coordinate, say OR clearly in the middle.",
+      "model": "I supervise the team and coordinate their work.",
+      "wordTask": "What does supervise mean?",
+      "wordSample": "It means to watch and direct the work of other people."
+    },
+    {
+      "unit": 10,
+      "day": 77,
+      "title": "Handling a difficult team member",
+      "goal": "I can talk about handling a difficult team member.",
+      "newItems": [
+        {
+          "word": "accountable",
+          "ipa": "/əˈkaʊntəbəl/",
+          "pos": "adjective",
+          "definition": "Responsible for your decisions and actions.",
+          "example": "Every team member is accountable for their work.",
+          "category": "new_word",
+          "status": "new",
+          "day": 77
+        },
+        {
+          "word": "approachable",
+          "ipa": "/əˈproʊtʃəbəl/",
+          "pos": "adjective",
+          "definition": "Friendly and easy to talk to.",
+          "example": "Our manager is kind and approachable.",
+          "category": "new_word",
+          "status": "new",
+          "day": 77
+        },
+        {
+          "word": "diplomatic",
+          "ipa": "/ˌdɪpləˈmætɪk/",
+          "pos": "adjective",
+          "definition": "Careful and polite when dealing with people.",
+          "example": "A diplomatic answer can stop a row.",
+          "category": "new_word",
+          "status": "new",
+          "day": 77
+        },
+        {
+          "word": "hold someone accountable",
+          "ipa": "/hoʊld ˈsʌmˌwʌn əˈkaʊntəbəl/",
+          "pos": "fixed phrase",
+          "definition": "To make someone answer for their work.",
+          "example": "A good leader holds people accountable.",
+          "category": "fixed_phrase",
+          "status": "new",
+          "day": 77
+        },
+        {
+          "word": "stand up for",
+          "ipa": "/stænd ʌp fɔr/",
+          "pos": "fixed phrase",
+          "definition": "To defend someone or something.",
+          "example": "Stand up for your team when they are right.",
+          "category": "fixed_phrase",
+          "status": "new",
+          "day": 77
+        }
+      ],
+      "reviewWords": [
+        "change",
+        "start",
+        "way",
+        "life",
+        "home"
+      ],
+      "mainWord": {
+        "word": "accountable",
+        "ipa": "/əˈkaʊntəbəl/",
+        "pos": "adjective",
+        "definition": "Responsible for your decisions and actions.",
+        "example": "Every team member is accountable for their work.",
+        "category": "new_word",
+        "status": "new",
+        "day": 77
+      },
+      "mainWordForms": "Accountable is an adjective. Responsible for your decisions and actions. Every team member is accountable for their work.",
+      "pronunciationTarget": {
+        "word": "accountable",
+        "ipa": "/əˈkaʊntəbəl/"
+      },
+      "expression": "A good leader holds people accountable.",
+      "use": "Use this when you talk about making someone answer for their work.",
+      "expressionTask": "Priya talks about a difficult team member. What does a good leader do?",
+      "grammar": "Cleft sentences: It was Maya who solved the problem",
+      "pattern": "It was Maya who solved the problem.",
+      "task": "It was Maya who ___ the problem.",
+      "answer": "solved",
+      "example": "It was Maya who solved the problem.",
+      "context": [
+        "Priya talks to Maya about a difficult team member.",
+        "A good leader holds people accountable. She is kind and approachable, and she stands up for her team."
+      ],
+      "dialogue": [
+        "Priya: Maya, one team member is always late.",
+        "Maya: Be diplomatic. Talk to him alone first.",
+        "Priya: Good idea. I will hold him accountable for his work.",
+        "Maya: Yes. Every team member is accountable for their work.",
+        "Daniel: And stand up for your team when they are right.",
+        "Priya: Thank you. Our manager is kind and approachable."
+      ],
+      "listening": "On Friday, Priya talks to Maya about a difficult team member. He is always late. Maya says, 'Be diplomatic. Talk to him alone first. A good leader holds people accountable.' Priya says, 'Yes. Every team member is accountable for their work.' Daniel says, 'Stand up for your team when they are right.' Priya is happy.",
+      "question": "What does Maya tell Priya to do?",
+      "correct": "Talk to him alone first",
+      "other": "Shout at him in front of all",
+      "reading": "On Friday, Priya talks to Maya about a difficult team member. He is always late, and the team is unhappy. Maya says, 'Be diplomatic. Talk to him alone first. A good leader holds people accountable. It was Maya who solved the problem last year, and she can help you now.' Priya says, 'Yes. Every team member is accountable for their work. Our manager is kind and approachable. She listens to everyone.' Daniel says, 'Stand up for your team when they are right. A good leader holds someone accountable, but she is fair too.' Maya says, 'Good. Hold someone accountable for their work, and stand up for your team. Be diplomatic, and talk to people alone.' Priya says, 'Thank you. I will hold him accountable and stand up for the team.' Maya is happy. She says, 'Good. A good leader is approachable and fair.'",
+      "readingQ": "What does Maya say a good leader does?",
+      "readingA": "Holds someone accountable, and stands up for the team.",
+      "speaking": "Tell a friend about a difficult team member. What did you do? How did you help the team?",
+      "speakingSample": "I want to tell you about a difficult team member. On Friday, Priya talked to Maya about him. He is always late. Maya said, 'Be diplomatic. Talk to him alone first. A good leader holds people accountable.' Priya said, 'Yes. Every team member is accountable for their work.' I will stand up for my team too. Our manager is kind and approachable, and she listens to everyone.",
+      "writing": "Write a short email to a friend. Tell them about a difficult team member. Say what you did and what happened.",
+      "writingSample": "Dear Lisa, I want to tell you about a difficult team member. On Friday, Priya talked to Maya about him. He is always late, and the team is unhappy. Maya said, 'Be diplomatic. Talk to him alone first. A good leader holds people accountable.' Priya said, 'Yes. Every team member is accountable for their work.' I will stand up for my team too. Our manager is kind and approachable. Please tell me about your team. Best, Priya",
+      "sound": "Accountable has its strongest beat on COUNT. In accountable, say COUNT clearly in the middle. In approachable, say PROACH clearly in the middle.",
+      "model": "Every team member is accountable for their work.",
+      "wordTask": "What does accountable mean?",
+      "wordSample": "It means responsible for your decisions and actions."
+    },
+    {
+      "unit": 10,
+      "day": 78,
+      "title": "Leading through change",
+      "goal": "I can talk about leading through change.",
+      "newItems": [
+        {
+          "word": "resilient",
+          "ipa": "/rɪˈzɪliənt/",
+          "pos": "adjective",
+          "definition": "Able to recover quickly after problems.",
+          "example": "A resilient team can face hard times.",
+          "category": "new_word",
+          "status": "new",
+          "day": 78
+        },
+        {
+          "word": "adaptable",
+          "ipa": "/əˈdæptəbəl/",
+          "pos": "adjective",
+          "definition": "Able to change easily for a new situation.",
+          "example": "Good workers are adaptable and learn fast.",
+          "category": "new_word",
+          "status": "new",
+          "day": 78
+        },
+        {
+          "word": "initiative",
+          "ipa": "/ɪˈnɪʃətɪv/",
+          "pos": "noun",
+          "definition": "The ability to decide and act without being told.",
+          "example": "Show some initiative and start the work.",
+          "category": "new_word",
+          "status": "new",
+          "day": 78
+        },
+        {
+          "word": "bring out the best in",
+          "ipa": "/brɪŋ aʊt ðə bɛst ɪn/",
+          "pos": "fixed phrase",
+          "definition": "To help someone do their best work.",
+          "example": "A good leader brings out the best in people.",
+          "category": "fixed_phrase",
+          "status": "new",
+          "day": 78
+        },
+        {
+          "word": "take the initiative",
+          "ipa": "/teɪk ði ɪˈnɪʃətɪv/",
+          "pos": "fixed phrase",
+          "definition": "To act first without being told.",
+          "example": "Take the initiative and start the work.",
+          "category": "fixed_phrase",
+          "status": "new",
+          "day": 78
+        }
+      ],
+      "reviewWords": [
+        "big",
+        "long",
+        "hard",
+        "happy",
+        "busy"
+      ],
+      "mainWord": {
+        "word": "resilient",
+        "ipa": "/rɪˈzɪliənt/",
+        "pos": "adjective",
+        "definition": "Able to recover quickly after problems.",
+        "example": "A resilient team can face hard times.",
+        "category": "new_word",
+        "status": "new",
+        "day": 78
+      },
+      "mainWordForms": "Resilient is an adjective. Able to recover quickly after problems. A resilient team can face hard times.",
+      "pronunciationTarget": {
+        "word": "resilient",
+        "ipa": "/rɪˈzɪliənt/"
+      },
+      "expression": "A good leader brings out the best in people.",
+      "use": "Use this when you talk about helping someone do their best work.",
+      "expressionTask": "Maya talks about leading through change. What does a good leader do?",
+      "grammar": "Wish and if only: I wish I had more time to lead the team",
+      "pattern": "I wish I had more time to lead the team.",
+      "task": "I wish I had more ___ to lead the team.",
+      "answer": "time",
+      "example": "I wish I had more time to lead the team.",
+      "context": [
+        "Maya talks to Daniel about leading through change.",
+        "A good leader brings out the best in people. Take the initiative and help the team change."
+      ],
+      "dialogue": [
+        "Maya: Daniel, our shop will change next month.",
+        "Daniel: Change is hard, but our team is resilient.",
+        "Maya: Yes. Good workers are adaptable and learn fast.",
+        "Daniel: I wish I had more time to lead the team.",
+        "Priya: Take the initiative. A good leader brings out the best in people.",
+        "Maya: Good. Be resilient, and help the team change."
+      ],
+      "listening": "On Saturday, Maya talks to Daniel about leading through change. The shop will change next month. Daniel says, 'Change is hard, but our team is resilient. Good workers are adaptable.' Priya says, 'Take the initiative. A good leader brings out the best in people.' Maya says, 'Yes. Be resilient, and help the team change.' Daniel is happy.",
+      "question": "What does Priya tell Daniel to do?",
+      "correct": "Take the initiative",
+      "other": "Wait and do nothing",
+      "reading": "On Saturday, Maya talks to Daniel about leading through change at Carter Retail Group. The shop will change next month. Daniel says, 'Change is hard, but our team is resilient. Good workers are adaptable and learn fast. I wish I had more time to lead the team.' Maya says, 'Take the initiative and help the team change. A good leader brings out the best in people. Show some initiative and start the work.' Priya says, 'Yes. Be resilient, and help the team change. A resilient team can face hard times.' Daniel says, 'I will take the initiative. I will bring out the best in my team and help them learn.' Maya says, 'Good. Take the initiative, bring out the best in people, and lead the team through change.' Daniel is happy. He says, 'Thank you, Maya. I will be adaptable and resilient every day.'",
+      "readingQ": "What does Daniel say he will do?",
+      "readingA": "Take the initiative, and bring out the best in his team.",
+      "speaking": "Tell a friend about a big change at work. How did the team change? What did the leader do?",
+      "speakingSample": "I want to tell you about a big change at work. On Saturday, Maya talked about leading through change. The shop will change next month. Daniel said, 'Our team is resilient. Good workers are adaptable.' Priya said, 'Take the initiative. A good leader brings out the best in people.' I will take the initiative too. I will be adaptable and resilient every day.",
+      "writing": "Write a short email to a friend. Tell them about a big change at work. Say how the team changed and what the leader did.",
+      "writingSample": "Dear Tom, I want to tell you about a big change at work. On Saturday, Maya talked about leading through change. The shop will change next month. Daniel said, 'Our team is resilient. Good workers are adaptable.' Priya said, 'Take the initiative. A good leader brings out the best in people.' I will take the initiative too. I will be adaptable and resilient every day. Please tell me about changes at your work. Best, Daniel",
+      "sound": "Resilient has its strongest beat on SIL. In resilient, say SIL clearly in the middle. In adaptable, say DAPT clearly in the middle.",
+      "model": "A resilient team can face hard times.",
+      "wordTask": "What does resilient mean?",
+      "wordSample": "It means able to recover quickly after problems."
+    },
+    {
+      "unit": 10,
+      "day": 79,
+      "title": "A leader's decisions",
+      "goal": "I can talk about a leader's decisions.",
+      "newItems": [
+        {
+          "word": "transparent",
+          "ipa": "/trænsˈpɛrənt/",
+          "pos": "adjective",
+          "definition": "Open and honest, with nothing hidden.",
+          "example": "A transparent leader tells the team the truth.",
+          "category": "new_word",
+          "status": "new",
+          "day": 79
+        },
+        {
+          "word": "integrity",
+          "ipa": "/ɪnˈtɛɡrəti/",
+          "pos": "noun",
+          "definition": "Being honest and doing the right thing.",
+          "example": "A good leader has integrity.",
+          "category": "new_word",
+          "status": "new",
+          "day": 79
+        },
+        {
+          "word": "weigh up the pros and cons",
+          "ipa": "/weɪ ʌp ðə proʊz ənd kɑnz/",
+          "pos": "fixed phrase",
+          "definition": "To think about the good and bad sides of something.",
+          "example": "Weigh up the pros and cons before you decide.",
+          "category": "fixed_phrase",
+          "status": "new",
+          "day": 79
+        },
+        {
+          "word": "call the shots",
+          "ipa": "/kɔl ðə ʃɑts/",
+          "pos": "fixed phrase",
+          "definition": "To be the person who makes the decisions.",
+          "example": "In this team, Maya calls the shots.",
+          "category": "fixed_phrase",
+          "status": "new",
+          "day": 79
+        },
+        {
+          "word": "step up",
+          "ipa": "/stɛp ʌp/",
+          "pos": "fixed phrase",
+          "definition": "To take action when it is needed.",
+          "example": "When the manager was away, Maya stepped up.",
+          "category": "fixed_phrase",
+          "status": "new",
+          "day": 79
+        }
+      ],
+      "reviewWords": [
+        "money",
+        "early",
+        "city",
+        "shop",
+        "phone"
+      ],
+      "mainWord": {
+        "word": "transparent",
+        "ipa": "/trænsˈpɛrənt/",
+        "pos": "adjective",
+        "definition": "Open and honest, with nothing hidden.",
+        "example": "A transparent leader tells the team the truth.",
+        "category": "new_word",
+        "status": "new",
+        "day": 79
+      },
+      "mainWordForms": "Transparent is an adjective. Open and honest, with nothing hidden. A transparent leader tells the team the truth.",
+      "pronunciationTarget": {
+        "word": "transparent",
+        "ipa": "/trænsˈpɛrənt/"
+      },
+      "expression": "Weigh up the pros and cons before you decide.",
+      "use": "Use this when you talk about thinking about the good and bad sides of something.",
+      "expressionTask": "Daniel talks about a leader's decisions. What should a leader do before deciding?",
+      "grammar": "Future continuous: This time next week, I will be leading the meeting",
+      "pattern": "This time next week, I will be leading the meeting.",
+      "task": "This time next week, I will be ___ the meeting.",
+      "answer": "leading",
+      "example": "This time next week, I will be leading the meeting.",
+      "context": [
+        "Daniel talks to Maya about a leader's decisions.",
+        "Weigh up the pros and cons before you decide. A good leader is open and honest, and she calls the shots."
+      ],
+      "dialogue": [
+        "Daniel: Maya, how does a good leader decide?",
+        "Maya: Weigh up the pros and cons before you decide.",
+        "Daniel: Good. A transparent leader tells the team the truth.",
+        "Maya: Yes. A good leader has integrity.",
+        "Priya: And in this team, Maya calls the shots.",
+        "Daniel: True. When the manager was away, Maya stepped up."
+      ],
+      "listening": "On Sunday, Daniel talks to Maya about a leader's decisions. Maya says, 'Weigh up the pros and cons before you decide. A transparent leader tells the team the truth.' Daniel says, 'Yes. A good leader has integrity. This time next week, I will be leading the meeting.' Priya says, 'In this team, Maya calls the shots.' Daniel is happy.",
+      "question": "What does Maya tell Daniel to do before deciding?",
+      "correct": "Weigh up the pros and cons",
+      "other": "Decide at once",
+      "reading": "On Sunday, Daniel talks to Maya about a leader's decisions at Carter Retail Group. Maya says, 'Weigh up the pros and cons before you decide. A transparent leader tells the team the truth. A good leader has integrity. This time next week, I will be leading the meeting.' Daniel says, 'Yes. In this team, Maya calls the shots. When the manager was away, Maya stepped up and helped the team.' Priya says, 'Good. A leader with integrity listens to the team. She is transparent and open. She weighs up the pros and cons with the team.' Maya says, 'Thank you. Call the shots with care, and step up when the team needs you. Weigh up the pros and cons, and tell the team the truth.' Daniel says, 'I will step up one day. I will weigh up the pros and cons and make good decisions.' Maya is happy. She says, 'Good. A good leader has integrity and is transparent.'",
+      "readingQ": "What does Daniel say he will do one day?",
+      "readingA": "Step up, and weigh up the pros and cons.",
+      "speaking": "Tell a friend about a hard decision a leader made. What did the leader do? Was it a good decision?",
+      "speakingSample": "I want to tell you about a hard decision. On Sunday, Daniel talked to Maya about a leader's decisions. Maya said, 'Weigh up the pros and cons before you decide. A transparent leader tells the team the truth.' Daniel said, 'A good leader has integrity.' In this team, Maya calls the shots. I will step up one day. I will weigh up the pros and cons too.",
+      "writing": "Write a short email to a friend. Tell them about a hard decision a leader made. Say what the leader did and why it was good.",
+      "writingSample": "Dear Anna, I want to tell you about a hard decision. On Sunday, Daniel talked to Maya about a leader's decisions. Maya said, 'Weigh up the pros and cons before you decide. A transparent leader tells the team the truth.' Daniel said, 'A good leader has integrity.' In this team, Maya calls the shots. When the manager was away, Maya stepped up. I will step up one day. I will weigh up the pros and cons too. Please tell me about your work. Best, Daniel",
+      "sound": "Transparent has its strongest beat on PAR. In transparent, say PAR clearly in the middle. In integrity, say TEG clearly in the middle.",
+      "model": "A transparent leader tells the team the truth.",
+      "wordTask": "What does transparent mean?",
+      "wordSample": "It means open and honest, with nothing hidden."
+    },
+    {
+      "unit": 10,
+      "day": 80,
+      "title": "Use leadership English in a new situation",
+      "goal": "I can use leadership English in a new situation.",
+      "newItems": [
+        {
+          "word": "empower",
+          "ipa": "/ɪmˈpaʊɚ/",
+          "pos": "verb",
+          "definition": "To give someone the power and confidence to do something.",
+          "example": "Good leaders empower their teams.",
+          "category": "new_word",
+          "status": "new",
+          "day": 80
+        },
+        {
+          "word": "confidence",
+          "ipa": "/ˈkɑnfədəns/",
+          "pos": "noun",
+          "definition": "A feeling that you can do something well.",
+          "example": "Her success gave her confidence.",
+          "category": "new_word",
+          "status": "new",
+          "day": 80
+        },
+        {
+          "word": "take the lead",
+          "ipa": "/teɪk ðə lid/",
+          "pos": "fixed phrase",
+          "definition": "To be the first to act or guide others.",
+          "example": "Daniel took the lead on the new plan.",
+          "category": "fixed_phrase",
+          "status": "new",
+          "day": 80
+        },
+        {
+          "word": "earn someone's trust",
+          "ipa": "/ɝn ˈsʌmˌwʌnz trʌst/",
+          "pos": "fixed phrase",
+          "definition": "To make people believe you are honest and good.",
+          "example": "Keep your promises to earn someone's trust.",
+          "category": "fixed_phrase",
+          "status": "new",
+          "day": 80
+        },
+        {
+          "word": "get everyone on board",
+          "ipa": "/ɡɛt ˈɛvriˌwʌn ɑn bɔrd/",
+          "pos": "fixed phrase",
+          "definition": "To make people agree and join in.",
+          "example": "Explain the plan to get everyone on board.",
+          "category": "fixed_phrase",
+          "status": "new",
+          "day": 80
+        }
+      ],
+      "reviewWords": [
+        "water",
+        "food",
+        "health",
+        "family",
+        "child"
+      ],
+      "mainWord": {
+        "word": "empower",
+        "ipa": "/ɪmˈpaʊɚ/",
+        "pos": "verb",
+        "definition": "To give someone the power and confidence to do something.",
+        "example": "Good leaders empower their teams.",
+        "category": "new_word",
+        "status": "new",
+        "day": 80
+      },
+      "mainWordForms": "Empower is a verb. To give someone the power and confidence to do something. Good leaders empower their teams.",
+      "pronunciationTarget": {
+        "word": "empower",
+        "ipa": "/ɪmˈpaʊɚ/"
+      },
+      "expression": "Daniel took the lead on the new plan.",
+      "use": "Use this when you talk about being the first to act or guide others.",
+      "expressionTask": "Daniel meets Sara at a leadership workshop. What did Daniel do?",
+      "grammar": "Review: I can use leadership English in a new situation",
+      "pattern": "I can use leadership English in a new situation.",
+      "task": "I can ___ leadership English in a new situation.",
+      "answer": "use",
+      "example": "I can use leadership English in a new situation.",
+      "context": [
+        "Daniel meets Sara at a leadership workshop.",
+        "Daniel took the lead on the new plan. Good leaders empower their teams and earn someone's trust."
+      ],
+      "dialogue": [
+        "Daniel: Sara, have you led a team before?",
+        "Sara: Not yet. I want to take the lead on a new plan.",
+        "Daniel: Good. Good leaders empower their teams.",
+        "Sara: Yes. I want to earn someone's trust at work.",
+        "Daniel: You can. Get everyone on board and listen to them.",
+        "Sara: Thank you. Your words give me confidence."
+      ],
+      "listening": "On Monday, Daniel meets Sara at a leadership workshop. Sara says, 'I want to take the lead on a new plan. Good leaders empower their teams.' Daniel says, 'Yes. Get everyone on board and listen to them. Your work will earn someone's trust.' Sara says, 'Thank you. Your words give me confidence.' Daniel is happy.",
+      "question": "What does Sara want to do?",
+      "correct": "Take the lead on a new plan",
+      "other": "Leave her job at once",
+      "reading": "On Monday, Daniel meets Sara at a leadership workshop. Sara says, 'I want to take the lead on a new plan. Good leaders empower their teams. I want to earn someone's trust at work.' Daniel says, 'You can. Get everyone on board and listen to them. A good leader empowers the team and gives people confidence. This time next week, I will be leading the meeting, and you can join me.' Sara says, 'Thank you. Your words give me confidence. I will take the lead on the new plan and get everyone on board.' Daniel says, 'Good. Take the lead, get everyone on board, and earn someone's trust. I can use leadership English in a new situation, and you can too.' Sara is happy. She says, 'I will empower my team and listen to everyone. Thank you, Daniel.'",
+      "readingQ": "What does Sara say she will do?",
+      "readingA": "Take the lead on the new plan, and get everyone on board.",
+      "speaking": "Tell a friend about leading a team in a new situation. What did you do? How did the team work together?",
+      "speakingSample": "I want to tell you about leading a team. On Monday, Daniel met Sara at a leadership workshop. Sara said, 'I want to take the lead on a new plan. Good leaders empower their teams.' Daniel said, 'Get everyone on board and listen to them.' Sara said, 'Thank you. Your words give me confidence.' I will take the lead one day.",
+      "writing": "Write a short email to a friend. Tell them about leading a team in a new situation. Say what you did and how the team worked.",
+      "writingSample": "Dear Anna, I want to tell you about leading a team. On Monday, Daniel met Sara at a leadership workshop. Sara said, 'I want to take the lead on a new plan. Good leaders empower their teams.' Daniel said, 'Get everyone on board and listen to them. Your work will earn someone's trust.' Sara said, 'Thank you. Your words give me confidence.' I will take the lead one day. I will get everyone on board and listen to them. Please tell me about your work. Best, Sara",
+      "sound": "Empower has its strongest beat on POW. In empower, say POW clearly in the middle. In confidence, say CON clearly at the start.",
+      "model": "Good leaders empower their teams.",
+      "wordTask": "What does empower mean?",
+      "wordSample": "It means to give someone the power and confidence to do something.",
+      "transferCheck": {
+        "source": "On Tuesday, Sara reads a note about a team leader. It says a good leader empowers the team and earns someone's trust. Sara talks to her friend Tom at a leadership workshop. She says, 'I want to take the lead on a new plan. I will get everyone on board and listen to them.' Tom says, 'Good. Take the lead, and empower your team.' Sara says, 'Yes. I will take the lead one day.' Tom says, 'Good. I am glad we talked.' Sara is happy.",
+        "dictation": "A good leader empowers the team.",
+        "answer": "1. The new checker is Sara. She reads a note about a team leader and talks to her friend Tom at a leadership workshop. 2. Sara's first job is to say that she wants to take the lead on a new plan and get everyone on board. 3. On Tuesday, Sara says, 'I want to take the lead on a new plan.' 4. A good leader empowers the team. 5. Sample: On Tuesday, Sara reads a note about a team leader. It says a good leader empowers the team and earns someone's trust. Sara talks to her friend Tom at a leadership workshop. She says, 'I want to take the lead on a new plan. I will get everyone on board and listen to them.' Tom says, 'Good. Take the lead, and empower your team.' Sara says, 'Yes. I will take the lead one day.' Tom says, 'Good. I am glad we talked.' Follow-up: What does Tom tell Sara to do? Take the lead, and empower her team.",
+        "tasks": [
+          [
+            "1 · Identify the people and the new situation",
+            "Who is the new checker, and what does she read?"
+          ],
+          [
+            "2 · Work out what Sara does first",
+            "What is Sara's first job, and what does she say?"
+          ],
+          [
+            "3 · Notice the sentence on Tuesday",
+            "What does Sara say on Tuesday?"
+          ],
+          [
+            "4 · Listen and write",
+            "Write the sentence you hear."
+          ],
+          [
+            "5 · Retell and answer",
+            "Tell the story in order, including the people, the new situation, the first talk, and the result. Then answer one follow-up question."
+          ]
+        ]
+      }
+    }
+  ]
+}

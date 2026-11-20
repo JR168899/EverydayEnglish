@@ -1,0 +1,953 @@
+{
+  "number": 18,
+  "title": "Food, farming and the food system",
+  "lessons": [
+    {
+      "unit": 18,
+      "day": 137,
+      "title": "Where our food comes from",
+      "goal": "I can talk about where our food comes from.",
+      "newItems": [
+        {
+          "category": "new_word",
+          "day": 137,
+          "definition": "Land where fruit trees grow.",
+          "example": "They pick apples in the orchard in autumn.",
+          "ipa": "/ˈɔrtʃɚd/",
+          "pos": "noun",
+          "status": "new",
+          "word": "orchard"
+        },
+        {
+          "category": "new_word",
+          "day": 137,
+          "definition": "Land where grapes grow for wine.",
+          "example": "The vineyard covers the hills near the river.",
+          "ipa": "/ˈvɪnjɚd/",
+          "pos": "noun",
+          "status": "new",
+          "word": "vineyard"
+        },
+        {
+          "category": "new_word",
+          "day": 137,
+          "definition": "Land where animals feed on grass.",
+          "example": "Cows graze in the pasture all summer.",
+          "ipa": "/ˈpæstʃɚ/",
+          "pos": "noun",
+          "status": "new",
+          "word": "pasture"
+        },
+        {
+          "category": "fixed_phrase",
+          "day": 137,
+          "definition": "Food sold and eaten close to where it is grown.",
+          "example": "We buy farm to table food at the market.",
+          "ipa": "/fɑrm tə ˈteɪbəl/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "farm to table"
+        },
+        {
+          "category": "fixed_phrase",
+          "day": 137,
+          "definition": "An open market where farmers sell food directly.",
+          "example": "We buy cheese at a farmers' market.",
+          "ipa": "/ə ˈfɑrmɚz ˈmɑrkət/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "a farmers' market"
+        }
+      ],
+      "reviewWords": [
+        "apple",
+        "bread",
+        "milk",
+        "rice",
+        "water"
+      ],
+      "mainWord": {
+        "category": "new_word",
+        "day": 137,
+        "definition": "Land where fruit trees grow.",
+        "example": "They pick apples in the orchard in autumn.",
+        "ipa": "/ˈɔrtʃɚd/",
+        "pos": "noun",
+        "status": "new",
+        "word": "orchard"
+      },
+      "mainWordForms": "Orchard is a noun. Land where fruit trees grow. They pick apples in the orchard in autumn.",
+      "pronunciationTarget": {
+        "word": "orchard",
+        "ipa": "/ˈɔrtʃɚd/"
+      },
+      "expression": "We buy farm to table food at the market.",
+      "use": "Use this when you talk about fresh local food.",
+      "expressionTask": "Daniel talks to Maya about food. What does he ask her?",
+      "grammar": "Third conditional: If farmers had used less water, the crop would have survived",
+      "pattern": "If farmers had used less water, the crop would have survived.",
+      "task": "If farmers had used less water, the crop would have ___.",
+      "answer": "survived",
+      "example": "If farmers had used less water, the crop would have survived.",
+      "context": [
+        "Daniel talks to Maya about food at work.",
+        "We buy farm to table food at the market. It tastes fresh."
+      ],
+      "dialogue": [
+        "Daniel: Maya, where does our food come from?",
+        "Maya: Most of it comes from farms near the town.",
+        "Daniel: What grows in the orchard on the hill?",
+        "Maya: Apples grow in the orchard, and grapes grow in a vineyard by the river.",
+        "Daniel: What about the cows in the pasture?",
+        "Maya: They give milk and cheese. We buy farm to table food at the market."
+      ],
+      "listening": "On Monday, Daniel talks to Maya about food. He asks, 'Maya, where does our food come from?' Maya says, 'Most of it comes from farms near the town. Apples grow in an orchard on the hill, and grapes grow in a vineyard by the river. Cows feed in a pasture near the lake.' Daniel says, 'Thank you, Maya.'",
+      "question": "Where does the food come from?",
+      "correct": "Farms near the town",
+      "other": "A shop far away",
+      "reading": "On Monday, Daniel talks to Maya about food at Carter Retail Group. He says, 'Where does our food come from?' Maya says, 'Most of it comes from farms near the town. Apples grow in an orchard on the hill, and grapes grow in a vineyard by the river. Cows feed in a pasture near the lake.' Daniel says, 'I like food that is farm to table. It tastes fresh.' Maya says, 'Yes. At a farmers' market, you can meet the people who grow your food. They sell apples from the orchard, and cheese from cows in the pasture. The vineyard sells grape juice, too.' Daniel says, 'Good. I want to buy food at a farmers' market every week. Farm to table food is fresh, and it helps local farms. An orchard, a vineyard and a pasture are the start of every meal.' Maya says, 'That is true. Good food starts on a good farm.'",
+      "readingQ": "Where do the apples grow?",
+      "readingA": "In an orchard on the hill.",
+      "speaking": "Tell a friend about where your food comes from. What do you buy?",
+      "speakingSample": "I want to tell you about where my food comes from. Daniel talked about food. He said, 'Where does our food come from?' Maya said, 'Most of it comes from farms near the town. Apples grow in an orchard on the hill, and grapes grow in a vineyard by the river. Cows feed in a pasture near the lake.' I buy farm to table food at a farmers' market.",
+      "writing": "Write a short email to a friend. Tell them where your food comes from.",
+      "writingSample": "Dear Tom, I want to tell you about where my food comes from. On Monday, Daniel talked about food at work. He said, 'Where does our food come from?' Maya said, 'Most of it comes from farms near the town. Apples grow in an orchard on the hill, and grapes grow in a vineyard by the river. Cows feed in a pasture near the lake.' I buy farm to table food at a farmers' market. It tastes fresh and helps local farms. Please tell me about your food. Best, Daniel",
+      "sound": "Orchard has its strongest beat on OR. In orchard, say OR clearly at the start. In vineyard, say VIN clearly at the start.",
+      "model": "We walk through the orchard in autumn.",
+      "wordTask": "Where does the food come from?",
+      "wordSample": "Farms near the town."
+    },
+    {
+      "unit": 18,
+      "day": 138,
+      "title": "Farming today",
+      "goal": "I can talk about farming today.",
+      "newItems": [
+        {
+          "category": "new_word",
+          "day": 138,
+          "definition": "A chemical used to kill insects that damage crops.",
+          "example": "Some farmers spray pesticide on their crops.",
+          "ipa": "/ˈpɛstəˌsaɪd/",
+          "pos": "noun",
+          "status": "new",
+          "word": "pesticide"
+        },
+        {
+          "category": "new_word",
+          "day": 138,
+          "definition": "A substance added to soil to help plants grow.",
+          "example": "Farmers add fertilizer to the soil in spring.",
+          "ipa": "/ˈfɝtəˌlaɪzɚ/",
+          "pos": "noun",
+          "status": "new",
+          "word": "fertilizer"
+        },
+        {
+          "category": "new_word",
+          "day": 138,
+          "definition": "The practice of bringing water to dry land for crops.",
+          "example": "Irrigation helps crops grow in dry places.",
+          "ipa": "/ˌɪrəˈɡeɪʃən/",
+          "pos": "noun",
+          "status": "new",
+          "word": "irrigation"
+        },
+        {
+          "category": "fixed_phrase",
+          "day": 138,
+          "definition": "Farming without artificial chemicals.",
+          "example": "Organic farming protects the soil.",
+          "ipa": "/ɔrˈɡænɪk ˈfɑrmɪŋ/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "organic farming"
+        },
+        {
+          "category": "fixed_phrase",
+          "day": 138,
+          "definition": "From animals that live outside, not in cages.",
+          "example": "Free-range eggs cost more than cage eggs.",
+          "ipa": "/ˈfri ˌreɪndʒ/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "free-range"
+        }
+      ],
+      "reviewWords": [
+        "plant",
+        "green",
+        "field",
+        "rain",
+        "sun"
+      ],
+      "mainWord": {
+        "category": "new_word",
+        "day": 138,
+        "definition": "A chemical used to kill insects that damage crops.",
+        "example": "Some farmers spray pesticide on their crops.",
+        "ipa": "/ˈpɛstəˌsaɪd/",
+        "pos": "noun",
+        "status": "new",
+        "word": "pesticide"
+      },
+      "mainWordForms": "Pesticide is a noun. A chemical used to kill insects that damage crops. Some farmers spray pesticide on their crops.",
+      "pronunciationTarget": {
+        "word": "pesticide",
+        "ipa": "/ˈpɛstəˌsaɪd/"
+      },
+      "expression": "Organic farming uses no pesticide.",
+      "use": "Use this when you talk about how food is grown.",
+      "expressionTask": "Priya talks to Daniel about farming. What does she ask him?",
+      "grammar": "Mixed conditional: If we had eaten less meat, we would be healthier now",
+      "pattern": "If we had eaten less meat, we would be healthier now.",
+      "task": "If we had eaten less meat, we would be ___ now.",
+      "answer": "healthier",
+      "example": "If we had eaten less meat, we would be healthier now.",
+      "context": [
+        "Priya talks to Daniel about farming at work.",
+        "Organic farming uses no pesticide."
+      ],
+      "dialogue": [
+        "Priya: Daniel, how do farmers grow so much food?",
+        "Daniel: Many farms use pesticide to kill insects.",
+        "Priya: What is fertilizer?",
+        "Daniel: Fertilizer helps plants grow, and irrigation brings water to dry fields.",
+        "Priya: What about organic farming?",
+        "Daniel: Organic farming uses no pesticide. Free-range eggs come from hens outside."
+      ],
+      "listening": "On Tuesday, Priya talks to Daniel about farming at work. She asks, 'Daniel, how do farmers grow so much food?' Daniel says, 'Many farms use pesticide to kill insects, and fertilizer helps plants grow. Irrigation brings water to dry fields.' Priya asks, 'What about organic farming?' Daniel says, 'It uses no pesticide. Free-range eggs come from hens outside.'",
+      "question": "What do farmers use to kill insects?",
+      "correct": "Pesticide",
+      "other": "Fertilizer",
+      "reading": "On Tuesday, Priya talks to Daniel about farming at work. She says, 'How do farmers grow so much food?' Daniel says, 'Many farms use pesticide to kill insects, and fertilizer to help plants grow. Irrigation brings water to dry fields.' Priya says, 'What about organic farming?' Daniel says, 'Organic farming uses no pesticide and no chemical fertilizer. It uses natural ways to keep the soil rich.' Priya says, 'Is the food better?' Daniel says, 'Free-range eggs come from hens that live outside, and organic farming gives food a natural taste. Irrigation is still needed in dry places, but good farmers use water with care.' Priya says, 'I see. A farm can be big and still kind to the land.' Daniel says, 'Yes. Good farming feeds people and keeps the soil alive.'",
+      "readingQ": "What does organic farming use?",
+      "readingA": "No pesticide and no chemical fertilizer.",
+      "speaking": "Tell a friend about farming today. How is food grown?",
+      "speakingSample": "I want to tell you about farming today. On Tuesday, Priya talked about farming at work. She said, 'How do farmers grow so much food?' Daniel said, 'Many farms use pesticide to kill insects, and fertilizer helps plants grow. Irrigation brings water to dry fields.' Organic farming uses no pesticide. Free-range eggs come from hens outside. Good farming feeds people.",
+      "writing": "Write a short email to a friend. Tell them about farming today.",
+      "writingSample": "Dear Tom, I want to tell you about farming today. On Tuesday, Priya talked about farming at work. She said, 'How do farmers grow so much food?' Daniel said, 'Many farms use pesticide to kill insects, and fertilizer helps plants grow. Irrigation brings water to dry fields.' Organic farming uses no pesticide and no chemical fertilizer. Free-range eggs come from hens that live outside. Good farming feeds people and keeps the soil alive. Please tell me about your food. Best, Daniel",
+      "sound": "Pesticide has its strongest beat on TI. In pesticide, say TI clearly in the middle. In fertilizer, say FER clearly at the start.",
+      "model": "The farmer uses no pesticide on these apples.",
+      "wordTask": "What do farmers use to kill insects?",
+      "wordSample": "Pesticide."
+    },
+    {
+      "unit": 18,
+      "day": 139,
+      "title": "Food miles and local food",
+      "goal": "I can talk about food miles and local food.",
+      "newItems": [
+        {
+          "category": "new_word",
+          "day": 139,
+          "definition": "The ability to follow a product from farm to shop.",
+          "example": "Traceability lets us find where food comes from.",
+          "ipa": "/ˌtreɪsəˈbɪləti/",
+          "pos": "noun",
+          "status": "new",
+          "word": "traceability"
+        },
+        {
+          "category": "new_word",
+          "day": 139,
+          "definition": "The sale of goods in large amounts to shops.",
+          "example": "The market sells fruit at wholesale prices.",
+          "ipa": "/ˈhoʊlˌseɪl/",
+          "pos": "noun",
+          "status": "new",
+          "word": "wholesale"
+        },
+        {
+          "category": "fixed_phrase",
+          "day": 139,
+          "definition": "The distance food travels from farm to shop.",
+          "example": "Food miles are high when fruit comes by plane.",
+          "ipa": "/fud maɪlz/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "food miles"
+        },
+        {
+          "category": "fixed_phrase",
+          "day": 139,
+          "definition": "To buy from shops and farms near you.",
+          "example": "We shop locally at the farmers' market.",
+          "ipa": "/ʃɑp ˈloʊkəli/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "shop locally"
+        },
+        {
+          "category": "fixed_phrase",
+          "day": 139,
+          "definition": "From the farm where food grows to the plate.",
+          "example": "We follow our food from farm to fork.",
+          "ipa": "/frʌm fɑrm tə fɔrk/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "from farm to fork"
+        }
+      ],
+      "reviewWords": [
+        "shop",
+        "price",
+        "fresh",
+        "near",
+        "week"
+      ],
+      "mainWord": {
+        "category": "new_word",
+        "day": 139,
+        "definition": "The ability to follow a product from farm to shop.",
+        "example": "Traceability lets us find where food comes from.",
+        "ipa": "/ˌtreɪsəˈbɪləti/",
+        "pos": "noun",
+        "status": "new",
+        "word": "traceability"
+      },
+      "mainWordForms": "Traceability is a noun. The ability to follow a product from farm to shop. Traceability lets us find where food comes from.",
+      "pronunciationTarget": {
+        "word": "traceability",
+        "ipa": "/ˌtreɪsəˈbɪləti/"
+      },
+      "expression": "When we shop locally, food miles stay low.",
+      "use": "Use this when you talk about buying local food.",
+      "expressionTask": "Maya talks to Daniel about food miles. What does she ask him?",
+      "grammar": "Participle clauses: Grown locally, the food tastes fresher",
+      "pattern": "Grown locally, the food tastes fresher.",
+      "task": "Grown ___, the food tastes fresher.",
+      "answer": "locally",
+      "example": "Grown locally, the food tastes fresher.",
+      "context": [
+        "Maya talks to Daniel about food miles at work.",
+        "When we shop locally, food miles stay low."
+      ],
+      "dialogue": [
+        "Maya: Daniel, what are food miles?",
+        "Daniel: Food miles are the distance food travels to reach us.",
+        "Maya: What is traceability?",
+        "Daniel: Traceability lets us follow food from farm to fork.",
+        "Maya: What about wholesale?",
+        "Daniel: Wholesale means shops buy food in large amounts. When we shop locally, food miles stay low."
+      ],
+      "listening": "On Wednesday, Maya talks to Daniel about food miles at work. She asks, 'Daniel, what are food miles?' Daniel says, 'Food miles are the distance food travels to reach us. When we shop locally, food miles stay low.' Maya asks, 'What is traceability?' Daniel says, 'It lets us follow food from farm to fork.' Maya is happy.",
+      "question": "What are food miles?",
+      "correct": "The distance food travels",
+      "other": "The price of food",
+      "reading": "On Wednesday, Maya talks to Daniel about food miles at work. She says, 'Food miles are the distance food travels to reach us.' Daniel says, 'Apples from far away have high food miles. When we shop locally, food miles stay low.' Maya says, 'What is traceability?' Daniel says, 'Traceability lets us follow food from farm to fork. We can see where it grew and how it travelled.' Maya says, 'And wholesale?' Daniel says, 'Wholesale means shops buy food in large amounts. A small shop can still buy from local farms.' Maya says, 'So local food is better?' Daniel says, 'Yes. When we shop locally, we follow food from farm to fork, and traceability is easy. Food miles stay low, and farmers near us earn a fair price.' Maya says, 'Good. I will shop locally this week.'",
+      "readingQ": "What does traceability let us do?",
+      "readingA": "Follow food from farm to fork.",
+      "speaking": "Tell a friend about food miles. Why buy local food?",
+      "speakingSample": "I want to tell you about food miles. On Wednesday, Maya talked about food miles at work. She said, 'Food miles are the distance food travels to reach us.' Daniel said, 'Apples from far away have high food miles. When we shop locally, food miles stay low.' Traceability lets us follow food from farm to fork. Wholesale means shops buy food in large amounts.",
+      "writing": "Write a short email to a friend. Tell them about food miles.",
+      "writingSample": "Dear Tom, I want to tell you about food miles. On Wednesday, Maya talked about food miles at work. She said, 'Food miles are the distance food travels to reach us.' Daniel said, 'Apples from far away have high food miles. When we shop locally, food miles stay low.' Traceability lets us follow food from farm to fork. Wholesale means shops buy food in large amounts. I like local food. Please tell me about your food. Best, Daniel",
+      "sound": "Traceability has its strongest beat on BIL. In traceability, say BIL clearly in the middle. In wholesale, say WHOLE clearly at the start.",
+      "model": "Good traceability helps us trust our food.",
+      "wordTask": "What are food miles?",
+      "wordSample": "The distance food travels."
+    },
+    {
+      "unit": 18,
+      "day": 140,
+      "title": "Food waste",
+      "goal": "I can talk about food waste.",
+      "newItems": [
+        {
+          "category": "new_word",
+          "day": 140,
+          "definition": "Likely to go bad quickly.",
+          "example": "Milk is perishable, so keep it cold.",
+          "ipa": "/ˈpɛrɪʃəbəl/",
+          "pos": "adjective",
+          "status": "new",
+          "word": "perishable"
+        },
+        {
+          "category": "new_word",
+          "day": 140,
+          "definition": "Too ripe.",
+          "example": "Overripe bananas are good for cakes.",
+          "ipa": "/ˌoʊvɚˈraɪp/",
+          "pos": "adjective",
+          "status": "new",
+          "word": "overripe"
+        },
+        {
+          "category": "fixed_phrase",
+          "day": 140,
+          "definition": "To cook a large amount at once.",
+          "example": "She likes to cook in bulk on Sundays.",
+          "ipa": "/kʊk ɪn bʌlk/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "cook in bulk"
+        },
+        {
+          "category": "fixed_phrase",
+          "day": 140,
+          "definition": "To keep extra food in the freezer.",
+          "example": "We freeze leftovers for busy days.",
+          "ipa": "/friz ˈlɛftˌoʊvɚz/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "freeze leftovers"
+        },
+        {
+          "category": "fixed_phrase",
+          "day": 140,
+          "definition": "Planning what to eat for the week.",
+          "example": "Meal planning saves time and money.",
+          "ipa": "/mil ˈplænɪŋ/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "meal planning"
+        }
+      ],
+      "reviewWords": [
+        "waste",
+        "cold",
+        "store",
+        "cook",
+        "eat"
+      ],
+      "mainWord": {
+        "category": "new_word",
+        "day": 140,
+        "definition": "Likely to go bad quickly.",
+        "example": "Milk is perishable, so keep it cold.",
+        "ipa": "/ˈpɛrɪʃəbəl/",
+        "pos": "adjective",
+        "status": "new",
+        "word": "perishable"
+      },
+      "mainWordForms": "Perishable is an adjective. Likely to go bad quickly. Milk is perishable, so keep it cold.",
+      "pronunciationTarget": {
+        "word": "perishable",
+        "ipa": "/ˈpɛrɪʃəbəl/"
+      },
+      "expression": "I cook in bulk on Sunday.",
+      "use": "Use this when you talk about saving food.",
+      "expressionTask": "Daniel talks to Priya about food waste. What does he ask her?",
+      "grammar": "Advanced passive: Food is wasted at every stage of the supply chain",
+      "pattern": "Food is wasted at every stage of the supply chain.",
+      "task": "Food is ___ at every stage of the supply chain.",
+      "answer": "wasted",
+      "example": "Food is wasted at every stage of the supply chain.",
+      "context": [
+        "Daniel talks to Priya about food waste at home.",
+        "I cook in bulk on Sunday."
+      ],
+      "dialogue": [
+        "Daniel: Priya, milk is perishable, so we must keep it cold.",
+        "Priya: What do you do with overripe bananas?",
+        "Daniel: I use them in cakes. I cook in bulk on Sunday.",
+        "Priya: Do you freeze leftovers every week?",
+        "Daniel: Yes. I freeze leftovers in small boxes.",
+        "Priya: Good. Meal planning helps us buy only what we need."
+      ],
+      "listening": "On Thursday, Daniel talks to Priya about food waste at home. He says, 'Milk is perishable, so we must keep it cold. Overripe bananas go soft, but we can use them in cakes.' Priya asks, 'How do you waste less food?' Daniel says, 'I cook in bulk on Sunday and freeze leftovers for busy days. Meal planning helps me buy only what I need.'",
+      "question": "What does Daniel do on Sunday?",
+      "correct": "Cook in bulk",
+      "other": "Go to the market",
+      "reading": "On Thursday, Daniel talks to Priya about food waste at home. He says, 'Milk is perishable, so we must keep it cold in the fridge. Overripe bananas go soft, but we can use them in cakes.' Priya says, 'How do you waste less food?' Daniel says, 'I cook in bulk on Sunday and freeze leftovers for busy days. Meal planning helps me buy only what I need.' Priya says, 'Do you freeze leftovers every week?' Daniel says, 'Yes. When I cook in bulk, I freeze leftovers in small boxes. Meal planning means I buy less, and perishable food stays fresh longer.' Priya says, 'That is smart. I will try meal planning this week, too.' Daniel says, 'An overripe banana is not waste. Good meal planning turns it into a cake.'",
+      "readingQ": "What does Daniel do on Sunday?",
+      "readingA": "Cook in bulk and freeze leftovers.",
+      "speaking": "Tell a friend about food waste. How do you waste less?",
+      "speakingSample": "I want to tell you about food waste. On Thursday, Daniel talked about food waste at home. He said, 'Milk is perishable, so we must keep it cold. Overripe bananas go soft, but we can use them in cakes.' I cook in bulk on Sunday and freeze leftovers for busy days. Meal planning helps me buy only what I need.",
+      "writing": "Write a short email to a friend. Tell them how you waste less food.",
+      "writingSample": "Dear Tom, I want to tell you about food waste. On Thursday, Daniel talked about food waste at home. He said, 'Milk is perishable, so we must keep it cold. Overripe bananas go soft, but we can use them in cakes.' I cook in bulk on Sunday and freeze leftovers for busy days. Meal planning helps me buy only what I need. Good food should not go to waste. Please tell me how you save food. Best, Daniel",
+      "sound": "Perishable has its strongest beat on PER. In perishable, say PER clearly at the start. In overripe, say RIPE clearly at the end.",
+      "model": "Milk is perishable, so keep it cold.",
+      "wordTask": "What does Daniel do on Sunday?",
+      "wordSample": "Cook in bulk."
+    },
+    {
+      "unit": 18,
+      "day": 141,
+      "title": "Eating well",
+      "goal": "I can talk about eating well.",
+      "newItems": [
+        {
+          "category": "new_word",
+          "day": 141,
+          "definition": "A substance in food that helps the body grow and stay healthy.",
+          "example": "Fruit gives us the nutrient vitamin C.",
+          "ipa": "/ˈnutriənt/",
+          "pos": "noun",
+          "status": "new",
+          "word": "nutrient"
+        },
+        {
+          "category": "new_word",
+          "day": 141,
+          "definition": "The part of plants that helps digestion.",
+          "example": "Beans are rich in fibre.",
+          "ipa": "/ˈfaɪbɚ/",
+          "pos": "noun",
+          "status": "new",
+          "word": "fibre"
+        },
+        {
+          "category": "fixed_phrase",
+          "day": 141,
+          "definition": "Food that keeps you healthy.",
+          "example": "A healthy diet has fruit, fish and grains.",
+          "ipa": "/ə ˈhɛlθi ˈdaɪət/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "a healthy diet"
+        },
+        {
+          "category": "fixed_phrase",
+          "day": 141,
+          "definition": "To eat good food in the right amounts.",
+          "example": "We try to eat healthily every day.",
+          "ipa": "/it ˈhɛlθəli/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "eat healthily"
+        },
+        {
+          "category": "fixed_phrase",
+          "day": 141,
+          "definition": "Five portions of fruit and vegetables a day.",
+          "example": "Doctors say we need five a day.",
+          "ipa": "/faɪv ə deɪ/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "five a day"
+        }
+      ],
+      "reviewWords": [
+        "health",
+        "body",
+        "fruit",
+        "fish",
+        "good"
+      ],
+      "mainWord": {
+        "category": "new_word",
+        "day": 141,
+        "definition": "A substance in food that helps the body grow and stay healthy.",
+        "example": "Fruit gives us the nutrient vitamin C.",
+        "ipa": "/ˈnutriənt/",
+        "pos": "noun",
+        "status": "new",
+        "word": "nutrient"
+      },
+      "mainWordForms": "Nutrient is a noun. A substance in food that helps the body grow and stay healthy. Fruit gives us the nutrient vitamin C.",
+      "pronunciationTarget": {
+        "word": "nutrient",
+        "ipa": "/ˈnutriənt/"
+      },
+      "expression": "Try five a day.",
+      "use": "Use this when you talk about healthy food.",
+      "expressionTask": "Priya talks to Daniel about eating well. What does she ask him?",
+      "grammar": "Hedging: It seems that eating local food might help farmers",
+      "pattern": "It seems that eating local food might help farmers.",
+      "task": "It seems that eating local food ___ help farmers.",
+      "answer": "might",
+      "example": "It seems that eating local food might help farmers.",
+      "context": [
+        "Priya talks to Daniel about eating well at work.",
+        "Try five a day. Eat five portions of fruit and vegetables every day."
+      ],
+      "dialogue": [
+        "Priya: Daniel, what is a nutrient?",
+        "Daniel: A nutrient helps the body grow and stay healthy.",
+        "Priya: What is fibre?",
+        "Daniel: Fibre helps digestion. Beans are rich in fibre.",
+        "Priya: How do I eat healthily?",
+        "Daniel: Try five a day. A healthy diet has fruit, fish and grains."
+      ],
+      "listening": "On Friday, Priya talks to Daniel about eating well at work. She asks, 'Daniel, what is a nutrient?' Daniel says, 'A nutrient helps the body grow and stay healthy.' Priya asks, 'What is fibre?' Daniel says, 'Fibre helps digestion. Try five a day. A healthy diet has fruit, fish and grains.' Daniel is happy. He says, 'Thank you, Priya.'",
+      "question": "What helps digestion?",
+      "correct": "Fibre",
+      "other": "Sugar",
+      "reading": "On Friday, Priya talks to Daniel about eating well at work. She says, 'A healthy diet keeps you strong. Every nutrient in food has a job. Fibre helps digestion, and fruit gives us vitamins.' Daniel says, 'How do I eat healthily?' Priya says, 'Try five a day. Eat five portions of fruit and vegetables every day.' Daniel says, 'Is that hard?' Priya says, 'No. A healthy diet is simple. When you eat healthily, you eat a mix of foods. Five a day means an apple, a carrot, some beans and more. Fibre is in beans and whole grains, and every nutrient counts.' Daniel says, 'Good. I will try five a day this week.' Priya says, 'That is a very good start. A healthy diet is a habit, not a test.'",
+      "readingQ": "What does five a day mean?",
+      "readingA": "Five portions of fruit and vegetables a day.",
+      "speaking": "Tell a friend about eating well. What do you eat?",
+      "speakingSample": "I want to tell you about eating well. On Friday, Priya talked about eating well at work. She said, 'A healthy diet keeps you strong. Every nutrient in food has a job. Fibre helps digestion, and fruit gives us vitamins.' Try five a day. A healthy diet has fruit, fish and grains. When you eat healthily, you eat a mix of foods.",
+      "writing": "Write a short email to a friend. Tell them about eating well.",
+      "writingSample": "Dear Tom, I want to tell you about eating well. On Friday, Priya talked about eating well at work. She said, 'A healthy diet keeps you strong. Every nutrient in food has a job. Fibre helps digestion, and fruit gives us vitamins.' Try five a day. Eat five portions of fruit and vegetables every day. When you eat healthily, you eat a mix of foods. Good food keeps you strong. Please tell me about your food. Best, Daniel",
+      "sound": "Nutrient has its strongest beat on NU. In nutrient, say NU clearly at the start. In fibre, say FI clearly at the start.",
+      "model": "Beans give us the nutrient fibre for good digestion.",
+      "wordTask": "What helps digestion?",
+      "wordSample": "Fibre."
+    },
+    {
+      "unit": 18,
+      "day": 142,
+      "title": "The food industry",
+      "goal": "I can talk about the food industry.",
+      "newItems": [
+        {
+          "category": "new_word",
+          "day": 142,
+          "definition": "A substance added to food to improve its colour, taste or life.",
+          "example": "This juice has no artificial additive.",
+          "ipa": "/ˈædətɪv/",
+          "pos": "noun",
+          "status": "new",
+          "word": "additive"
+        },
+        {
+          "category": "new_word",
+          "day": 142,
+          "definition": "A substance that stops food from going bad quickly.",
+          "example": "This bread has no preservative in it.",
+          "ipa": "/prɪˈzɝvətɪv/",
+          "pos": "noun",
+          "status": "new",
+          "word": "preservative"
+        },
+        {
+          "category": "new_word",
+          "day": 142,
+          "definition": "Changed by a factory process before sale.",
+          "example": "Processed food often has a lot of salt.",
+          "ipa": "/ˈprɑsɛst/",
+          "pos": "adjective",
+          "status": "new",
+          "word": "processed"
+        },
+        {
+          "category": "fixed_phrase",
+          "day": 142,
+          "definition": "The rules that keep food safe to eat.",
+          "example": "Food safety rules keep restaurants clean.",
+          "ipa": "/fud ˈseɪfti/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "food safety"
+        },
+        {
+          "category": "fixed_phrase",
+          "day": 142,
+          "definition": "Illness caused by eating bad food.",
+          "example": "Food poisoning kept him in bed for two days.",
+          "ipa": "/fud ˈpɔɪzənɪŋ/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "food poisoning"
+        }
+      ],
+      "reviewWords": [
+        "safe",
+        "clean",
+        "salt",
+        "sugar",
+        "label"
+      ],
+      "mainWord": {
+        "category": "new_word",
+        "day": 142,
+        "definition": "A substance added to food to improve its colour, taste or life.",
+        "example": "This juice has no artificial additive.",
+        "ipa": "/ˈædətɪv/",
+        "pos": "noun",
+        "status": "new",
+        "word": "additive"
+      },
+      "mainWordForms": "Additive is a noun. A substance added to food to improve its colour, taste or life. This juice has no artificial additive.",
+      "pronunciationTarget": {
+        "word": "preservative",
+        "ipa": "/prɪˈzɝvətɪv/"
+      },
+      "expression": "Read the label.",
+      "use": "Use this when you talk about food packaging.",
+      "expressionTask": "Maya talks to Daniel about the food industry. What does she ask him?",
+      "grammar": "Advanced reported speech: The report said that food prices had risen sharply",
+      "pattern": "The report said that food prices had risen sharply.",
+      "task": "The report said that food prices had ___ sharply.",
+      "answer": "risen",
+      "example": "The report said that food prices had risen sharply.",
+      "context": [
+        "Maya talks to Daniel about the food industry at work.",
+        "Read the label. An additive or a preservative is listed there."
+      ],
+      "dialogue": [
+        "Maya: Daniel, what is an additive?",
+        "Daniel: An additive gives food colour or taste.",
+        "Maya: What is a preservative?",
+        "Daniel: A preservative stops food from going bad.",
+        "Maya: Is processed food bad?",
+        "Daniel: Not always. Read the label. Food safety rules keep it safe."
+      ],
+      "listening": "On Saturday, Maya talks to Daniel about the food industry at work. She asks, 'Daniel, what is an additive?' Daniel says, 'An additive gives food colour or taste.' Maya asks, 'What is a preservative?' Daniel says, 'It stops food from going bad. Read the label. Food safety rules keep it safe.' Daniel is happy. He says, 'Thank you, Maya.'",
+      "question": "What stops food from going bad?",
+      "correct": "A preservative",
+      "other": "An additive",
+      "reading": "On Saturday, Maya talks to Daniel about the food industry at work. She says, 'Many shops sell processed food. An additive gives food colour, and a preservative keeps it fresh for longer.' Daniel says, 'Is processed food bad?' Maya says, 'Not always. But food safety rules keep it safe. Food poisoning happens when food goes bad or is not cooked well.' Daniel says, 'How can I stay safe?' Maya says, 'Read the label. An additive or a preservative is listed there. Food safety starts at home: keep food cold, wash your hands, and cook meat well.' Daniel says, 'I see.' Maya says, 'Processed food is part of modern life, but food poisoning is not. Good food safety keeps us healthy.' Daniel says, 'Thank you, Maya. I will read the label from now on.'",
+      "readingQ": "What keeps processed food fresh for longer?",
+      "readingA": "A preservative.",
+      "speaking": "Tell a friend about the food industry. How do you stay safe?",
+      "speakingSample": "I want to tell you about the food industry. On Saturday, Maya talked about the food industry at work. She said, 'Many shops sell processed food. An additive gives food colour, and a preservative keeps it fresh for longer.' Read the label. Food safety rules keep it safe. Food poisoning happens when food goes bad or is not cooked well.",
+      "writing": "Write a short email to a friend. Tell them about the food industry.",
+      "writingSample": "Dear Tom, I want to tell you about the food industry. On Saturday, Maya talked about the food industry at work. She said, 'Many shops sell processed food. An additive gives food colour, and a preservative keeps it fresh for longer.' Read the label. Food safety starts at home: keep food cold, wash your hands, and cook meat well. Good food safety keeps us healthy. I will read the label from now on. Please tell me about your food. Best, Daniel",
+      "sound": "Preservative has its strongest beat on SER. In preservative, say SER clearly in the middle. In additive, say AD clearly at the start.",
+      "model": "This jam has no preservative in it.",
+      "wordTask": "What stops food from going bad?",
+      "wordSample": "A preservative."
+    },
+    {
+      "unit": 18,
+      "day": 143,
+      "title": "Food, culture and choice",
+      "goal": "I can talk about food, culture and choice.",
+      "newItems": [
+        {
+          "category": "new_word",
+          "day": 143,
+          "definition": "A main food that people eat every day.",
+          "example": "Rice is the staple food in many countries.",
+          "ipa": "/ˈsteɪpəl/",
+          "pos": "noun",
+          "status": "new",
+          "word": "staple"
+        },
+        {
+          "category": "new_word",
+          "day": 143,
+          "definition": "The wish to eat food.",
+          "example": "A walk in the hills gives me a good appetite.",
+          "ipa": "/ˈæpəˌtaɪt/",
+          "pos": "noun",
+          "status": "new",
+          "word": "appetite"
+        },
+        {
+          "category": "new_word",
+          "day": 143,
+          "definition": "A strong wish for a certain food.",
+          "example": "She has a craving for chocolate.",
+          "ipa": "/ˈkreɪvɪŋ/",
+          "pos": "noun",
+          "status": "new",
+          "word": "craving"
+        },
+        {
+          "category": "fixed_phrase",
+          "day": 143,
+          "definition": "Food that makes you feel happy and calm.",
+          "example": "Hot soup is my comfort food in winter.",
+          "ipa": "/ˈkʌmfɚt fud/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "comfort food"
+        },
+        {
+          "category": "fixed_phrase",
+          "day": 143,
+          "definition": "A taste you learn to like over time.",
+          "example": "Coffee is an acquired taste for many people.",
+          "ipa": "/ən əˈkwaɪɚd teɪst/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "an acquired taste"
+        }
+      ],
+      "reviewWords": [
+        "taste",
+        "happy",
+        "home",
+        "meal",
+        "love"
+      ],
+      "mainWord": {
+        "category": "new_word",
+        "day": 143,
+        "definition": "A main food that people eat every day.",
+        "example": "Rice is the staple food in many countries.",
+        "ipa": "/ˈsteɪpəl/",
+        "pos": "noun",
+        "status": "new",
+        "word": "staple"
+      },
+      "mainWordForms": "Staple is a noun. A main food that people eat every day. Rice is the staple food in many countries.",
+      "pronunciationTarget": {
+        "word": "staple",
+        "ipa": "/ˈsteɪpəl/"
+      },
+      "expression": "Rice is the staple food in my family.",
+      "use": "Use this when you talk about food and home.",
+      "expressionTask": "Daniel talks to Maya about food and culture. What does he ask her?",
+      "grammar": "Subjunctive: It is vital that every label be easy to read",
+      "pattern": "It is vital that every label be easy to read.",
+      "task": "It is vital that every label ___ easy to read.",
+      "answer": "be",
+      "example": "It is vital that every label be easy to read.",
+      "context": [
+        "Daniel talks to Maya about food and culture at home.",
+        "Rice is the staple food in my family. A hot bowl of soup is my comfort food on cold days."
+      ],
+      "dialogue": [
+        "Daniel: Maya, rice is the staple food in my family.",
+        "Maya: What is your comfort food?",
+        "Daniel: A hot bowl of soup is my comfort food on cold days.",
+        "Maya: What is an acquired taste?",
+        "Daniel: It is a taste you learn to like over time.",
+        "Maya: Do you get a craving for home food? My appetite grows when I smell soup."
+      ],
+      "listening": "On Sunday, Daniel talks to Maya about food and culture at home. He says, 'Rice is the staple food in my family. A hot bowl of soup is my comfort food on cold days.' Maya asks, 'What is an acquired taste?' Daniel says, 'It is a taste you learn to like over time. I get a craving for home food when I am far away.'",
+      "question": "What is Daniel's comfort food?",
+      "correct": "A hot bowl of soup",
+      "other": "A cold salad",
+      "reading": "On Sunday, Daniel talks to Maya about food and culture at home. He says, 'Rice is the staple food in my family. A hot bowl of soup is my comfort food on cold days.' Maya says, 'What is an acquired taste?' Daniel says, 'It is a taste you learn to like over time. My first coffee was bitter, but now I love it.' Maya says, 'Do you get a craving for home food?' Daniel says, 'Yes. When I am far from home, I have a craving for my mother's soup. An appetite grows when food means home.' Maya says, 'Food is much more than fuel.' Daniel says, 'Yes. A staple food feeds the body, and comfort food feeds the heart. An acquired taste shows how food and culture grow together.'",
+      "readingQ": "What is Daniel's comfort food?",
+      "readingA": "A hot bowl of soup.",
+      "speaking": "Tell a friend about food and culture. What is your comfort food?",
+      "speakingSample": "I want to tell you about food and culture. On Sunday, Daniel talked about food and culture at home. He said, 'Rice is the staple food in my family. A hot bowl of soup is my comfort food on cold days.' An acquired taste is a taste you learn to like over time. I get a craving for home food.",
+      "writing": "Write a short email to a friend. Tell them about food and culture.",
+      "writingSample": "Dear Tom, I want to tell you about food and culture. On Sunday, Daniel talked about food and culture at home. He said, 'Rice is the staple food in my family. A hot bowl of soup is my comfort food on cold days.' An acquired taste is a taste you learn to like over time. I get a craving for home food when I am far away. Food is much more than fuel. Please tell me about your food. Best, Daniel",
+      "sound": "Staple has its strongest beat on STA. In staple, say STA clearly at the start. In appetite, say AP clearly at the start.",
+      "model": "Rice is a staple food here.",
+      "wordTask": "What is Daniel's comfort food?",
+      "wordSample": "A hot bowl of soup."
+    },
+    {
+      "unit": 18,
+      "day": 144,
+      "title": "Use food English in a new situation",
+      "goal": "I can use food English in a new situation.",
+      "newItems": [
+        {
+          "category": "new_word",
+          "day": 144,
+          "definition": "A serious lack of food in a large area.",
+          "example": "A famine hit the country after the drought.",
+          "ipa": "/ˈfæmɪn/",
+          "pos": "noun",
+          "status": "new",
+          "word": "famine"
+        },
+        {
+          "category": "new_word",
+          "day": 144,
+          "definition": "Poor health caused by not eating enough good food.",
+          "example": "Malnutrition is common where food is scarce.",
+          "ipa": "/ˌmælnuˈtrɪʃən/",
+          "pos": "noun",
+          "status": "new",
+          "word": "malnutrition"
+        },
+        {
+          "category": "fixed_phrase",
+          "day": 144,
+          "definition": "A place that gives free food to people in need.",
+          "example": "The food bank feeds 200 families a week.",
+          "ipa": "/ə fud bæŋk/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "a food bank"
+        },
+        {
+          "category": "fixed_phrase",
+          "day": 144,
+          "definition": "Not having enough food to live well.",
+          "example": "Food insecurity grows when prices rise.",
+          "ipa": "/fud ˌɪnsəˈkjʊrəti/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "food insecurity"
+        },
+        {
+          "category": "fixed_phrase",
+          "day": 144,
+          "definition": "An area with no shops selling fresh food.",
+          "example": "People in a food desert travel far to shop.",
+          "ipa": "/ə fud ˈdɛzɚt/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "a food desert"
+        }
+      ],
+      "reviewWords": [
+        "help",
+        "friend",
+        "town",
+        "give",
+        "need"
+      ],
+      "mainWord": {
+        "category": "new_word",
+        "day": 144,
+        "definition": "A serious lack of food in a large area.",
+        "example": "A famine hit the country after the drought.",
+        "ipa": "/ˈfæmɪn/",
+        "pos": "noun",
+        "status": "new",
+        "word": "famine"
+      },
+      "mainWordForms": "Famine is a noun. A serious lack of food in a large area. A famine hit the country after the drought.",
+      "pronunciationTarget": {
+        "word": "famine",
+        "ipa": "/ˈfæmɪn/"
+      },
+      "expression": "A food bank gives free food to people in need.",
+      "use": "Use this when you talk about helping people with food.",
+      "expressionTask": "Daniel meets Sara at a farmers' market. What does he want to buy?",
+      "grammar": "Wish and if only for review: I wish we had wasted less food when I was young",
+      "pattern": "I wish we had wasted less food when I was young.",
+      "task": "I wish we had wasted less food when I was ___.",
+      "answer": "young",
+      "example": "I wish we had wasted less food when I was young.",
+      "context": [
+        "Daniel meets Sara at a farmers' market and talks about food.",
+        "A food bank gives free food to people in need."
+      ],
+      "dialogue": [
+        "Daniel: Sara, do you know what a food bank is?",
+        "Sara: Yes. A food bank gives free food to people in need.",
+        "Daniel: What is food insecurity?",
+        "Sara: It is not having enough food to live well.",
+        "Daniel: What is a food desert?",
+        "Sara: It is an area with no shops selling fresh food. Famine and malnutrition are big problems."
+      ],
+      "listening": "On Monday, Daniel meets Sara at a farmers' market. He asks, 'Sara, do you know what a food bank is?' Sara says, 'Yes. A food bank gives free food to people in need.' Daniel asks, 'What is food insecurity?' Sara says, 'It is not having enough food to live well. In a food desert, there are no shops with fresh food.'",
+      "question": "What is a food bank?",
+      "correct": "It gives free food to people in need",
+      "other": "It sells expensive food",
+      "reading": "On Monday, Daniel meets Sara at a farmers' market and talks about food. He asks, 'Sara, do you know what a food bank is?' Sara says, 'Yes. A food bank gives free food to people in need.' Daniel asks, 'What is food insecurity?' Sara says, 'It is not having enough food to live well. In a food desert, there are no shops with fresh food.' Daniel says, 'That is sad.' Sara says, 'Yes. Famine is a serious lack of food in a large area, and malnutrition makes children weak.' Daniel says, 'How can we help?' Sara says, 'A food bank helps today. Food insecurity needs long plans. In a food desert, a small shop can change lives. Famine and malnutrition are big problems, but good food can start to fix them.'",
+      "readingQ": "What is food insecurity?",
+      "readingA": "Not having enough food to live well.",
+      "speaking": "Tell a friend about food and helping people. What is a food bank?",
+      "speakingSample": "I want to tell you about food and helping people. On Monday, Daniel talked to Sara at a farmers' market. He said, 'Sara, do you know what a food bank is?' Sara said, 'Yes. A food bank gives free food to people in need.' Food insecurity is not having enough food to live well. In a food desert, there are no shops with fresh food.",
+      "writing": "Write a short email to a friend. Tell them about food and helping people.",
+      "writingSample": "Dear Tom, I want to tell you about food and helping people. On Monday, Daniel talked to Sara at a farmers' market. He said, 'Sara, do you know what a food bank is?' Sara said, 'Yes. A food bank gives free food to people in need.' Food insecurity is not having enough food to live well. In a food desert, there are no shops with fresh food. Famine and malnutrition are big problems. Please tell me about your town. Best, Daniel",
+      "sound": "Famine has its strongest beat on FAM. In famine, say FAM clearly at the start. In malnutrition, say TRI clearly in the middle.",
+      "model": "A famine hits the whole country.",
+      "wordTask": "What is a food bank?",
+      "wordSample": "It gives free food to people in need.",
+      "transferCheck": {
+        "source": "On Saturday, Sara reads a note from her neighbour about a community garden. It says the garden grows food for a food bank, and many families in the town use it. Food insecurity is a big problem here, but the garden helps. Sara talks to her friend Tom at a farmers' market. She says, 'The garden grows food for a food bank. Good food can start to fix big problems.' Tom says, 'Good. A small shop can change lives.' Sara says, 'Yes. In a food desert, fresh food is hard to find, but the garden helps.' Tom says, 'Good. A food bank helps today.' Sara is happy.",
+        "dictation": "Good food starts on a good farm.",
+        "answer": "1. The new checker is Sara. She reads a note from her neighbour about a community garden and talks to her friend Tom at a farmers' market. 2. Sara's first job is to say that the garden grows food for a food bank. 3. On Saturday, Sara says, 'The garden grows food for a food bank. Good food can start to fix big problems.' 4. Good food starts on a good farm. 5. Sample: On Saturday, Sara reads a note from her neighbour about a community garden. It says the garden grows food for a food bank, and many families in the town use it. Food insecurity is a big problem here, but the garden helps. Sara talks to her friend Tom at a farmers' market. She says, 'The garden grows food for a food bank. Good food can start to fix big problems.' Tom says, 'Good. A small shop can change lives.' Sara says, 'Yes. In a food desert, fresh food is hard to find, but the garden helps.' Tom says, 'Good. A food bank helps today.' Follow-up: What does Tom say about a small shop? A small shop can change lives.",
+        "tasks": [
+          [
+            "1 · Identify the people and the new situation",
+            "Who is the new checker, and what does she read?"
+          ],
+          [
+            "2 · Work out what Sara does first",
+            "What is Sara's first job, and what does she say?"
+          ],
+          [
+            "3 · Notice the sentence on Saturday",
+            "What does Sara say on Saturday?"
+          ],
+          [
+            "4 · Listen and write",
+            "Write the sentence you hear."
+          ],
+          [
+            "5 · Retell and answer",
+            "Tell the story in order, including the people, the new situation, the first talk, and the result. Then answer one follow-up question."
+          ]
+        ]
+      }
+    }
+  ]
+}

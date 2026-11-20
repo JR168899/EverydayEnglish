@@ -1,0 +1,953 @@
+{
+  "number": 12,
+  "title": "Handling conflict and difficult conversations",
+  "lessons": [
+    {
+      "unit": 12,
+      "day": 89,
+      "title": "What is a conflict?",
+      "goal": "I can talk about what a conflict is.",
+      "newItems": [
+        {
+          "word": "conflict",
+          "ipa": "/ˈkɑnˌflɪkt/",
+          "pos": "noun",
+          "definition": "A serious disagreement between people.",
+          "example": "A small conflict can grow into a big problem.",
+          "category": "new_word",
+          "status": "new",
+          "day": 89
+        },
+        {
+          "word": "disagreement",
+          "ipa": "/ˌdɪsəˈɡrimənt/",
+          "pos": "noun",
+          "definition": "A time when people have different ideas.",
+          "example": "We had a disagreement about the plan.",
+          "category": "new_word",
+          "status": "new",
+          "day": 89
+        },
+        {
+          "word": "tension",
+          "ipa": "/ˈtɛnʃən/",
+          "pos": "noun",
+          "definition": "A nervous feeling between people who disagree.",
+          "example": "There was tension in the room after the talk.",
+          "category": "new_word",
+          "status": "new",
+          "day": 89
+        },
+        {
+          "word": "a clash of opinions",
+          "ipa": "/ə klæʃ əv əˈpɪnjənz/",
+          "pos": "fixed phrase",
+          "definition": "When two strong ideas meet and fight.",
+          "example": "A clash of opinions started the row.",
+          "category": "fixed_phrase",
+          "status": "new",
+          "day": 89
+        },
+        {
+          "word": "a difference of opinion",
+          "ipa": "/ə ˈdɪfɚəns əv əˈpɪnjən/",
+          "pos": "fixed phrase",
+          "definition": "When people do not agree about something.",
+          "example": "It is only a difference of opinion.",
+          "category": "fixed_phrase",
+          "status": "new",
+          "day": 89
+        }
+      ],
+      "reviewWords": [
+        "team",
+        "work",
+        "office",
+        "meeting",
+        "plan"
+      ],
+      "mainWord": {
+        "word": "conflict",
+        "ipa": "/ˈkɑnˌflɪkt/",
+        "pos": "noun",
+        "definition": "A serious disagreement between people.",
+        "example": "A small conflict can grow into a big problem.",
+        "category": "new_word",
+        "status": "new",
+        "day": 89
+      },
+      "mainWordForms": "Conflict is a noun. A serious disagreement between people. A small conflict can grow into a big problem.",
+      "pronunciationTarget": {
+        "word": "conflict",
+        "ipa": "/ˈkɑnˌflɪkt/"
+      },
+      "expression": "It is only a difference of opinion.",
+      "use": "Use this when you tell someone that a fight is only about different ideas.",
+      "expressionTask": "Maya talks to Daniel about a conflict at work. What is it?",
+      "grammar": "Modal perfects for deduction: He must have misunderstood the plan",
+      "pattern": "He must have misunderstood the plan.",
+      "task": "He must have ___ the plan.",
+      "answer": "misunderstood",
+      "example": "He must have misunderstood the plan.",
+      "context": [
+        "Maya talks to Daniel about a conflict at work.",
+        "It is only a difference of opinion. A clash of opinions can cause tension in a team."
+      ],
+      "dialogue": [
+        "Maya: Daniel, there is a conflict in our team today.",
+        "Daniel: What happened? Is it a big disagreement?",
+        "Maya: No. It is only a difference of opinion about the plan.",
+        "Daniel: Good. But a clash of opinions can cause tension.",
+        "Priya: Yes. We must find a good answer fast.",
+        "Maya: True. Let us talk and find the answer together."
+      ],
+      "listening": "On Monday, Maya talks to Daniel about a conflict at work. She says, 'It is only a difference of opinion about the plan.' Daniel says, 'A clash of opinions can cause tension in a team.' Priya says, 'Yes. We must find a good answer fast.' Maya says, 'True. Let us talk and find the answer together.' Daniel is happy.",
+      "question": "What does Maya say about the conflict?",
+      "correct": "It is only a difference of opinion",
+      "other": "It is a very big fight",
+      "reading": "On Monday, Maya talks to Daniel about a conflict at work at Carter Retail Group. She says, 'It is only a difference of opinion about the plan. A small disagreement is normal in a team.' Daniel says, 'Yes. But a clash of opinions can cause tension in a team. We must find a good answer fast.' Priya says, 'True. A clash of opinions is not a fight. It is only a difference of opinion, and we can talk about it.' Maya says, 'Good. A conflict can grow if people do not talk. He must have misunderstood the plan, so let us ask him.' Daniel is happy. He says, 'Thank you, Maya. I will learn how to talk about a conflict at work.' Maya says, 'Good. A good team talks about a conflict and finds a good answer fast. Let us listen to both sides and talk about the plan today.'",
+      "readingQ": "What does Maya say about a conflict?",
+      "readingA": "A conflict can grow if people do not talk, and it is only a difference of opinion.",
+      "speaking": "Tell a friend about a conflict at work. What happened? How did people feel?",
+      "speakingSample": "I want to tell you about a conflict at work. On Monday, Maya talked about a disagreement in our team. She said, 'It is only a difference of opinion about the plan.' A clash of opinions can cause tension in a team. We must find a good answer fast. I will talk and find the answer with my team. We can talk and find a good answer together.",
+      "writing": "Write a short email to a friend. Tell them about a conflict at work. Say what happened and what you learned.",
+      "writingSample": "Dear Tom, I want to tell you about a conflict at work. On Monday, Maya talked about a disagreement in our team. She said, 'It is only a difference of opinion about the plan.' A clash of opinions can cause tension in a team. We must find a good answer fast. I will talk with my team and find the answer. A conflict is normal at work. Please tell me about your work. Best, Daniel",
+      "sound": "Conflict has its strongest beat on CON. In conflict, say CON clearly at the start. In disagreement, say GREE clearly in the middle.",
+      "model": "A small conflict can grow into a big problem.",
+      "wordTask": "What is a conflict?",
+      "wordSample": "It is a serious disagreement between people."
+    },
+    {
+      "unit": 12,
+      "day": 90,
+      "title": "Listening to the other side",
+      "goal": "I can talk about listening to the other side.",
+      "newItems": [
+        {
+          "word": "empathy",
+          "ipa": "/ˈɛmpəθi/",
+          "pos": "noun",
+          "definition": "Understanding how another person feels.",
+          "example": "Show empathy when you listen to her.",
+          "category": "new_word",
+          "status": "new",
+          "day": 90
+        },
+        {
+          "word": "patience",
+          "ipa": "/ˈpeɪʃəns/",
+          "pos": "noun",
+          "definition": "Being calm while you wait or listen.",
+          "example": "Patience helps in a hard talk.",
+          "category": "new_word",
+          "status": "new",
+          "day": 90
+        },
+        {
+          "word": "forgive",
+          "ipa": "/fɚˈɡɪv/",
+          "pos": "verb",
+          "definition": "To stop being angry with someone for a mistake.",
+          "example": "I can forgive a small mistake.",
+          "category": "new_word",
+          "status": "new",
+          "day": 90
+        },
+        {
+          "word": "put yourself in someone's shoes",
+          "ipa": "/pʊt jɔrˈsɛlf ɪn ˈsʌmˌwʌnz ʃuz/",
+          "pos": "fixed phrase",
+          "definition": "To imagine how another person feels.",
+          "example": "Put yourself in her shoes before you judge.",
+          "category": "fixed_phrase",
+          "status": "new",
+          "day": 90
+        },
+        {
+          "word": "hear someone out",
+          "ipa": "/hɪr ˈsʌmˌwʌn aʊt/",
+          "pos": "fixed phrase",
+          "definition": "To listen to all of what someone says.",
+          "example": "Please hear me out before you answer.",
+          "category": "fixed_phrase",
+          "status": "new",
+          "day": 90
+        }
+      ],
+      "reviewWords": [
+        "listen",
+        "help",
+        "friend",
+        "happy",
+        "morning"
+      ],
+      "mainWord": {
+        "word": "empathy",
+        "ipa": "/ˈɛmpəθi/",
+        "pos": "noun",
+        "definition": "Understanding how another person feels.",
+        "example": "Show empathy when you listen to her.",
+        "category": "new_word",
+        "status": "new",
+        "day": 90
+      },
+      "mainWordForms": "Empathy is a noun. Understanding how another person feels. Show empathy when you listen to her.",
+      "pronunciationTarget": {
+        "word": "empathy",
+        "ipa": "/ˈɛmpəθi/"
+      },
+      "expression": "Put yourself in someone's shoes.",
+      "use": "Use this when you tell someone to imagine how another person feels.",
+      "expressionTask": "Maya talks to Daniel about listening to the other side. What should he do first?",
+      "grammar": "Advanced reported speech: She said that she had felt angry",
+      "pattern": "She said that she had felt angry.",
+      "task": "She said that she had ___ angry.",
+      "answer": "felt",
+      "example": "She said that she had felt angry.",
+      "context": [
+        "Maya talks to Daniel about listening to the other side.",
+        "Put yourself in someone's shoes. Show empathy, and hear someone out."
+      ],
+      "dialogue": [
+        "Maya: Daniel, how do you listen to the other side?",
+        "Daniel: I try to show empathy and patience.",
+        "Maya: Good. Put yourself in someone's shoes before you judge.",
+        "Daniel: Yes. I want to hear someone out first.",
+        "Priya: True. Then you can forgive a small mistake.",
+        "Maya: Exactly. Listen first, and talk later."
+      ],
+      "listening": "On Tuesday, Maya talks to Daniel about listening to the other side. She says, 'Put yourself in someone's shoes before you judge. Show empathy, and hear someone out.' Daniel says, 'I try to show empathy and patience.' Priya says, 'Then you can forgive a small mistake. Listen first, and talk later.' Daniel says, 'Thank you, Maya.' Daniel is happy.",
+      "question": "What does Maya tell Daniel to do?",
+      "correct": "Put yourself in someone's shoes",
+      "other": "Judge her at once",
+      "reading": "On Tuesday, Maya talks to Daniel about listening to the other side at Carter Retail Group. She says, 'Put yourself in someone's shoes before you judge. Show empathy, and hear someone out. Patience helps in a hard talk.' Daniel says, 'I try to show empathy and patience. I want to hear someone out first.' Priya says, 'Good. She said that she had felt angry, but she wants to talk. Then you can forgive a small mistake.' Maya says, 'True. Put yourself in someone's shoes, and you will see her side.' Daniel is happy. He says, 'Thank you, Maya. I will listen first and talk later.' Maya says, 'True. Empathy and patience help us all. Put yourself in someone's shoes, and you will see her side. I will hear someone out and forgive a small mistake.'",
+      "readingQ": "What does Maya tell Daniel to do?",
+      "readingA": "Put yourself in someone's shoes, show empathy, and hear someone out.",
+      "speaking": "Tell a friend about listening to the other side. What did you do? What did you learn?",
+      "speakingSample": "I want to tell you about listening to the other side. On Tuesday, Maya talked about empathy and patience. She said, 'Put yourself in someone's shoes before you judge.' I want to hear someone out first. Then I can forgive a small mistake. Listen first, and talk later every day. Empathy and patience help us listen well every day at work.",
+      "writing": "Write a short email to a friend. Tell them about listening to the other side. Say what you did and what you learned.",
+      "writingSample": "Dear Anna, I want to tell you about listening to the other side. On Tuesday, Maya talked about empathy and patience. She said, 'Put yourself in someone's shoes before you judge. Show empathy, and hear someone out.' I try to show empathy and patience every day. Then I can forgive a small mistake. I will listen first and talk later, and I will learn more every day. Please tell me about your work. Best, Daniel",
+      "sound": "Empathy has its strongest beat on EM. In empathy, say EM clearly at the start. In patience, say PA clearly at the start.",
+      "model": "Show empathy when you listen to her.",
+      "wordTask": "What is empathy?",
+      "wordSample": "It is understanding how another person feels."
+    },
+    {
+      "unit": 12,
+      "day": 91,
+      "title": "Saying sorry and making it right",
+      "goal": "I can talk about saying sorry and making it right.",
+      "newItems": [
+        {
+          "word": "sincere",
+          "ipa": "/sɪnˈsɪr/",
+          "pos": "adjective",
+          "definition": "Honest and true, not pretending.",
+          "example": "A sincere apology can fix a lot.",
+          "category": "new_word",
+          "status": "new",
+          "day": 91
+        },
+        {
+          "word": "feud",
+          "ipa": "/fjud/",
+          "pos": "noun",
+          "definition": "A long, angry fight between two people or groups.",
+          "example": "The feud between the teams lasted for years.",
+          "category": "new_word",
+          "status": "new",
+          "day": 91
+        },
+        {
+          "word": "make amends",
+          "ipa": "/meɪk əˈmɛndz/",
+          "pos": "fixed phrase",
+          "definition": "To do something good to fix a mistake.",
+          "example": "He wants to make amends for the row.",
+          "category": "fixed_phrase",
+          "status": "new",
+          "day": 91
+        },
+        {
+          "word": "swallow your pride",
+          "ipa": "/ˈswɑloʊ jɔr praɪd/",
+          "pos": "fixed phrase",
+          "definition": "To say sorry even when it is hard.",
+          "example": "Swallow your pride and say sorry.",
+          "category": "fixed_phrase",
+          "status": "new",
+          "day": 91
+        },
+        {
+          "word": "own up",
+          "ipa": "/oʊn ʌp/",
+          "pos": "fixed phrase",
+          "definition": "To say that you did something wrong.",
+          "example": "It is best to own up to your mistake.",
+          "category": "fixed_phrase",
+          "status": "new",
+          "day": 91
+        }
+      ],
+      "reviewWords": [
+        "sorry",
+        "good",
+        "time",
+        "day",
+        "home"
+      ],
+      "mainWord": {
+        "word": "sincere",
+        "ipa": "/sɪnˈsɪr/",
+        "pos": "adjective",
+        "definition": "Honest and true, not pretending.",
+        "example": "A sincere apology can fix a lot.",
+        "category": "new_word",
+        "status": "new",
+        "day": 91
+      },
+      "mainWordForms": "Sincere is an adjective. Honest and true, not pretending. A sincere apology can fix a lot.",
+      "pronunciationTarget": {
+        "word": "sincere",
+        "ipa": "/sɪnˈsɪr/"
+      },
+      "expression": "Swallow your pride and say sorry.",
+      "use": "Use this when you tell someone to say sorry even when it is hard.",
+      "expressionTask": "Priya talks to Maya about saying sorry after a feud. What should she do?",
+      "grammar": "Modal perfects for regret: I should have listened to her",
+      "pattern": "I should have listened to her.",
+      "task": "I should have ___ to her.",
+      "answer": "listened",
+      "example": "I should have listened to her.",
+      "context": [
+        "Priya talks to Maya about saying sorry after a feud.",
+        "Swallow your pride and say sorry. A sincere apology can fix a lot."
+      ],
+      "dialogue": [
+        "Priya: Maya, I had a feud with a client yesterday.",
+        "Maya: I am sorry to hear that. What will you do?",
+        "Priya: I will make amends for the row.",
+        "Maya: Good. Swallow your pride and say sorry.",
+        "Daniel: Yes. It is best to own up to your mistake.",
+        "Priya: True. A sincere apology can fix a lot."
+      ],
+      "listening": "On Wednesday, Priya talks to Maya about saying sorry after a feud. She says, 'I will make amends for the row.' Maya says, 'Swallow your pride and say sorry.' Daniel says, 'It is best to own up to your mistake. A sincere apology can fix a lot.' Maya says, 'A sincere apology can fix a lot.' Priya is happy.",
+      "question": "What will Priya do?",
+      "correct": "Make amends for the row",
+      "other": "Start a new feud",
+      "reading": "On Wednesday, Priya talks to Maya about saying sorry after a feud at Carter Retail Group. She says, 'I had a feud with a client yesterday. I should have listened to her, and I will make amends for the row.' Maya says, 'Swallow your pride and say sorry. A sincere apology can fix a lot.' Daniel says, 'Yes. It is best to own up to your mistake. A sincere word can end a feud fast.' Priya says, 'Good. I will make amends and say sorry today.' Maya is happy. She says, 'Good. A sincere apology shows you care.' Priya says, 'Good. I will make amends and say sorry today. A sincere apology shows you care, and a feud can end fast.' Maya says, 'Good. Own up to your mistake, and the team will help you.'",
+      "readingQ": "What will Priya do?",
+      "readingA": "She will make amends for the row and say sorry.",
+      "speaking": "Tell a friend about saying sorry after a feud. What happened? What did you do?",
+      "speakingSample": "I want to tell you about saying sorry after a feud. On Wednesday, Priya had a feud with a client. She said, 'I will make amends for the row.' Maya said, 'Swallow your pride and say sorry.' It is best to own up to your mistake. A sincere apology can fix a lot. A sincere apology can fix a lot, and I will say sorry too.",
+      "writing": "Write a short email to a friend. Tell them about saying sorry after a feud. Say what happened and what you did.",
+      "writingSample": "Dear Tom, I want to tell you about saying sorry after a feud. On Wednesday, Priya had a feud with a client. She said, 'I will make amends for the row.' Maya said, 'Swallow your pride and say sorry.' It is best to own up to your mistake. A sincere apology can fix a lot. I will say sorry and make amends too. I will say sorry and make amends, and I will learn more every day. Please tell me about your work. Best, Priya",
+      "sound": "Sincere has its strongest beat on CERE. In sincere, say CERE clearly at the end. In feud, say FEUD clearly.",
+      "model": "A sincere apology can fix a lot.",
+      "wordTask": "What does sincere mean?",
+      "wordSample": "It means honest and true, not pretending."
+    },
+    {
+      "unit": 12,
+      "day": 92,
+      "title": "Negotiating a solution",
+      "goal": "I can talk about negotiating a solution.",
+      "newItems": [
+        {
+          "word": "settlement",
+          "ipa": "/ˈsɛtəlmənt/",
+          "pos": "noun",
+          "definition": "An answer that ends a fight or a problem.",
+          "example": "They reached a settlement at last.",
+          "category": "new_word",
+          "status": "new",
+          "day": 92
+        },
+        {
+          "word": "diplomacy",
+          "ipa": "/dɪˈploʊməsi/",
+          "pos": "noun",
+          "definition": "Skill in talking so people agree without a fight.",
+          "example": "Diplomacy can end a long row.",
+          "category": "new_word",
+          "status": "new",
+          "day": 92
+        },
+        {
+          "word": "talk it through",
+          "ipa": "/tɔk ɪt θru/",
+          "pos": "fixed phrase",
+          "definition": "To talk about a problem in full.",
+          "example": "We need to talk it through together.",
+          "category": "fixed_phrase",
+          "status": "new",
+          "day": 92
+        },
+        {
+          "word": "think it over",
+          "ipa": "/θɪŋk ɪt ˈoʊvɚ/",
+          "pos": "fixed phrase",
+          "definition": "To think about something before you decide.",
+          "example": "Think it over before you answer.",
+          "category": "fixed_phrase",
+          "status": "new",
+          "day": 92
+        },
+        {
+          "word": "a win-win situation",
+          "ipa": "/ə wɪn wɪn ˌsɪtʃuˈeɪʃən/",
+          "pos": "fixed phrase",
+          "definition": "A result that is good for both sides.",
+          "example": "A compromise is a win-win situation.",
+          "category": "fixed_phrase",
+          "status": "new",
+          "day": 92
+        }
+      ],
+      "reviewWords": [
+        "agree",
+        "job",
+        "week",
+        "month",
+        "money"
+      ],
+      "mainWord": {
+        "word": "settlement",
+        "ipa": "/ˈsɛtəlmənt/",
+        "pos": "noun",
+        "definition": "An answer that ends a fight or a problem.",
+        "example": "They reached a settlement at last.",
+        "category": "new_word",
+        "status": "new",
+        "day": 92
+      },
+      "mainWordForms": "Settlement is a noun. An answer that ends a fight or a problem. They reached a settlement at last.",
+      "pronunciationTarget": {
+        "word": "settlement",
+        "ipa": "/ˈsɛtəlmənt/"
+      },
+      "expression": "We need to talk it through together.",
+      "use": "Use this when you tell someone to talk about a problem in full.",
+      "expressionTask": "Daniel talks to Maya about negotiating a solution. What should they do?",
+      "grammar": "Conditionals with unless and provided that: Unless we talk, the problem will grow",
+      "pattern": "Unless we talk, the problem will grow.",
+      "task": "Unless we ___, the problem will grow.",
+      "answer": "talk",
+      "example": "Unless we talk, the problem will grow.",
+      "context": [
+        "Daniel talks to Maya about negotiating a solution.",
+        "We need to talk it through together. Think it over, and find a win-win situation."
+      ],
+      "dialogue": [
+        "Daniel: Maya, how do we find a settlement?",
+        "Maya: We need to talk it through together.",
+        "Daniel: Good. Think it over before you answer.",
+        "Maya: Yes. Diplomacy can end a long row.",
+        "Priya: True. A win-win situation is good for both sides.",
+        "Daniel: Good. Unless we talk, the problem will grow."
+      ],
+      "listening": "On Thursday, Daniel talks to Maya about negotiating a solution. He says, 'How do we find a settlement?' Maya says, 'We need to talk it through together. Think it over before you answer.' Priya says, 'Diplomacy can end a long row. A win-win situation is good for both sides.' Daniel says, 'Thank you, Maya. I will talk it through.' Daniel is happy.",
+      "question": "What does Maya tell Daniel to do?",
+      "correct": "Talk it through together",
+      "other": "End the talk at once",
+      "reading": "On Thursday, Daniel talks to Maya about negotiating a solution at Carter Retail Group. He says, 'How do we find a settlement? Unless we talk, the problem will grow.' Maya says, 'We need to talk it through together. Think it over before you answer. Diplomacy can end a long row.' Priya says, 'Yes. A win-win situation is good for both sides. Think it over, and we can find a settlement today.' Daniel says, 'Good. I will talk it through with the team.' Maya is happy. She says, 'Good. A win-win situation helps us all.' Maya says, 'Good. Diplomacy can end a long row. A win-win situation helps us all, and we can find a settlement today.' Daniel says, 'Good. I will talk it through with the team and think it over first.'",
+      "readingQ": "What does Maya tell Daniel to do?",
+      "readingA": "Talk it through together, think it over, and find a win-win situation.",
+      "speaking": "Tell a friend about negotiating a solution. What did you do? What was the answer?",
+      "speakingSample": "I want to tell you about negotiating a solution. On Thursday, Daniel asked how to find a settlement. Maya said, 'We need to talk it through together. Think it over before you answer.' Diplomacy can end a long row. A win-win situation is good for both sides. Diplomacy can end a long row, and I will talk it through with my team.",
+      "writing": "Write a short email to a friend. Tell them about negotiating a solution. Say what you did and what the answer was.",
+      "writingSample": "Dear Lisa, I want to tell you about negotiating a solution. On Thursday, Daniel asked how to find a settlement. Maya said, 'We need to talk it through together. Think it over before you answer.' Diplomacy can end a long row. A win-win situation is good for both sides. I will talk it through with my team too. I will talk it through with my team, and I will think it over first. Please tell me about your work. Best, Daniel",
+      "sound": "Settlement has its strongest beat on SET. In settlement, say SET clearly at the start. In diplomacy, say PLO clearly in the middle.",
+      "model": "They reached a settlement at last.",
+      "wordTask": "What is a settlement?",
+      "wordSample": "It is an answer that ends a fight or a problem."
+    },
+    {
+      "unit": 12,
+      "day": 93,
+      "title": "When a talk gets heated",
+      "goal": "I can talk about a talk that gets heated.",
+      "newItems": [
+        {
+          "word": "temper",
+          "ipa": "/ˈtɛmpɚ/",
+          "pos": "noun",
+          "definition": "The feeling of being angry and quick to shout.",
+          "example": "Keep your temper when the talk gets hard.",
+          "category": "new_word",
+          "status": "new",
+          "day": 93
+        },
+        {
+          "word": "frustration",
+          "ipa": "/frʌˈstreɪʃən/",
+          "pos": "noun",
+          "definition": "The feeling of being upset because things go wrong.",
+          "example": "Her frustration grew as the talk went on.",
+          "category": "new_word",
+          "status": "new",
+          "day": 93
+        },
+        {
+          "word": "heated",
+          "ipa": "/ˈhitəd/",
+          "pos": "adjective",
+          "definition": "Full of strong, angry feelings.",
+          "example": "The talk became heated very fast.",
+          "category": "new_word",
+          "status": "new",
+          "day": 93
+        },
+        {
+          "word": "in the heat of the moment",
+          "ipa": "/ɪn ðə hit əv ðə ˈmoʊmənt/",
+          "pos": "fixed phrase",
+          "definition": "While you are angry and not thinking well.",
+          "example": "In the heat of the moment, he said too much.",
+          "category": "fixed_phrase",
+          "status": "new",
+          "day": 93
+        },
+        {
+          "word": "keep your cool",
+          "ipa": "/kip jɔr kul/",
+          "pos": "fixed phrase",
+          "definition": "To stay calm when things get hard.",
+          "example": "Keep your cool in a hard talk.",
+          "category": "fixed_phrase",
+          "status": "new",
+          "day": 93
+        }
+      ],
+      "reviewWords": [
+        "angry",
+        "late",
+        "early",
+        "busy",
+        "free"
+      ],
+      "mainWord": {
+        "word": "temper",
+        "ipa": "/ˈtɛmpɚ/",
+        "pos": "noun",
+        "definition": "The feeling of being angry and quick to shout.",
+        "example": "Keep your temper when the talk gets hard.",
+        "category": "new_word",
+        "status": "new",
+        "day": 93
+      },
+      "mainWordForms": "Temper is a noun. The feeling of being angry and quick to shout. Keep your temper when the talk gets hard.",
+      "pronunciationTarget": {
+        "word": "temper",
+        "ipa": "/ˈtɛmpɚ/"
+      },
+      "expression": "Keep your cool in a hard talk.",
+      "use": "Use this when you tell someone to stay calm when things get hard.",
+      "expressionTask": "Maya talks to Daniel about a talk that gets heated. What should he do?",
+      "grammar": "Hedging: It seems that the team is upset",
+      "pattern": "It seems that the team is upset.",
+      "task": "It seems that the team is ___.",
+      "answer": "upset",
+      "example": "It seems that the team is upset.",
+      "context": [
+        "Maya talks to Daniel about a talk that gets heated.",
+        "Keep your cool in a hard talk. In the heat of the moment, people say too much."
+      ],
+      "dialogue": [
+        "Maya: Daniel, the talk got heated today.",
+        "Daniel: What happened? Did people lose their temper?",
+        "Maya: Yes. Frustration grew as the talk went on.",
+        "Daniel: In the heat of the moment, he said too much.",
+        "Priya: True. Keep your cool in a hard talk.",
+        "Maya: Good. It seems that the team is upset, so let us wait."
+      ],
+      "listening": "On Friday, Maya talks to Daniel about a talk that got heated. She says, 'Frustration grew as the talk went on.' Daniel says, 'In the heat of the moment, he said too much.' Priya says, 'Keep your cool in a hard talk. It seems that the team is upset, so let us wait.' Daniel is happy.",
+      "question": "What does Priya tell Daniel to do?",
+      "correct": "Keep your cool in a hard talk",
+      "other": "Shout at the team",
+      "reading": "On Friday, Maya talks to Daniel about a talk that got heated at Carter Retail Group. She says, 'The talk got heated today. Frustration grew as the talk went on, and people lost their temper.' Daniel says, 'In the heat of the moment, he said too much. It seems that the team is upset.' Priya says, 'Yes. Keep your cool in a hard talk. A heated talk needs time, so let us wait.' Maya says, 'Good. Do not lose your temper. Keep your cool, and the team will calm down.' Daniel is happy. He says, 'Thank you, Maya. I will keep my cool in a hard talk.' Maya says, 'Good. Do not lose your temper. Keep your cool, and the team will calm down soon.' Daniel says, 'Good. I will keep my cool and wait for a good time to talk.'",
+      "readingQ": "What does Priya tell Daniel to do?",
+      "readingA": "Keep your cool in a hard talk, and do not lose your temper.",
+      "speaking": "Tell a friend about a talk that got heated. What happened? What did you do?",
+      "speakingSample": "I want to tell you about a talk that got heated. On Friday, the talk got heated at work. Frustration grew as the talk went on, and people lost their temper. In the heat of the moment, he said too much. Keep your cool in a hard talk. Keep your cool in a hard talk, and wait for a good time.",
+      "writing": "Write a short email to a friend. Tell them about a talk that got heated. Say what happened and what you did.",
+      "writingSample": "Dear Tom, I want to tell you about a talk that got heated. On Friday, the talk got heated at work. Frustration grew as the talk went on, and people lost their temper. In the heat of the moment, he said too much. Keep your cool in a hard talk. I will wait and talk again tomorrow. I will wait and talk again tomorrow, and I will keep my cool. Please tell me about your work. Best, Daniel",
+      "sound": "Temper has its strongest beat on TEM. In temper, say TEM clearly at the start. In frustration, say TRA clearly in the middle.",
+      "model": "Keep your temper when the talk gets hard.",
+      "wordTask": "What is temper?",
+      "wordSample": "It is the feeling of being angry and quick to shout."
+    },
+    {
+      "unit": 12,
+      "day": 94,
+      "title": "A difficult talk with a client",
+      "goal": "I can talk about a difficult talk with a client.",
+      "newItems": [
+        {
+          "word": "accusation",
+          "ipa": "/ˌækjəˈzeɪʃən/",
+          "pos": "noun",
+          "definition": "Saying that someone did something wrong.",
+          "example": "His accusation was not fair.",
+          "category": "new_word",
+          "status": "new",
+          "day": 94
+        },
+        {
+          "word": "denial",
+          "ipa": "/dɪˈnaɪəl/",
+          "pos": "noun",
+          "definition": "Saying that something is not true.",
+          "example": "Her denial did not help the talk.",
+          "category": "new_word",
+          "status": "new",
+          "day": 94
+        },
+        {
+          "word": "clear the air",
+          "ipa": "/klɪr ði ɛr/",
+          "pos": "fixed phrase",
+          "definition": "To talk openly so bad feelings go away.",
+          "example": "A good talk can clear the air.",
+          "category": "fixed_phrase",
+          "status": "new",
+          "day": 94
+        },
+        {
+          "word": "get to the bottom of it",
+          "ipa": "/ɡɛt tə ðə ˈbɑtəm əv ɪt/",
+          "pos": "fixed phrase",
+          "definition": "To find the real cause of a problem.",
+          "example": "We must get to the bottom of it.",
+          "category": "fixed_phrase",
+          "status": "new",
+          "day": 94
+        },
+        {
+          "word": "speak your mind",
+          "ipa": "/spik jɔr maɪnd/",
+          "pos": "fixed phrase",
+          "definition": "To say what you really think.",
+          "example": "Please speak your mind in the talk.",
+          "category": "fixed_phrase",
+          "status": "new",
+          "day": 94
+        }
+      ],
+      "reviewWords": [
+        "client",
+        "email",
+        "phone",
+        "lunch",
+        "call"
+      ],
+      "mainWord": {
+        "word": "accusation",
+        "ipa": "/ˌækjəˈzeɪʃən/",
+        "pos": "noun",
+        "definition": "Saying that someone did something wrong.",
+        "example": "His accusation was not fair.",
+        "category": "new_word",
+        "status": "new",
+        "day": 94
+      },
+      "mainWordForms": "Accusation is a noun. Saying that someone did something wrong. His accusation was not fair.",
+      "pronunciationTarget": {
+        "word": "accusation",
+        "ipa": "/ˌækjəˈzeɪʃən/"
+      },
+      "expression": "A good talk can clear the air.",
+      "use": "Use this when you talk about a talk that makes bad feelings go away.",
+      "expressionTask": "Daniel talks to Maya about a difficult talk with a client. What can help?",
+      "grammar": "Participle clauses: Having listened to both sides, Maya found the cause",
+      "pattern": "Having listened to both sides, Maya found the cause.",
+      "task": "Having listened to both sides, Maya ___ the cause.",
+      "answer": "found",
+      "example": "Having listened to both sides, Maya found the cause.",
+      "context": [
+        "Daniel talks to Maya about a difficult talk with a client.",
+        "A good talk can clear the air. We must get to the bottom of it."
+      ],
+      "dialogue": [
+        "Daniel: Maya, the client made an accusation today.",
+        "Maya: What did he say? Was it fair?",
+        "Daniel: No. Her denial did not help the talk.",
+        "Maya: A good talk can clear the air.",
+        "Priya: Yes. We must get to the bottom of it.",
+        "Daniel: Good. Please speak your mind in the talk."
+      ],
+      "listening": "On Saturday, Daniel talks to Maya about a difficult talk with a client. He says, 'The client made an accusation today.' Maya says, 'A good talk can clear the air. We must get to the bottom of it.' Priya says, 'Yes. Please speak your mind in the talk.' Daniel says, 'Thank you, Maya. I will speak my mind.' Daniel is happy.",
+      "question": "What does Maya say a good talk can do?",
+      "correct": "Clear the air",
+      "other": "End the work at once",
+      "reading": "On Saturday, Daniel talks to Maya about a difficult talk with a client at Carter Retail Group. He says, 'The client made an accusation today. Her denial did not help the talk.' Maya says, 'A good talk can clear the air. Having listened to both sides, I found the cause. We must get to the bottom of it.' Priya says, 'Yes. Please speak your mind in the talk. A good talk can clear the air and help us all.' Daniel says, 'Good. I will speak my mind and ask good questions.' Maya is happy. She says, 'Good. Get to the bottom of it, and the client will be happy.' Maya says, 'Good. Get to the bottom of it, and the client will be happy. A good talk can clear the air.'",
+      "readingQ": "What does Maya say a good talk can do?",
+      "readingA": "Clear the air, and help them get to the bottom of it.",
+      "speaking": "Tell a friend about a difficult talk with a client. What happened? What did you learn?",
+      "speakingSample": "I want to tell you about a difficult talk with a client. On Saturday, the client made an accusation. Her denial did not help the talk. A good talk can clear the air. We must get to the bottom of it. Please speak your mind in the talk. I will listen and ask good questions, and I will speak my mind.",
+      "writing": "Write a short email to a friend. Tell them about a difficult talk with a client. Say what happened and what you learned.",
+      "writingSample": "Dear Anna, I want to tell you about a difficult talk with a client. On Saturday, the client made an accusation. Her denial did not help the talk. A good talk can clear the air. We must get to the bottom of it. Please speak your mind in the talk. I will listen and ask good questions. I will listen and ask good questions every day at work. Please tell me about your work. Best, Daniel",
+      "sound": "Accusation has its strongest beat on SA. In accusation, say SA clearly in the middle. In denial, say NI clearly in the middle.",
+      "model": "His accusation was not fair.",
+      "wordTask": "What is an accusation?",
+      "wordSample": "It is saying that someone did something wrong."
+    },
+    {
+      "unit": 12,
+      "day": 95,
+      "title": "Mediation: helping others agree",
+      "goal": "I can talk about helping others agree.",
+      "newItems": [
+        {
+          "word": "resolution",
+          "ipa": "/ˌrɛzəˈluʃən/",
+          "pos": "noun",
+          "definition": "A good answer that ends a problem.",
+          "example": "We found a resolution that pleased both sides.",
+          "category": "new_word",
+          "status": "new",
+          "day": 95
+        },
+        {
+          "word": "reconcile",
+          "ipa": "/ˈrɛkənˌsaɪl/",
+          "pos": "verb",
+          "definition": "To make two people friendly again after a fight.",
+          "example": "Time can help them reconcile.",
+          "category": "new_word",
+          "status": "new",
+          "day": 95
+        },
+        {
+          "word": "impartial",
+          "ipa": "/ɪmˈpɑrʃəl/",
+          "pos": "adjective",
+          "definition": "Fair to both sides, not favouring one side.",
+          "example": "An impartial judge listens to both sides.",
+          "category": "new_word",
+          "status": "new",
+          "day": 95
+        },
+        {
+          "word": "patch things up",
+          "ipa": "/pætʃ θɪŋz ʌp/",
+          "pos": "fixed phrase",
+          "definition": "To fix a bad feeling between people.",
+          "example": "They met to patch things up.",
+          "category": "fixed_phrase",
+          "status": "new",
+          "day": 95
+        },
+        {
+          "word": "bury the hatchet",
+          "ipa": "/ˈbɛri ðə ˈhætʃət/",
+          "pos": "fixed phrase",
+          "definition": "To end a fight and be friendly again.",
+          "example": "It is time to bury the hatchet.",
+          "category": "fixed_phrase",
+          "status": "new",
+          "day": 95
+        }
+      ],
+      "reviewWords": [
+        "idea",
+        "story",
+        "question",
+        "book",
+        "school"
+      ],
+      "mainWord": {
+        "word": "resolution",
+        "ipa": "/ˌrɛzəˈluʃən/",
+        "pos": "noun",
+        "definition": "A good answer that ends a problem.",
+        "example": "We found a resolution that pleased both sides.",
+        "category": "new_word",
+        "status": "new",
+        "day": 95
+      },
+      "mainWordForms": "Resolution is a noun. A good answer that ends a problem. We found a resolution that pleased both sides.",
+      "pronunciationTarget": {
+        "word": "resolution",
+        "ipa": "/ˌrɛzəˈluʃən/"
+      },
+      "expression": "It is time to bury the hatchet.",
+      "use": "Use this when you tell someone it is time to end a fight and be friendly again.",
+      "expressionTask": "Maya talks to Daniel about helping others agree. What should they do?",
+      "grammar": "Cleft sentences: What matters most is that both sides feel heard",
+      "pattern": "What matters most is that both sides feel heard.",
+      "task": "What matters most is that both sides feel ___.",
+      "answer": "heard",
+      "example": "What matters most is that both sides feel heard.",
+      "context": [
+        "Maya talks to Daniel about helping others agree.",
+        "It is time to bury the hatchet. They met to patch things up."
+      ],
+      "dialogue": [
+        "Maya: Daniel, can you help two teams agree?",
+        "Daniel: Yes. We found a resolution that pleased both sides.",
+        "Maya: Good. An impartial person listens to both sides.",
+        "Daniel: True. Time can help them reconcile.",
+        "Priya: Yes. They met to patch things up.",
+        "Maya: Good. It is time to bury the hatchet."
+      ],
+      "listening": "On Sunday, Maya talks to Daniel about helping others agree. She says, 'An impartial person listens to both sides.' Daniel says, 'We found a resolution that pleased both sides. Time can help them reconcile.' Priya says, 'They met to patch things up. It is time to bury the hatchet.' Daniel says, 'Thank you, Maya. I will help others agree.' Daniel is happy.",
+      "question": "What does Priya say the teams did?",
+      "correct": "They met to patch things up",
+      "other": "They started a new fight",
+      "reading": "On Sunday, Maya talks to Daniel about helping others agree at Carter Retail Group. She says, 'An impartial person listens to both sides. What matters most is that both sides feel heard.' Daniel says, 'We found a resolution that pleased both sides. Time can help them reconcile.' Priya says, 'Yes. They met to patch things up. It is time to bury the hatchet and be friendly again.' Maya says, 'Good. A resolution needs an impartial ear. Patch things up with kind words.' Daniel is happy. He says, 'Thank you, Maya. I will help others agree.' Daniel says, 'Good. A resolution needs an impartial ear. Patch things up with kind words, and bury the hatchet.' Maya says, 'Good. Time can help them reconcile, and a resolution helps us all work well together.'",
+      "readingQ": "What does Priya say the teams did?",
+      "readingA": "They met to patch things up, and it is time to bury the hatchet.",
+      "speaking": "Tell a friend about helping others agree. What did you do? What was the answer?",
+      "speakingSample": "I want to tell you about helping others agree. On Sunday, Maya talked about an impartial person. She said, 'An impartial person listens to both sides.' We found a resolution that pleased both sides. They met to patch things up. It is time to bury the hatchet. Time can help them reconcile, and a resolution helps us all work well together.",
+      "writing": "Write a short email to a friend. Tell them about helping others agree. Say what you did and what the answer was.",
+      "writingSample": "Dear Tom, I want to tell you about helping others agree. On Sunday, Maya talked about an impartial person. She said, 'An impartial person listens to both sides.' We found a resolution that pleased both sides. Time can help them reconcile. They met to patch things up. It is time to bury the hatchet. I will help others agree at work, and I will learn more about mediation every day. Please tell me about your work. Best, Daniel",
+      "sound": "Resolution has its strongest beat on LU. In resolution, say LU clearly in the middle. In reconcile, say CON clearly in the middle.",
+      "model": "We found a resolution that pleased both sides.",
+      "wordTask": "What is a resolution?",
+      "wordSample": "It is a good answer that ends a problem."
+    },
+    {
+      "unit": 12,
+      "day": 96,
+      "title": "Use conflict English in a new situation",
+      "goal": "I can use conflict English in a new situation.",
+      "newItems": [
+        {
+          "word": "assertive",
+          "ipa": "/əˈsɝtɪv/",
+          "pos": "adjective",
+          "definition": "Saying what you think in a calm, strong way.",
+          "example": "Be assertive, but stay polite.",
+          "category": "new_word",
+          "status": "new",
+          "day": 96
+        },
+        {
+          "word": "outburst",
+          "ipa": "/ˈaʊtˌbɝst/",
+          "pos": "noun",
+          "definition": "A sudden show of strong feeling, like anger.",
+          "example": "His outburst shocked the whole team.",
+          "category": "new_word",
+          "status": "new",
+          "day": 96
+        },
+        {
+          "word": "smooth things over",
+          "ipa": "/smuð θɪŋz ˈoʊvɚ/",
+          "pos": "fixed phrase",
+          "definition": "To make a bad feeling go away with kind words.",
+          "example": "A kind talk can smooth things over.",
+          "category": "fixed_phrase",
+          "status": "new",
+          "day": 96
+        },
+        {
+          "word": "give in",
+          "ipa": "/ɡɪv ɪn/",
+          "pos": "fixed phrase",
+          "definition": "To agree to what someone else wants.",
+          "example": "Do not give in too fast.",
+          "category": "fixed_phrase",
+          "status": "new",
+          "day": 96
+        },
+        {
+          "word": "sleep on it",
+          "ipa": "/slip ɑn ɪt/",
+          "pos": "fixed phrase",
+          "definition": "To think about something overnight.",
+          "example": "Sleep on it and tell me tomorrow.",
+          "category": "fixed_phrase",
+          "status": "new",
+          "day": 96
+        }
+      ],
+      "reviewWords": [
+        "new",
+        "old",
+        "big",
+        "small",
+        "easy"
+      ],
+      "mainWord": {
+        "word": "assertive",
+        "ipa": "/əˈsɝtɪv/",
+        "pos": "adjective",
+        "definition": "Saying what you think in a calm, strong way.",
+        "example": "Be assertive, but stay polite.",
+        "category": "new_word",
+        "status": "new",
+        "day": 96
+      },
+      "mainWordForms": "Assertive is an adjective. Saying what you think in a calm, strong way. Be assertive, but stay polite.",
+      "pronunciationTarget": {
+        "word": "assertive",
+        "ipa": "/əˈsɝtɪv/"
+      },
+      "expression": "Be assertive, but stay polite.",
+      "use": "Use this when you tell someone to say what they think in a calm, strong way.",
+      "expressionTask": "Daniel meets Sara at a community centre. What does Sara want to do?",
+      "grammar": "Review: I can use conflict English in a new situation",
+      "pattern": "I can use conflict English in a new situation.",
+      "task": "I can ___ conflict English in a new situation.",
+      "answer": "use",
+      "example": "I can use conflict English in a new situation.",
+      "context": [
+        "Daniel meets Sara at a community centre.",
+        "Be assertive, but stay polite. A kind talk can smooth things over."
+      ],
+      "dialogue": [
+        "Daniel: Sara, have you had a conflict at work?",
+        "Sara: Yes. There was an outburst in our team.",
+        "Daniel: What did you do? Did you give in?",
+        "Sara: No. I was assertive, but I stayed polite.",
+        "Daniel: Good. Sleep on it and tell me tomorrow.",
+        "Sara: Yes. A kind talk can smooth things over."
+      ],
+      "listening": "On Monday, Daniel meets Sara at a community centre. Sara says, 'There was an outburst in our team. I was assertive, but I stayed polite.' Daniel says, 'Good. Sleep on it and tell me tomorrow.' Sara says, 'Yes. A kind talk can smooth things over.' Sara says, 'A kind talk can smooth things over.' Daniel is happy.",
+      "question": "What does Sara say she was?",
+      "correct": "Assertive, but polite",
+      "other": "Angry and rude",
+      "reading": "On Monday, Daniel meets Sara at a community centre. Sara says, 'There was an outburst in our team. I was assertive, but I stayed polite. I did not give in to the angry words.' Daniel says, 'Good. Be assertive, but stay polite. Sleep on it and tell me tomorrow.' Sara says, 'Yes. A kind talk can smooth things over. I can use conflict English in a new situation, and you can too.' Daniel says, 'Good. An outburst is not the end. Smooth things over with kind words.' Sara is happy. She says, 'Thank you. I will stay assertive and polite.' Daniel says, 'Good. An outburst is not the end. Smooth things over with kind words, and stay assertive.' Sara says, 'Yes. I will stay assertive and polite, and I will sleep on it tonight.'",
+      "readingQ": "What does Sara say she was?",
+      "readingA": "Assertive, but polite, and she did not give in.",
+      "speaking": "Tell a friend about a conflict in a new situation. What did you do? How did it end?",
+      "speakingSample": "I want to tell you about a conflict in a new situation. On Monday, Daniel met Sara at a community centre. Sara said, 'There was an outburst in our team. I was assertive, but I stayed polite.' Sleep on it and tell me tomorrow. A kind talk can smooth things over. A kind talk can smooth things over, and I will stay assertive.",
+      "writing": "Write a short email to a friend. Tell them about a conflict in a new situation. Say what you did and how it ended.",
+      "writingSample": "Dear Anna, I want to tell you about a conflict in a new situation. On Monday, Daniel met Sara at a community centre. Sara said, 'There was an outburst in our team. I was assertive, but I stayed polite. I did not give in to the angry words.' A kind talk can smooth things over. I will stay assertive and polite too. I will stay assertive and polite, and I will sleep on it tonight. Please tell me about your work. Best, Sara",
+      "sound": "Assertive has its strongest beat on SER. In assertive, say SER clearly in the middle. In outburst, say OUT clearly at the start.",
+      "model": "Be assertive, but stay polite.",
+      "wordTask": "What does assertive mean?",
+      "wordSample": "It means saying what you think in a calm, strong way.",
+      "transferCheck": {
+        "source": "On Tuesday, Sara reads a note from her neighbour about a loud party. It says a kind talk can smooth things over. Sara talks to her friend Tom at a community centre. She says, 'I was assertive, but I stayed polite. I did not give in to the angry words.' Tom says, 'Good. Sleep on it and tell me tomorrow.' Sara says, 'Yes. An outburst is not the end.' Tom says, 'Good. Be assertive, but stay polite.' Sara is happy.",
+        "dictation": "Be assertive, but stay polite.",
+        "answer": "1. The new checker is Sara. She reads a note from her neighbour about a loud party and talks to her friend Tom at a community centre. 2. Sara's first job is to say that she was assertive, but she stayed polite. 3. On Tuesday, Sara says, 'I was assertive, but I stayed polite.' 4. Be assertive, but stay polite. 5. Sample: On Tuesday, Sara reads a note from her neighbour about a loud party. It says a kind talk can smooth things over. Sara talks to her friend Tom at a community centre. She says, 'I was assertive, but I stayed polite. I did not give in to the angry words.' Tom says, 'Good. Sleep on it and tell me tomorrow.' Sara says, 'Yes. An outburst is not the end.' Tom says, 'Good. Be assertive, but stay polite.' Follow-up: What does Tom tell Sara to do? Sleep on it and tell him tomorrow.",
+        "tasks": [
+          [
+            "1 · Identify the people and the new situation",
+            "Who is the new checker, and what does she read?"
+          ],
+          [
+            "2 · Work out what Sara does first",
+            "What is Sara's first job, and what does she say?"
+          ],
+          [
+            "3 · Notice the sentence on Tuesday",
+            "What does Sara say on Tuesday?"
+          ],
+          [
+            "4 · Listen and write",
+            "Write the sentence you hear."
+          ],
+          [
+            "5 · Retell and answer",
+            "Tell the story in order, including the people, the new situation, the first talk, and the result. Then answer one follow-up question."
+          ]
+        ]
+      }
+    }
+  ]
+}

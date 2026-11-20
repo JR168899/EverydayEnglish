@@ -1,0 +1,953 @@
+{
+  "number": 14,
+  "title": "Health, science and everyday choices",
+  "lessons": [
+    {
+      "unit": 14,
+      "day": 105,
+      "title": "What is good health?",
+      "goal": "I can talk about good health.",
+      "newItems": [
+        {
+          "day": 105,
+          "word": "diagnosis",
+          "category": "new_word",
+          "pos": "noun",
+          "definition": "A doctor's finding about what is wrong with you.",
+          "example": "The diagnosis was good news.",
+          "status": "new",
+          "ipa": "/ˌdaɪəɡˈnoʊsɪs/"
+        },
+        {
+          "day": 105,
+          "word": "treatment",
+          "category": "new_word",
+          "pos": "noun",
+          "definition": "Care that helps a sick person get better.",
+          "example": "The treatment took three weeks.",
+          "status": "new",
+          "ipa": "/ˈtritmənt/"
+        },
+        {
+          "day": 105,
+          "word": "recovery",
+          "category": "new_word",
+          "pos": "noun",
+          "definition": "The time when you get better after being ill.",
+          "example": "His recovery took a month.",
+          "status": "new",
+          "ipa": "/rɪˈkʌvəri/"
+        },
+        {
+          "day": 105,
+          "word": "a balanced diet",
+          "category": "fixed_phrase",
+          "pos": "fixed phrase",
+          "definition": "A way of eating with the right mix of foods.",
+          "example": "Eat a balanced diet every day.",
+          "status": "new",
+          "ipa": "/ə ˈbælənst ˈdaɪət/"
+        },
+        {
+          "day": 105,
+          "word": "stay in shape",
+          "category": "fixed_phrase",
+          "pos": "fixed phrase",
+          "definition": "To keep your body fit and healthy.",
+          "example": "She runs to stay in shape.",
+          "status": "new",
+          "ipa": "/steɪ ɪn ʃeɪp/"
+        }
+      ],
+      "reviewWords": [
+        "health",
+        "doctor",
+        "food",
+        "time",
+        "day"
+      ],
+      "mainWord": {
+        "day": 105,
+        "word": "diagnosis",
+        "category": "new_word",
+        "pos": "noun",
+        "definition": "A doctor's finding about what is wrong with you.",
+        "example": "The diagnosis was good news.",
+        "status": "new",
+        "ipa": "/ˌdaɪəɡˈnoʊsɪs/"
+      },
+      "mainWordForms": "Diagnosis is a noun. A doctor's finding about what is wrong with you. The diagnosis was good news.",
+      "pronunciationTarget": {
+        "word": "diagnosis",
+        "ipa": "/ˌdaɪəɡˈnoʊsɪs/"
+      },
+      "expression": "We eat a balanced diet every day.",
+      "use": "Use this when you tell someone how you eat to stay well.",
+      "expressionTask": "Maya talks to Daniel about good health. What does she eat?",
+      "grammar": "Third conditional: If I had slept more, I would have felt better",
+      "pattern": "If I had slept more, I would have felt better.",
+      "task": "If I had slept more, I would have ___ better.",
+      "answer": "felt",
+      "example": "If I had slept more, I would have felt better.",
+      "context": [
+        "Maya talks to Daniel about good health at work.",
+        "We eat a balanced diet every day. Good health helps you stay in shape."
+      ],
+      "dialogue": [
+        "Maya: Daniel, what is good health?",
+        "Daniel: Good health means a strong body and a calm mind.",
+        "Maya: True. We eat a balanced diet every day.",
+        "Daniel: Yes. A good diagnosis helps the doctor plan treatment.",
+        "Priya: True. Rest helps your recovery after hard work.",
+        "Maya: Good. Eat well and stay in shape every day."
+      ],
+      "listening": "On Monday, Maya talks to Daniel about good health at work. She says, 'We eat a balanced diet every day. Good health helps you stay in shape.' Daniel says, 'A good diagnosis helps the doctor plan treatment.' Priya says, 'Good. Rest helps your recovery after hard work.' Daniel says, 'Thank you, Maya.' Daniel is happy.",
+      "question": "What does Maya eat every day?",
+      "correct": "A balanced diet",
+      "other": "A lot of cake",
+      "reading": "On Monday, Maya talks to Daniel about good health at work at Carter Retail Group. She says, 'We eat a balanced diet every day. Good health helps you stay in shape. If I had slept more, I would have felt better.' Daniel says, 'A good diagnosis helps the doctor plan treatment. Rest helps your recovery after hard work.' Priya says, 'True. A balanced diet gives you energy. Stay in shape with good food and rest.' Maya says, 'Good. A diagnosis tells the doctor what is wrong. Treatment helps you get well, and recovery takes time.' Daniel is happy. He says, 'Thank you, Maya. I will eat a balanced diet and stay in shape.' Maya says, 'Good. Eat a balanced diet every day, and stay in shape with good food and rest.' Daniel says, 'Good. I will stay in shape and eat well every day.'",
+      "readingQ": "What does Maya say about good health?",
+      "readingA": "Eat a balanced diet every day, and stay in shape with good food and rest.",
+      "speaking": "Tell a friend about good health. What do you eat? How do you stay well?",
+      "speakingSample": "I want to tell you about good health. On Monday, Maya talked about good health at work. She said, 'We eat a balanced diet every day. Good health helps you stay in shape.' A good diagnosis helps the doctor plan treatment. Rest helps your recovery after hard work. I will eat a balanced diet and stay in shape every day.",
+      "writing": "Write a short email to a friend. Tell them about good health. Say what you do and what you learned.",
+      "writingSample": "Dear Tom, I want to tell you about good health. On Monday, Maya talked about good health at work. She said, 'We eat a balanced diet every day. Good health helps you stay in shape.' A good diagnosis helps the doctor plan treatment. Rest helps your recovery after hard work. I will eat a balanced diet and stay in shape every day. I will eat well and rest well every day. Please tell me about your work. Best, Daniel",
+      "sound": "Diagnosis has its strongest beat on NO. In diagnosis, say NO clearly in the middle. In treatment, say TREAT clearly at the start.",
+      "model": "The diagnosis was good news.",
+      "wordTask": "What is a diagnosis?",
+      "wordSample": "It is a doctor's finding about what is wrong with you."
+    },
+    {
+      "unit": 14,
+      "day": 106,
+      "title": "Food and the body",
+      "goal": "I can talk about food and the body.",
+      "newItems": [
+        {
+          "day": 106,
+          "word": "nutrition",
+          "category": "new_word",
+          "pos": "noun",
+          "definition": "The food you eat and how it helps your body.",
+          "example": "Good nutrition keeps you strong.",
+          "status": "new",
+          "ipa": "/nuˈtrɪʃən/"
+        },
+        {
+          "day": 106,
+          "word": "obesity",
+          "category": "new_word",
+          "pos": "noun",
+          "definition": "The state of being very overweight.",
+          "example": "Obesity can cause health problems.",
+          "status": "new",
+          "ipa": "/oʊˈbisəti/"
+        },
+        {
+          "day": 106,
+          "word": "cut down on sugar",
+          "category": "fixed_phrase",
+          "pos": "fixed phrase",
+          "definition": "To eat or drink less sugar.",
+          "example": "He tries to cut down on sugar.",
+          "status": "new",
+          "ipa": "/kʌt daʊn ɑn ˈʃʊɡɚ/"
+        },
+        {
+          "day": 106,
+          "word": "junk food",
+          "category": "fixed_phrase",
+          "pos": "fixed phrase",
+          "definition": "Food that is tasty but not good for you.",
+          "example": "Junk food has a lot of sugar.",
+          "status": "new",
+          "ipa": "/dʒʌŋk fud/"
+        },
+        {
+          "day": 106,
+          "word": "fast food",
+          "category": "fixed_phrase",
+          "pos": "fixed phrase",
+          "definition": "Food you buy ready to eat, often with a lot of fat.",
+          "example": "Fast food is quick but not healthy.",
+          "status": "new",
+          "ipa": "/fæst fud/"
+        }
+      ],
+      "reviewWords": [
+        "water",
+        "morning",
+        "eat",
+        "sleep",
+        "good"
+      ],
+      "mainWord": {
+        "day": 106,
+        "word": "nutrition",
+        "category": "new_word",
+        "pos": "noun",
+        "definition": "The food you eat and how it helps your body.",
+        "example": "Good nutrition keeps you strong.",
+        "status": "new",
+        "ipa": "/nuˈtrɪʃən/"
+      },
+      "mainWordForms": "Nutrition is a noun. The food you eat and how it helps your body. Good nutrition keeps you strong.",
+      "pronunciationTarget": {
+        "word": "nutrition",
+        "ipa": "/nuˈtrɪʃən/"
+      },
+      "expression": "He tries to cut down on sugar.",
+      "use": "Use this when you tell someone to eat or drink less sugar.",
+      "expressionTask": "Maya talks to Daniel about food. What should he eat less of?",
+      "grammar": "Mixed conditional: If I ate less sugar, I would be healthier now",
+      "pattern": "If I ate less sugar, I would be healthier now.",
+      "task": "If I ate less sugar, I would be ___ now.",
+      "answer": "healthier",
+      "example": "If I ate less sugar, I would be healthier now.",
+      "context": [
+        "Maya talks to Daniel about food and the body.",
+        "He tries to cut down on sugar. Junk food is not good for the body."
+      ],
+      "dialogue": [
+        "Maya: Daniel, what is good nutrition?",
+        "Daniel: Good nutrition means the right food for your body.",
+        "Maya: True. He tries to cut down on sugar.",
+        "Daniel: Yes. Junk food is not good for the body.",
+        "Priya: True. Fast food is quick but not healthy.",
+        "Maya: Good. Obesity can come from bad food."
+      ],
+      "listening": "On Tuesday, Maya talks to Daniel about food and the body. She says, 'He tries to cut down on sugar. Junk food is not good for the body.' Daniel says, 'Good nutrition means the right food for your body. Fast food is quick but not healthy.' Priya says, 'True. Obesity can come from bad food.' Daniel says, 'Thank you, Maya.' Daniel is happy.",
+      "question": "What does Maya say about junk food?",
+      "correct": "It is not good for the body",
+      "other": "It is the best food",
+      "reading": "On Tuesday, Maya talks to Daniel about food and the body at Carter Retail Group. She says, 'He tries to cut down on sugar. Junk food is not good for the body. If I ate less sugar, I would be healthier now.' Daniel says, 'Good nutrition means the right food for your body. Fast food is quick but not healthy.' Priya says, 'True. Obesity can come from bad food. Cut down on sugar and eat good food.' Maya says, 'Good. Nutrition helps your body stay strong. Junk food has a lot of sugar and fat.' Daniel is happy. He says, 'Thank you, Maya. I will cut down on sugar and eat well.' Maya says, 'Good. Eat good food every day, and fast food only once in a while.' Daniel says, 'Good. I will learn about nutrition every day.'",
+      "readingQ": "What does Maya say about food?",
+      "readingA": "Cut down on sugar, and eat good food every day.",
+      "speaking": "Tell a friend about food and the body. What do you eat? What should you eat less of?",
+      "speakingSample": "I want to tell you about food and the body. On Tuesday, Maya talked about food and the body. She said, 'He tries to cut down on sugar. Junk food is not good for the body.' Good nutrition means the right food for your body. Fast food is quick but not healthy. Obesity can come from bad food. I will cut down on sugar every day.",
+      "writing": "Write a short email to a friend. Tell them about food and the body. Say what you do and what you learned.",
+      "writingSample": "Dear Anna, I want to tell you about food and the body. On Tuesday, Maya talked about food and the body. She said, 'He tries to cut down on sugar. Junk food is not good for the body.' Good nutrition means the right food for your body. Fast food is quick but not healthy. Obesity can come from bad food. I will cut down on sugar every day. Please tell me about your work. Best, Daniel",
+      "sound": "Nutrition has its strongest beat on TRI. In nutrition, say TRI clearly in the middle. In obesity, say BE clearly in the middle.",
+      "model": "Good nutrition keeps you strong.",
+      "wordTask": "What is nutrition?",
+      "wordSample": "It is the food you eat and how it helps your body."
+    },
+    {
+      "unit": 14,
+      "day": 107,
+      "title": "Exercise and energy",
+      "goal": "I can talk about exercise and energy.",
+      "newItems": [
+        {
+          "day": 107,
+          "word": "diabetes",
+          "category": "new_word",
+          "pos": "noun",
+          "definition": "An illness in which the body cannot control blood sugar.",
+          "example": "He has diabetes and watches his diet.",
+          "status": "new",
+          "ipa": "/ˌdaɪəˈbitiz/"
+        },
+        {
+          "day": 107,
+          "word": "cholesterol",
+          "category": "new_word",
+          "pos": "noun",
+          "definition": "A fatty thing in the blood that can harm the heart.",
+          "example": "High cholesterol is a risk for the heart.",
+          "status": "new",
+          "ipa": "/kəˈlɛstəˌrɔl/"
+        },
+        {
+          "day": 107,
+          "word": "fatigue",
+          "category": "new_word",
+          "pos": "noun",
+          "definition": "A feeling of being very tired.",
+          "example": "Fatigue can come from poor sleep.",
+          "status": "new",
+          "ipa": "/fəˈtiɡ/"
+        },
+        {
+          "day": 107,
+          "word": "lose weight",
+          "category": "fixed_phrase",
+          "pos": "fixed phrase",
+          "definition": "To become lighter by eating less or moving more.",
+          "example": "She wants to lose weight.",
+          "status": "new",
+          "ipa": "/luz weɪt/"
+        },
+        {
+          "day": 107,
+          "word": "put on weight",
+          "category": "fixed_phrase",
+          "pos": "fixed phrase",
+          "definition": "To become heavier.",
+          "example": "He put on weight last year.",
+          "status": "new",
+          "ipa": "/pʊt ɑn weɪt/"
+        }
+      ],
+      "reviewWords": [
+        "work",
+        "walk",
+        "help",
+        "feel",
+        "week"
+      ],
+      "mainWord": {
+        "day": 107,
+        "word": "diabetes",
+        "category": "new_word",
+        "pos": "noun",
+        "definition": "An illness in which the body cannot control blood sugar.",
+        "example": "He has diabetes and watches his diet.",
+        "status": "new",
+        "ipa": "/ˌdaɪəˈbitiz/"
+      },
+      "mainWordForms": "Diabetes is a noun. An illness in which the body cannot control blood sugar. He has diabetes and watches his diet.",
+      "pronunciationTarget": {
+        "word": "diabetes",
+        "ipa": "/ˌdaɪəˈbitiz/"
+      },
+      "expression": "She wants to lose weight.",
+      "use": "Use this when you tell someone you want to become lighter.",
+      "expressionTask": "Maya talks to Daniel about exercise. What does she want to do?",
+      "grammar": "Advanced passive: The new drug is being tested in ten hospitals",
+      "pattern": "The new drug is being tested in ten hospitals.",
+      "task": "The new drug is being ___ in ten hospitals.",
+      "answer": "tested",
+      "example": "The new drug is being tested in ten hospitals.",
+      "context": [
+        "Maya talks to Daniel about exercise and energy.",
+        "She wants to lose weight. Exercise gives you energy every day."
+      ],
+      "dialogue": [
+        "Maya: Daniel, how does exercise help your body?",
+        "Daniel: Exercise gives you energy and keeps you strong.",
+        "Maya: True. She wants to lose weight.",
+        "Daniel: Yes. He put on weight last year.",
+        "Priya: True. Fatigue can come from poor sleep.",
+        "Maya: Good. Diabetes and cholesterol need care and good food."
+      ],
+      "listening": "On Wednesday, Maya talks to Daniel about exercise and energy. She says, 'She wants to lose weight. Exercise gives you energy every day.' Daniel says, 'Exercise gives you energy and keeps you strong. He put on weight last year.' Priya says, 'True. Fatigue can come from poor sleep.' Daniel says, 'Thank you, Maya.' Daniel is happy.",
+      "question": "What does Maya say about exercise?",
+      "correct": "It gives you energy every day",
+      "other": "It makes you very tired",
+      "reading": "On Wednesday, Maya talks to Daniel about exercise and energy at Carter Retail Group. She says, 'She wants to lose weight. Exercise gives you energy every day. The new drug is being tested in ten hospitals.' Daniel says, 'Exercise gives you energy and keeps you strong. He put on weight last year.' Priya says, 'True. Fatigue can come from poor sleep. Diabetes and cholesterol need care and good food.' Maya says, 'Good. Lose weight with good food and exercise. Do not put on weight from junk food.' Daniel is happy. He says, 'Thank you, Maya. I will lose weight and keep my energy.' Maya says, 'Good. Exercise every day, and do not put on weight.' Daniel says, 'Good. I will walk every day, keep my energy, and stay strong and happy.'",
+      "readingQ": "What does Maya say about exercise?",
+      "readingA": "Exercise gives you energy every day, and it keeps you strong.",
+      "speaking": "Tell a friend about exercise and energy. What do you do? How does it help you?",
+      "speakingSample": "I want to tell you about exercise and energy. On Wednesday, Maya talked about exercise and energy. She said, 'She wants to lose weight. Exercise gives you energy every day.' Exercise gives you energy and keeps you strong. Fatigue can come from poor sleep. Diabetes and cholesterol need care. He put on weight last year, so I will help him lose weight.",
+      "writing": "Write a short email to a friend. Tell them about exercise and energy. Say what you did and what you learned.",
+      "writingSample": "Dear Tom, I want to tell you about exercise and energy. On Wednesday, Maya talked about exercise and energy. She said, 'She wants to lose weight. Exercise gives you energy every day.' Exercise gives you energy and keeps you strong. Fatigue can come from poor sleep. Diabetes and cholesterol need care and good food. He put on weight last year, so I will help him lose weight. I will walk every day and keep my energy. Please tell me about your work. Best, Daniel",
+      "sound": "Diabetes has its strongest beat on BE. In diabetes, say BE clearly in the middle. In cholesterol, say LES clearly in the middle.",
+      "model": "He has diabetes and watches his diet.",
+      "wordTask": "What is diabetes?",
+      "wordSample": "It is an illness in which the body cannot control blood sugar."
+    },
+    {
+      "unit": 14,
+      "day": 108,
+      "title": "Sleep and the brain",
+      "goal": "I can talk about sleep and the brain.",
+      "newItems": [
+        {
+          "day": 108,
+          "word": "migraine",
+          "category": "new_word",
+          "pos": "noun",
+          "definition": "A very bad headache that can last for hours.",
+          "example": "A migraine kept her in bed.",
+          "status": "new",
+          "ipa": "/ˈmaɪɡreɪn/"
+        },
+        {
+          "day": 108,
+          "word": "dehydration",
+          "category": "new_word",
+          "pos": "noun",
+          "definition": "The state of not having enough water in the body.",
+          "example": "Dehydration can cause a headache.",
+          "status": "new",
+          "ipa": "/ˌdihaɪˈdreɪʃən/"
+        },
+        {
+          "day": 108,
+          "word": "wake up early",
+          "category": "fixed_phrase",
+          "pos": "fixed phrase",
+          "definition": "To stop sleeping early in the morning.",
+          "example": "She wakes up early to run.",
+          "status": "new",
+          "ipa": "/weɪk ʌp ˈɝli/"
+        },
+        {
+          "day": 108,
+          "word": "clear your mind",
+          "category": "fixed_phrase",
+          "pos": "fixed phrase",
+          "definition": "To stop thinking about worries.",
+          "example": "A walk can clear your mind.",
+          "status": "new",
+          "ipa": "/klɪr jʊr maɪnd/"
+        },
+        {
+          "day": 108,
+          "word": "take care of yourself",
+          "category": "fixed_phrase",
+          "pos": "fixed phrase",
+          "definition": "To look after your own health.",
+          "example": "Take care of yourself and rest.",
+          "status": "new",
+          "ipa": "/teɪk kɛr əv jʊrˈsɛlf/"
+        }
+      ],
+      "reviewWords": [
+        "night",
+        "read",
+        "sleep",
+        "think",
+        "know"
+      ],
+      "mainWord": {
+        "day": 108,
+        "word": "migraine",
+        "category": "new_word",
+        "pos": "noun",
+        "definition": "A very bad headache that can last for hours.",
+        "example": "A migraine kept her in bed.",
+        "status": "new",
+        "ipa": "/ˈmaɪɡreɪn/"
+      },
+      "mainWordForms": "Migraine is a noun. A very bad headache that can last for hours. A migraine kept her in bed.",
+      "pronunciationTarget": {
+        "word": "migraine",
+        "ipa": "/ˈmaɪɡreɪn/"
+      },
+      "expression": "She wakes up early to run.",
+      "use": "Use this when you tell someone you stop sleeping early in the morning.",
+      "expressionTask": "Maya talks to Daniel about sleep. When does she stop sleeping?",
+      "grammar": "Advanced relative clauses: The doctor, who has worked here for years, helps many people",
+      "pattern": "The doctor, who has worked here for years, helps many people.",
+      "task": "The doctor, who has worked here for years, ___ many people.",
+      "answer": "helps",
+      "example": "The doctor, who has worked here for years, helps many people.",
+      "context": [
+        "Maya talks to Daniel about sleep and the brain.",
+        "She wakes up early to run. Sleep helps your brain rest."
+      ],
+      "dialogue": [
+        "Maya: Daniel, why is sleep good for the brain?",
+        "Daniel: Sleep helps your brain rest and learn.",
+        "Maya: True. She wakes up early to run.",
+        "Daniel: Yes. A walk can clear your mind.",
+        "Priya: True. Dehydration can cause a headache, so drink water.",
+        "Maya: Good. Take care of yourself and rest. A migraine can come from poor sleep."
+      ],
+      "listening": "On Thursday, Maya talks to Daniel about sleep and the brain. She says, 'She wakes up early to run. Sleep helps your brain rest.' Daniel says, 'Sleep helps your brain rest and learn. A walk can clear your mind.' Priya says, 'True. Dehydration can cause a headache, so drink water.' Daniel says, 'Thank you, Maya.' Daniel is happy.",
+      "question": "What can dehydration cause?",
+      "correct": "A headache",
+      "other": "A broken arm",
+      "reading": "On Thursday, Maya talks to Daniel about sleep and the brain at Carter Retail Group. She says, 'She wakes up early to run. Sleep helps your brain rest. The doctor, who has worked here for years, helps many people.' Daniel says, 'Sleep helps your brain rest and learn. A walk can clear your mind.' Priya says, 'True. Dehydration can cause a headache, so drink water. Take care of yourself and rest.' Maya says, 'Good. A migraine can come from poor sleep. Wake up early, and take care of yourself.' Daniel is happy. He says, 'Thank you, Maya. I will wake up early and clear my mind.' Maya says, 'Good. Sleep well every night and rest, and take care of yourself.' Daniel says, 'Good. I will sleep well and wake up early.'",
+      "readingQ": "What does Maya say about sleep?",
+      "readingA": "Sleep helps your brain rest, and you should wake up early and take care of yourself.",
+      "speaking": "Tell a friend about sleep and the brain. What do you do? How does sleep help you?",
+      "speakingSample": "I want to tell you about sleep and the brain. On Thursday, Maya talked about sleep and the brain. She said, 'She wakes up early to run. Sleep helps your brain rest.' A walk can clear your mind. Dehydration can cause a headache, so drink water. A migraine can come from poor sleep. I will wake up early every day.",
+      "writing": "Write a short email to a friend. Tell them about sleep and the brain. Say what you do and what you learned.",
+      "writingSample": "Dear Lisa, I want to tell you about sleep and the brain. On Thursday, Maya talked about sleep and the brain. She said, 'She wakes up early to run. Sleep helps your brain rest.' A walk can clear your mind. Dehydration can cause a headache, so drink water. Take care of yourself and rest. A migraine can come from poor sleep. I will wake up early and take care of myself every day. Please tell me about your work. Best, Daniel",
+      "sound": "Migraine has its strongest beat on GRAINE. In migraine, say GRAINE clearly at the end. In dehydration, say DRA clearly in the middle.",
+      "model": "A migraine kept her in bed.",
+      "wordTask": "What is a migraine?",
+      "wordSample": "It is a very bad headache that can last for hours."
+    },
+    {
+      "unit": 14,
+      "day": 109,
+      "title": "Medicine and the doctor",
+      "goal": "I can talk about medicine and the doctor.",
+      "newItems": [
+        {
+          "day": 109,
+          "word": "vaccine",
+          "category": "new_word",
+          "pos": "noun",
+          "definition": "A shot that helps your body fight a disease.",
+          "example": "The vaccine keeps you safe.",
+          "status": "new",
+          "ipa": "/vækˈsin/"
+        },
+        {
+          "day": 109,
+          "word": "immunity",
+          "category": "new_word",
+          "pos": "noun",
+          "definition": "The body's power to fight a disease.",
+          "example": "The vaccine gives you immunity.",
+          "status": "new",
+          "ipa": "/ɪˈmjunəti/"
+        },
+        {
+          "day": 109,
+          "word": "antibiotic",
+          "category": "new_word",
+          "pos": "noun",
+          "definition": "A medicine that kills germs.",
+          "example": "The doctor gave her an antibiotic.",
+          "status": "new",
+          "ipa": "/ˌæntibaɪˈɑtɪk/"
+        },
+        {
+          "day": 109,
+          "word": "a flu shot",
+          "category": "fixed_phrase",
+          "pos": "fixed phrase",
+          "definition": "A shot that helps you not get the flu.",
+          "example": "Get a flu shot in autumn.",
+          "status": "new",
+          "ipa": "/ə flu ʃɑt/"
+        },
+        {
+          "day": 109,
+          "word": "side effects",
+          "category": "fixed_phrase",
+          "pos": "fixed phrase",
+          "definition": "Bad results from a medicine.",
+          "example": "The drug has side effects.",
+          "status": "new",
+          "ipa": "/saɪd əˈfɛkts/"
+        }
+      ],
+      "reviewWords": [
+        "school",
+        "family",
+        "friend",
+        "talk",
+        "ask"
+      ],
+      "mainWord": {
+        "day": 109,
+        "word": "vaccine",
+        "category": "new_word",
+        "pos": "noun",
+        "definition": "A shot that helps your body fight a disease.",
+        "example": "The vaccine keeps you safe.",
+        "status": "new",
+        "ipa": "/vækˈsin/"
+      },
+      "mainWordForms": "Vaccine is a noun. A shot that helps your body fight a disease. The vaccine keeps you safe.",
+      "pronunciationTarget": {
+        "word": "vaccine",
+        "ipa": "/vækˈsin/"
+      },
+      "expression": "Get a flu shot in autumn.",
+      "use": "Use this when you tell someone to get a shot against the flu.",
+      "expressionTask": "Maya talks to Daniel about medicine. When should he get a flu shot?",
+      "grammar": "Gerunds and infinitives: She stopped eating junk food to protect her heart",
+      "pattern": "She stopped eating junk food to protect her heart.",
+      "task": "She stopped ___ junk food to protect her heart.",
+      "answer": "eating",
+      "example": "She stopped eating junk food to protect her heart.",
+      "context": [
+        "Maya talks to Daniel about medicine and the doctor.",
+        "Get a flu shot in autumn. A vaccine can give you immunity."
+      ],
+      "dialogue": [
+        "Maya: Daniel, why do we need a vaccine?",
+        "Daniel: A vaccine helps your body fight a disease.",
+        "Maya: True. Get a flu shot in autumn.",
+        "Daniel: Yes. The doctor gave her an antibiotic.",
+        "Priya: True. A vaccine can give you immunity.",
+        "Maya: Good. Ask about the side effects of the drug."
+      ],
+      "listening": "On Friday, Maya talks to Daniel about medicine and the doctor. She says, 'Get a flu shot in autumn. A vaccine can give you immunity.' Daniel says, 'A vaccine helps your body fight a disease.' Priya says, 'Good. The doctor gave her an antibiotic. Ask about the side effects of the drug.' Daniel says, 'Thank you, Maya.' Daniel is happy.",
+      "question": "What can a vaccine give you?",
+      "correct": "Immunity",
+      "other": "A headache",
+      "reading": "On Friday, Maya talks to Daniel about medicine and the doctor at Carter Retail Group. She says, 'Get a flu shot in autumn. A vaccine can give you immunity. She stopped eating junk food to protect her heart.' Daniel says, 'A vaccine helps your body fight a disease. The doctor gave her an antibiotic.' Priya says, 'True. Ask about the side effects of the drug. A flu shot is quick and safe.' Maya says, 'Good. Immunity helps your body fight the flu. An antibiotic kills germs.' Daniel is happy. He says, 'Thank you, Maya. I will get a flu shot in autumn.' Maya says, 'Good. Ask about the side effects, and take your medicine on time.' Daniel says, 'Good. I will see the doctor and ask about the drug every year.'",
+      "readingQ": "What does Maya say about medicine?",
+      "readingA": "Get a flu shot in autumn, and ask about the side effects of the drug.",
+      "speaking": "Tell a friend about medicine and the doctor. What did the doctor say? What should you do?",
+      "speakingSample": "I want to tell you about medicine and the doctor. On Friday, Maya talked about medicine and the doctor. She said, 'Get a flu shot in autumn. A vaccine can give you immunity.' A vaccine helps your body fight a disease. The doctor gave her an antibiotic. Ask about the side effects of the drug. I will get a flu shot in autumn.",
+      "writing": "Write a short email to a friend. Tell them about medicine and the doctor. Say what you did and what you learned.",
+      "writingSample": "Dear Tom, I want to tell you about medicine and the doctor. On Friday, Maya talked about medicine and the doctor. She said, 'Get a flu shot in autumn. A vaccine can give you immunity.' A vaccine helps your body fight a disease. The doctor gave her an antibiotic. Ask about the side effects of the drug. I will get a flu shot in autumn every year. Please tell me about your work. Best, Daniel",
+      "sound": "Vaccine has its strongest beat on CINE. In vaccine, say CINE clearly at the end. In immunity, say MU clearly in the middle.",
+      "model": "The vaccine keeps you safe.",
+      "wordTask": "What is a vaccine?",
+      "wordSample": "It is a shot that helps your body fight a disease."
+    },
+    {
+      "unit": 14,
+      "day": 110,
+      "title": "Science in the news",
+      "goal": "I can talk about science in the news.",
+      "newItems": [
+        {
+          "day": 110,
+          "word": "experiment",
+          "category": "new_word",
+          "pos": "noun",
+          "definition": "A test done to learn something new.",
+          "example": "The experiment worked well.",
+          "status": "new",
+          "ipa": "/ɪkˈspɛrəmənt/"
+        },
+        {
+          "day": 110,
+          "word": "discovery",
+          "category": "new_word",
+          "pos": "noun",
+          "definition": "Something new that someone finds or learns.",
+          "example": "The discovery changed medicine.",
+          "status": "new",
+          "ipa": "/dɪˈskʌvəri/"
+        },
+        {
+          "day": 110,
+          "word": "a blood test",
+          "category": "fixed_phrase",
+          "pos": "fixed phrase",
+          "definition": "A test on your blood to check your health.",
+          "example": "The doctor asked for a blood test.",
+          "status": "new",
+          "ipa": "/ə blʌd tɛst/"
+        },
+        {
+          "day": 110,
+          "word": "donate blood",
+          "category": "fixed_phrase",
+          "pos": "fixed phrase",
+          "definition": "To give your blood to help sick people.",
+          "example": "She donates blood every year.",
+          "status": "new",
+          "ipa": "/ˈdoʊneɪt blʌd/"
+        },
+        {
+          "day": 110,
+          "word": "call an ambulance",
+          "category": "fixed_phrase",
+          "pos": "fixed phrase",
+          "definition": "To phone for a car that takes sick people to hospital.",
+          "example": "Call an ambulance now.",
+          "status": "new",
+          "ipa": "/kɔl ən ˈæmbjələns/"
+        }
+      ],
+      "reviewWords": [
+        "money",
+        "book",
+        "house",
+        "see",
+        "find"
+      ],
+      "mainWord": {
+        "day": 110,
+        "word": "experiment",
+        "category": "new_word",
+        "pos": "noun",
+        "definition": "A test done to learn something new.",
+        "example": "The experiment worked well.",
+        "status": "new",
+        "ipa": "/ɪkˈspɛrəmənt/"
+      },
+      "mainWordForms": "Experiment is a noun. A test done to learn something new. The experiment worked well.",
+      "pronunciationTarget": {
+        "word": "experiment",
+        "ipa": "/ɪkˈspɛrəmənt/"
+      },
+      "expression": "The doctor asked for a blood test.",
+      "use": "Use this when you tell someone the doctor wants to check their blood.",
+      "expressionTask": "Maya talks to Daniel about science in the news. What did the doctor ask for?",
+      "grammar": "Participle clauses: Feeling tired, she went to bed early",
+      "pattern": "Feeling tired, she went to bed early.",
+      "task": "Feeling tired, she ___ to bed early.",
+      "answer": "went",
+      "example": "Feeling tired, she went to bed early.",
+      "context": [
+        "Maya talks to Daniel about science in the news.",
+        "The doctor asked for a blood test. Science can save lives."
+      ],
+      "dialogue": [
+        "Maya: Daniel, what is new in science?",
+        "Daniel: A new experiment worked well.",
+        "Maya: True. The doctor asked for a blood test.",
+        "Daniel: Yes. She donates blood every year.",
+        "Priya: True. Call an ambulance in a bad accident.",
+        "Maya: Good. The discovery changed medicine."
+      ],
+      "listening": "On Saturday, Maya talks to Daniel about science in the news. She says, 'The doctor asked for a blood test. Science can save lives.' Daniel says, 'A new experiment worked well. She donates blood every year.' Priya says, 'True. Call an ambulance in a bad accident. The discovery changed medicine.' Daniel says, 'Thank you, Maya.' Daniel is happy.",
+      "question": "What did the doctor ask for?",
+      "correct": "A blood test",
+      "other": "A new car",
+      "reading": "On Saturday, Maya talks to Daniel about science in the news at Carter Retail Group. She says, 'The doctor asked for a blood test. Science can save lives. Feeling tired, she went to bed early.' Daniel says, 'A new experiment worked well. She donates blood every year.' Priya says, 'True. Call an ambulance in a bad accident. The discovery changed medicine.' Maya says, 'Good. Donate blood to help sick people. A blood test can find problems early. The experiment took three years, and the discovery helped many people.' Daniel is happy. He says, 'Thank you, Maya. I will donate blood every year.' Maya says, 'Good. Read the science news, and call an ambulance in a bad accident.' Daniel says, 'Good. I will learn about science every day and read the news.'",
+      "readingQ": "What does Maya say about science?",
+      "readingA": "Science can save lives, and you should donate blood to help sick people.",
+      "speaking": "Tell a friend about science in the news. What did you read? What did you learn?",
+      "speakingSample": "I want to tell you about science in the news. On Saturday, Maya talked about science in the news. She said, 'The doctor asked for a blood test. Science can save lives.' A new experiment worked well. She donates blood every year. The discovery changed medicine. Call an ambulance in a bad accident, and read the science news every day.",
+      "writing": "Write a short email to a friend. Tell them about science in the news. Say what you did and what you learned.",
+      "writingSample": "Dear Anna, I want to tell you about science in the news. On Saturday, Maya talked about science in the news. She said, 'The doctor asked for a blood test. Science can save lives.' A new experiment worked well. She donates blood every year. The discovery changed medicine. Call an ambulance in a bad accident, and help sick people. I will donate blood every year and read the science news. Please tell me about your work. Best, Daniel",
+      "sound": "Experiment has its strongest beat on PER. In experiment, say PER clearly in the middle. In discovery, say COV clearly in the middle.",
+      "model": "The experiment worked well.",
+      "wordTask": "What is an experiment?",
+      "wordSample": "It is a test done to learn something new."
+    },
+    {
+      "unit": 14,
+      "day": 111,
+      "title": "Choices that change health",
+      "goal": "I can talk about choices that change health.",
+      "newItems": [
+        {
+          "day": 111,
+          "word": "chronic",
+          "category": "new_word",
+          "pos": "adjective",
+          "definition": "Lasting for a long time, often for life.",
+          "example": "She has a chronic cough.",
+          "status": "new",
+          "ipa": "/ˈkrɑnɪk/"
+        },
+        {
+          "day": 111,
+          "word": "depression",
+          "category": "new_word",
+          "pos": "noun",
+          "definition": "A long feeling of deep sadness.",
+          "example": "He got help for his depression.",
+          "status": "new",
+          "ipa": "/dɪˈprɛʃən/"
+        },
+        {
+          "day": 111,
+          "word": "mental",
+          "category": "new_word",
+          "pos": "adjective",
+          "definition": "About the mind.",
+          "example": "Sleep is good for mental health.",
+          "status": "new",
+          "ipa": "/ˈmɛntəl/"
+        },
+        {
+          "day": 111,
+          "word": "break a habit",
+          "category": "fixed_phrase",
+          "pos": "fixed phrase",
+          "definition": "To stop doing something you often do.",
+          "example": "It is hard to break a habit.",
+          "status": "new",
+          "ipa": "/breɪk ə ˈhæbɪt/"
+        },
+        {
+          "day": 111,
+          "word": "form a habit",
+          "category": "fixed_phrase",
+          "pos": "fixed phrase",
+          "definition": "To start doing something often.",
+          "example": "Form a habit of walking daily.",
+          "status": "new",
+          "ipa": "/fɔrm ə ˈhæbɪt/"
+        }
+      ],
+      "reviewWords": [
+        "happy",
+        "new",
+        "big",
+        "small",
+        "old"
+      ],
+      "mainWord": {
+        "day": 111,
+        "word": "chronic",
+        "category": "new_word",
+        "pos": "adjective",
+        "definition": "Lasting for a long time, often for life.",
+        "example": "She has a chronic cough.",
+        "status": "new",
+        "ipa": "/ˈkrɑnɪk/"
+      },
+      "mainWordForms": "Chronic is an adjective. Lasting for a long time, often for life. She has a chronic cough.",
+      "pronunciationTarget": {
+        "word": "chronic",
+        "ipa": "/ˈkrɑnɪk/"
+      },
+      "expression": "Form a habit of walking daily.",
+      "use": "Use this when you tell someone to start doing something often.",
+      "expressionTask": "Maya talks to Daniel about choices. What habit should he form?",
+      "grammar": "Hedging: It seems that regular exercise may help your heart",
+      "pattern": "It seems that regular exercise may help your heart.",
+      "task": "It seems that regular exercise ___ help your heart.",
+      "answer": "may",
+      "example": "It seems that regular exercise may help your heart.",
+      "context": [
+        "Maya talks to Daniel about choices that change health.",
+        "Form a habit of walking daily. Good choices help your body."
+      ],
+      "dialogue": [
+        "Maya: Daniel, what choices change your health?",
+        "Daniel: Good food and rest can change your health.",
+        "Maya: True. Form a habit of walking daily.",
+        "Daniel: Yes. It is hard to break a habit.",
+        "Priya: True. He got help for his depression.",
+        "Maya: Good. Sleep is good for mental health. A chronic cough needs care."
+      ],
+      "listening": "On Sunday, Maya talks to Daniel about choices that change health. She says, 'Form a habit of walking daily. Good choices help your body.' Daniel says, 'Good food and rest can change your health. It is hard to break a habit.' Priya says, 'True. He got help for his depression.' Daniel says, 'Thank you, Maya.' Daniel is happy.",
+      "question": "What habit should Daniel form?",
+      "correct": "Walking daily",
+      "other": "Smoking daily",
+      "reading": "On Sunday, Maya talks to Daniel about choices that change health at Carter Retail Group. She says, 'Form a habit of walking daily. Good choices help your body. It seems that regular exercise may help your heart.' Daniel says, 'Good food and rest can change your health. It is hard to break a habit.' Priya says, 'True. He got help for his depression. Sleep is good for mental health.' Maya says, 'Good. A chronic cough needs care. Break a habit that harms you, and form a habit of walking daily.' Daniel is happy. He says, 'Thank you, Maya. I will form a habit of walking daily.' Maya says, 'Good. Make good choices every day, and break a habit that harms you.' Daniel says, 'Good. I will make good choices and walk every day.'",
+      "readingQ": "What does Maya say about choices?",
+      "readingA": "Form a habit of walking daily, and make good choices every day.",
+      "speaking": "Tell a friend about choices that change health. What did you change? How did it help?",
+      "speakingSample": "I want to tell you about choices that change health. On Sunday, Maya talked about choices that change health. She said, 'Form a habit of walking daily. Good choices help your body.' It is hard to break a habit. He got help for his depression. A chronic cough needs care. Sleep is good for mental health. I will form a habit of walking daily.",
+      "writing": "Write a short email to a friend. Tell them about choices that change health. Say what you did and what you learned.",
+      "writingSample": "Dear Tom, I want to tell you about choices that change health. On Sunday, Maya talked about choices that change health. She said, 'Form a habit of walking daily. Good choices help your body.' It is hard to break a habit. He got help for his depression. A chronic cough needs care. Sleep is good for mental health. I will form a habit of walking daily every day. Please tell me about your work. Best, Daniel",
+      "sound": "Chronic has its strongest beat on CHRON. In chronic, say CHRON clearly at the start. In depression, say PRESS clearly in the middle.",
+      "model": "She has a chronic cough.",
+      "wordTask": "What is chronic?",
+      "wordSample": "It means lasting for a long time, often for life."
+    },
+    {
+      "unit": 14,
+      "day": 112,
+      "title": "Use health English in a new situation",
+      "goal": "I can use health English in a new situation.",
+      "newItems": [
+        {
+          "day": 112,
+          "word": "gene",
+          "category": "new_word",
+          "pos": "noun",
+          "definition": "A small part of the body that decides how you grow.",
+          "example": "The gene came from her mother.",
+          "status": "new",
+          "ipa": "/dʒin/"
+        },
+        {
+          "day": 112,
+          "word": "hypothesis",
+          "category": "new_word",
+          "pos": "noun",
+          "definition": "An idea you test to see if it is true.",
+          "example": "Her hypothesis was right.",
+          "status": "new",
+          "ipa": "/haɪˈpɑθəsɪs/"
+        },
+        {
+          "day": 112,
+          "word": "weigh the pros and cons",
+          "category": "fixed_phrase",
+          "pos": "fixed phrase",
+          "definition": "To think about the good and bad sides of a choice.",
+          "example": "Weigh the pros and cons before you decide.",
+          "status": "new",
+          "ipa": "/weɪ ðə proʊz ənd kɑnz/"
+        },
+        {
+          "day": 112,
+          "word": "play it safe",
+          "category": "fixed_phrase",
+          "pos": "fixed phrase",
+          "definition": "To be careful and avoid danger.",
+          "example": "Play it safe and see a doctor.",
+          "status": "new",
+          "ipa": "/pleɪ ɪt seɪf/"
+        },
+        {
+          "day": 112,
+          "word": "make up your mind",
+          "category": "fixed_phrase",
+          "pos": "fixed phrase",
+          "definition": "To decide after thinking.",
+          "example": "Make up your mind soon.",
+          "status": "new",
+          "ipa": "/meɪk ʌp jʊr maɪnd/"
+        }
+      ],
+      "reviewWords": [
+        "time",
+        "day",
+        "week",
+        "good",
+        "help"
+      ],
+      "mainWord": {
+        "day": 112,
+        "word": "gene",
+        "category": "new_word",
+        "pos": "noun",
+        "definition": "A small part of the body that decides how you grow.",
+        "example": "The gene came from her mother.",
+        "status": "new",
+        "ipa": "/dʒin/"
+      },
+      "mainWordForms": "Gene is a noun. A small part of the body that decides how you grow. The gene came from her mother.",
+      "pronunciationTarget": {
+        "word": "gene",
+        "ipa": "/dʒin/"
+      },
+      "expression": "Weigh the pros and cons before you decide.",
+      "use": "Use this when you tell someone to think about the good and bad sides of a choice.",
+      "expressionTask": "Daniel meets Sara at a cafe. What does Sara want to do?",
+      "grammar": "Review: I can use health English in a new situation",
+      "pattern": "I can use health English in a new situation.",
+      "task": "I can ___ health English in a new situation.",
+      "answer": "use",
+      "example": "I can use health English in a new situation.",
+      "context": [
+        "Daniel meets Sara at a cafe.",
+        "Weigh the pros and cons before you decide. Make up your mind soon."
+      ],
+      "dialogue": [
+        "Daniel: Sara, do you have a health question?",
+        "Sara: Yes. The doctor talked about a gene in my family.",
+        "Daniel: Good. Weigh the pros and cons before you decide.",
+        "Sara: Yes. Her hypothesis was right.",
+        "Daniel: True. Play it safe and see a doctor.",
+        "Sara: Good. I will make up my mind soon."
+      ],
+      "listening": "On Monday, Daniel meets Sara at a cafe. Sara says, 'The doctor talked about a gene in my family. Weigh the pros and cons before you decide.' Daniel says, 'Good. Her hypothesis was right. Play it safe and see a doctor.' Sara says, 'Yes. I will make up my mind soon.' Daniel is happy. Sara is happy.",
+      "question": "What does Sara want to do?",
+      "correct": "Make up her mind soon",
+      "other": "Run a race",
+      "reading": "On Monday, Daniel meets Sara at a cafe. Sara says, 'The doctor talked about a gene in my family. Weigh the pros and cons before you decide. I can use health English in a new situation.' Daniel says, 'Good. Her hypothesis was right. Play it safe and see a doctor.' Sara says, 'Yes. I will make up my mind soon. A gene can run in a family.' Daniel says, 'Good. Weigh the pros and cons, and make up your mind.' Sara is happy. She says, 'Thank you. I will play it safe and see a doctor.' Daniel says, 'Good. Make up your mind soon, and weigh the pros and cons.' Sara says, 'Good. I will make up my mind soon and play it safe.' Daniel says, 'Good. I will help you weigh the pros and cons.'",
+      "readingQ": "What does Sara talk about at the cafe?",
+      "readingA": "A gene in her family, and she will weigh the pros and cons before she decides.",
+      "speaking": "Tell a friend about health in a new situation. What did you do? How did it end?",
+      "speakingSample": "I want to tell you about health in a new situation. On Monday, Daniel met Sara at a cafe. Sara said, 'The doctor talked about a gene in my family. Weigh the pros and cons before you decide.' Her hypothesis was right. Play it safe and see a doctor. I will make up my mind soon and play it safe.",
+      "writing": "Write a short email to a friend. Tell them about health in a new situation. Say what you did and how it ended.",
+      "writingSample": "Dear Anna, I want to tell you about health in a new situation. On Monday, Daniel met Sara at a cafe. Sara said, 'The doctor talked about a gene in my family. Weigh the pros and cons before you decide.' Her hypothesis was right. Play it safe and see a doctor. A gene can run in a family, so play it safe. I will make up my mind soon and play it safe. Please tell me about your work. Best, Sara",
+      "sound": "Gene has its strongest beat on GENE. In gene, say GENE clearly. In hypothesis, say POTH clearly in the middle.",
+      "model": "The gene came from her mother.",
+      "wordTask": "What is a gene?",
+      "wordSample": "It is a small part of the body that decides how you grow.",
+      "transferCheck": {
+        "source": "On Tuesday, Sara reads a note from her doctor about a check-up. It says weigh the pros and cons before you decide. Sara talks to her friend Tom at a cafe. She says, 'The doctor talked about a gene in my family. Weigh the pros and cons before you decide.' Tom says, 'Good. Her hypothesis was right.' Sara says, 'Yes. I will make up my mind soon.' Tom says, 'Good. Play it safe and see a doctor.' Sara is happy.",
+        "dictation": "Weigh the pros and cons before you decide.",
+        "answer": "1. The new checker is Sara. She reads a note from her doctor about a check-up and talks to her friend Tom at a cafe. 2. Sara's first job is to say that the doctor talked about a gene in her family. 3. On Tuesday, Sara says, 'The doctor talked about a gene in my family. Weigh the pros and cons before you decide.' 4. Weigh the pros and cons before you decide. 5. Sample: On Tuesday, Sara reads a note from her doctor about a check-up. It says weigh the pros and cons before you decide. Sara talks to her friend Tom at a cafe. She says, 'The doctor talked about a gene in my family. Weigh the pros and cons before you decide.' Tom says, 'Good. Her hypothesis was right.' Sara says, 'Yes. I will make up my mind soon.' Tom says, 'Good. Play it safe and see a doctor.' Follow-up: What does Tom tell Sara to do? Play it safe and see a doctor.",
+        "tasks": [
+          [
+            "1 · Identify the people and the new situation",
+            "Who is the new checker, and what does she read?"
+          ],
+          [
+            "2 · Work out what Sara does first",
+            "What is Sara's first job, and what does she say?"
+          ],
+          [
+            "3 · Notice the sentence on Tuesday",
+            "What does Sara say on Tuesday?"
+          ],
+          [
+            "4 · Listen and write",
+            "Write the sentence you hear."
+          ],
+          [
+            "5 · Retell and answer",
+            "Tell the story in order, including the people, the new situation, the first talk, and the result. Then answer one follow-up question."
+          ]
+        ]
+      }
+    }
+  ]
+}

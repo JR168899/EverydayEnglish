@@ -1,0 +1,953 @@
+{
+  "number": 20,
+  "title": "Language, communication and misunderstanding",
+  "lessons": [
+    {
+      "unit": 20,
+      "day": 153,
+      "title": "Words and meaning",
+      "goal": "I can talk about words and meaning.",
+      "newItems": [
+        {
+          "category": "new_word",
+          "day": 153,
+          "definition": "Having more than one possible meaning.",
+          "example": "His answer was ambiguous, so no one knew what he meant.",
+          "ipa": "/æmˈbɪɡjuəs/",
+          "pos": "adjective",
+          "status": "new",
+          "word": "ambiguous"
+        },
+        {
+          "category": "new_word",
+          "day": 153,
+          "definition": "A small difference in meaning or feeling.",
+          "example": "She explained the nuance of the word with care.",
+          "ipa": "/ˈnuːɑːns/",
+          "pos": "noun",
+          "status": "new",
+          "word": "nuance"
+        },
+        {
+          "category": "new_word",
+          "day": 153,
+          "definition": "Not clear or exact.",
+          "example": "Her plans for the trip were vague.",
+          "ipa": "/veɪɡ/",
+          "pos": "adjective",
+          "status": "new",
+          "word": "vague"
+        },
+        {
+          "category": "fixed_phrase",
+          "day": 153,
+          "definition": "To make people understand what you mean.",
+          "example": "He tried hard to get his point across.",
+          "ipa": "/ɡɛt jʊr pɔɪnt əˈkrɔs/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "get your point across"
+        },
+        {
+          "category": "fixed_phrase",
+          "day": 153,
+          "definition": "In a few words.",
+          "example": "In a nutshell, the trip was a success.",
+          "ipa": "/ɪn ə ˈnʌtʃɛl/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "in a nutshell"
+        }
+      ],
+      "reviewWords": [
+        "teacher",
+        "student",
+        "school",
+        "class",
+        "lesson"
+      ],
+      "mainWord": {
+        "category": "new_word",
+        "day": 153,
+        "definition": "Having more than one possible meaning.",
+        "example": "His answer was ambiguous, so no one knew what he meant.",
+        "ipa": "/æmˈbɪɡjuəs/",
+        "pos": "adjective",
+        "status": "new",
+        "word": "ambiguous"
+      },
+      "mainWordForms": "Ambiguous is an adjective. Having more than one possible meaning. His answer was ambiguous, so no one knew what he meant.",
+      "pronunciationTarget": {
+        "word": "ambiguous",
+        "ipa": "/æmˈbɪɡjuəs/"
+      },
+      "expression": "His answer was ambiguous, so no one knew what he meant.",
+      "use": "Use this when you talk about unclear words.",
+      "expressionTask": "Daniel talks to Maya about words and meaning. What does he ask her?",
+      "grammar": "Third conditional: If the speaker had chosen clear words, we would have understood him",
+      "pattern": "If the speaker had chosen clear words, we would have understood him.",
+      "task": "If the speaker had chosen clear words, we would have ___ him.",
+      "answer": "understood",
+      "example": "If the speaker had chosen clear words, we would have understood him.",
+      "context": [
+        "Daniel talks to Maya about words and meaning at work.",
+        "His answer was ambiguous, so no one knew what he meant."
+      ],
+      "dialogue": [
+        "Daniel: Maya, what does ambiguous mean?",
+        "Maya: It means a word can have more than one meaning.",
+        "Daniel: And what is a nuance?",
+        "Maya: A nuance is a small difference in meaning.",
+        "Daniel: Why was his plan vague?",
+        "Maya: He did not get his point across. In a nutshell, we need clear words."
+      ],
+      "listening": "On Monday, Daniel talks to Maya. He asks, 'Maya, what does ambiguous mean?' Maya says, 'It means a word can have more than one meaning.' Daniel asks, 'And what is a nuance?' Maya says, 'A nuance is a small difference in meaning.' Daniel asks, 'Why was his plan vague?' Maya says, 'He did not get his point across. In a nutshell, we need clear words.'",
+      "question": "What does ambiguous mean?",
+      "correct": "More than one meaning",
+      "other": "One clear meaning",
+      "reading": "On Monday, Daniel talks to Maya about words and meaning at Carter Retail Group. He says, 'Maya, what does ambiguous mean?' Maya says, 'It means a word can have more than one meaning. His answer was ambiguous, so no one knew what he meant.' Daniel says, 'And what is a nuance?' Maya says, 'A nuance is a small difference in meaning. A good speaker knows the nuance of each word.' Daniel says, 'Why was his plan vague?' Maya says, 'His plan was vague because he did not get his point across. In a nutshell, we need clear words and short sentences.' Daniel says, 'That is true. If the speaker had chosen clear words, we would have understood him. Vague words waste time, and clear words save time.' Maya says, 'Yes. Words have power, and a small nuance can change a whole talk.'",
+      "readingQ": "Why was his plan vague?",
+      "readingA": "He did not get his point across.",
+      "speaking": "Tell a friend about words and meaning. What does ambiguous mean?",
+      "speakingSample": "I want to tell you about words and meaning. On Monday, Daniel talked about words and meaning. He said, 'What does ambiguous mean?' Maya said, 'It means a word can have more than one meaning.' A nuance is a small difference in meaning. His plan was vague because he did not get his point across. In a nutshell, we need clear words.",
+      "writing": "Write a short email to a friend. Tell them about words and meaning.",
+      "writingSample": "Dear Tom, I want to tell you about words and meaning. On Monday, Daniel talked about words and meaning at work. He said, 'What does ambiguous mean?' Maya said, 'It means a word can have more than one meaning.' A nuance is a small difference in meaning. His plan was vague because he did not get his point across. In a nutshell, we need clear words and short sentences. Please tell me about words in your language. Best, Daniel",
+      "sound": "Ambiguous has its strongest beat on BIG. In ambiguous, say BIG clearly in the middle. In nuance, say NU clearly at the start.",
+      "model": "His answer was ambiguous, so no one knew what he meant.",
+      "wordTask": "What does ambiguous mean?",
+      "wordSample": "More than one possible meaning."
+    },
+    {
+      "unit": 20,
+      "day": 154,
+      "title": "More than words",
+      "goal": "I can talk about body language and tone.",
+      "newItems": [
+        {
+          "category": "new_word",
+          "day": 154,
+          "definition": "The rise and fall of the voice when speaking.",
+          "example": "His intonation showed he was asking a question.",
+          "ipa": "/ˌɪntəˈneɪʃən/",
+          "pos": "noun",
+          "status": "new",
+          "word": "intonation"
+        },
+        {
+          "category": "new_word",
+          "day": 154,
+          "definition": "How high or low a voice sounds.",
+          "example": "His pitch rose when he got excited.",
+          "ipa": "/pɪtʃ/",
+          "pos": "noun",
+          "status": "new",
+          "word": "pitch"
+        },
+        {
+          "category": "new_word",
+          "day": 154,
+          "definition": "To speak quietly and unclearly.",
+          "example": "He began to mumble when he felt shy.",
+          "ipa": "/ˈmʌmbəl/",
+          "pos": "verb",
+          "status": "new",
+          "word": "mumble"
+        },
+        {
+          "category": "fixed_phrase",
+          "day": 154,
+          "definition": "Light, informal talk.",
+          "example": "They had a bit of chit-chat at lunch.",
+          "ipa": "/ˈtʃɪt tʃæt/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "chit-chat"
+        },
+        {
+          "category": "fixed_phrase",
+          "day": 154,
+          "definition": "To talk about different things without knowing it.",
+          "example": "They talked at cross purposes all morning.",
+          "ipa": "/tɔk æt krɔs ˈpɝpəsəz/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "talk at cross purposes"
+        }
+      ],
+      "reviewWords": [
+        "friend",
+        "good",
+        "kind",
+        "help",
+        "happy"
+      ],
+      "mainWord": {
+        "category": "new_word",
+        "day": 154,
+        "definition": "The rise and fall of the voice when speaking.",
+        "example": "His intonation showed he was asking a question.",
+        "ipa": "/ˌɪntəˈneɪʃən/",
+        "pos": "noun",
+        "status": "new",
+        "word": "intonation"
+      },
+      "mainWordForms": "Intonation is a noun. The rise and fall of the voice when speaking. His intonation showed he was asking a question.",
+      "pronunciationTarget": {
+        "word": "intonation",
+        "ipa": "/ˌɪntəˈneɪʃən/"
+      },
+      "expression": "His intonation showed he was asking a question.",
+      "use": "Use this when you talk about tone of voice.",
+      "expressionTask": "Priya talks to Daniel about tone of voice. What does she ask him?",
+      "grammar": "Mixed conditional: If she had watched his face, she would know he was unhappy now",
+      "pattern": "If she had watched his face, she would know he was unhappy now.",
+      "task": "If she had watched his face, she would ___ he was unhappy now.",
+      "answer": "know",
+      "example": "If she had watched his face, she would know he was unhappy now.",
+      "context": [
+        "Priya talks to Daniel about tone of voice at work.",
+        "His intonation showed he was asking a question."
+      ],
+      "dialogue": [
+        "Priya: Daniel, what is intonation?",
+        "Daniel: It is the rise and fall of the voice.",
+        "Priya: What is pitch?",
+        "Daniel: Pitch is how high or low a voice sounds. His pitch rose when he got excited.",
+        "Priya: Why does he mumble?",
+        "Daniel: He began to mumble when he felt shy. We have chit-chat at lunch, but we talk at cross purposes when we are tired."
+      ],
+      "listening": "On Tuesday, Priya talks to Daniel about tone of voice. She asks, 'Daniel, what is intonation?' Daniel says, 'It is the rise and fall of the voice.' Priya asks, 'What is pitch?' Daniel says, 'Pitch is how high or low a voice sounds.' Priya asks, 'Why does he mumble?' Daniel says, 'He began to mumble when he felt shy.'",
+      "question": "What is pitch?",
+      "correct": "How high or low a voice sounds",
+      "other": "How fast a person walks",
+      "reading": "On Tuesday, Priya talks to Daniel about tone of voice at Carter Retail Group. She says, 'Daniel, what is intonation?' Daniel says, 'It is the rise and fall of the voice. His intonation showed he was asking a question.' Priya says, 'What is pitch?' Daniel says, 'Pitch is how high or low a voice sounds. His pitch rose when he got excited.' Priya says, 'Why does he mumble?' Daniel says, 'He began to mumble when he felt shy. If she had watched his face, she would know he was unhappy now.' Priya says, 'We have chit-chat at lunch, but we talk at cross purposes when we are tired. Tone can say more than words.' Priya says, 'Yes. A warm voice can make a hard message easy to hear. A cold voice can make a kind message sound hard.'",
+      "readingQ": "What is pitch?",
+      "readingA": "How high or low a voice sounds.",
+      "speaking": "Tell a friend about tone of voice. What is intonation?",
+      "speakingSample": "I want to tell you about tone of voice. On Tuesday, Priya talked about tone of voice. She said, 'What is intonation?' Daniel said, 'It is the rise and fall of the voice.' His intonation showed he was asking a question. Pitch is how high or low a voice sounds. He began to mumble when he felt shy. Tone can say more than words.",
+      "writing": "Write a short email to a friend. Tell them about tone of voice.",
+      "writingSample": "Dear Tom, I want to tell you about tone of voice. On Tuesday, Priya talked about tone of voice at work. She said, 'What is intonation?' Daniel said, 'It is the rise and fall of the voice. His intonation showed he was asking a question.' Pitch is how high or low a voice sounds. His pitch rose when he got excited. He began to mumble when he felt shy. Tone can say more than words. Best, Daniel",
+      "sound": "Intonation has its strongest beat on NA. In intonation, say NA clearly in the middle. In pitch, say PITCH clearly.",
+      "model": "His intonation showed he was asking a question.",
+      "wordTask": "What is intonation?",
+      "wordSample": "The rise and fall of the voice."
+    },
+    {
+      "unit": 20,
+      "day": 155,
+      "title": "Really listening",
+      "goal": "I can talk about listening carefully.",
+      "newItems": [
+        {
+          "category": "new_word",
+          "day": 155,
+          "definition": "To repeat sounds when speaking because of nerves.",
+          "example": "He tends to stutter when he speaks fast.",
+          "ipa": "/ˈstʌtɚ/",
+          "pos": "verb",
+          "status": "new",
+          "word": "stutter"
+        },
+        {
+          "category": "new_word",
+          "day": 155,
+          "definition": "To listen secretly to other people's talk.",
+          "example": "He tried to eavesdrop on their talk.",
+          "ipa": "/ˈivzdrɑːp/",
+          "pos": "verb",
+          "status": "new",
+          "word": "eavesdrop"
+        },
+        {
+          "category": "fixed_phrase",
+          "day": 155,
+          "definition": "Thinking in the same way as someone.",
+          "example": "We are on the same wavelength about the plan.",
+          "ipa": "/ɑn ðə seɪm ˈweɪvlɛŋθ/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "on the same wavelength"
+        },
+        {
+          "category": "fixed_phrase",
+          "day": 155,
+          "definition": "To understand something as an insult by mistake.",
+          "example": "Please do not take something the wrong way.",
+          "ipa": "/teɪk ˈsʌmθɪŋ ðə rɔŋ weɪ/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "take something the wrong way"
+        },
+        {
+          "category": "fixed_phrase",
+          "day": 155,
+          "definition": "Listening with full attention.",
+          "example": "Tell me the news; I am all ears.",
+          "ipa": "/ɔl ɪrz/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "all ears"
+        }
+      ],
+      "reviewWords": [
+        "listen",
+        "speak",
+        "tell",
+        "ask",
+        "call"
+      ],
+      "mainWord": {
+        "category": "new_word",
+        "day": 155,
+        "definition": "To repeat sounds when speaking because of nerves.",
+        "example": "He tends to stutter when he speaks fast.",
+        "ipa": "/ˈstʌtɚ/",
+        "pos": "verb",
+        "status": "new",
+        "word": "stutter"
+      },
+      "mainWordForms": "Stutter is a verb. To repeat sounds when speaking because of nerves. He tends to stutter when he speaks fast.",
+      "pronunciationTarget": {
+        "word": "stutter",
+        "ipa": "/ˈstʌtɚ/"
+      },
+      "expression": "Tell me the news; I am all ears.",
+      "use": "Use this when you talk about listening.",
+      "expressionTask": "Maya talks to Daniel about listening. What does she ask him?",
+      "grammar": "Participle clauses: Listening carefully, she caught every word",
+      "pattern": "Listening carefully, she caught every word.",
+      "task": "Listening carefully, she ___ every word.",
+      "answer": "caught",
+      "example": "Listening carefully, she caught every word.",
+      "context": [
+        "Maya talks to Daniel about listening at work.",
+        "Tell me the news; I am all ears."
+      ],
+      "dialogue": [
+        "Maya: Daniel, why does he stutter?",
+        "Daniel: He tends to stutter when he speaks fast.",
+        "Maya: Did you eavesdrop on their talk?",
+        "Daniel: No, I did not eavesdrop. I only listened for a minute.",
+        "Maya: Are we on the same wavelength?",
+        "Daniel: Yes. Please do not take something the wrong way. I am all ears."
+      ],
+      "listening": "On Wednesday, Maya talks to Daniel about listening. She asks, 'Daniel, why does he stutter?' Daniel says, 'He tends to stutter when he speaks fast.' Maya asks, 'Did you eavesdrop on their talk?' Daniel says, 'No, I did not eavesdrop. I only listened for a minute.' Maya asks, 'Are we on the same wavelength?' Daniel says, 'Yes. Please do not take something the wrong way.'",
+      "question": "When does he stutter?",
+      "correct": "When he speaks fast",
+      "other": "When he is quiet",
+      "reading": "On Wednesday, Maya talks to Daniel about listening at Carter Retail Group. She says, 'Daniel, why does he stutter?' Daniel says, 'He tends to stutter when he speaks fast. Listening carefully, she caught every word.' Maya says, 'Did you eavesdrop on their talk?' Daniel says, 'No, I did not eavesdrop. I only listened for a minute.' Maya says, 'Are we on the same wavelength?' Daniel says, 'Yes, we are on the same wavelength about the plan. Please do not take something the wrong way. Tell me the news; I am all ears.' Maya says, 'Good. A good listener hears the words and the feeling behind them. Listening is a skill, and it takes time to learn.' Daniel says, 'A good listener does not just hear words. She hears the feeling in the voice too.'",
+      "readingQ": "Are Maya and Daniel on the same wavelength?",
+      "readingA": "Yes, they are.",
+      "speaking": "Tell a friend about listening. Why does he stutter?",
+      "speakingSample": "I want to tell you about listening. On Wednesday, Maya talked about listening. She said, 'Why does he stutter?' Daniel said, 'He tends to stutter when he speaks fast.' She asked, 'Did you eavesdrop on their talk?' He said, 'No, I did not eavesdrop.' We are on the same wavelength about the plan. Please do not take something the wrong way. I am all ears.",
+      "writing": "Write a short email to a friend. Tell them about listening.",
+      "writingSample": "Dear Tom, I want to tell you about listening. On Wednesday, Maya talked about listening at work. She said, 'Why does he stutter?' Daniel said, 'He tends to stutter when he speaks fast.' She asked, 'Did you eavesdrop on their talk?' He said, 'No, I did not eavesdrop. I only listened for a minute.' We are on the same wavelength about the plan. Please do not take something the wrong way. Tell me the news; I am all ears. Best, Daniel",
+      "sound": "Stutter has its strongest beat on STUT. In stutter, say STUT clearly at the start. In eavesdrop, say EAVES clearly at the start.",
+      "model": "He tends to stutter when he speaks fast.",
+      "wordTask": "Why does he stutter?",
+      "wordSample": "He speaks fast."
+    },
+    {
+      "unit": 20,
+      "day": 156,
+      "title": "When messages go wrong",
+      "goal": "I can talk about misunderstandings.",
+      "newItems": [
+        {
+          "category": "new_word",
+          "day": 156,
+          "definition": "To understand something in the wrong way.",
+          "example": "Do not misinterpret my silence as anger.",
+          "ipa": "/ˌmɪsɪnˈtɝprɪt/",
+          "pos": "verb",
+          "status": "new",
+          "word": "misinterpret"
+        },
+        {
+          "category": "new_word",
+          "day": 156,
+          "definition": "To read or understand something wrongly.",
+          "example": "He misread the sign and took the wrong road.",
+          "ipa": "/ˌmɪsˈrid/",
+          "pos": "verb",
+          "status": "new",
+          "word": "misread"
+        },
+        {
+          "category": "fixed_phrase",
+          "day": 156,
+          "definition": "To avoid saying what you mean directly.",
+          "example": "Stop beating around the bush and tell me.",
+          "ipa": "/bit əˈraʊnd ðə bʊʃ/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "beat around the bush"
+        },
+        {
+          "category": "fixed_phrase",
+          "day": 156,
+          "definition": "To say what you mean at once.",
+          "example": "Let us get straight to the point.",
+          "ipa": "/ɡɛt streɪt tə ðə pɔɪnt/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "get straight to the point"
+        },
+        {
+          "category": "fixed_phrase",
+          "day": 156,
+          "definition": "To fail to understand the main idea.",
+          "example": "He missed the point of her joke.",
+          "ipa": "/mɪs ðə pɔɪnt/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "miss the point"
+        }
+      ],
+      "reviewWords": [
+        "sorry",
+        "morning",
+        "evening",
+        "today",
+        "work"
+      ],
+      "mainWord": {
+        "category": "new_word",
+        "day": 156,
+        "definition": "To understand something in the wrong way.",
+        "example": "Do not misinterpret my silence as anger.",
+        "ipa": "/ˌmɪsɪnˈtɝprɪt/",
+        "pos": "verb",
+        "status": "new",
+        "word": "misinterpret"
+      },
+      "mainWordForms": "Misinterpret is a verb. To understand something in the wrong way. Do not misinterpret my silence as anger.",
+      "pronunciationTarget": {
+        "word": "misinterpret",
+        "ipa": "/ˌmɪsɪnˈtɝprɪt/"
+      },
+      "expression": "Let us get straight to the point.",
+      "use": "Use this when you talk about a misunderstanding.",
+      "expressionTask": "Daniel talks to Maya about a misunderstanding. What does he ask her?",
+      "grammar": "Advanced passive: The message was misunderstood by the whole team",
+      "pattern": "The message was misunderstood by the whole team.",
+      "task": "The message was ___ by the whole team.",
+      "answer": "misunderstood",
+      "example": "The message was misunderstood by the whole team.",
+      "context": [
+        "Daniel talks to Maya about a misunderstanding at work.",
+        "Let us get straight to the point."
+      ],
+      "dialogue": [
+        "Daniel: Maya, what does misinterpret mean?",
+        "Maya: It means to understand something in the wrong way.",
+        "Daniel: Did he misread the sign?",
+        "Maya: Yes, he misread the sign and took the wrong road.",
+        "Daniel: Why do you beat around the bush?",
+        "Maya: I do not beat around the bush. Let us get straight to the point. Do not miss the point."
+      ],
+      "listening": "On Thursday, Daniel talks to Maya about a misunderstanding. He asks, 'Maya, what does misinterpret mean?' Maya says, 'It means to understand something in the wrong way.' Daniel asks, 'Did he misread the sign?' Maya says, 'Yes, he misread the sign and took the wrong road.' Daniel asks, 'Why do you beat around the bush?' Maya says, 'I do not beat around the bush.'",
+      "question": "What does misinterpret mean?",
+      "correct": "To understand something in the wrong way",
+      "other": "To read a book fast",
+      "reading": "On Thursday, Daniel talks to Maya about a misunderstanding at Carter Retail Group. He says, 'Maya, what does misinterpret mean?' Maya says, 'It means to understand something in the wrong way. The message was misunderstood by the whole team.' Daniel says, 'Did he misread the sign?' Maya says, 'Yes, he misread the sign and took the wrong road.' Daniel says, 'Why do you beat around the bush?' Maya says, 'I do not beat around the bush. Let us get straight to the point. Do not miss the point of my words.' Daniel says, 'Good. A short, clear message saves time for us all. When words are not clear, people guess, and guesses can be wrong.' Maya says, 'Yes. When a message is not clear, people fill the gaps with guesses, and a small guess can grow into a big mistake.'",
+      "readingQ": "What was misunderstood?",
+      "readingA": "The message.",
+      "speaking": "Tell a friend about a misunderstanding. What does misinterpret mean?",
+      "speakingSample": "I want to tell you about a misunderstanding. On Thursday, Daniel talked about a misunderstanding. He said, 'What does misinterpret mean?' Maya said, 'It means to understand something in the wrong way.' He misread the sign and took the wrong road. Let us get straight to the point. Do not miss the point of my words. A short, clear message saves time for us all.",
+      "writing": "Write a short email to a friend. Tell them about a misunderstanding.",
+      "writingSample": "Dear Tom, I want to tell you about a misunderstanding. On Thursday, Daniel talked about a misunderstanding at work. He said, 'What does misinterpret mean?' Maya said, 'It means to understand something in the wrong way. The message was misunderstood by the whole team.' He misread the sign and took the wrong road. Let us get straight to the point. Do not miss the point of my words. A short, clear message saves time for us all. Best, Daniel",
+      "sound": "Misinterpret has its strongest beat on PRET. In misinterpret, say PRET clearly in the middle. In misread, say READ clearly at the end.",
+      "model": "Do not misinterpret my silence as anger.",
+      "wordTask": "What does misinterpret mean?",
+      "wordSample": "To understand something in the wrong way."
+    },
+    {
+      "unit": 20,
+      "day": 157,
+      "title": "Polite and indirect",
+      "goal": "I can talk about polite language.",
+      "newItems": [
+        {
+          "category": "new_word",
+          "day": 157,
+          "definition": "Direct and honest, sometimes too direct.",
+          "example": "Her blunt words shocked the team.",
+          "ipa": "/blʌnt/",
+          "pos": "adjective",
+          "status": "new",
+          "word": "blunt"
+        },
+        {
+          "category": "new_word",
+          "day": 157,
+          "definition": "Skill in dealing with people without hurting them.",
+          "example": "She handled the news with great tact.",
+          "ipa": "/tækt/",
+          "pos": "noun",
+          "status": "new",
+          "word": "tact"
+        },
+        {
+          "category": "fixed_phrase",
+          "day": 157,
+          "definition": "To stop yourself from speaking.",
+          "example": "He held his tongue during the row.",
+          "ipa": "/hoʊld jʊr tʌŋ/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "hold your tongue"
+        },
+        {
+          "category": "fixed_phrase",
+          "day": 157,
+          "definition": "To stop yourself from saying something.",
+          "example": "She bit her tongue and said nothing.",
+          "ipa": "/baɪt jʊr tʌŋ/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "bite your tongue"
+        },
+        {
+          "category": "fixed_phrase",
+          "day": 157,
+          "definition": "To think carefully before speaking.",
+          "example": "He weighed his words before he replied.",
+          "ipa": "/weɪ jʊr wɝdz/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "weigh your words"
+        }
+      ],
+      "reviewWords": [
+        "time",
+        "day",
+        "home",
+        "family",
+        "book"
+      ],
+      "mainWord": {
+        "category": "new_word",
+        "day": 157,
+        "definition": "Direct and honest, sometimes too direct.",
+        "example": "Her blunt words shocked the team.",
+        "ipa": "/blʌnt/",
+        "pos": "adjective",
+        "status": "new",
+        "word": "blunt"
+      },
+      "mainWordForms": "Blunt is an adjective. Direct and honest, sometimes too direct. Her blunt words shocked the team.",
+      "pronunciationTarget": {
+        "word": "blunt",
+        "ipa": "/blʌnt/"
+      },
+      "expression": "She handled the news with great tact.",
+      "use": "Use this when you talk about being polite.",
+      "expressionTask": "Priya talks to Daniel about polite language. What does she ask him?",
+      "grammar": "Hedging: It might be better to say it more gently",
+      "pattern": "It might be better to say it more gently.",
+      "task": "It ___ be better to say it more gently.",
+      "answer": "might",
+      "example": "It might be better to say it more gently.",
+      "context": [
+        "Priya talks to Daniel about polite language at work.",
+        "She handled the news with great tact."
+      ],
+      "dialogue": [
+        "Priya: Daniel, what does blunt mean?",
+        "Daniel: It means direct and honest, sometimes too direct.",
+        "Priya: What is tact?",
+        "Daniel: Tact is skill in dealing with people. She handled the news with great tact.",
+        "Priya: Should I hold my tongue in the meeting?",
+        "Daniel: Yes. Hold your tongue and weigh your words. Sometimes I bite my tongue too, and then I think before I speak."
+      ],
+      "listening": "On Friday, Priya talks to Daniel about polite language. She asks, 'Daniel, what does blunt mean?' Daniel says, 'It means direct and honest, sometimes too direct.' Priya asks, 'What is tact?' Daniel says, 'Tact is skill in dealing with people.' Priya asks, 'Should I hold my tongue?' Daniel says, 'Yes. Hold your tongue and weigh your words.'",
+      "question": "What does blunt mean?",
+      "correct": "Direct and honest",
+      "other": "Soft and quiet",
+      "reading": "On Friday, Priya talks to Daniel about polite language at Carter Retail Group. She says, 'Daniel, what does blunt mean?' Daniel says, 'It means direct and honest, sometimes too direct. Her blunt words shocked the team.' Priya says, 'What is tact?' Daniel says, 'Tact is skill in dealing with people without hurting them. She handled the news with great tact. It might be better to say it more gently.' Priya says, 'Should I hold my tongue in the meeting?' Daniel says, 'Yes. Hold your tongue and weigh your words before you speak. Sometimes I bite my tongue too, and then I think before I speak.' Priya says, 'Good. Polite words keep a team strong.' Daniel says, 'A blunt word can hurt, but a kind word can open a door. Tact is not fear; it is care for the other person.'",
+      "readingQ": "What is tact?",
+      "readingA": "Skill in dealing with people.",
+      "speaking": "Tell a friend about polite language. What does blunt mean?",
+      "speakingSample": "I want to tell you about polite language. On Friday, Priya talked about polite language. She said, 'What does blunt mean?' Daniel said, 'It means direct and honest, sometimes too direct.' Tact is skill in dealing with people. Hold your tongue and weigh your words before you speak. She handled the news with great tact. It might be better to say it more gently.",
+      "writing": "Write a short email to a friend. Tell them about polite language.",
+      "writingSample": "Dear Tom, I want to tell you about polite language. On Friday, Priya talked about polite language at work. She said, 'What does blunt mean?' Daniel said, 'It means direct and honest, sometimes too direct.' Tact is skill in dealing with people without hurting them. She handled the news with great tact. Hold your tongue and weigh your words before you speak. It might be better to say it more gently. Polite words keep a team strong. Best, Daniel",
+      "sound": "Blunt has its strongest beat on BLUNT. In blunt, say BLUNT clearly. In tact, say TACT clearly.",
+      "model": "Her blunt words shocked the team.",
+      "wordTask": "What does blunt mean?",
+      "wordSample": "Direct and honest."
+    },
+    {
+      "unit": 20,
+      "day": 158,
+      "title": "Making yourself clear",
+      "goal": "I can talk about explaining and clarifying.",
+      "newItems": [
+        {
+          "category": "new_word",
+          "day": 158,
+          "definition": "To say the same thing in different words.",
+          "example": "She asked him to paraphrase the long text.",
+          "ipa": "/ˈpɛrəfreɪz/",
+          "pos": "verb",
+          "status": "new",
+          "word": "paraphrase"
+        },
+        {
+          "category": "new_word",
+          "day": 158,
+          "definition": "To say something again in a different way.",
+          "example": "Let me rephrase the question for you.",
+          "ipa": "/riˈfreɪz/",
+          "pos": "verb",
+          "status": "new",
+          "word": "rephrase"
+        },
+        {
+          "category": "new_word",
+          "day": 158,
+          "definition": "To suggest something without saying it.",
+          "example": "Her smile seemed to imply that she agreed.",
+          "ipa": "/ɪmˈplaɪ/",
+          "pos": "verb",
+          "status": "new",
+          "word": "imply"
+        },
+        {
+          "category": "fixed_phrase",
+          "day": 158,
+          "definition": "Used to explain your point more clearly.",
+          "example": "What I mean is that we should wait.",
+          "ipa": "/wʌt aɪ min ɪz/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "what I mean is"
+        },
+        {
+          "category": "fixed_phrase",
+          "day": 158,
+          "definition": "A small mistake in speaking.",
+          "example": "It was just a slip of the tongue.",
+          "ipa": "/ə slɪp ʌv ðə tʌŋ/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "a slip of the tongue"
+        }
+      ],
+      "reviewWords": [
+        "read",
+        "meet",
+        "visit",
+        "watch",
+        "play"
+      ],
+      "mainWord": {
+        "category": "new_word",
+        "day": 158,
+        "definition": "To say the same thing in different words.",
+        "example": "She asked him to paraphrase the long text.",
+        "ipa": "/ˈpɛrəfreɪz/",
+        "pos": "verb",
+        "status": "new",
+        "word": "paraphrase"
+      },
+      "mainWordForms": "Paraphrase is a verb. To say the same thing in different words. She asked him to paraphrase the long text.",
+      "pronunciationTarget": {
+        "word": "paraphrase",
+        "ipa": "/ˈpɛrəfreɪz/"
+      },
+      "expression": "What I mean is that we should wait.",
+      "use": "Use this when you explain your point.",
+      "expressionTask": "Maya talks to Daniel about explaining. What does she ask him?",
+      "grammar": "Advanced reported speech: He said that he had meant something else",
+      "pattern": "He said that he had meant something else.",
+      "task": "He said that he had ___ something else.",
+      "answer": "meant",
+      "example": "He said that he had meant something else.",
+      "context": [
+        "Maya talks to Daniel about explaining at work.",
+        "What I mean is that we should wait."
+      ],
+      "dialogue": [
+        "Maya: Daniel, what does paraphrase mean?",
+        "Daniel: It means to say the same thing in different words.",
+        "Maya: Can you rephrase the question?",
+        "Daniel: Yes. Let me rephrase the question for you.",
+        "Maya: What did his smile imply?",
+        "Daniel: His smile seemed to imply that he agreed. What I mean is, it was just a slip of the tongue."
+      ],
+      "listening": "On Saturday, Maya talks to Daniel about explaining. She asks, 'Daniel, what does paraphrase mean?' Daniel says, 'It means to say the same thing in different words.' Maya asks, 'Can you rephrase the question?' Daniel says, 'Yes. Let me rephrase the question for you.' Maya asks, 'What did his smile imply?' Daniel says, 'His smile seemed to imply that he agreed.'",
+      "question": "What does paraphrase mean?",
+      "correct": "To say the same thing in different words",
+      "other": "To write a long letter",
+      "reading": "On Saturday, Maya talks to Daniel about explaining at Carter Retail Group. She says, 'Daniel, what does paraphrase mean?' Daniel says, 'It means to say the same thing in different words. She asked him to paraphrase the long text.' Maya says, 'Can you rephrase the question?' Daniel says, 'Yes. Let me rephrase the question for you. He said that he had meant something else.' Maya says, 'What did his smile imply?' Daniel says, 'His smile seemed to imply that he agreed. What I mean is, it was just a slip of the tongue.' Maya says, 'Good. Clear words help a team work well. When I am not clear, I stop and say my point again in new words.' Daniel says, 'When words fail, I try again with new words. A clear point said twice is better than a fine point said once.'",
+      "readingQ": "What did his smile imply?",
+      "readingA": "That he agreed.",
+      "speaking": "Tell a friend about explaining. What does paraphrase mean?",
+      "speakingSample": "I want to tell you about explaining. On Saturday, Maya talked about explaining. She said, 'What does paraphrase mean?' Daniel said, 'It means to say the same thing in different words.' Let me rephrase the question for you. His smile seemed to imply that he agreed. What I mean is, it was just a slip of the tongue. Clear words help a team work well.",
+      "writing": "Write a short email to a friend. Tell them about explaining.",
+      "writingSample": "Dear Tom, I want to tell you about explaining. On Saturday, Maya talked about explaining at work. She said, 'What does paraphrase mean?' Daniel said, 'It means to say the same thing in different words. She asked him to paraphrase the long text.' Let me rephrase the question for you. His smile seemed to imply that he agreed. What I mean is, it was just a slip of the tongue. Clear words help a team work well. Best, Daniel",
+      "sound": "Paraphrase has its strongest beat on PHRASE. In paraphrase, say PHRASE clearly at the end. In rephrase, say PHRASE clearly at the end.",
+      "model": "She asked him to paraphrase the long text.",
+      "wordTask": "What does paraphrase mean?",
+      "wordSample": "To say the same thing in different words."
+    },
+    {
+      "unit": 20,
+      "day": 159,
+      "title": "Talking at work",
+      "goal": "I can talk about communication at work.",
+      "newItems": [
+        {
+          "category": "new_word",
+          "day": 159,
+          "definition": "Speaking in a clear and beautiful way.",
+          "example": "She gave an eloquent speech at the event.",
+          "ipa": "/ˈɛləkwənt/",
+          "pos": "adjective",
+          "status": "new",
+          "word": "eloquent"
+        },
+        {
+          "category": "new_word",
+          "day": 159,
+          "definition": "Able to speak clearly and well.",
+          "example": "She is an articulate speaker on the radio.",
+          "ipa": "/ɑːrˈtɪkjələt/",
+          "pos": "adjective",
+          "status": "new",
+          "word": "articulate"
+        },
+        {
+          "category": "fixed_phrase",
+          "day": 159,
+          "definition": "Unable to speak because of nerves.",
+          "example": "He felt tongue-tied in front of the crowd.",
+          "ipa": "/ˈtʌŋtaɪd/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "tongue-tied"
+        },
+        {
+          "category": "fixed_phrase",
+          "day": 159,
+          "definition": "Unable to find words to say.",
+          "example": "She was lost for words at the news.",
+          "ipa": "/lɔst fɔːr wɝdz/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "lost for words"
+        },
+        {
+          "category": "fixed_phrase",
+          "day": 159,
+          "definition": "Not kept informed.",
+          "example": "He felt out of the loop at work.",
+          "ipa": "/aʊt ʌv ðə lup/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "out of the loop"
+        }
+      ],
+      "reviewWords": [
+        "eat",
+        "drink",
+        "sleep",
+        "walk",
+        "run"
+      ],
+      "mainWord": {
+        "category": "new_word",
+        "day": 159,
+        "definition": "Speaking in a clear and beautiful way.",
+        "example": "She gave an eloquent speech at the event.",
+        "ipa": "/ˈɛləkwənt/",
+        "pos": "adjective",
+        "status": "new",
+        "word": "eloquent"
+      },
+      "mainWordForms": "Eloquent is an adjective. Speaking in a clear and beautiful way. She gave an eloquent speech at the event.",
+      "pronunciationTarget": {
+        "word": "eloquent",
+        "ipa": "/ˈɛləkwənt/"
+      },
+      "expression": "She was lost for words at the news.",
+      "use": "Use this when you talk about work meetings.",
+      "expressionTask": "Daniel talks to Maya about work meetings. What does he ask her?",
+      "grammar": "Subjunctive: It is important that everyone be heard in the meeting",
+      "pattern": "It is important that everyone be heard in the meeting.",
+      "task": "It is important that everyone ___ heard in the meeting.",
+      "answer": "be",
+      "example": "It is important that everyone be heard in the meeting.",
+      "context": [
+        "Daniel talks to Maya about work meetings at work.",
+        "She was lost for words at the news."
+      ],
+      "dialogue": [
+        "Daniel: Maya, what does eloquent mean?",
+        "Maya: It means speaking in a clear and beautiful way.",
+        "Daniel: Is she articulate?",
+        "Maya: Yes, she is an articulate speaker on the radio.",
+        "Daniel: Why was he tongue-tied?",
+        "Maya: He felt tongue-tied in front of the crowd. She was lost for words at the news, and he felt out of the loop at work."
+      ],
+      "listening": "On Sunday, Daniel talks to Maya about work meetings. He asks, 'Maya, what does eloquent mean?' Maya says, 'It means speaking in a clear and beautiful way.' Daniel asks, 'Is she articulate?' Maya says, 'Yes, she is an articulate speaker on the radio.' Daniel asks, 'Why was he tongue-tied?' Maya says, 'He felt tongue-tied in front of the crowd.'",
+      "question": "What does eloquent mean?",
+      "correct": "Speaking in a clear and beautiful way",
+      "other": "Speaking very fast",
+      "reading": "On Sunday, Daniel talks to Maya about work meetings at Carter Retail Group. He says, 'Maya, what does eloquent mean?' Maya says, 'It means speaking in a clear and beautiful way. She gave an eloquent speech at the event.' Daniel says, 'Is she articulate?' Maya says, 'Yes, she is an articulate speaker on the radio. It is important that everyone be heard in the meeting.' Daniel says, 'Why was he tongue-tied?' Maya says, 'He felt tongue-tied in front of the crowd. She was lost for words at the news, and he felt out of the loop at work.' Daniel says, 'Good. A good meeting gives everyone a voice.' Maya says, 'Yes. A good speaker does not hide behind long words. She speaks in a clear and beautiful way, and every person in the room can follow her.'",
+      "readingQ": "Is she articulate?",
+      "readingA": "Yes, she is.",
+      "speaking": "Tell a friend about work meetings. What does eloquent mean?",
+      "speakingSample": "I want to tell you about work meetings. On Sunday, Daniel talked about work meetings. He said, 'What does eloquent mean?' Maya said, 'It means speaking in a clear and beautiful way.' She is an articulate speaker on the radio. He felt tongue-tied in front of the crowd. She was lost for words at the news, and he felt out of the loop at work.",
+      "writing": "Write a short email to a friend. Tell them about work meetings.",
+      "writingSample": "Dear Tom, I want to tell you about work meetings. On Sunday, Daniel talked about work meetings at work. He said, 'What does eloquent mean?' Maya said, 'It means speaking in a clear and beautiful way. She gave an eloquent speech at the event.' She is an articulate speaker on the radio. It is important that everyone be heard in the meeting. She was lost for words at the news, and he felt out of the loop at work. A good meeting gives everyone a voice. Best, Daniel",
+      "sound": "Eloquent has its strongest beat on LO. In eloquent, say LO clearly in the middle. In articulate, say TIC clearly in the middle.",
+      "model": "She gave an eloquent speech at the event.",
+      "wordTask": "What does eloquent mean?",
+      "wordSample": "Speaking in a clear and beautiful way."
+    },
+    {
+      "unit": 20,
+      "day": 160,
+      "title": "Use language English in a new situation",
+      "goal": "I can use language English in a new situation.",
+      "newItems": [
+        {
+          "category": "new_word",
+          "day": 160,
+          "definition": "Saying the opposite of what you mean to mock someone.",
+          "example": "His sarcasm made the room laugh.",
+          "ipa": "/ˈsɑːrkæzəm/",
+          "pos": "noun",
+          "status": "new",
+          "word": "sarcasm"
+        },
+        {
+          "category": "new_word",
+          "day": 160,
+          "definition": "Saying the opposite of what you mean, often as a joke.",
+          "example": "The irony was that the fire station caught fire.",
+          "ipa": "/ˈaɪrəni/",
+          "pos": "noun",
+          "status": "new",
+          "word": "irony"
+        },
+        {
+          "category": "new_word",
+          "day": 160,
+          "definition": "Using words in a picture way, not the exact way.",
+          "example": "His speech used figurative words about the sea.",
+          "ipa": "/ˈfɪɡjərətɪv/",
+          "pos": "adjective",
+          "status": "new",
+          "word": "figurative"
+        },
+        {
+          "category": "fixed_phrase",
+          "day": 160,
+          "definition": "To say exactly the right thing.",
+          "example": "She hit the nail on the head with her remark.",
+          "ipa": "/hɪt ðə neɪl ɑn ðə hɛd/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "hit the nail on the head"
+        },
+        {
+          "category": "fixed_phrase",
+          "day": 160,
+          "definition": "In simple, clear language.",
+          "example": "Tell me in plain English what it means.",
+          "ipa": "/ɪn pleɪn ˈɪŋɡlɪʃ/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "in plain English"
+        }
+      ],
+      "reviewWords": [
+        "new",
+        "old",
+        "easy",
+        "hard",
+        "early"
+      ],
+      "mainWord": {
+        "category": "new_word",
+        "day": 160,
+        "definition": "Saying the opposite of what you mean to mock someone.",
+        "example": "His sarcasm made the room laugh.",
+        "ipa": "/ˈsɑːrkæzəm/",
+        "pos": "noun",
+        "status": "new",
+        "word": "sarcasm"
+      },
+      "mainWordForms": "Sarcasm is a noun. Saying the opposite of what you mean to mock someone. His sarcasm made the room laugh.",
+      "pronunciationTarget": {
+        "word": "sarcasm",
+        "ipa": "/ˈsɑːrkæzəm/"
+      },
+      "expression": "Tell me in plain English what it means.",
+      "use": "Use this when you talk about language in a new situation.",
+      "expressionTask": "Daniel meets Sara at a language class. What does he ask her?",
+      "grammar": "Wish and if only for review: I wish I had explained it more clearly",
+      "pattern": "I wish I had explained it more clearly.",
+      "task": "I wish I had explained it more ___.",
+      "answer": "clearly",
+      "example": "I wish I had explained it more clearly.",
+      "context": [
+        "Emma talks about language with her mother.",
+        "Tell me in plain English what it means."
+      ],
+      "dialogue": [
+        "Emma: Mum, what is sarcasm?",
+        "Mother: It is saying the opposite of what you mean to mock someone.",
+        "Emma: What is irony?",
+        "Mother: Irony is saying the opposite of what you mean, often as a joke.",
+        "Emma: What does figurative mean?",
+        "Mother: It means using words in a picture way. She hit the nail on the head. Tell me in plain English what it means."
+      ],
+      "listening": "On Monday, Emma talks about language. She asks, 'Mum, what is sarcasm?' Her mother says, 'It is saying the opposite of what you mean to mock someone.' Emma asks, 'What is irony?' Her mother says, 'Irony is saying the opposite of what you mean, often as a joke.' Emma asks, 'What does figurative mean?' Her mother says, 'It means using words in a picture way.'",
+      "question": "What is sarcasm?",
+      "correct": "Saying the opposite of what you mean to mock someone",
+      "other": "Saying words very fast",
+      "reading": "On Monday, Emma talks about language with her mother. Emma says, 'Mum, what is sarcasm?' Her mother says, 'It is saying the opposite of what you mean to mock someone. His sarcasm made the room laugh.' Emma says, 'What is irony?' Her mother says, 'Irony is saying the opposite of what you mean, often as a joke. The irony was that the fire station caught fire.' Emma says, 'What does figurative mean?' Her mother says, 'It means using words in a picture way, not the exact way. She hit the nail on the head with her remark. Tell me in plain English what it means.' Emma says, 'Good. Words can build a bridge, and words can build a wall. I want my words to build a bridge.' Her mother says, 'Yes. A clear word is a gift, and a kind word is a gift too.'",
+      "readingQ": "What is irony?",
+      "readingA": "Saying the opposite of what you mean.",
+      "speaking": "Tell a friend about language. What is sarcasm?",
+      "speakingSample": "I want to tell you about language. On Monday, Emma talked about language. She said, 'What is sarcasm?' Her mother said, 'It is saying the opposite of what you mean to mock someone.' What is irony? Irony is saying the opposite of what you mean, often as a joke. She hit the nail on the head. Tell me in plain English what it means.",
+      "writing": "Write a short email to a friend. Tell them about language.",
+      "writingSample": "Dear Anna, I want to tell you about language. On Monday, Emma talked about language with her mother. She said, 'What is sarcasm?' Her mother said, 'It is saying the opposite of what you mean to mock someone. His sarcasm made the room laugh.' What is irony? Irony is saying the opposite of what you mean, often as a joke. She hit the nail on the head with her remark. Tell me in plain English what it means. Best, Emma",
+      "sound": "Sarcasm has its strongest beat on CAS. In sarcasm, say CAS clearly in the middle. In irony, say I clearly at the start.",
+      "model": "His sarcasm made the room laugh.",
+      "wordTask": "What is sarcasm?",
+      "wordSample": "Saying the opposite of what you mean.",
+      "transferCheck": {
+        "source": "On Saturday, Emma goes to a language class with her friend Sara. Emma says, 'I can use language English in a new situation. Tell me in plain English what it means.' Sara says, 'Yes. What can we do?' Emma says, 'We can talk about sarcasm and irony. She hit the nail on the head with her remark.' Sara says, 'Good. You use language English well.'",
+        "dictation": "I can use language English in a new situation.",
+        "answer": "1. Emma goes to a language class with her friend Sara. She talks about language. 2. Emma's first job is to say she can use language English in a new situation. 3. On Saturday, Emma says, 'I can use language English in a new situation.' 4. I can use language English in a new situation. 5. Sample: On Saturday, Emma goes to a language class with her friend Sara. Emma says, 'I can use language English in a new situation. Tell me in plain English what it means.' Sara says, 'Yes. What can we do?' Emma says, 'We can talk about sarcasm and irony. His speech used figurative words about the sea. She hit the nail on the head with her remark.' Sara says, 'Good. You use language English well.' Follow-up: What does Emma talk about? Sarcasm and irony.",
+        "tasks": [
+          [
+            "1 · Identify the people and the new situation",
+            "Who does Emma meet, and what does she talk about?"
+          ],
+          [
+            "2 · Work out what Emma does first",
+            "What is Emma's first job, and what does she say?"
+          ],
+          [
+            "3 · Notice the sentence on Saturday",
+            "What does Emma say on Saturday?"
+          ],
+          [
+            "4 · Listen and write",
+            "Write the sentence you hear."
+          ],
+          [
+            "5 · Retell and answer",
+            "Tell the story in order, including the people, the new situation, the first talk, and the result. Then answer one follow-up question."
+          ]
+        ]
+      }
+    }
+  ]
+}

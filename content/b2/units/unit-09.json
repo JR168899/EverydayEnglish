@@ -1,0 +1,953 @@
+{
+  "number": 9,
+  "title": "Careers, change and ambition",
+  "lessons": [
+    {
+      "unit": 9,
+      "day": 65,
+      "title": "Choosing a career",
+      "goal": "I can talk about choosing a career.",
+      "newItems": [
+        {
+          "word": "employer",
+          "ipa": "/ɪmˈplɔɪɚ/",
+          "pos": "noun",
+          "definition": "A person or company that pays people to work.",
+          "example": "Her employer gives her two weeks off.",
+          "category": "new_word",
+          "status": "new",
+          "day": 65
+        },
+        {
+          "word": "ambition",
+          "ipa": "/æmˈbɪʃən/",
+          "pos": "noun",
+          "definition": "A strong wish to do well or to be successful.",
+          "example": "His ambition is to run his own shop.",
+          "category": "new_word",
+          "status": "new",
+          "day": 65
+        },
+        {
+          "word": "profession",
+          "ipa": "/prəˈfɛʃən/",
+          "pos": "noun",
+          "definition": "A job that needs special study or training, like law or teaching.",
+          "example": "Nursing is a caring profession.",
+          "category": "new_word",
+          "status": "new",
+          "day": 65
+        },
+        {
+          "word": "climb the career ladder",
+          "ipa": "/klaɪm ðə kəˈrɪr ˈlædɚ/",
+          "pos": "fixed phrase",
+          "definition": "To move to better and better jobs over time.",
+          "example": "She wants to climb the career ladder fast.",
+          "category": "fixed_phrase",
+          "status": "new",
+          "day": 65
+        },
+        {
+          "word": "work your way up",
+          "ipa": "/wɝk jɔr weɪ ʌp/",
+          "pos": "fixed phrase",
+          "definition": "To move to better jobs slowly by working hard.",
+          "example": "He worked his way up from shop assistant to manager.",
+          "category": "fixed_phrase",
+          "status": "new",
+          "day": 65
+        }
+      ],
+      "reviewWords": [
+        "job",
+        "work",
+        "team",
+        "office",
+        "boss"
+      ],
+      "mainWord": {
+        "word": "employer",
+        "ipa": "/ɪmˈplɔɪɚ/",
+        "pos": "noun",
+        "definition": "A person or company that pays people to work.",
+        "example": "Her employer gives her two weeks off.",
+        "category": "new_word",
+        "status": "new",
+        "day": 65
+      },
+      "mainWordForms": "Employer is a noun. A person or company that pays people to work. Her employer gives her two weeks off.",
+      "pronunciationTarget": {
+        "word": "employer",
+        "ipa": "/ɪmˈplɔɪɚ/"
+      },
+      "expression": "She wants to climb the career ladder fast.",
+      "use": "Use this when you talk about moving to better jobs over time.",
+      "expressionTask": "Maya talks to Daniel about his career. What does she want to do?",
+      "grammar": "Present perfect continuous: I have been working as a designer for five years",
+      "pattern": "I have been working as a designer for five years.",
+      "task": "I have been ___ as a designer for five years.",
+      "answer": "working",
+      "example": "I have been working as a designer for five years.",
+      "context": [
+        "Maya talks to Daniel about choosing a career.",
+        "She wants to climb the career ladder fast. Daniel started at the bottom and worked his way up."
+      ],
+      "dialogue": [
+        "Maya: Daniel, what is your ambition for the next five years?",
+        "Daniel: I want to climb the career ladder. I have been working as an analyst for two years.",
+        "Maya: That is a good ambition. What is your employer like?",
+        "Daniel: Carter Retail Group is a good employer. I started at the bottom and worked my way up.",
+        "Priya: Teaching is a good profession too. My sister is a teacher.",
+        "Maya: Yes. Choose a career you love, and work your way up step by step."
+      ],
+      "listening": "On Monday, Daniel talks to Maya about choosing a career. His ambition is to climb the career ladder and become a manager. He has been working as an analyst for two years. His employer is Carter Retail Group. Maya says, 'Teaching is a good profession too. Choose a career you love. Start at the bottom and work your way up.' Daniel is happy.",
+      "question": "What is Daniel's ambition?",
+      "correct": "To climb the career ladder and become a manager",
+      "other": "To leave his job at once",
+      "reading": "On Monday, Daniel talks to Maya about choosing a career. Daniel works for Carter Retail Group. His ambition is to climb the career ladder and become a manager one day. He has been working as an analyst for two years. His employer is a good company, and his team is friendly. Maya says, 'Choose a career you love. Teaching is a good profession, but business is good too.' Daniel asks, 'How can I climb the career ladder fast?' Maya says, 'Start at the bottom and work your way up. Learn new skills every year. Talk to people in other teams. Ask your boss for new work.' Priya says, 'My sister is a teacher. Her profession makes her happy. She worked her way up from a small school to a big one.' Maya says, 'Good. Work hard, learn fast, and climb the career ladder step by step.' Daniel is happy. He says, 'Thank you, Maya. I will work hard every day.'",
+      "readingQ": "What does Maya tell Daniel to do?",
+      "readingA": "Start at the bottom and work his way up.",
+      "speaking": "Tell a friend about choosing a career. What is your ambition? What job do you want?",
+      "speakingSample": "I want to talk about choosing a career. My ambition is to climb the career ladder and become a manager. I have been working as an analyst for two years. My employer is Carter Retail Group. Teaching is a good profession too. I will start at the bottom and work my way up. I will learn new skills every year.",
+      "writing": "Write a short email to a friend. Tell them about the career you want. Say what your ambition is and how you will reach it.",
+      "writingSample": "Dear Tom, I want to tell you about choosing a career. My ambition is to climb the career ladder and become a manager. I have been working as an analyst for two years. My employer is Carter Retail Group. Teaching is a good profession too. I will start at the bottom and work my way up. I will learn new skills every year. Please tell me about your career. What is your ambition for the next five years? Best, Daniel",
+      "sound": "Employer has its strongest beat on PLOY. In employer, say PLOY clearly in the middle. In ambition, say BI clearly in the middle.",
+      "model": "Her employer gives her two weeks off.",
+      "wordTask": "Who is your employer?",
+      "wordSample": "My employer is Carter Retail Group."
+    },
+    {
+      "unit": 9,
+      "day": 66,
+      "title": "Job interviews",
+      "goal": "I can talk about job interviews.",
+      "newItems": [
+        {
+          "word": "applicant",
+          "ipa": "/ˈæpləkənt/",
+          "pos": "noun",
+          "definition": "A person who asks for a job by sending in an application.",
+          "example": "Ten applicants came for the interview.",
+          "category": "new_word",
+          "status": "new",
+          "day": 66
+        },
+        {
+          "word": "interviewer",
+          "ipa": "/ˈɪntɚˌvjuɚ/",
+          "pos": "noun",
+          "definition": "The person who asks questions at a job interview.",
+          "example": "The interviewer asked about her last job.",
+          "category": "new_word",
+          "status": "new",
+          "day": 66
+        },
+        {
+          "word": "candidate",
+          "ipa": "/ˈkændəˌdeɪt/",
+          "pos": "noun",
+          "definition": "A person who is being considered for a job.",
+          "example": "Three candidates will come for a second interview.",
+          "category": "new_word",
+          "status": "new",
+          "day": 66
+        },
+        {
+          "word": "land a job",
+          "ipa": "/lænd ə dʒɑb/",
+          "pos": "fixed phrase",
+          "definition": "To get a job, often after trying hard.",
+          "example": "She landed a job at a big bank.",
+          "category": "fixed_phrase",
+          "status": "new",
+          "day": 66
+        },
+        {
+          "word": "go for an interview",
+          "ipa": "/ɡoʊ fɔr ən ˈɪntɚˌvju/",
+          "pos": "fixed phrase",
+          "definition": "To attend a meeting to be asked about a job.",
+          "example": "She will go for an interview on Monday.",
+          "category": "fixed_phrase",
+          "status": "new",
+          "day": 66
+        }
+      ],
+      "reviewWords": [
+        "month",
+        "year",
+        "week",
+        "morning",
+        "plan"
+      ],
+      "mainWord": {
+        "word": "applicant",
+        "ipa": "/ˈæpləkənt/",
+        "pos": "noun",
+        "definition": "A person who asks for a job by sending in an application.",
+        "example": "Ten applicants came for the interview.",
+        "category": "new_word",
+        "status": "new",
+        "day": 66
+      },
+      "mainWordForms": "Applicant is a noun. A person who asks for a job by sending in an application. Ten applicants came for the interview.",
+      "pronunciationTarget": {
+        "word": "applicant",
+        "ipa": "/ˈæpləkənt/"
+      },
+      "expression": "She landed a job at a big bank.",
+      "use": "Use this when you talk about getting a job after trying hard.",
+      "expressionTask": "Priya tells Daniel about her last interview. Where did she land a job?",
+      "grammar": "Indirect questions: Could you tell me about your last job",
+      "pattern": "Could you tell me about your last job?",
+      "task": "Could you tell me ___ your last job?",
+      "answer": "about",
+      "example": "Could you tell me about your last job?",
+      "context": [
+        "Priya tells Daniel about her last interview.",
+        "She landed a job at a big bank. The interviewer asked about her last job."
+      ],
+      "dialogue": [
+        "Priya: Daniel, I will go for an interview at a big bank next week.",
+        "Daniel: Good luck. Could you tell me about your last job?",
+        "Priya: I will tell the interviewer about my work. She will ask many questions.",
+        "Daniel: Will there be one other candidate for the job?",
+        "Priya: Yes, but I am a strong applicant. I hope to land a job there.",
+        "Maya: Well done. It is not easy to land a job at a big bank."
+      ],
+      "listening": "On Tuesday, Priya tells Daniel about her interview. She will go for an interview. One other candidate will come too. The interviewer will ask about her last job. Daniel asks, 'Could you tell me about your last job?' Priya says, 'I worked at a small bank for two years. I was a strong applicant.' Maya says, 'It is not easy to land a job.'",
+      "question": "Where will Priya go for an interview?",
+      "correct": "At a big bank",
+      "other": "At a small school",
+      "reading": "On Tuesday, Priya tells Daniel about her interview. She will go for an interview at a big bank next week. She hopes to land a job there. The interviewer will ask about her last job. Daniel asks, 'Could you tell me about your last job?' Priya says, 'I worked at a small bank for two years. I was a strong applicant. One other candidate will come for the job too.' Maya says, 'Good luck. It is not easy to land a job at a big bank. Tell the interviewer about your work. Answer in full sentences. Ask about the team and the hours.' Priya says, 'Thank you. I will go for an interview on Monday morning. I hope I can land a job at the bank.' Daniel says, 'You will do well. You are a strong applicant.' Maya is happy. She says, 'Good. A good interview starts with a good plan.'",
+      "readingQ": "What will the interviewer ask about?",
+      "readingA": "About Priya's last job.",
+      "speaking": "Tell a friend about a job interview. What did the interviewer ask? How did you answer?",
+      "speakingSample": "I want to tell you about a job interview. I will go for an interview at a big bank next week. The interviewer will ask about my last job. I was a strong applicant at a small bank. One other candidate will come too. I hope to land a job there. I will tell the interviewer about my work. Wish me luck.",
+      "writing": "Write a short email to a friend. Tell them about a job interview you will go for. Say where it is and how you will prepare.",
+      "writingSample": "Dear Anna, I want to tell you about a job interview. I will go for an interview at a big bank next week. The interviewer will ask about my last job. I was a strong applicant at a small bank for two years. One other candidate will come for the job too. I hope to land a job there. I will tell the interviewer about my work. Please wish me luck. Thank you. Best, Priya",
+      "sound": "Applicant has its strongest beat on AP. In applicant, say AP clearly at the start. In interviewer, say IN clearly at the start.",
+      "model": "The applicant waited in the hall.",
+      "wordTask": "Who asks the questions at an interview?",
+      "wordSample": "The interviewer asks the questions."
+    },
+    {
+      "unit": 9,
+      "day": 67,
+      "title": "Changing careers",
+      "goal": "I can talk about changing careers.",
+      "newItems": [
+        {
+          "word": "freelance",
+          "ipa": "/ˈfrilæns/",
+          "pos": "adjective",
+          "definition": "Working for different companies, not for one employer.",
+          "example": "She is a freelance writer now.",
+          "category": "new_word",
+          "status": "new",
+          "day": 67
+        },
+        {
+          "word": "redundancy",
+          "ipa": "/rɪˈdʌndənsi/",
+          "pos": "noun",
+          "definition": "The loss of a job because the work is no longer needed.",
+          "example": "The factory closed and many workers faced redundancy.",
+          "category": "new_word",
+          "status": "new",
+          "day": 67
+        },
+        {
+          "word": "make a career change",
+          "ipa": "/meɪk ə kəˈrɪr tʃeɪndʒ/",
+          "pos": "fixed phrase",
+          "definition": "To start working in a different area from before.",
+          "example": "At forty, he made a career change.",
+          "category": "fixed_phrase",
+          "status": "new",
+          "day": 67
+        },
+        {
+          "word": "start from scratch",
+          "ipa": "/stɑrt frʌm skrætʃ/",
+          "pos": "fixed phrase",
+          "definition": "To begin something again, with nothing from before.",
+          "example": "After the move, she started from scratch.",
+          "category": "fixed_phrase",
+          "status": "new",
+          "day": 67
+        },
+        {
+          "word": "aim high",
+          "ipa": "/eɪm haɪ/",
+          "pos": "fixed phrase",
+          "definition": "To try to reach a big and difficult goal.",
+          "example": "Aim high, and you may get the top job.",
+          "category": "fixed_phrase",
+          "status": "new",
+          "day": 67
+        }
+      ],
+      "reviewWords": [
+        "change",
+        "help",
+        "meet",
+        "friend",
+        "school"
+      ],
+      "mainWord": {
+        "word": "freelance",
+        "ipa": "/ˈfrilæns/",
+        "pos": "adjective",
+        "definition": "Working for different companies, not for one employer.",
+        "example": "She is a freelance writer now.",
+        "category": "new_word",
+        "status": "new",
+        "day": 67
+      },
+      "mainWordForms": "Freelance is an adjective. Working for different companies, not for one employer. She is a freelance writer now.",
+      "pronunciationTarget": {
+        "word": "freelance",
+        "ipa": "/ˈfrilæns/"
+      },
+      "expression": "At forty, he made a career change.",
+      "use": "Use this when you talk about starting work in a different area.",
+      "expressionTask": "Daniel thinks about a new career. When did he make a career change?",
+      "grammar": "Future in the past: I was going to change jobs last year",
+      "pattern": "I was going to change jobs last year.",
+      "task": "I was going to ___ jobs last year.",
+      "answer": "change",
+      "example": "I was going to change jobs last year.",
+      "context": [
+        "Daniel thinks about a career change.",
+        "At forty, he made a career change. He will start from scratch in a new town."
+      ],
+      "dialogue": [
+        "Daniel: Maya, I was going to change jobs last year, but I stayed.",
+        "Maya: Do you want to make a career change now?",
+        "Daniel: Yes. I want to be freelance and work for different firms.",
+        "Priya: My old firm had a redundancy last year. Many workers left.",
+        "Daniel: That is hard. I will start from scratch in a new town.",
+        "Maya: Good. Aim high. A new start can be the best start."
+      ],
+      "listening": "On Wednesday, Daniel talks to Maya about changing careers. He was going to change jobs last year. Now he wants to make a career change. He wants to be freelance and work for different firms. Priya says her old firm had a redundancy last year. Daniel says, 'I will start from scratch in a new town.' Maya says, 'Aim high. Good luck.'",
+      "question": "What does Daniel want to do now?",
+      "correct": "Make a career change",
+      "other": "Stay in the same job",
+      "reading": "On Wednesday, Daniel talks to Maya about changing careers. He was going to change jobs last year, but he stayed at the bank. Now he wants to make a career change. He wants to be freelance and work for different firms. Maya asks, 'Why do you want to change?' Daniel says, 'I want new work and new people. I was going to change jobs last year, but I was afraid.' Priya says, 'My old firm had a redundancy last year. Many good workers left. One friend started from scratch in a new town.' Maya says, 'A new start can be good. But plan first. Save money, learn new skills, and talk to people in the new area.' Daniel says, 'Thank you. I will start from scratch and work hard. I want to be freelance by next year.' Maya is happy. She says, 'Good. Make a plan, aim high, and make a career change step by step.'",
+      "readingQ": "Why did Daniel not change jobs last year?",
+      "readingA": "He was afraid.",
+      "speaking": "Tell a friend about changing careers. What new work do you want? Why?",
+      "speakingSample": "I want to talk about changing careers. I was going to change jobs last year, but I stayed. Now I want to make a career change. I want to be freelance and work for different firms. I will start from scratch in a new town. A redundancy at my old firm made me think. Aim high. A new start can be the best start.",
+      "writing": "Write a short email to a friend. Tell them you want to make a career change. Say what new work you want and why.",
+      "writingSample": "Dear Lisa, I want to tell you about changing careers. I was going to change jobs last year, but I stayed. Now I want to make a career change. I want to be freelance and work for different firms. I will start from scratch in a new town. A redundancy at my old firm made me think. Aim high. A new start can be the best start. I will plan first and save money. Please tell me what you think. Best, Daniel",
+      "sound": "Freelance has its strongest beat on FREE. In freelance, say FREE clearly at the start. In redundancy, say DUN clearly in the middle.",
+      "model": "She is a freelance writer now.",
+      "wordTask": "What does a freelance worker do?",
+      "wordSample": "A freelance worker works for different firms."
+    },
+    {
+      "unit": 9,
+      "day": 68,
+      "title": "Skills and strengths",
+      "goal": "I can talk about my skills and strengths.",
+      "newItems": [
+        {
+          "word": "qualification",
+          "ipa": "/ˌkwɑləfəˈkeɪʃən/",
+          "pos": "noun",
+          "definition": "A certificate or exam pass that shows you can do a job.",
+          "example": "You need a teaching qualification for this job.",
+          "category": "new_word",
+          "status": "new",
+          "day": 68
+        },
+        {
+          "word": "dedication",
+          "ipa": "/ˌdɛdəˈkeɪʃən/",
+          "pos": "noun",
+          "definition": "Working hard at something because you care about it.",
+          "example": "Her dedication to her work is clear.",
+          "category": "new_word",
+          "status": "new",
+          "day": 68
+        },
+        {
+          "word": "perseverance",
+          "ipa": "/ˌpɝsəˈvɪrəns/",
+          "pos": "noun",
+          "definition": "Trying hard for a long time and not giving up.",
+          "example": "Success needs perseverance.",
+          "category": "new_word",
+          "status": "new",
+          "day": 68
+        },
+        {
+          "word": "play to your strengths",
+          "ipa": "/pleɪ tə jɔr strɛŋθs/",
+          "pos": "fixed phrase",
+          "definition": "To use what you are good at in your work.",
+          "example": "In the interview, play to your strengths.",
+          "category": "fixed_phrase",
+          "status": "new",
+          "day": 68
+        },
+        {
+          "word": "work on your weaknesses",
+          "ipa": "/wɝk ɑn jɔr ˈwiknəsəz/",
+          "pos": "fixed phrase",
+          "definition": "To try to get better at the things you are not good at.",
+          "example": "He works on his weaknesses every week.",
+          "category": "fixed_phrase",
+          "status": "new",
+          "day": 68
+        }
+      ],
+      "reviewWords": [
+        "book",
+        "learn",
+        "start",
+        "new",
+        "good"
+      ],
+      "mainWord": {
+        "word": "qualification",
+        "ipa": "/ˌkwɑləfəˈkeɪʃən/",
+        "pos": "noun",
+        "definition": "A certificate or exam pass that shows you can do a job.",
+        "example": "You need a teaching qualification for this job.",
+        "category": "new_word",
+        "status": "new",
+        "day": 68
+      },
+      "mainWordForms": "Qualification is a noun. A certificate or exam pass that shows you can do a job. You need a teaching qualification for this job.",
+      "pronunciationTarget": {
+        "word": "qualification",
+        "ipa": "/ˌkwɑləfəˈkeɪʃən/"
+      },
+      "expression": "In the interview, play to your strengths.",
+      "use": "Use this when you tell someone to use what they are good at.",
+      "expressionTask": "Maya talks to Daniel about his skills. What should he do in the interview?",
+      "grammar": "Be used to and get used to: I am used to early starts",
+      "pattern": "I am used to early starts.",
+      "task": "I am used to ___ starts.",
+      "answer": "early",
+      "example": "I am used to early starts.",
+      "context": [
+        "Maya talks to Daniel about his skills.",
+        "In the interview, play to your strengths. Work on your weaknesses every week."
+      ],
+      "dialogue": [
+        "Maya: Daniel, what is your best qualification for the new job?",
+        "Daniel: I have a teaching qualification, and I am used to early starts.",
+        "Priya: Good. Your dedication is clear. You work hard every day.",
+        "Daniel: Thank you. Perseverance is my best skill. I never give up.",
+        "Maya: In the interview, play to your strengths. Work on your weaknesses every week.",
+        "Priya: Yes. I will get used to the new system soon."
+      ],
+      "listening": "On Thursday, Maya talks to Daniel about his skills. Daniel has a teaching qualification. His dedication is clear. He works hard. Maya says, 'In the interview, play to your strengths. Work on your weaknesses every week.' Daniel says, 'Perseverance is my best skill. I never give up. I am used to early starts.' Priya says, 'Good. You will get used to the new system soon.'",
+      "question": "What is Daniel's best skill?",
+      "correct": "Perseverance; he never gives up",
+      "other": "Working with numbers",
+      "reading": "On Thursday, Maya talks to Daniel about his skills. Daniel has a teaching qualification. His dedication is clear to all his team. He works hard every day and never gives up. Maya says, 'In the interview, play to your strengths. Tell them about your teaching qualification. Work on your weaknesses every week, and you will get better.' Daniel says, 'Perseverance is my best skill. I am used to early starts, and I will get used to the new system soon.' Priya says, 'Good. My best skill is clear writing. I work on my weaknesses too. I take a class every month.' Maya says, 'That is smart. Play to your strengths at work, and work on your weaknesses at home.' Daniel is happy. He says, 'Thank you, Maya. I will play to my strengths in the interview.'",
+      "readingQ": "What does Maya tell Daniel to do in the interview?",
+      "readingA": "Play to his strengths.",
+      "speaking": "Tell a friend about your skills. What are your strengths? What do you want to get better at?",
+      "speakingSample": "I want to tell you about my skills. I have a teaching qualification. My dedication is clear. I work hard every day. Perseverance is my best skill. I never give up. In the interview, I will play to my strengths. I will work on my weaknesses every week. I am used to early starts. I will get used to the new system soon.",
+      "writing": "Write a short email to a friend. Tell them about your skills and strengths. Say what you are good at and what you want to learn.",
+      "writingSample": "Dear Tom, I want to tell you about my skills. I have a teaching qualification. My dedication is clear. I work hard every day. Perseverance is my best skill. I never give up. In the interview, I will play to my strengths. I will work on my weaknesses every week. I am used to early starts. I will get used to the new system soon. I learn fast and I help my team. Please tell me about your skills. Best, Daniel",
+      "sound": "Qualification has its strongest beat on CA. In qualification, say CA clearly near the end. In dedication, say CA clearly in the middle.",
+      "model": "You need a teaching qualification for this job.",
+      "wordTask": "What is a qualification?",
+      "wordSample": "It is a certificate that shows you can do a job."
+    },
+    {
+      "unit": 9,
+      "day": 69,
+      "title": "Work-life balance",
+      "goal": "I can talk about work-life balance.",
+      "newItems": [
+        {
+          "word": "burnout",
+          "ipa": "/ˈbɝnˌaʊt/",
+          "pos": "noun",
+          "definition": "Feeling very tired and unable to work well after too much work.",
+          "example": "Too much overtime can lead to burnout.",
+          "category": "new_word",
+          "status": "new",
+          "day": 69
+        },
+        {
+          "word": "perk",
+          "ipa": "/pɝk/",
+          "pos": "noun",
+          "definition": "Something extra you get from your job, like free food.",
+          "example": "Free lunch is a nice perk of the job.",
+          "category": "new_word",
+          "status": "new",
+          "day": 69
+        },
+        {
+          "word": "strike a balance",
+          "ipa": "/straɪk ə ˈbæləns/",
+          "pos": "fixed phrase",
+          "definition": "To find a good middle way between two things.",
+          "example": "She tries to strike a balance between work and family.",
+          "category": "fixed_phrase",
+          "status": "new",
+          "day": 69
+        },
+        {
+          "word": "burn the midnight oil",
+          "ipa": "/bɝn ðə ˈmɪdˌnaɪt ɔɪl/",
+          "pos": "fixed phrase",
+          "definition": "To work or study very late at night.",
+          "example": "He burned the midnight oil before the big meeting.",
+          "category": "fixed_phrase",
+          "status": "new",
+          "day": 69
+        },
+        {
+          "word": "take time off",
+          "ipa": "/teɪk taɪm ɔf/",
+          "pos": "fixed phrase",
+          "definition": "To stop work for a time, often for a holiday.",
+          "example": "She will take time off next week.",
+          "category": "fixed_phrase",
+          "status": "new",
+          "day": 69
+        }
+      ],
+      "reviewWords": [
+        "big",
+        "long",
+        "hard",
+        "happy",
+        "busy"
+      ],
+      "mainWord": {
+        "word": "burnout",
+        "ipa": "/ˈbɝnˌaʊt/",
+        "pos": "noun",
+        "definition": "Feeling very tired and unable to work well after too much work.",
+        "example": "Too much overtime can lead to burnout.",
+        "category": "new_word",
+        "status": "new",
+        "day": 69
+      },
+      "mainWordForms": "Burnout is a noun. Feeling very tired and unable to work well after too much work. Too much overtime can lead to burnout.",
+      "pronunciationTarget": {
+        "word": "burnout",
+        "ipa": "/ˈbɝnˌaʊt/"
+      },
+      "expression": "She tries to strike a balance between work and family.",
+      "use": "Use this when you talk about finding a good middle way.",
+      "expressionTask": "Priya talks about work and life. What does she try to do?",
+      "grammar": "Would rather and had better: I would rather work from home",
+      "pattern": "I would rather work from home.",
+      "task": "I would rather ___ from home.",
+      "answer": "work",
+      "example": "I would rather work from home.",
+      "context": [
+        "Priya talks about work and life.",
+        "She tries to strike a balance between work and family. She will take time off next week."
+      ],
+      "dialogue": [
+        "Priya: Maya, I am so busy. I work late every night.",
+        "Maya: Be careful. Too much work can lead to burnout.",
+        "Daniel: Yes. Try to strike a balance between work and family.",
+        "Priya: You are right. I will take time off next week.",
+        "Daniel: Good. A free lunch is a nice perk of the job, but rest is better.",
+        "Maya: Yes. Do not burn the midnight oil every night."
+      ],
+      "listening": "On Friday, Priya talks to Maya about work and life. She is so busy. Maya says, 'Be careful. Too much work can lead to burnout. Try to strike a balance between work and family.' Priya says, 'I will take time off next week.' Daniel says, 'Good. Do not burn the midnight oil every night. A free lunch is a nice perk of the job.'",
+      "question": "What will Priya do next week?",
+      "correct": "Take time off",
+      "other": "Work late every night",
+      "reading": "On Friday, Priya talks to Maya about work and life. She is so busy. She works late every night, and she is tired. Maya says, 'Be careful. Too much work can lead to burnout. Try to strike a balance between work and family.' Priya says, 'You are right. I would rather work from home two days a week.' Daniel says, 'Good idea. I will take time off next week too. Do not burn the midnight oil every night. A free lunch is a nice perk of the job, but rest is better.' Maya says, 'Yes. Take time off when you need it. Work hard in the day, and rest at night.' Priya says, 'Thank you. I will strike a balance from now on. I will not burn the midnight oil every night.' Maya is happy. She says, 'Good. A happy worker is a good worker.'",
+      "readingQ": "What does Maya say too much work can lead to?",
+      "readingA": "Burnout.",
+      "speaking": "Tell a friend about work and life. How do you strike a balance? What do you do to rest?",
+      "speakingSample": "I want to talk about work and life. I am so busy. I work late every night. Too much work can lead to burnout. I try to strike a balance between work and family. I will take time off next week. I do not burn the midnight oil every night now. A free lunch is a nice perk of the job.",
+      "writing": "Write a short email to a friend. Tell them about your work and life. Say how you strike a balance and what you do to rest.",
+      "writingSample": "Dear Anna, I want to tell you about work and life. I am so busy. I work late every night. Too much work can lead to burnout. I try to strike a balance between work and family. I will take time off next week. I do not burn the midnight oil every night now. A free lunch is a nice perk of the job. Please tell me how you rest. Take care. Write soon. Best, Priya",
+      "sound": "Burnout has its strongest beat on BURN. In burnout, say BURN clearly at the start. In perk, say PERK clearly.",
+      "model": "Too much overtime can lead to burnout.",
+      "wordTask": "What is burnout?",
+      "wordSample": "It is feeling very tired after too much work."
+    },
+    {
+      "unit": 9,
+      "day": 70,
+      "title": "Promotion and ambition",
+      "goal": "I can talk about promotion and ambition.",
+      "newItems": [
+        {
+          "word": "mentor",
+          "ipa": "/ˈmɛntɔr/",
+          "pos": "noun",
+          "definition": "A person with more experience who helps and advises you at work.",
+          "example": "Her mentor helped her plan her career.",
+          "category": "new_word",
+          "status": "new",
+          "day": 70
+        },
+        {
+          "word": "networking",
+          "ipa": "/ˈnɛtˌwɝkɪŋ/",
+          "pos": "noun",
+          "definition": "Meeting people at work events to find new chances.",
+          "example": "Networking helped him find a new job.",
+          "category": "new_word",
+          "status": "new",
+          "day": 70
+        },
+        {
+          "word": "commission",
+          "ipa": "/kəˈmɪʃən/",
+          "pos": "noun",
+          "definition": "Money paid to a worker for each thing they sell.",
+          "example": "He earns a commission on every car he sells.",
+          "category": "new_word",
+          "status": "new",
+          "day": 70
+        },
+        {
+          "word": "move up the ladder",
+          "ipa": "/muv ʌp ðə ˈlædɚ/",
+          "pos": "fixed phrase",
+          "definition": "To get a better job in the same company.",
+          "example": "Hard work helps you move up the ladder.",
+          "category": "fixed_phrase",
+          "status": "new",
+          "day": 70
+        },
+        {
+          "word": "be in line for",
+          "ipa": "/bi ɪn laɪn fɔr/",
+          "pos": "fixed phrase",
+          "definition": "To be likely to get something good, like a promotion.",
+          "example": "She is in line for a promotion.",
+          "category": "fixed_phrase",
+          "status": "new",
+          "day": 70
+        }
+      ],
+      "reviewWords": [
+        "early",
+        "today",
+        "money",
+        "time",
+        "day"
+      ],
+      "mainWord": {
+        "word": "mentor",
+        "ipa": "/ˈmɛntɔr/",
+        "pos": "noun",
+        "definition": "A person with more experience who helps and advises you at work.",
+        "example": "Her mentor helped her plan her career.",
+        "category": "new_word",
+        "status": "new",
+        "day": 70
+      },
+      "mainWordForms": "Mentor is a noun. A person with more experience who helps and advises you at work. Her mentor helped her plan her career.",
+      "pronunciationTarget": {
+        "word": "mentor",
+        "ipa": "/ˈmɛntɔr/"
+      },
+      "expression": "Hard work helps you move up the ladder.",
+      "use": "Use this when you talk about getting a better job in the same company.",
+      "expressionTask": "Daniel talks to his mentor about a promotion. What helps you move up the ladder?",
+      "grammar": "Emphatic do: I do want that promotion",
+      "pattern": "I do want that promotion.",
+      "task": "I do ___ that promotion.",
+      "answer": "want",
+      "example": "I do want that promotion.",
+      "context": [
+        "Daniel talks to his mentor about a promotion.",
+        "Hard work helps you move up the ladder. She is in line for a promotion."
+      ],
+      "dialogue": [
+        "Daniel: Maya, I do want that promotion. What should I do?",
+        "Maya: Hard work helps you move up the ladder. Keep learning every day.",
+        "Daniel: My mentor says the same. She helped me plan my career.",
+        "Priya: Good. Networking helps too. Meet people in other teams.",
+        "Daniel: Yes. I earn a commission on every sale now.",
+        "Maya: Well done. You are in line for a promotion."
+      ],
+      "listening": "On Saturday, Daniel talks to his mentor about a promotion. He says, 'I do want that promotion. What should I do?' Maya says, 'Hard work helps you move up the ladder. Keep learning.' Daniel says, 'My mentor says the same. Networking helps too.' Priya says, 'Yes. I earn a commission on every sale now. You are in line for a promotion.'",
+      "question": "What does Maya tell Daniel to do?",
+      "correct": "Work hard and aim high",
+      "other": "Leave the company",
+      "reading": "On Saturday, Daniel talks to his mentor about a promotion. He says, 'I do want that promotion. What should I do?' Maya says, 'Hard work helps you move up the ladder. Keep learning, and work hard every day.' Daniel says, 'My mentor says the same. She helped me plan my career. Networking helps too. I meet people in other teams every week.' Priya says, 'Yes. I earn a commission on every sale now. Good work brings good pay.' Maya says, 'You are in line for a promotion. Keep learning, keep helping your team, and work hard.' Daniel is happy. He says, 'Thank you, Maya. I do want that promotion, and I will work for it.' Maya says, 'Good. Move up the ladder one step at a time, and never stop learning.'",
+      "readingQ": "What does Daniel earn a commission on?",
+      "readingA": "On every sale.",
+      "speaking": "Tell a friend about a promotion you want. What will you do to get it? Who helps you?",
+      "speakingSample": "I want to tell you about a promotion. I do want that promotion. My mentor helped me plan my career. Networking helps too. I meet people in other teams. I earn a commission on every sale now. Hard work helps you move up the ladder. I am in line for a promotion. I will keep learning and help my team every day.",
+      "writing": "Write a short email to a friend. Tell them about a promotion you want. Say what you will do to get it and who helps you.",
+      "writingSample": "Dear Tom, I want to tell you about a promotion. I do want that promotion. My mentor helped me plan my career. Networking helps too. I meet people in other teams every week. I earn a commission on every sale now. Hard work helps you move up the ladder. I am in line for a promotion. I will keep learning and help my team every day. I will work for it. Please tell me what you think. Best, Daniel",
+      "sound": "Mentor has its strongest beat on MEN. In mentor, say MEN clearly at the start. In networking, say NET clearly at the start.",
+      "model": "Her mentor helped her plan her career.",
+      "wordTask": "Who is a mentor?",
+      "wordSample": "A mentor is a person who helps you at work."
+    },
+    {
+      "unit": 9,
+      "day": 71,
+      "title": "Starting your own business",
+      "goal": "I can talk about starting your own business.",
+      "newItems": [
+        {
+          "word": "entrepreneur",
+          "ipa": "/ˌɑntrəprəˈnɝ/",
+          "pos": "noun",
+          "definition": "A person who starts a new business and takes the risk.",
+          "example": "The entrepreneur opened a small cafe.",
+          "category": "new_word",
+          "status": "new",
+          "day": 71
+        },
+        {
+          "word": "startup",
+          "ipa": "/ˈstɑrtˌʌp/",
+          "pos": "noun",
+          "definition": "A new small business that is just beginning.",
+          "example": "He works for a tech startup.",
+          "category": "new_word",
+          "status": "new",
+          "day": 71
+        },
+        {
+          "word": "be your own boss",
+          "ipa": "/bi jɔr oʊn bɔs/",
+          "pos": "fixed phrase",
+          "definition": "To work for yourself, not for a company.",
+          "example": "He wants to be his own boss.",
+          "category": "fixed_phrase",
+          "status": "new",
+          "day": 71
+        },
+        {
+          "word": "set up a business",
+          "ipa": "/sɛt ʌp ə ˈbɪznəs/",
+          "pos": "fixed phrase",
+          "definition": "To start a new business.",
+          "example": "They set up a business together.",
+          "category": "fixed_phrase",
+          "status": "new",
+          "day": 71
+        },
+        {
+          "word": "take the plunge",
+          "ipa": "/teɪk ðə plʌndʒ/",
+          "pos": "fixed phrase",
+          "definition": "To do something big and risky after thinking about it.",
+          "example": "She took the plunge and opened her own shop.",
+          "category": "fixed_phrase",
+          "status": "new",
+          "day": 71
+        }
+      ],
+      "reviewWords": [
+        "way",
+        "life",
+        "home",
+        "city",
+        "shop"
+      ],
+      "mainWord": {
+        "word": "entrepreneur",
+        "ipa": "/ˌɑntrəprəˈnɝ/",
+        "pos": "noun",
+        "definition": "A person who starts a new business and takes the risk.",
+        "example": "The entrepreneur opened a small cafe.",
+        "category": "new_word",
+        "status": "new",
+        "day": 71
+      },
+      "mainWordForms": "Entrepreneur is a noun. A person who starts a new business and takes the risk. The entrepreneur opened a small cafe.",
+      "pronunciationTarget": {
+        "word": "entrepreneur",
+        "ipa": "/ˌɑntrəprəˈnɝ/"
+      },
+      "expression": "He wants to be his own boss.",
+      "use": "Use this when you talk about working for yourself.",
+      "expressionTask": "Maya talks about a new startup. What does he want to be?",
+      "grammar": "Be about to: We are about to open our own shop",
+      "pattern": "We are about to open our own shop.",
+      "task": "We are about to ___ our own shop.",
+      "answer": "open",
+      "example": "We are about to open our own shop.",
+      "context": [
+        "Maya talks about a new startup.",
+        "He wants to be his own boss. They set up a business together."
+      ],
+      "dialogue": [
+        "Maya: Daniel, I met an entrepreneur at the market yesterday.",
+        "Daniel: What does he do? Is his startup doing well?",
+        "Maya: Yes. He wants to be his own boss. They set up a business together.",
+        "Daniel: That takes courage. Did he take the plunge at once?",
+        "Priya: No. He planned for a year. We are about to open our own shop too.",
+        "Maya: Good. A new startup needs a good plan."
+      ],
+      "listening": "On Sunday, Maya talks about a new startup. She met an entrepreneur at the market. He wants to be his own boss. They set up a business together. Daniel asks, 'Did he take the plunge at once?' Priya says, 'No. He planned for a year. We are about to open our own shop too. A new startup needs a good plan.'",
+      "question": "Did the entrepreneur take the plunge at once?",
+      "correct": "No, he planned for a year",
+      "other": "Yes, at once",
+      "reading": "On Sunday, Maya talks about a new startup. She met an entrepreneur at the market yesterday. He wants to be his own boss. They set up a business together last year. Daniel asks, 'Did he take the plunge at once?' Priya says, 'No. He planned for a year. He saved money, talked to his mentor, and learned the new work.' Maya says, 'We are about to open our own shop too. A new startup needs a good plan. Be your own boss, but plan first.' Daniel says, 'I agree. I want to be my own boss one day. I will set up a business with a friend.' Priya says, 'Good. Take the plunge when you are ready, not before.' Maya is happy. She says, 'Yes. A good startup starts with a good plan.'",
+      "readingQ": "What did the entrepreneur do before he started?",
+      "readingA": "He planned for a year.",
+      "speaking": "Tell a friend about starting your own business. What business would you start? Why?",
+      "speakingSample": "I want to talk about starting my own business. I met an entrepreneur at the market. He wants to be his own boss. They set up a business together. He did not take the plunge at once. He planned for a year. We are about to open our own shop too. A new startup needs a good plan. Wish us luck.",
+      "writing": "Write a short email to a friend. Tell them about a business you want to start. Say what it is and how you will start it.",
+      "writingSample": "Dear Lisa, I want to tell you about starting my own business. I met an entrepreneur at the market. He wants to be his own boss. They set up a business together. He did not take the plunge at once. He planned for a year. We are about to open our own shop too. A new startup needs a good plan. I will plan first and save money. A good plan is the best start. Please tell me what you think. Best, Maya",
+      "sound": "Entrepreneur has its strongest beat on NEUR. In entrepreneur, say NEUR clearly near the end. In startup, say START clearly at the start.",
+      "model": "The entrepreneur opened a small cafe.",
+      "wordTask": "What is an entrepreneur?",
+      "wordSample": "An entrepreneur is a person who starts a new business."
+    },
+    {
+      "unit": 9,
+      "day": 72,
+      "title": "Use careers English in a new situation",
+      "goal": "I can use careers English in a new situation.",
+      "newItems": [
+        {
+          "word": "passion",
+          "ipa": "/ˈpæʃən/",
+          "pos": "noun",
+          "definition": "A very strong feeling of liking or interest in something.",
+          "example": "Her passion is teaching children.",
+          "category": "new_word",
+          "status": "new",
+          "day": 72
+        },
+        {
+          "word": "fulfillment",
+          "ipa": "/fʊlˈfɪlmənt/",
+          "pos": "noun",
+          "definition": "The feeling of being happy because you did something you wanted.",
+          "example": "Teaching gives her a sense of fulfillment.",
+          "category": "new_word",
+          "status": "new",
+          "day": 72
+        },
+        {
+          "word": "live up to your potential",
+          "ipa": "/lɪv ʌp tə jɔr pəˈtɛnʃəl/",
+          "pos": "fixed phrase",
+          "definition": "To do as well as you are able to do.",
+          "example": "Work hard and live up to your potential.",
+          "category": "fixed_phrase",
+          "status": "new",
+          "day": 72
+        },
+        {
+          "word": "chase your dreams",
+          "ipa": "/tʃeɪs jɔr drimz/",
+          "pos": "fixed phrase",
+          "definition": "To try hard to make your hopes come true.",
+          "example": "Never stop chasing your dreams.",
+          "category": "fixed_phrase",
+          "status": "new",
+          "day": 72
+        },
+        {
+          "word": "a dream job",
+          "ipa": "/ə drim dʒɑb/",
+          "pos": "fixed phrase",
+          "definition": "The job you would most love to have.",
+          "example": "Teaching is her dream job.",
+          "category": "fixed_phrase",
+          "status": "new",
+          "day": 72
+        }
+      ],
+      "reviewWords": [
+        "phone",
+        "water",
+        "food",
+        "health",
+        "family"
+      ],
+      "mainWord": {
+        "word": "passion",
+        "ipa": "/ˈpæʃən/",
+        "pos": "noun",
+        "definition": "A very strong feeling of liking or interest in something.",
+        "example": "Her passion is teaching children.",
+        "category": "new_word",
+        "status": "new",
+        "day": 72
+      },
+      "mainWordForms": "Passion is a noun. A very strong feeling of liking or interest in something. Her passion is teaching children.",
+      "pronunciationTarget": {
+        "word": "passion",
+        "ipa": "/ˈpæʃən/"
+      },
+      "expression": "Work hard and live up to your potential.",
+      "use": "Use this when you tell someone to do as well as they can.",
+      "expressionTask": "Daniel meets Ben at a job fair. What should Ben do?",
+      "grammar": "Review: I can use careers English in a new situation",
+      "pattern": "I can use careers English in a new situation.",
+      "task": "I can ___ careers English in a new situation.",
+      "answer": "use",
+      "example": "I can use careers English in a new situation.",
+      "context": [
+        "Daniel meets Ben at a job fair.",
+        "Work hard and live up to your potential. Never stop chasing your dreams."
+      ],
+      "dialogue": [
+        "Daniel: Ben, have you found your dream job yet?",
+        "Ben: Not yet. My passion is cooking. I want a career in food.",
+        "Daniel: Good. Work hard and live up to your potential.",
+        "Ben: I will. A good job gives me a sense of fulfillment.",
+        "Daniel: Yes. Never stop chasing your dreams.",
+        "Ben: Thank you. I will chase my dreams every day."
+      ],
+      "listening": "On Monday, Daniel meets Ben at a job fair. Ben says, 'My passion is cooking.' Daniel says, 'Work hard and live up to your potential.' Ben says, 'A good job gives me a sense of fulfillment. My dream job is to run a small cafe.' Daniel says, 'Good. Never stop chasing your dreams.' Ben says, 'Thank you. I will chase my dreams every day.'",
+      "question": "What is Ben's passion?",
+      "correct": "Cooking",
+      "other": "Teaching children",
+      "reading": "On Monday, Daniel meets Ben at a job fair. Ben says, 'My passion is cooking. I want a career in food.' Daniel says, 'Work hard and live up to your potential.' Ben says, 'A good job gives me a sense of fulfillment. My dream job is to run a small cafe. He has been working in a small cafe for two years.' Daniel says, 'Good. Never stop chasing your dreams. You must chase your dreams every day.' Ben says, 'Thank you. For many people, teaching is a dream job, but cooking is mine.' Daniel says, 'That is good. I can use careers English in a new situation. Follow your heart, and live up to your potential.' Ben is happy. He says, 'I will chase my dreams and work hard. Thank you, Daniel.'",
+      "readingQ": "What does Ben want his career to be in?",
+      "readingA": "In food; cooking.",
+      "speaking": "Tell a friend about your dream job. What is your passion? How will you chase your dreams?",
+      "speakingSample": "I want to tell you about my dream job. My passion is cooking. I want a career in food. A good job gives me a sense of fulfillment. My dream job is to run a small cafe. I will work hard and live up to your potential. I will chase my dreams every day. Cooking is my passion, and I will never give up.",
+      "writing": "Write a short email to a friend. Tell them about your dream job. Say what your passion is and how you will chase your dreams.",
+      "writingSample": "Dear Anna, I want to tell you about my dream job. My passion is cooking. I want a career in food. A good job gives me a sense of fulfillment. My dream job is to run a small cafe. I will work hard and live up to your potential. I will chase my dreams every day. Cooking is my passion, and I will never give up. Please tell me about your dream job. What is your passion? Best, Ben",
+      "sound": "Passion has its strongest beat on PAS. In passion, say PAS clearly at the start. In fulfillment, say FILL clearly in the middle.",
+      "model": "Her passion is teaching children.",
+      "wordTask": "What is your passion?",
+      "wordSample": "My passion is cooking.",
+      "transferCheck": {
+        "source": "On Tuesday, Ben reads a job advert. It says a cafe needs a manager with a passion for good food. Ben talks to his friend Chris at a job fair. He says, 'I want a career that gives me fulfillment. My dream job is to run a small cafe.' Chris says, 'Work hard and live up to your potential. Never stop chasing your dreams.' Ben says, 'Yes. I will take the plunge one day.' Chris says, 'Good. I am glad we talked.' Ben is happy.",
+        "dictation": "I want a career that gives me fulfillment.",
+        "answer": "1. The new checker is Ben. He reads a job advert and talks to his friend Chris at a job fair. 2. Ben's first job is to say that he wants a career that gives him fulfillment and that his dream job is to run a small cafe. 3. On Tuesday, Ben says, 'I want a career that gives me fulfillment.' 4. I want a career that gives me fulfillment. 5. Sample: On Tuesday, Ben reads a job advert. It says a cafe needs a manager with a passion for good food. Ben talks to his friend Chris at a job fair. He says, 'I want a career that gives me fulfillment. My dream job is to run a small cafe.' Chris says, 'Work hard and live up to your potential. Never stop chasing your dreams.' Ben says, 'Yes. I will take the plunge one day.' Chris says, 'Good. I am glad we talked.' Follow-up: What does Chris tell Ben to do? Work hard and live up to his potential, and never stop chasing his dreams.",
+        "tasks": [
+          [
+            "1 · Identify the people and the new situation",
+            "Who is the new checker, and what does he read?"
+          ],
+          [
+            "2 · Work out what Ben does first",
+            "What is Ben's first job, and what does he say?"
+          ],
+          [
+            "3 · Notice the sentence on Tuesday",
+            "What does Ben say on Tuesday?"
+          ],
+          [
+            "4 · Listen and write",
+            "Write the sentence you hear."
+          ],
+          [
+            "5 · Retell and answer",
+            "Tell the story in order, including the people, the new situation, the first talk, and the result. Then answer one follow-up question."
+          ]
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,953 @@
+{
+  "number": 11,
+  "title": "Workplace culture across countries",
+  "lessons": [
+    {
+      "unit": 11,
+      "day": 81,
+      "title": "Working in different countries",
+      "goal": "I can talk about working in different countries.",
+      "newItems": [
+        {
+          "word": "etiquette",
+          "ipa": "/ˈɛtəkɛt/",
+          "pos": "noun",
+          "definition": "The rules for polite behaviour in a place or group.",
+          "example": "Learn the office etiquette before you start.",
+          "category": "new_word",
+          "status": "new",
+          "day": 81
+        },
+        {
+          "word": "norm",
+          "ipa": "/nɔrm/",
+          "pos": "noun",
+          "definition": "Something that is usual or expected in a group.",
+          "example": "Long lunches are the norm in this office.",
+          "category": "new_word",
+          "status": "new",
+          "day": 81
+        },
+        {
+          "word": "culture shock",
+          "ipa": "/ˈkʌltʃɚ ʃɑk/",
+          "pos": "fixed phrase",
+          "definition": "The strange feeling when you live in a new place.",
+          "example": "Culture shock is normal in a new country.",
+          "category": "fixed_phrase",
+          "status": "new",
+          "day": 81
+        },
+        {
+          "word": "when in Rome, do as the Romans do",
+          "ipa": "/wɛn ɪn roʊm du æz ðə ˈroʊmənz du/",
+          "pos": "fixed phrase",
+          "definition": "When you are in a new place, follow its ways.",
+          "example": "When in Rome, do as the Romans do.",
+          "category": "fixed_phrase",
+          "status": "new",
+          "day": 81
+        },
+        {
+          "word": "a different way of doing things",
+          "ipa": "/ə ˈdɪfɚənt weɪ əv ˈduɪŋ θɪŋz/",
+          "pos": "fixed phrase",
+          "definition": "A new way of working that is not your own.",
+          "example": "Learn a different way of doing things.",
+          "category": "fixed_phrase",
+          "status": "new",
+          "day": 81
+        }
+      ],
+      "reviewWords": [
+        "team",
+        "office",
+        "shop",
+        "plan",
+        "learn"
+      ],
+      "mainWord": {
+        "word": "etiquette",
+        "ipa": "/ˈɛtəkɛt/",
+        "pos": "noun",
+        "definition": "The rules for polite behaviour in a place or group.",
+        "example": "Learn the office etiquette before you start.",
+        "category": "new_word",
+        "status": "new",
+        "day": 81
+      },
+      "mainWordForms": "Etiquette is a noun. The rules for polite behaviour in a place or group. Learn the office etiquette before you start.",
+      "pronunciationTarget": {
+        "word": "etiquette",
+        "ipa": "/ˈɛtəkɛt/"
+      },
+      "expression": "When in Rome, do as the Romans do.",
+      "use": "Use this when you tell someone to follow the ways of a new place.",
+      "expressionTask": "Maya talks to Daniel about working in other countries. What should you do in a new place?",
+      "grammar": "Advanced relative clauses: The office where I work is in Tokyo",
+      "pattern": "The office where I work is in Tokyo.",
+      "task": "The office where I work is in ___.",
+      "answer": "Tokyo",
+      "example": "The office where I work is in Tokyo.",
+      "context": [
+        "Maya talks to Daniel about working in different countries.",
+        "When in Rome, do as the Romans do. Every office has its own etiquette and its own norm."
+      ],
+      "dialogue": [
+        "Maya: Daniel, do you want to work in another country one day?",
+        "Daniel: Yes. I want to learn a different way of doing things.",
+        "Maya: Good. Remember, when in Rome, do as the Romans do.",
+        "Daniel: True. Every office has its own etiquette.",
+        "Priya: Yes. And culture shock is normal at first.",
+        "Maya: Exactly. Learn the norm, and you will fit in well."
+      ],
+      "listening": "On Monday, Maya talks to Daniel about working in different countries. She says, 'When in Rome, do as the Romans do. Every office has its own etiquette and its own norm.' Daniel says, 'I want to learn a different way of doing things.' Priya says, 'Yes. Culture shock is normal at first. Learn the norm, and you will fit in well.' Daniel is happy.",
+      "question": "What does Maya tell Daniel to do?",
+      "correct": "Follow the ways of a new place",
+      "other": "Work alone every day",
+      "reading": "On Monday, Maya talks to Daniel about working in different countries at Carter Retail Group. She says, 'When in Rome, do as the Romans do. Every office has its own etiquette and its own norm. A new worker must learn the norm fast.' Daniel says, 'I want to learn a different way of doing things. I want to work in Tokyo one day. The office where I work now is in London, but I want to see a new place.' Priya says, 'Yes. Culture shock is normal at first. Every country has a different way of doing things. Learn the etiquette, and people will help you.' Maya says, 'Good. The office where I work has people from ten countries. We learn from each other every day. When in Rome, do as the Romans do, and you will fit in well.' Daniel is happy. He says, 'Thank you, Maya. I will learn the norm of a new office.'",
+      "readingQ": "What does Maya tell Daniel to do?",
+      "readingA": "Follow the ways of a new place, and learn its norm.",
+      "speaking": "Tell a friend about working in a different country. What is different there? What would you learn?",
+      "speakingSample": "I want to tell you about working in a different country. On Monday, Maya talked about offices in other countries. She said, 'When in Rome, do as the Romans do.' Every office has its own etiquette and its own norm. Culture shock is normal at first. I want to learn a different way of doing things. I will learn the norm, and I will fit in well.",
+      "writing": "Write a short email to a friend. Tell them about working in a different country. Say what is different and what you would learn.",
+      "writingSample": "Dear Tom, I want to tell you about working in a different country. On Monday, Maya talked about offices in other countries. She said, 'When in Rome, do as the Romans do.' Every office has its own etiquette and its own norm. Culture shock is normal at first. I want to learn a different way of doing things. I will learn the norm of a new office, and I will fit in well. Please tell me about your work. Best, Daniel",
+      "sound": "Etiquette has its strongest beat on ET. In etiquette, say ET clearly at the start. In norm, say NORM clearly.",
+      "model": "Learn the office etiquette before you start.",
+      "wordTask": "What is etiquette?",
+      "wordSample": "It is the rules for polite behaviour in a place or group."
+    },
+    {
+      "unit": 11,
+      "day": 82,
+      "title": "Meeting styles around the world",
+      "goal": "I can talk about meeting styles around the world.",
+      "newItems": [
+        {
+          "word": "punctuality",
+          "ipa": "/ˌpʌŋktʃuˈæləti/",
+          "pos": "noun",
+          "definition": "Being on time for things.",
+          "example": "Punctuality is very important in Germany.",
+          "category": "new_word",
+          "status": "new",
+          "day": 82
+        },
+        {
+          "word": "gesture",
+          "ipa": "/ˈdʒɛstʃɚ/",
+          "pos": "noun",
+          "definition": "A movement of your hand or head that shows a feeling.",
+          "example": "A smile is a friendly gesture.",
+          "category": "new_word",
+          "status": "new",
+          "day": 82
+        },
+        {
+          "word": "fashionably late",
+          "ipa": "/ˈfæʃənəbli leɪt/",
+          "pos": "fixed phrase",
+          "definition": "A little late, in a way people expect.",
+          "example": "In some places, people are fashionably late.",
+          "category": "fixed_phrase",
+          "status": "new",
+          "day": 82
+        },
+        {
+          "word": "break the ice",
+          "ipa": "/breɪk ði aɪs/",
+          "pos": "fixed phrase",
+          "definition": "To make people feel relaxed when they first meet.",
+          "example": "A joke can break the ice.",
+          "category": "fixed_phrase",
+          "status": "new",
+          "day": 82
+        },
+        {
+          "word": "shake hands",
+          "ipa": "/ʃeɪk hændz/",
+          "pos": "fixed phrase",
+          "definition": "To hold and shake someone's hand when you meet.",
+          "example": "We shake hands when we meet.",
+          "category": "fixed_phrase",
+          "status": "new",
+          "day": 82
+        }
+      ],
+      "reviewWords": [
+        "meeting",
+        "time",
+        "morning",
+        "late",
+        "early"
+      ],
+      "mainWord": {
+        "word": "punctuality",
+        "ipa": "/ˌpʌŋktʃuˈæləti/",
+        "pos": "noun",
+        "definition": "Being on time for things.",
+        "example": "Punctuality is very important in Germany.",
+        "category": "new_word",
+        "status": "new",
+        "day": 82
+      },
+      "mainWordForms": "Punctuality is a noun. Being on time for things. Punctuality is very important in Germany.",
+      "pronunciationTarget": {
+        "word": "punctuality",
+        "ipa": "/ˌpʌŋktʃuˈæləti/"
+      },
+      "expression": "A joke can break the ice.",
+      "use": "Use this when you talk about making people feel relaxed when they first meet.",
+      "expressionTask": "Maya leads a meeting with a new team from Brazil. What can help people feel relaxed?",
+      "grammar": "Inversion: Not only do we start on time, but we also finish on time",
+      "pattern": "Not only do we start on time, but we also finish on time.",
+      "task": "Not only do we start on time, but we also ___ on time.",
+      "answer": "finish",
+      "example": "Not only do we start on time, but we also finish on time.",
+      "context": [
+        "Maya leads a meeting with a new team from Brazil.",
+        "A joke can break the ice. In Brazil, people often shake hands and smile at the start."
+      ],
+      "dialogue": [
+        "Maya: Daniel, our new team from Brazil arrives today.",
+        "Daniel: Good. How do they start a meeting?",
+        "Maya: They shake hands and smile. A joke can break the ice.",
+        "Daniel: In Germany, punctuality is very important.",
+        "Priya: Yes. But here, people are often fashionably late.",
+        "Maya: True. A small gesture can help people feel at ease."
+      ],
+      "listening": "On Tuesday, Maya leads a meeting with a new team from Brazil. She says, 'A joke can break the ice. In Brazil, people often shake hands and smile at the start.' Daniel says, 'In Germany, punctuality is very important.' Priya says, 'Yes. But here, people are often fashionably late. A small gesture can help people feel at ease.' Daniel is happy.",
+      "question": "What does Maya say can break the ice?",
+      "correct": "A joke",
+      "other": "A long speech",
+      "reading": "On Tuesday, Maya leads a meeting with a new team from Brazil at Carter Retail Group. She says, 'A joke can break the ice. In Brazil, people often shake hands and smile at the start of a meeting. A small gesture can help people feel at ease.' Daniel says, 'In Germany, punctuality is very important. Not only do we start on time, but we also finish on time. People in Germany do not like to wait.' Priya says, 'Yes. But in Brazil, people are often fashionably late. It is the norm there, and no one is angry. Punctuality means different things in different places.' Maya says, 'Good. Learn the gesture and the style of each place. Shake hands, smile, and break the ice with a kind word.' Daniel is happy. He says, 'Thank you, Maya. I will learn how people meet in each country.'",
+      "readingQ": "What does Maya tell Daniel to do?",
+      "readingA": "Learn the gesture and the style of each place.",
+      "speaking": "Tell a friend about a meeting with people from another country. How did they start the meeting? What did you learn?",
+      "speakingSample": "I want to tell you about a meeting with people from Brazil. On Tuesday, Maya led the meeting. She said, 'A joke can break the ice.' In Brazil, people often shake hands and smile at the start. In Germany, punctuality is very important. But in Brazil, people are often fashionably late. A small gesture can help people feel at ease.",
+      "writing": "Write a short email to a friend. Tell them about a meeting with people from another country. Say how they started the meeting and what you learned.",
+      "writingSample": "Dear Anna, I want to tell you about a meeting with people from Brazil. On Tuesday, Maya led the meeting. She said, 'A joke can break the ice.' In Brazil, people often shake hands and smile at the start. In Germany, punctuality is very important. But in Brazil, people are often fashionably late. A small gesture can help people feel at ease. I will learn more about meeting styles. Please tell me about your meetings. Best, Daniel",
+      "sound": "Punctuality has its strongest beat on AL. In punctuality, say AL clearly in the middle. In gesture, say GES clearly at the start.",
+      "model": "In Germany, punctuality is very important.",
+      "wordTask": "What is punctuality?",
+      "wordSample": "It is being on time for things."
+    },
+    {
+      "unit": 11,
+      "day": 83,
+      "title": "Daily routines in different offices",
+      "goal": "I can talk about daily routines in different offices.",
+      "newItems": [
+        {
+          "word": "custom",
+          "ipa": "/ˈkʌstəm/",
+          "pos": "noun",
+          "definition": "Something people in a place usually do.",
+          "example": "It is a local custom to bow.",
+          "category": "new_word",
+          "status": "new",
+          "day": 83
+        },
+        {
+          "word": "ritual",
+          "ipa": "/ˈrɪtʃuəl/",
+          "pos": "noun",
+          "definition": "A set of actions that people always do in a place.",
+          "example": "Tea time is a daily ritual in the office.",
+          "category": "new_word",
+          "status": "new",
+          "day": 83
+        },
+        {
+          "word": "work around the clock",
+          "ipa": "/wɝk əˈraʊnd ðə klɑk/",
+          "pos": "fixed phrase",
+          "definition": "To work all day and all night.",
+          "example": "They work around the clock to meet the deadline.",
+          "category": "fixed_phrase",
+          "status": "new",
+          "day": 83
+        },
+        {
+          "word": "the way things are done",
+          "ipa": "/ðə weɪ θɪŋz ɑr dʌn/",
+          "pos": "fixed phrase",
+          "definition": "The usual way people work in a place.",
+          "example": "Learn the way things are done here.",
+          "category": "fixed_phrase",
+          "status": "new",
+          "day": 83
+        },
+        {
+          "word": "do things by the book",
+          "ipa": "/du θɪŋz baɪ ðə bʊk/",
+          "pos": "fixed phrase",
+          "definition": "To follow the rules exactly.",
+          "example": "In this office, we do things by the book.",
+          "category": "fixed_phrase",
+          "status": "new",
+          "day": 83
+        }
+      ],
+      "reviewWords": [
+        "work",
+        "day",
+        "week",
+        "night",
+        "month"
+      ],
+      "mainWord": {
+        "word": "custom",
+        "ipa": "/ˈkʌstəm/",
+        "pos": "noun",
+        "definition": "Something people in a place usually do.",
+        "example": "It is a local custom to bow.",
+        "category": "new_word",
+        "status": "new",
+        "day": 83
+      },
+      "mainWordForms": "Custom is a noun. Something people in a place usually do. It is a local custom to bow.",
+      "pronunciationTarget": {
+        "word": "custom",
+        "ipa": "/ˈkʌstəm/"
+      },
+      "expression": "We do things by the book in this office.",
+      "use": "Use this when you talk about following the rules exactly.",
+      "expressionTask": "Daniel talks about daily routines in different offices. How do people work in this office?",
+      "grammar": "Modal perfects for speculation: They must have worked all night",
+      "pattern": "They must have worked all night.",
+      "task": "They must have ___ all night.",
+      "answer": "worked",
+      "example": "They must have worked all night.",
+      "context": [
+        "Daniel talks to Maya about daily routines in different offices.",
+        "We do things by the book in this office. Tea time is a daily ritual, and it is the way things are done here."
+      ],
+      "dialogue": [
+        "Daniel: Maya, how do people work in other offices?",
+        "Maya: Every office has a custom. Tea time is a daily ritual here.",
+        "Daniel: Do they work around the clock in Japan?",
+        "Maya: Sometimes. They must have worked all night last week.",
+        "Priya: Yes. But here, we do things by the book.",
+        "Daniel: Good. I will learn the way things are done in each place."
+      ],
+      "listening": "On Wednesday, Daniel talks to Maya about daily routines in different offices. Maya says, 'Every office has a custom. Tea time is a ritual here. We do things by the book in this office.' Daniel says, 'Do they work around the clock in Japan?' Priya says, 'Sometimes. They must have worked all night. But here, we do things by the book.' Daniel is happy.",
+      "question": "What does Maya say about this office?",
+      "correct": "They do things by the book",
+      "other": "They never work at all",
+      "reading": "On Wednesday, Daniel talks to Maya about daily routines in different offices at Carter Retail Group. Maya says, 'Every office has a custom. Tea time is a daily ritual here. We do things by the book in this office. It is the way things are done here, and new workers learn it fast.' Daniel says, 'Do they work around the clock in Japan? They must have worked all night last week.' Priya says, 'Sometimes. In Japan, people work around the clock to finish a big job. But here, we do things by the book and go home at six.' Maya says, 'Good. Learn the custom and the ritual of each office. The way things are done changes from place to place.' Daniel is happy. He says, 'Thank you, Maya. I will learn the way things are done in each office.'",
+      "readingQ": "What does Daniel say he will do?",
+      "readingA": "Learn the way things are done in each office.",
+      "speaking": "Tell a friend about daily routines in a different office. What do people do there? How is it different?",
+      "speakingSample": "I want to tell you about daily routines in a different office. On Wednesday, Daniel talked about offices in other countries. Maya said, 'Every office has a custom. Tea time is a daily ritual here. We do things by the book.' In Japan, people work around the clock to finish a big job. I will learn the way things are done in each office.",
+      "writing": "Write a short email to a friend. Tell them about daily routines in a different office. Say what people do there and how it is different.",
+      "writingSample": "Dear Tom, I want to tell you about daily routines in a different office. On Wednesday, Daniel talked about offices in other countries. Maya said, 'Every office has a custom. Tea time is a daily ritual here. We do things by the book.' In Japan, people work around the clock to finish a big job. I will learn the way things are done in each office every day. Please tell me about your office. Best, Daniel",
+      "sound": "Custom has its strongest beat on CUS. In custom, say CUS clearly at the start. In ritual, say RIT clearly at the start.",
+      "model": "Every office has its own custom.",
+      "wordTask": "What is a custom?",
+      "wordSample": "It is something people in a place usually do."
+    },
+    {
+      "unit": 11,
+      "day": 84,
+      "title": "Hierarchy and titles",
+      "goal": "I can talk about hierarchy and titles at work.",
+      "newItems": [
+        {
+          "word": "hierarchy",
+          "ipa": "/ˈhaɪəˌrɑrki/",
+          "pos": "noun",
+          "definition": "A system where people have different levels of power.",
+          "example": "In a hierarchy, the manager is at the top.",
+          "category": "new_word",
+          "status": "new",
+          "day": 84
+        },
+        {
+          "word": "seniority",
+          "ipa": "/ˌsinjˈɔrəti/",
+          "pos": "noun",
+          "definition": "Being older or having worked somewhere longer than others.",
+          "example": "In Korea, seniority is very important.",
+          "category": "new_word",
+          "status": "new",
+          "day": 84
+        },
+        {
+          "word": "junior",
+          "ipa": "/ˈdʒunjɚ/",
+          "pos": "adjective",
+          "definition": "Lower in rank or younger than others.",
+          "example": "A junior worker learns from a senior worker.",
+          "category": "new_word",
+          "status": "new",
+          "day": 84
+        },
+        {
+          "word": "pull rank",
+          "ipa": "/pʊl ræŋk/",
+          "pos": "fixed phrase",
+          "definition": "To use your higher position to make people obey.",
+          "example": "Do not pull rank on your team.",
+          "category": "fixed_phrase",
+          "status": "new",
+          "day": 84
+        },
+        {
+          "word": "call someone by name",
+          "ipa": "/kɔl ˈsʌmˌwʌn baɪ neɪm/",
+          "pos": "fixed phrase",
+          "definition": "To use a person's name when you talk to them.",
+          "example": "Call him by name, not by his title.",
+          "category": "fixed_phrase",
+          "status": "new",
+          "day": 84
+        }
+      ],
+      "reviewWords": [
+        "manager",
+        "job",
+        "company",
+        "group",
+        "boss"
+      ],
+      "mainWord": {
+        "word": "hierarchy",
+        "ipa": "/ˈhaɪəˌrɑrki/",
+        "pos": "noun",
+        "definition": "A system where people have different levels of power.",
+        "example": "In a hierarchy, the manager is at the top.",
+        "category": "new_word",
+        "status": "new",
+        "day": 84
+      },
+      "mainWordForms": "Hierarchy is a noun. A system where people have different levels of power. In a hierarchy, the manager is at the top.",
+      "pronunciationTarget": {
+        "word": "hierarchy",
+        "ipa": "/ˈhaɪəˌrɑrki/"
+      },
+      "expression": "Do not pull rank on your team.",
+      "use": "Use this when you tell someone not to use a higher position to make people obey.",
+      "expressionTask": "Priya talks about hierarchy and titles. What should a good manager not do?",
+      "grammar": "Future perfect: By next year, she will have worked here for ten years",
+      "pattern": "By next year, she will have worked here for ten years.",
+      "task": "By next year, she will have ___ here for ten years.",
+      "answer": "worked",
+      "example": "By next year, she will have worked here for ten years.",
+      "context": [
+        "Priya talks to Maya about hierarchy and titles at work.",
+        "Do not pull rank on your team. In some places, you must call someone by name, not by their title."
+      ],
+      "dialogue": [
+        "Priya: Maya, how do titles work in other countries?",
+        "Maya: In a hierarchy, the manager is at the top.",
+        "Priya: In Korea, seniority is very important.",
+        "Maya: Yes. A junior worker learns from an older worker.",
+        "Daniel: Should I call someone by name?",
+        "Priya: In some places, yes. But do not pull rank on your team."
+      ],
+      "listening": "On Thursday, Priya talks to Maya about hierarchy and titles at work. Maya says, 'In a hierarchy, the manager is at the top. In Korea, seniority is very important.' Priya says, 'A junior worker learns from an older worker.' Daniel says, 'Should I call someone by name?' Maya says, 'In some places, yes. But do not pull rank on your team.' Priya is happy.",
+      "question": "What does Maya tell Daniel not to do?",
+      "correct": "Pull rank on his team",
+      "other": "Talk to his team at all",
+      "reading": "On Thursday, Priya talks to Maya about hierarchy and titles at work at Carter Retail Group. Maya says, 'In a hierarchy, the manager is at the top. In Korea, seniority is very important. A junior worker learns from an older worker every day. By next year, she will have worked here for ten years.' Priya says, 'Yes. In some places, you must call someone by name, not by their title. It shows you are friendly and open.' Daniel says, 'Should I call someone by name in Japan too?' Maya says, 'No. In Japan, use the title first. A good manager never tries to pull rank on the team. Do not pull rank on your team.' Daniel is happy. He says, 'Thank you, Maya. I will learn the hierarchy and the titles of each place.'",
+      "readingQ": "What does Maya tell Daniel to do?",
+      "readingA": "Learn the hierarchy and the titles of each place.",
+      "speaking": "Tell a friend about hierarchy and titles in another country. How do people use titles? What did you learn?",
+      "speakingSample": "I want to tell you about hierarchy and titles in another country. On Thursday, Priya talked about work in Korea. Maya said, 'In a hierarchy, the manager is at the top. In Korea, seniority is very important.' A junior worker learns from an older worker. In some places, you must call someone by name. Do not pull rank on your team.",
+      "writing": "Write a short email to a friend. Tell them about hierarchy and titles in another country. Say how people use titles and what you learned.",
+      "writingSample": "Dear Lisa, I want to tell you about hierarchy and titles in another country. On Thursday, Priya talked about work in Korea. Maya said, 'In a hierarchy, the manager is at the top. In Korea, seniority is very important.' A junior worker learns from an older worker. In some places, you must call someone by name, not by their title. Do not pull rank on your team. Please tell me about your work. Best, Priya",
+      "sound": "Hierarchy has its strongest beat on HI. In hierarchy, say HI clearly at the start. In seniority, say OR clearly in the middle.",
+      "model": "In a hierarchy, the manager is at the top.",
+      "wordTask": "What is a hierarchy?",
+      "wordSample": "It is a system where people have different levels of power."
+    },
+    {
+      "unit": 11,
+      "day": 85,
+      "title": "Small talk and greetings",
+      "goal": "I can talk about small talk and greetings.",
+      "newItems": [
+        {
+          "word": "handshake",
+          "ipa": "/ˈhændˌʃeɪk/",
+          "pos": "noun",
+          "definition": "Holding and shaking someone's hand when you meet.",
+          "example": "A firm handshake is common in business.",
+          "category": "new_word",
+          "status": "new",
+          "day": 85
+        },
+        {
+          "word": "taboo",
+          "ipa": "/təˈbu/",
+          "pos": "noun",
+          "definition": "Something that people must not do or talk about.",
+          "example": "In some places, it is a taboo to ask about age.",
+          "category": "new_word",
+          "status": "new",
+          "day": 85
+        },
+        {
+          "word": "small talk",
+          "ipa": "/smɔl tɔk/",
+          "pos": "fixed phrase",
+          "definition": "Light talk about unimportant things.",
+          "example": "Small talk helps people feel at ease.",
+          "category": "fixed_phrase",
+          "status": "new",
+          "day": 85
+        },
+        {
+          "word": "eye contact",
+          "ipa": "/aɪ ˈkɑnˌtækt/",
+          "pos": "fixed phrase",
+          "definition": "Looking at someone's eyes when you talk.",
+          "example": "Eye contact shows you are listening.",
+          "category": "fixed_phrase",
+          "status": "new",
+          "day": 85
+        },
+        {
+          "word": "mind your manners",
+          "ipa": "/maɪnd jɔr ˈmænɚz/",
+          "pos": "fixed phrase",
+          "definition": "To be polite and behave well.",
+          "example": "Mind your manners at the dinner.",
+          "category": "fixed_phrase",
+          "status": "new",
+          "day": 85
+        }
+      ],
+      "reviewWords": [
+        "friend",
+        "call",
+        "name",
+        "smile",
+        "hello"
+      ],
+      "mainWord": {
+        "word": "handshake",
+        "ipa": "/ˈhændˌʃeɪk/",
+        "pos": "noun",
+        "definition": "Holding and shaking someone's hand when you meet.",
+        "example": "A firm handshake is common in business.",
+        "category": "new_word",
+        "status": "new",
+        "day": 85
+      },
+      "mainWordForms": "Handshake is a noun. Holding and shaking someone's hand when you meet. A firm handshake is common in business.",
+      "pronunciationTarget": {
+        "word": "handshake",
+        "ipa": "/ˈhændˌʃeɪk/"
+      },
+      "expression": "Small talk helps people feel at ease.",
+      "use": "Use this when you talk about light talk that makes people feel relaxed.",
+      "expressionTask": "Maya talks about small talk and greetings. What helps people feel at ease?",
+      "grammar": "Hedging: It seems that people in Japan prefer short answers",
+      "pattern": "It seems that people in Japan prefer short answers.",
+      "task": "It seems that people in Japan prefer ___ answers.",
+      "answer": "short",
+      "example": "It seems that people in Japan prefer short answers.",
+      "context": [
+        "Maya talks to Daniel about small talk and greetings.",
+        "Small talk helps people feel at ease. A firm handshake is common in business, and eye contact shows you are listening."
+      ],
+      "dialogue": [
+        "Maya: Daniel, how do you greet people in other countries?",
+        "Daniel: A firm handshake is common in business.",
+        "Maya: Yes. And small talk helps people feel at ease.",
+        "Daniel: Is it a taboo to ask about age?",
+        "Priya: In some places, yes. Mind your manners at dinner.",
+        "Maya: Good. Eye contact shows you are listening."
+      ],
+      "listening": "On Friday, Maya talks to Daniel about small talk and greetings. She says, 'Small talk helps people feel at ease. A firm handshake is common in business, and eye contact shows you are listening.' Daniel says, 'Is it a taboo to ask about age?' Priya says, 'In some places, yes. Mind your manners. It seems that people in Japan prefer short answers.' Daniel is happy.",
+      "question": "What does Maya say helps people feel at ease?",
+      "correct": "Small talk",
+      "other": "A long silence",
+      "reading": "On Friday, Maya talks to Daniel about small talk and greetings at Carter Retail Group. She says, 'Small talk helps people feel at ease. A firm handshake is common in business, and eye contact shows you are listening. It seems that people in Japan prefer short answers.' Daniel says, 'Is it a taboo to ask about age? I do not want to make a mistake.' Priya says, 'In some places, yes. Mind your manners at dinner. A handshake and a smile are good in most places.' Maya says, 'Good. Learn the small talk of each place. Eye contact and a warm smile help people feel at ease. Mind your manners, and people will like you.' Daniel is happy. He says, 'Thank you, Maya. I will learn how to greet people in each country.'",
+      "readingQ": "What does Maya tell Daniel to do?",
+      "readingA": "Learn the small talk of each place.",
+      "speaking": "Tell a friend about greetings in another country. How do people greet each other? What should you not do?",
+      "speakingSample": "I want to tell you about greetings in another country. On Friday, Maya talked about small talk and greetings. She said, 'Small talk helps people feel at ease. A firm handshake is common in business, and eye contact shows you are listening.' In some places, it is a taboo to ask about age. Mind your manners at dinner every day.",
+      "writing": "Write a short email to a friend. Tell them about greetings in another country. Say how people greet each other and what you should not do.",
+      "writingSample": "Dear Tom, I want to tell you about greetings in another country. On Friday, Maya talked about small talk and greetings. She said, 'Small talk helps people feel at ease. A firm handshake is common in business, and eye contact shows you are listening.' In some places, it is a taboo to ask about age. Mind your manners at dinner. I will learn more about greetings every day. Please tell me about your work. Best, Daniel",
+      "sound": "Handshake has its strongest beat on HAND. In handshake, say HAND clearly at the start. In taboo, say BOO clearly at the end.",
+      "model": "A firm handshake is common in business.",
+      "wordTask": "What is a handshake?",
+      "wordSample": "It is holding and shaking someone's hand when you meet."
+    },
+    {
+      "unit": 11,
+      "day": 86,
+      "title": "Business meals and gifts",
+      "goal": "I can talk about business meals and gifts.",
+      "newItems": [
+        {
+          "word": "banquet",
+          "ipa": "/ˈbæŋkwət/",
+          "pos": "noun",
+          "definition": "A large formal meal for many people.",
+          "example": "We went to a banquet on Friday night.",
+          "category": "new_word",
+          "status": "new",
+          "day": 86
+        },
+        {
+          "word": "hospitality",
+          "ipa": "/ˌhɑspəˈtæləti/",
+          "pos": "noun",
+          "definition": "Being friendly and kind to guests.",
+          "example": "Thank you for your hospitality.",
+          "category": "new_word",
+          "status": "new",
+          "day": 86
+        },
+        {
+          "word": "bowing",
+          "ipa": "/ˈbaʊɪŋ/",
+          "pos": "noun",
+          "definition": "Bending your head and body to show respect.",
+          "example": "Bowing is common in Japan.",
+          "category": "new_word",
+          "status": "new",
+          "day": 86
+        },
+        {
+          "word": "pick up the bill",
+          "ipa": "/pɪk ʌp ðə bɪl/",
+          "pos": "fixed phrase",
+          "definition": "To pay for a meal for everyone.",
+          "example": "Our host picked up the bill.",
+          "category": "fixed_phrase",
+          "status": "new",
+          "day": 86
+        },
+        {
+          "word": "lose face",
+          "ipa": "/luz feɪs/",
+          "pos": "fixed phrase",
+          "definition": "To feel shame in front of other people.",
+          "example": "Do not make him lose face.",
+          "category": "fixed_phrase",
+          "status": "new",
+          "day": 86
+        }
+      ],
+      "reviewWords": [
+        "dinner",
+        "food",
+        "lunch",
+        "drink",
+        "guest"
+      ],
+      "mainWord": {
+        "word": "banquet",
+        "ipa": "/ˈbæŋkwət/",
+        "pos": "noun",
+        "definition": "A large formal meal for many people.",
+        "example": "We went to a banquet on Friday night.",
+        "category": "new_word",
+        "status": "new",
+        "day": 86
+      },
+      "mainWordForms": "Banquet is a noun. A large formal meal for many people. We went to a banquet on Friday night.",
+      "pronunciationTarget": {
+        "word": "banquet",
+        "ipa": "/ˈbæŋkwət/"
+      },
+      "expression": "Our host picked up the bill.",
+      "use": "Use this when you talk about someone paying for a meal for everyone.",
+      "expressionTask": "Daniel talks about a business meal. Who paid for the meal?",
+      "grammar": "Participle clauses: Having worked in Japan for a year, Ana knows the customs",
+      "pattern": "Having worked in Japan for a year, Ana knows the customs.",
+      "task": "Having worked in Japan for a year, Ana ___ the customs.",
+      "answer": "knows",
+      "example": "Having worked in Japan for a year, Ana knows the customs.",
+      "context": [
+        "Daniel talks to Maya about a business meal in Japan.",
+        "Our host picked up the bill. Thank you for your hospitality, and do not make him lose face."
+      ],
+      "dialogue": [
+        "Daniel: Maya, I went to a banquet on Friday night.",
+        "Maya: Good. Did you enjoy the food?",
+        "Daniel: Yes. Our host picked up the bill.",
+        "Maya: Thank you for your hospitality is a kind thing to say.",
+        "Priya: Yes. And bowing is common in Japan.",
+        "Daniel: True. Do not make him lose face at dinner."
+      ],
+      "listening": "On Saturday, Daniel talks to Maya about a business meal in Japan. He says, 'I went to a banquet on Friday night. Our host picked up the bill.' Maya says, 'Thank you for your hospitality is a kind thing to say.' Priya says, 'Yes. And bowing is common in Japan. Do not make him lose face at dinner.' Daniel is happy.",
+      "question": "Who paid for the meal?",
+      "correct": "The host",
+      "other": "Daniel",
+      "reading": "On Saturday, Daniel talks to Maya about a business meal in Japan at Carter Retail Group. He says, 'I went to a banquet on Friday night. Our host picked up the bill. Thank you for your hospitality is a kind thing to say after a meal.' Maya says, 'Good. Having worked in Japan for a year, Ana knows the customs. Bowing is common in Japan, and it shows respect.' Priya says, 'Yes. Do not make him lose face at dinner. A kind word can help him, and a banquet is a good time to say thank you.' Daniel says, 'I will learn the hospitality of each place. I went to a banquet, and our host picked up the bill.' Maya is happy. She says, 'Good. Learn the meal customs, and do not make anyone lose face.'",
+      "readingQ": "What does Maya tell Daniel to do?",
+      "readingA": "Learn the meal customs, and do not make anyone lose face.",
+      "speaking": "Tell a friend about a business meal in another country. What happened? Who paid? What did you learn?",
+      "speakingSample": "I want to tell you about a business meal in Japan. On Saturday, Daniel talked about a banquet. He said, 'I went to a banquet on Friday night. Our host picked up the bill.' Bowing is common in Japan, and it shows respect. Do not make him lose face at dinner. Thank you for your hospitality is a kind thing to say.",
+      "writing": "Write a short email to a friend. Tell them about a business meal in another country. Say what happened, who paid, and what you learned.",
+      "writingSample": "Dear Anna, I want to tell you about a business meal in Japan. On Saturday, Daniel talked about a banquet. He said, 'I went to a banquet on Friday night. Our host picked up the bill.' Bowing is common in Japan, and it shows respect. Do not make him lose face at dinner. Thank you for your hospitality is a kind thing to say. I will learn more about meals. Please tell me about your work. Best, Daniel",
+      "sound": "Banquet has its strongest beat on BAN. In banquet, say BAN clearly at the start. In hospitality, say TAL clearly in the middle.",
+      "model": "We went to a banquet on Friday night.",
+      "wordTask": "What is a banquet?",
+      "wordSample": "It is a large formal meal for many people."
+    },
+    {
+      "unit": 11,
+      "day": 87,
+      "title": "Working across time zones",
+      "goal": "I can talk about working across time zones.",
+      "newItems": [
+        {
+          "word": "overlap",
+          "ipa": "/ˈoʊvɚˌlæp/",
+          "pos": "noun",
+          "definition": "A time when two things happen at the same time.",
+          "example": "We have a two-hour overlap for meetings.",
+          "category": "new_word",
+          "status": "new",
+          "day": 87
+        },
+        {
+          "word": "hybrid",
+          "ipa": "/ˈhaɪbrəd/",
+          "pos": "adjective",
+          "definition": "Partly in the office and partly at home.",
+          "example": "We have a hybrid way of working.",
+          "category": "new_word",
+          "status": "new",
+          "day": 87
+        },
+        {
+          "word": "global",
+          "ipa": "/ˈɡloʊbəl/",
+          "pos": "adjective",
+          "definition": "About the whole world.",
+          "example": "We work for a global company.",
+          "category": "new_word",
+          "status": "new",
+          "day": 87
+        },
+        {
+          "word": "diverse",
+          "ipa": "/daɪˈvɝs/",
+          "pos": "adjective",
+          "definition": "Made up of many different kinds of people.",
+          "example": "Our team is diverse and open.",
+          "category": "new_word",
+          "status": "new",
+          "day": 87
+        },
+        {
+          "word": "across time zones",
+          "ipa": "/əˈkrɔs taɪm zoʊnz/",
+          "pos": "fixed phrase",
+          "definition": "In places with different times of day.",
+          "example": "Our team works across time zones.",
+          "category": "fixed_phrase",
+          "status": "new",
+          "day": 87
+        }
+      ],
+      "reviewWords": [
+        "email",
+        "phone",
+        "home",
+        "city",
+        "country"
+      ],
+      "mainWord": {
+        "word": "overlap",
+        "ipa": "/ˈoʊvɚˌlæp/",
+        "pos": "noun",
+        "definition": "A time when two things happen at the same time.",
+        "example": "We have a two-hour overlap for meetings.",
+        "category": "new_word",
+        "status": "new",
+        "day": 87
+      },
+      "mainWordForms": "Overlap is a noun. A time when two things happen at the same time. We have a two-hour overlap for meetings.",
+      "pronunciationTarget": {
+        "word": "overlap",
+        "ipa": "/ˈoʊvɚˌlæp/"
+      },
+      "expression": "Our team works across time zones.",
+      "use": "Use this when you talk about a team in places with different times of day.",
+      "expressionTask": "Maya talks about working across time zones. Where does the team work?",
+      "grammar": "Subjunctive: It is important that everyone be on time for the call",
+      "pattern": "It is important that everyone be on time for the call.",
+      "task": "It is important that everyone ___ on time for the call.",
+      "answer": "be",
+      "example": "It is important that everyone be on time for the call.",
+      "context": [
+        "Maya talks to Daniel about working across time zones.",
+        "Our team works across time zones. We have a two-hour overlap for meetings every day."
+      ],
+      "dialogue": [
+        "Maya: Daniel, our team is global now.",
+        "Daniel: How do we work across time zones?",
+        "Maya: We have a two-hour overlap for meetings.",
+        "Daniel: Is our team diverse?",
+        "Priya: Yes. We are a hybrid team, and we are diverse and open.",
+        "Maya: Good. It is important that everyone be on time for the call."
+      ],
+      "listening": "On Sunday, Maya talks to Daniel about working across time zones. She says, 'Our team works across time zones. We have a two-hour overlap for meetings every day.' Daniel says, 'Is our team diverse?' Priya says, 'Yes. We are a hybrid team, and we are diverse and open. It is important that everyone be on time for the call.' Daniel is happy.",
+      "question": "How long is the overlap for meetings?",
+      "correct": "Two hours",
+      "other": "Two days",
+      "reading": "On Sunday, Maya talks to Daniel about working across time zones at Carter Retail Group. She says, 'Our team works across time zones. We have a two-hour overlap for meetings every day. Our team is global, and we work in ten countries.' Daniel says, 'Is our team diverse? I want to work with people from many places.' Priya says, 'Yes. We are a hybrid team, and we are diverse and open. It is important that everyone be on time for the call.' Maya says, 'Good. A global team must plan well. The overlap is short, so use it well. Our diverse team learns from each other every day. A diverse team can solve hard problems together.' Daniel is happy. He says, 'Thank you, Maya. I will learn how to work across time zones.'",
+      "readingQ": "What does Maya tell Daniel to do?",
+      "readingA": "Learn how to work across time zones.",
+      "speaking": "Tell a friend about working across time zones. How does your team work? What is hard about it?",
+      "speakingSample": "I want to tell you about working across time zones with a global team. On Sunday, Maya talked about our global team. She said, 'Our team works across time zones. We have a two-hour overlap for meetings every day.' We are a hybrid team, and we are diverse and open. It is important that everyone be on time for the call every day.",
+      "writing": "Write a short email to a friend. Tell them about working across time zones. Say how your team works and what is hard about it.",
+      "writingSample": "Dear Tom, I want to tell you about working across time zones. On Sunday, Maya talked about our global team. She said, 'Our team works across time zones. We have a two-hour overlap for meetings every day.' We are a hybrid team, and we are diverse and open. It is important that everyone be on time for the call. I will learn more about global work every day. Please tell me about your team. Best, Daniel",
+      "sound": "Overlap has its strongest beat on VER. In overlap, say VER clearly in the middle. In hybrid, say HY clearly at the start.",
+      "model": "We have a two-hour overlap for meetings.",
+      "wordTask": "What is an overlap?",
+      "wordSample": "It is a time when two things happen at the same time."
+    },
+    {
+      "unit": 11,
+      "day": 88,
+      "title": "Use workplace culture English in a new situation",
+      "goal": "I can use workplace culture English in a new situation.",
+      "newItems": [
+        {
+          "word": "adapt",
+          "ipa": "/əˈdæpt/",
+          "pos": "verb",
+          "definition": "To change how you act for a new place or situation.",
+          "example": "You must adapt to a new culture.",
+          "category": "new_word",
+          "status": "new",
+          "day": 88
+        },
+        {
+          "word": "misunderstanding",
+          "ipa": "/ˌmɪsʌndɚˈstændɪŋ/",
+          "pos": "noun",
+          "definition": "A wrong idea about what someone means.",
+          "example": "A small misunderstanding can cause a big problem.",
+          "category": "new_word",
+          "status": "new",
+          "day": 88
+        },
+        {
+          "word": "bridge the gap",
+          "ipa": "/brɪdʒ ðə ɡæp/",
+          "pos": "fixed phrase",
+          "definition": "To help two different groups understand each other.",
+          "example": "Good leaders bridge the gap between teams.",
+          "category": "fixed_phrase",
+          "status": "new",
+          "day": 88
+        },
+        {
+          "word": "a learning curve",
+          "ipa": "/ə ˈlɝnɪŋ kɝv/",
+          "pos": "fixed phrase",
+          "definition": "The time it takes to learn something new.",
+          "example": "A new job has a learning curve.",
+          "category": "fixed_phrase",
+          "status": "new",
+          "day": 88
+        },
+        {
+          "word": "a step in the right direction",
+          "ipa": "/ə stɛp ɪn ðə raɪt dəˈrɛkʃən/",
+          "pos": "fixed phrase",
+          "definition": "A small change that makes things better.",
+          "example": "The new plan is a step in the right direction.",
+          "category": "fixed_phrase",
+          "status": "new",
+          "day": 88
+        }
+      ],
+      "reviewWords": [
+        "change",
+        "help",
+        "start",
+        "study",
+        "happy"
+      ],
+      "mainWord": {
+        "word": "adapt",
+        "ipa": "/əˈdæpt/",
+        "pos": "verb",
+        "definition": "To change how you act for a new place or situation.",
+        "example": "You must adapt to a new culture.",
+        "category": "new_word",
+        "status": "new",
+        "day": 88
+      },
+      "mainWordForms": "Adapt is a verb. To change how you act for a new place or situation. You must adapt to a new culture.",
+      "pronunciationTarget": {
+        "word": "adapt",
+        "ipa": "/əˈdæpt/"
+      },
+      "expression": "Good leaders bridge the gap between teams.",
+      "use": "Use this when you talk about helping two different groups understand each other.",
+      "expressionTask": "Daniel meets Sara at an international work fair. What does Sara want to do?",
+      "grammar": "Review: I can use workplace culture English in a new situation",
+      "pattern": "I can use workplace culture English in a new situation.",
+      "task": "I can ___ workplace culture English in a new situation.",
+      "answer": "use",
+      "example": "I can use workplace culture English in a new situation.",
+      "context": [
+        "Daniel meets Sara at an international work fair.",
+        "Good leaders bridge the gap between teams. You must adapt to a new culture, and a small misunderstanding can cause a big problem."
+      ],
+      "dialogue": [
+        "Daniel: Sara, have you worked in another country before?",
+        "Sara: Not yet. I want to adapt to a new culture.",
+        "Daniel: Good. A new job has a learning curve.",
+        "Sara: Yes. I want to bridge the gap between teams.",
+        "Daniel: You can. It is a step in the right direction.",
+        "Sara: Thank you. I will learn, and I will not fear a misunderstanding."
+      ],
+      "listening": "On Monday, Daniel meets Sara at an international work fair. Sara says, 'I want to adapt to a new culture. A new job has a learning curve.' Daniel says, 'Good. Good leaders bridge the gap between teams. It is a step in the right direction.' Sara says, 'Thank you. I will learn, and I will not fear a misunderstanding.' Daniel is happy.",
+      "question": "What does Sara want to do?",
+      "correct": "Adapt to a new culture",
+      "other": "Leave her job at once",
+      "reading": "On Monday, Daniel meets Sara at an international work fair. Sara says, 'I want to adapt to a new culture. A new job has a learning curve, and I want to learn fast.' Daniel says, 'Good. Good leaders bridge the gap between teams. It is a step in the right direction to learn a new culture.' Sara says, 'Yes. A small misunderstanding can cause a big problem. I will learn, and I will not fear a misunderstanding.' Daniel says, 'You can. I can use workplace culture English in a new situation, and you can too. Adapt to the new team, and bridge the gap with kind words.' Sara is happy. She says, 'Thank you. I will adapt and learn. A learning curve is normal, and this is a step in the right direction.'",
+      "readingQ": "What does Sara say she will do?",
+      "readingA": "Adapt and learn.",
+      "speaking": "Tell a friend about working in a new culture. What did you do? How did you adapt?",
+      "speakingSample": "I want to tell you about working in a new culture. On Monday, Daniel met Sara at an international work fair. Sara said, 'I want to adapt to a new culture. A new job has a learning curve.' Good leaders bridge the gap between teams. It is a step in the right direction. I will adapt and learn more every day.",
+      "writing": "Write a short email to a friend. Tell them about working in a new culture. Say what you did and how you adapted.",
+      "writingSample": "Dear Anna, I want to tell you about working in a new culture. On Monday, Daniel met Sara at an international work fair. Sara said, 'I want to adapt to a new culture. A new job has a learning curve.' Good leaders bridge the gap between teams. It is a step in the right direction. I will adapt and learn too. A new job has a learning curve, and I am ready for it. Please tell me about your work. Best, Sara",
+      "sound": "Adapt has its strongest beat on DAPT. In adapt, say DAPT clearly at the end. In misunderstanding, say STAND clearly in the middle.",
+      "model": "You must adapt to a new culture.",
+      "wordTask": "What does adapt mean?",
+      "wordSample": "It means to change how you act for a new place or situation.",
+      "transferCheck": {
+        "source": "On Tuesday, Sara reads a note about a new colleague from Mexico. It says a good team can bridge the gap between cultures. Sara talks to her friend Tom at an international work fair. She says, 'I want to adapt to a new culture. I will learn, and I will not fear a misunderstanding.' Tom says, 'Good. Adapt to the new team, and bridge the gap with kind words.' Sara says, 'Yes. A new job has a learning curve.' Tom says, 'Good. This is a step in the right direction.' Sara is happy.",
+        "dictation": "A good team can bridge the gap between cultures.",
+        "answer": "1. The new checker is Sara. She reads a note about a new colleague from Mexico and talks to her friend Tom at an international work fair. 2. Sara's first job is to say that she wants to adapt to a new culture and learn fast. 3. On Tuesday, Sara says, 'I want to adapt to a new culture.' 4. A good team can bridge the gap between cultures. 5. Sample: On Tuesday, Sara reads a note about a new colleague from Mexico. It says a good team can bridge the gap between cultures. Sara talks to her friend Tom at an international work fair. She says, 'I want to adapt to a new culture. I will learn, and I will not fear a misunderstanding.' Tom says, 'Good. Adapt to the new team, and bridge the gap with kind words.' Sara says, 'Yes. A new job has a learning curve.' Tom says, 'Good. This is a step in the right direction.' Follow-up: What does Tom tell Sara to do? Adapt to the new team, and bridge the gap with kind words.",
+        "tasks": [
+          [
+            "1 · Identify the people and the new situation",
+            "Who is the new checker, and what does she read?"
+          ],
+          [
+            "2 · Work out what Sara does first",
+            "What is Sara's first job, and what does she say?"
+          ],
+          [
+            "3 · Notice the sentence on Tuesday",
+            "What does Sara say on Tuesday?"
+          ],
+          [
+            "4 · Listen and write",
+            "Write the sentence you hear."
+          ],
+          [
+            "5 · Retell and answer",
+            "Tell the story in order, including the people, the new situation, the first talk, and the result. Then answer one follow-up question."
+          ]
+        ]
+      }
+    }
+  ]
+}

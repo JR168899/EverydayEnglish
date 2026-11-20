@@ -1,0 +1,905 @@
+{
+  "number": 3,
+  "title": "Presenting data and arguments",
+  "lessons": [
+    {
+      "unit": 3,
+      "day": 17,
+      "title": "Describe a chart or graph",
+      "goal": "I can describe a chart and say what it shows.",
+      "newItems": [
+        {
+          "word": "chart",
+          "ipa": "/tʃɑrt/",
+          "pos": "noun",
+          "definition": "A drawing that shows information with lines, bars, or pictures.",
+          "example": "This chart shows our sales for the year.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "graph",
+          "ipa": "/ɡræf/",
+          "pos": "noun",
+          "definition": "A drawing that shows how numbers change, with lines or bars.",
+          "example": "The graph shows a rise in sales.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "at a glance",
+          "ipa": "/ət ə ɡlæns/",
+          "pos": "fixed phrase",
+          "definition": "With one quick look.",
+          "example": "At a glance, the chart looks good.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "the big picture",
+          "ipa": "/ðə bɪɡ ˈpɪktʃɚ/",
+          "pos": "fixed phrase",
+          "definition": "The whole situation, not just one small part.",
+          "example": "Look at the big picture, not just one month.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "in detail",
+          "ipa": "/ɪn ˈditeɪl/",
+          "pos": "fixed phrase",
+          "definition": "With all the small parts included.",
+          "example": "Let us look at this in detail.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "price",
+        "client",
+        "meeting",
+        "plan",
+        "agree"
+      ],
+      "mainWord": {
+        "word": "chart",
+        "ipa": "/tʃɑrt/",
+        "pos": "noun",
+        "definition": "A drawing that shows information with lines, bars, or pictures.",
+        "example": "This chart shows our sales for the year.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Chart is a noun. A chart is a drawing that shows information with lines, bars, or pictures. This chart shows our sales for the year.",
+      "pronunciationTarget": {
+        "word": "chart",
+        "ipa": "/tʃɑrt/"
+      },
+      "expression": "This chart shows our sales for the year.",
+      "use": "Use this when you start to describe a chart.",
+      "expressionTask": "Maya shows Daniel a chart. What does the chart show?",
+      "grammar": "Describing trends: Sales have grown since January",
+      "pattern": "Sales have grown since January.",
+      "task": "Sales have ___ since January.",
+      "answer": "grown",
+      "example": "Sales have grown since January.",
+      "context": [
+        "Maya shows Daniel a chart of chair sales for the year.",
+        "This chart shows our sales for the year."
+      ],
+      "dialogue": [
+        "Maya: Good morning, Daniel. Look at this chart. It shows our chair sales for the year.",
+        "Daniel: Good morning, Maya. At a glance, the chart looks good. Sales went up a lot in May.",
+        "Maya: Yes. Let us look at it in detail. The graph shows the same story.",
+        "Daniel: I see. The big picture is clear: more people buy our chairs now.",
+        "Maya: That is right. This chart shows our sales for the year, and the year was good.",
+        "Daniel: Good. I can describe the chart now. The big picture is easy to see."
+      ],
+      "listening": "On Monday, Maya shows Daniel a chart. The chart shows chair sales for the year. At a glance, it looks good. Sales went up a lot in May. Maya says, 'Let us look at it in detail.' The graph shows the same story. The big picture is clear: more people buy chairs now. Daniel is happy. He can see the big picture.",
+      "question": "What does the chart show?",
+      "correct": "Chair sales for the year",
+      "other": "The price of one chair",
+      "reading": "On Monday, Maya shows Daniel a chart of chair sales for the year. At a glance, the chart looks good. Sales went up a lot in May, and they stayed high in June. Maya says, 'Let us look at it in detail.' The graph shows the same story: the big picture is clear. More people buy our chairs now than last year. Maya says, 'This chart shows our sales for the year. The year was good, and May was our best month.' Daniel says, 'I see the big picture now. At a glance, sales went up in May. In detail, June was good too.' Maya smiles. She says, 'Good. Start with the big picture. Then look at it in detail.' Daniel is very happy. He can describe a chart well now.",
+      "readingQ": "What does Maya tell Daniel to do first when he describes a chart?",
+      "readingA": "Start with the big picture, then look at it in detail.",
+      "speaking": "Tell a friend about a chart you saw at work. What did the chart show? What was the big picture? What did you see in detail?",
+      "speakingSample": "Last week, my team showed me a chart of our sales. At a glance, the chart looked good. The graph showed the same story: sales went up a lot in May. The big picture was clear. More people bought our chairs than last year. I looked at the chart in detail. May was our best month, and June was good too. I can describe the chart now.",
+      "writing": "Write a short email to a colleague. Describe a chart of your team's sales. Say what the chart shows and what the big picture is.",
+      "writingSample": "Dear Priya, I want to tell you about a chart of our chair sales. At a glance, the chart looks good. The graph shows the same story. Sales went up a lot in May, and June was good too. The big picture is clear: more people buy our chairs now than last year. This chart shows our sales for the year. Let us look at it in detail on Monday. I can describe the chart to the team. Best, Daniel",
+      "sound": "Chart has one strong beat: CHART. In chart, say CHART clearly. In graph, say GRAPH clearly.",
+      "model": "This chart shows our sales for the year.",
+      "wordTask": "What does Maya show Daniel on Monday?",
+      "wordSample": "A chart of chair sales for the year."
+    },
+    {
+      "unit": 3,
+      "day": 18,
+      "title": "Compare figures",
+      "goal": "I can compare figures and say which number is higher.",
+      "newItems": [
+        {
+          "word": "percentage",
+          "ipa": "/pɚˈsɛntɪdʒ/",
+          "pos": "noun",
+          "definition": "A number shown as a part of 100.",
+          "example": "The percentage of new buyers is 40%.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "proportion",
+          "ipa": "/prəˈpɔrʃən/",
+          "pos": "noun",
+          "definition": "A part of a whole, shown as a number.",
+          "example": "A large proportion of sales are online.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "sample",
+          "ipa": "/ˈsæmpəl/",
+          "pos": "noun",
+          "definition": "A small group chosen to stand for a larger group.",
+          "example": "We asked a sample of 100 customers.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "compared with",
+          "ipa": "/kəmˈpɛrd wɪð/",
+          "pos": "fixed phrase",
+          "definition": "When you put one thing next to another to see the difference.",
+          "example": "Compared with last year, sales are up.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "in comparison with",
+          "ipa": "/ɪn kəmˈpɛrəsən wɪð/",
+          "pos": "fixed phrase",
+          "definition": "When you look at two things together to see how they differ.",
+          "example": "In comparison with 2024, costs are lower.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "job",
+        "goal",
+        "next",
+        "happy",
+        "careful"
+      ],
+      "mainWord": {
+        "word": "percentage",
+        "ipa": "/pɚˈsɛntɪdʒ/",
+        "pos": "noun",
+        "definition": "A number shown as a part of 100.",
+        "example": "The percentage of new buyers is 40%.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Percentage is a noun. A percentage is a number shown as a part of 100. The percentage of new buyers is 40%.",
+      "pronunciationTarget": {
+        "word": "percentage",
+        "ipa": "/pɚˈsɛntɪdʒ/"
+      },
+      "expression": "Compared with last year, sales are up.",
+      "use": "Use this when you compare a number with an earlier number.",
+      "expressionTask": "Daniel compares this year with last year. What does he say about sales?",
+      "grammar": "Comparing figures: twice as high as",
+      "pattern": "Online sales were twice as high as shop sales.",
+      "task": "Online sales were twice as ___ as shop sales.",
+      "answer": "high",
+      "example": "Online sales were twice as high as shop sales.",
+      "context": [
+        "Daniel compares the figures for online sales and shop sales.",
+        "Compared with last year, sales are up."
+      ],
+      "dialogue": [
+        "Daniel: Look at these figures, Maya. Online sales were twice as high as shop sales.",
+        "Maya: That is a big change. What is the percentage of online sales now?",
+        "Daniel: The percentage is 60%. A large proportion of sales are online now.",
+        "Priya: Did you ask a sample of buyers? What did they say?",
+        "Daniel: Yes. We asked a sample of 100 buyers. In comparison with last year, more buy online.",
+        "Maya: Good. Compared with last year, sales are up, and online sales are twice as high."
+      ],
+      "listening": "On Tuesday, Daniel compares the figures. Online sales were twice as high as shop sales. The percentage of online sales is 60%. A large proportion of sales are online now. Daniel asked a sample of 100 buyers. In comparison with last year, more buyers buy online. Maya says, 'Good work. Compared with last year, sales are up.' Daniel is happy. He can compare figures now.",
+      "question": "What is the percentage of online sales?",
+      "correct": "60%",
+      "other": "40%",
+      "reading": "On Tuesday, Daniel compares the figures for online sales and shop sales. Online sales were twice as high as shop sales. The percentage of online sales is 60%. A large proportion of sales are online now. Daniel asked a sample of 100 buyers about how they buy chairs. In comparison with last year, more buyers buy online. Maya looks at the figures. She says, 'Compared with last year, sales are up. The percentage is 60%, and the proportion of online sales is large.' Daniel says, 'Yes. The sample was 100 buyers, and most of them buy online now.' Priya asks, 'What does the sample say about shop sales?' Daniel says, 'In comparison with last year, shop sales are lower, but online sales are twice as high.' Maya is happy. She says, 'Good. You can compare figures now. Say the percentage, say the proportion, and say what the sample shows.'",
+      "readingQ": "What did Daniel ask the sample of buyers about?",
+      "readingA": "How they buy chairs.",
+      "speaking": "Tell a friend about two numbers you compared. What were the numbers? Which one was higher? How did you compare them?",
+      "speakingSample": "Last month, I compared our online sales with our shop sales. Online sales were twice as high as shop sales. The percentage of online sales was 60%. A large proportion of our sales are online now. I asked a sample of 100 buyers. In comparison with last year, more buyers buy online. Compared with last year, our sales are up.",
+      "writing": "Write a short email to a colleague. Compare two figures from your work. Say which number is higher and what the percentage is.",
+      "writingSample": "Dear Maya, I want to tell you about our figures. Online sales were twice as high as shop sales this year. The percentage of online sales is 60%. A large proportion of our sales are online now. I asked a sample of 100 buyers. In comparison with last year, more buyers buy online. Compared with last year, sales are up. The sample shows that buyers like fast delivery. Let us talk about the figures on Monday. Best, Daniel",
+      "sound": "Percentage has its strongest beat on CENT. In percentage, say CENT clearly in the middle. In proportion, say POR clearly at the start.",
+      "model": "The percentage of new buyers is 40%.",
+      "wordTask": "How did Daniel learn about the buyers?",
+      "wordSample": "He asked a sample of 100 buyers."
+    },
+    {
+      "unit": 3,
+      "day": 19,
+      "title": "Present findings clearly",
+      "goal": "I can present findings from a survey and say what they show.",
+      "newItems": [
+        {
+          "word": "finding",
+          "ipa": "/ˈfaɪndɪŋ/",
+          "pos": "noun",
+          "definition": "Something you learn from study or research.",
+          "example": "Our main finding is that buyers want fast delivery.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "evidence",
+          "ipa": "/ˈɛvədəns/",
+          "pos": "noun",
+          "definition": "Facts that show something is true.",
+          "example": "The evidence shows that the plan works.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "the figures show that",
+          "ipa": "/ðə ˈfɪɡjɚz ʃoʊ ðət/",
+          "pos": "fixed phrase",
+          "definition": "The numbers show this fact.",
+          "example": "The figures show that buyers want fast delivery.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "according to the data",
+          "ipa": "/əˈkɔrdɪŋ tə ðə ˈdeɪtə/",
+          "pos": "fixed phrase",
+          "definition": "As the numbers say.",
+          "example": "According to the data, sales rose in May.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "draw attention to",
+          "ipa": "/drɔ əˈtɛnʃən tə/",
+          "pos": "fixed phrase",
+          "definition": "To make people notice something.",
+          "example": "I want to draw attention to this chart.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "report",
+        "result",
+        "team",
+        "work",
+        "office"
+      ],
+      "mainWord": {
+        "word": "finding",
+        "ipa": "/ˈfaɪndɪŋ/",
+        "pos": "noun",
+        "definition": "Something you learn from study or research.",
+        "example": "Our main finding is that buyers want fast delivery.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Finding is a noun. A finding is something you learn from study or research. Our main finding is that buyers want fast delivery.",
+      "pronunciationTarget": {
+        "word": "finding",
+        "ipa": "/ˈfaɪndɪŋ/"
+      },
+      "expression": "The figures show that buyers want fast delivery.",
+      "use": "Use this when you present a finding from your data.",
+      "expressionTask": "Priya presents the survey findings to the team. What do the figures show?",
+      "grammar": "Passive voice for results: The survey was carried out in May",
+      "pattern": "The survey was carried out in May.",
+      "task": "The survey was carried ___ in May.",
+      "answer": "out",
+      "example": "The survey was carried out in May.",
+      "context": [
+        "Priya presents the findings of a customer survey to the team.",
+        "The figures show that buyers want fast delivery."
+      ],
+      "dialogue": [
+        "Priya: Good morning. I want to draw attention to our survey findings.",
+        "Maya: Good. What is the main finding, Priya?",
+        "Priya: The figures show that buyers want fast delivery. The evidence is clear.",
+        "Daniel: That is useful. According to the data, how many buyers said that?",
+        "Priya: According to the data, 80% of buyers said fast delivery is important.",
+        "Maya: Good. The findings are clear, and the evidence shows that fast delivery matters."
+      ],
+      "listening": "On Wednesday, Priya presents the survey findings to the team. She says, 'I want to draw attention to our main finding.' The figures show that buyers want fast delivery. According to the data, 80% of buyers said fast delivery is important. The survey was carried out in May. Maya says, 'Good. The evidence is clear.' The team is happy.",
+      "question": "What do the figures show?",
+      "correct": "Buyers want fast delivery",
+      "other": "Buyers want lower prices",
+      "reading": "On Wednesday, Priya presents the findings of a customer survey to the team. The survey was carried out in May with 200 buyers. Priya says, 'I want to draw attention to our main finding.' The figures show that buyers want fast delivery. According to the data, 80% of buyers said fast delivery is important. Maya asks, 'What other findings do we have?' Priya says, 'The evidence shows that buyers also want good chairs at a fair price. The figures show that most buyers are happy with our chairs.' Daniel says, 'The findings are clear. According to the data, fast delivery is the most important thing.' Maya says, 'Good. When you present findings, draw attention to the main finding first. Then say what the figures show. The evidence must be clear.' The team is happy. They can present findings from a survey, and they can talk about the evidence.",
+      "readingQ": "When was the survey carried out?",
+      "readingA": "In May.",
+      "speaking": "Tell a friend about a finding from a survey or a report. What was the main finding? What did the figures show?",
+      "speakingSample": "Last week, I presented the findings of a customer survey. The survey was carried out in May. The figures show that buyers want fast delivery. According to the data, 80% of buyers said fast delivery is important. The evidence is clear. I want to draw attention to our main finding: fast delivery matters most to our buyers. The team listened, and they asked good questions.",
+      "writing": "Write a short email to a colleague. Present the findings of a survey. Say what the figures show and what the evidence is.",
+      "writingSample": "Dear Daniel, I want to tell you about our survey findings. The survey was carried out in May with 200 buyers. The figures show that buyers want fast delivery. According to the data, 80% of buyers said fast delivery is important. I want to draw attention to our main finding: fast delivery matters most. The evidence shows that buyers also want good chairs at a fair price. The findings are clear. Please tell me what you think. Best, Priya",
+      "sound": "Finding has its strongest beat on FIND. In finding, say FIND clearly at the start. In evidence, say EV clearly at the start.",
+      "model": "Our main finding is that buyers want fast delivery.",
+      "wordTask": "How many buyers took part in the survey?",
+      "wordSample": "200 buyers took part in the survey."
+    },
+    {
+      "unit": 3,
+      "day": 20,
+      "title": "Support a point with evidence",
+      "goal": "I can support a point with evidence and show what the figures mean.",
+      "newItems": [
+        {
+          "word": "highlight",
+          "ipa": "/ˈhaɪˌlaɪt/",
+          "pos": "verb",
+          "definition": "To talk about the most important part of something.",
+          "example": "Let me highlight the key point.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "illustrate",
+          "ipa": "/ˈɪləˌstreɪt/",
+          "pos": "verb",
+          "definition": "To show something clearly with a picture or example.",
+          "example": "This chart illustrates the change.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "indicate",
+          "ipa": "/ˈɪndəˌkeɪt/",
+          "pos": "verb",
+          "definition": "To show or point to something.",
+          "example": "The figures indicate a rise in sales.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "based on the figures",
+          "ipa": "/beɪst ɑn ðə ˈfɪɡjɚz/",
+          "pos": "fixed phrase",
+          "definition": "Using these numbers as the start.",
+          "example": "Based on the figures, we need a new plan.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "the key point is",
+          "ipa": "/ðə ki pɔɪnt ɪz/",
+          "pos": "fixed phrase",
+          "definition": "The most important thing to remember.",
+          "example": "The key point is that buyers want fast delivery.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "month",
+        "year",
+        "number",
+        "change",
+        "clear"
+      ],
+      "mainWord": {
+        "word": "highlight",
+        "ipa": "/ˈhaɪˌlaɪt/",
+        "pos": "verb",
+        "definition": "To talk about the most important part of something.",
+        "example": "Let me highlight the key point.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Highlight is a verb. To highlight is to talk about the most important part of something. Let me highlight the key point.",
+      "pronunciationTarget": {
+        "word": "highlight",
+        "ipa": "/ˈhaɪˌlaɪt/"
+      },
+      "expression": "The key point is that buyers want fast delivery.",
+      "use": "Use this when you say the most important part of your point.",
+      "expressionTask": "Maya supports her point in the meeting. What is the key point?",
+      "grammar": "Participle clauses: Having looked at the figures, Maya knew the plan worked",
+      "pattern": "Having looked at the figures, Maya knew the plan worked.",
+      "task": "Having ___ at the figures, Maya knew the plan worked.",
+      "answer": "looked",
+      "example": "Having looked at the figures, Maya knew the plan worked.",
+      "context": [
+        "Maya meets Mr. Carter and supports her point with evidence.",
+        "The key point is that buyers want fast delivery."
+      ],
+      "dialogue": [
+        "Maya: Good morning, Mr. Carter. Let me highlight the key point from our survey.",
+        "Carter: Good morning, Maya. What does the survey show?",
+        "Maya: The figures indicate a rise in online sales. This chart illustrates the change.",
+        "Carter: I see. What do the figures mean for our shops?",
+        "Maya: Based on the figures, we need more fast delivery. The key point is that buyers want fast delivery.",
+        "Carter: That is clear. Having looked at the figures, I agree with your point."
+      ],
+      "listening": "On Thursday, Maya meets Mr. Carter. She says, 'Let me highlight the key point from our survey.' The figures indicate a rise in online sales. This chart illustrates the change. Maya says, 'Based on the figures, we need more fast delivery. The key point is that buyers want fast delivery.' Mr. Carter says, 'Having looked at the figures, I agree.' Maya is happy.",
+      "question": "What does Maya say the team needs?",
+      "correct": "More fast delivery",
+      "other": "More shop staff",
+      "reading": "On Thursday, Maya meets Mr. Carter, the client, to support her point with evidence. She says, 'Let me highlight the key point from our survey.' The figures indicate a rise in online sales. This chart illustrates the change in how buyers shop. Maya says, 'Based on the figures, we need more fast delivery. The key point is that buyers want fast delivery.' Mr. Carter looks at the chart. He says, 'This chart can illustrate the change well. Having looked at the figures, I can see your point.' Maya says, 'The figures indicate that online sales are twice as high as shop sales now.' Mr. Carter says, 'I agree. Based on the figures, fast delivery is the key point for us.' Maya is happy. She can support a point with evidence, and she can highlight the key point for the client.",
+      "readingQ": "What does the chart illustrate?",
+      "readingA": "The change in how buyers shop.",
+      "speaking": "Tell a friend about a point you supported with evidence. What was your point? What did the figures indicate? What was the key point?",
+      "speakingSample": "Last week, I met a client to support my point with evidence. I said, 'Let me highlight the key point from our survey.' The figures indicate a rise in online sales. This chart illustrates the change. Based on the figures, we need more fast delivery. The key point is that buyers want fast delivery. The client agreed with my point.",
+      "writing": "Write a short email to a client. Support your point with evidence. Say what the figures indicate and what the key point is.",
+      "writingSample": "Dear Mr. Carter, Thank you for meeting us on Thursday. Let me highlight the key point from our survey. The figures indicate a rise in online sales. This chart illustrates the change in how buyers shop. Based on the figures, we need more fast delivery. The key point is that buyers want fast delivery. Having looked at the figures, I am sure the plan will work. Please tell me what you think. Thank you for your time. Best, Maya",
+      "sound": "Highlight has its strongest beat on HIGH. In highlight, say HIGH clearly at the start. In illustrate, say LUS clearly in the middle.",
+      "model": "Let me highlight the key point.",
+      "wordTask": "What does Maya show Mr. Carter?",
+      "wordSample": "A chart that illustrates the change in how buyers shop."
+    },
+    {
+      "unit": 3,
+      "day": 21,
+      "title": "Question the data",
+      "goal": "I can question data and say when a chart may be wrong.",
+      "newItems": [
+        {
+          "word": "misleading",
+          "ipa": "/mɪsˈlidɪŋ/",
+          "pos": "adjective",
+          "definition": "Making something seem true when it is not.",
+          "example": "That chart is misleading: it starts at 90, not zero.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "fluctuate",
+          "ipa": "/ˈflʌktʃuˌeɪt/",
+          "pos": "verb",
+          "definition": "To go up and down, with no clear direction.",
+          "example": "Prices fluctuate from month to month.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "take a closer look at",
+          "ipa": "/teɪk ə ˈkloʊsɚ lʊk ət/",
+          "pos": "fixed phrase",
+          "definition": "To look at something more carefully.",
+          "example": "Let us take a closer look at the figures.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "it is worth noting that",
+          "ipa": "/ɪt ɪz wɝθ ˈnoʊtɪŋ ðət/",
+          "pos": "fixed phrase",
+          "definition": "It is important to notice this.",
+          "example": "It is worth noting that sales rose in May.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "as can be seen from",
+          "ipa": "/əz kən bi sin frʌm/",
+          "pos": "fixed phrase",
+          "definition": "As you can see in this chart or table.",
+          "example": "As can be seen from the chart, sales rose.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "easy",
+        "hard",
+        "cost",
+        "time",
+        "day"
+      ],
+      "mainWord": {
+        "word": "misleading",
+        "ipa": "/mɪsˈlidɪŋ/",
+        "pos": "adjective",
+        "definition": "Making something seem true when it is not.",
+        "example": "That chart is misleading: it starts at 90, not zero.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Misleading is an adjective. Misleading means making something seem true when it is not. That chart is misleading: it starts at 90, not zero.",
+      "pronunciationTarget": {
+        "word": "misleading",
+        "ipa": "/mɪsˈlidɪŋ/"
+      },
+      "expression": "As can be seen from the chart, sales rose.",
+      "use": "Use this when you point to what a chart shows.",
+      "expressionTask": "Daniel looks at a new chart. What can be seen from the chart?",
+      "grammar": "Modal perfects for speculation: The fall could have been caused by the price rise",
+      "pattern": "The fall could have been caused by the price rise.",
+      "task": "The fall could have been ___ by the price rise.",
+      "answer": "caused",
+      "example": "The fall could have been caused by the price rise.",
+      "context": [
+        "Daniel looks at a new chart and questions the data.",
+        "As can be seen from the chart, sales rose."
+      ],
+      "dialogue": [
+        "Daniel: Maya, take a closer look at this chart. It may be misleading.",
+        "Maya: Why do you say that, Daniel?",
+        "Daniel: As can be seen from the chart, sales rose in May. But prices fluctuate a lot.",
+        "Priya: It is worth noting that the chart starts at 90, not zero.",
+        "Daniel: Yes. The fall in January could have been caused by the price rise.",
+        "Maya: Good. Let us take a closer look at the figures before we present them."
+      ],
+      "listening": "On Friday, Daniel looks at a new chart. He says, 'Take a closer look at this chart. It may be misleading.' As can be seen from the chart, sales rose in May. But prices fluctuate a lot. Priya says, 'It is worth noting that the chart starts at 90, not zero.' Maya says, 'Let us take a closer look at the figures.' Daniel is happy.",
+      "question": "Why may the chart be misleading?",
+      "correct": "It starts at 90, not zero",
+      "other": "It has no colours",
+      "reading": "On Friday, Daniel looks at a new chart and questions the data. He says, 'Take a closer look at this chart. It may be misleading.' As can be seen from the chart, sales rose in May. But prices fluctuate a lot from month to month, so one month does not tell the whole story. Priya says, 'It is worth noting that the chart starts at 90, not zero. That makes the rise look bigger than it is.' Maya says, 'Good point. The fall in January could have been caused by the price rise. We must question the data before we present it.' Daniel says, 'Yes. Let us take a closer look at the figures. As can be seen from the chart, sales rose, but we need to know why.' Maya is happy. She says, 'Good. You can question the data now. Take a closer look, and say what is worth noting.'",
+      "readingQ": "What does Priya say about the chart?",
+      "readingA": "It starts at 90, not zero, and that makes the rise look bigger than it is.",
+      "speaking": "Tell a friend about a time you questioned some data. What did you see? Why did you question it? What did you do?",
+      "speakingSample": "Last week, I looked at a new chart at work. I said, 'Take a closer look at this chart. It may be misleading.' As can be seen from the chart, sales rose in May. But prices fluctuate a lot. It is worth noting that the chart starts at 90, not zero. That makes the rise look bigger than it is. I questioned the data before I presented it.",
+      "writing": "Write a short email to a colleague. Question some data in a chart. Say what may be misleading and what is worth noting.",
+      "writingSample": "Dear Maya, I looked at the new chart today. Take a closer look at it. It may be misleading. As can be seen from the chart, sales rose in May. But prices fluctuate a lot from month to month. It is worth noting that the chart starts at 90, not zero. That makes the rise look bigger than it is. The fall in January could have been caused by the price rise. Let us take a closer look at the figures before we present them. Best, Daniel",
+      "sound": "Misleading has its strongest beat on LEAD. In misleading, say LEAD clearly in the middle. In fluctuate, say FLUC clearly at the start.",
+      "model": "That chart is misleading: it starts at 90, not zero.",
+      "wordTask": "What makes the rise in the chart look bigger than it is?",
+      "wordSample": "The chart starts at 90, not zero."
+    },
+    {
+      "unit": 3,
+      "day": 22,
+      "title": "Draw conclusions from data",
+      "goal": "I can draw conclusions from data and say what stands out.",
+      "newItems": [
+        {
+          "word": "estimate",
+          "ipa": "/ˈɛstəmət/",
+          "pos": "noun",
+          "definition": "A careful guess about a number or amount.",
+          "example": "My estimate is 200 people at the meeting.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "reveal",
+          "ipa": "/rɪˈvil/",
+          "pos": "verb",
+          "definition": "To make something known that was hidden.",
+          "example": "The survey reveals a problem.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "overall",
+          "ipa": "/ˈoʊvɚˈɔl/",
+          "pos": "adverb",
+          "definition": "When you look at everything together.",
+          "example": "Overall, the year was a good one.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "the data suggests that",
+          "ipa": "/ðə ˈdeɪtə səˈdʒɛsts ðət/",
+          "pos": "fixed phrase",
+          "definition": "The numbers point to this.",
+          "example": "The data suggests that buyers want fast delivery.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "what stands out is",
+          "ipa": "/wʌt stændz aʊt ɪz/",
+          "pos": "fixed phrase",
+          "definition": "The part that is easy to see and remember.",
+          "example": "What stands out is the rise in May.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "week",
+        "team",
+        "company",
+        "market",
+        "customer"
+      ],
+      "mainWord": {
+        "word": "estimate",
+        "ipa": "/ˈɛstəmət/",
+        "pos": "noun",
+        "definition": "A careful guess about a number or amount.",
+        "example": "My estimate is 200 people at the meeting.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Estimate is a noun. An estimate is a careful guess about a number or amount. My estimate is 200 people at the meeting.",
+      "pronunciationTarget": {
+        "word": "estimate",
+        "ipa": "/ˈɛstəmət/"
+      },
+      "expression": "What stands out is the rise in May.",
+      "use": "Use this when you say the part of the data that is easy to see.",
+      "expressionTask": "The team draws conclusions from the data. What stands out?",
+      "grammar": "Inversion for emphasis: Not only did sales grow, but costs fell too",
+      "pattern": "Not only did sales grow, but costs fell too.",
+      "task": "Not only did sales ___, but costs fell too.",
+      "answer": "grow",
+      "example": "Not only did sales grow, but costs fell too.",
+      "context": [
+        "The team draws conclusions from the data.",
+        "What stands out is the rise in May."
+      ],
+      "dialogue": [
+        "Maya: Let us draw conclusions from the data. What stands out to you?",
+        "Daniel: What stands out is the rise in May. The data suggests that buyers want fast delivery.",
+        "Priya: Overall, the year was good. My estimate is 200 new buyers next month.",
+        "Maya: The survey reveals a problem too: some buyers wait too long for delivery.",
+        "Daniel: Not only did sales grow, but costs fell too. Overall, the plan worked.",
+        "Maya: Good. The data suggests that fast delivery is the key to more sales."
+      ],
+      "listening": "On Monday, the team draws conclusions from the data. Daniel says, 'What stands out is the rise in May.' The data suggests that buyers want fast delivery. Priya says, 'Overall, the year was good. My estimate is 200 new buyers next month.' The survey reveals a problem. Maya says, 'Not only did sales grow, but costs fell too.' The team is happy.",
+      "question": "What is Priya's estimate?",
+      "correct": "200 new buyers next month",
+      "other": "200 new chairs next month",
+      "reading": "On Monday, the team draws conclusions from the data. Maya asks, 'What stands out to you?' Daniel says, 'What stands out is the rise in May. The data suggests that buyers want fast delivery.' Priya says, 'Overall, the year was good. My estimate is 200 new buyers next month.' Maya says, 'The survey can reveal a problem too: some buyers wait too long for delivery. The data suggests that we must be faster.' Daniel says, 'Not only did sales grow, but costs fell too. Overall, the plan worked well.' Maya says, 'Good. When you draw conclusions, say what stands out first. Then say what the data suggests. Overall, our year was good, and fast delivery is the key.' The team is happy. They can draw conclusions from data, and they can say what stands out.",
+      "readingQ": "What problem does the survey reveal?",
+      "readingA": "Some buyers wait too long for delivery.",
+      "speaking": "Tell a friend about conclusions you drew from some data. What stood out? What did the data suggest? What was your estimate?",
+      "speakingSample": "Last month, my team drew conclusions from our sales data. What stands out is the rise in May. The data suggests that buyers want fast delivery. Overall, the year was good. My estimate is 200 new buyers next month. The survey reveals a problem too: some buyers wait too long. Not only did sales grow, but costs fell too. I was happy with our work.",
+      "writing": "Write a short email to a colleague. Draw conclusions from some data. Say what stands out and what your estimate is.",
+      "writingSample": "Dear Priya, I want to tell you our conclusions from the data. What stands out is the rise in May. The data suggests that buyers want fast delivery. Overall, the year was good. My estimate is 200 new buyers next month. The survey reveals a problem too: some buyers wait too long for delivery. Not only did sales grow, but costs fell too. Overall, the plan worked well. Fast delivery is the key to more sales. Best, Daniel",
+      "sound": "Estimate has its strongest beat on ES. In estimate, say ES clearly at the start. In reveal, say VEAL clearly at the end.",
+      "model": "My estimate is 200 people at the meeting.",
+      "wordTask": "What does the data suggest?",
+      "wordSample": "That buyers want fast delivery."
+    },
+    {
+      "unit": 3,
+      "day": 23,
+      "title": "Present a proposal with data",
+      "goal": "I can present a proposal with data and say what will happen next.",
+      "newItems": [
+        {
+          "word": "predict",
+          "ipa": "/prɪˈdɪkt/",
+          "pos": "verb",
+          "definition": "To say what will happen in the future.",
+          "example": "We predict a good year for sales.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "analyze",
+          "ipa": "/ˈænəˌlaɪz/",
+          "pos": "verb",
+          "definition": "To study numbers and facts carefully.",
+          "example": "Let us analyze the survey results.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "broadly speaking",
+          "ipa": "/ˈbrɔdli ˈspikɪŋ/",
+          "pos": "fixed phrase",
+          "definition": "In general; when you speak about most cases.",
+          "example": "Broadly speaking, the year was good.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "the most striking thing is",
+          "ipa": "/ðə moʊst ˈstraɪkɪŋ θɪŋ ɪz/",
+          "pos": "fixed phrase",
+          "definition": "The part that surprises you most.",
+          "example": "The most striking thing is the fall in January.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "look at the bigger picture",
+          "ipa": "/lʊk ət ðə ˈbɪɡɚ ˈpɪktʃɚ/",
+          "pos": "fixed phrase",
+          "definition": "To look at the whole situation, not one small part.",
+          "example": "Look at the bigger picture before you decide.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "order",
+        "email",
+        "phone",
+        "good",
+        "new"
+      ],
+      "mainWord": {
+        "word": "predict",
+        "ipa": "/prɪˈdɪkt/",
+        "pos": "verb",
+        "definition": "To say what will happen in the future.",
+        "example": "We predict a good year for sales.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Predict is a verb. To predict is to say what will happen in the future. We predict a good year for sales.",
+      "pronunciationTarget": {
+        "word": "predict",
+        "ipa": "/prɪˈdɪkt/"
+      },
+      "expression": "Broadly speaking, the year was good.",
+      "use": "Use this when you speak in general about most cases.",
+      "expressionTask": "Maya presents a proposal to Mr. Carter. What does she say about the year?",
+      "grammar": "Hedging: It appears that buyers want fast delivery",
+      "pattern": "It appears that buyers want fast delivery.",
+      "task": "It ___ that buyers want fast delivery.",
+      "answer": "appears",
+      "example": "It appears that buyers want fast delivery.",
+      "context": [
+        "Maya presents a proposal with data to Mr. Carter.",
+        "Broadly speaking, the year was good."
+      ],
+      "dialogue": [
+        "Maya: Good morning, Mr. Carter. Let us look at the bigger picture before we decide.",
+        "Carter: Good morning, Maya. What is your proposal?",
+        "Maya: Broadly speaking, the year was good. We predict a good year for sales.",
+        "Daniel: We analyzed the survey results. The most striking thing is the fall in January.",
+        "Maya: It appears that buyers want fast delivery. Our proposal is to spend more on delivery.",
+        "Carter: Good. Look at the bigger picture, and I agree: fast delivery is the key."
+      ],
+      "listening": "On Tuesday, Maya presents a proposal with data to Mr. Carter. She says, 'Let us look at the bigger picture before we decide.' Broadly speaking, the year was good. Daniel says, 'We analyzed the survey results. The most striking thing is the fall in January.' Maya says, 'It appears that buyers want fast delivery.' Mr. Carter agrees. Maya is happy.",
+      "question": "What is Maya's proposal?",
+      "correct": "To spend more on delivery",
+      "other": "To open a new shop",
+      "reading": "On Tuesday, Maya presents a proposal with data to Mr. Carter. She says, 'Let us look at the bigger picture before we decide.' Broadly speaking, the year was good. Daniel says, 'Let us analyze the survey results. The most striking thing is the fall in January. We predict a good year for sales if we are faster.' Maya says, 'It appears that buyers want fast delivery. Our proposal is to spend more on delivery and less on paper ads.' Mr. Carter asks, 'What is the most striking thing in the data?' Daniel says, 'Broadly speaking, buyers are happy, but the fall in January shows we must be faster.' Maya says, 'Look at the bigger picture: fast delivery is the key to more sales. We predict a good year for sales.' Mr. Carter says, 'Good. I agree with your proposal.' Maya is happy. She can present a proposal with data.",
+      "readingQ": "What does Maya propose to spend more on?",
+      "readingA": "Fast delivery.",
+      "speaking": "Tell a friend about a proposal you presented with data. What did you predict? What was the most striking thing in the data?",
+      "speakingSample": "Last week, I presented a proposal with data to a client. I said, 'Let us look at the bigger picture before we decide.' Broadly speaking, the year was good. We analyzed the survey results. The most striking thing is the fall in January. We predict a good year for sales if we are faster. The client agreed with our proposal.",
+      "writing": "Write a short email to a client. Present a proposal with data. Say what you predict and what the most striking thing is.",
+      "writingSample": "Dear Mr. Carter, Thank you for meeting us on Tuesday. Let us look at the bigger picture before we decide. Broadly speaking, the year was good. We analyzed the survey results. The most striking thing is the fall in January. We predict a good year for sales if we are faster. It appears that buyers want fast delivery. Our proposal is to spend more on delivery and less on paper ads. Please tell us what you think. Best, Maya",
+      "sound": "Predict has its strongest beat on DICT. In predict, say DICT clearly at the end. In analyze, say AN clearly at the start.",
+      "model": "We predict a good year for sales.",
+      "wordTask": "What did Daniel analyze?",
+      "wordSample": "The survey results."
+    },
+    {
+      "unit": 3,
+      "day": 24,
+      "title": "Use data English in a new situation",
+      "goal": "I can use data English in a new situation.",
+      "newItems": [
+        {
+          "word": "increase",
+          "ipa": "/ɪnˈkris/",
+          "pos": "verb",
+          "definition": "To become larger in number or amount.",
+          "example": "Sales increased by ten percent.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "decrease",
+          "ipa": "/dɪˈkris/",
+          "pos": "verb",
+          "definition": "To become smaller in number or amount.",
+          "example": "Costs decreased by five percent.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "approximately",
+          "ipa": "/əˈprɑksəmətli/",
+          "pos": "adverb",
+          "definition": "Almost, but not exactly.",
+          "example": "Approximately 300 people came to the talk.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "in the long term",
+          "ipa": "/ɪn ðə lɔŋ tɝm/",
+          "pos": "fixed phrase",
+          "definition": "Over a long period of time in the future.",
+          "example": "In the long term, the plan will save money.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "on the rise",
+          "ipa": "/ɑn ðə raɪz/",
+          "pos": "fixed phrase",
+          "definition": "Going up; growing.",
+          "example": "Sales are on the rise.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "first",
+        "last",
+        "long",
+        "short",
+        "big"
+      ],
+      "mainWord": {
+        "word": "increase",
+        "ipa": "/ɪnˈkris/",
+        "pos": "verb",
+        "definition": "To become larger in number or amount.",
+        "example": "Sales increased by ten percent.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Increase is a verb. To increase is to become larger in number or amount. Sales increased by ten percent.",
+      "pronunciationTarget": {
+        "word": "increase",
+        "ipa": "/ɪnˈkris/"
+      },
+      "expression": "Sales are on the rise.",
+      "use": "Use this when you say sales are going up.",
+      "expressionTask": "Tom presents his sales data to a local business group. What does he say about sales?",
+      "grammar": "Review: I can use data English in a new situation",
+      "pattern": "I can use data English in a new situation.",
+      "task": "I can ___ data English in a new situation.",
+      "answer": "use",
+      "example": "I can use data English in a new situation.",
+      "context": [
+        "Tom runs a small shop. He presents his sales data to a local business group.",
+        "Sales are on the rise."
+      ],
+      "dialogue": [
+        "Tom: Good morning. I run a small shop. Let me show you my sales data.",
+        "Lee: Good morning, Tom. What do your sales show?",
+        "Tom: Sales are on the rise. They increased by ten percent this year.",
+        "Lee: That is good. What about your costs?",
+        "Tom: Costs decreased by five percent. Approximately 300 people shop with us each month.",
+        "Lee: Good. In the long term, your shop will do well. Sales are on the rise."
+      ],
+      "listening": "On Saturday, Tom presents his sales data to a local business group. He says, 'Sales are on the rise. They increased by ten percent this year.' Costs decreased by five percent. Approximately 300 people shop with Tom each month. Tom says, 'In the long term, my shop will do well.' The group is happy. Tom can present data, and he can talk about his sales.",
+      "question": "How many people shop with Tom each month?",
+      "correct": "Approximately 300",
+      "other": "Approximately 100",
+      "reading": "On Saturday, Tom runs a small shop. He presents his sales data to a local business group. He says, 'Sales are on the rise. They increased by ten percent this year.' The group listens. Tom says, 'Costs decreased by five percent. Approximately 300 people shop with us each month.' Lee asks, 'What will happen in the long term?' Tom says, 'In the long term, my shop will do well. Sales are on the rise, and costs are down.' Lee says, 'Good. Your data is clear. Sales increase by ten percent in a good year, and costs decrease by five percent when you buy well. Approximately 300 people shop with you each month. That is a good story.' Tom is happy. He says, 'In the long term, I want to spend more on fast delivery. Sales are on the rise, and I want to keep them up.' The group is happy. Tom can use data English in a new situation.",
+      "readingQ": "What does Tom want to spend more on in the long term?",
+      "readingA": "Fast delivery.",
+      "speaking": "Tell a friend about a new situation where you presented data. What did you present? What went up? What went down?",
+      "speakingSample": "Last month, I presented my shop data to a local business group. Sales are on the rise. They increased by ten percent this year. Costs decreased by five percent. Approximately 300 people shop with us each month. In the long term, my shop will do well. I can present data, and I can talk about my sales. The group listened and asked good questions.",
+      "writing": "Write a short email to a friend about a new situation. Say what you presented, what went up, and what went down.",
+      "writingSample": "Dear Anna, I presented my shop data to a local business group on Saturday. Sales are on the rise. They increased by ten percent this year. Costs decreased by five percent. Approximately 300 people shop with us each month. In the long term, my shop will do well. Sales are on the rise, and I want to keep them up. I can present data now, and I can talk about my sales in a new situation. Best, Tom",
+      "sound": "Increase has its strongest beat on CREASE. In increase, say CREASE clearly at the end. In decrease, say CREASE clearly at the end.",
+      "model": "We hope sales increase next year.",
+      "wordTask": "What does Tom present to the local business group?",
+      "wordSample": "His sales data.",
+      "transferCheck": {
+        "source": "On Sunday, Emma presents the results of a class survey about reading to her teacher, Ms. Green. She says, 'Reading is on the rise in our class. The number of readers increased by ten percent this year.' Ms. Green asks, 'What about the number of students who never read?' Emma says, 'That number decreased by five percent. Approximately 30 students read every day.' Ms. Green says, 'Good. In the long term, reading will help you all. Reading is on the rise in our class.' Emma is happy. She says, 'Thank you, Ms. Green. I am glad we talked.'",
+        "dictation": "Reading is on the rise in our class.",
+        "answer": "1. The new presenter is Emma. She presents the results of a class survey about reading to her teacher, Ms. Green. 2. Emma's first job is to say that reading is on the rise in her class. 3. On Sunday, Emma says, 'Reading is on the rise in our class.' 4. Reading is on the rise in our class. 5. Sample: On Sunday, Emma presents the results of a class survey about reading to her teacher, Ms. Green. She says, 'Reading is on the rise in our class. The number of readers increased by ten percent this year.' Ms. Green asks, 'What about the number of students who never read?' Emma says, 'That number decreased by five percent. Approximately 30 students read every day.' Ms. Green says, 'Good. In the long term, reading will help you all.' Follow-up: How many students read every day? Approximately 30 students read every day.",
+        "tasks": [
+          [
+            "1 · Identify the people and the new situation",
+            "Who is the new presenter, and what does she present?"
+          ],
+          [
+            "2 · Work out what Emma does first",
+            "What is Emma's first job, and what does she say?"
+          ],
+          [
+            "3 · Notice the sentence on Sunday",
+            "What does Emma say on Sunday?"
+          ],
+          [
+            "4 · Listen and write",
+            "Write the sentence you hear."
+          ],
+          [
+            "5 · Retell and answer",
+            "Tell the story in order, including the people, the new situation, the first talk, and the result. Then answer one follow-up question."
+          ]
+        ]
+      }
+    }
+  ]
+}

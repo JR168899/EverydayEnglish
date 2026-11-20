@@ -1,0 +1,953 @@
+{
+  "number": 19,
+  "title": "Education systems and lifelong learning",
+  "lessons": [
+    {
+      "unit": 19,
+      "day": 145,
+      "title": "School systems around the world",
+      "goal": "I can talk about school systems around the world.",
+      "newItems": [
+        {
+          "category": "new_word",
+          "day": 145,
+          "definition": "Required by law; something you must do.",
+          "example": "School is compulsory for children from five to sixteen.",
+          "ipa": "/kəmˈpʌlsəri/",
+          "pos": "adjective",
+          "status": "new",
+          "word": "compulsory"
+        },
+        {
+          "category": "new_word",
+          "day": 145,
+          "definition": "A school for very young children, aged about three to five.",
+          "example": "Her daughter goes to a nursery near their home.",
+          "ipa": "/ˈnɝsəri/",
+          "pos": "noun",
+          "status": "new",
+          "word": "nursery"
+        },
+        {
+          "category": "new_word",
+          "day": 145,
+          "definition": "A school for children aged about four to six, before primary school.",
+          "example": "He started kindergarten when he was five.",
+          "ipa": "/ˈkɪndɚˌɡɑrtən/",
+          "pos": "noun",
+          "status": "new",
+          "word": "kindergarten"
+        },
+        {
+          "category": "fixed_phrase",
+          "day": 145,
+          "definition": "Education after school that is not at university.",
+          "example": "Further education offers many practical courses.",
+          "ipa": "/ˈfɝðɚ ˌɛdʒəˈkeɪʃən/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "further education"
+        },
+        {
+          "category": "fixed_phrase",
+          "day": 145,
+          "definition": "Education at university level.",
+          "example": "Higher education opens many doors.",
+          "ipa": "/ˈhaɪɚ ˌɛdʒəˈkeɪʃən/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "higher education"
+        }
+      ],
+      "reviewWords": [
+        "teacher",
+        "student",
+        "school",
+        "class",
+        "lesson"
+      ],
+      "mainWord": {
+        "category": "new_word",
+        "day": 145,
+        "definition": "Required by law; something you must do.",
+        "example": "School is compulsory for children from five to sixteen.",
+        "ipa": "/kəmˈpʌlsəri/",
+        "pos": "adjective",
+        "status": "new",
+        "word": "compulsory"
+      },
+      "mainWordForms": "Compulsory is an adjective. Required by law; something you must do. School is compulsory for children from five to sixteen.",
+      "pronunciationTarget": {
+        "word": "compulsory",
+        "ipa": "/kəmˈpʌlsəri/"
+      },
+      "expression": "School is compulsory here from five to sixteen.",
+      "use": "Use this when you talk about school rules.",
+      "expressionTask": "Daniel talks to Maya about school systems. What does he ask her?",
+      "grammar": "Third conditional: If schools had started earlier, children would have learned more",
+      "pattern": "If schools had started earlier, children would have learned more.",
+      "task": "If schools had started earlier, children would have ___ more.",
+      "answer": "learned",
+      "example": "If schools had started earlier, children would have learned more.",
+      "context": [
+        "Daniel talks to Maya about school systems at work.",
+        "School is compulsory here from five to sixteen."
+      ],
+      "dialogue": [
+        "Daniel: Maya, when do children start school here?",
+        "Maya: School is compulsory from five to sixteen.",
+        "Daniel: What about younger children?",
+        "Maya: Many go to a nursery, and then to kindergarten.",
+        "Daniel: What comes after school?",
+        "Maya: Some choose further education, and some choose higher education."
+      ],
+      "listening": "On Monday, Daniel talks to Maya about school systems. He asks, 'Maya, when do children start school here?' Maya says, 'School is compulsory from five to sixteen. Many children go to a nursery first, and then to kindergarten.' Daniel asks, 'What comes after school?' Maya says, 'Some choose further education, and some choose higher education.'",
+      "question": "When is school compulsory?",
+      "correct": "From five to sixteen",
+      "other": "From three to five",
+      "reading": "On Monday, Daniel talks to Maya about school systems at Carter Retail Group. He says, 'When do children start school here?' Maya says, 'School is compulsory from five to sixteen. Many children go to a nursery first, and then they go to kindergarten at five.' Daniel says, 'What happens after school?' Maya says, 'After school, some young people choose further education, and some choose higher education. Further education means practical courses at a college. Higher education means study at a university.' Daniel says, 'That is interesting. In my country, school is compulsory too, but children start at six.' Maya says, 'Yes. Every country has its own system. A nursery helps small children learn to play and share. Kindergarten helps them get ready for school.' Daniel says, 'Good. I want to learn more about school systems around the world.'",
+      "readingQ": "What do some young people choose after school?",
+      "readingA": "Further education or higher education.",
+      "speaking": "Tell a friend about school systems. When do children start school?",
+      "speakingSample": "I want to tell you about school systems. On Monday, Daniel talked about school systems. He said, 'When do children start school here?' Maya said, 'School is compulsory from five to sixteen. Many children go to a nursery first, and then they go to kindergarten at five.' After school, some young people choose further education, and some choose higher education.",
+      "writing": "Write a short email to a friend. Tell them about school systems in your country.",
+      "writingSample": "Dear Tom, I want to tell you about school systems in my country. On Monday, Daniel talked about school systems at work. He said, 'When do children start school here?' Maya said, 'School is compulsory from five to sixteen. Many children go to a nursery first, and then they go to kindergarten at five.' After school, some young people choose further education, and some choose higher education. Every country has its own system. Please tell me about schools in your country. Best, Daniel",
+      "sound": "Compulsory has its strongest beat on PUL. In compulsory, say PUL clearly in the middle. In nursery, say NUR clearly at the start.",
+      "model": "School is compulsory for every child here.",
+      "wordTask": "When is school compulsory?",
+      "wordSample": "From five to sixteen."
+    },
+    {
+      "unit": 19,
+      "day": 146,
+      "title": "Primary and secondary education",
+      "goal": "I can talk about primary and secondary education.",
+      "newItems": [
+        {
+          "category": "new_word",
+          "day": 146,
+          "definition": "A school for children younger than five.",
+          "example": "Many children go to preschool before primary school.",
+          "ipa": "/ˈpriˌskul/",
+          "pos": "noun",
+          "status": "new",
+          "word": "preschool"
+        },
+        {
+          "category": "new_word",
+          "day": 146,
+          "definition": "The area around a school from which it takes its pupils.",
+          "example": "Families move into the catchment area of a good school.",
+          "ipa": "/ˈkætʃmənt/",
+          "pos": "noun",
+          "status": "new",
+          "word": "catchment"
+        },
+        {
+          "category": "new_word",
+          "day": 146,
+          "definition": "The practice of putting pupils into groups by ability.",
+          "example": "Streaming puts strong readers in one group.",
+          "ipa": "/ˈstrimɪŋ/",
+          "pos": "noun",
+          "status": "new",
+          "word": "streaming"
+        },
+        {
+          "category": "fixed_phrase",
+          "day": 146,
+          "definition": "Clothes that all pupils in a school must wear.",
+          "example": "School uniform is part of school life here.",
+          "ipa": "/skul ˈjunəˌfɔrm/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "school uniform"
+        },
+        {
+          "category": "fixed_phrase",
+          "day": 146,
+          "definition": "The journey that takes children to school and back.",
+          "example": "The school run takes twenty minutes.",
+          "ipa": "/ðə skul rʌn/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "the school run"
+        }
+      ],
+      "reviewWords": [
+        "book",
+        "read",
+        "write",
+        "learn",
+        "study"
+      ],
+      "mainWord": {
+        "category": "new_word",
+        "day": 146,
+        "definition": "A school for children younger than five.",
+        "example": "Many children go to preschool before primary school.",
+        "ipa": "/ˈpriˌskul/",
+        "pos": "noun",
+        "status": "new",
+        "word": "preschool"
+      },
+      "mainWordForms": "Preschool is a noun. A school for children younger than five. Many children go to preschool before primary school.",
+      "pronunciationTarget": {
+        "word": "preschool",
+        "ipa": "/ˈpriˌskul/"
+      },
+      "expression": "Children wear a school uniform every day.",
+      "use": "Use this when you talk about primary school.",
+      "expressionTask": "Priya talks to Daniel about primary school. What does she ask him?",
+      "grammar": "Mixed conditional: If children had gone to nursery, they would be more confident now",
+      "pattern": "If children had gone to nursery, they would be more confident now.",
+      "task": "If children had gone to nursery, they would be more ___ now.",
+      "answer": "confident",
+      "example": "If children had gone to nursery, they would be more confident now.",
+      "context": [
+        "Priya talks to Daniel about primary school at work.",
+        "Children wear a school uniform every day."
+      ],
+      "dialogue": [
+        "Priya: Daniel, what is preschool?",
+        "Daniel: Preschool is school for children younger than five.",
+        "Priya: What is a catchment area?",
+        "Daniel: It is the area around a school. Children wear a school uniform every day.",
+        "Priya: What is streaming?",
+        "Daniel: Streaming puts pupils into groups by ability. The school run starts at eight."
+      ],
+      "listening": "On Tuesday, Priya talks to Daniel about primary school at work. She asks, 'Daniel, what is preschool?' Daniel says, 'Preschool is school for children younger than five.' Priya asks, 'What is a catchment area?' Daniel says, 'It is the area around a school.' Priya asks, 'What is streaming?' Daniel says, 'Streaming puts pupils into groups by ability. The school run starts at eight.'",
+      "question": "What is streaming?",
+      "correct": "Putting pupils into groups by ability",
+      "other": "A school trip",
+      "reading": "On Tuesday, Priya talks to Daniel about primary school at work. She says, 'What is preschool?' Daniel says, 'Preschool is school for children younger than five. After preschool, children go to primary school.' Priya says, 'What is a catchment area?' Daniel says, 'It is the area around a school. Families move into the catchment area of a good school. Children wear a school uniform every day.' Priya says, 'What is streaming?' Daniel says, 'Streaming puts pupils into groups by ability. Strong readers work together, and other pupils get more help.' Priya says, 'How do children get to school?' Daniel says, 'The school run starts at eight. Parents drive their children to school in the morning.' Priya says, 'I see. Primary school is the start of learning for every child in the town.'",
+      "readingQ": "What is a catchment area?",
+      "readingA": "The area around a school.",
+      "speaking": "Tell a friend about primary school. What is preschool?",
+      "speakingSample": "I want to tell you about primary school. On Tuesday, Priya talked about primary school. She said, 'What is preschool?' Daniel said, 'Preschool is school for children younger than five. After preschool, children go to primary school.' A catchment area is the area around a school. Children wear a school uniform every day. Streaming puts pupils into groups by ability.",
+      "writing": "Write a short email to a friend. Tell them about primary school.",
+      "writingSample": "Dear Tom, I want to tell you about primary school. On Tuesday, Priya talked about primary school at work. She said, 'What is preschool?' Daniel said, 'Preschool is school for children younger than five. After preschool, children go to primary school.' A catchment area is the area around a school. Children wear a school uniform every day. Streaming puts pupils into groups by ability. The school run starts at eight. Please tell me about your school. Best, Daniel",
+      "sound": "Preschool has its strongest beat on PRE. In preschool, say PRE clearly at the start. In catchment, say CATCH clearly at the start.",
+      "model": "Children go to preschool at nine in the morning.",
+      "wordTask": "What is preschool?",
+      "wordSample": "School for children younger than five."
+    },
+    {
+      "unit": 19,
+      "day": 147,
+      "title": "Higher education and university",
+      "goal": "I can talk about higher education and university.",
+      "newItems": [
+        {
+          "category": "new_word",
+          "day": 147,
+          "definition": "A long piece of writing on one subject, done for a degree.",
+          "example": "She is writing her thesis on school systems.",
+          "ipa": "/ˈθisɪs/",
+          "pos": "noun",
+          "status": "new",
+          "word": "thesis"
+        },
+        {
+          "category": "new_word",
+          "day": 147,
+          "definition": "A long piece of writing done for a doctorate.",
+          "example": "His dissertation took three years to finish.",
+          "ipa": "/ˌdɪsɚˈteɪʃən/",
+          "pos": "noun",
+          "status": "new",
+          "word": "dissertation"
+        },
+        {
+          "category": "new_word",
+          "day": 147,
+          "definition": "All the teachers in a university department or school.",
+          "example": "The faculty of education has forty teachers.",
+          "ipa": "/ˈfækəlti/",
+          "pos": "noun",
+          "status": "new",
+          "word": "faculty"
+        },
+        {
+          "category": "fixed_phrase",
+          "day": 147,
+          "definition": "To ask a university to accept you as a student.",
+          "example": "She will apply to university in October.",
+          "ipa": "/əˈplaɪ tu ˌjunəˈvɝsəti/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "apply to university"
+        },
+        {
+          "category": "fixed_phrase",
+          "day": 147,
+          "definition": "To be accepted by a university.",
+          "example": "He hopes to get into university next year.",
+          "ipa": "/ɡɛt ˈɪntu ˌjunəˈvɝsəti/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "get into university"
+        }
+      ],
+      "reviewWords": [
+        "home",
+        "work",
+        "time",
+        "day",
+        "week"
+      ],
+      "mainWord": {
+        "category": "new_word",
+        "day": 147,
+        "definition": "A long piece of writing on one subject, done for a degree.",
+        "example": "She is writing her thesis on school systems.",
+        "ipa": "/ˈθisɪs/",
+        "pos": "noun",
+        "status": "new",
+        "word": "thesis"
+      },
+      "mainWordForms": "Thesis is a noun. A long piece of writing on one subject, done for a degree. She is writing her thesis on school systems.",
+      "pronunciationTarget": {
+        "word": "thesis",
+        "ipa": "/ˈθisɪs/"
+      },
+      "expression": "She hopes to get into university next year.",
+      "use": "Use this when you talk about university.",
+      "expressionTask": "Maya talks to Daniel about university. What does she ask him?",
+      "grammar": "Participle clauses: Accepted by two universities, she chose the one near home",
+      "pattern": "Accepted by two universities, she chose the one near home.",
+      "task": "Accepted by two universities, she ___ the one near home.",
+      "answer": "chose",
+      "example": "Accepted by two universities, she chose the one near home.",
+      "context": [
+        "Maya talks to Daniel about university at work.",
+        "She hopes to get into university next year."
+      ],
+      "dialogue": [
+        "Maya: Daniel, what is a thesis?",
+        "Daniel: A thesis is a long piece of writing for a degree.",
+        "Maya: What is a dissertation?",
+        "Daniel: A dissertation is a long piece of writing for a doctorate.",
+        "Maya: Who teaches at a university?",
+        "Daniel: The faculty teaches the students. Many students apply to university in October."
+      ],
+      "listening": "On Wednesday, Maya talks to Daniel about university at work. She asks, 'Daniel, what is a thesis?' Daniel says, 'A thesis is a long piece of writing for a degree.' Maya asks, 'What is a dissertation?' Daniel says, 'A dissertation is a long piece of writing for a doctorate.' Maya asks, 'Who teaches at a university?' Daniel says, 'The faculty teaches the students.'",
+      "question": "What is a thesis?",
+      "correct": "A long piece of writing for a degree",
+      "other": "A kind of exam",
+      "reading": "On Wednesday, Maya talks to Daniel about university at work. She says, 'What is a thesis?' Daniel says, 'A thesis is a long piece of writing for a degree. A dissertation is a long piece of writing for a doctorate.' Maya says, 'Who teaches at a university?' Daniel says, 'The faculty teaches the students. The faculty plans the courses and marks the exams.' Maya says, 'How do students join a university?' Daniel says, 'Many students apply to university in October. She hopes to get into university next year.' Maya says, 'What does she want to study?' Daniel says, 'She wants to study history. A thesis takes a long time, but a degree opens many doors. The faculty helps students every step of the way.' Maya says, 'Good. Higher education is a big step in life.'",
+      "readingQ": "How do students join a university?",
+      "readingA": "They apply to university in October.",
+      "speaking": "Tell a friend about university. What is a thesis?",
+      "speakingSample": "I want to tell you about university. On Wednesday, Maya talked about university. She said, 'What is a thesis?' Daniel said, 'A thesis is a long piece of writing for a degree. A dissertation is a long piece of writing for a doctorate.' The faculty teaches the students. Many students apply to university in October. She hopes to get into university next year.",
+      "writing": "Write a short email to a friend. Tell them about university.",
+      "writingSample": "Dear Tom, I want to tell you about university. On Wednesday, Maya talked about university at work. She said, 'What is a thesis?' Daniel said, 'A thesis is a long piece of writing for a degree. A dissertation is a long piece of writing for a doctorate.' The faculty teaches the students. Many students apply to university in October. She hopes to get into university next year. A degree opens many doors. Please tell me about your studies. Best, Daniel",
+      "sound": "Thesis has its strongest beat on THE. In thesis, say THE clearly at the start. In dissertation, say TA clearly in the middle.",
+      "model": "Her thesis is about school systems.",
+      "wordTask": "What is a thesis?",
+      "wordSample": "A long piece of writing for a degree."
+    },
+    {
+      "unit": 19,
+      "day": 148,
+      "title": "Vocational training and apprenticeships",
+      "goal": "I can talk about vocational training and apprenticeships.",
+      "newItems": [
+        {
+          "category": "new_word",
+          "day": 148,
+          "definition": "A period of training with an employer to learn a skilled job.",
+          "example": "She started an apprenticeship with an electrician.",
+          "ipa": "/əˈprɛntɪsˌʃɪp/",
+          "pos": "noun",
+          "status": "new",
+          "word": "apprenticeship"
+        },
+        {
+          "category": "new_word",
+          "day": 148,
+          "definition": "A short period of work experience, usually for a student.",
+          "example": "He did an internship at a newspaper.",
+          "ipa": "/ˈɪntɚnˌʃɪp/",
+          "pos": "noun",
+          "status": "new",
+          "word": "internship"
+        },
+        {
+          "category": "fixed_phrase",
+          "day": 148,
+          "definition": "Training that takes place while you are doing the job.",
+          "example": "On-the-job training starts on your first day.",
+          "ipa": "/ˈɑn ðə ˌdʒɑb ˈtreɪnɪŋ/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "on-the-job training"
+        },
+        {
+          "category": "fixed_phrase",
+          "day": 148,
+          "definition": "A course that teaches a particular skill.",
+          "example": "He took a training course in cooking.",
+          "ipa": "/ə ˈtreɪnɪŋ kɔrs/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "a training course"
+        },
+        {
+          "category": "fixed_phrase",
+          "day": 148,
+          "definition": "A course that does not last long.",
+          "example": "She took a short course in photography.",
+          "ipa": "/ə ʃɔrt kɔrs/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "a short course"
+        }
+      ],
+      "reviewWords": [
+        "year",
+        "child",
+        "family",
+        "friend",
+        "good"
+      ],
+      "mainWord": {
+        "category": "new_word",
+        "day": 148,
+        "definition": "A period of training with an employer to learn a skilled job.",
+        "example": "She started an apprenticeship with an electrician.",
+        "ipa": "/əˈprɛntɪsˌʃɪp/",
+        "pos": "noun",
+        "status": "new",
+        "word": "apprenticeship"
+      },
+      "mainWordForms": "Apprenticeship is a noun. A period of training with an employer to learn a skilled job. She started an apprenticeship with an electrician.",
+      "pronunciationTarget": {
+        "word": "apprenticeship",
+        "ipa": "/əˈprɛntɪsˌʃɪp/"
+      },
+      "expression": "On-the-job training starts on your first day.",
+      "use": "Use this when you talk about learning a job.",
+      "expressionTask": "Daniel talks to Priya about apprenticeships. What does he ask her?",
+      "grammar": "Advanced passive: Apprentices are trained by experienced workers",
+      "pattern": "Apprentices are trained by experienced workers.",
+      "task": "Apprentices are ___ by experienced workers.",
+      "answer": "trained",
+      "example": "Apprentices are trained by experienced workers.",
+      "context": [
+        "Daniel talks to Priya about apprenticeships at work.",
+        "On-the-job training starts on your first day."
+      ],
+      "dialogue": [
+        "Daniel: Priya, what is an apprenticeship?",
+        "Priya: An apprenticeship is training with an employer to learn a skilled job.",
+        "Daniel: What is an internship?",
+        "Priya: An internship is a short period of work experience for a student.",
+        "Daniel: How do workers learn new skills?",
+        "Priya: On-the-job training starts on your first day. A short course can help, too."
+      ],
+      "listening": "On Thursday, Daniel talks to Priya about apprenticeships at work. He asks, 'Priya, what is an apprenticeship?' Priya says, 'An apprenticeship is training with an employer to learn a skilled job.' Daniel asks, 'What is an internship?' Priya says, 'An internship is a short period of work experience. On-the-job training starts on your first day.'",
+      "question": "What is an apprenticeship?",
+      "correct": "Training with an employer to learn a skilled job",
+      "other": "A university degree",
+      "reading": "On Thursday, Daniel talks to Priya about apprenticeships at work. He says, 'What is an apprenticeship?' Priya says, 'An apprenticeship is training with an employer to learn a skilled job. It takes three years, and you earn money while you learn.' Daniel says, 'What is an internship?' Priya says, 'An internship is a short period of work experience for a student. Many students do an internship in the summer.' Daniel says, 'How do workers learn new skills?' Priya says, 'On-the-job training starts on your first day. A training course can teach a new skill, and a short course is good for busy people.' Daniel says, 'That is useful. An apprenticeship is a good way to start a career.' Priya says, 'Yes. A short course can change your job, and on-the-job training helps you every day.'",
+      "readingQ": "How long does an apprenticeship take?",
+      "readingA": "Three years.",
+      "speaking": "Tell a friend about apprenticeships. What is an apprenticeship?",
+      "speakingSample": "I want to tell you about apprenticeships. On Thursday, Daniel talked about apprenticeships. He said, 'What is an apprenticeship?' Priya said, 'An apprenticeship is training with an employer to learn a skilled job. It takes three years, and you earn money while you learn.' An internship is a short period of work experience. On-the-job training starts on your first day.",
+      "writing": "Write a short email to a friend. Tell them about apprenticeships.",
+      "writingSample": "Dear Tom, I want to tell you about apprenticeships. On Thursday, Daniel talked about apprenticeships at work. He said, 'What is an apprenticeship?' Priya said, 'An apprenticeship is training with an employer to learn a skilled job. It takes three years, and you earn money while you learn.' An internship is a short period of work experience. On-the-job training starts on your first day. A training course can teach a new skill. Please tell me about your work. Best, Daniel",
+      "sound": "Apprenticeship has its strongest beat on PREN. In apprenticeship, say PREN clearly at the start. In internship, say IN clearly at the start.",
+      "model": "An apprenticeship takes three years.",
+      "wordTask": "What is an apprenticeship?",
+      "wordSample": "Training with an employer to learn a skilled job."
+    },
+    {
+      "unit": 19,
+      "day": 149,
+      "title": "Adult education and evening classes",
+      "goal": "I can talk about adult education and evening classes.",
+      "newItems": [
+        {
+          "category": "new_word",
+          "day": 149,
+          "definition": "Help and advice from an experienced person at work.",
+          "example": "Good mentorship helps new teachers stay in the job.",
+          "ipa": "/ˈmɛntɚˌʃɪp/",
+          "pos": "noun",
+          "status": "new",
+          "word": "mentorship"
+        },
+        {
+          "category": "new_word",
+          "day": 149,
+          "definition": "Learning new skills to do your job better.",
+          "example": "Upskilling helps workers keep up with new technology.",
+          "ipa": "/ˈʌpˌskɪlɪŋ/",
+          "pos": "noun",
+          "status": "new",
+          "word": "upskilling"
+        },
+        {
+          "category": "fixed_phrase",
+          "day": 149,
+          "definition": "Education for adults, often in the evening.",
+          "example": "Adult education classes run in the evenings.",
+          "ipa": "/əˈdʌlt ˌɛdʒəˈkeɪʃən/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "adult education"
+        },
+        {
+          "category": "fixed_phrase",
+          "day": 149,
+          "definition": "An older student at a university.",
+          "example": "A mature student brings work experience to the class.",
+          "ipa": "/ə məˈtʃʊr ˈstudənt/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "a mature student"
+        },
+        {
+          "category": "fixed_phrase",
+          "day": 149,
+          "definition": "A school that teaches adults in the evening.",
+          "example": "He studied English at a night school.",
+          "ipa": "/ə naɪt skul/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "a night school"
+        }
+      ],
+      "reviewWords": [
+        "new",
+        "old",
+        "big",
+        "small",
+        "happy"
+      ],
+      "mainWord": {
+        "category": "new_word",
+        "day": 149,
+        "definition": "Help and advice from an experienced person at work.",
+        "example": "Good mentorship helps new teachers stay in the job.",
+        "ipa": "/ˈmɛntɚˌʃɪp/",
+        "pos": "noun",
+        "status": "new",
+        "word": "mentorship"
+      },
+      "mainWordForms": "Mentorship is a noun. Help and advice from an experienced person at work. Good mentorship helps new teachers stay in the job.",
+      "pronunciationTarget": {
+        "word": "mentorship",
+        "ipa": "/ˈmɛntɚˌʃɪp/"
+      },
+      "expression": "A mature student brings work experience to the class.",
+      "use": "Use this when you talk about adult students.",
+      "expressionTask": "Priya talks to Daniel about adult education. What does she ask him?",
+      "grammar": "Hedging: It seems that adult classes might help people change careers",
+      "pattern": "It seems that adult classes might help people change careers.",
+      "task": "It seems that adult classes ___ help people change careers.",
+      "answer": "might",
+      "example": "It seems that adult classes might help people change careers.",
+      "context": [
+        "Priya talks to Daniel about adult education at work.",
+        "A mature student brings work experience to the class."
+      ],
+      "dialogue": [
+        "Priya: Daniel, what is adult education?",
+        "Daniel: Adult education is education for adults, often in the evening.",
+        "Priya: What is mentorship?",
+        "Daniel: Mentorship is help and advice from an experienced person at work.",
+        "Priya: What is upskilling?",
+        "Daniel: Upskilling is learning new skills to do your job better. A mature student brings work experience to the class."
+      ],
+      "listening": "On Friday, Priya talks to Daniel about adult education at work. She asks, 'Daniel, what is adult education?' Daniel says, 'Adult education is education for adults, often in the evening.' Priya asks, 'What is mentorship?' Daniel says, 'Mentorship is help and advice from an experienced person.' Priya asks, 'What is upskilling?' Daniel says, 'Upskilling is learning new skills to do your job better.'",
+      "question": "What is mentorship?",
+      "correct": "Help and advice from an experienced person",
+      "other": "A night class",
+      "reading": "On Friday, Priya talks to Daniel about adult education at work. She says, 'What is adult education?' Daniel says, 'Adult education is education for adults, often in the evening. Many adults study at a night school after work.' Priya says, 'What is mentorship?' Daniel says, 'Mentorship is help and advice from an experienced person at work. Good mentorship helps new teachers stay in the job for years.' Priya says, 'What is upskilling?' Daniel says, 'Upskilling is learning new skills to do your job better. A mature student brings work experience to the class.' Priya says, 'That is true. Adult education helps people change careers. A night school is open to everyone in the town.' Daniel says, 'Yes. Upskilling keeps workers ready for new jobs, and mentorship makes learning easier for everyone.'",
+      "readingQ": "What is upskilling?",
+      "readingA": "Learning new skills to do your job better.",
+      "speaking": "Tell a friend about adult education. What is adult education?",
+      "speakingSample": "I want to tell you about adult education. On Friday, Priya talked about adult education. She said, 'What is adult education?' Daniel said, 'Adult education is education for adults, often in the evening. Many adults study at a night school after work.' Mentorship is help and advice from an experienced person. Upskilling is learning new skills to do your job better.",
+      "writing": "Write a short email to a friend. Tell them about adult education.",
+      "writingSample": "Dear Tom, I want to tell you about adult education. On Friday, Priya talked about adult education at work. She said, 'What is adult education?' Daniel said, 'Adult education is education for adults, often in the evening. Many adults study at a night school after work.' Mentorship is help and advice from an experienced person. Upskilling is learning new skills to do your job better. A mature student brings work experience to the class. Please tell me about your studies. Best, Daniel",
+      "sound": "Mentorship has its strongest beat on MEN. In mentorship, say MEN clearly at the start. In upskilling, say UP clearly at the start.",
+      "model": "Good mentorship helps new teachers.",
+      "wordTask": "What is mentorship?",
+      "wordSample": "Help and advice from an experienced person."
+    },
+    {
+      "unit": 19,
+      "day": 150,
+      "title": "Online learning and self-study",
+      "goal": "I can talk about online learning and self-study.",
+      "newItems": [
+        {
+          "category": "new_word",
+          "day": 150,
+          "definition": "One part of a course of study.",
+          "example": "This module covers the history of education.",
+          "ipa": "/ˈmɑdʒul/",
+          "pos": "noun",
+          "status": "new",
+          "word": "module"
+        },
+        {
+          "category": "new_word",
+          "day": 150,
+          "definition": "The process of judging how well a student has done.",
+          "example": "Assessment is by exam and coursework.",
+          "ipa": "/əˈsɛsmənt/",
+          "pos": "noun",
+          "status": "new",
+          "word": "assessment"
+        },
+        {
+          "category": "new_word",
+          "day": 150,
+          "definition": "Work that students do during a course and that counts towards the final mark.",
+          "example": "Her coursework is half of her final grade.",
+          "ipa": "/ˈkɔrsˌwɝk/",
+          "pos": "noun",
+          "status": "new",
+          "word": "coursework"
+        },
+        {
+          "category": "fixed_phrase",
+          "day": 150,
+          "definition": "Learning by studying online, away from a classroom.",
+          "example": "Distance learning suits people with jobs.",
+          "ipa": "/ˈdɪstəns ˈlɝnɪŋ/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "distance learning"
+        },
+        {
+          "category": "fixed_phrase",
+          "day": 150,
+          "definition": "Learning that mixes classroom lessons and online study.",
+          "example": "Blended learning is common in many colleges.",
+          "ipa": "/ˈblɛndəd ˈlɝnɪŋ/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "blended learning"
+        }
+      ],
+      "reviewWords": [
+        "hard",
+        "easy",
+        "help",
+        "ask",
+        "live"
+      ],
+      "mainWord": {
+        "category": "new_word",
+        "day": 150,
+        "definition": "One part of a course of study.",
+        "example": "This module covers the history of education.",
+        "ipa": "/ˈmɑdʒul/",
+        "pos": "noun",
+        "status": "new",
+        "word": "module"
+      },
+      "mainWordForms": "Module is a noun. One part of a course of study. This module covers the history of education.",
+      "pronunciationTarget": {
+        "word": "module",
+        "ipa": "/ˈmɑdʒul/"
+      },
+      "expression": "Distance learning suits people with jobs.",
+      "use": "Use this when you talk about studying online.",
+      "expressionTask": "Maya talks to Daniel about online learning. What does she ask him?",
+      "grammar": "Advanced reported speech: The report said that online learning had grown quickly",
+      "pattern": "The report said that online learning had grown quickly.",
+      "task": "The report said that online learning had ___ quickly.",
+      "answer": "grown",
+      "example": "The report said that online learning had grown quickly.",
+      "context": [
+        "Maya talks to Daniel about online learning at work.",
+        "Distance learning suits people with jobs."
+      ],
+      "dialogue": [
+        "Maya: Daniel, what is a module?",
+        "Daniel: A module is one part of a course of study.",
+        "Maya: What is assessment?",
+        "Daniel: Assessment is the process of judging how well a student has done.",
+        "Maya: What is coursework?",
+        "Daniel: Coursework is work that counts towards the final mark. Distance learning suits people with jobs."
+      ],
+      "listening": "On Saturday, Maya talks to Daniel about online learning at work. She asks, 'Daniel, what is a module?' Daniel says, 'A module is one part of a course of study.' Maya asks, 'What is assessment?' Daniel says, 'Assessment is the process of judging how well a student has done.' Maya asks, 'What is coursework?' Daniel says, 'Coursework is work that counts towards the final mark.'",
+      "question": "What is a module?",
+      "correct": "One part of a course of study",
+      "other": "A kind of exam",
+      "reading": "On Saturday, Maya talks to Daniel about online learning at work. She says, 'What is a module?' Daniel says, 'A module is one part of a course of study. This module covers the history of education.' Maya says, 'What is assessment?' Daniel says, 'Assessment is the process of judging how well a student has done. Assessment is by exam and coursework.' Maya says, 'What is coursework?' Daniel says, 'Coursework is work that counts towards the final mark. Her coursework is half of her final grade.' Maya says, 'How do people study online?' Daniel says, 'Distance learning suits people with jobs. Blended learning mixes classroom lessons and online study in a smart way.' Maya says, 'That sounds good to me. Each module has its own assessment, and coursework keeps students busy all term.'",
+      "readingQ": "What is coursework?",
+      "readingA": "Work that counts towards the final mark.",
+      "speaking": "Tell a friend about online learning. What is a module?",
+      "speakingSample": "I want to tell you about online learning. On Saturday, Maya talked about online learning. She said, 'What is a module?' Daniel said, 'A module is one part of a course of study. This module covers the history of education.' Assessment is the process of judging how well a student has done. Coursework counts towards the final mark. Distance learning suits people with jobs.",
+      "writing": "Write a short email to a friend. Tell them about online learning.",
+      "writingSample": "Dear Tom, I want to tell you about online learning. On Saturday, Maya talked about online learning at work. She said, 'What is a module?' Daniel said, 'A module is one part of a course of study. This module covers the history of education.' Assessment is by exam and coursework. Distance learning suits people with jobs. Blended learning mixes classroom lessons and online study. Please tell me about your studies and your work. Best, Daniel",
+      "sound": "Module has its strongest beat on MOD. In module, say MOD clearly at the start. In assessment, say SESS clearly in the middle.",
+      "model": "This module is about online learning.",
+      "wordTask": "What is a module?",
+      "wordSample": "One part of a course of study."
+    },
+    {
+      "unit": 19,
+      "day": 151,
+      "title": "Lifelong learning and changing careers",
+      "goal": "I can talk about lifelong learning and changing careers.",
+      "newItems": [
+        {
+          "category": "new_word",
+          "day": 151,
+          "definition": "Training again for a new job or a new way of working.",
+          "example": "Retraining takes time, but it opens new doors.",
+          "ipa": "/ˈriˌtreɪnɪŋ/",
+          "pos": "noun",
+          "status": "new",
+          "word": "retraining"
+        },
+        {
+          "category": "new_word",
+          "day": 151,
+          "definition": "An official document showing you have finished a course of training.",
+          "example": "The course gives you a certification in first aid.",
+          "ipa": "/ˌsɝtəfəˈkeɪʃən/",
+          "pos": "noun",
+          "status": "new",
+          "word": "certification"
+        },
+        {
+          "category": "fixed_phrase",
+          "day": 151,
+          "definition": "Learning that continues all through life.",
+          "example": "Lifelong learning keeps the mind active.",
+          "ipa": "/ˈlaɪfˌlɔŋ ˈlɝnɪŋ/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "lifelong learning"
+        },
+        {
+          "category": "fixed_phrase",
+          "day": 151,
+          "definition": "To learn for your whole life, not just at school.",
+          "example": "She believes we should learn for life.",
+          "ipa": "/lɝn fɔr laɪf/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "learn for life"
+        },
+        {
+          "category": "fixed_phrase",
+          "day": 151,
+          "definition": "A strong feeling of liking learning.",
+          "example": "A love of learning stays with you for life.",
+          "ipa": "/ə lʌv əv ˈlɝnɪŋ/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "a love of learning"
+        }
+      ],
+      "reviewWords": [
+        "like",
+        "love",
+        "play",
+        "watch",
+        "visit"
+      ],
+      "mainWord": {
+        "category": "new_word",
+        "day": 151,
+        "definition": "Training again for a new job or a new way of working.",
+        "example": "Retraining takes time, but it opens new doors.",
+        "ipa": "/ˈriˌtreɪnɪŋ/",
+        "pos": "noun",
+        "status": "new",
+        "word": "retraining"
+      },
+      "mainWordForms": "Retraining is a noun. Training again for a new job or a new way of working. Retraining takes time, but it opens new doors.",
+      "pronunciationTarget": {
+        "word": "retraining",
+        "ipa": "/ˈriˌtreɪnɪŋ/"
+      },
+      "expression": "Lifelong learning keeps the mind active.",
+      "use": "Use this when you talk about learning for life.",
+      "expressionTask": "Daniel talks to Maya about lifelong learning. What does he ask her?",
+      "grammar": "Subjunctive: It is vital that every adult have access to learning",
+      "pattern": "It is vital that every adult have access to learning.",
+      "task": "It is vital that every adult ___ access to learning.",
+      "answer": "have",
+      "example": "It is vital that every adult have access to learning.",
+      "context": [
+        "Daniel talks to Maya about lifelong learning at home.",
+        "Lifelong learning keeps the mind active."
+      ],
+      "dialogue": [
+        "Daniel: Maya, what is retraining?",
+        "Maya: Retraining is training again for a new job or a new way of working.",
+        "Daniel: What is a certification?",
+        "Maya: A certification is a document showing you have finished a course of training.",
+        "Daniel: Why keep learning?",
+        "Maya: Lifelong learning keeps the mind active. We should learn for life."
+      ],
+      "listening": "On Sunday, Daniel talks to Maya about lifelong learning at home. He asks, 'Maya, what is retraining?' Maya says, 'Retraining is training again for a new job or a new way of working.' Daniel asks, 'What is a certification?' Maya says, 'A certification is a document showing you have finished a course of training. Lifelong learning keeps the mind active.'",
+      "question": "What is retraining?",
+      "correct": "Training again for a new job",
+      "other": "A university degree",
+      "reading": "On Sunday, Daniel talks to Maya about lifelong learning at home. He says, 'What is retraining?' Maya says, 'Retraining is training again for a new job or a new way of working. Retraining takes time, but it opens new doors.' Daniel says, 'What is a certification?' Maya says, 'A certification is a document showing you have finished a course of training. The course gives you a certification in first aid.' Daniel says, 'Why keep learning?' Maya says, 'Lifelong learning keeps the mind active. We should learn for life, not just at school.' Daniel says, 'That is true. A love of learning stays with you for life. Retraining helped my friend change jobs, and a certification proved her new skills.' Maya says, 'Good. A love of learning is the best skill of all.'",
+      "readingQ": "Why keep learning?",
+      "readingA": "Lifelong learning keeps the mind active.",
+      "speaking": "Tell a friend about lifelong learning. What is retraining?",
+      "speakingSample": "I want to tell you about lifelong learning. On Sunday, Daniel talked about lifelong learning. He said, 'What is retraining?' Maya said, 'Retraining is training again for a new job or a new way of working. Retraining takes time, but it opens new doors.' A certification shows you have finished a course of training. We should learn for life. A love of learning stays with you for life.",
+      "writing": "Write a short email to a friend. Tell them about lifelong learning.",
+      "writingSample": "Dear Tom, I want to tell you about lifelong learning. On Sunday, Daniel talked about lifelong learning at home. He said, 'What is retraining?' Maya said, 'Retraining is training again for a new job or a new way of working. Retraining takes time, but it opens new doors.' A certification shows you have finished a course of training. We should learn for life. A love of learning stays with you for life. Please tell me about your studies. Best, Daniel",
+      "sound": "Retraining has its strongest beat on TRAIN. In retraining, say TRAIN clearly in the middle. In certification, say CA clearly in the middle.",
+      "model": "Good retraining takes time and effort.",
+      "wordTask": "What is retraining?",
+      "wordSample": "Training again for a new job."
+    },
+    {
+      "unit": 19,
+      "day": 152,
+      "title": "Use education English in a new situation",
+      "goal": "I can use education English in a new situation.",
+      "newItems": [
+        {
+          "category": "new_word",
+          "day": 152,
+          "definition": "Money given to a student to help pay for study.",
+          "example": "She won a bursary to study medicine.",
+          "ipa": "/ˈbɝsəri/",
+          "pos": "noun",
+          "status": "new",
+          "word": "bursary"
+        },
+        {
+          "category": "new_word",
+          "day": 152,
+          "definition": "The money paid for teaching at a school or university.",
+          "example": "Tuition at the university is very high.",
+          "ipa": "/tuˈɪʃən/",
+          "pos": "noun",
+          "status": "new",
+          "word": "tuition"
+        },
+        {
+          "category": "fixed_phrase",
+          "day": 152,
+          "definition": "A place offered to a student at a university.",
+          "example": "She won a place at university.",
+          "ipa": "/ə pleɪs æt ˌjunəˈvɝsəti/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "a place at university"
+        },
+        {
+          "category": "fixed_phrase",
+          "day": 152,
+          "definition": "A formal event where students receive their degrees.",
+          "example": "A graduation ceremony is held in July.",
+          "ipa": "/ə ˌɡrædʒuˈeɪʃən ˈsɛrəˌmoʊni/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "a graduation ceremony"
+        },
+        {
+          "category": "fixed_phrase",
+          "day": 152,
+          "definition": "The special hat and robe worn at graduation.",
+          "example": "She wore cap and gown at the ceremony.",
+          "ipa": "/kæp ənd ɡaʊn/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "cap and gown"
+        }
+      ],
+      "reviewWords": [
+        "travel",
+        "city",
+        "town",
+        "country",
+        "free"
+      ],
+      "mainWord": {
+        "category": "new_word",
+        "day": 152,
+        "definition": "Money given to a student to help pay for study.",
+        "example": "She won a bursary to study medicine.",
+        "ipa": "/ˈbɝsəri/",
+        "pos": "noun",
+        "status": "new",
+        "word": "bursary"
+      },
+      "mainWordForms": "Bursary is a noun. Money given to a student to help pay for study. She won a bursary to study medicine.",
+      "pronunciationTarget": {
+        "word": "bursary",
+        "ipa": "/ˈbɝsəri/"
+      },
+      "expression": "A graduation ceremony is a big day.",
+      "use": "Use this when you talk about graduation.",
+      "expressionTask": "Daniel meets Sara at a graduation ceremony. What does she tell him?",
+      "grammar": "Wish and if only for review: I wish I had started learning Spanish when I was young",
+      "pattern": "I wish I had started learning Spanish when I was young.",
+      "task": "I wish I had started learning Spanish when I was ___.",
+      "answer": "young",
+      "example": "I wish I had started learning Spanish when I was young.",
+      "context": [
+        "Daniel meets Sara at a graduation ceremony and talks about education.",
+        "A graduation ceremony is a big day."
+      ],
+      "dialogue": [
+        "Daniel: Sara, do you know what a bursary is?",
+        "Sara: Yes. A bursary is money given to a student to help pay for study.",
+        "Daniel: What is tuition?",
+        "Sara: Tuition is the money paid for teaching at a university.",
+        "Daniel: Did you win a place at university?",
+        "Sara: Yes. I wear cap and gown today. A graduation ceremony is a big day."
+      ],
+      "listening": "Daniel meets Sara at a graduation ceremony. He asks, 'Sara, do you know what a bursary is?' Sara says, 'Yes. A bursary helps students pay for study.' Daniel asks, 'What is tuition?' Sara says, 'Tuition is the money paid for teaching at a university.' Daniel asks, 'Did you win a place at university?' Sara says, 'Yes. I wear cap and gown today.'",
+      "question": "What is a bursary?",
+      "correct": "Money given to a student to help pay for study",
+      "other": "A kind of exam",
+      "reading": "On Monday, Daniel meets Sara at a graduation ceremony and talks about education. He asks, 'Sara, do you know what a bursary is?' Sara says, 'Yes. A bursary is money given to a student to help pay for study. She won a bursary to study medicine.' Daniel asks, 'What is tuition?' Sara says, 'Tuition is the money paid for teaching at a university. Tuition at the university is very high.' Daniel asks, 'Did you win a place at university?' Sara says, 'Yes. I won a place at university last year. I wear cap and gown today.' Daniel says, 'That is wonderful. A graduation ceremony is a big day.' Sara says, 'Yes. Cap and gown make the day special. A bursary helped me pay tuition, and a place at university changed my life.'",
+      "readingQ": "What is tuition?",
+      "readingA": "The money paid for teaching at a university.",
+      "speaking": "Tell a friend about graduation. What is a bursary?",
+      "speakingSample": "I want to tell you about graduation. On Monday, Daniel talked to Sara at a graduation ceremony. He said, 'Sara, do you know what a bursary is?' Sara said, 'Yes. A bursary is money given to a student to help pay for study.' Tuition is the money paid for teaching at a university. She won a place at university last year.",
+      "writing": "Write a short email to a friend. Tell them about graduation.",
+      "writingSample": "Dear Tom, I want to tell you about graduation. On Monday, Daniel talked to Sara at a graduation ceremony. He said, 'Sara, do you know what a bursary is?' Sara said, 'Yes. A bursary is money given to a student to help pay for study.' Tuition is the money paid for teaching at a university. She won a place at university last year. I wear cap and gown today. A graduation ceremony is a big day. Please tell me about your studies. Best, Daniel",
+      "sound": "Bursary has its strongest beat on BUR. In bursary, say BUR clearly at the start. In tuition, say TI clearly in the middle.",
+      "model": "A bursary helps students pay for study.",
+      "wordTask": "What is a bursary?",
+      "wordSample": "Money given to a student to help pay for study.",
+      "transferCheck": {
+        "source": "On Saturday, Sara reads a note from her neighbour about an adult education class. It says the class helps adults learn new skills, and many people in the town use it. A bursary can help pay tuition, and a place at university can change a life. Sara talks to her friend Tom at a graduation ceremony. She says, 'The class helps adults learn new skills. A bursary can help pay tuition.' Tom says, 'Good. A place at university can change a life.' Sara says, 'Yes. Cap and gown make the day special. A graduation ceremony is a big day.' Tom says, 'Good. Learning never really ends.' Sara is happy.",
+        "dictation": "Learning never really ends.",
+        "answer": "1. The new checker is Sara. She reads a note from her neighbour about an adult education class and talks to her friend Tom at a graduation ceremony. 2. Sara's first job is to say that the class helps adults learn new skills. 3. On Saturday, Sara says, 'The class helps adults learn new skills. A bursary can help pay tuition.' 4. Learning never really ends. 5. Sample: On Saturday, Sara reads a note from her neighbour about an adult education class. It says the class helps adults learn new skills, and many people in the town use it. A bursary can help pay tuition, and a place at university can change a life. Sara talks to her friend Tom at a graduation ceremony. She says, 'The class helps adults learn new skills. A bursary can help pay tuition.' Tom says, 'Good. A place at university can change a life.' Sara says, 'Yes. Cap and gown make the day special. A graduation ceremony is a big day.' Tom says, 'Good. Learning never really ends.' Follow-up: What does Tom say about a place at university? A place at university can change a life.",
+        "tasks": [
+          [
+            "1 · Identify the people and the new situation",
+            "Who is the new checker, and what does she read?"
+          ],
+          [
+            "2 · Work out what Sara does first",
+            "What is Sara's first job, and what does she say?"
+          ],
+          [
+            "3 · Notice the sentence on Saturday",
+            "What does Sara say on Saturday?"
+          ],
+          [
+            "4 · Listen and write",
+            "Write the sentence you hear."
+          ],
+          [
+            "5 · Retell and answer",
+            "Tell the story in order, including the people, the new situation, the first talk, and the result. Then answer one follow-up question."
+          ]
+        ]
+      }
+    }
+  ]
+}

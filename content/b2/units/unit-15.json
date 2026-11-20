@@ -1,0 +1,953 @@
+{
+  "number": 15,
+  "title": "The environment and sustainability",
+  "lessons": [
+    {
+      "unit": 15,
+      "day": 113,
+      "title": "What is sustainability?",
+      "goal": "I can talk about sustainability.",
+      "newItems": [
+        {
+          "category": "new_word",
+          "definition": "Using things in a way that does not harm the future.",
+          "example": "Sustainability helps our children.",
+          "ipa": "/səˌsteɪnəˈbɪləti/",
+          "pos": "noun",
+          "status": "new",
+          "word": "sustainability",
+          "day": 113
+        },
+        {
+          "category": "new_word",
+          "definition": "The number of different plants and animals in a place.",
+          "example": "Biodiversity keeps nature strong.",
+          "ipa": "/ˌbaɪoʊdaɪˈvɝsəti/",
+          "pos": "noun",
+          "status": "new",
+          "word": "biodiversity",
+          "day": 113
+        },
+        {
+          "category": "fixed_phrase",
+          "definition": "A future with cleaner air and a healthy planet.",
+          "example": "Children want a greener future.",
+          "ipa": "/ə ˈɡrinɚ ˈfjutʃɚ/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "a greener future",
+          "day": 113
+        },
+        {
+          "category": "fixed_phrase",
+          "definition": "To live with fewer things.",
+          "example": "We live more simply now.",
+          "ipa": "/lɪv mɔr ˈsɪmpli/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "live more simply",
+          "day": 113
+        },
+        {
+          "category": "fixed_phrase",
+          "definition": "A system where things are used again, not thrown away.",
+          "example": "A circular economy wastes less.",
+          "ipa": "/ə ˈsɝkjələr ɪˈkɑnəmi/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "a circular economy",
+          "day": 113
+        }
+      ],
+      "reviewWords": [
+        "air",
+        "sun",
+        "tree",
+        "green",
+        "safe"
+      ],
+      "mainWord": {
+        "category": "new_word",
+        "definition": "Using things in a way that does not harm the future.",
+        "example": "Sustainability helps our children.",
+        "ipa": "/səˌsteɪnəˈbɪləti/",
+        "pos": "noun",
+        "status": "new",
+        "word": "sustainability",
+        "day": 113
+      },
+      "mainWordForms": "Sustainability is a noun. Using things in a way that does not harm the future. Sustainability helps our children.",
+      "pronunciationTarget": {
+        "word": "sustainability",
+        "ipa": "/səˌsteɪnəˈbɪləti/"
+      },
+      "expression": "We can live more simply every day.",
+      "use": "Use this when you talk about a simple, green life.",
+      "expressionTask": "Daniel talks to Maya about sustainability. What does he do?",
+      "grammar": "Cleft sentences: What we need is a greener future",
+      "pattern": "What we need is a greener future.",
+      "task": "What we need ___ a greener future.",
+      "answer": "is",
+      "example": "What we need is a greener future.",
+      "context": [
+        "Daniel talks to Maya about sustainability at work.",
+        "We can live more simply every day. A circular economy wastes less."
+      ],
+      "dialogue": [
+        "Daniel: Maya, what is sustainability?",
+        "Maya: It means we use things with care, so the future stays green.",
+        "Daniel: I see. What is biodiversity?",
+        "Maya: Biodiversity means many kinds of plants and animals live here.",
+        "Daniel: And what is a circular economy?",
+        "Maya: In a circular economy, we use things again. We can live more simply every day."
+      ],
+      "listening": "On Monday, Daniel talks to Maya about sustainability at work. He asks, 'Maya, what is sustainability?' Maya says, 'It means we use things with care, so the future stays green.' Daniel asks, 'What is biodiversity?' Maya says, 'Biodiversity means many kinds of plants and animals live here.' Daniel is happy. He says, 'Thank you, Maya.'",
+      "question": "What does Daniel ask about?",
+      "correct": "Sustainability",
+      "other": "A new car",
+      "reading": "On Monday, Daniel talks to Maya about sustainability at work at Carter Retail Group. He asks, 'Maya, what is sustainability?' Maya says, 'Sustainability means we use things with care, so the future stays green. We can live more simply every day.' Daniel asks, 'What is biodiversity?' Maya says, 'Biodiversity means many kinds of plants and animals live in one place. A place with strong biodiversity stays healthy.' Daniel says, 'I see. What is a circular economy?' Maya says, 'In a circular economy, we use things again and again. We fix old things, we share them, and we throw away less. That helps us live more simply and it gives children a greener future.' Daniel is happy. He says, 'Thank you, Maya. I want a greener future too.' Maya says, 'Good. Start small. Live more simply every day.'",
+      "readingQ": "What does Maya say about sustainability?",
+      "readingA": "Use things with care, and live more simply every day.",
+      "speaking": "Tell a friend about sustainability. What do you do to live more simply?",
+      "speakingSample": "I want to tell you about sustainability. On Monday, Daniel talked about sustainability at work. He said, 'Sustainability means we use things with care, so the future stays green.' Biodiversity means many kinds of plants and animals live in one place. In a circular economy, we use things again and again. I can live more simply every day, and I want a greener future.",
+      "writing": "Write a short email to a friend. Tell them about sustainability. Say what you do.",
+      "writingSample": "Dear Tom, I want to tell you about sustainability. On Monday, Daniel talked about sustainability at work. He said, 'Sustainability means we use things with care, so the future stays green.' Biodiversity means many kinds of plants and animals live in one place. In a circular economy, we use things again and again. I can live more simply every day, and I want a greener future. I hope you will join me. Please tell me about your work. Best, Daniel",
+      "sound": "Sustainability has its strongest beat on NAY. In sustainability, say NAY clearly in the middle. In biodiversity, say VER clearly in the middle.",
+      "model": "We need sustainability for a greener future.",
+      "wordTask": "What does Daniel ask about?",
+      "wordSample": "Sustainability."
+    },
+    {
+      "unit": 15,
+      "day": 114,
+      "title": "Climate change in depth",
+      "goal": "I can talk about climate change.",
+      "newItems": [
+        {
+          "category": "new_word",
+          "definition": "Cutting down forests over a wide area.",
+          "example": "Deforestation harms the planet.",
+          "ipa": "/diˌfɔrəˈsteɪʃən/",
+          "pos": "noun",
+          "status": "new",
+          "word": "deforestation",
+          "day": 114
+        },
+        {
+          "category": "new_word",
+          "definition": "A huge river of ice that moves slowly.",
+          "example": "The glacier is melting fast.",
+          "ipa": "/ˈɡleɪʃɚ/",
+          "pos": "noun",
+          "status": "new",
+          "word": "glacier",
+          "day": 114
+        },
+        {
+          "category": "new_word",
+          "definition": "The work of protecting nature.",
+          "example": "Conservation saves wild places.",
+          "ipa": "/ˌkɑnsɝˈveɪʃən/",
+          "pos": "noun",
+          "status": "new",
+          "word": "conservation",
+          "day": 114
+        },
+        {
+          "category": "fixed_phrase",
+          "definition": "Adding no more greenhouse gas to the air than you take out.",
+          "example": "The city aims for net zero by 2040.",
+          "ipa": "/nɛt ˈziroʊ/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "net zero",
+          "day": 114
+        },
+        {
+          "category": "fixed_phrase",
+          "definition": "To wash with less water.",
+          "example": "I take shorter showers now.",
+          "ipa": "/teɪk ˈʃɔrtɚ ˈʃaʊɚz/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "take shorter showers",
+          "day": 114
+        }
+      ],
+      "reviewWords": [
+        "hot",
+        "cold",
+        "rain",
+        "sea",
+        "long"
+      ],
+      "mainWord": {
+        "category": "new_word",
+        "definition": "Cutting down forests over a wide area.",
+        "example": "Deforestation harms the planet.",
+        "ipa": "/diˌfɔrəˈsteɪʃən/",
+        "pos": "noun",
+        "status": "new",
+        "word": "deforestation",
+        "day": 114
+      },
+      "mainWordForms": "Deforestation is a noun. Cutting down forests over a wide area. Deforestation harms the planet.",
+      "pronunciationTarget": {
+        "word": "deforestation",
+        "ipa": "/diˌfɔrəˈsteɪʃən/"
+      },
+      "expression": "The city aims for net zero by 2040.",
+      "use": "Use this when you talk about a city's climate plan.",
+      "expressionTask": "Priya talks to Daniel about climate change. What does the city do?",
+      "grammar": "Future perfect: By 2050, we will have planted a million trees",
+      "pattern": "By 2050, we will have planted a million trees.",
+      "task": "By 2050, we will have ___ a million trees.",
+      "answer": "planted",
+      "example": "By 2050, we will have planted a million trees.",
+      "context": [
+        "Priya talks to Daniel about climate change at work.",
+        "The city aims for net zero by 2040. Deforestation makes the Earth warmer."
+      ],
+      "dialogue": [
+        "Priya: Daniel, why is the Earth warmer now?",
+        "Daniel: Deforestation is one big cause. We cut down too many trees.",
+        "Priya: True. What about the glacier?",
+        "Daniel: The glacier is melting fast. That is why the sea is higher.",
+        "Priya: What can we do?",
+        "Daniel: Conservation helps. We can take shorter showers and the city aims for net zero by 2040."
+      ],
+      "listening": "On Tuesday, Priya talks to Daniel about climate change at work. She asks, 'Daniel, why is the Earth warmer now?' Daniel says, 'Deforestation is one big cause. We cut down too many trees.' Priya asks, 'What about the glacier?' Daniel says, 'The glacier is melting fast. That is why the sea is higher.' Daniel is happy.",
+      "question": "Why is the Earth warmer?",
+      "correct": "Deforestation",
+      "other": "More rain",
+      "reading": "On Tuesday, Priya talks to Daniel about climate change at work at Carter Retail Group. She asks, 'Daniel, why is the Earth warmer now?' Daniel says, 'Deforestation is one big cause. We cut down too many trees, and the Earth gets warmer. That is why a glacier is melting fast. The glacier is a huge river of ice, and when it melts, the sea is higher.' Priya asks, 'What can we do?' Daniel says, 'Conservation helps a lot. We can plant trees, and we can take shorter showers to save hot water. The city aims for net zero by 2040, so it will add no more gas to the air than it takes out. If we act now, the future stays green.' Priya is happy. She says, 'Thank you, Daniel. I will take shorter showers every day.'",
+      "readingQ": "What does Daniel say about climate change?",
+      "readingA": "Deforestation makes the Earth warmer, but conservation helps.",
+      "speaking": "Tell a friend about climate change. What causes it? What can we do?",
+      "speakingSample": "I want to tell you about climate change. On Tuesday, Priya talked about climate change at work. She said, 'Deforestation is one big cause. We cut down too many trees, and the Earth gets warmer.' A glacier is a huge river of ice, and when it melts, the sea is higher. Conservation helps a lot. We can take shorter showers, and the city aims for net zero by 2040.",
+      "writing": "Write a short email to a friend. Tell them about climate change. Say what your city does.",
+      "writingSample": "Dear Tom, I want to tell you about climate change. On Tuesday, Priya talked about climate change at work. She said, 'Deforestation is one big cause. We cut down too many trees, and the Earth gets warmer.' A glacier is a huge river of ice, and when it melts, the sea is higher. Conservation helps a lot. We can take shorter showers, and the city aims for net zero by 2040. Please tell me about your town. Best, Daniel",
+      "sound": "Deforestation has its strongest beat on TAY. In deforestation, say TAY clearly in the middle. In glacier, say GLAY clearly at the start.",
+      "model": "We must stop deforestation to save the forests.",
+      "wordTask": "What is one big cause of a warmer Earth?",
+      "wordSample": "Deforestation."
+    },
+    {
+      "unit": 15,
+      "day": 115,
+      "title": "Energy for the future",
+      "goal": "I can talk about energy.",
+      "newItems": [
+        {
+          "category": "new_word",
+          "definition": "Using heat from inside the Earth.",
+          "example": "Geothermal power heats the town.",
+          "ipa": "/ˌdʒioʊˈθɝməl/",
+          "pos": "adjective",
+          "status": "new",
+          "word": "geothermal",
+          "day": 115
+        },
+        {
+          "category": "new_word",
+          "definition": "Using flowing water to make power.",
+          "example": "A hydroelectric dam makes power.",
+          "ipa": "/ˌhaɪdroʊɪˈlɛktrɪk/",
+          "pos": "adjective",
+          "status": "new",
+          "word": "hydroelectric",
+          "day": 115
+        },
+        {
+          "category": "fixed_phrase",
+          "definition": "To use less power at home.",
+          "example": "We cut our energy use this year.",
+          "ipa": "/kʌt jʊər ˈɛnɚdʒi jus/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "cut your energy use",
+          "day": 115
+        },
+        {
+          "category": "fixed_phrase",
+          "definition": "To make the heating lower.",
+          "example": "Turn down the heat at night.",
+          "ipa": "/tɝn daʊn ðə hit/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "turn down the heat",
+          "day": 115
+        },
+        {
+          "category": "fixed_phrase",
+          "definition": "To travel in one car with other people.",
+          "example": "We share a ride to work.",
+          "ipa": "/ʃɛr ə raɪd/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "share a ride",
+          "day": 115
+        }
+      ],
+      "reviewWords": [
+        "light",
+        "power",
+        "home",
+        "car",
+        "bus"
+      ],
+      "mainWord": {
+        "category": "new_word",
+        "definition": "Using heat from inside the Earth.",
+        "example": "Geothermal power heats the town.",
+        "ipa": "/ˌdʒioʊˈθɝməl/",
+        "pos": "adjective",
+        "status": "new",
+        "word": "geothermal",
+        "day": 115
+      },
+      "mainWordForms": "Geothermal is an adjective. Using heat from inside the Earth. Geothermal power heats the town.",
+      "pronunciationTarget": {
+        "word": "geothermal",
+        "ipa": "/ˌdʒioʊˈθɝməl/"
+      },
+      "expression": "We cut our energy use this year.",
+      "use": "Use this when you talk about saving power at home.",
+      "expressionTask": "Maya talks to Daniel about energy. What does she do?",
+      "grammar": "Future continuous: This time next year, we will be using clean power at home",
+      "pattern": "This time next year, we will be using clean power at home.",
+      "task": "This time next year, we will be ___ clean power at home.",
+      "answer": "using",
+      "example": "This time next year, we will be using clean power at home.",
+      "context": [
+        "Maya talks to Daniel about energy at work.",
+        "We cut our energy use this year. We turn down the heat at night."
+      ],
+      "dialogue": [
+        "Maya: Daniel, how can we use less power?",
+        "Daniel: We cut our energy use this year. We turn down the heat at night.",
+        "Maya: Good. What is geothermal power?",
+        "Daniel: Geothermal power uses heat from deep in the Earth.",
+        "Maya: And hydroelectric power?",
+        "Daniel: Hydroelectric power uses flowing water. We also share a ride to work."
+      ],
+      "listening": "On Wednesday, Maya talks to Daniel about energy at work. She asks, 'Daniel, how can we use less power?' Daniel says, 'We cut our energy use this year. We turn down the heat at night.' Maya asks, 'What is geothermal power?' Daniel says, 'Geothermal power uses heat from deep in the Earth.' Daniel is happy.",
+      "question": "What does Daniel do this year?",
+      "correct": "Cut our energy use",
+      "other": "Buy a new car",
+      "reading": "On Wednesday, Maya talks to Daniel about energy at work at Carter Retail Group. She asks, 'Daniel, how can we use less power?' Daniel says, 'We cut our energy use this year. If you cut your energy use, you save money and help the planet. We turn down the heat at night, and we share a ride to work every day.' Maya asks, 'What is geothermal power?' Daniel says, 'Geothermal power uses heat from deep in the Earth. It is clean power. Hydroelectric power uses flowing water to make power. A dam can make power for a whole town. Clean power costs less now, and more homes use it every year.' Maya is happy. She says, 'Thank you, Daniel. I will turn down the heat at night and share a ride to work.'",
+      "readingQ": "What does Daniel say about energy?",
+      "readingA": "Cut your energy use, and share a ride to work.",
+      "speaking": "Tell a friend about energy. How do you save power at home?",
+      "speakingSample": "I want to tell you about energy. On Wednesday, Maya talked about energy at work. She said, 'We cut our energy use this year.' Geothermal power uses heat from deep in the Earth. Hydroelectric power uses flowing water to make power. We turn down the heat at night, and we share a ride to work every day. It saves money too.",
+      "writing": "Write a short email to a friend. Tell them about energy. Say how you save power.",
+      "writingSample": "Dear Tom, I want to tell you about energy. On Wednesday, Maya talked about energy at work. She said, 'We cut our energy use this year.' Geothermal power uses heat from deep in the Earth. Hydroelectric power uses flowing water to make power. We turn down the heat at night, and we share a ride to work every day. I hope you will try it too. Clean power is good for us all. Please tell me about your home. Best, Daniel",
+      "sound": "Geothermal has its strongest beat on THER. In geothermal, say THER clearly in the middle. In hydroelectric, say LEK clearly in the middle.",
+      "model": "We use geothermal power to heat our homes.",
+      "wordTask": "What kind of power uses heat from deep in the Earth?",
+      "wordSample": "Geothermal power."
+    },
+    {
+      "unit": 15,
+      "day": 116,
+      "title": "Forests and wildlife",
+      "goal": "I can talk about forests and wildlife.",
+      "newItems": [
+        {
+          "category": "new_word",
+          "definition": "Planting trees where a forest was cut down.",
+          "example": "Reforestation brings life back.",
+          "ipa": "/ˌriˌfɔrəˈsteɪʃən/",
+          "pos": "noun",
+          "status": "new",
+          "word": "reforestation",
+          "day": 116
+        },
+        {
+          "category": "new_word",
+          "definition": "A thick forest in a hot, wet place.",
+          "example": "The rainforest is home to many animals.",
+          "ipa": "/ˈreɪnˌfɔrəst/",
+          "pos": "noun",
+          "status": "new",
+          "word": "rainforest",
+          "day": 116
+        },
+        {
+          "category": "fixed_phrase",
+          "definition": "To put local trees in the ground.",
+          "example": "We plant native trees every spring.",
+          "ipa": "/plænt ˈneɪtɪv triz/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "plant native trees",
+          "day": 116
+        },
+        {
+          "category": "fixed_phrase",
+          "definition": "To protect the thick forests in hot, wet places.",
+          "example": "We must save the rainforest.",
+          "ipa": "/seɪv ðə ˈreɪnˌfɔrəst/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "save the rainforest",
+          "day": 116
+        },
+        {
+          "category": "fixed_phrase",
+          "definition": "A day with no meat at all.",
+          "example": "Monday is a meat-free day.",
+          "ipa": "/ə ˈmit fri deɪ/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "a meat-free day",
+          "day": 116
+        }
+      ],
+      "reviewWords": [
+        "bird",
+        "fish",
+        "grass",
+        "leaf",
+        "small"
+      ],
+      "mainWord": {
+        "category": "new_word",
+        "definition": "Planting trees where a forest was cut down.",
+        "example": "Reforestation brings life back.",
+        "ipa": "/ˌriˌfɔrəˈsteɪʃən/",
+        "pos": "noun",
+        "status": "new",
+        "word": "reforestation",
+        "day": 116
+      },
+      "mainWordForms": "Reforestation is a noun. Planting trees where a forest was cut down. Reforestation brings life back.",
+      "pronunciationTarget": {
+        "word": "reforestation",
+        "ipa": "/ˌriˌfɔrəˈsteɪʃən/"
+      },
+      "expression": "We plant native trees every spring.",
+      "use": "Use this when you talk about helping forests.",
+      "expressionTask": "Daniel talks to Priya about forests. What does he do?",
+      "grammar": "Inversion: Not only do forests clean the air, but they also give us food",
+      "pattern": "Not only do forests clean the air, but they also give us food.",
+      "task": "Not only ___ forests clean the air, but they also give us food.",
+      "answer": "do",
+      "example": "Not only do forests clean the air, but they also give us food.",
+      "context": [
+        "Daniel talks to Priya about forests at work.",
+        "We plant native trees every spring. We must save the rainforest."
+      ],
+      "dialogue": [
+        "Daniel: Priya, why are forests so important?",
+        "Priya: Forests clean the air and give homes to animals.",
+        "Daniel: What is reforestation?",
+        "Priya: Reforestation means we plant trees where a forest was cut down.",
+        "Daniel: And the rainforest?",
+        "Priya: We must save the rainforest. We plant native trees every spring, and Monday is a meat-free day."
+      ],
+      "listening": "On Thursday, Daniel talks to Priya about forests at work. He asks, 'Priya, why are forests so important?' Priya says, 'Forests clean the air and give homes to animals.' Daniel asks, 'What is reforestation?' Priya says, 'Reforestation means we plant trees where a forest was cut down.' Daniel is happy. He says, 'Thank you, Priya.'",
+      "question": "Why are forests important?",
+      "correct": "They clean the air",
+      "other": "They are big",
+      "reading": "On Thursday, Daniel talks to Priya about forests at work at Carter Retail Group. He asks, 'Priya, why are forests so important?' Priya says, 'Forests clean the air and give homes to animals. A rainforest is a thick forest in a hot, wet place, and it is home to many animals. We must save the rainforest, or we lose them.' Daniel asks, 'What is reforestation?' Priya says, 'Reforestation means we plant trees where a forest was cut down. We plant native trees every spring, and they grow well here. Eating meat can harm forests too, so Monday is a meat-free day for us. Not only do forests clean the air, but they also give us food.' Daniel is happy. He says, 'Thank you, Priya. I will plant native trees and save the rainforest.'",
+      "readingQ": "What does Priya say about forests?",
+      "readingA": "Forests clean the air and give homes to animals.",
+      "speaking": "Tell a friend about forests. Why do they matter? What can you do?",
+      "speakingSample": "I want to tell you about forests. On Thursday, Priya talked about forests at work. She said, 'Forests clean the air and give homes to animals.' A rainforest is a thick forest in a hot, wet place, and it is home to many animals. Reforestation means we plant trees where a forest was cut down. We plant native trees every spring, and Monday is a meat-free day.",
+      "writing": "Write a short email to a friend. Tell them about forests. Say what you do to help.",
+      "writingSample": "Dear Tom, I want to tell you about forests. On Thursday, Priya talked about forests at work. She said, 'Forests clean the air and give homes to animals.' A rainforest is a thick forest in a hot, wet place, and it is home to many animals. Reforestation means we plant trees where a forest was cut down. We plant native trees every spring, and Monday is a meat-free day. Please tell me about your town. Best, Daniel",
+      "sound": "Reforestation has its strongest beat on TAY. In reforestation, say TAY clearly in the middle. In rainforest, say RAIN clearly at the start.",
+      "model": "We help reforestation by planting trees.",
+      "wordTask": "What do we call planting trees where a forest was cut down?",
+      "wordSample": "Reforestation."
+    },
+    {
+      "unit": 15,
+      "day": 117,
+      "title": "Waste and the circular economy",
+      "goal": "I can talk about waste.",
+      "newItems": [
+        {
+          "category": "new_word",
+          "definition": "A place where rubbish is buried in the ground.",
+          "example": "The landfill is almost full.",
+          "ipa": "/ˈlændfɪl/",
+          "pos": "noun",
+          "status": "new",
+          "word": "landfill",
+          "day": 117
+        },
+        {
+          "category": "new_word",
+          "definition": "Able to break down in nature.",
+          "example": "This bag is biodegradable.",
+          "ipa": "/ˌbaɪoʊdɪˈɡreɪdəbəl/",
+          "pos": "adjective",
+          "status": "new",
+          "word": "biodegradable",
+          "day": 117
+        },
+        {
+          "category": "new_word",
+          "definition": "Old food and leaves that break down to feed the soil.",
+          "example": "Compost helps plants grow.",
+          "ipa": "/ˈkɑmpoʊst/",
+          "pos": "noun",
+          "status": "new",
+          "word": "compost",
+          "day": 117
+        },
+        {
+          "category": "fixed_phrase",
+          "definition": "To turn old food into food for the soil.",
+          "example": "We compost our leftovers.",
+          "ipa": "/ˈkɑmpoʊst jʊər ˈlɛftˌoʊvɚz/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "compost your leftovers",
+          "day": 117
+        },
+        {
+          "category": "fixed_phrase",
+          "definition": "To throw away less of what you buy.",
+          "example": "We waste less food now.",
+          "ipa": "/weɪst lɛs fud/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "waste less food",
+          "day": 117
+        }
+      ],
+      "reviewWords": [
+        "shop",
+        "bag",
+        "box",
+        "paper",
+        "glass"
+      ],
+      "mainWord": {
+        "category": "new_word",
+        "definition": "A place where rubbish is buried in the ground.",
+        "example": "The landfill is almost full.",
+        "ipa": "/ˈlændfɪl/",
+        "pos": "noun",
+        "status": "new",
+        "word": "landfill",
+        "day": 117
+      },
+      "mainWordForms": "Landfill is a noun. A place where rubbish is buried in the ground. The landfill is almost full.",
+      "pronunciationTarget": {
+        "word": "landfill",
+        "ipa": "/ˈlændfɪl/"
+      },
+      "expression": "We compost our leftovers.",
+      "use": "Use this when you talk about food and the soil.",
+      "expressionTask": "Maya talks to Daniel about waste. What does she do?",
+      "grammar": "Modal perfects for speculation: The landfill must have grown bigger every year",
+      "pattern": "The landfill must have grown bigger every year.",
+      "task": "The landfill must have ___ bigger every year.",
+      "answer": "grown",
+      "example": "The landfill must have grown bigger every year.",
+      "context": [
+        "Maya talks to Daniel about waste at work.",
+        "We compost our leftovers. We waste less food now."
+      ],
+      "dialogue": [
+        "Maya: Daniel, where does our rubbish go?",
+        "Daniel: Most of it goes to a landfill. The landfill is almost full.",
+        "Maya: What is biodegradable?",
+        "Daniel: Biodegradable means a thing can break down in nature.",
+        "Maya: What about compost?",
+        "Daniel: Compost is old food that feeds the soil. We compost our leftovers, and we waste less food now."
+      ],
+      "listening": "On Friday, Maya talks to Daniel about waste at work. She asks, 'Daniel, where does our rubbish go?' Daniel says, 'Most of it goes to a landfill. The landfill is almost full.' Maya asks, 'What is biodegradable?' Daniel says, 'Biodegradable means a thing can break down in nature.' Daniel is happy. He says, 'Thank you, Maya.'",
+      "question": "Where does our rubbish go?",
+      "correct": "To a landfill",
+      "other": "To the sea",
+      "reading": "On Friday, Maya talks to Daniel about waste at work at Carter Retail Group. She asks, 'Daniel, where does our rubbish go?' Daniel says, 'Most of it goes to a landfill. The landfill is almost full, so we must waste less food now. A bag is biodegradable if it can break down in nature. This bag is biodegradable, but a plastic bag is not.' Maya asks, 'What about compost?' Daniel says, 'Compost is old food and leaves that break down to feed the soil. We compost our leftovers, and the soil grows strong. Old food can feed the soil for a new garden. In a circular economy, we use things again and again, and we throw away less.' Maya is happy. She says, 'Thank you, Daniel. I will waste less food and compost our leftovers every day.'",
+      "readingQ": "What does Daniel say about waste?",
+      "readingA": "Most of it goes to a landfill, so waste less food.",
+      "speaking": "Tell a friend about waste. Where does rubbish go? What do you do?",
+      "speakingSample": "I want to tell you about waste. On Friday, Maya talked about waste at work. She said, 'Most of it goes to a landfill. The landfill is almost full, so we must waste less food now.' A bag is biodegradable if it can break down in nature. Compost is old food and leaves that break down to feed the soil. We compost our leftovers every day.",
+      "writing": "Write a short email to a friend. Tell them about waste. Say how you waste less food.",
+      "writingSample": "Dear Tom, I want to tell you about waste. On Friday, Maya talked about waste at work. She said, 'Most of it goes to a landfill. The landfill is almost full, so we must waste less food now.' A bag is biodegradable if it can break down in nature. Compost is old food and leaves that break down to feed the soil. We compost our leftovers every day. Please tell me about your home. Best, Daniel",
+      "sound": "Landfill has its strongest beat on LAND. In landfill, say LAND clearly at the start. In biodegradable, say GRADE clearly in the middle.",
+      "model": "The landfill is almost full, so we waste less food.",
+      "wordTask": "Where does most of our rubbish go?",
+      "wordSample": "To a landfill."
+    },
+    {
+      "unit": 15,
+      "day": 118,
+      "title": "Water and the oceans",
+      "goal": "I can talk about water and the oceans.",
+      "newItems": [
+        {
+          "category": "new_word",
+          "definition": "A thing that makes air, water, or land dirty.",
+          "example": "The river has a new pollutant.",
+          "ipa": "/pəˈlutənt/",
+          "pos": "noun",
+          "status": "new",
+          "word": "pollutant",
+          "day": 118
+        },
+        {
+          "category": "new_word",
+          "definition": "Poison or dirt in air, water, or soil.",
+          "example": "Contamination made the water unsafe.",
+          "ipa": "/kənˌtæməˈneɪʃən/",
+          "pos": "noun",
+          "status": "new",
+          "word": "contamination",
+          "day": 118
+        },
+        {
+          "category": "new_word",
+          "definition": "Dirty water from homes and factories.",
+          "example": "Sewage flows into the sea.",
+          "ipa": "/ˈsuɪdʒ/",
+          "pos": "noun",
+          "status": "new",
+          "word": "sewage",
+          "day": 118
+        },
+        {
+          "category": "fixed_phrase",
+          "definition": "Plastic used once and then thrown away.",
+          "example": "Single-use plastic fills the sea.",
+          "ipa": "/ˈsɪŋɡəl jus ˈplæstɪk/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "single-use plastic",
+          "day": 118
+        },
+        {
+          "category": "fixed_phrase",
+          "definition": "Seven days with no new plastic.",
+          "example": "We tried a plastic-free week.",
+          "ipa": "/ə ˈplæstɪk fri wik/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "a plastic-free week",
+          "day": 118
+        }
+      ],
+      "reviewWords": [
+        "clean",
+        "dirty",
+        "wash",
+        "drink",
+        "cook"
+      ],
+      "mainWord": {
+        "category": "new_word",
+        "definition": "A thing that makes air, water, or land dirty.",
+        "example": "The river has a new pollutant.",
+        "ipa": "/pəˈlutənt/",
+        "pos": "noun",
+        "status": "new",
+        "word": "pollutant",
+        "day": 118
+      },
+      "mainWordForms": "Pollutant is a noun. A thing that makes air, water, or land dirty. The river has a new pollutant.",
+      "pronunciationTarget": {
+        "word": "pollutant",
+        "ipa": "/pəˈlutənt/"
+      },
+      "expression": "Single-use plastic fills the sea.",
+      "use": "Use this when you talk about plastic in the sea.",
+      "expressionTask": "Priya talks to Daniel about the sea. What fills it?",
+      "grammar": "Advanced reported speech: The scientist said that the reef had lost half its coral",
+      "pattern": "The scientist said that the reef had lost half its coral.",
+      "task": "The scientist said that the reef ___ lost half its coral.",
+      "answer": "had",
+      "example": "The scientist said that the reef had lost half its coral.",
+      "context": [
+        "Priya talks to Daniel about the sea at work.",
+        "Single-use plastic fills the sea. We tried a plastic-free week."
+      ],
+      "dialogue": [
+        "Priya: Daniel, what is a pollutant?",
+        "Daniel: A pollutant is a thing that makes water dirty.",
+        "Priya: What is contamination?",
+        "Daniel: Contamination is poison in the water. It made the water unsafe.",
+        "Priya: What about sewage?",
+        "Daniel: Sewage is dirty water from homes. Single-use plastic fills the sea, but we tried a plastic-free week."
+      ],
+      "listening": "On Saturday, Priya talks to Daniel about the sea at work. She asks, 'Daniel, what is a pollutant?' Daniel says, 'A pollutant is a thing that makes water dirty.' Priya asks, 'What is contamination?' Daniel says, 'Contamination is poison in the water. It made the water unsafe.' Daniel is happy. He says, 'Thank you, Priya.'",
+      "question": "What is a pollutant?",
+      "correct": "A thing that makes water dirty",
+      "other": "A kind of fish",
+      "reading": "On Saturday, Priya talks to Daniel about the sea at work at Carter Retail Group. She asks, 'Daniel, what is a pollutant?' Daniel says, 'A pollutant is a thing that makes water dirty. The river has a new pollutant, and the fish are in danger. Contamination is poison or dirt in the water, and it made the water unsafe. Sewage is dirty water from homes and factories, and it flows into the sea.' Priya asks, 'What can we do?' Daniel says, 'Single-use plastic fills the sea, so we tried a plastic-free week. We take shorter showers to save hot water, and we use less plastic every day. The scientist said that the reef had lost half its coral, so we must act now.' Priya is happy. She says, 'Thank you, Daniel. I will try a plastic-free week too.'",
+      "readingQ": "What does Daniel say about the sea?",
+      "readingA": "Single-use plastic fills the sea, so try a plastic-free week.",
+      "speaking": "Tell a friend about the sea. What harms it? What can you do?",
+      "speakingSample": "I want to tell you about the sea. On Saturday, Priya talked about the sea at work. She said, 'A pollutant is a thing that makes water dirty.' Contamination is poison or dirt in the water, and it made the water unsafe. Sewage is dirty water from homes and factories. Single-use plastic fills the sea, so we tried a plastic-free week.",
+      "writing": "Write a short email to a friend. Tell them about the sea. Say what you do to help.",
+      "writingSample": "Dear Tom, I want to tell you about the sea. On Saturday, Priya talked about the sea at work. She said, 'A pollutant is a thing that makes water dirty.' Contamination is poison or dirt in the water, and it made the water unsafe. Sewage is dirty water from homes and factories. Single-use plastic fills the sea, so we tried a plastic-free week. I hope you will join me. Please tell me about your town. Best, Daniel",
+      "sound": "Pollutant has its strongest beat on LOO. In pollutant, say LOO clearly in the middle. In contamination, say NAY clearly in the middle.",
+      "model": "A pollutant makes the river dirty and unsafe.",
+      "wordTask": "What is a thing that makes water dirty?",
+      "wordSample": "A pollutant."
+    },
+    {
+      "unit": 15,
+      "day": 119,
+      "title": "Green business and policy",
+      "goal": "I can talk about green business.",
+      "newItems": [
+        {
+          "category": "new_word",
+          "definition": "Laws made by a government.",
+          "example": "New legislation protects the river.",
+          "ipa": "/ˌlɛdʒəˈsleɪʃən/",
+          "pos": "noun",
+          "status": "new",
+          "word": "legislation",
+          "day": 119
+        },
+        {
+          "category": "new_word",
+          "definition": "Money a government gives to help an activity.",
+          "example": "A subsidy helps farmers use less water.",
+          "ipa": "/ˈsʌbsədi/",
+          "pos": "noun",
+          "status": "new",
+          "word": "subsidy",
+          "day": 119
+        },
+        {
+          "category": "fixed_phrase",
+          "definition": "Work that helps the planet.",
+          "example": "She found a green job.",
+          "ipa": "/ə ɡrin dʒɑb/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "a green job",
+          "day": 119
+        },
+        {
+          "category": "fixed_phrase",
+          "definition": "To buy clothes that someone else wore before.",
+          "example": "I buy second-hand clothes now.",
+          "ipa": "/baɪ ˈsɛkənd hænd kloʊðz/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "buy second-hand clothes",
+          "day": 119
+        },
+        {
+          "category": "fixed_phrase",
+          "definition": "To fix a thing rather than buy a new one.",
+          "example": "Repair instead of replacing your phone.",
+          "ipa": "/rɪˈpɛr ɪnˈstɛd əv rɪˈpleɪsɪŋ/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "repair instead of replacing",
+          "day": 119
+        }
+      ],
+      "reviewWords": [
+        "town",
+        "city",
+        "road",
+        "school",
+        "park"
+      ],
+      "mainWord": {
+        "category": "new_word",
+        "definition": "Laws made by a government.",
+        "example": "New legislation protects the river.",
+        "ipa": "/ˌlɛdʒəˈsleɪʃən/",
+        "pos": "noun",
+        "status": "new",
+        "word": "legislation",
+        "day": 119
+      },
+      "mainWordForms": "Legislation is a noun. Laws made by a government. New legislation protects the river.",
+      "pronunciationTarget": {
+        "word": "legislation",
+        "ipa": "/ˌlɛdʒəˈsleɪʃən/"
+      },
+      "expression": "I buy second-hand clothes now.",
+      "use": "Use this when you talk about shopping with less waste.",
+      "expressionTask": "Daniel talks to Maya about shopping. What does he buy?",
+      "grammar": "Subjunctive: It is vital that every country act now",
+      "pattern": "It is vital that every country act now.",
+      "task": "It is vital that every country ___ now.",
+      "answer": "act",
+      "example": "It is vital that every country act now.",
+      "context": [
+        "Daniel talks to Maya about green business at work.",
+        "I buy second-hand clothes now. She found a green job."
+      ],
+      "dialogue": [
+        "Daniel: Maya, how can business help the planet?",
+        "Maya: New legislation protects the river and the sea.",
+        "Daniel: What is a subsidy?",
+        "Maya: A subsidy is money from the government to help good work.",
+        "Daniel: What is a green job?",
+        "Maya: A green job is work that helps the planet. I buy second-hand clothes now, and I repair instead of replacing my phone."
+      ],
+      "listening": "On Sunday, Daniel talks to Maya about green business at work. He asks, 'Maya, how can business help the planet?' Maya says, 'New legislation protects the river and the sea.' Daniel asks, 'What is a subsidy?' Maya says, 'A subsidy is money from the government to help good work.' Daniel is happy. He says, 'Thank you, Maya.'",
+      "question": "How can business help the planet?",
+      "correct": "New legislation protects the river",
+      "other": "It makes more cars",
+      "reading": "On Sunday, Daniel talks to Maya about green business at work at Carter Retail Group. He asks, 'Maya, how can business help the planet?' Maya says, 'New legislation protects the river and the sea. It is vital that every country act now. A subsidy is money from the government to help good work. A subsidy helps farmers use less water and helps shops use less plastic.' Daniel asks, 'What is a green job?' Maya says, 'A green job is work that helps the planet. She found a green job at a farm. I buy second-hand clothes now, and I repair instead of replacing my phone. That saves money and helps the Earth.' Daniel is happy. He says, 'Thank you, Maya. I will buy second-hand clothes and repair instead of replacing my phone.'",
+      "readingQ": "What does Maya say about green business?",
+      "readingA": "New legislation protects the river and the sea.",
+      "speaking": "Tell a friend about green business. How can shops help the planet?",
+      "speakingSample": "I want to tell you about green business. On Sunday, Maya talked about green business at work. She said, 'New legislation protects the river and the sea.' A subsidy is money from the government to help good work. A green job is work that helps the planet. I buy second-hand clothes now, and I repair instead of replacing my phone.",
+      "writing": "Write a short email to a friend. Tell them about green business. Say what you do.",
+      "writingSample": "Dear Tom, I want to tell you about green business. On Sunday, Maya talked about green business at work. She said, 'New legislation protects the river and the sea.' A subsidy is money from the government to help good work. A green job is work that helps the planet. I buy second-hand clothes now, and I repair instead of replacing my phone. I hope you will try it too. Please tell me about your work. Best, Daniel",
+      "sound": "Legislation has its strongest beat on LAY. In legislation, say LAY clearly in the middle. In subsidy, say SUB clearly at the start.",
+      "model": "New legislation protects the river and the sea.",
+      "wordTask": "What do we call laws made by a government?",
+      "wordSample": "Legislation."
+    },
+    {
+      "unit": 15,
+      "day": 120,
+      "title": "Use environment English in a new situation",
+      "goal": "I can use environment English in a new situation.",
+      "newItems": [
+        {
+          "category": "new_word",
+          "definition": "The death of a whole kind of plant or animal.",
+          "example": "Extinction is forever.",
+          "ipa": "/ɪkˈstɪŋkʃən/",
+          "pos": "noun",
+          "status": "new",
+          "word": "extinction",
+          "day": 120
+        },
+        {
+          "category": "new_word",
+          "definition": "Hunting animals against the law.",
+          "example": "Poaching puts elephants at risk.",
+          "ipa": "/ˈpoʊtʃɪŋ/",
+          "pos": "noun",
+          "status": "new",
+          "word": "poaching",
+          "day": 120
+        },
+        {
+          "category": "new_word",
+          "definition": "A safe place for animals.",
+          "example": "The birds live in a sanctuary.",
+          "ipa": "/ˈsæŋktʃuˌɛri/",
+          "pos": "noun",
+          "status": "new",
+          "word": "sanctuary",
+          "day": 120
+        },
+        {
+          "category": "fixed_phrase",
+          "definition": "To take fewer flights.",
+          "example": "I fly less often now.",
+          "ipa": "/flaɪ lɛs ˈɔfən/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "fly less often",
+          "day": 120
+        },
+        {
+          "category": "fixed_phrase",
+          "definition": "To pay to balance the gas from a flight.",
+          "example": "We offset our flights each year.",
+          "ipa": "/ˈɔfˌsɛt jʊər flaɪts/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "offset your flights",
+          "day": 120
+        }
+      ],
+      "reviewWords": [
+        "week",
+        "month",
+        "year",
+        "today",
+        "tomorrow"
+      ],
+      "mainWord": {
+        "category": "new_word",
+        "definition": "The death of a whole kind of plant or animal.",
+        "example": "Extinction is forever.",
+        "ipa": "/ɪkˈstɪŋkʃən/",
+        "pos": "noun",
+        "status": "new",
+        "word": "extinction",
+        "day": 120
+      },
+      "mainWordForms": "Extinction is a noun. The death of a whole kind of plant or animal. Extinction is forever.",
+      "pronunciationTarget": {
+        "word": "extinction",
+        "ipa": "/ɪkˈstɪŋkʃən/"
+      },
+      "expression": "I fly less often now.",
+      "use": "Use this when you talk about travel and the planet.",
+      "expressionTask": "Daniel meets Sara at a park. What does he do now?",
+      "grammar": "Wish and if only for review: I wish we had started sooner",
+      "pattern": "I wish we had started sooner.",
+      "task": "I wish we had ___ sooner.",
+      "answer": "started",
+      "example": "I wish we had started sooner.",
+      "context": [
+        "Daniel meets Sara at a park and talks about the planet.",
+        "I fly less often now. We offset our flights each year."
+      ],
+      "dialogue": [
+        "Daniel: Sara, do you know what extinction means?",
+        "Sara: Yes. Extinction means a whole kind of animal is gone forever.",
+        "Daniel: What is poaching?",
+        "Sara: Poaching is hunting animals against the law. It puts elephants at risk.",
+        "Daniel: What is a sanctuary?",
+        "Sara: A sanctuary is a safe place for animals. I fly less often now, and we offset our flights each year."
+      ],
+      "listening": "On Monday, Daniel meets Sara at a park. He asks, 'Sara, do you know what extinction means?' Sara says, 'Yes. Extinction means a whole kind of animal is gone forever.' Daniel asks, 'What is poaching?' Sara says, 'Poaching is hunting animals against the law.' Daniel is happy. He says, 'Thank you, Sara. I wish we had started sooner.'",
+      "question": "What does extinction mean?",
+      "correct": "A whole kind of animal is gone",
+      "other": "A new kind of animal",
+      "reading": "On Monday, Daniel meets Sara at a park and talks about the planet. He asks, 'Sara, do you know what extinction means?' Sara says, 'Yes. Extinction means a whole kind of animal is gone forever. Extinction is forever, so we must act now. Poaching is hunting animals against the law, and it puts elephants at risk. A sanctuary is a safe place for animals. The birds live in a sanctuary, and no one can hunt them there.' Daniel says, 'I wish we had started sooner. I fly less often now, and we offset our flights each year. Small changes add up over time.' Daniel says, 'Small changes add up over time, and every person can help.' Sara is happy. She says, 'Thank you, Daniel. I will fly less often too, and we will offset our flights each year.'",
+      "readingQ": "What does Daniel say about the planet?",
+      "readingA": "Small changes add up over time, so fly less often.",
+      "speaking": "Tell a friend about the planet. What can we do to help animals and the Earth?",
+      "speakingSample": "I want to tell you about the planet. On Monday, Daniel talked to Sara at a park. He said, 'Extinction means a whole kind of animal is gone forever. Extinction is forever, so we must act now.' Poaching is hunting animals against the law. A sanctuary is a safe place for animals. I fly less often now, and we offset our flights each year.",
+      "writing": "Write a short email to a friend. Tell them about the planet. Say what you will do.",
+      "writingSample": "Dear Tom, I want to tell you about the planet. On Monday, Daniel talked to Sara at a park. He said, 'Extinction means a whole kind of animal is gone forever. Extinction is forever, so we must act now.' Poaching is hunting animals against the law. A sanctuary is a safe place for animals. I fly less often now, and we offset our flights each year. I hope you will join me. Please tell me about your week. Best, Daniel",
+      "sound": "Extinction has its strongest beat on TINK. In extinction, say TINK clearly in the middle. In poaching, say POACH clearly at the start.",
+      "model": "We must stop extinction before it is too late.",
+      "wordTask": "What do we call the death of a whole kind of animal?",
+      "wordSample": "Extinction.",
+      "transferCheck": {
+        "source": "On Wednesday, Sara reads a note from her neighbour about a recycling project. It says small changes add up over time. Sara talks to her friend Tom at a community garden. She says, 'The birds live in a sanctuary near our town. Small changes add up over time.' Tom says, 'Good. Poaching puts elephants at risk.' Sara says, 'Yes. I fly less often now.' Tom says, 'Good. We offset our flights each year.' Sara is happy.",
+        "dictation": "Small changes add up over time.",
+        "answer": "1. The new checker is Sara. She reads a note from her neighbour about a recycling project and talks to her friend Tom at a community garden. 2. Sara's first job is to say that the birds live in a sanctuary near our town. 3. On Wednesday, Sara says, 'The birds live in a sanctuary near our town. Small changes add up over time.' 4. Small changes add up over time. 5. Sample: On Wednesday, Sara reads a note from her neighbour about a recycling project. It says small changes add up over time. Sara talks to her friend Tom at a community garden. She says, 'The birds live in a sanctuary near our town. Small changes add up over time.' Tom says, 'Good. Poaching puts elephants at risk.' Sara says, 'Yes. I fly less often now.' Tom says, 'Good. We offset our flights each year.' Follow-up: What does Tom tell Sara about elephants? Poaching puts elephants at risk.",
+        "tasks": [
+          [
+            "1 · Identify the people and the new situation",
+            "Who is the new checker, and what does she read?"
+          ],
+          [
+            "2 · Work out what Sara does first",
+            "What is Sara's first job, and what does she say?"
+          ],
+          [
+            "3 · Notice the sentence on Wednesday",
+            "What does Sara say on Wednesday?"
+          ],
+          [
+            "4 · Listen and write",
+            "Write the sentence you hear."
+          ],
+          [
+            "5 · Retell and answer",
+            "Tell the story in order, including the people, the new situation, the first talk, and the result. Then answer one follow-up question."
+          ]
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,953 @@
+{
+  "number": 13,
+  "title": "Time, productivity and balance",
+  "lessons": [
+    {
+      "unit": 13,
+      "day": 97,
+      "title": "What is time management?",
+      "goal": "I can talk about time management.",
+      "newItems": [
+        {
+          "word": "procrastination",
+          "ipa": "/proʊˌkræstəˈneɪʃən/",
+          "pos": "noun",
+          "definition": "Waiting until the last minute to do a job.",
+          "example": "His procrastination makes the job harder.",
+          "category": "new_word",
+          "status": "new",
+          "day": 97
+        },
+        {
+          "word": "efficiency",
+          "ipa": "/ɪˈfɪʃənsi/",
+          "pos": "noun",
+          "definition": "Doing good work without wasting time.",
+          "example": "Good tools help efficiency at work.",
+          "category": "new_word",
+          "status": "new",
+          "day": 97
+        },
+        {
+          "word": "overwhelm",
+          "ipa": "/ˌoʊvɚˈwɛlm/",
+          "pos": "verb",
+          "definition": "To give someone too much work to handle.",
+          "example": "Too many emails can overwhelm a worker.",
+          "category": "new_word",
+          "status": "new",
+          "day": 97
+        },
+        {
+          "word": "beat the clock",
+          "ipa": "/bit ðə klɑk/",
+          "pos": "fixed phrase",
+          "definition": "To finish a job before time runs out.",
+          "example": "We beat the clock and sent the report.",
+          "category": "fixed_phrase",
+          "status": "new",
+          "day": 97
+        },
+        {
+          "word": "time flies",
+          "ipa": "/taɪm flaɪz/",
+          "pos": "fixed phrase",
+          "definition": "Time goes by very fast.",
+          "example": "Time flies when you love your work.",
+          "category": "fixed_phrase",
+          "status": "new",
+          "day": 97
+        }
+      ],
+      "reviewWords": [
+        "team",
+        "work",
+        "office",
+        "meeting",
+        "plan"
+      ],
+      "mainWord": {
+        "word": "procrastination",
+        "ipa": "/proʊˌkræstəˈneɪʃən/",
+        "pos": "noun",
+        "definition": "Waiting until the last minute to do a job.",
+        "example": "His procrastination makes the job harder.",
+        "category": "new_word",
+        "status": "new",
+        "day": 97
+      },
+      "mainWordForms": "Procrastination is a noun. Waiting until the last minute to do a job. His procrastination makes the job harder.",
+      "pronunciationTarget": {
+        "word": "procrastination",
+        "ipa": "/proʊˌkræstəˈneɪʃən/"
+      },
+      "expression": "We beat the clock and sent the report.",
+      "use": "Use this when you tell someone that you finished a job before time ran out.",
+      "expressionTask": "Maya talks to Daniel about time management. What is the problem?",
+      "grammar": "Future perfect: By Friday, I will have finished the report",
+      "pattern": "By Friday, I will have finished the report.",
+      "task": "By Friday, I will have ___ the report.",
+      "answer": "finished",
+      "example": "By Friday, I will have finished the report.",
+      "context": [
+        "Maya talks to Daniel about time management at work.",
+        "We beat the clock and sent the report. Time flies when you love your work."
+      ],
+      "dialogue": [
+        "Maya: Daniel, do you use time management at work?",
+        "Daniel: Not really. Procrastination makes my job harder.",
+        "Maya: I see. Good efficiency helps you finish on time.",
+        "Daniel: True. But too many emails can overwhelm a worker.",
+        "Priya: Yes. We beat the clock and sent the report.",
+        "Maya: Good. Time flies when you love your work."
+      ],
+      "listening": "On Monday, Maya talks to Daniel about time management at work. She says, 'We beat the clock and sent the report. Time flies when you love your work.' Daniel says, 'Procrastination makes my job harder.' Priya says, 'Good efficiency helps you finish on time. Too many emails can overwhelm a worker.' Daniel says, 'Thank you, Maya.' Daniel is happy.",
+      "question": "What does Maya say about the report?",
+      "correct": "We beat the clock and sent the report",
+      "other": "We sent it very late",
+      "reading": "On Monday, Maya talks to Daniel about time management at work at Carter Retail Group. She says, 'We beat the clock and sent the report. Time flies when you love your work.' Daniel says, 'Procrastination makes my job harder.' Maya says, 'Good efficiency helps you finish on time. By Friday, I will have finished the report.' Priya says, 'True. Too many emails can overwhelm a worker. Good efficiency helps us all.' Daniel is happy. He says, 'Thank you, Maya. I will learn how to use time management at work.' Maya says, 'Good. We beat the clock today, and time flies when you love your work. A good plan helps efficiency, and procrastination will not help you.' Daniel says, 'Good. I will beat the clock and finish my work on time.'",
+      "readingQ": "What does Maya say about time management?",
+      "readingA": "We beat the clock and sent the report, and time flies when you love your work.",
+      "speaking": "Tell a friend about time management. What do you do? How do you finish on time?",
+      "speakingSample": "I want to tell you about time management. On Monday, Maya talked about time management at work. She said, 'We beat the clock and sent the report. Time flies when you love your work.' Procrastination makes my job harder. Good efficiency helps you finish on time. Too many emails can overwhelm a worker. I will use time management every day at work.",
+      "writing": "Write a short email to a friend. Tell them about time management. Say what you do and what you learned.",
+      "writingSample": "Dear Tom, I want to tell you about time management. On Monday, Maya talked about time management at work. She said, 'We beat the clock and sent the report. Time flies when you love your work.' Procrastination makes my job harder. Good efficiency helps you finish on time. Too many emails can overwhelm a worker. I will use time management every day. I will beat the clock and finish my work on time. Please tell me about your work. Best, Daniel",
+      "sound": "Procrastination has its strongest beat on CRA. In procrastination, say CRA clearly in the middle. In efficiency, say FI clearly at the start.",
+      "model": "His procrastination makes the job harder.",
+      "wordTask": "What is procrastination?",
+      "wordSample": "It is waiting until the last minute to do a job."
+    },
+    {
+      "unit": 13,
+      "day": 98,
+      "title": "Planning your day",
+      "goal": "I can talk about planning my day.",
+      "newItems": [
+        {
+          "word": "checklist",
+          "ipa": "/ˈtʃɛkˌlɪst/",
+          "pos": "noun",
+          "definition": "A list of jobs to do, in order.",
+          "example": "Write a checklist for the day.",
+          "category": "new_word",
+          "status": "new",
+          "day": 98
+        },
+        {
+          "word": "milestone",
+          "ipa": "/ˈmaɪlˌstoʊn/",
+          "pos": "noun",
+          "definition": "An important step on the way to a goal.",
+          "example": "The first milestone is the draft.",
+          "category": "new_word",
+          "status": "new",
+          "day": 98
+        },
+        {
+          "word": "batch",
+          "ipa": "/bætʃ/",
+          "pos": "verb",
+          "definition": "To do the same small jobs together.",
+          "example": "Batch your emails in the morning.",
+          "category": "new_word",
+          "status": "new",
+          "day": 98
+        },
+        {
+          "word": "block out time",
+          "ipa": "/blɑk aʊt taɪm/",
+          "pos": "fixed phrase",
+          "definition": "To keep a time free in your plan for one job.",
+          "example": "Block out time for deep work.",
+          "category": "fixed_phrase",
+          "status": "new",
+          "day": 98
+        },
+        {
+          "word": "first things first",
+          "ipa": "/fɝst θɪŋz fɝst/",
+          "pos": "fixed phrase",
+          "definition": "Do the most important job first.",
+          "example": "First things first: finish the report.",
+          "category": "fixed_phrase",
+          "status": "new",
+          "day": 98
+        }
+      ],
+      "reviewWords": [
+        "listen",
+        "help",
+        "friend",
+        "happy",
+        "morning"
+      ],
+      "mainWord": {
+        "word": "checklist",
+        "ipa": "/ˈtʃɛkˌlɪst/",
+        "pos": "noun",
+        "definition": "A list of jobs to do, in order.",
+        "example": "Write a checklist for the day.",
+        "category": "new_word",
+        "status": "new",
+        "day": 98
+      },
+      "mainWordForms": "Checklist is a noun. A list of jobs to do, in order. Write a checklist for the day.",
+      "pronunciationTarget": {
+        "word": "checklist",
+        "ipa": "/ˈtʃɛkˌlɪst/"
+      },
+      "expression": "Block out time for deep work.",
+      "use": "Use this when you tell someone to keep a time free for one job.",
+      "expressionTask": "Maya talks to Daniel about planning his day. What should he do first?",
+      "grammar": "Future continuous: This time tomorrow, I will be working on the project",
+      "pattern": "This time tomorrow, I will be working on the project.",
+      "task": "This time tomorrow, I will be ___ on the project.",
+      "answer": "working",
+      "example": "This time tomorrow, I will be working on the project.",
+      "context": [
+        "Maya talks to Daniel about planning his day.",
+        "Block out time for deep work. First things first: finish the report."
+      ],
+      "dialogue": [
+        "Maya: Daniel, how do you plan your day?",
+        "Daniel: I write a checklist for the day.",
+        "Maya: Good. The first milestone is the draft.",
+        "Daniel: Yes. I batch my emails in the morning.",
+        "Priya: True. Block out time for deep work.",
+        "Maya: Good. First things first: finish the report."
+      ],
+      "listening": "On Tuesday, Maya talks to Daniel about planning his day. She says, 'Block out time for deep work. First things first: finish the report.' Daniel says, 'I write a checklist for the day. The first milestone is the draft.' Priya says, 'Good. I batch my emails in the morning.' Daniel says, 'Thank you, Maya.' Daniel is happy.",
+      "question": "What does Daniel write for the day?",
+      "correct": "A checklist for the day",
+      "other": "A long letter",
+      "reading": "On Tuesday, Maya talks to Daniel about planning his day at Carter Retail Group. She says, 'Block out time for deep work. First things first: finish the report. This time tomorrow, I will be working on the project.' Daniel says, 'I write a checklist for the day. The first milestone is the draft. I batch my emails in the morning.' Priya says, 'Good. A checklist helps you plan. Block out time for deep work, and finish the report first.' Maya says, 'True. The first milestone is the draft, and I batch my emails too.' Daniel is happy. He says, 'Thank you, Maya. I will plan my day with a checklist.' Maya says, 'Good. First things first: finish the report, and block out time for deep work every day.' Daniel says, 'Good. I will use a checklist every day, and I will batch my emails in the morning.'",
+      "readingQ": "What does Daniel do to plan his day?",
+      "readingA": "He writes a checklist for the day, and he blocks out time for deep work.",
+      "speaking": "Tell a friend about planning your day. What do you do first? How do you plan?",
+      "speakingSample": "I want to tell you about planning my day. On Tuesday, Maya talked about planning the day. She said, 'Block out time for deep work. First things first: finish the report.' I write a checklist for the day. The first milestone is the draft. I batch my emails in the morning. I will plan my day with a checklist every day.",
+      "writing": "Write a short email to a friend. Tell them about planning your day. Say what you do and what you learned.",
+      "writingSample": "Dear Anna, I want to tell you about planning my day. On Tuesday, Maya talked about planning the day. She said, 'Block out time for deep work. First things first: finish the report.' I write a checklist for the day. The first milestone is the draft. I batch my emails in the morning. I will plan my day with a checklist. I will block out time for deep work every day. Please tell me about your work. Best, Daniel",
+      "sound": "Checklist has its strongest beat on CHECK. In checklist, say CHECK clearly at the start. In milestone, say MILE clearly at the start.",
+      "model": "Write a checklist for the day.",
+      "wordTask": "What is a checklist?",
+      "wordSample": "It is a list of jobs to do, in order."
+    },
+    {
+      "unit": 13,
+      "day": 99,
+      "title": "Deadlines and pressure",
+      "goal": "I can talk about deadlines and pressure.",
+      "newItems": [
+        {
+          "word": "crunch",
+          "ipa": "/krʌntʃ/",
+          "pos": "noun",
+          "definition": "A short time of hard pressure at work.",
+          "example": "We are in a crunch before the launch.",
+          "category": "new_word",
+          "status": "new",
+          "day": 99
+        },
+        {
+          "word": "momentum",
+          "ipa": "/moʊˈmɛntəm/",
+          "pos": "noun",
+          "definition": "The speed you build when you work well.",
+          "example": "Once you start, keep the momentum.",
+          "category": "new_word",
+          "status": "new",
+          "day": 99
+        },
+        {
+          "word": "against the clock",
+          "ipa": "/əˈɡɛnst ðə klɑk/",
+          "pos": "fixed phrase",
+          "definition": "Working fast because time is short.",
+          "example": "She works against the clock today.",
+          "category": "fixed_phrase",
+          "status": "new",
+          "day": 99
+        },
+        {
+          "word": "a race against time",
+          "ipa": "/ə reɪs əˈɡɛnst taɪm/",
+          "pos": "fixed phrase",
+          "definition": "A job you must finish very fast.",
+          "example": "It is a race against time today.",
+          "category": "fixed_phrase",
+          "status": "new",
+          "day": 99
+        },
+        {
+          "word": "the eleventh hour",
+          "ipa": "/ðə ɪˈlɛvənθ ˈaʊɚ/",
+          "pos": "fixed phrase",
+          "definition": "The very last time you can do it.",
+          "example": "Do not leave it to the eleventh hour.",
+          "category": "fixed_phrase",
+          "status": "new",
+          "day": 99
+        }
+      ],
+      "reviewWords": [
+        "agree",
+        "job",
+        "week",
+        "month",
+        "money"
+      ],
+      "mainWord": {
+        "word": "crunch",
+        "ipa": "/krʌntʃ/",
+        "pos": "noun",
+        "definition": "A short time of hard pressure at work.",
+        "example": "We are in a crunch before the launch.",
+        "category": "new_word",
+        "status": "new",
+        "day": 99
+      },
+      "mainWordForms": "Crunch is a noun. A short time of hard pressure at work. We are in a crunch before the launch.",
+      "pronunciationTarget": {
+        "word": "crunch",
+        "ipa": "/krʌntʃ/"
+      },
+      "expression": "It is a race against time today.",
+      "use": "Use this when you tell someone that a job must be finished very fast.",
+      "expressionTask": "Maya talks to Daniel about a deadline. What is the problem?",
+      "grammar": "Inversion: Not only did she miss the deadline, but she also lost the file",
+      "pattern": "Not only did she miss the deadline, but she also lost the file.",
+      "task": "Not only did she ___ the deadline, but she also lost the file.",
+      "answer": "miss",
+      "example": "Not only did she miss the deadline, but she also lost the file.",
+      "context": [
+        "Maya talks to Daniel about a deadline at work.",
+        "It is a race against time today. Do not leave it to the eleventh hour."
+      ],
+      "dialogue": [
+        "Maya: Daniel, are we in a crunch before the launch?",
+        "Daniel: Yes. It is a race against time today.",
+        "Maya: True. Once you start, keep the momentum.",
+        "Daniel: Good. She works against the clock today.",
+        "Priya: Yes. Do not leave it to the eleventh hour.",
+        "Maya: Good. Not only did she miss the deadline, but she also lost the file."
+      ],
+      "listening": "On Wednesday, Maya talks to Daniel about a deadline at work. She says, 'It is a race against time today. Do not leave it to the eleventh hour.' Daniel says, 'Yes. We are in a crunch before the launch.' Priya says, 'Good. Once you start, keep the momentum. She works against the clock today.' Daniel is happy.",
+      "question": "What does Maya say about today?",
+      "correct": "It is a race against time today",
+      "other": "We have a lot of free time",
+      "reading": "On Wednesday, Maya talks to Daniel about a deadline at work at Carter Retail Group. She says, 'It is a race against time today. Do not leave it to the eleventh hour. Not only did she miss the deadline, but she also lost the file.' Daniel says, 'Yes. We are in a crunch before the launch. Once you start, keep the momentum.' Priya says, 'True. She works against the clock today. A crunch is hard, but momentum helps.' Maya says, 'Good. Do not leave it to the eleventh hour. Work against the clock, and keep the momentum.' Daniel is happy. He says, 'Thank you, Maya. I will keep the momentum and finish on time.' Maya says, 'Good. It is a race against time, but we can finish today.' Priya says, 'Good. Keep the momentum, and do not leave it to the eleventh hour.'",
+      "readingQ": "What does Maya say about the deadline?",
+      "readingA": "It is a race against time today, and we must not leave it to the eleventh hour.",
+      "speaking": "Tell a friend about a deadline and pressure. What happened? How did you finish?",
+      "speakingSample": "I want to tell you about a deadline and pressure. On Wednesday, Maya talked about a deadline at work. She said, 'It is a race against time today. Do not leave it to the eleventh hour.' We are in a crunch before the launch. Once you start, keep the momentum. She works against the clock today. I will keep the momentum and finish on time.",
+      "writing": "Write a short email to a friend. Tell them about a deadline and pressure. Say what happened and what you did.",
+      "writingSample": "Dear Tom, I want to tell you about a deadline and pressure. On Wednesday, Maya talked about a deadline at work. She said, 'It is a race against time today. Do not leave it to the eleventh hour.' We are in a crunch before the launch. Once you start, keep the momentum. She works against the clock today. I will keep the momentum and finish on time. Please tell me about your work. Best, Daniel",
+      "sound": "Crunch has its strongest beat on CRUNCH. In crunch, say CRUNCH clearly. In momentum, say MEN clearly at the start.",
+      "model": "We are in a crunch before the launch.",
+      "wordTask": "What is a crunch?",
+      "wordSample": "It is a short time of hard pressure at work."
+    },
+    {
+      "unit": 13,
+      "day": 100,
+      "title": "Saying no and setting limits",
+      "goal": "I can talk about saying no and setting limits.",
+      "newItems": [
+        {
+          "word": "boundary",
+          "ipa": "/ˈbaʊndəri/",
+          "pos": "noun",
+          "definition": "A line that shows what you will or will not do.",
+          "example": "Set a boundary between work and home.",
+          "category": "new_word",
+          "status": "new",
+          "day": 100
+        },
+        {
+          "word": "leisure",
+          "ipa": "/ˈliʒɚ/",
+          "pos": "noun",
+          "definition": "Free time for rest and fun.",
+          "example": "She reads in her leisure time.",
+          "category": "new_word",
+          "status": "new",
+          "day": 100
+        },
+        {
+          "word": "set limits",
+          "ipa": "/sɛt ˈlɪməts/",
+          "pos": "fixed phrase",
+          "definition": "To say what you will and will not do.",
+          "example": "Set limits on your work hours.",
+          "category": "fixed_phrase",
+          "status": "new",
+          "day": 100
+        },
+        {
+          "word": "learn to say no",
+          "ipa": "/lɝn tə seɪ noʊ/",
+          "pos": "fixed phrase",
+          "definition": "To be able to refuse a job in a kind way.",
+          "example": "Learn to say no to extra work.",
+          "category": "fixed_phrase",
+          "status": "new",
+          "day": 100
+        },
+        {
+          "word": "do something in advance",
+          "ipa": "/du ˈsʌmθɪŋ ɪn ədˈvæns/",
+          "pos": "fixed phrase",
+          "definition": "To do a job before you need to.",
+          "example": "Do the work in advance.",
+          "category": "fixed_phrase",
+          "status": "new",
+          "day": 100
+        }
+      ],
+      "reviewWords": [
+        "angry",
+        "late",
+        "early",
+        "busy",
+        "free"
+      ],
+      "mainWord": {
+        "word": "boundary",
+        "ipa": "/ˈbaʊndəri/",
+        "pos": "noun",
+        "definition": "A line that shows what you will or will not do.",
+        "example": "Set a boundary between work and home.",
+        "category": "new_word",
+        "status": "new",
+        "day": 100
+      },
+      "mainWordForms": "Boundary is a noun. A line that shows what you will or will not do. Set a boundary between work and home.",
+      "pronunciationTarget": {
+        "word": "boundary",
+        "ipa": "/ˈbaʊndəri/"
+      },
+      "expression": "Learn to say no to extra work.",
+      "use": "Use this when you tell someone to refuse a job in a kind way.",
+      "expressionTask": "Maya talks to Daniel about saying no. What should he do?",
+      "grammar": "Subjunctive: It is essential that he take a break",
+      "pattern": "It is essential that he take a break.",
+      "task": "It is essential that he ___ a break.",
+      "answer": "take",
+      "example": "It is essential that he take a break.",
+      "context": [
+        "Maya talks to Daniel about saying no at work.",
+        "Learn to say no to extra work. Set limits on your work hours."
+      ],
+      "dialogue": [
+        "Maya: Daniel, do you set limits on your work hours?",
+        "Daniel: No. I must learn to say no to extra work.",
+        "Maya: Good. Set a boundary between work and home.",
+        "Daniel: Yes. She reads in her leisure time.",
+        "Priya: True. Do something in advance when you can.",
+        "Maya: Good. It is essential that he take a break."
+      ],
+      "listening": "On Thursday, Maya talks to Daniel about saying no at work. She says, 'Learn to say no to extra work. Set limits on your work hours.' Daniel says, 'No. I must learn to say no.' Priya says, 'Good. Set a boundary between work and home. She reads in her leisure time.' Daniel says, 'Thank you, Maya.' Daniel is happy.",
+      "question": "What does Maya tell Daniel to do?",
+      "correct": "Learn to say no to extra work",
+      "other": "Say yes to all the work",
+      "reading": "On Thursday, Maya talks to Daniel about saying no at work at Carter Retail Group. She says, 'Learn to say no to extra work. Set limits on your work hours. It is essential that he take a break.' Daniel says, 'No. I must learn to say no. Set a boundary between work and home.' Priya says, 'Good. She reads in her leisure time. Do something in advance when you can, and set limits.' Maya says, 'True. A boundary helps you rest. Learn to say no, and do something in advance.' Daniel is happy. He says, 'Thank you, Maya. I will set limits and learn to say no.' Maya says, 'Good. Set a boundary between work and home, and take a break.' Daniel says, 'Good. I will learn to say no, and I will set limits every day.'",
+      "readingQ": "What does Maya tell Daniel to do?",
+      "readingA": "Learn to say no to extra work, and set limits on his work hours.",
+      "speaking": "Tell a friend about saying no and setting limits. What did you do? How did you feel?",
+      "speakingSample": "I want to tell you about saying no and setting limits. On Thursday, Maya talked about saying no at work. She said, 'Learn to say no to extra work. Set limits on your work hours.' I must learn to say no. Set a boundary between work and home. She reads in her leisure time. I will set limits and learn to say no.",
+      "writing": "Write a short email to a friend. Tell them about saying no and setting limits. Say what you did and what you learned.",
+      "writingSample": "Dear Lisa, I want to tell you about saying no and setting limits. On Thursday, Maya talked about saying no at work. She said, 'Learn to say no to extra work. Set limits on your work hours.' I must learn to say no. Set a boundary between work and home. She reads in her leisure time. I will set limits and learn to say no every day. Please tell me about your work. Best, Daniel",
+      "sound": "Boundary has its strongest beat on BOUND. In boundary, say BOUND clearly at the start. In leisure, say LEA clearly at the start.",
+      "model": "Set a boundary between work and home.",
+      "wordTask": "What is a boundary?",
+      "wordSample": "It is a line that shows what you will or will not do."
+    },
+    {
+      "unit": 13,
+      "day": 101,
+      "title": "Focus and deep work",
+      "goal": "I can talk about focus and deep work.",
+      "newItems": [
+        {
+          "word": "concentration",
+          "ipa": "/ˌkɑnsənˈtreɪʃən/",
+          "pos": "noun",
+          "definition": "Thinking hard about one thing only.",
+          "example": "Deep work needs concentration.",
+          "category": "new_word",
+          "status": "new",
+          "day": 101
+        },
+        {
+          "word": "flow",
+          "ipa": "/floʊ/",
+          "pos": "noun",
+          "definition": "Working well, without a stop.",
+          "example": "I was in a flow all morning.",
+          "category": "new_word",
+          "status": "new",
+          "day": 101
+        },
+        {
+          "word": "sprint",
+          "ipa": "/sprɪnt/",
+          "pos": "noun",
+          "definition": "A short time of fast, hard work.",
+          "example": "We work in a two-week sprint.",
+          "category": "new_word",
+          "status": "new",
+          "day": 101
+        },
+        {
+          "word": "in one go",
+          "ipa": "/ɪn wʌn ɡoʊ/",
+          "pos": "fixed phrase",
+          "definition": "All at once, without a stop.",
+          "example": "She read it in one go.",
+          "category": "fixed_phrase",
+          "status": "new",
+          "day": 101
+        },
+        {
+          "word": "at a stretch",
+          "ipa": "/æt ə strɛtʃ/",
+          "pos": "fixed phrase",
+          "definition": "Without a stop, all at once.",
+          "example": "She worked for hours at a stretch.",
+          "category": "fixed_phrase",
+          "status": "new",
+          "day": 101
+        }
+      ],
+      "reviewWords": [
+        "client",
+        "email",
+        "phone",
+        "lunch",
+        "call"
+      ],
+      "mainWord": {
+        "word": "concentration",
+        "ipa": "/ˌkɑnsənˈtreɪʃən/",
+        "pos": "noun",
+        "definition": "Thinking hard about one thing only.",
+        "example": "Deep work needs concentration.",
+        "category": "new_word",
+        "status": "new",
+        "day": 101
+      },
+      "mainWordForms": "Concentration is a noun. Thinking hard about one thing only. Deep work needs concentration.",
+      "pronunciationTarget": {
+        "word": "concentration",
+        "ipa": "/ˌkɑnsənˈtreɪʃən/"
+      },
+      "expression": "I will read it in one go.",
+      "use": "Use this when you tell someone you will finish something without a stop.",
+      "expressionTask": "Maya talks to Daniel about deep work. What should he do?",
+      "grammar": "Wish and if only: I wish I had more time",
+      "pattern": "I wish I had more time.",
+      "task": "I wish I ___ more time.",
+      "answer": "had",
+      "example": "I wish I had more time.",
+      "context": [
+        "Maya talks to Daniel about focus and deep work.",
+        "I will read it in one go. She worked for hours at a stretch."
+      ],
+      "dialogue": [
+        "Maya: Daniel, how do you do deep work?",
+        "Daniel: Deep work needs concentration.",
+        "Maya: Good. I was in a flow all morning.",
+        "Daniel: Yes. We work in a two-week sprint.",
+        "Priya: True. I will read it in one go.",
+        "Maya: Good. She worked for hours at a stretch."
+      ],
+      "listening": "On Friday, Maya talks to Daniel about focus and deep work. She says, 'I will read it in one go. She worked for hours at a stretch.' Daniel says, 'Deep work needs concentration.' Priya says, 'Good. I was in a flow all morning. We work in a two-week sprint.' Daniel says, 'Thank you, Maya.' Daniel is happy.",
+      "question": "What does Daniel say deep work needs?",
+      "correct": "Concentration",
+      "other": "A lot of noise",
+      "reading": "On Friday, Maya talks to Daniel about focus and deep work at Carter Retail Group. She says, 'I will read it in one go. She worked for hours at a stretch. I wish I had more time.' Daniel says, 'Deep work needs concentration. I was in a flow all morning.' Priya says, 'Good. We work in a two-week sprint. I will read it in one go.' Maya says, 'True. Concentration helps you work well. A sprint needs flow, and you can read it in one go.' Daniel is happy. He says, 'Thank you, Maya. I will work in a sprint and keep my concentration.' Maya says, 'Good. Work for hours at a stretch, and keep your flow.' Priya says, 'Good. Keep your concentration, and work in a sprint.' Maya says, 'True. A sprint needs flow, and concentration helps you work well.'",
+      "readingQ": "What does Daniel say deep work needs?",
+      "readingA": "Concentration, and working in a flow without a stop.",
+      "speaking": "Tell a friend about focus and deep work. What did you do? How did it help?",
+      "speakingSample": "I want to tell you about focus and deep work. On Friday, Maya talked about focus and deep work. She said, 'I will read it in one go. She worked for hours at a stretch.' Deep work needs concentration. I was in a flow all morning. We work in a two-week sprint. I will keep my concentration every day at work.",
+      "writing": "Write a short email to a friend. Tell them about focus and deep work. Say what you did and what you learned.",
+      "writingSample": "Dear Tom, I want to tell you about focus and deep work. On Friday, Maya talked about focus and deep work. She said, 'I will read it in one go. She worked for hours at a stretch.' Deep work needs concentration. I was in a flow all morning. We work in a two-week sprint. I will keep my concentration and work in a sprint every day at work. Please tell me about your work. Best, Daniel",
+      "sound": "Concentration has its strongest beat on TRA. In concentration, say TRA clearly in the middle. In flow, say FLOW clearly.",
+      "model": "Deep work needs concentration.",
+      "wordTask": "What is concentration?",
+      "wordSample": "It is thinking hard about one thing only."
+    },
+    {
+      "unit": 13,
+      "day": 102,
+      "title": "Meetings that waste time",
+      "goal": "I can talk about meetings that waste time.",
+      "newItems": [
+        {
+          "word": "allocate",
+          "ipa": "/ˈæləˌkeɪt/",
+          "pos": "verb",
+          "definition": "To give time or money to a job.",
+          "example": "Please allocate one hour to the report.",
+          "category": "new_word",
+          "status": "new",
+          "day": 102
+        },
+        {
+          "word": "slot",
+          "ipa": "/slɑt/",
+          "pos": "noun",
+          "definition": "A short time in a plan for one job.",
+          "example": "Book a slot for the call.",
+          "category": "new_word",
+          "status": "new",
+          "day": 102
+        },
+        {
+          "word": "keep track of time",
+          "ipa": "/kip træk əv taɪm/",
+          "pos": "fixed phrase",
+          "definition": "To know how much time you use.",
+          "example": "Keep track of time in meetings.",
+          "category": "fixed_phrase",
+          "status": "new",
+          "day": 102
+        },
+        {
+          "word": "stick to a schedule",
+          "ipa": "/stɪk tə ə ˈskɛdʒul/",
+          "pos": "fixed phrase",
+          "definition": "To follow your plan for the day.",
+          "example": "Stick to a schedule and you will finish.",
+          "category": "fixed_phrase",
+          "status": "new",
+          "day": 102
+        },
+        {
+          "word": "a waste of time",
+          "ipa": "/ə weɪst əv taɪm/",
+          "pos": "fixed phrase",
+          "definition": "Time that you use for nothing good.",
+          "example": "That meeting was a waste of time.",
+          "category": "fixed_phrase",
+          "status": "new",
+          "day": 102
+        }
+      ],
+      "reviewWords": [
+        "idea",
+        "story",
+        "question",
+        "book",
+        "school"
+      ],
+      "mainWord": {
+        "word": "allocate",
+        "ipa": "/ˈæləˌkeɪt/",
+        "pos": "verb",
+        "definition": "To give time or money to a job.",
+        "example": "Please allocate one hour to the report.",
+        "category": "new_word",
+        "status": "new",
+        "day": 102
+      },
+      "mainWordForms": "Allocate is a verb. To give time or money to a job. Please allocate one hour to the report.",
+      "pronunciationTarget": {
+        "word": "allocate",
+        "ipa": "/ˈæləˌkeɪt/"
+      },
+      "expression": "Keep track of time in meetings.",
+      "use": "Use this when you tell someone to know how much time they use.",
+      "expressionTask": "Maya talks to Daniel about meetings. What is the problem?",
+      "grammar": "Modal perfects for speculation: He must have forgotten the meeting",
+      "pattern": "He must have forgotten the meeting.",
+      "task": "He must have ___ the meeting.",
+      "answer": "forgotten",
+      "example": "He must have forgotten the meeting.",
+      "context": [
+        "Maya talks to Daniel about meetings that waste time.",
+        "Keep track of time in meetings. Stick to a schedule and you will finish."
+      ],
+      "dialogue": [
+        "Maya: Daniel, why do meetings waste time?",
+        "Daniel: That meeting was a waste of time.",
+        "Maya: True. Please allocate one hour to the report.",
+        "Daniel: Good. Book a slot for the call.",
+        "Priya: Yes. Keep track of time in meetings.",
+        "Maya: Good. Stick to a schedule and you will finish."
+      ],
+      "listening": "On Saturday, Maya talks to Daniel about meetings that waste time. She says, 'Keep track of time in meetings. Stick to a schedule and you will finish.' Daniel says, 'That meeting was a waste of time.' Priya says, 'Good. Please allocate one hour to the report. Book a slot for the call.' Daniel is happy.",
+      "question": "What does Daniel say about the meeting?",
+      "correct": "That meeting was a waste of time",
+      "other": "That meeting was very short",
+      "reading": "On Saturday, Maya talks to Daniel about meetings that waste time at Carter Retail Group. She says, 'Keep track of time in meetings. Stick to a schedule and you will finish. He must have forgotten the meeting.' Daniel says, 'That meeting was a waste of time. Please allocate one hour to the report.' Priya says, 'Good. Book a slot for the call. Keep track of time in meetings, and stick to a schedule.' Maya says, 'True. A waste of time is bad for the team. Allocate one hour to the report.' Daniel is happy. He says, 'Thank you, Maya. I will keep track of time in meetings.' Maya says, 'Good. Stick to a schedule, and book a slot for the call.' Daniel says, 'Good. I will allocate one hour to the report every day.'",
+      "readingQ": "What does Maya tell Daniel to do in meetings?",
+      "readingA": "Keep track of time in meetings, and stick to a schedule.",
+      "speaking": "Tell a friend about meetings that waste time. What happened? What did you do?",
+      "speakingSample": "I want to tell you about meetings that waste time. On Saturday, Maya talked about meetings that waste time. She said, 'Keep track of time in meetings. Stick to a schedule and you will finish.' That meeting was a waste of time. Please allocate one hour to the report. Book a slot for the call. I will keep track of time.",
+      "writing": "Write a short email to a friend. Tell them about meetings that waste time. Say what happened and what you learned.",
+      "writingSample": "Dear Anna, I want to tell you about meetings that waste time. On Saturday, Maya talked about meetings that waste time. She said, 'Keep track of time in meetings. Stick to a schedule and you will finish.' That meeting was a waste of time. Please allocate one hour to the report. Book a slot for the call. I will keep track of time in meetings every day. Please tell me about your work. Best, Daniel",
+      "sound": "Allocate has its strongest beat on LO. In allocate, say LO clearly in the middle. In slot, say SLOT clearly.",
+      "model": "Please allocate one hour to the report.",
+      "wordTask": "What does allocate mean?",
+      "wordSample": "It means to give time or money to a job."
+    },
+    {
+      "unit": 13,
+      "day": 103,
+      "title": "Rest, sleep and balance",
+      "goal": "I can talk about rest, sleep and balance.",
+      "newItems": [
+        {
+          "word": "recharge",
+          "ipa": "/riˈtʃɑrdʒ/",
+          "pos": "verb",
+          "definition": "To rest so you feel strong again.",
+          "example": "A walk can recharge your mind.",
+          "category": "new_word",
+          "status": "new",
+          "day": 103
+        },
+        {
+          "word": "unwind",
+          "ipa": "/ʌnˈwaɪnd/",
+          "pos": "verb",
+          "definition": "To relax after a hard day.",
+          "example": "She likes to unwind with a book.",
+          "category": "new_word",
+          "status": "new",
+          "day": 103
+        },
+        {
+          "word": "wellbeing",
+          "ipa": "/ˈwɛlˌbiɪŋ/",
+          "pos": "noun",
+          "definition": "Feeling healthy and happy in body and mind.",
+          "example": "Rest is good for your wellbeing.",
+          "category": "new_word",
+          "status": "new",
+          "day": 103
+        },
+        {
+          "word": "recharge your batteries",
+          "ipa": "/riˈtʃɑrdʒ jɔr ˈbætəriz/",
+          "pos": "fixed phrase",
+          "definition": "To rest so you feel strong again.",
+          "example": "A good weekend can recharge your batteries.",
+          "category": "fixed_phrase",
+          "status": "new",
+          "day": 103
+        },
+        {
+          "word": "in your spare time",
+          "ipa": "/ɪn jɔr spɛr taɪm/",
+          "pos": "fixed phrase",
+          "definition": "In the free time you have.",
+          "example": "What do you do in your spare time?",
+          "category": "fixed_phrase",
+          "status": "new",
+          "day": 103
+        }
+      ],
+      "reviewWords": [
+        "new",
+        "old",
+        "big",
+        "small",
+        "easy"
+      ],
+      "mainWord": {
+        "word": "recharge",
+        "ipa": "/riˈtʃɑrdʒ/",
+        "pos": "verb",
+        "definition": "To rest so you feel strong again.",
+        "example": "A walk can recharge your mind.",
+        "category": "new_word",
+        "status": "new",
+        "day": 103
+      },
+      "mainWordForms": "Recharge is a verb. To rest so you feel strong again. A walk can recharge your mind.",
+      "pronunciationTarget": {
+        "word": "recharge",
+        "ipa": "/riˈtʃɑrdʒ/"
+      },
+      "expression": "A good weekend can recharge your batteries.",
+      "use": "Use this when you tell someone that rest can make them feel strong again.",
+      "expressionTask": "Maya talks to Daniel about rest. Why is rest good?",
+      "grammar": "Hedging: It seems that rest helps you work better",
+      "pattern": "It seems that rest helps you work better.",
+      "task": "It seems that rest ___ you work better.",
+      "answer": "helps",
+      "example": "It seems that rest helps you work better.",
+      "context": [
+        "Maya talks to Daniel about rest, sleep and balance.",
+        "A good weekend can recharge your batteries. What do you do in your spare time?"
+      ],
+      "dialogue": [
+        "Maya: Daniel, why is rest good for work?",
+        "Daniel: A walk can recharge your mind.",
+        "Maya: Good. She likes to unwind with a book.",
+        "Daniel: Yes. Rest is good for your wellbeing.",
+        "Priya: True. A good weekend can recharge your batteries.",
+        "Maya: Good. What do you do in your spare time?"
+      ],
+      "listening": "On Sunday, Maya talks to Daniel about rest, sleep and balance. She says, 'A good weekend can recharge your batteries. What do you do in your spare time?' Daniel says, 'A walk can recharge your mind.' Priya says, 'Good. She likes to unwind with a book. Rest is good for your wellbeing.' Daniel is happy.",
+      "question": "What can a good weekend do?",
+      "correct": "Recharge your batteries",
+      "other": "Make you more tired",
+      "reading": "On Sunday, Maya talks to Daniel about rest, sleep and balance at Carter Retail Group. She says, 'A good weekend can recharge your batteries. What do you do in your spare time? It seems that rest helps you work better.' Daniel says, 'A walk can recharge your mind. She likes to unwind with a book.' Priya says, 'Good. Rest is good for your wellbeing. A good weekend can recharge your batteries.' Maya says, 'True. Unwind with a book, and rest is good for your wellbeing.' Daniel is happy. He says, 'Thank you, Maya. I will rest in my spare time.' Maya says, 'Good. A walk can recharge your mind, and rest helps you work better.' Daniel says, 'Good. I will unwind with a book, and rest is good for my wellbeing.'",
+      "readingQ": "What does Maya say about rest?",
+      "readingA": "A good weekend can recharge your batteries, and rest helps you work better.",
+      "speaking": "Tell a friend about rest, sleep and balance. What do you do? How does rest help you?",
+      "speakingSample": "I want to tell you about rest, sleep and balance. On Sunday, Maya talked about rest, sleep and balance. She said, 'A good weekend can recharge your batteries. What do you do in your spare time?' A walk can recharge your mind. She likes to unwind with a book. Rest is good for your wellbeing. I will rest in my spare time.",
+      "writing": "Write a short email to a friend. Tell them about rest, sleep and balance. Say what you do and what you learned.",
+      "writingSample": "Dear Tom, I want to tell you about rest, sleep and balance. On Sunday, Maya talked about rest, sleep and balance. She said, 'A good weekend can recharge your batteries. What do you do in your spare time?' A walk can recharge your mind. She likes to unwind with a book. Rest is good for your wellbeing. I will rest in my spare time every week and unwind with a book. Please tell me about your work. Best, Daniel",
+      "sound": "Recharge has its strongest beat on CHARGE. In recharge, say CHARGE clearly at the end. In unwind, say WIND clearly at the end.",
+      "model": "A walk can recharge your mind.",
+      "wordTask": "What does recharge mean?",
+      "wordSample": "It means to rest so you feel strong again."
+    },
+    {
+      "unit": 13,
+      "day": 104,
+      "title": "Use time English in a new situation",
+      "goal": "I can use time English in a new situation.",
+      "newItems": [
+        {
+          "word": "harmony",
+          "ipa": "/ˈhɑrməni/",
+          "pos": "noun",
+          "definition": "When work and life fit well together.",
+          "example": "She looks for harmony in her life.",
+          "category": "new_word",
+          "status": "new",
+          "day": 104
+        },
+        {
+          "word": "pause",
+          "ipa": "/pɔz/",
+          "pos": "verb",
+          "definition": "To stop for a short time.",
+          "example": "Pause and take a breath.",
+          "category": "new_word",
+          "status": "new",
+          "day": 104
+        },
+        {
+          "word": "call it a day",
+          "ipa": "/kɔl ɪt ə deɪ/",
+          "pos": "fixed phrase",
+          "definition": "To stop work for the day.",
+          "example": "It is late, so call it a day.",
+          "category": "fixed_phrase",
+          "status": "new",
+          "day": 104
+        },
+        {
+          "word": "save time",
+          "ipa": "/seɪv taɪm/",
+          "pos": "fixed phrase",
+          "definition": "To do a job in less time.",
+          "example": "A good plan can save time.",
+          "category": "fixed_phrase",
+          "status": "new",
+          "day": 104
+        },
+        {
+          "word": "take it one step at a time",
+          "ipa": "/teɪk ɪt wʌn stɛp æt ə taɪm/",
+          "pos": "fixed phrase",
+          "definition": "To do a big job in small steps.",
+          "example": "Take it one step at a time.",
+          "category": "fixed_phrase",
+          "status": "new",
+          "day": 104
+        }
+      ],
+      "reviewWords": [
+        "sorry",
+        "good",
+        "time",
+        "day",
+        "home"
+      ],
+      "mainWord": {
+        "word": "harmony",
+        "ipa": "/ˈhɑrməni/",
+        "pos": "noun",
+        "definition": "When work and life fit well together.",
+        "example": "She looks for harmony in her life.",
+        "category": "new_word",
+        "status": "new",
+        "day": 104
+      },
+      "mainWordForms": "Harmony is a noun. When work and life fit well together. She looks for harmony in her life.",
+      "pronunciationTarget": {
+        "word": "harmony",
+        "ipa": "/ˈhɑrməni/"
+      },
+      "expression": "It is late, so call it a day.",
+      "use": "Use this when you tell someone to stop work for the day.",
+      "expressionTask": "Daniel meets Sara at a park. What does Sara want to do?",
+      "grammar": "Review: I can use time English in a new situation",
+      "pattern": "I can use time English in a new situation.",
+      "task": "I can ___ time English in a new situation.",
+      "answer": "use",
+      "example": "I can use time English in a new situation.",
+      "context": [
+        "Daniel meets Sara at a park.",
+        "It is late, so call it a day. Take it one step at a time."
+      ],
+      "dialogue": [
+        "Daniel: Sara, do you have harmony in your life?",
+        "Sara: Yes. She looks for harmony in her life.",
+        "Daniel: Good. Pause and take a breath.",
+        "Sara: Yes. A good plan can save time.",
+        "Daniel: True. Take it one step at a time.",
+        "Sara: Good. It is late, so call it a day."
+      ],
+      "listening": "On Monday, Daniel meets Sara at a park. Sara says, 'She looks for harmony in her life. Pause and take a breath.' Daniel says, 'Good. A good plan can save time. Take it one step at a time.' Sara says, 'Yes. It is late, so call it a day.' Sara says, 'Thank you, Daniel.' Daniel is happy.",
+      "question": "What does Sara look for in her life?",
+      "correct": "Harmony in her life",
+      "other": "A new job",
+      "reading": "On Monday, Daniel meets Sara at a park. Sara says, 'She looks for harmony in her life. Pause and take a breath. I can use time English in a new situation.' Daniel says, 'Good. A good plan can save time. Take it one step at a time.' Sara says, 'Yes. It is late, so call it a day. A good plan can save time, and harmony helps.' Daniel says, 'Good. Pause and take a breath. Take it one step at a time.' Sara is happy. She says, 'Thank you. I will save time and look for harmony.' Daniel says, 'Good. It is late, so call it a day, and take it one step at a time.' Sara says, 'Good. I will take it one step at a time, and I will save time.'",
+      "readingQ": "What does Sara look for in her life?",
+      "readingA": "Harmony in her life, and she saves time with a good plan.",
+      "speaking": "Tell a friend about time in a new situation. What did you do? How did it end?",
+      "speakingSample": "I want to tell you about time in a new situation. On Monday, Daniel met Sara at a park. Sara said, 'She looks for harmony in her life. Pause and take a breath.' A good plan can save time. Take it one step at a time. It is late, so call it a day. I will save time and look for harmony.",
+      "writing": "Write a short email to a friend. Tell them about time in a new situation. Say what you did and how it ended.",
+      "writingSample": "Dear Anna, I want to tell you about time in a new situation. On Monday, Daniel met Sara at a park. Sara said, 'She looks for harmony in her life. Pause and take a breath.' A good plan can save time. Take it one step at a time. It is late, so call it a day. I will save time and look for harmony too, and I will pause and take a breath. Please tell me about your work. Best, Sara",
+      "sound": "Harmony has its strongest beat on HAR. In harmony, say HAR clearly at the start. In pause, say PAUSE clearly.",
+      "model": "She looks for harmony in her life.",
+      "wordTask": "What is harmony?",
+      "wordSample": "It is when work and life fit well together.",
+      "transferCheck": {
+        "source": "On Tuesday, Sara reads a note from her friend about a busy week. It says take it one step at a time. Sara talks to her friend Tom at a park. She says, 'I look for harmony in my life. Pause and take a breath.' Tom says, 'Good. A good plan can save time.' Sara says, 'Yes. It is late, so call it a day.' Tom says, 'Good. Take it one step at a time.' Sara is happy.",
+        "dictation": "Take it one step at a time.",
+        "answer": "1. The new checker is Sara. She reads a note from her friend about a busy week and talks to her friend Tom at a park. 2. Sara's first job is to say that she looks for harmony in her life. 3. On Tuesday, Sara says, 'I look for harmony in my life. Pause and take a breath.' 4. Take it one step at a time. 5. Sample: On Tuesday, Sara reads a note from her friend about a busy week. It says take it one step at a time. Sara talks to her friend Tom at a park. She says, 'I look for harmony in my life. Pause and take a breath.' Tom says, 'Good. A good plan can save time.' Sara says, 'Yes. It is late, so call it a day.' Tom says, 'Good. Take it one step at a time.' Follow-up: What does Tom tell Sara to do? Take it one step at a time.",
+        "tasks": [
+          [
+            "1 · Identify the people and the new situation",
+            "Who is the new checker, and what does she read?"
+          ],
+          [
+            "2 · Work out what Sara does first",
+            "What is Sara's first job, and what does she say?"
+          ],
+          [
+            "3 · Notice the sentence on Tuesday",
+            "What does Sara say on Tuesday?"
+          ],
+          [
+            "4 · Listen and write",
+            "Write the sentence you hear."
+          ],
+          [
+            "5 · Retell and answer",
+            "Tell the story in order, including the people, the new situation, the first talk, and the result. Then answer one follow-up question."
+          ]
+        ]
+      }
+    }
+  ]
+}

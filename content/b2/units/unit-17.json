@@ -1,0 +1,953 @@
+{
+  "number": 17,
+  "title": "Travel, culture shock and adaptation",
+  "lessons": [
+    {
+      "unit": 17,
+      "day": 129,
+      "title": "Arriving in a new country",
+      "goal": "I can talk about arriving in a new country.",
+      "newItems": [
+        {
+          "category": "new_word",
+          "day": 129,
+          "definition": "A short stop between two flights on a trip.",
+          "example": "We have a two-hour layover in Dubai.",
+          "ipa": "/ˈleɪˌoʊvɚ/",
+          "pos": "noun",
+          "status": "new",
+          "word": "layover"
+        },
+        {
+          "category": "new_word",
+          "day": 129,
+          "definition": "A small book of useful words in a foreign language.",
+          "example": "She carries a phrasebook in her bag.",
+          "ipa": "/ˈfreɪzˌbʊk/",
+          "pos": "noun",
+          "status": "new",
+          "word": "phrasebook"
+        },
+        {
+          "category": "fixed_phrase",
+          "day": 129,
+          "definition": "To arrange and pay for a plane trip in advance.",
+          "example": "We book a flight to Paris next month.",
+          "ipa": "/bʊk ə flaɪt/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "book a flight"
+        },
+        {
+          "category": "fixed_phrase",
+          "day": 129,
+          "definition": "To start a trip by car or on foot.",
+          "example": "We hit the road early in the morning.",
+          "ipa": "/hɪt ðə roʊd/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "hit the road"
+        },
+        {
+          "category": "fixed_phrase",
+          "day": 129,
+          "definition": "To go from one country into another.",
+          "example": "We cross the border by train.",
+          "ipa": "/krɔs ðə ˈbɔrdɚ/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "cross the border"
+        }
+      ],
+      "reviewWords": [
+        "travel",
+        "trip",
+        "hotel",
+        "train",
+        "plane"
+      ],
+      "mainWord": {
+        "category": "new_word",
+        "day": 129,
+        "definition": "A short stop between two flights on a trip.",
+        "example": "We have a two-hour layover in Dubai.",
+        "ipa": "/ˈleɪˌoʊvɚ/",
+        "pos": "noun",
+        "status": "new",
+        "word": "layover"
+      },
+      "mainWordForms": "Layover is a noun. A short stop between two flights on a trip. We have a two-hour layover in Dubai.",
+      "pronunciationTarget": {
+        "word": "layover",
+        "ipa": "/ˈleɪˌoʊvɚ/"
+      },
+      "expression": "We book a flight to Paris next month.",
+      "use": "Use this when you talk about travel plans.",
+      "expressionTask": "Daniel talks to Maya about his trip. What does he do?",
+      "grammar": "Future perfect: By the time we land, we will have flown for ten hours",
+      "pattern": "By the time we land, we will have flown for ten hours.",
+      "task": "By the time we land, we will have ___ for ten hours.",
+      "answer": "flown",
+      "example": "By the time we land, we will have flown for ten hours.",
+      "context": [
+        "Daniel talks to Maya about his trip to Japan at work.",
+        "We book a flight to Paris next month. We hit the road at dawn."
+      ],
+      "dialogue": [
+        "Daniel: Maya, I need to book a flight to Japan.",
+        "Maya: When do you leave?",
+        "Daniel: We book a flight to Paris next month, and Japan is first on the list.",
+        "Maya: Do you have a long layover?",
+        "Daniel: Yes. We have a two-hour layover in Dubai. I carry my phrasebook in my bag.",
+        "Maya: Good. We hit the road at dawn, and then we cross the border by train."
+      ],
+      "listening": "On Monday, Daniel talks to Maya about his trip to Japan. He says, 'Maya, I need to book a flight to Japan.' Maya asks, 'When do you leave?' Daniel says, 'We book a flight to Paris next month, and Japan is first on the list.' Maya asks, 'Do you have a long layover?' Daniel says, 'Yes. We have a two-hour layover in Dubai.'",
+      "question": "What does Daniel ask about?",
+      "correct": "A flight to Japan",
+      "other": "A new car",
+      "reading": "On Monday, Daniel talks to Maya about his trip to Japan at Carter Retail Group. He says, 'Maya, I need to book a flight to Japan.' Maya asks, 'When do you leave?' Daniel says, 'We book a flight to Paris next month, and Japan is first on the list. We have a two-hour layover in Dubai, so I carry my phrasebook in my bag.' Maya says, 'Good. We hit the road at dawn, and then we cross the border by train. By the time we land, we will have flown for ten hours.' Daniel is happy. He says, 'Thank you, Maya. I want to see Japan in the spring, and I will learn some new words before I go.' Maya says, 'Good. A trip to a new country is a big step. Take your phrasebook, and have a safe trip.'",
+      "readingQ": "What does Daniel need?",
+      "readingA": "A flight to Japan.",
+      "speaking": "Tell a friend about a trip. Where do you go? How do you travel?",
+      "speakingSample": "I want to tell you about my trip. On Monday, Daniel talked about his trip to Japan. He said, 'I need to book a flight to Japan.' We book a flight to Paris next month, and Japan is first on the list. We have a two-hour layover in Dubai, so I carry my phrasebook in my bag. We hit the road at dawn, and we cross the border by train.",
+      "writing": "Write a short email to a friend. Tell them about a trip. Say how you travel.",
+      "writingSample": "Dear Tom, I want to tell you about my trip. On Monday, Daniel talked about his trip to Japan at work. He said, 'I need to book a flight to Japan.' We book a flight to Paris next month, and Japan is first on the list. We have a two-hour layover in Dubai, so I carry my phrasebook in my bag. We hit the road at dawn, and then we cross the border by train. Please tell me about your trip. Best, Daniel",
+      "sound": "Layover has its strongest beat on LAY. In layover, say LAY clearly at the start. In phrasebook, say PHRASE clearly at the start.",
+      "model": "We had a long layover in Dubai.",
+      "wordTask": "What does Daniel ask about?",
+      "wordSample": "A flight to Japan."
+    },
+    {
+      "unit": 17,
+      "day": 130,
+      "title": "Culture shock",
+      "goal": "I can talk about culture shock.",
+      "newItems": [
+        {
+          "category": "new_word",
+          "day": 130,
+          "definition": "A confused feeling when everything around you is new.",
+          "example": "Disorientation is common in the first week.",
+          "ipa": "/dɪsˌɔriənˈteɪʃən/",
+          "pos": "noun",
+          "status": "new",
+          "word": "disorientation"
+        },
+        {
+          "category": "new_word",
+          "day": 130,
+          "definition": "Not known to you before; strange and new.",
+          "example": "The food here is unfamiliar to me.",
+          "ipa": "/ʌnfəˈmɪliɚ/",
+          "pos": "adjective",
+          "status": "new",
+          "word": "unfamiliar"
+        },
+        {
+          "category": "fixed_phrase",
+          "day": 130,
+          "definition": "To feel that you do not belong in a new place.",
+          "example": "At first, he felt like a stranger in the new city.",
+          "ipa": "/fɪl laɪk ə ˈstreɪndʒɚ/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "feel like a stranger"
+        },
+        {
+          "category": "fixed_phrase",
+          "day": 130,
+          "definition": "A problem when people cannot understand each other's language.",
+          "example": "A language barrier makes simple shopping hard.",
+          "ipa": "/ə ˈlæŋɡwɪdʒ ˈbæriɚ/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "a language barrier"
+        },
+        {
+          "category": "fixed_phrase",
+          "day": 130,
+          "definition": "A person who feels strange in a new place.",
+          "example": "He felt like a fish out of water at first.",
+          "ipa": "/ə fɪʃ aʊt ʌv ˈwɔtɚ/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "a fish out of water"
+        }
+      ],
+      "reviewWords": [
+        "city",
+        "town",
+        "street",
+        "home",
+        "friend"
+      ],
+      "mainWord": {
+        "category": "new_word",
+        "day": 130,
+        "definition": "A confused feeling when everything around you is new.",
+        "example": "Disorientation is common in the first week.",
+        "ipa": "/dɪsˌɔriənˈteɪʃən/",
+        "pos": "noun",
+        "status": "new",
+        "word": "disorientation"
+      },
+      "mainWordForms": "Disorientation is a noun. A confused feeling when everything around you is new. Disorientation is common in the first week.",
+      "pronunciationTarget": {
+        "word": "disorientation",
+        "ipa": "/dɪsˌɔriənˈteɪʃən/"
+      },
+      "expression": "At first, I feel like a stranger in the new city.",
+      "use": "Use this when you talk about life in a new place.",
+      "expressionTask": "Priya talks to Daniel about his first week. What does he say?",
+      "grammar": "Future continuous: This time next week, we will be living in a new city",
+      "pattern": "This time next week, we will be living in a new city.",
+      "task": "This time next week, we will be ___ in a new city.",
+      "answer": "living",
+      "example": "This time next week, we will be living in a new city.",
+      "context": [
+        "Priya talks to Daniel about his first week in the new country.",
+        "At first, I feel like a stranger in the new city. The food is unfamiliar to me."
+      ],
+      "dialogue": [
+        "Priya: Daniel, how is your first week?",
+        "Daniel: It is hard. At first, I feel like a stranger in the new city.",
+        "Priya: What is disorientation?",
+        "Daniel: Disorientation is a confused feeling when everything is new.",
+        "Priya: What about the language?",
+        "Daniel: A language barrier makes simple shopping hard. I feel like a fish out of water at first."
+      ],
+      "listening": "On Tuesday, Priya talks to Daniel about his first week in the new country. She asks, 'Daniel, how is your first week?' Daniel says, 'It is hard. At first, I feel like a stranger in the new city.' Priya asks, 'What is disorientation?' Daniel says, 'Disorientation is a confused feeling when everything is new.' Daniel is happy. He says, 'Thank you, Priya.'",
+      "question": "How is Daniel's first week?",
+      "correct": "Hard",
+      "other": "Easy",
+      "reading": "On Tuesday, Priya talks to Daniel about his first week in the new country at Carter Retail Group. She asks, 'Daniel, how is your first week?' Daniel says, 'It is hard. At first, I feel like a stranger in the new city. The food here is unfamiliar to me, and a language barrier makes simple shopping hard. Disorientation is common in the first week, and I feel like a fish out of water at first.' Priya says, 'That is normal. This time next week, we will be living in a new city together, and life will be easy.' Daniel is happy. He says, 'Thank you, Priya. I want to learn the language and meet new friends here.' Priya says, 'Good. A new country is hard at first, but it gets better every day.'",
+      "readingQ": "What is hard for Daniel?",
+      "readingA": "His first week in a new country.",
+      "speaking": "Tell a friend about your first week in a new place. How did you feel?",
+      "speakingSample": "I want to tell you about my first week. On Tuesday, Priya talked about my first week in the new country. She said, 'Daniel, how is your first week?' I said, 'It is hard. At first, I feel like a stranger in the new city.' The food here is unfamiliar to me, and a language barrier makes simple shopping hard. Disorientation is common in the first week.",
+      "writing": "Write a short email to a friend. Tell them about your first week. Say how you feel.",
+      "writingSample": "Dear Tom, I want to tell you about my first week. On Tuesday, Priya talked about my first week in the new country. She said, 'Daniel, how is your first week?' I said, 'It is hard. At first, I feel like a stranger in the new city.' The food here is unfamiliar to me, and a language barrier makes simple shopping hard. I feel like a fish out of water at first, but life gets better every day. Please tell me about your week. Best, Daniel",
+      "sound": "Disorientation has its strongest beat on TAY. In disorientation, say TAY clearly in the middle. In unfamiliar, say MIL clearly in the middle.",
+      "model": "The first week brings disorientation for many people.",
+      "wordTask": "How is Daniel's first week?",
+      "wordSample": "Hard."
+    },
+    {
+      "unit": 17,
+      "day": 131,
+      "title": "Getting used to new customs",
+      "goal": "I can talk about getting used to new customs.",
+      "newItems": [
+        {
+          "category": "new_word",
+          "day": 131,
+          "definition": "The slow process of becoming part of a new culture.",
+          "example": "Assimilation takes years for most people.",
+          "ipa": "/əˌsɪməˈleɪʃən/",
+          "pos": "noun",
+          "status": "new",
+          "word": "assimilation"
+        },
+        {
+          "category": "new_word",
+          "day": 131,
+          "definition": "The change from one place or way of life to another.",
+          "example": "The transition to a new country takes time.",
+          "ipa": "/trænˈzɪʃən/",
+          "pos": "noun",
+          "status": "new",
+          "word": "transition"
+        },
+        {
+          "category": "fixed_phrase",
+          "day": 131,
+          "definition": "To become part of a group without being noticed as different.",
+          "example": "He tries to blend in with the local people.",
+          "ipa": "/blɛnd ɪn/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "blend in"
+        },
+        {
+          "category": "fixed_phrase",
+          "day": 131,
+          "definition": "To become used to a new place and feel sure of yourself.",
+          "example": "It takes a month to find your feet in a new city.",
+          "ipa": "/faɪnd jʊr fit/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "find your feet"
+        },
+        {
+          "category": "fixed_phrase",
+          "day": 131,
+          "definition": "To learn how things work in a new place.",
+          "example": "New workers learn the ropes in the first week.",
+          "ipa": "/lɝn ðə roʊps/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "learn the ropes"
+        }
+      ],
+      "reviewWords": [
+        "food",
+        "water",
+        "money",
+        "time",
+        "day"
+      ],
+      "mainWord": {
+        "category": "new_word",
+        "day": 131,
+        "definition": "The slow process of becoming part of a new culture.",
+        "example": "Assimilation takes years for most people.",
+        "ipa": "/əˌsɪməˈleɪʃən/",
+        "pos": "noun",
+        "status": "new",
+        "word": "assimilation"
+      },
+      "mainWordForms": "Assimilation is a noun. The slow process of becoming part of a new culture. Assimilation takes years for most people.",
+      "pronunciationTarget": {
+        "word": "assimilation",
+        "ipa": "/əˌsɪməˈleɪʃən/"
+      },
+      "expression": "I try to blend in with the local people.",
+      "use": "Use this when you talk about life in a new place.",
+      "expressionTask": "Maya talks to Daniel about his new life. What does he do?",
+      "grammar": "Inversion: Not only was the food different, but the daily routine was too",
+      "pattern": "Not only was the food different, but the daily routine was too.",
+      "task": "Not only was the food ___, but the daily routine was too.",
+      "answer": "different",
+      "example": "Not only was the food different, but the daily routine was too.",
+      "context": [
+        "Maya talks to Daniel about his new life at work.",
+        "I try to blend in with the local people. It takes time to find your feet."
+      ],
+      "dialogue": [
+        "Maya: Daniel, how is your new life?",
+        "Daniel: It is good. I try to blend in with the local people.",
+        "Maya: What is assimilation?",
+        "Daniel: Assimilation is the slow process of becoming part of a new culture.",
+        "Maya: How is the transition?",
+        "Daniel: The transition to a new life takes time. I learn the ropes in the first week, and I find my feet in a new city."
+      ],
+      "listening": "On Wednesday, Maya talks to Daniel about his new life at work. She asks, 'Daniel, how is your new life?' Daniel says, 'It is good. I try to blend in with the local people.' Maya asks, 'What is assimilation?' Daniel says, 'Assimilation is the slow process of becoming part of a new culture.' Daniel is happy. He says, 'Thank you, Maya.'",
+      "question": "How is Daniel's new life?",
+      "correct": "Good",
+      "other": "Bad",
+      "reading": "On Wednesday, Maya talks to Daniel about his new life at work at Carter Retail Group. She asks, 'Daniel, how is your new life?' Daniel says, 'It is good. I try to blend in with the local people. Assimilation is the slow process of becoming part of a new culture, and the transition to a new life takes time. It takes a month to find your feet in a new city, but new workers learn the ropes in the first week.' Maya says, 'Not only was the food different, but the daily routine was too. That is normal in a new country.' Daniel is happy. He says, 'Thank you, Maya. I want to learn the customs here and live well in my new home.' Maya says, 'Good. Life in a new country gets easy with time.'",
+      "readingQ": "What takes time for Daniel?",
+      "readingA": "The transition to a new life.",
+      "speaking": "Tell a friend about getting used to a new place. What do you do?",
+      "speakingSample": "I want to tell you about my new life. On Wednesday, Maya talked about my new life at work. She said, 'Daniel, how is your new life?' I said, 'It is good. I try to blend in with the local people.' Assimilation is the slow process of becoming part of a new culture, and the transition to a new life takes time.",
+      "writing": "Write a short email to a friend. Tell them about your new life. Say what you do.",
+      "writingSample": "Dear Tom, I want to tell you about my new life. On Wednesday, Maya talked about my new life at work. She said, 'Daniel, how is your new life?' I said, 'It is good. I try to blend in with the local people.' It takes a month to find your feet in a new city, but new workers learn the ropes in the first week. I hope you will visit us one day. Please tell me about your town. Best, Daniel",
+      "sound": "Assimilation has its strongest beat on LAY. In assimilation, say LAY clearly in the middle. In transition, say SIH clearly in the middle.",
+      "model": "It takes years for assimilation to happen.",
+      "wordTask": "How is Daniel's new life?",
+      "wordSample": "Good."
+    },
+    {
+      "unit": 17,
+      "day": 132,
+      "title": "Homesickness and missing home",
+      "goal": "I can talk about homesickness.",
+      "newItems": [
+        {
+          "category": "new_word",
+          "day": 132,
+          "definition": "The sad feeling of missing your home.",
+          "example": "Homesickness is normal in the first month.",
+          "ipa": "/ˈhoʊmˌsɪknəs/",
+          "pos": "noun",
+          "status": "new",
+          "word": "homesickness"
+        },
+        {
+          "category": "new_word",
+          "day": 132,
+          "definition": "A warm and sad feeling when you remember good times in the past.",
+          "example": "Old photos bring back nostalgia for home.",
+          "ipa": "/nɑˈstældʒə/",
+          "pos": "noun",
+          "status": "new",
+          "word": "nostalgia"
+        },
+        {
+          "category": "fixed_phrase",
+          "day": 132,
+          "definition": "To want to be back at home.",
+          "example": "He misses home when the evenings are quiet.",
+          "ipa": "/mɪs hoʊm/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "miss home"
+        },
+        {
+          "category": "fixed_phrase",
+          "day": 132,
+          "definition": "To feel that you do not belong in a place.",
+          "example": "At first, she feels out of place at work.",
+          "ipa": "/fɪl aʊt ʌv pleɪs/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "feel out of place"
+        },
+        {
+          "category": "fixed_phrase",
+          "day": 132,
+          "definition": "A long distance away from the place where you live.",
+          "example": "She lives far from home now.",
+          "ipa": "/fɑr frʌm hoʊm/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "far from home"
+        }
+      ],
+      "reviewWords": [
+        "family",
+        "school",
+        "work",
+        "week",
+        "night"
+      ],
+      "mainWord": {
+        "category": "new_word",
+        "day": 132,
+        "definition": "The sad feeling of missing your home.",
+        "example": "Homesickness is normal in the first month.",
+        "ipa": "/ˈhoʊmˌsɪknəs/",
+        "pos": "noun",
+        "status": "new",
+        "word": "homesickness"
+      },
+      "mainWordForms": "Homesickness is a noun. The sad feeling of missing your home. Homesickness is normal in the first month.",
+      "pronunciationTarget": {
+        "word": "homesickness",
+        "ipa": "/ˈhoʊmˌsɪknəs/"
+      },
+      "expression": "I miss home when the evenings are quiet.",
+      "use": "Use this when you talk about missing home.",
+      "expressionTask": "Daniel talks to Priya about missing home. What does he say?",
+      "grammar": "Cleft sentences: It was the quiet evenings that made me miss home most",
+      "pattern": "It was the quiet evenings that made me miss home most.",
+      "task": "It was the quiet evenings that made me ___ home most.",
+      "answer": "miss",
+      "example": "It was the quiet evenings that made me miss home most.",
+      "context": [
+        "Daniel talks to Priya about missing home at work.",
+        "I miss home when the evenings are quiet. She lives far from home now."
+      ],
+      "dialogue": [
+        "Daniel: Priya, do you miss home sometimes?",
+        "Priya: Yes. I miss home when the evenings are quiet.",
+        "Daniel: What is homesickness?",
+        "Priya: Homesickness is the sad feeling of missing your home.",
+        "Daniel: What brings back nostalgia?",
+        "Priya: Old photos bring back nostalgia for home. I feel out of place at first, but I live far from home now."
+      ],
+      "listening": "On Thursday, Daniel talks to Priya about missing home at work. He asks, 'Priya, do you miss home sometimes?' Priya says, 'Yes. I miss home when the evenings are quiet.' Daniel asks, 'What is homesickness?' Priya says, 'Homesickness is the sad feeling of missing your home.' Daniel is happy. He says, 'Thank you, Priya.' Daniel smiles.",
+      "question": "When does Priya miss home?",
+      "correct": "When the evenings are quiet",
+      "other": "In the morning",
+      "reading": "On Thursday, Daniel talks to Priya about missing home at work at Carter Retail Group. He asks, 'Priya, do you miss home sometimes?' Priya says, 'Yes. I miss home when the evenings are quiet. Homesickness is normal in the first month. Old photos bring back nostalgia for home, and I feel out of place at first. She lives far from home now, so the quiet evenings are hard.' Daniel says, 'It was the quiet evenings that made me miss home most. That is normal in a new country.' Priya is happy. She says, 'Thank you, Daniel. A kind word from a friend helps a lot.' Daniel says, 'It is good to talk about home. New friends and kind words make the hard days easy, and we can learn the language together.' Daniel says, 'Good. Home is always in our hearts.'",
+      "readingQ": "What does Priya miss?",
+      "readingA": "Her home.",
+      "speaking": "Tell a friend about missing home. When do you miss home?",
+      "speakingSample": "I want to tell you about missing home. On Thursday, Daniel talked to Priya about missing home at work. He said, 'Priya, do you miss home sometimes?' Priya said, 'Yes. I miss home when the evenings are quiet.' Homesickness is normal in the first month. Old photos bring back nostalgia for home. I feel out of place at first, but I live far from home now.",
+      "writing": "Write a short email to a friend. Tell them about missing home. Say what helps you.",
+      "writingSample": "Dear Tom, I want to tell you about missing home. On Thursday, Daniel talked to Priya about missing home at work. He said, 'Priya, do you miss home sometimes?' Priya said, 'Yes. I miss home when the evenings are quiet.' Homesickness is normal in the first month. I feel out of place at first, but a kind word from a friend helps a lot. I hope you will visit us one day. Please tell me about your home. Best, Daniel",
+      "sound": "Homesickness has its strongest beat on SICK. In homesickness, say SICK clearly in the middle. In nostalgia, say STAL clearly in the middle.",
+      "model": "Many students feel homesickness in the first month.",
+      "wordTask": "When does Priya miss home?",
+      "wordSample": "When the evenings are quiet."
+    },
+    {
+      "unit": 17,
+      "day": 133,
+      "title": "Making friends abroad",
+      "goal": "I can talk about making friends abroad.",
+      "newItems": [
+        {
+          "category": "new_word",
+          "day": 133,
+          "definition": "A person who has just arrived in a place.",
+          "example": "The newcomer asks many questions about the town.",
+          "ipa": "/ˈnuˌkʌmɚ/",
+          "pos": "noun",
+          "status": "new",
+          "word": "newcomer"
+        },
+        {
+          "category": "new_word",
+          "day": 133,
+          "definition": "Able to speak two languages well.",
+          "example": "She is bilingual in English and French.",
+          "ipa": "/baɪˈlɪŋɡwəl/",
+          "pos": "adjective",
+          "status": "new",
+          "word": "bilingual"
+        },
+        {
+          "category": "new_word",
+          "day": 133,
+          "definition": "Able to speak a language easily and well.",
+          "example": "After two years, he is fluent in Spanish.",
+          "ipa": "/ˈfluənt/",
+          "pos": "adjective",
+          "status": "new",
+          "word": "fluent"
+        },
+        {
+          "category": "fixed_phrase",
+          "day": 133,
+          "definition": "To learn a language slowly by using it every day.",
+          "example": "Children pick up the language very fast.",
+          "ipa": "/pɪk ʌp ðə ˈlæŋɡwɪdʒ/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "pick up the language"
+        },
+        {
+          "category": "fixed_phrase",
+          "day": 133,
+          "definition": "To meet and talk with the people who live in a place.",
+          "example": "We get to know the locals in the market.",
+          "ipa": "/ɡɛt tə noʊ ðə ˈloʊkəlz/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "get to know the locals"
+        }
+      ],
+      "reviewWords": [
+        "morning",
+        "evening",
+        "happy",
+        "new",
+        "old"
+      ],
+      "mainWord": {
+        "category": "new_word",
+        "day": 133,
+        "definition": "A person who has just arrived in a place.",
+        "example": "The newcomer asks many questions about the town.",
+        "ipa": "/ˈnuˌkʌmɚ/",
+        "pos": "noun",
+        "status": "new",
+        "word": "newcomer"
+      },
+      "mainWordForms": "Newcomer is a noun. A person who has just arrived in a place. The newcomer asks many questions about the town.",
+      "pronunciationTarget": {
+        "word": "newcomer",
+        "ipa": "/ˈnuˌkʌmɚ/"
+      },
+      "expression": "We get to know the locals in the market.",
+      "use": "Use this when you talk about new friends.",
+      "expressionTask": "Maya talks to Daniel about his new friends. What does she ask?",
+      "grammar": "Modal perfects for speculation: She must have felt nervous on her first day",
+      "pattern": "She must have felt nervous on her first day.",
+      "task": "She must have ___ nervous on her first day.",
+      "answer": "felt",
+      "example": "She must have felt nervous on her first day.",
+      "context": [
+        "Maya talks to Daniel about his new friends at work.",
+        "We get to know the locals in the market. Children pick up the language very fast."
+      ],
+      "dialogue": [
+        "Maya: Daniel, how do you make friends here?",
+        "Daniel: We get to know the locals in the market.",
+        "Maya: Are you bilingual?",
+        "Daniel: No. Priya is bilingual in English and French, but I am new here.",
+        "Maya: What is a newcomer?",
+        "Daniel: A newcomer is a person who has just arrived in a place. Children pick up the language very fast."
+      ],
+      "listening": "On Friday, Maya talks to Daniel about his new friends at work. She asks, 'Daniel, how do you make friends here?' Daniel says, 'We get to know the locals in the market.' Maya asks, 'Are you bilingual?' Daniel says, 'No. Priya is bilingual in English and French, but I am new here.' Daniel is happy. He says, 'Thank you, Maya.'",
+      "question": "How does Daniel make friends?",
+      "correct": "He gets to know the locals",
+      "other": "He stays at home",
+      "reading": "On Friday, Maya talks to Daniel about his new friends at work at Carter Retail Group. She asks, 'Daniel, how do you make friends here?' Daniel says, 'We get to know the locals in the market. Every newcomer asks many questions about the town, and new friends help a lot.' Maya says, 'Priya is bilingual in English and French. Tom is fluent in Spanish after two years here.' Daniel says, 'She must have felt nervous on her first day. Children pick up the language very fast, and I want to learn from my friends every day.' Maya is happy. She says, 'Good. New friends make a new country feel like home.' Daniel says, 'Thank you, Maya. I want to meet Sara and Tom this week. They are kind and friendly, and they can show me the town. I hope to learn the language fast with good friends.'",
+      "readingQ": "Who is bilingual?",
+      "readingA": "Priya.",
+      "speaking": "Tell a friend about making friends in a new place. How do you make friends?",
+      "speakingSample": "I want to tell you about making friends. On Friday, Maya talked about my new friends at work. She said, 'Daniel, how do you make friends here?' I said, 'We get to know the locals in the market.' Every newcomer asks many questions about the town. Children pick up the language very fast. Priya is bilingual in English and French.",
+      "writing": "Write a short email to a friend. Tell them about your new friends. Say how you met them.",
+      "writingSample": "Dear Tom, I want to tell you about my new friends. On Friday, Maya talked about my new friends at work. She said, 'Daniel, how do you make friends here?' I said, 'We get to know the locals in the market.' Priya is bilingual in English and French. Tom is fluent in Spanish after two years here. Children pick up the language very fast, and I want to learn from my friends every day. Please tell me about your friends. Best, Daniel",
+      "sound": "Newcomer has its strongest beat on NEW. In newcomer, say NEW clearly at the start. In bilingual, say LIN clearly in the middle.",
+      "model": "Every newcomer asks many questions.",
+      "wordTask": "How does Daniel make friends?",
+      "wordSample": "He gets to know the locals."
+    },
+    {
+      "unit": 17,
+      "day": 134,
+      "title": "Food and daily life abroad",
+      "goal": "I can talk about food and daily life abroad.",
+      "newItems": [
+        {
+          "category": "new_word",
+          "day": 134,
+          "definition": "A form of a language spoken in one area.",
+          "example": "The dialect in the north sounds different.",
+          "ipa": "/ˈdaɪəˌlɛkt/",
+          "pos": "noun",
+          "status": "new",
+          "word": "dialect"
+        },
+        {
+          "category": "fixed_phrase",
+          "day": 134,
+          "definition": "To see the famous places in a city.",
+          "example": "We take in the sights on our first day.",
+          "ipa": "/teɪk ɪn ðə saɪts/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "take in the sights"
+        },
+        {
+          "category": "fixed_phrase",
+          "day": 134,
+          "definition": "Cheap food sold on the street in a market.",
+          "example": "We try street food at the night market.",
+          "ipa": "/ˈstrit fud/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "street food"
+        },
+        {
+          "category": "fixed_phrase",
+          "day": 134,
+          "definition": "Water that comes from a tap in a home.",
+          "example": "Do not drink the tap water here.",
+          "ipa": "/ˈtæp ˈwɔtɚ/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "tap water"
+        },
+        {
+          "category": "fixed_phrase",
+          "day": 134,
+          "definition": "To eat a meal together with other people.",
+          "example": "We share a meal with our new neighbours.",
+          "ipa": "/ʃɛr ə mil/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "share a meal"
+        }
+      ],
+      "reviewWords": [
+        "big",
+        "small",
+        "good",
+        "great",
+        "long"
+      ],
+      "mainWord": {
+        "category": "new_word",
+        "day": 134,
+        "definition": "A form of a language spoken in one area.",
+        "example": "The dialect in the north sounds different.",
+        "ipa": "/ˈdaɪəˌlɛkt/",
+        "pos": "noun",
+        "status": "new",
+        "word": "dialect"
+      },
+      "mainWordForms": "Dialect is a noun. A form of a language spoken in one area. The dialect in the north sounds different.",
+      "pronunciationTarget": {
+        "word": "dialect",
+        "ipa": "/ˈdaɪəˌlɛkt/"
+      },
+      "expression": "We take in the sights on our first day.",
+      "use": "Use this when you talk about a new city.",
+      "expressionTask": "Daniel talks to Priya about food and daily life. What does he say?",
+      "grammar": "Advanced reported speech: The guide said that the market had opened before dawn",
+      "pattern": "The guide said that the market had opened before dawn.",
+      "task": "The guide said that the market had ___ before dawn.",
+      "answer": "opened",
+      "example": "The guide said that the market had opened before dawn.",
+      "context": [
+        "Daniel talks to Priya about food and daily life at work.",
+        "We take in the sights on our first day. We try street food at the night market."
+      ],
+      "dialogue": [
+        "Daniel: Priya, what do you eat here?",
+        "Priya: We try street food at the night market.",
+        "Daniel: What is a dialect?",
+        "Priya: A dialect is a form of a language spoken in one area.",
+        "Daniel: Can we drink the water?",
+        "Priya: Do not drink the tap water here. We take in the sights on our first day, and we share a meal with our new neighbours."
+      ],
+      "listening": "On Saturday, Daniel talks to Priya about food and daily life at work. He asks, 'Priya, what do you eat here?' Priya says, 'We try street food at the night market.' Daniel asks, 'What is a dialect?' Priya says, 'A dialect is a form of a language spoken in one area.' Daniel is happy. He says, 'Thank you, Priya.'",
+      "question": "What do they eat?",
+      "correct": "Street food",
+      "other": "Bread and cheese",
+      "reading": "On Saturday, Daniel talks to Priya about food and daily life at work at Carter Retail Group. He asks, 'Priya, what do you eat here?' Priya says, 'We try street food at the night market. The dialect in the north sounds different, but the food is the same. Do not drink the tap water here. We take in the sights on our first day, and we share a meal with our new neighbours.' Daniel says, 'The guide said that the market had opened before dawn. That is good to know.' Priya is happy. She says, 'Thank you, Daniel. Food brings people together in a new country.' Daniel says, 'Good. I want to try new food every day.' He says, 'Food is a big part of life in a new country, and I want to learn about it with my new friends.'",
+      "readingQ": "What do they eat at the night market?",
+      "readingA": "Street food.",
+      "speaking": "Tell a friend about food in a new place. What do you eat?",
+      "speakingSample": "I want to tell you about food here. On Saturday, Daniel talked to Priya about food and daily life at work. He said, 'Priya, what do you eat here?' Priya said, 'We try street food at the night market.' We take in the sights on our first day, and we share a meal with our new neighbours. The dialect in the north sounds different.",
+      "writing": "Write a short email to a friend. Tell them about food in a new place. Say what you like.",
+      "writingSample": "Dear Tom, I want to tell you about food here. On Saturday, Daniel talked to Priya about food and daily life at work. He said, 'Priya, what do you eat here?' Priya said, 'We try street food at the night market.' The dialect in the north sounds different, but the food is the same. Do not drink the tap water here. Food brings people together in a new country. Please tell me about food in your town. Best, Daniel",
+      "sound": "Dialect has its strongest beat on DI. In dialect, say DI clearly at the start. In sights, say SIGHT clearly.",
+      "model": "The dialect in the north sounds different.",
+      "wordTask": "What do they eat?",
+      "wordSample": "Street food."
+    },
+    {
+      "unit": 17,
+      "day": 135,
+      "title": "Adapting and feeling at home",
+      "goal": "I can talk about adapting to a new country.",
+      "newItems": [
+        {
+          "category": "new_word",
+          "day": 135,
+          "definition": "To make small changes so something works better.",
+          "example": "We adjust our plans when the weather changes.",
+          "ipa": "/əˈdʒʌst/",
+          "pos": "verb",
+          "status": "new",
+          "word": "adjust"
+        },
+        {
+          "category": "new_word",
+          "day": 135,
+          "definition": "To walk slowly without a fixed plan.",
+          "example": "We wander through the old streets in the evening.",
+          "ipa": "/ˈwɑndɚ/",
+          "pos": "verb",
+          "status": "new",
+          "word": "wander"
+        },
+        {
+          "category": "new_word",
+          "day": 135,
+          "definition": "The process of becoming part of a group or society.",
+          "example": "Integration takes time and good friends.",
+          "ipa": "/ˌɪntəˈɡreɪʃən/",
+          "pos": "noun",
+          "status": "new",
+          "word": "integration"
+        },
+        {
+          "category": "new_word",
+          "day": 135,
+          "definition": "The feeling that you are part of a group or place.",
+          "example": "A sense of belonging grows with time.",
+          "ipa": "/bɪˈlɔŋɪŋ/",
+          "pos": "noun",
+          "status": "new",
+          "word": "belonging"
+        },
+        {
+          "category": "fixed_phrase",
+          "day": 135,
+          "definition": "A place that feels as warm and safe as your own home.",
+          "example": "The small hotel is a home away from home.",
+          "ipa": "/ə hoʊm əˈweɪ frʌm hoʊm/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "a home away from home"
+        }
+      ],
+      "reviewWords": [
+        "short",
+        "fast",
+        "slow",
+        "early",
+        "late"
+      ],
+      "mainWord": {
+        "category": "new_word",
+        "day": 135,
+        "definition": "To make small changes so something works better.",
+        "example": "We adjust our plans when the weather changes.",
+        "ipa": "/əˈdʒʌst/",
+        "pos": "verb",
+        "status": "new",
+        "word": "adjust"
+      },
+      "mainWordForms": "Adjust is a verb. To make small changes so something works better. We adjust our plans when the weather changes.",
+      "pronunciationTarget": {
+        "word": "adjust",
+        "ipa": "/əˈdʒʌst/"
+      },
+      "expression": "The small hotel is a home away from home.",
+      "use": "Use this when you talk about feeling at home.",
+      "expressionTask": "Maya talks to Daniel about his new home. What does he say?",
+      "grammar": "Subjunctive: It is important that every visitor respect local customs",
+      "pattern": "It is important that every visitor respect local customs.",
+      "task": "It is important that every visitor ___ local customs.",
+      "answer": "respect",
+      "example": "It is important that every visitor respect local customs.",
+      "context": [
+        "Maya talks to Daniel about his new home at work.",
+        "The small hotel is a home away from home. We wander through the old streets in the evening."
+      ],
+      "dialogue": [
+        "Maya: Daniel, is life easy in the new city now?",
+        "Daniel: Yes. The small hotel is a home away from home.",
+        "Maya: What is integration?",
+        "Daniel: Integration is the process of becoming part of a group.",
+        "Maya: How do you adjust?",
+        "Daniel: We adjust our plans when the weather changes. We wander through the old streets, and a sense of belonging grows with time."
+      ],
+      "listening": "On Sunday, Maya talks to Daniel about his new home at work. She asks, 'Daniel, is life easy in the new city now?' Daniel says, 'Yes. The small hotel is a home away from home.' Maya asks, 'What is integration?' Daniel says, 'Integration is the process of becoming part of a group.' Daniel is happy. He says, 'Thank you, Maya.'",
+      "question": "Is life easy for Daniel now?",
+      "correct": "Yes",
+      "other": "No",
+      "reading": "On Sunday, Maya talks to Daniel about his new home at work at Carter Retail Group. She asks, 'Daniel, is life easy in the new city now?' Daniel says, 'Yes. The small hotel is a home away from home. We adjust our plans when the weather changes. We wander through the old streets in the evening, and a sense of belonging grows with time. Integration takes time and good friends.' Maya says, 'It is important that every visitor respect local customs. That is how we live well together.' Daniel is happy. He says, 'Thank you, Maya. I want to stay here and build a good life.' Maya says, 'Good. You are doing very well here.' Daniel smiles. He says, 'I am happy here. A new country can become home with time, and good friends make it easy.'",
+      "readingQ": "What grows with time?",
+      "readingA": "A sense of belonging.",
+      "speaking": "Tell a friend about adapting to a new country. What helps you?",
+      "speakingSample": "I want to tell you about adapting. On Sunday, Maya talked about my new home at work. She said, 'Daniel, is life easy in the new city now?' I said, 'Yes. The small hotel is a home away from home.' We adjust our plans when the weather changes. We wander through the old streets in the evening. A sense of belonging grows with time.",
+      "writing": "Write a short email to a friend. Tell them about your new home. Say how you feel.",
+      "writingSample": "Dear Tom, I want to tell you about my new home. On Sunday, Maya talked about my new home at work. She said, 'Daniel, is life easy in the new city now?' I said, 'Yes. The small hotel is a home away from home.' We adjust our plans when the weather changes. A sense of belonging grows with time. Integration takes time and good friends. I hope you will visit us one day. Please tell me about your home. Best, Daniel",
+      "sound": "Adjust has its strongest beat on JUST. In adjust, say JUST clearly at the end. In wander, say WON clearly at the start.",
+      "model": "We adjust our plans when the weather changes.",
+      "wordTask": "Is life easy for Daniel now?",
+      "wordSample": "Yes."
+    },
+    {
+      "unit": 17,
+      "day": 136,
+      "title": "Use travel English in a new situation",
+      "goal": "I can use travel English in a new situation.",
+      "newItems": [
+        {
+          "category": "new_word",
+          "day": 136,
+          "definition": "A person who lives in a foreign country.",
+          "example": "He works as an expatriate in Japan.",
+          "ipa": "/ɛksˈpeɪtriət/",
+          "pos": "noun",
+          "status": "new",
+          "word": "expatriate"
+        },
+        {
+          "category": "new_word",
+          "day": 136,
+          "definition": "People from one country who live in many other countries.",
+          "example": "The diaspora keeps old traditions alive.",
+          "ipa": "/daɪˈæspərə/",
+          "pos": "noun",
+          "status": "new",
+          "word": "diaspora"
+        },
+        {
+          "category": "new_word",
+          "day": 136,
+          "definition": "A person who comes to live in a new country.",
+          "example": "Many immigrants work in this town.",
+          "ipa": "/ˈɪməɡrənt/",
+          "pos": "noun",
+          "status": "new",
+          "word": "immigrant"
+        },
+        {
+          "category": "new_word",
+          "day": 136,
+          "definition": "A person who does not belong to a group.",
+          "example": "At first, she felt like an outsider at school.",
+          "ipa": "/ˌaʊtˈsaɪdɚ/",
+          "pos": "noun",
+          "status": "new",
+          "word": "outsider"
+        },
+        {
+          "category": "fixed_phrase",
+          "day": 136,
+          "definition": "The tired feeling after a long flight across time zones.",
+          "example": "Jet lag makes the first day very hard.",
+          "ipa": "/ˈdʒɛt læɡ/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "jet lag"
+        }
+      ],
+      "reviewWords": [
+        "car",
+        "bus",
+        "road",
+        "park",
+        "shop"
+      ],
+      "mainWord": {
+        "category": "new_word",
+        "day": 136,
+        "definition": "A person who lives in a foreign country.",
+        "example": "He works as an expatriate in Japan.",
+        "ipa": "/ɛksˈpeɪtriət/",
+        "pos": "noun",
+        "status": "new",
+        "word": "expatriate"
+      },
+      "mainWordForms": "Expatriate is a noun. A person who lives in a foreign country. He works as an expatriate in Japan.",
+      "pronunciationTarget": {
+        "word": "expatriate",
+        "ipa": "/ɛksˈpeɪtriət/"
+      },
+      "expression": "Jet lag makes the first day very hard.",
+      "use": "Use this when you talk about a long flight.",
+      "expressionTask": "Daniel meets Sara at the airport. What does he tell her?",
+      "grammar": "Wish and if only for review: I wish I had learned the language before I moved",
+      "pattern": "I wish I had learned the language before I moved.",
+      "task": "I wish I had ___ the language before I moved.",
+      "answer": "learned",
+      "example": "I wish I had learned the language before I moved.",
+      "context": [
+        "Daniel meets Sara at the airport and talks about travel.",
+        "Jet lag makes the first day very hard. Many immigrants work in this town."
+      ],
+      "dialogue": [
+        "Daniel: Sara, do you know what an expatriate is?",
+        "Sara: Yes. An expatriate is a person who lives in a foreign country.",
+        "Daniel: What is a diaspora?",
+        "Sara: A diaspora is people from one country who live in many other countries.",
+        "Daniel: What about an outsider?",
+        "Sara: An outsider is a person who does not belong to a group. Jet lag makes the first day very hard."
+      ],
+      "listening": "On Monday, Daniel meets Sara at the airport. He asks, 'Sara, do you know what an expatriate is?' Sara says, 'Yes. An expatriate is a person who lives in a foreign country.' Daniel asks, 'What is a diaspora?' Sara says, 'A diaspora is people from one country who live in many other countries.' Daniel is happy. He says, 'Thank you, Sara.'",
+      "question": "What is an expatriate?",
+      "correct": "A person who lives in a foreign country",
+      "other": "A kind of food",
+      "reading": "On Monday, Daniel meets Sara at the airport and talks about travel. He asks, 'Sara, do you know what an expatriate is?' Sara says, 'Yes. An expatriate is a person who lives in a foreign country. The diaspora keeps old traditions alive. Many immigrant families live in this town, and at first, she felt like an outsider at school.' Daniel says, 'I wish I had learned the language before I moved. Jet lag makes the first day very hard, but a new country feels like home in time.' Sara is happy. She says, 'Thank you, Daniel. Travel changes the way we see life.' Daniel smiles. He says, 'Good. Every trip teaches us something new.' Sara says, 'I agree. A new country feels like home in time, and good friends make every trip better.'",
+      "readingQ": "What is a diaspora?",
+      "readingA": "People from one country who live in many other countries.",
+      "speaking": "Tell a friend about travel. What is an expatriate? What is a diaspora?",
+      "speakingSample": "I want to tell you about travel. On Monday, Daniel talked to Sara at the airport. He said, 'Sara, do you know what an expatriate is?' Sara said, 'Yes. An expatriate is a person who lives in a foreign country.' The diaspora keeps old traditions alive. Jet lag makes the first day very hard. Many immigrant families live in this town.",
+      "writing": "Write a short email to a friend. Tell them about travel. Say what you learned.",
+      "writingSample": "Dear Tom, I want to tell you about travel. On Monday, Daniel talked to Sara at the airport. He said, 'Sara, do you know what an expatriate is?' Sara said, 'Yes. An expatriate is a person who lives in a foreign country.' The diaspora keeps old traditions alive. Many immigrant families live in this town. Jet lag makes the first day very hard. I wish I had learned the language before I moved. Please tell me about your trip. Best, Daniel",
+      "sound": "Expatriate has its strongest beat on PAY. In expatriate, say PAY clearly in the middle. In diaspora, say AS clearly in the middle.",
+      "model": "He works as an expatriate in Japan.",
+      "wordTask": "What is an expatriate?",
+      "wordSample": "A person who lives in a foreign country.",
+      "transferCheck": {
+        "source": "On Saturday, Sara reads a postcard from her cousin about life in Canada. It says her cousin is an expatriate in Canada, and many immigrant families live in the town. The diaspora keeps old traditions alive. Sara talks to her friend Tom at a café. She says, 'My cousin is an expatriate in Canada. A new country feels like home in time.' Tom says, 'Good. Jet lag makes the first day very hard.' Sara says, 'Yes. At first, she felt like an outsider at school, but now she is happy.' Tom says, 'Good. Every trip teaches us something new.' Sara is happy.",
+        "dictation": "A new country feels like home in time.",
+        "answer": "1. The new checker is Sara. She reads a postcard from her cousin about life in Canada and talks to her friend Tom at a café. 2. Sara's first job is to say that her cousin is an expatriate in Canada. 3. On Saturday, Sara says, 'My cousin is an expatriate in Canada. A new country feels like home in time.' 4. A new country feels like home in time. 5. Sample: On Saturday, Sara reads a postcard from her cousin about life in Canada. It says her cousin is an expatriate in Canada, and many immigrant families live in the town. The diaspora keeps old traditions alive. Sara talks to her friend Tom at a café. She says, 'My cousin is an expatriate in Canada. A new country feels like home in time.' Tom says, 'Good. Jet lag makes the first day very hard.' Sara says, 'Yes. At first, she felt like an outsider at school, but now she is happy.' Tom says, 'Good. Every trip teaches us something new.' Follow-up: What does Tom say about the first day? Jet lag makes the first day very hard.",
+        "tasks": [
+          [
+            "1 · Identify the people and the new situation",
+            "Who is the new checker, and what does she read?"
+          ],
+          [
+            "2 · Work out what Sara does first",
+            "What is Sara's first job, and what does she say?"
+          ],
+          [
+            "3 · Notice the sentence on Saturday",
+            "What does Sara say on Saturday?"
+          ],
+          [
+            "4 · Listen and write",
+            "Write the sentence you hear."
+          ],
+          [
+            "5 · Retell and answer",
+            "Tell the story in order, including the people, the new situation, the first talk, and the result. Then answer one follow-up question."
+          ]
+        ]
+      }
+    }
+  ]
+}

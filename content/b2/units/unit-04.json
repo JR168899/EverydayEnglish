@@ -1,0 +1,905 @@
+{
+  "number": 4,
+  "title": "Critical thinking and evidence",
+  "lessons": [
+    {
+      "unit": 4,
+      "day": 25,
+      "title": "Tell a fact from an opinion",
+      "goal": "I can tell a fact from an opinion.",
+      "newItems": [
+        {
+          "word": "claim",
+          "ipa": "/kleɪm/",
+          "pos": "noun",
+          "definition": "A statement that something is true, but not yet proven.",
+          "example": "The company made a claim about its new chair.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "biased",
+          "ipa": "/ˈbaɪəst/",
+          "pos": "adjective",
+          "definition": "Unfair because you like one side more than the other.",
+          "example": "The report was biased; it only showed the good news.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "neutral",
+          "ipa": "/ˈnutrəl/",
+          "pos": "adjective",
+          "definition": "Not supporting one side more than the other.",
+          "example": "A good judge is neutral and fair to everyone.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "the fact is that",
+          "ipa": "/ðə fækt ɪz ðæt/",
+          "pos": "fixed phrase",
+          "definition": "The true fact is this.",
+          "example": "The fact is that sales fell in June.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "at first glance",
+          "ipa": "/ət fɝst ɡlæns/",
+          "pos": "fixed phrase",
+          "definition": "With a first quick look.",
+          "example": "At first glance, the plan looks easy.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "feedback",
+        "chart",
+        "client",
+        "plan",
+        "data"
+      ],
+      "mainWord": {
+        "word": "claim",
+        "ipa": "/kleɪm/",
+        "pos": "noun",
+        "definition": "A statement that something is true, but not yet proven.",
+        "example": "The company made a claim about its new chair.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Claim is a noun. A claim is a statement that something is true, but not yet proven. The company made a claim about its new chair.",
+      "pronunciationTarget": {
+        "word": "claim",
+        "ipa": "/kleɪm/"
+      },
+      "expression": "The fact is that sales fell in June.",
+      "use": "Use this when you say what the true fact is.",
+      "expressionTask": "Maya shows Daniel a supplier's letter. What is the fact, and what is the claim?",
+      "grammar": "Fact or opinion: It is a fact that sales fell in June",
+      "pattern": "It is a fact that sales fell in June.",
+      "task": "It is a fact that sales ___ in June.",
+      "answer": "fell",
+      "example": "It is a fact that sales fell in June.",
+      "context": [
+        "Maya shows Daniel a supplier's letter about a new chair material.",
+        "The fact is that sales fell in June. The team must be careful."
+      ],
+      "dialogue": [
+        "Maya: Daniel, look at this letter. A supplier says its new chair material lasts twice as long.",
+        "Daniel: That is a big claim. Is it a fact, or just an opinion?",
+        "Maya: Good question. A claim is a statement that may or may not be true. The fact is that sales fell in June.",
+        "Daniel: I see. At first glance, the letter looks good. But the writer may be biased.",
+        "Maya: Right. A biased report only shows the good news. We need a neutral look at the facts.",
+        "Daniel: I understand. I will tell a fact from an opinion before I believe a claim."
+      ],
+      "listening": "On Monday, Maya shows Daniel a letter from a supplier. It says a new chair material lasts twice as long. Daniel asks, 'Is that a fact or an opinion?' Maya says, 'It is a claim. A claim may or may not be true. The fact is that sales fell in June.' At first glance, it looks good. Maya says, 'We need a neutral look.'",
+      "question": "What does Maya tell Daniel to do before he believes a claim?",
+      "correct": "Tell a fact from an opinion",
+      "other": "Buy the new material at once",
+      "reading": "On Monday, Maya shows Daniel a letter from a supplier. The letter says a new chair material lasts twice as long. Daniel is excited. Maya is careful. She says, 'That is a claim. A claim is a statement that something is true, but not yet proven. We must check it first.' Daniel asks, 'How can I tell a fact from an opinion?' Maya says, 'A fact can be checked. An opinion is what someone thinks. The fact is that sales fell in June, so we must be careful about new orders.' At first glance, the letter looks good. It has nice pictures. But Maya says the writer may be biased. A biased writer only shows the good news. Maya says, 'We need a neutral look at the facts. A neutral person does not take one side. Before you believe a claim, ask for proof. Tell a fact from an opinion, and you will make a better choice.'",
+      "readingQ": "What does Maya tell Daniel to do before he believes a claim?",
+      "readingA": "Ask for proof and tell a fact from an opinion.",
+      "speaking": "Tell a friend about a claim you saw in an ad or a letter. What was the claim? Was it a fact or an opinion? What was the fact?",
+      "speakingSample": "Last week, I saw a letter from a supplier. It said a new chair material lasts twice as long. That is a claim. Is it a fact or an opinion? The fact is that sales fell in June. At first glance, the letter looked good. But the writer may be biased. I need a neutral look at the facts. Before I believe a claim, I will ask for proof.",
+      "writing": "Write a short email to a colleague. Tell them about a supplier's claim. Say what the claim is, what the fact is, and what you will do.",
+      "writingSample": "Dear Priya, I want to tell you about a letter from a supplier. It says a new chair material lasts twice as long. That is a claim. Is it a fact or just an opinion? The fact is that sales fell in June. At first glance, the letter looks good. But the writer may be biased. I need a neutral look at the facts. Before I believe a claim, I will ask for proof. Tell a fact from an opinion, and we will make a better choice. Best, Daniel",
+      "sound": "Claim has one strong beat: CLAIM. In claim, say CLAIM clearly. In biased, say BI clearly at the start.",
+      "model": "The company made a claim about its new chair.",
+      "wordTask": "What does Maya show Daniel on Monday?",
+      "wordSample": "A letter from a supplier about a new chair material."
+    },
+    {
+      "unit": 4,
+      "day": 26,
+      "title": "Check where it comes from",
+      "goal": "I can check where information comes from.",
+      "newItems": [
+        {
+          "word": "trustworthy",
+          "ipa": "/ˈtrʌstˌwɝði/",
+          "pos": "adjective",
+          "definition": "Able to be believed; honest and correct.",
+          "example": "Use a trustworthy website for your research.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "outdated",
+          "ipa": "/ˌaʊtˈdeɪtɪd/",
+          "pos": "adjective",
+          "definition": "Too old to be useful now.",
+          "example": "This guide is outdated; the prices changed last year.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "objective",
+          "ipa": "/əbˈdʒɛktɪv/",
+          "pos": "adjective",
+          "definition": "Based on facts, not on feelings or opinions.",
+          "example": "We need an objective look at the numbers.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "as far as I know",
+          "ipa": "/əz fɑr əz aɪ noʊ/",
+          "pos": "fixed phrase",
+          "definition": "As far as what I know.",
+          "example": "As far as I know, the report is ready.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "read between the lines",
+          "ipa": "/rid bɪˈtwin ðə laɪnz/",
+          "pos": "fixed phrase",
+          "definition": "Understand the hidden meaning of what someone says.",
+          "example": "Read between the lines: she is not happy with the plan.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "evidence",
+        "sample",
+        "finding",
+        "report",
+        "outcome"
+      ],
+      "mainWord": {
+        "word": "trustworthy",
+        "ipa": "/ˈtrʌstˌwɝði/",
+        "pos": "adjective",
+        "definition": "Able to be believed; honest and correct.",
+        "example": "Use a trustworthy website for your research.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Trustworthy is an adjective. Trustworthy means able to be believed; honest and correct. Use a trustworthy website for your research.",
+      "pronunciationTarget": {
+        "word": "trustworthy",
+        "ipa": "/ˈtrʌstˌwɝði/"
+      },
+      "expression": "As far as I know, the report is from last year.",
+      "use": "Use this when you are not sure about a fact.",
+      "expressionTask": "Daniel looks at the letter again. What does he want to know?",
+      "grammar": "Reported speech: The report says that the price will rise",
+      "pattern": "The report says that the price will rise.",
+      "task": "The report says that the price will ___.",
+      "answer": "rise",
+      "example": "The report says that the price will rise.",
+      "context": [
+        "Daniel looks at the letter again. He wants to know who wrote it and when.",
+        "As far as I know, the report is from last year."
+      ],
+      "dialogue": [
+        "Maya: Daniel, who wrote this letter? Is the writer trustworthy?",
+        "Daniel: The writer works for the supplier. As far as I know, the report is from last year.",
+        "Maya: Then it may be outdated. An old report may not show the facts now.",
+        "Daniel: I see. I must read between the lines. The writer only shows the good news.",
+        "Maya: Right. We need an objective look. An objective report is based on facts, not feelings.",
+        "Daniel: I understand. I will check the writer and the date before I trust a claim."
+      ],
+      "listening": "On Tuesday, Daniel looks at the letter again. He asks, 'Is the writer trustworthy?' Maya says, 'The writer works for the supplier.' Daniel says, 'As far as I know, the report is from last year.' Maya says, 'Then it may be outdated.' Daniel says, 'I must read between the lines.' Maya says, 'We need an objective look. Check the writer and the date.'",
+      "question": "Why does Maya say the report may be outdated?",
+      "correct": "It is from last year",
+      "other": "It is too long",
+      "reading": "On Tuesday, Daniel looks at the letter again. He wants to know who wrote it and when it was written. He asks, 'Is the writer trustworthy?' Maya says, 'The writer works for the supplier, so be careful. A trustworthy source is honest and correct. This writer may not be.' Daniel says, 'As far as I know, the report is from last year.' Maya says, 'Then it may be outdated. An outdated report is too old to be useful now. The prices and the facts may have changed.' Daniel reads the letter again. He says, 'I must read between the lines. The writer only shows the good news. I need the hidden meaning too.' Maya says, 'Good. We need an objective look. An objective report is based on facts, not feelings. Check the writer and the date before you trust a claim. A good check can save us from a bad order.'",
+      "readingQ": "What does Maya tell Daniel to check before he trusts a claim?",
+      "readingA": "The writer and the date.",
+      "speaking": "Tell a friend about a report or an article you read. Who wrote it? When was it written? Is the writer trustworthy?",
+      "speakingSample": "Last week, I read a report. The writer works for a supplier. As far as I know, the report is from last year, so it may be outdated. I must read between the lines. The writer only shows the good news. I need an objective look. An objective report is based on facts, not feelings. Before I trust a claim, I will check the writer and the date.",
+      "writing": "Write a short email to a colleague. Tell them about a report you read. Say who wrote it, when it was written, and if it is trustworthy.",
+      "writingSample": "Dear Priya, I want to tell you about a report I read. The writer works for a supplier. As far as I know, the report is from last year, so it may be outdated. I must read between the lines. The writer only shows the good news. I need an objective look. An objective report is based on facts, not feelings. Before I trust a claim, I will check the writer and the date. A good check can save us from a bad order. Best, Daniel",
+      "sound": "Trustworthy has its strongest beat on TRUST. In trustworthy, say TRUST clearly at the start. In outdated, say OUT clearly at the start.",
+      "model": "Use a trustworthy website for your research.",
+      "wordTask": "Who wrote the letter Daniel reads?",
+      "wordSample": "A writer who works for the supplier."
+    },
+    {
+      "unit": 4,
+      "day": 27,
+      "title": "What if things had been different?",
+      "goal": "I can talk about what would have happened in the past.",
+      "newItems": [
+        {
+          "word": "regret",
+          "ipa": "/rɪˈɡrɛt/",
+          "pos": "noun",
+          "definition": "A sad feeling about something you did or did not do.",
+          "example": "My only regret is that I did not ask more questions.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "otherwise",
+          "ipa": "/ˈʌðɚˌwaɪz/",
+          "pos": "adverb",
+          "definition": "In a different way; if not.",
+          "example": "Check the facts; otherwise, you may be wrong.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "suppose",
+          "ipa": "/səˈpoʊz/",
+          "pos": "verb",
+          "definition": "To think that something is true, but you are not sure.",
+          "example": "I suppose the plan will work, but let us check.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "learn from a mistake",
+          "ipa": "/lɝn frʌm ə mɪˈsteɪk/",
+          "pos": "fixed phrase",
+          "definition": "Get better by learning from an error.",
+          "example": "We learn from a mistake and do better next time.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "it turns out that",
+          "ipa": "/ɪt tɝnz aʊt ðæt/",
+          "pos": "fixed phrase",
+          "definition": "In the end, we learn that this is true.",
+          "example": "It turns out that the story was not true.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "mistake",
+        "price",
+        "meeting",
+        "agree",
+        "team"
+      ],
+      "mainWord": {
+        "word": "regret",
+        "ipa": "/rɪˈɡrɛt/",
+        "pos": "noun",
+        "definition": "A sad feeling about something you did or did not do.",
+        "example": "My only regret is that I did not ask more questions.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Regret is a noun. A regret is a sad feeling about something you did or did not do. My only regret is that I did not ask more questions.",
+      "pronunciationTarget": {
+        "word": "regret",
+        "ipa": "/rɪˈɡrɛt/"
+      },
+      "expression": "It turns out that the story was not true.",
+      "use": "Use this when you talk about a past surprise.",
+      "expressionTask": "Daniel thinks about last year. What did the team do?",
+      "grammar": "Third conditional: If we had checked the facts, we would have seen the mistake",
+      "pattern": "If we had checked the facts, we would have seen the mistake.",
+      "task": "If we had checked the facts, we would have ___ the mistake.",
+      "answer": "seen",
+      "example": "If we had checked the facts, we would have seen the mistake.",
+      "context": [
+        "Daniel thinks about last year. The team made a bad order.",
+        "It turns out that the story was not true."
+      ],
+      "dialogue": [
+        "Maya: Daniel, last year we made a bad order. If we had checked the facts, we would have seen the mistake.",
+        "Daniel: I suppose the team was in a hurry. What happened next?",
+        "Maya: It turns out that the story was not true. The chairs broke after one month.",
+        "Daniel: That is a big regret. We learn from a mistake and do better next time.",
+        "Maya: Right. Check the facts first. Otherwise, you may make the same bad order again.",
+        "Daniel: I understand. If we had asked more questions, we would have saved time and money."
+      ],
+      "listening": "On Wednesday, Maya tells Daniel about last year. She says, 'If we had checked the facts, we would have seen the mistake.' Daniel says, 'I suppose the team was in a hurry.' Maya says, 'It turns out that the story was not true.' Daniel says, 'That is a big regret. We learn from a mistake.' Maya says, 'Check the facts first. Otherwise, be careful.'",
+      "question": "What would the team have seen if they had checked the facts?",
+      "correct": "The mistake",
+      "other": "A new supplier",
+      "reading": "On Wednesday, Maya tells Daniel about a bad order from last year. She says, 'We were in a hurry, and we did not check the facts. If we had checked the facts, we would have seen the mistake. The chairs broke after one month.' Daniel says, 'I suppose the team wanted a fast answer.' Maya says, 'It turns out that the story was not true. The supplier said the chairs would last for years, but they did not.' Daniel says, 'That is a big regret. My only regret is that I did not ask more questions.' Maya says, 'We learn from a mistake and do better next time. Check the facts first. Otherwise, you may make the same bad order again. If we had asked more questions, we would have saved time and money.'",
+      "readingQ": "What does Maya say the team would have saved if they had asked more questions?",
+      "readingA": "Time and money.",
+      "speaking": "Tell a friend about a mistake in the past. What happened? What would you have done differently?",
+      "speakingSample": "Last year, my team made a bad order. If we had checked the facts, we would have seen the mistake. I suppose we were in a hurry. It turns out that the story was not true. The chairs broke after one month. That is a big regret. We learn from a mistake and do better next time. Otherwise, we may make the same bad order again.",
+      "writing": "Write a short email to a colleague. Tell them about a past mistake. Say what happened and what you would have done differently.",
+      "writingSample": "Dear Priya, I want to tell you about a bad order from last year. We were in a hurry, and we did not check the facts. If we had checked the facts, we would have seen the mistake. The chairs broke after one month. It turns out that the story was not true. That is a regret. We learn from a mistake and do better next time. Otherwise, we may make the bad order again. If we had asked more questions, we would have saved time and money. Best, Daniel",
+      "sound": "Regret has its strongest beat on GRET. In regret, say GRET clearly at the end. In otherwise, say OTH clearly at the start.",
+      "model": "My only regret is that I did not ask more questions.",
+      "wordTask": "What did the team do last year?",
+      "wordSample": "They made a bad order without checking the facts."
+    },
+    {
+      "unit": 4,
+      "day": 28,
+      "title": "What would be true now?",
+      "goal": "I can talk about how a past choice changes the present.",
+      "newItems": [
+        {
+          "word": "consequence",
+          "ipa": "/ˈkɑnsəˌkwɛns/",
+          "pos": "noun",
+          "definition": "Something that happens because of an action or a choice.",
+          "example": "One consequence of the late delivery was an unhappy client.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "despite",
+          "ipa": "/dɪˈspaɪt/",
+          "pos": "preposition",
+          "definition": "Although something is true; in spite of a fact.",
+          "example": "Despite the rain, the team finished the work.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "in light of",
+          "ipa": "/ɪn laɪt əv/",
+          "pos": "fixed phrase",
+          "definition": "Because of; with this fact in mind.",
+          "example": "In light of the new data, we changed the plan.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "all things considered",
+          "ipa": "/ɔl θɪŋz kənˈsɪdɚd/",
+          "pos": "fixed phrase",
+          "definition": "When you think about everything together.",
+          "example": "All things considered, the plan worked well.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "question the evidence",
+          "ipa": "/ˈkwɛstʃən ði ˈɛvədəns/",
+          "pos": "fixed phrase",
+          "definition": "Ask whether the proof for something is good.",
+          "example": "Question the evidence, not the person.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "question",
+        "idea",
+        "problem",
+        "result",
+        "reason"
+      ],
+      "mainWord": {
+        "word": "consequence",
+        "ipa": "/ˈkɑnsəˌkwɛns/",
+        "pos": "noun",
+        "definition": "Something that happens because of an action or a choice.",
+        "example": "One consequence of the late delivery was an unhappy client.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Consequence is a noun. A consequence is something that happens because of an action or a choice. One consequence of the late delivery was an unhappy client.",
+      "pronunciationTarget": {
+        "word": "consequence",
+        "ipa": "/ˈkɑnsəˌkwɛns/"
+      },
+      "expression": "In light of the new data, we changed the plan.",
+      "use": "Use this when a new fact changes your plan.",
+      "expressionTask": "Daniel looks at the supplier's small test. What does he think about it?",
+      "grammar": "Mixed conditional: If the test had been bigger, the result would be clearer now",
+      "pattern": "If the test had been bigger, the result would be clearer now.",
+      "task": "If the test had been bigger, the result would be ___ now.",
+      "answer": "clearer",
+      "example": "If the test had been bigger, the result would be clearer now.",
+      "context": [
+        "Daniel looks at the small test the supplier did.",
+        "In light of the new data, we changed the plan."
+      ],
+      "dialogue": [
+        "Maya: Daniel, the supplier did only one small test. If the test had been bigger, the result would be clearer now.",
+        "Daniel: I see. Despite the small test, the supplier says the chairs are strong.",
+        "Maya: One consequence of a small test is a weak result. We must question the evidence.",
+        "Daniel: You are right. In light of the new data, we changed the plan. We need a bigger test.",
+        "Maya: Good. All things considered, the plan worked well, but we need more proof.",
+        "Daniel: I agree. A bigger test will give us a clearer result now."
+      ],
+      "listening": "On Thursday, Maya and Daniel look at the test. Maya says, 'The supplier did only one small test. If the test had been bigger, the result would be clearer now.' Daniel says, 'Despite the small test, the supplier says the chairs are strong.' Maya says, 'We must question the evidence.' Daniel says, 'In light of the new data, we changed the plan.'",
+      "question": "What does Maya say the team needs?",
+      "correct": "A bigger test",
+      "other": "A smaller test",
+      "reading": "On Thursday, Maya and Daniel look at the test the supplier did. The test was very small: only ten chairs, and only one month. Maya says, 'If the test had been bigger, the result would be clearer now. A small test can hide the truth.' Daniel says, 'Despite the small test, the supplier says the chairs are strong.' Maya says, 'One consequence of a small test is a weak result. When the test is small, we cannot trust the result. We must question the evidence, not the person. Ask how the test was done.' Daniel says, 'In light of the new data, we changed the plan. We need a bigger test before we order.' Maya says, 'All things considered, the plan worked well, but we need more proof. A bigger test will give us a clearer result now.'",
+      "readingQ": "Why does Maya say the team cannot trust the result?",
+      "readingA": "Because the test was very small.",
+      "speaking": "Tell a friend about a small test or a short report you saw. What was the result? Would a bigger test give a clearer result?",
+      "speakingSample": "I saw a small test from a supplier. The test used ten chairs. If the test had been bigger, the result would be clearer now. Despite the small test, the supplier says the chairs are strong. One consequence of a small test is a weak result. We must question the evidence. In light of the new data, we changed the plan. All things considered, we need a bigger test.",
+      "writing": "Write a short email to a colleague. Tell them about a small test. Say why the result is not clear and what you need.",
+      "writingSample": "Dear Priya, I want to tell you about a test from a supplier. The test was very small: only ten chairs, and only one month. If the test had been bigger, the result would be clearer now. Despite the small test, the supplier says the chairs are strong. One consequence of a small test is a weak result. We must question the evidence, not the person. In light of the new data, we changed the plan. All things considered, we need a bigger test before we order. Best, Daniel",
+      "sound": "Consequence has its strongest beat on SE. In consequence, say SE clearly in the middle. In despite, say SPITE clearly at the end.",
+      "model": "One consequence of the late delivery was an unhappy client.",
+      "wordTask": "How big was the supplier's test?",
+      "wordSample": "Very small: only ten chairs, and only one month."
+    },
+    {
+      "unit": 4,
+      "day": 29,
+      "title": "What really matters",
+      "goal": "I can say what really matters in a clear way.",
+      "newItems": [
+        {
+          "word": "emphasis",
+          "ipa": "/ˈɛmfəsɪs/",
+          "pos": "noun",
+          "definition": "Special attention given to one thing.",
+          "example": "The emphasis in the meeting was on quality, not speed.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "stress",
+          "ipa": "/strɛs/",
+          "pos": "noun",
+          "definition": "Strong attention on one thing; a strong beat on a word.",
+          "example": "Put the stress on the first part of the word.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "what matters most is",
+          "ipa": "/wʌt ˈmætɚz moʊst ɪz/",
+          "pos": "fixed phrase",
+          "definition": "The most important thing is this.",
+          "example": "What matters most is the evidence.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "the point is that",
+          "ipa": "/ðə pɔɪnt ɪz ðæt/",
+          "pos": "fixed phrase",
+          "definition": "The main idea is this.",
+          "example": "The point is that we need better data.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "back up your claim",
+          "ipa": "/bæk ʌp jʊər kleɪm/",
+          "pos": "fixed phrase",
+          "definition": "Give proof to support what you say.",
+          "example": "Back up your claim with real numbers.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "change",
+        "work",
+        "office",
+        "manager",
+        "customer"
+      ],
+      "mainWord": {
+        "word": "emphasis",
+        "ipa": "/ˈɛmfəsɪs/",
+        "pos": "noun",
+        "definition": "Special attention given to one thing.",
+        "example": "The emphasis in the meeting was on quality, not speed.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Emphasis is a noun. An emphasis is special attention given to one thing. The emphasis in the meeting was on quality, not speed.",
+      "pronunciationTarget": {
+        "word": "emphasis",
+        "ipa": "/ˈɛmfəsɪs/"
+      },
+      "expression": "What matters most is the evidence.",
+      "use": "Use this when you want to show what is most important.",
+      "expressionTask": "Maya talks to the team. What does she say matters most?",
+      "grammar": "Cleft sentences: What matters most is the evidence",
+      "pattern": "What matters most is the evidence.",
+      "task": "What matters most is the ___.",
+      "answer": "evidence",
+      "example": "What matters most is the evidence.",
+      "context": [
+        "Maya talks to the team about the new chairs.",
+        "What matters most is the evidence."
+      ],
+      "dialogue": [
+        "Maya: Team, let us talk about the new chairs. What matters most is the evidence, not the story.",
+        "Daniel: I agree. The point is that we need better data before we order.",
+        "Maya: Right. The emphasis in our work must be on facts. Put the stress on the facts, not on the ads.",
+        "Daniel: I see. I will back up your claim with real numbers. The test must be bigger.",
+        "Maya: Good. What matters most is the evidence. A strong test gives us strong facts.",
+        "Daniel: I understand. The point is that we check first, and then we decide."
+      ],
+      "listening": "On Friday, Maya talks to the team. She says, 'What matters most is the evidence, not the story.' Daniel says, 'The point is that we need better data before we order.' Maya says, 'The emphasis in our work must be on facts. Put the stress on the facts, not on the ads.' Daniel says, 'I will back up your claim with real numbers.'",
+      "question": "What does Maya say matters most?",
+      "correct": "The evidence",
+      "other": "The story",
+      "reading": "On Friday, Maya talks to the team about the new chairs. She says, 'What matters most is the evidence, not the story. A good story is nice, but it is not proof.' Daniel says, 'The point is that we need better data before we order. A bigger test will give us better data.' Maya says, 'The emphasis in our work must be on facts. Put the stress on the facts, not on the ads. An ad can make a chair look perfect, but only a test can show the truth.' Daniel says, 'I will back up your claim with real numbers. Let me do a bigger test and show you the result.' Maya says, 'Good. What matters most is the evidence. The point is that we check first, and then we decide. A strong test gives us strong facts.'",
+      "readingQ": "What does Maya say an ad can do?",
+      "readingA": "Make a chair look perfect, but only a test can show the truth.",
+      "speaking": "Tell a friend what matters most in your work. What is the point? What do you put the stress on?",
+      "speakingSample": "In my work, what matters most is the evidence, not the story. The point is that we need better data before we order. The emphasis in our work must be on facts. Put the stress on the facts, not on the ads. I will back up your claim with real numbers. A strong test gives us strong facts. That is why we check first, and then we decide.",
+      "writing": "Write a short email to a colleague. Say what matters most in your work and what the point is.",
+      "writingSample": "Dear Priya, I want to tell you what matters most in our work. What matters most is the evidence, not the story. The point is that we need better data before we order. The emphasis in our work must be on facts. Put the stress on the facts, not on the ads. I will back up your claim with real numbers. A bigger test will give us better data. The point is that we check first, and then we decide. Best, Daniel",
+      "sound": "Emphasis has its strongest beat on EM. In emphasis, say EM clearly at the start. In stress, say STRESS clearly.",
+      "model": "The emphasis in the meeting was on quality, not speed.",
+      "wordTask": "What does Maya say matters most?",
+      "wordSample": "The evidence, not the story."
+    },
+    {
+      "unit": 4,
+      "day": 30,
+      "title": "Spot a weak argument",
+      "goal": "I can spot a weak argument.",
+      "newItems": [
+        {
+          "word": "assumption",
+          "ipa": "/əˈsʌmpʃən/",
+          "pos": "noun",
+          "definition": "An idea you believe is true without proof.",
+          "example": "His assumption was that everyone had read the report.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "logical",
+          "ipa": "/ˈlɑdʒɪkəl/",
+          "pos": "adjective",
+          "definition": "Based on clear thinking and good reasons.",
+          "example": "Give a logical reason for your choice.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "stereotype",
+          "ipa": "/ˈstɛriəˌtaɪp/",
+          "pos": "noun",
+          "definition": "A fixed, unfair idea about a group of people.",
+          "example": "It is a stereotype to say all young people like the same music.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "jump to conclusions",
+          "ipa": "/dʒʌmp tə kənˈkluʒənz/",
+          "pos": "fixed phrase",
+          "definition": "Decide something quickly without enough proof.",
+          "example": "Do not jump to conclusions after one bad day.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "take it with a grain of salt",
+          "ipa": "/teɪk ɪt wɪð ə ɡreɪn əv sɔlt/",
+          "pos": "fixed phrase",
+          "definition": "Do not fully believe something; be careful about it.",
+          "example": "Take that story with a grain of salt.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "quality",
+        "money",
+        "time",
+        "day",
+        "week"
+      ],
+      "mainWord": {
+        "word": "assumption",
+        "ipa": "/əˈsʌmpʃən/",
+        "pos": "noun",
+        "definition": "An idea you believe is true without proof.",
+        "example": "His assumption was that everyone had read the report.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Assumption is a noun. An assumption is an idea you believe is true without proof. His assumption was that everyone had read the report.",
+      "pronunciationTarget": {
+        "word": "assumption",
+        "ipa": "/əˈsʌmpʃən/"
+      },
+      "expression": "Take it with a grain of salt.",
+      "use": "Use this when you do not fully believe a story.",
+      "expressionTask": "Priya reads a post about young people. What does she say about it?",
+      "grammar": "Weak arguments: Just because sales went up does not mean the ad worked",
+      "pattern": "Just because sales went up does not mean the ad worked.",
+      "task": "Just because sales went up does not mean the ad ___.",
+      "answer": "worked",
+      "example": "Just because sales went up does not mean the ad worked.",
+      "context": [
+        "Priya reads a post that says all young people buy online.",
+        "Take it with a grain of salt."
+      ],
+      "dialogue": [
+        "Priya: Look at this post. It says all young people buy online. That is a stereotype.",
+        "Daniel: You are right. It is an assumption with no proof. One small group does not show the whole story.",
+        "Priya: Right. Do not jump to conclusions after one small test. Ask for more facts.",
+        "Daniel: I see. Just because sales went up does not mean the ad worked. We need a logical reason.",
+        "Priya: Yes. Take it with a grain of salt. Do not fully believe a story with no proof.",
+        "Daniel: I understand. A logical answer needs facts, not just a good story."
+      ],
+      "listening": "On Monday, Priya reads a post. It says all young people buy online. Priya says, 'That is a stereotype. It is an assumption with no proof.' Daniel says, 'One small group does not show the whole story. Do not jump to conclusions after one small test.' Priya says, 'We need a logical reason.' Daniel says, 'Take it with a grain of salt.'",
+      "question": "What does Priya say the post is?",
+      "correct": "A stereotype",
+      "other": "A fact",
+      "reading": "On Monday, Priya reads a post on her phone. The post says all young people buy online. Priya says, 'That is a stereotype. A stereotype is a fixed, unfair idea about a group of people. It is not a fact.' Daniel says, 'It is an assumption with no proof. His assumption was that everyone buys online, but he only asked ten people.' Priya says, 'Do not jump to conclusions after one small test. One small group does not show the whole story.' Daniel says, 'Just because sales went up does not mean the ad worked. We need a logical reason for our choice. A logical reason is based on clear thinking and good reasons.' Priya says, 'Take it with a grain of salt. Do not fully believe a story with no proof.'",
+      "readingQ": "How many people did the writer of the post ask?",
+      "readingA": "Only ten people.",
+      "speaking": "Tell a friend about a weak argument you heard. What was the assumption? Why was it weak?",
+      "speakingSample": "Last week, I read a post. It said all young people buy online. That is a stereotype. It is an assumption with no proof. The writer only asked ten people. Do not jump to conclusions after one small test. Just because sales went up does not mean the ad worked. We need a logical reason. Take it with a grain of salt.",
+      "writing": "Write a short email to a colleague. Tell them about a weak argument you heard. Say what the assumption was and why it was weak.",
+      "writingSample": "Dear Priya, I want to tell you about a post I read. It says all young people buy online. That is a stereotype. It is an assumption with no proof. The writer only asked ten people. Do not jump to conclusions after one small test. Just because sales went up does not mean the ad worked. We need a logical reason for our choice. Take it with a grain of salt. A logical answer needs facts, not just a good story. Best, Daniel",
+      "sound": "Assumption has its strongest beat on SUMP. In assumption, say SUMP clearly in the middle. In logical, say LOG clearly at the start.",
+      "model": "His assumption was that everyone had read the report.",
+      "wordTask": "What does the post say about young people?",
+      "wordSample": "That all young people buy online."
+    },
+    {
+      "unit": 4,
+      "day": 31,
+      "title": "Wish things were different",
+      "goal": "I can say what I wish were different.",
+      "newItems": [
+        {
+          "word": "doubt",
+          "ipa": "/daʊt/",
+          "pos": "noun",
+          "definition": "A feeling of not being sure that something is true.",
+          "example": "I have my doubts about that claim.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "generalize",
+          "ipa": "/ˈdʒɛnɚəˌlaɪz/",
+          "pos": "verb",
+          "definition": "To say something is true about a whole group, often too quickly.",
+          "example": "Do not generalize from one small test.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "I wish",
+          "ipa": "/aɪ wɪʃ/",
+          "pos": "fixed phrase",
+          "definition": "Used to say you want something to be true.",
+          "example": "I wish the report had more detail.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "in other words",
+          "ipa": "/ɪn ˈʌðɚ wɝdz/",
+          "pos": "fixed phrase",
+          "definition": "In different words; said another way.",
+          "example": "In other words, the plan needs more time.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "on balance",
+          "ipa": "/ɑn ˈbæləns/",
+          "pos": "fixed phrase",
+          "definition": "When you think about the good and bad sides together.",
+          "example": "On balance, the new system is better.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "month",
+        "year",
+        "company",
+        "job",
+        "email"
+      ],
+      "mainWord": {
+        "word": "doubt",
+        "ipa": "/daʊt/",
+        "pos": "noun",
+        "definition": "A feeling of not being sure that something is true.",
+        "example": "I have my doubts about that claim.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Doubt is a noun. A doubt is a feeling of not being sure that something is true. I have my doubts about that claim.",
+      "pronunciationTarget": {
+        "word": "doubt",
+        "ipa": "/daʊt/"
+      },
+      "expression": "I wish we had asked more questions.",
+      "use": "Use this when you wish the past were different.",
+      "expressionTask": "The team talks about the past. What do they wish they had done?",
+      "grammar": "Wish: I wish we had asked more questions",
+      "pattern": "I wish we had asked more questions.",
+      "task": "I wish we had asked more ___.",
+      "answer": "questions",
+      "example": "I wish we had asked more questions.",
+      "context": [
+        "The team talks about what they wish they had done.",
+        "I wish we had asked more questions."
+      ],
+      "dialogue": [
+        "Maya: Team, what do you wish we had done differently?",
+        "Daniel: I wish we had asked more questions. I have my doubts about that small test.",
+        "Priya: I agree. We should not generalize from one small test. One test does not show the whole story.",
+        "Maya: Right. In other words, we need a bigger test and better data.",
+        "Daniel: Yes. On balance, the new system is better, but we need more proof.",
+        "Maya: Good. I wish we had asked for more detail at the start."
+      ],
+      "listening": "On Tuesday, Maya asks the team, 'What do you wish we had done differently?' Daniel says, 'I wish we had asked more questions. I doubt that small test.' Priya says, 'We should not generalize from one small test.' Maya says, 'In other words, we need a bigger test and better data.' Daniel says, 'On balance, we need more proof.'",
+      "question": "What does Daniel say about the small test?",
+      "correct": "He doubts it",
+      "other": "He trusts it fully",
+      "reading": "On Tuesday, Maya asks the team what they wish they had done differently. Daniel says, 'I wish we had asked more questions. I doubt that small test. One test with ten chairs does not show the truth.' Priya says, 'We should not generalize from one small test. Do not say something is true about a whole group after one small test.' Maya says, 'In other words, we need a bigger test and better data. A bigger test will give us a clearer result.' Daniel says, 'On balance, the new system is better, but we need more proof. The new chairs are strong, but the test was too small.' Maya says, 'I wish we had asked for more detail at the start. Next time, we will ask more questions before we order.'",
+      "readingQ": "What does Maya say the team will do next time?",
+      "readingA": "Ask more questions before they order.",
+      "speaking": "Tell a friend what you wish you had done differently. What would you change?",
+      "speakingSample": "Last year, I wish we had asked more questions. I doubt that small test. One test with ten chairs does not show the truth. We should not generalize from one small test. In other words, we need a bigger test and better data. On balance, the new system is better, but we need more proof. Next time, I will ask more questions before I order.",
+      "writing": "Write a short email to a colleague. Say what you wish you had done differently and what you will do next time.",
+      "writingSample": "Dear Priya, I want to tell you what I wish we had done differently. I wish we had asked more questions. I doubt that small test. One test with ten chairs does not show the truth. We should not generalize from one small test. In other words, we need a bigger test and better data. On balance, the new system is better, but we need more proof. Next time, we will ask more questions before we order. Best, Daniel",
+      "sound": "Doubt has one strong beat: DOUBT. In doubt, say DOUBT clearly. In generalize, say GEN clearly at the start.",
+      "model": "I doubt that claim.",
+      "wordTask": "What does Daniel wish the team had done?",
+      "wordSample": "Asked more questions."
+    },
+    {
+      "unit": 4,
+      "day": 32,
+      "title": "Use critical-thinking English in a new situation",
+      "goal": "I can use critical-thinking English in a new situation.",
+      "newItems": [
+        {
+          "word": "rumor",
+          "ipa": "/ˈrumɚ/",
+          "pos": "noun",
+          "definition": "A story passed from person to person that may not be true.",
+          "example": "The rumor about the shop closing was not true.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "verify",
+          "ipa": "/ˈvɛrəˌfaɪ/",
+          "pos": "verb",
+          "definition": "To check that something is true or correct.",
+          "example": "Please verify the date before you send the email.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "separate fact from fiction",
+          "ipa": "/ˈsɛpəˌreɪt fækt frʌm ˈfɪkʃən/",
+          "pos": "fixed phrase",
+          "definition": "Keep true facts apart from things that are not true.",
+          "example": "Separate fact from fiction when you read the news.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "look at both sides",
+          "ipa": "/lʊk ət boʊθ saɪdz/",
+          "pos": "fixed phrase",
+          "definition": "Think about more than one side of a question.",
+          "example": "Look at both sides before you decide.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "think it through",
+          "ipa": "/θɪŋk ɪt θru/",
+          "pos": "fixed phrase",
+          "definition": "Think carefully about all the parts of a problem.",
+          "example": "Think it through before you answer.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "phone",
+        "message",
+        "news",
+        "story",
+        "book"
+      ],
+      "mainWord": {
+        "word": "rumor",
+        "ipa": "/ˈrumɚ/",
+        "pos": "noun",
+        "definition": "A story passed from person to person that may not be true.",
+        "example": "The rumor about the shop closing was not true.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Rumor is a noun. A rumor is a story passed from person to person that may not be true. The rumor about the shop closing was not true.",
+      "pronunciationTarget": {
+        "word": "rumor",
+        "ipa": "/ˈrumɚ/"
+      },
+      "expression": "Think it through before you answer.",
+      "use": "Use this when you check a new claim in a new situation.",
+      "expressionTask": "Leo shows Daniel an online post. What does the post say?",
+      "grammar": "Review: I can use critical-thinking English in a new situation",
+      "pattern": "I can use critical-thinking English in a new situation.",
+      "task": "I can ___ critical-thinking English in a new situation.",
+      "answer": "use",
+      "example": "I can use critical-thinking English in a new situation.",
+      "context": [
+        "Leo shows Daniel an online post. It says a new drink doubles your energy.",
+        "Think it through before you answer."
+      ],
+      "dialogue": [
+        "Daniel: Maya, my friend Leo showed me a post. It says a new drink doubles your energy.",
+        "Maya: That sounds like a rumor. Did Leo verify the date and the writer?",
+        "Daniel: No. He only read the post. I told him to separate fact from fiction.",
+        "Maya: Good. Look at both sides before you decide. What did the post show as proof?",
+        "Daniel: Only one small test. I told Leo to think it through before he buys the drink.",
+        "Maya: Right. A rumor is a story that may not be true. Always verify a claim first."
+      ],
+      "listening": "On Saturday, Leo shows Daniel an online post. It says a new drink doubles your energy. Daniel says, 'That sounds like a rumor. Did you verify the date and the writer?' Leo says, 'No, I only read the post.' Daniel says, 'Separate fact from fiction. Look at both sides before you decide.' Maya says, 'Think it through before you buy the drink.'",
+      "question": "What does Daniel tell Leo to do before he buys the drink?",
+      "correct": "Think it through",
+      "other": "Buy two bottles at once",
+      "reading": "On Saturday, Daniel meets his friend Leo. Leo shows Daniel an online post. It says a new drink doubles your energy. Daniel says, 'That sounds like a rumor. A rumor is a story passed from person to person that may not be true. Did you verify the date and the writer?' Leo says, 'No, I only read the post on my phone. It looked good.' Daniel says, 'Separate fact from fiction when you read the news. Look at both sides before you decide. What proof did the post show?' Leo says, 'Only one small test with ten people.' Daniel says, 'Think it through before you buy the drink. One small test does not show the truth. Always verify a claim first. A good check can save you from a bad buy.'",
+      "readingQ": "How many people were in the test in the post?",
+      "readingA": "Only ten people.",
+      "speaking": "Tell a friend about a new situation where you checked a claim. What was the claim? How did you check it?",
+      "speakingSample": "On Saturday, my friend Leo showed me a post. It said a new drink doubles your energy. That sounds like a rumor. Did he verify the date and the writer? No, he only read the post. I told him to separate fact from fiction. Look at both sides before you decide. Think it through before you buy the drink. Always verify a claim first.",
+      "writing": "Write a short email to a friend about a new situation. Say what the claim was and how you checked it.",
+      "writingSample": "Dear Anna, I want to tell you about a post my friend Leo showed me. It says a new drink doubles your energy. That sounds like a rumor. Did he verify the date and the writer? No, he only read the post. I told him to separate fact from fiction. Look at both sides before you decide. Think it through before you buy the drink. One small test does not show the truth. Always verify a claim first. Best, Daniel",
+      "sound": "Rumor has its strongest beat on RU. In rumor, say RU clearly at the start. In verify, say VER clearly at the start.",
+      "model": "The rumor about the shop closing was not true.",
+      "wordTask": "What does Leo show Daniel on Saturday?",
+      "wordSample": "An online post about a new drink.",
+      "transferCheck": {
+        "source": "On Sunday, Emma reads an online post. It says a new app doubles your reading speed. Emma talks to her teacher, Ms. Green. She says, 'That sounds like a rumor. Did you verify the writer and the date?' Emma says, 'No, I only read the post.' Ms. Green says, 'Separate fact from fiction. Look at both sides before you decide.' Emma says, 'Think it through before you try the app. One small test does not show the truth.' Ms. Green says, 'Good. Always verify a claim first.' Emma is happy. She says, 'Thank you, Ms. Green. I am glad we talked.'",
+        "dictation": "A new app doubles your reading speed.",
+        "answer": "1. The new checker is Emma. She reads an online post about a reading app and talks to her teacher, Ms. Green. 2. Emma's first job is to say that the post says a new app doubles your reading speed. 3. On Sunday, Emma says, 'A new app doubles your reading speed.' 4. A new app doubles your reading speed. 5. Sample: On Sunday, Emma reads an online post. It says a new app doubles your reading speed. Emma talks to her teacher, Ms. Green. She says, 'That sounds like a rumor. Did you verify the writer and the date?' Emma says, 'No, I only read the post.' Ms. Green says, 'Separate fact from fiction. Look at both sides before you decide.' Emma says, 'Think it through before you try the app. One small test does not show the truth.' Follow-up: What does Ms. Green tell Emma to do before she tries the app? Think it through.",
+        "tasks": [
+          [
+            "1 · Identify the people and the new situation",
+            "Who is the new checker, and what does she read?"
+          ],
+          [
+            "2 · Work out what Emma does first",
+            "What is Emma's first job, and what does she say?"
+          ],
+          [
+            "3 · Notice the sentence on Sunday",
+            "What does Emma say on Sunday?"
+          ],
+          [
+            "4 · Listen and write",
+            "Write the sentence you hear."
+          ],
+          [
+            "5 · Retell and answer",
+            "Tell the story in order, including the people, the new situation, the first talk, and the result. Then answer one follow-up question."
+          ]
+        ]
+      }
+    }
+  ]
+}

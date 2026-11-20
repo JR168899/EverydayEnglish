@@ -1,0 +1,905 @@
+{
+  "number": 6,
+  "title": "Social media and public opinion",
+  "lessons": [
+    {
+      "unit": 6,
+      "day": 41,
+      "title": "What is social media?",
+      "goal": "I can talk about social media and what people do online.",
+      "newItems": [
+        {
+          "word": "profile",
+          "ipa": "/ˈproʊˌfaɪl/",
+          "pos": "noun",
+          "definition": "The page that shows who you are online.",
+          "example": "Her profile has a photo of her dog.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "feed",
+          "ipa": "/fid/",
+          "pos": "noun",
+          "definition": "A list of posts you see online.",
+          "example": "My feed showed the story this morning.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "scroll through",
+          "ipa": "/skroʊl θru/",
+          "pos": "fixed phrase",
+          "definition": "To move down a page to look at posts.",
+          "example": "I scroll through the news each morning.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "in real life",
+          "ipa": "/ɪn ˈriəl laɪf/",
+          "pos": "fixed phrase",
+          "definition": "In the world outside the internet.",
+          "example": "We met in real life last year.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "all over social media",
+          "ipa": "/ɔl ˈoʊvɚ ˈsoʊʃəl ˈmidiə/",
+          "pos": "fixed phrase",
+          "definition": "In many places online.",
+          "example": "The story is all over social media.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "morning",
+        "today",
+        "friend",
+        "photo",
+        "week"
+      ],
+      "mainWord": {
+        "word": "profile",
+        "ipa": "/ˈproʊˌfaɪl/",
+        "pos": "noun",
+        "definition": "The page that shows who you are online.",
+        "example": "Her profile has a photo of her dog.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Profile is a noun. A profile is the page that shows who you are online. Her profile has a photo of her dog.",
+      "pronunciationTarget": {
+        "word": "profile",
+        "ipa": "/ˈproʊˌfaɪl/"
+      },
+      "expression": "The story is all over social media today.",
+      "use": "Use this when you say a story is in many places online.",
+      "expressionTask": "Maya reads a post on her phone. What does she say about the story?",
+      "grammar": "Impersonal passive: It is said that social media changes minds",
+      "pattern": "It is said that social media changes minds.",
+      "task": "It is said that social media ___ minds.",
+      "answer": "changes",
+      "example": "It is said that social media changes minds.",
+      "context": [
+        "Maya reads a post on her phone at work.",
+        "The story is all over social media today. Her profile has a photo of her dog."
+      ],
+      "dialogue": [
+        "Maya: Daniel, have you seen my new profile? I put a photo of my dog on it.",
+        "Daniel: Yes. I saw it in my feed this morning. The story is all over social media today.",
+        "Maya: I scroll through the news each morning. It is said that social media changes minds.",
+        "Priya: Do you meet your online friends in real life?",
+        "Daniel: Yes. I met two friends in real life last year. We talk online every week.",
+        "Maya: Good. A profile shows who you are. A feed shows what your friends share."
+      ],
+      "listening": "On Monday, Maya looks at her profile on her phone. Her profile has a photo of her dog. She scrolls through her feed each morning. The story is all over social media today. Maya meets her online friends in real life. She met two friends in real life last year. It is said that social media changes minds. Maya likes her new profile.",
+      "question": "What does Maya do each morning?",
+      "correct": "She scrolls through her feed",
+      "other": "She writes a long letter",
+      "reading": "On Monday, Maya looks at her new profile on her phone. Her profile has a photo of her dog. She scrolls through her feed each morning. Her feed shows posts from her friends. The story is all over social media today. Maya meets her online friends in real life. She met two friends in real life last year. They talk online every week. Maya says, 'A profile shows who you are. A feed shows what your friends share.' It is said that social media changes minds. Maya likes her new profile. Her friends write kind words under her photo. Daniel says, 'I saw your profile in my feed this morning. The story is all over social media today.' Priya says, 'I scroll through the news each morning too. I like to see my friends in real life.' Maya says, 'Good. Social media helps us talk, but real life is important too.'",
+      "readingQ": "What does Maya's profile show?",
+      "readingA": "A photo of her dog.",
+      "speaking": "Tell a friend about your social media. What is on your profile? What do you see in your feed?",
+      "speakingSample": "I look at my profile on my phone. My profile has a photo of my dog. I scroll through my feed each morning. My feed shows posts from my friends. The story is all over social media today. I meet my online friends in real life. I met two friends in real life last year. It is said that social media changes minds. I like my new profile.",
+      "writing": "Write a short email to a friend. Tell them about your social media. Say what is on your profile and what you see in your feed.",
+      "writingSample": "Dear Tom, I want to tell you about my social media. I look at my profile on my phone. My profile has a photo of my dog. I scroll through my feed each morning. My feed shows posts from my friends. The story is all over social media today. I meet my online friends in real life. I met two friends in real life last year. It is said that social media changes minds. I like my new profile. It shows who I am. Best, Daniel",
+      "sound": "Profile has its strongest beat on PRO. In profile, say PRO clearly at the start. In feed, say FEED clearly.",
+      "model": "Her profile has a photo of her dog.",
+      "wordTask": "What is on Maya's profile?",
+      "wordSample": "A photo of her dog."
+    },
+    {
+      "unit": 6,
+      "day": 42,
+      "title": "How algorithms shape what you see",
+      "goal": "I can talk about how algorithms shape what I see.",
+      "newItems": [
+        {
+          "word": "algorithm",
+          "ipa": "/ˈælɡəˌrɪðəm/",
+          "pos": "noun",
+          "definition": "A set of steps a computer follows to choose what to show you.",
+          "example": "The algorithm shows you more news.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "trending",
+          "ipa": "/ˈtrɛndɪŋ/",
+          "pos": "adjective",
+          "definition": "Talked about by many people online now.",
+          "example": "The new song is trending today.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "hashtag",
+          "ipa": "/ˈhæʃˌtæɡ/",
+          "pos": "noun",
+          "definition": "A word with # in front of it, used to find posts on one subject.",
+          "example": "She used a hashtag for the new park.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "echo chamber",
+          "ipa": "/ˈɛkoʊ ˈtʃeɪmbɚ/",
+          "pos": "fixed phrase",
+          "definition": "A place online where you only hear views like your own.",
+          "example": "The group became an echo chamber.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "filter bubble",
+          "ipa": "/ˈfɪltɚ ˈbʌbəl/",
+          "pos": "fixed phrase",
+          "definition": "The small set of posts a computer shows you, based on what you liked before.",
+          "example": "The filter bubble hides other views.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "news",
+        "story",
+        "paper",
+        "radio",
+        "team"
+      ],
+      "mainWord": {
+        "word": "algorithm",
+        "ipa": "/ˈælɡəˌrɪðəm/",
+        "pos": "noun",
+        "definition": "A set of steps a computer follows to choose what to show you.",
+        "example": "The algorithm shows you more news.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Algorithm is a noun. An algorithm is a set of steps a computer follows to choose what to show you. The algorithm shows you more news.",
+      "pronunciationTarget": {
+        "word": "algorithm",
+        "ipa": "/ˈælɡəˌrɪðəm/"
+      },
+      "expression": "The new song is trending today.",
+      "use": "Use this when many people talk about something online.",
+      "expressionTask": "Daniel sees a new song online. What does he say about it?",
+      "grammar": "Modal verbs for deduction: The post must be true",
+      "pattern": "The post must be true.",
+      "task": "The post ___ be true.",
+      "answer": "must",
+      "example": "The post must be true.",
+      "context": [
+        "Daniel sees a new song online.",
+        "The new song is trending today. The algorithm shows you more news."
+      ],
+      "dialogue": [
+        "Daniel: Maya, the new song is trending today. I used a hashtag for the new park.",
+        "Maya: The algorithm shows you more news. It must be true that the song is good.",
+        "Priya: It might be an echo chamber. We only hear views like our own.",
+        "Daniel: The filter bubble hides other views. It can't be good for us.",
+        "Maya: The post must be true. The paper says the song is number one.",
+        "Priya: Good. An algorithm chooses what we see. A hashtag helps us find posts."
+      ],
+      "listening": "On Tuesday, Daniel sees a new song online. The new song is trending today. He used a hashtag for the new park. The algorithm shows you more news. The post must be true. It might be an echo chamber. The filter bubble hides other views. Daniel says, 'The new song is trending today. It must be true that the song is good.'",
+      "question": "What does Daniel see online?",
+      "correct": "A new song",
+      "other": "A new car",
+      "reading": "On Tuesday, Daniel sees a new song online. The new song is trending today. He used a hashtag for the new park. The algorithm shows you more news. The post must be true. It might be an echo chamber. We only hear views like our own. The filter bubble hides other views. Daniel tells Maya about the song. He says, 'The new song is trending today. The algorithm shows you more news.' Maya says, 'It must be true that the song is good. The paper says the song is number one.' Priya says, 'It might be an echo chamber. The filter bubble hides other views. Use a hashtag to find posts on one subject.' Daniel says, 'Good. An algorithm chooses what we see. A hashtag helps us find posts. I like the new song.'",
+      "readingQ": "What does the algorithm do?",
+      "readingA": "It shows you more news.",
+      "speaking": "Tell a friend about a song or story online. Is it trending? How does the algorithm show it to you?",
+      "speakingSample": "This week, I saw a new song online. The new song is trending today. I used a hashtag for the new park. The algorithm shows you more news. The post must be true. It might be an echo chamber. The filter bubble hides other views. An algorithm chooses what we see. A hashtag helps us find posts. I like the new song.",
+      "writing": "Write a short email to a friend. Tell them about a song or story online. Say if it is trending and how the algorithm shows it to you.",
+      "writingSample": "Dear Anna, I want to tell you about a new song online. The new song is trending today. I used a hashtag for the new park. The algorithm shows you more news. The post must be true. It might be an echo chamber. The filter bubble hides other views. An algorithm chooses what we see. A hashtag helps us find posts. I like the new song. It is a good song. Please tell me what you think. Best, Daniel",
+      "sound": "Algorithm has its strongest beat on AL. In algorithm, say AL clearly at the start. In trending, say TREND clearly at the start.",
+      "model": "The algorithm shows you more news.",
+      "wordTask": "What does the algorithm show you?",
+      "wordSample": "More news."
+    },
+    {
+      "unit": 6,
+      "day": 43,
+      "title": "Influencers and followers",
+      "goal": "I can talk about influencers and followers.",
+      "newItems": [
+        {
+          "word": "influencer",
+          "ipa": "/ˈɪnfluˌɛnsɚ/",
+          "pos": "noun",
+          "definition": "A person with many followers who can change what people buy or think.",
+          "example": "The influencer talked about the new bikes.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "creator",
+          "ipa": "/kriˈeɪtɚ/",
+          "pos": "noun",
+          "definition": "A person who makes things, like videos or posts.",
+          "example": "The young creator makes funny videos.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "build a following",
+          "ipa": "/bɪld ə ˈfɑloʊɪŋ/",
+          "pos": "fixed phrase",
+          "definition": "To get more and more people to follow you online.",
+          "example": "She built a following in one year.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "a loyal follower",
+          "ipa": "/ə ˈlɔɪəl ˈfɑloʊɚ/",
+          "pos": "fixed phrase",
+          "definition": "A person who follows you and likes your posts for a long time.",
+          "example": "He is a loyal follower of the channel.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "gain followers",
+          "ipa": "/ɡeɪn ˈfɑloʊɚz/",
+          "pos": "fixed phrase",
+          "definition": "To get more people to follow you.",
+          "example": "He gains followers every week.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "singer",
+        "young",
+        "funny",
+        "video",
+        "online"
+      ],
+      "mainWord": {
+        "word": "influencer",
+        "ipa": "/ˈɪnfluˌɛnsɚ/",
+        "pos": "noun",
+        "definition": "A person with many followers who can change what people buy or think.",
+        "example": "The influencer talked about the new bikes.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Influencer is a noun. An influencer is a person with many followers who can change what people buy or think. The influencer talked about the new bikes.",
+      "pronunciationTarget": {
+        "word": "influencer",
+        "ipa": "/ˈɪnfluˌɛnsɚ/"
+      },
+      "expression": "She built a following in one year.",
+      "use": "Use this when someone gets many followers fast.",
+      "expressionTask": "Priya talks about a young singer online. What does she say about her?",
+      "grammar": "Wish and if only: I wish people checked the facts first",
+      "pattern": "I wish people checked the facts first.",
+      "task": "I wish people ___ the facts first.",
+      "answer": "checked",
+      "example": "I wish people checked the facts first.",
+      "context": [
+        "Priya talks about a young singer online.",
+        "She built a following in one year. The influencer talked about the new bikes."
+      ],
+      "dialogue": [
+        "Priya: Maya, the young singer is an influencer. She built a following in one year.",
+        "Maya: I wish people checked the facts first. The creator makes funny videos.",
+        "Daniel: He gains followers every week. He is a loyal follower of the channel.",
+        "Priya: The singer has a huge following. I wish I had a big following too.",
+        "Maya: A creator makes good videos. An influencer can change what people buy.",
+        "Daniel: Good. She built a following in one year. I will follow her too."
+      ],
+      "listening": "On Wednesday, Priya talks about a young singer online. The singer is an influencer. She built a following in one year. The creator makes funny videos. He gains followers every week. He is a loyal follower of the channel. Priya says, 'I wish people checked the facts first. The singer has a huge following.' Maya likes the singer.",
+      "question": "What did the singer do in one year?",
+      "correct": "She built a following",
+      "other": "She wrote a long book",
+      "reading": "On Wednesday, Priya talks about a young singer online. The singer is an influencer. She built a following in one year. The creator makes funny videos. Young singers gain followers every week. He is a loyal follower of the channel. The singer has a huge following. Priya says, 'I wish people checked the facts first. The singer has a huge following.' Maya says, 'A creator makes good videos. An influencer can change what people buy or think.' Daniel says, 'He is a loyal follower of the channel. I want to build a following too.' Priya says, 'The young singer is good. I wish I had a big following.' Daniel likes the singer too. Maya says, 'Good. An influencer has many followers. A creator makes videos people like.' The videos are funny and short.",
+      "readingQ": "What does the creator make?",
+      "readingA": "Funny videos.",
+      "speaking": "Tell a friend about an influencer or creator online. How did they build a following? Do you follow them?",
+      "speakingSample": "This week, I found a young singer online. The singer is an influencer. She built a following in one year. The creator makes funny videos. Young singers gain followers every week. He is a loyal follower of the channel. I wish people checked the facts first. The singer has a huge following. I like her videos. I want to build a following too.",
+      "writing": "Write a short email to a friend. Tell them about an influencer or creator online. Say how they built a following.",
+      "writingSample": "Dear Tom, I want to tell you about a young singer online. The singer is an influencer. She built a following in one year. The creator makes funny videos. Young singers gain followers every week. He is a loyal follower of the channel. I wish people checked the facts first. The singer has a huge following. I want to build a following too. I like her videos. Please tell me what you think. Best, Daniel",
+      "sound": "Influencer has its strongest beat on IN. In influencer, say IN clearly at the start. In creator, say ATE clearly at the end.",
+      "model": "The influencer talked about the new bikes.",
+      "wordTask": "What does the creator make?",
+      "wordSample": "Funny videos."
+    },
+    {
+      "unit": 6,
+      "day": 44,
+      "title": "Bias and balance online",
+      "goal": "I can talk about bias and balance in opinions online.",
+      "newItems": [
+        {
+          "word": "bias",
+          "ipa": "/ˈbaɪəs/",
+          "pos": "noun",
+          "definition": "A view that is not fair because it favours one side.",
+          "example": "The story shows a clear bias.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "credible",
+          "ipa": "/ˈkrɛdəbəl/",
+          "pos": "adjective",
+          "definition": "Able to be believed; from a good source.",
+          "example": "The report comes from a credible source.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "skeptical",
+          "ipa": "/ˈskɛptəkəl/",
+          "pos": "adjective",
+          "definition": "Not quick to believe something; full of doubt.",
+          "example": "She is skeptical about the new plan.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "see both sides",
+          "ipa": "/si boʊθ saɪdz/",
+          "pos": "fixed phrase",
+          "definition": "To think about the views of two sides.",
+          "example": "Try to see both sides of the story.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "on the one hand",
+          "ipa": "/ɑn ðə wʌn hænd/",
+          "pos": "fixed phrase",
+          "definition": "Used to give one side of a question.",
+          "example": "On the one hand, the plan costs a lot.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "plan",
+        "town",
+        "school",
+        "park",
+        "meeting"
+      ],
+      "mainWord": {
+        "word": "bias",
+        "ipa": "/ˈbaɪəs/",
+        "pos": "noun",
+        "definition": "A view that is not fair because it favours one side.",
+        "example": "The story shows a clear bias.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Bias is a noun. A bias is a view that is not fair because it favours one side. The story shows a clear bias.",
+      "pronunciationTarget": {
+        "word": "bias",
+        "ipa": "/ˈbaɪəs/"
+      },
+      "expression": "Try to see both sides of the story.",
+      "use": "Use this when you tell someone to think about two views.",
+      "expressionTask": "Maya reads two posts about a new park. What does she say about them?",
+      "grammar": "So and such: It was such a strong post that everyone read it",
+      "pattern": "It was such a strong post that everyone read it.",
+      "task": "It was ___ a strong post that everyone read it.",
+      "answer": "such",
+      "example": "It was such a strong post that everyone read it.",
+      "context": [
+        "Maya reads two posts about a new park.",
+        "Try to see both sides of the story. The story shows a clear bias."
+      ],
+      "dialogue": [
+        "Maya: Priya, I read two posts about the new park. The story shows a clear bias.",
+        "Priya: Try to see both sides of the story. On the one hand, the park costs a lot.",
+        "Daniel: On the other hand, it saves time. It was such a strong post that everyone read it.",
+        "Maya: I am skeptical about the new plan. The report comes from a credible source.",
+        "Priya: A credible source helps us. A bias makes the story unfair.",
+        "Daniel: Good. See both sides, and ask if the story is fair."
+      ],
+      "listening": "On Thursday, Maya reads two posts about the new park. The story shows a clear bias. Try to see both sides of the story. On the one hand, the park costs a lot. I am skeptical about the new plan. The report comes from a credible source. Maya says, 'See both sides, and ask if the story is fair.'",
+      "question": "What does Maya read about?",
+      "correct": "Two posts about the new park",
+      "other": "Two books about the new park",
+      "reading": "On Thursday, Maya reads two posts about the new park. The story shows a clear bias. Try to see both sides of the story. On the one hand, the park costs a lot. On the other hand, it saves time. It was such a strong post that everyone read it. I am skeptical about the new plan. The report comes from a credible source. A credible source helps us. A bias makes the story unfair. Maya tells Priya about the posts. She says, 'Try to see both sides of the story. On the one hand, the park costs a lot.' Priya says, 'On the other hand, it saves time. It was such a strong post that everyone read it.' Daniel says, 'I am skeptical about the new plan. The report comes from a credible source.' Maya says, 'Good. See both sides, and ask if the story is fair. A bias is not fair to both sides.'",
+      "readingQ": "What does Maya tell Priya to do?",
+      "readingA": "See both sides of the story.",
+      "speaking": "Tell a friend about two posts with different views. What is the bias? Is the source credible?",
+      "speakingSample": "This week, I read two posts about the new park. The story shows a clear bias. Try to see both sides of the story. On the one hand, the park costs a lot. I am skeptical about the new plan. The report comes from a credible source. It was such a strong post that everyone read it. A bias makes the story unfair.",
+      "writing": "Write a short email to a friend. Tell them about two posts with different views. Say what the bias is and if the source is credible.",
+      "writingSample": "Dear Lisa, I want to tell you about two posts about the new park. The story shows a clear bias. Try to see both sides of the story. On the one hand, the park costs a lot. On the other hand, it saves time. It was such a strong post that everyone read it. I am skeptical about the new plan. The report comes from a credible source. A bias makes the story unfair. Please tell me what you think. Best, Daniel",
+      "sound": "Bias has its strongest beat on BI. In bias, say BI clearly at the start. In credible, say CRED clearly at the start.",
+      "model": "The story shows a clear bias.",
+      "wordTask": "What does the story show?",
+      "wordSample": "A clear bias."
+    },
+    {
+      "unit": 6,
+      "day": 45,
+      "title": "When opinions turn nasty",
+      "goal": "I can talk about rude posts and how to answer them.",
+      "newItems": [
+        {
+          "word": "troll",
+          "ipa": "/troʊl/",
+          "pos": "noun",
+          "definition": "A person who writes rude posts to make people angry.",
+          "example": "Do not answer a troll.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "cyberbullying",
+          "ipa": "/ˈsaɪbɚˌbʊliɪŋ/",
+          "pos": "noun",
+          "definition": "Using the internet to hurt or scare someone again and again.",
+          "example": "Cyberbullying can hurt young people a lot.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "anonymous",
+          "ipa": "/əˈnɑnəməs/",
+          "pos": "adjective",
+          "definition": "With no name shown; no one knows who you are.",
+          "example": "An anonymous user wrote the post.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "take it personally",
+          "ipa": "/teɪk ɪt ˈpɝsənəli/",
+          "pos": "fixed phrase",
+          "definition": "To feel hurt by something that was not about you.",
+          "example": "Do not take it personally.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "stand your ground",
+          "ipa": "/stænd jʊr ɡraʊnd/",
+          "pos": "fixed phrase",
+          "definition": "To keep your view even when others push you.",
+          "example": "She stood her ground in the debate.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "night",
+        "rain",
+        "storm",
+        "worker",
+        "hospital"
+      ],
+      "mainWord": {
+        "word": "troll",
+        "ipa": "/troʊl/",
+        "pos": "noun",
+        "definition": "A person who writes rude posts to make people angry.",
+        "example": "Do not answer a troll.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Troll is a noun. A troll is a person who writes rude posts to make people angry. Do not answer a troll.",
+      "pronunciationTarget": {
+        "word": "troll",
+        "ipa": "/troʊl/"
+      },
+      "expression": "Do not take it personally.",
+      "use": "Use this when you tell someone not to feel hurt.",
+      "expressionTask": "Daniel reads a rude post. What does Maya tell him?",
+      "grammar": "The more ... the more: The more time people spend online, the less they talk",
+      "pattern": "The more time people spend online, the less they talk.",
+      "task": "The more time people spend online, the ___ they talk.",
+      "answer": "less",
+      "example": "The more time people spend online, the less they talk.",
+      "context": [
+        "Daniel reads a rude post at night.",
+        "Do not take it personally. An anonymous user wrote the post."
+      ],
+      "dialogue": [
+        "Daniel: Maya, I read a rude post at night. An anonymous user wrote the post.",
+        "Maya: Do not take it personally. Do not answer a troll.",
+        "Priya: Cyberbullying can hurt young people a lot. Stand your ground in the debate.",
+        "Daniel: The more time people spend online, the less they talk. I will not answer the troll.",
+        "Maya: Good. A troll writes rude posts to make people angry.",
+        "Priya: Stand your ground, and do not take it personally."
+      ],
+      "listening": "On Friday, Daniel reads a rude post at night. An anonymous user wrote the post. Do not take it personally. Do not answer a troll. Cyberbullying can hurt young people a lot. Stand your ground in the debate. The more time people spend online, the less they talk. Daniel says, 'I will not answer the troll.'",
+      "question": "What does Maya tell Daniel?",
+      "correct": "Do not take it personally",
+      "other": "Answer the troll at once",
+      "reading": "On Friday, Daniel reads a rude post at night. An anonymous user wrote the post. Do not take it personally. Do not answer a troll. Cyberbullying can hurt young people a lot. Stand your ground in the debate. The more time people spend online, the less they talk. Daniel tells Maya about the post. He says, 'An anonymous user wrote the post. Do not take it personally.' Maya says, 'Do not answer a troll. A troll writes rude posts to make people angry.' Priya says, 'Cyberbullying can hurt young people a lot. Stand your ground in the debate.' Daniel says, 'The more time people spend online, the less they talk. I will not answer the troll.' Maya says, 'Good. Stand your ground, and do not take it personally. A rude post is not about you.'",
+      "readingQ": "What does Maya tell Daniel not to do?",
+      "readingA": "Not to answer a troll.",
+      "speaking": "Tell a friend about a rude post online. What did the troll write? What did you do?",
+      "speakingSample": "This week, I read a rude post at night. An anonymous user wrote the post. Do not take it personally. Do not answer a troll. Cyberbullying can hurt young people a lot. Stand your ground in the debate. The more time people spend online, the less they talk. I will not answer the troll. A troll writes rude posts to make people angry.",
+      "writing": "Write a short email to a friend. Tell them about a rude post online. Say what the troll wrote and what you did.",
+      "writingSample": "Dear Anna, I want to tell you about a rude post I read at night. An anonymous user wrote the post. Do not take it personally. Do not answer a troll. Cyberbullying can hurt young people a lot. Stand your ground in the debate. The more time people spend online, the less they talk. A troll writes rude posts to make people angry. I will not answer the troll. Please tell me what you think. Best, Daniel",
+      "sound": "Troll has one strong beat: TROLL. In troll, say TROLL clearly. In cyberbullying, say CY clearly at the start.",
+      "model": "Do not answer a troll.",
+      "wordTask": "Who wrote the rude post?",
+      "wordSample": "An anonymous user."
+    },
+    {
+      "unit": 6,
+      "day": 46,
+      "title": "False stories and fact-checking",
+      "goal": "I can talk about false stories online and how to check facts.",
+      "newItems": [
+        {
+          "word": "disinformation",
+          "ipa": "/ˌdɪsɪnfɚˈmeɪʃən/",
+          "pos": "noun",
+          "definition": "Wrong information shared on purpose to trick people.",
+          "example": "Disinformation about the vote spread fast.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "clickbait",
+          "ipa": "/ˈklɪkˌbeɪt/",
+          "pos": "noun",
+          "definition": "A title made to make you click, often not true.",
+          "example": "The story was pure clickbait.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "deepfake",
+          "ipa": "/ˈdipˌfeɪk/",
+          "pos": "noun",
+          "definition": "A video or photo made by a computer to look real, but it is not real.",
+          "example": "The deepfake of the singer fooled many people.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "fact-check",
+          "ipa": "/ˈfækt ˌtʃɛk/",
+          "pos": "fixed phrase",
+          "definition": "To check if a story or claim is true.",
+          "example": "Fact-check the story before you share it.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "check your sources",
+          "ipa": "/tʃɛk jʊr ˈsɔrsəz/",
+          "pos": "fixed phrase",
+          "definition": "To look at where your news comes from.",
+          "example": "Check your sources before you share.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "letter",
+        "money",
+        "question",
+        "result",
+        "firm"
+      ],
+      "mainWord": {
+        "word": "disinformation",
+        "ipa": "/ˌdɪsɪnfɚˈmeɪʃən/",
+        "pos": "noun",
+        "definition": "Wrong information shared on purpose to trick people.",
+        "example": "Disinformation about the vote spread fast.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Disinformation is a noun. Disinformation is wrong information shared on purpose to trick people. Disinformation about the vote spread fast.",
+      "pronunciationTarget": {
+        "word": "disinformation",
+        "ipa": "/ˌdɪsɪnfɚˈmeɪʃən/"
+      },
+      "expression": "Fact-check the story before you share it.",
+      "use": "Use this when you tell someone to check if a story is true.",
+      "expressionTask": "Priya reads a strange story. What does Maya tell her to do?",
+      "grammar": "Hedging adverbs: The story is apparently not true",
+      "pattern": "The story is apparently not true.",
+      "task": "The story is ___ not true.",
+      "answer": "apparently",
+      "example": "The story is apparently not true.",
+      "context": [
+        "Priya reads a strange story in the morning.",
+        "Fact-check the story before you share it. Check your sources before you believe it."
+      ],
+      "dialogue": [
+        "Priya: Maya, I read a strange story. The story was pure clickbait.",
+        "Maya: Fact-check the story before you share it. Check your sources before you believe it.",
+        "Daniel: Disinformation about the vote spread fast. The story is apparently not true.",
+        "Priya: The deepfake of the singer fooled many people. It is not real.",
+        "Maya: Good. A deepfake looks real, but it is not real.",
+        "Daniel: Check your sources, and fact-check the story first."
+      ],
+      "listening": "On Saturday, Priya reads a strange story. The story was pure clickbait. Fact-check the story before you share it. Check your sources before you believe it. Disinformation about the vote spread fast. The story is apparently not true. The deepfake of the singer fooled many people. It is not real. Priya says, 'I will fact-check the story first.'",
+      "question": "What does Maya tell Priya to do first?",
+      "correct": "Fact-check the story",
+      "other": "Share the story at once",
+      "reading": "On Saturday, Priya reads a strange story. The story was pure clickbait. Fact-check the story before you share it. Check your sources before you believe it. Disinformation about the vote spread fast. The story is apparently not true. The deepfake of the singer fooled many people. It is not real. Priya tells Maya about the story. She says, 'Fact-check the story before you share it. Check your sources before you believe it.' Maya says, 'Disinformation about the vote spread fast. The story is apparently not true.' Daniel says, 'The deepfake of the singer fooled many people. It is not real.' Priya says, 'I will fact-check the story first. A title made to make you click is often not true.' Maya says, 'Good. Check your sources, and fact-check the story first.'",
+      "readingQ": "What was the story?",
+      "readingA": "Pure clickbait.",
+      "speaking": "Tell a friend about a strange story online. Was it clickbait? How did you fact-check it?",
+      "speakingSample": "This week, I read a strange story. The story was pure clickbait. Fact-check the story before you share it. Check your sources before you believe it. Disinformation about the vote spread fast. The story is apparently not true. The deepfake of the singer fooled many people. It is not real. I will fact-check the story first. A title made to make you click is often not true.",
+      "writing": "Write a short email to a friend. Tell them about a strange story online. Say if it was clickbait and how you checked it.",
+      "writingSample": "Dear Tom, I want to tell you about a strange story I read. The story was pure clickbait. Fact-check the story before you share it. Check your sources before you believe it. Disinformation about the vote spread fast. The story is apparently not true. The deepfake of the singer fooled many people. It is not real. I will fact-check the story first. A title made to make you click is often not true. Please tell me what you think. Best, Daniel",
+      "sound": "Disinformation has its strongest beat on MA. In disinformation, say MA clearly in the middle. In clickbait, say CLICK clearly at the start.",
+      "model": "The disinformation about the vote spread fast.",
+      "wordTask": "What was the strange story?",
+      "wordSample": "Pure clickbait."
+    },
+    {
+      "unit": 6,
+      "day": 47,
+      "title": "Screen time and real life",
+      "goal": "I can talk about screen time and real life.",
+      "newItems": [
+        {
+          "word": "addiction",
+          "ipa": "/əˈdɪkʃən/",
+          "pos": "noun",
+          "definition": "The state of being unable to stop using something.",
+          "example": "Phone addiction is a real problem.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "addictive",
+          "ipa": "/əˈdɪktɪv/",
+          "pos": "adjective",
+          "definition": "Hard to stop using; it makes you want more.",
+          "example": "The game is very addictive.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "screen time",
+          "ipa": "/ˈskrin ˌtaɪm/",
+          "pos": "fixed phrase",
+          "definition": "The time you spend looking at a phone or computer screen.",
+          "example": "My screen time is two hours a day.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "digital detox",
+          "ipa": "/ˈdɪdʒətəl ˈditɑks/",
+          "pos": "fixed phrase",
+          "definition": "A time when you stop using phones and computers.",
+          "example": "A digital detox helped her sleep well.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "take a break from",
+          "ipa": "/teɪk ə breɪk frʌm/",
+          "pos": "fixed phrase",
+          "definition": "To stop doing something for a time.",
+          "example": "Take a break from the news.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "family",
+        "phone",
+        "book",
+        "happy",
+        "good"
+      ],
+      "mainWord": {
+        "word": "addiction",
+        "ipa": "/əˈdɪkʃən/",
+        "pos": "noun",
+        "definition": "The state of being unable to stop using something.",
+        "example": "Phone addiction is a real problem.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Addiction is a noun. Addiction is the state of being unable to stop using something. Phone addiction is a real problem.",
+      "pronunciationTarget": {
+        "word": "addiction",
+        "ipa": "/əˈdɪkʃən/"
+      },
+      "expression": "My screen time is two hours a day.",
+      "use": "Use this when you say how long you look at a screen.",
+      "expressionTask": "Maya talks about her phone use. What does she say about it?",
+      "grammar": "Reported speech with opinion verbs: She argued that phones hurt sleep",
+      "pattern": "She argued that phones hurt sleep.",
+      "task": "She ___ that phones hurt sleep.",
+      "answer": "argued",
+      "example": "She argued that phones hurt sleep.",
+      "context": [
+        "Maya talks about her phone use at home.",
+        "My screen time is two hours a day. A digital detox helped her sleep well."
+      ],
+      "dialogue": [
+        "Maya: Daniel, my screen time is two hours a day. I need a digital detox.",
+        "Daniel: Priya argued that phones hurt sleep. Take a break from the news.",
+        "Priya: The game is very addictive. Phone addiction is a real problem.",
+        "Maya: Priya argued that phones hurt sleep. I will take a break from the news.",
+        "Daniel: Good. A digital detox helps you sleep well.",
+        "Priya: Take a break from your phone, and talk to your family."
+      ],
+      "listening": "On Sunday, Maya talks about her phone use at home. My screen time is two hours a day. I need a digital detox. Priya argued that phones hurt sleep. Take a break from the news. The game is very addictive. Phone addiction is a real problem. Maya says, 'I will take a break from the news.'",
+      "question": "What does Maya need?",
+      "correct": "A digital detox",
+      "other": "A new phone",
+      "reading": "On Sunday, Maya talks about her phone use at home. My screen time is two hours a day. I need a digital detox. Priya argued that phones hurt sleep. Take a break from the news. The game is very addictive. Phone addiction is a real problem. Maya tells Daniel about her phone. She says, 'My screen time is two hours a day. I need a digital detox.' Daniel says, 'Priya argued that phones hurt sleep. Take a break from the news.' Priya says, 'The game is very addictive. Phone addiction is a real problem.' Maya says, 'I will take a break from the news. A digital detox helps you sleep well.' Daniel says, 'Good. Take a break from your phone, and talk to your family.' Maya likes her family time.",
+      "readingQ": "What does Priya say about phones?",
+      "readingA": "That phones hurt sleep.",
+      "speaking": "Tell a friend about your screen time. Do you need a digital detox? What will you do?",
+      "speakingSample": "This week, I talked about my phone use at home. My screen time is two hours a day. I need a digital detox. Priya argued that phones hurt sleep. Take a break from the news. The game is very addictive. Phone addiction is a real problem. I will take a break from the news. A digital detox helps you sleep well.",
+      "writing": "Write a short email to a friend. Tell them about your screen time. Say if you need a digital detox and what you will do.",
+      "writingSample": "Dear Lisa, I want to tell you about my phone use at home. My screen time is two hours a day. I need a digital detox. Priya argued that phones hurt sleep. Take a break from the news. The game is very addictive. Phone addiction is a real problem. I will take a break from the news. A digital detox helps you sleep well. Maya likes her family time. Please tell me what you think. Best, Daniel",
+      "sound": "Addiction has its strongest beat on DICT. In addiction, say DICT clearly in the middle. In addictive, say DICT clearly in the middle.",
+      "model": "Phone addiction is a real problem.",
+      "wordTask": "What is Maya's screen time?",
+      "wordSample": "Two hours a day."
+    },
+    {
+      "unit": 6,
+      "day": 48,
+      "title": "Use social media English in a new situation",
+      "goal": "I can use social media English in a new situation.",
+      "newItems": [
+        {
+          "word": "verified",
+          "ipa": "/ˈvɛrəˌfaɪd/",
+          "pos": "adjective",
+          "definition": "Checked and shown to be true or real.",
+          "example": "Only a verified account can use the blue mark.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "fake",
+          "ipa": "/feɪk/",
+          "pos": "adjective",
+          "definition": "Not real; made to look real.",
+          "example": "The fake story spread fast online.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "the benefit of the doubt",
+          "ipa": "/ðə ˈbɛnəfɪt əv ðə daʊt/",
+          "pos": "fixed phrase",
+          "definition": "A kind view: believe someone until you know they are wrong.",
+          "example": "Give her the benefit of the doubt.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "agree to disagree",
+          "ipa": "/əˈɡri tə ˌdɪsəˈɡri/",
+          "pos": "fixed phrase",
+          "definition": "To accept that you have different views and stop arguing.",
+          "example": "We agree to disagree about the plan.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "see it from their side",
+          "ipa": "/si ɪt frʌm ðɛr saɪd/",
+          "pos": "fixed phrase",
+          "definition": "To think about someone else's view.",
+          "example": "Try to see it from their side.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "class",
+        "teacher",
+        "student",
+        "month",
+        "year"
+      ],
+      "mainWord": {
+        "word": "verified",
+        "ipa": "/ˈvɛrəˌfaɪd/",
+        "pos": "adjective",
+        "definition": "Checked and shown to be true or real.",
+        "example": "Only a verified account can use the blue mark.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Verified is an adjective. Verified means checked and shown to be true or real. Only a verified account can use the blue mark.",
+      "pronunciationTarget": {
+        "word": "verified",
+        "ipa": "/ˈvɛrəˌfaɪd/"
+      },
+      "expression": "Give her the benefit of the doubt.",
+      "use": "Use this when you tell someone to believe a person until you know more.",
+      "expressionTask": "Nina talks to her teacher about a post. What does Mr. Lee tell her?",
+      "grammar": "Review: I can use social media English in a new situation",
+      "pattern": "I can use social media English in a new situation.",
+      "task": "I can ___ social media English in a new situation.",
+      "answer": "use",
+      "example": "I can use social media English in a new situation.",
+      "context": [
+        "Nina talks to her teacher about a post at school.",
+        "Give her the benefit of the doubt. Try to see it from their side."
+      ],
+      "dialogue": [
+        "Nina: Mr. Lee, a post about our class is all over social media.",
+        "Mr. Lee: Is it true? Is it from a verified page?",
+        "Nina: No. The post is from a fake account. It is not a verified page.",
+        "Mr. Lee: Give her the benefit of the doubt. Try to see it from their side.",
+        "Nina: We agree to disagree about the post. I can use social media English in a new situation.",
+        "Mr. Lee: Good. Check the facts before you share a post."
+      ],
+      "listening": "On Monday, Nina talks to her teacher about a post at school. A post about our class is all over social media. Is it from a verified page? No. The post is from a fake account. Give her the benefit of the doubt. Try to see it from their side. We agree to disagree about the post. Nina says, 'I will check the facts first.'",
+      "question": "What is the post from?",
+      "correct": "A fake account",
+      "other": "A verified page",
+      "reading": "On Monday, Nina talks to her teacher about a post at school. A post about our class is all over social media. Mr. Lee asks, 'Is it true? Is it from a verified page?' Nina says, 'No. The post is from a fake account. It is not a verified page.' Mr. Lee says, 'Give her the benefit of the doubt. Try to see it from their side.' Nina says, 'We agree to disagree about the post. I can use social media English in a new situation.' Mr. Lee says, 'Good. Check the facts before you share a post.' Nina is happy. She says, 'Thank you, Mr. Lee. I will check the facts first. A fake account is not a verified page. I will give her the benefit of the doubt.'",
+      "readingQ": "What does Mr. Lee tell Nina to do?",
+      "readingA": "Give her the benefit of the doubt.",
+      "speaking": "Tell a friend about a post in a new situation. Was it from a verified page? What did you do?",
+      "speakingSample": "This week, I talked to my teacher about a post at school. A post about our class is all over social media. Is it from a verified page? No. The post is from a fake account. Give her the benefit of the doubt. Try to see it from their side. We agree to disagree about the post. I can use social media English in a new situation.",
+      "writing": "Write a short email to a friend about a post. Say if it was from a verified page and what you did.",
+      "writingSample": "Dear Anna, I want to tell you about a post at school. A post about our class is all over social media. Is it from a verified page? No. The post is from a fake account. It is not a verified page. Give her the benefit of the doubt. Try to see it from their side. We agree to disagree about the post. I can use social media English in a new situation. Please tell me what you think. Best, Nina",
+      "sound": "Verified has its strongest beat on VER. In verified, say VER clearly at the start. In fake, say FAKE clearly.",
+      "model": "Only a verified account can use the blue mark.",
+      "wordTask": "Is the post from a verified page?",
+      "wordSample": "No. It is from a fake account.",
+      "transferCheck": {
+        "source": "On Tuesday, Nina talks to her teacher, Mr. Lee, about a class survey. The class asked students about phones at school. Nina says, 'The survey is all over social media. Is it from a verified page?' Mr. Lee says, 'No. The post is from a fake account. It is not a verified page.' Nina says, 'We agree to disagree about the post.' Mr. Lee says, 'Give her the benefit of the doubt. Try to see it from their side.' Nina is happy. She says, 'Thank you, Mr. Lee. I am glad we talked.'",
+        "dictation": "Give her the benefit of the doubt.",
+        "answer": "1. The new checker is Nina. She talks to her teacher, Mr. Lee, about a class survey on phones at school. 2. Nina's first job is to say that the survey is all over social media. 3. On Tuesday, Mr. Lee says, 'Give her the benefit of the doubt.' 4. Give her the benefit of the doubt. 5. Sample: On Tuesday, Nina talks to her teacher, Mr. Lee, about a class survey. The class asked students about phones at school. Nina says, 'The survey is all over social media. Is it from a verified page?' Mr. Lee says, 'No. The post is from a fake account. It is not a verified page.' Nina says, 'We agree to disagree about the post.' Mr. Lee says, 'Give her the benefit of the doubt. Try to see it from their side.' Follow-up: What does Mr. Lee tell Nina to do? Give her the benefit of the doubt.",
+        "tasks": [
+          [
+            "1 · Identify the people and the new situation",
+            "Who is the new checker, and what does she talk about?"
+          ],
+          [
+            "2 · Work out what Nina does first",
+            "What is Nina's first job, and what does she say?"
+          ],
+          [
+            "3 · Notice the sentence on Tuesday",
+            "What does Mr. Lee say on Tuesday?"
+          ],
+          [
+            "4 · Listen and write",
+            "Write the sentence you hear."
+          ],
+          [
+            "5 · Retell and answer",
+            "Tell the story in order, including the people, the new situation, the first talk, and the result. Then answer one follow-up question."
+          ]
+        ]
+      }
+    }
+  ]
+}

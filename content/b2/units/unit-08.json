@@ -1,0 +1,953 @@
+{
+  "number": 8,
+  "title": "Money, investment and the future",
+  "lessons": [
+    {
+      "unit": 8,
+      "day": 57,
+      "title": "Saving for the future",
+      "goal": "I can talk about saving for the future.",
+      "newItems": [
+        {
+          "word": "savings",
+          "ipa": "/ˈseɪvɪŋz/",
+          "pos": "noun",
+          "definition": "Money that you keep and do not spend, usually in a bank.",
+          "example": "She puts part of her pay into savings every month.",
+          "category": "new_word",
+          "status": "new",
+          "day": 57
+        },
+        {
+          "word": "pension",
+          "ipa": "/ˈpɛnʃən/",
+          "pos": "noun",
+          "definition": "Money paid regularly to a person after they stop working.",
+          "example": "He lives on a small pension from his old job.",
+          "category": "new_word",
+          "status": "new",
+          "day": 57
+        },
+        {
+          "word": "trust",
+          "ipa": "/trʌst/",
+          "pos": "noun",
+          "definition": "Money or a house kept by one person for the good of another.",
+          "example": "The money is held in a trust for the children.",
+          "category": "new_word",
+          "status": "new",
+          "day": 57
+        },
+        {
+          "word": "put money away",
+          "ipa": "/pʊt ˈmʌni əˈweɪ/",
+          "pos": "fixed phrase",
+          "definition": "To save money and not spend it.",
+          "example": "She puts a little money away each week.",
+          "category": "fixed_phrase",
+          "status": "new",
+          "day": 57
+        },
+        {
+          "word": "build up savings",
+          "ipa": "/bɪld ʌp ˈseɪvɪŋz/",
+          "pos": "fixed phrase",
+          "definition": "To make your saved money grow over time.",
+          "example": "She builds up her savings every month.",
+          "category": "fixed_phrase",
+          "status": "new",
+          "day": 57
+        }
+      ],
+      "reviewWords": [
+        "money",
+        "bank",
+        "month",
+        "work",
+        "plan"
+      ],
+      "mainWord": {
+        "word": "savings",
+        "ipa": "/ˈseɪvɪŋz/",
+        "pos": "noun",
+        "definition": "Money that you keep and do not spend, usually in a bank.",
+        "example": "She puts part of her pay into savings every month.",
+        "category": "new_word",
+        "status": "new",
+        "day": 57
+      },
+      "mainWordForms": "Savings is a noun. Money that you keep and do not spend, usually in a bank. She puts part of her pay into savings every month.",
+      "pronunciationTarget": {
+        "word": "savings",
+        "ipa": "/ˈseɪvɪŋz/"
+      },
+      "expression": "She puts a little money away each week.",
+      "use": "Use this when you talk about saving money for later.",
+      "expressionTask": "Maya talks to Daniel about saving. What does she put away each week?",
+      "grammar": "Future perfect: By 2035, I will have saved enough for my pension",
+      "pattern": "By 2035, I will have saved enough for my pension.",
+      "task": "By 2035, I will have ___ enough for my pension.",
+      "answer": "saved",
+      "example": "By 2035, I will have saved enough for my pension.",
+      "context": [
+        "Maya talks to Daniel about saving for the future.",
+        "She puts a little money away each week. A pension helps her build up savings."
+      ],
+      "dialogue": [
+        "Maya: Daniel, do you put money away each week?",
+        "Daniel: Yes, a little. I want to build up savings for the future.",
+        "Maya: Good. A pension is a good start. It pays you after you stop work.",
+        "Daniel: My father has a pension from his old job. It helps him a lot.",
+        "Priya: My parents put money in a trust for the children. It grows each year.",
+        "Maya: That is smart. Start young, and your savings will grow."
+      ],
+      "listening": "On Monday, Maya talks to Daniel about saving for the future. Daniel puts a little money away each week to build up savings. Maya says a pension is a good start. It pays you after you stop work. Priya says her parents put money in a trust for the children. Maya says, 'Start young, and your savings will grow.'",
+      "question": "What does Daniel put away each week?",
+      "correct": "A little money",
+      "other": "A new pension",
+      "reading": "On Monday, Maya talks to Daniel about saving for the future. Daniel is twenty-five, and he works in an office. He puts a little money away each week. He wants to build up savings for his old age. Maya says, 'Start young. A pension is a good start. It pays you after you stop work.' Daniel says, 'My father has a pension from his old job. It helps him a lot.' Priya says, 'My parents put money in a trust for the children. The trust grows each year.' Maya says, 'That is smart. By 2035, I will have saved enough for my pension.' Daniel asks, 'How much should I save?' Maya says, 'Put money away every month. Even a little helps.' Priya says, 'I put money away too. My savings grow a little each year.' Maya is happy. She says, 'Good. Saving for the future is a habit. Start young, and your money will work for you.'",
+      "readingQ": "What does Maya say about a pension?",
+      "readingA": "It is a good start; it pays you after you stop work.",
+      "speaking": "Tell a friend about saving for the future. How do you save? What do you save for?",
+      "speakingSample": "I put a little money away each week. I want to build up savings for the future. A pension is a good start. It pays you after you stop work. My parents put money in a trust for the children. I think saving is a habit. Start young, and your savings will grow. By 2035, I will have saved enough for my pension.",
+      "writing": "Write a short email to a friend. Tell them how you save for the future. Say what you save for and how much you save.",
+      "writingSample": "Dear Tom, I want to tell you about saving for the future. I put a little money away each week. I want to build up savings for my old age. A pension is a good start. It pays you after you stop work. My parents put money in a trust for the children. The trust grows each year. I think saving is a habit. Start young, and your savings will grow. By 2035, I will have saved enough for my pension. Please tell me how you save. Best, Daniel",
+      "sound": "Savings has its strongest beat on SAVE. In savings, say SAVE clearly at the start. In pension, say PEN clearly at the start.",
+      "model": "She puts part of her pay into savings every month.",
+      "wordTask": "How do you save for the future?",
+      "wordSample": "I put a little money away each week."
+    },
+    {
+      "unit": 8,
+      "day": 58,
+      "title": "What is an investment?",
+      "goal": "I can talk about investments.",
+      "newItems": [
+        {
+          "word": "portfolio",
+          "ipa": "/pɔrtˈfoʊlioʊ/",
+          "pos": "noun",
+          "definition": "All the shares and investments that one person owns.",
+          "example": "His portfolio has shares in ten companies.",
+          "category": "new_word",
+          "status": "new",
+          "day": 58
+        },
+        {
+          "word": "asset",
+          "ipa": "/ˈæsɛt/",
+          "pos": "noun",
+          "definition": "Something valuable that a person or company owns.",
+          "example": "The house is the family's biggest asset.",
+          "category": "new_word",
+          "status": "new",
+          "day": 58
+        },
+        {
+          "word": "dividend",
+          "ipa": "/ˈdɪvədɛnd/",
+          "pos": "noun",
+          "definition": "Money paid to people who own shares in a company.",
+          "example": "The company pays a dividend twice a year.",
+          "category": "new_word",
+          "status": "new",
+          "day": 58
+        },
+        {
+          "word": "diversify your portfolio",
+          "ipa": "/daɪˈvɝsəˌfaɪ jɔr pɔrtˈfoʊlioʊ/",
+          "pos": "fixed phrase",
+          "definition": "To own many different kinds of investments, not just one.",
+          "example": "Good investors diversify their portfolio.",
+          "category": "fixed_phrase",
+          "status": "new",
+          "day": 58
+        },
+        {
+          "word": "spread the risk",
+          "ipa": "/sprɛd ðə rɪsk/",
+          "pos": "fixed phrase",
+          "definition": "To share a risk across many things, so one loss is not too big.",
+          "example": "Buy different shares to spread the risk.",
+          "category": "fixed_phrase",
+          "status": "new",
+          "day": 58
+        }
+      ],
+      "reviewWords": [
+        "company",
+        "time",
+        "buy",
+        "sell",
+        "year"
+      ],
+      "mainWord": {
+        "word": "portfolio",
+        "ipa": "/pɔrtˈfoʊlioʊ/",
+        "pos": "noun",
+        "definition": "All the shares and investments that one person owns.",
+        "example": "His portfolio has shares in ten companies.",
+        "category": "new_word",
+        "status": "new",
+        "day": 58
+      },
+      "mainWordForms": "Portfolio is a noun. All the shares and investments that one person owns. His portfolio has shares in ten companies.",
+      "pronunciationTarget": {
+        "word": "portfolio",
+        "ipa": "/pɔrtˈfoʊlioʊ/"
+      },
+      "expression": "Good investors diversify their portfolio.",
+      "use": "Use this when you talk about owning many different investments.",
+      "expressionTask": "Maya talks about investments. What do good investors do?",
+      "grammar": "Gerunds and infinitives: Daniel plans to invest and enjoys learning about money",
+      "pattern": "Daniel plans to invest and enjoys learning about money.",
+      "task": "Daniel plans to invest and enjoys ___ about money.",
+      "answer": "learning",
+      "example": "Daniel plans to invest and enjoys learning about money.",
+      "context": [
+        "Maya talks to Daniel about investments at work.",
+        "Good investors diversify their portfolio. They buy different shares to spread the risk."
+      ],
+      "dialogue": [
+        "Maya: Daniel, what is an investment?",
+        "Daniel: It is money you put into something to make more money.",
+        "Maya: Yes. A good portfolio has shares in many companies.",
+        "Priya: The house is our biggest asset. It grows in value each year.",
+        "Daniel: And a dividend is money a company pays to its owners.",
+        "Maya: Good. Diversify your portfolio and spread the risk."
+      ],
+      "listening": "On Tuesday, Maya talks to Daniel about investments at work. Daniel asks what an investment is. Maya says it is money you put into something to make more money. A good portfolio has shares in many companies. Priya says the house is the family's biggest asset. A dividend is money a company pays to its owners. Maya says, 'Diversify your portfolio and spread the risk.'",
+      "question": "What is an investment?",
+      "correct": "Money you put into something to make more money",
+      "other": "Money you spend on food",
+      "reading": "On Tuesday, Maya talks to Daniel about investments at work. Daniel asks, 'What is an investment?' Maya says, 'It is money you put into something to make more money. An investment can be a house, a share, or a business.' Daniel says, 'I want to invest, but I do not know how to start.' Maya says, 'Start small. A good portfolio has shares in many companies. Good investors diversify their portfolio.' Priya says, 'The house is the family's biggest asset. It grows in value each year.' Daniel asks, 'What is a dividend?' Maya says, 'A dividend is money a company pays to its owners. It comes twice a year.' Priya says, 'Buy different shares to spread the risk. Never put all your money in one place.' Maya says, 'Good. Daniel plans to invest and enjoys learning about money.'",
+      "readingQ": "What do good investors do?",
+      "readingA": "They diversify their portfolio and spread the risk.",
+      "speaking": "Tell a friend about investments. What would you invest in? Why?",
+      "speakingSample": "I want to invest my money. A good portfolio has shares in many companies. Good investors diversify their portfolio. The house is the family's biggest asset. A dividend is money a company pays to its owners. I will buy different shares to spread the risk. Daniel plans to invest and enjoys learning about money. I will start small and learn more each year.",
+      "writing": "Write a short email to a friend. Tell them about an investment you like. Say what it is and why you like it.",
+      "writingSample": "Dear Anna, I want to tell you about an investment I like. A good portfolio has shares in many companies. Good investors diversify their portfolio. The house is the family's biggest asset. A dividend is money a company pays to its owners. I will buy different shares to spread the risk. I plan to invest a little each month. I enjoy learning about money and how it grows. Please tell me what you think. Best, Daniel",
+      "sound": "Portfolio has its strongest beat on FOL. In portfolio, say FOL clearly in the middle. In asset, say AS clearly at the start.",
+      "model": "His portfolio has shares in ten companies.",
+      "wordTask": "What is an investment?",
+      "wordSample": "An investment can be a house, a share, or a business."
+    },
+    {
+      "unit": 8,
+      "day": 59,
+      "title": "Stocks, shares and bonds",
+      "goal": "I can talk about stocks, shares and bonds.",
+      "newItems": [
+        {
+          "word": "shareholder",
+          "ipa": "/ˈʃɛrˌhoʊldɚ/",
+          "pos": "noun",
+          "definition": "A person who owns shares in a company.",
+          "example": "The shareholders will meet in June.",
+          "category": "new_word",
+          "status": "new",
+          "day": 59
+        },
+        {
+          "word": "broker",
+          "ipa": "/ˈbroʊkɚ/",
+          "pos": "noun",
+          "definition": "A person who buys and sells shares for other people.",
+          "example": "Ask a broker before you buy shares.",
+          "category": "new_word",
+          "status": "new",
+          "day": 59
+        },
+        {
+          "word": "bond",
+          "ipa": "/bɑnd/",
+          "pos": "noun",
+          "definition": "A paper that a government or company sells to borrow money.",
+          "example": "The government sells bonds to raise money.",
+          "category": "new_word",
+          "status": "new",
+          "day": 59
+        },
+        {
+          "word": "buy low, sell high",
+          "ipa": "/baɪ loʊ sɛl haɪ/",
+          "pos": "fixed phrase",
+          "definition": "To buy something cheap and sell it for more money.",
+          "example": "Buy low, sell high: that is the first rule.",
+          "category": "fixed_phrase",
+          "status": "new",
+          "day": 59
+        },
+        {
+          "word": "the stock market",
+          "ipa": "/ðə stɑk ˈmɑrkət/",
+          "pos": "fixed phrase",
+          "definition": "The place and system where people buy and sell shares.",
+          "example": "The stock market fell by two percent today.",
+          "category": "fixed_phrase",
+          "status": "new",
+          "day": 59
+        }
+      ],
+      "reviewWords": [
+        "house",
+        "price",
+        "week",
+        "day",
+        "shop"
+      ],
+      "mainWord": {
+        "word": "shareholder",
+        "ipa": "/ˈʃɛrˌhoʊldɚ/",
+        "pos": "noun",
+        "definition": "A person who owns shares in a company.",
+        "example": "The shareholders will meet in June.",
+        "category": "new_word",
+        "status": "new",
+        "day": 59
+      },
+      "mainWordForms": "Shareholder is a noun. A person who owns shares in a company. The shareholders will meet in June.",
+      "pronunciationTarget": {
+        "word": "shareholder",
+        "ipa": "/ˈʃɛrˌhoʊldɚ/"
+      },
+      "expression": "Buy low, sell high: that is the first rule.",
+      "use": "Use this when you talk about buying and selling shares.",
+      "expressionTask": "Maya talks about shares. What is the first rule?",
+      "grammar": "Subjunctive: It is essential that the fund manager act quickly",
+      "pattern": "It is essential that the fund manager act quickly.",
+      "task": "It is essential that the fund manager ___ quickly.",
+      "answer": "act",
+      "example": "It is essential that the fund manager act quickly.",
+      "context": [
+        "Maya talks to Daniel about stocks and shares.",
+        "Buy low, sell high: that is the first rule. The stock market fell by two percent today."
+      ],
+      "dialogue": [
+        "Maya: Daniel, what is a shareholder?",
+        "Daniel: A shareholder is a person who owns shares in a company.",
+        "Maya: Yes. The shareholders will meet in June to hear the news.",
+        "Priya: Ask a broker before you buy shares. A broker knows the market.",
+        "Daniel: She owns stock in a food company. She bought a bond too.",
+        "Maya: Good. Buy low, sell high: that is the first rule."
+      ],
+      "listening": "On Wednesday, Maya talks to Daniel about stocks and shares. A shareholder owns shares in a company. The shareholders will meet in June. Priya says to ask a broker before you buy shares. Daniel owns stock in a food company and bought a bond too. Maya says, 'Buy low, sell high: that is the first rule.'",
+      "question": "What is a shareholder?",
+      "correct": "A person who owns shares in a company",
+      "other": "A person who sells food",
+      "reading": "On Wednesday, Maya talks to Daniel about stocks, shares and bonds. Daniel asks, 'What is a shareholder?' Maya says, 'A shareholder is a person who owns shares in a company. The shareholders will meet in June to hear the news.' Daniel asks, 'What does a broker do?' Maya says, 'A broker buys and sells shares for other people. Ask a broker before you buy shares.' Priya says, 'She owns stock in a food company. She bought a bond too. The government sells bonds to raise money.' Maya says, 'Buy low, sell high: that is the first rule. The stock market fell by two percent today, but good shares will rise again.' Daniel says, 'It is essential that the fund manager act quickly.' Maya says, 'Yes. Learn the rules, and do not buy in fear.'",
+      "readingQ": "What is the first rule of shares?",
+      "readingA": "Buy low, sell high.",
+      "speaking": "Tell a friend about shares. Would you buy shares? Why or why not?",
+      "speakingSample": "I want to buy shares in a food company. A shareholder owns shares in a company. Ask a broker before you buy shares. I bought a bond too. The government sells bonds to raise money. Buy low, sell high: that is the first rule. The stock market fell today, but good shares will rise again. It is essential that the fund manager act quickly.",
+      "writing": "Write a short email to a friend. Tell them about a share you would like to buy. Say why you like it.",
+      "writingSample": "Dear Lisa, I want to tell you about a share I would like to buy. It is a share in a food company. A shareholder owns shares in a company. Ask a broker before you buy shares. I bought a bond too. The government sells bonds to raise money. Buy low, sell high: that is the first rule. The stock market fell today, but good shares will rise again. It is essential that the fund manager act quickly. Please tell me what you think. Best, Daniel",
+      "sound": "Shareholder has its strongest beat on SHARE. In shareholder, say SHARE clearly at the start. In broker, say BRO clearly at the start.",
+      "model": "The shareholder will meet the broker in June.",
+      "wordTask": "What is a shareholder?",
+      "wordSample": "A shareholder owns shares in a company."
+    },
+    {
+      "unit": 8,
+      "day": 60,
+      "title": "Risks and returns",
+      "goal": "I can talk about risks and returns.",
+      "newItems": [
+        {
+          "word": "liability",
+          "ipa": "/ˌlaɪəˈbɪləti/",
+          "pos": "noun",
+          "definition": "Something that costs money or causes problems; a debt.",
+          "example": "The old car is a liability, not an asset.",
+          "category": "new_word",
+          "status": "new",
+          "day": 60
+        },
+        {
+          "word": "inflation",
+          "ipa": "/ɪnˈfleɪʃən/",
+          "pos": "noun",
+          "definition": "A rise in prices over time, so money buys less.",
+          "example": "High inflation makes food more expensive.",
+          "category": "new_word",
+          "status": "new",
+          "day": 60
+        },
+        {
+          "word": "recession",
+          "ipa": "/rɪˈsɛʃən/",
+          "pos": "noun",
+          "definition": "A time when the economy gets smaller and many people lose jobs.",
+          "example": "The recession closed many small shops.",
+          "category": "new_word",
+          "status": "new",
+          "day": 60
+        },
+        {
+          "word": "cut your losses",
+          "ipa": "/kʌt jɔr ˈlɔsəz/",
+          "pos": "fixed phrase",
+          "definition": "To stop losing money by selling or leaving before it gets worse.",
+          "example": "He sold the shares to cut his losses.",
+          "category": "fixed_phrase",
+          "status": "new",
+          "day": 60
+        },
+        {
+          "word": "in the red",
+          "ipa": "/ɪn ðə rɛd/",
+          "pos": "fixed phrase",
+          "definition": "Owing money; with less money than zero.",
+          "example": "After the bad year, the firm was in the red.",
+          "category": "fixed_phrase",
+          "status": "new",
+          "day": 60
+        }
+      ],
+      "reviewWords": [
+        "friend",
+        "family",
+        "job",
+        "school",
+        "car"
+      ],
+      "mainWord": {
+        "word": "liability",
+        "ipa": "/ˌlaɪəˈbɪləti/",
+        "pos": "noun",
+        "definition": "Something that costs money or causes problems; a debt.",
+        "example": "The old car is a liability, not an asset.",
+        "category": "new_word",
+        "status": "new",
+        "day": 60
+      },
+      "mainWordForms": "Liability is a noun. Something that costs money or causes problems; a debt. The old car is a liability, not an asset.",
+      "pronunciationTarget": {
+        "word": "inflation",
+        "ipa": "/ɪnˈfleɪʃən/"
+      },
+      "expression": "He sold the shares to cut his losses.",
+      "use": "Use this when you talk about stopping a loss.",
+      "expressionTask": "Daniel reads about a bad year. What did the man do with his shares?",
+      "grammar": "Modal perfects: I should have bought shares when the price was low",
+      "pattern": "I should have bought shares when the price was low.",
+      "task": "I should have ___ shares when the price was low.",
+      "answer": "bought",
+      "example": "I should have bought shares when the price was low.",
+      "context": [
+        "Daniel reads about a bad year for a small firm.",
+        "He sold the shares to cut his losses. After the bad year, the firm was in the red."
+      ],
+      "dialogue": [
+        "Maya: Daniel, what is a liability?",
+        "Daniel: It is something that costs money, like an old car.",
+        "Maya: Yes. The old car is a liability, not an asset.",
+        "Priya: High inflation makes food more expensive. Prices rise each year.",
+        "Daniel: And a recession closed many small shops last year.",
+        "Maya: True. He sold the shares to cut his losses before it got worse."
+      ],
+      "listening": "On Thursday, Daniel reads about a bad year for a small firm. The old car is a liability, not an asset. High inflation makes food more expensive. A recession closed many small shops last year. He sold the shares to cut his losses. After the bad year, the firm was in the red. Maya says, 'I should have bought shares when the price was low.'",
+      "question": "What is a liability?",
+      "correct": "Something that costs money",
+      "other": "Something that makes money",
+      "reading": "On Thursday, Daniel reads about a bad year for a small firm. The old car is a liability, not an asset. It costs money every month. High inflation makes food more expensive. Prices rise, and people buy less. A recession closed many small shops last year. The firm lost money, and the boss was sad. Maya says, 'Sell fast to cut your losses.' After the bad year, the firm was in the red. Daniel says, 'I should have bought shares when the price was low. Now they cost more.' Maya says, 'Do not be sad. Learn from the bad year. A liability can teach you to be careful.' Priya says, 'High inflation is hard for every family. We must plan and save.' Maya says, 'Yes. A good plan helps in a recession too.'",
+      "readingQ": "Why was the firm in the red?",
+      "readingA": "It had a bad year and lost money.",
+      "speaking": "Tell a friend about a bad year for a business. What went wrong? What would you do?",
+      "speakingSample": "The old car is a liability, not an asset. High inflation makes food more expensive. A recession closed many small shops last year. The firm lost money. Maya says, 'Sell fast to cut your losses.' After the bad year, the firm was in the red. I should have bought shares when the price was low. A good plan helps in a recession too.",
+      "writing": "Write a short email to a friend. Tell them about a business that had a bad year. Say what went wrong.",
+      "writingSample": "Dear Tom, I want to tell you about a small firm that had a bad year. The old car is a liability, not an asset. High inflation makes food more expensive. A recession closed many small shops last year. The firm lost money. Maya says, 'Sell fast to cut your losses.' After the bad year, the firm was in the red. I should have bought shares when the price was low. A good plan helps in a recession too. Please tell me what you think. Best, Daniel",
+      "sound": "Inflation has its strongest beat on FLA. In inflation, say FLA clearly in the middle. In recession, say SESH clearly at the end.",
+      "model": "High inflation makes food more expensive.",
+      "wordTask": "What is a liability?",
+      "wordSample": "A liability is something that costs money."
+    },
+    {
+      "unit": 8,
+      "day": 61,
+      "title": "Planning a budget",
+      "goal": "I can talk about planning a budget.",
+      "newItems": [
+        {
+          "word": "mortgage",
+          "ipa": "/ˈmɔrɡədʒ/",
+          "pos": "noun",
+          "definition": "A loan from a bank to buy a house, paid back over many years.",
+          "example": "They pay their mortgage every month.",
+          "category": "new_word",
+          "status": "new",
+          "day": 61
+        },
+        {
+          "word": "surplus",
+          "ipa": "/ˈsɝpləs/",
+          "pos": "noun",
+          "definition": "Money left after you have paid for everything you need.",
+          "example": "Put any surplus into savings.",
+          "category": "new_word",
+          "status": "new",
+          "day": 61
+        },
+        {
+          "word": "pay off the mortgage",
+          "ipa": "/peɪ ɔf ðə ˈmɔrɡədʒ/",
+          "pos": "fixed phrase",
+          "definition": "To finish paying back the loan for a house.",
+          "example": "They hope to pay off the mortgage by 2040.",
+          "category": "fixed_phrase",
+          "status": "new",
+          "day": 61
+        },
+        {
+          "word": "take out a mortgage",
+          "ipa": "/teɪk aʊt ə ˈmɔrɡədʒ/",
+          "pos": "fixed phrase",
+          "definition": "To borrow money from a bank to buy a house.",
+          "example": "They will take out a mortgage to buy the flat.",
+          "category": "fixed_phrase",
+          "status": "new",
+          "day": 61
+        },
+        {
+          "word": "on a tight budget",
+          "ipa": "/ɑn ə taɪt ˈbʌdʒət/",
+          "pos": "fixed phrase",
+          "definition": "With very little money to spend.",
+          "example": "We live on a tight budget this year.",
+          "category": "fixed_phrase",
+          "status": "new",
+          "day": 61
+        }
+      ],
+      "reviewWords": [
+        "food",
+        "pay",
+        "save",
+        "spend",
+        "cost"
+      ],
+      "mainWord": {
+        "word": "mortgage",
+        "ipa": "/ˈmɔrɡədʒ/",
+        "pos": "noun",
+        "definition": "A loan from a bank to buy a house, paid back over many years.",
+        "example": "They pay their mortgage every month.",
+        "category": "new_word",
+        "status": "new",
+        "day": 61
+      },
+      "mainWordForms": "Mortgage is a noun. A loan from a bank to buy a house, paid back over many years. They pay their mortgage every month.",
+      "pronunciationTarget": {
+        "word": "mortgage",
+        "ipa": "/ˈmɔrɡədʒ/"
+      },
+      "expression": "They hope to pay off the mortgage by 2040.",
+      "use": "Use this when you talk about finishing a house loan.",
+      "expressionTask": "Maya talks about a house loan. When do they hope to finish paying it?",
+      "grammar": "Conditionals with unless: Unless you save every month, you will not have enough",
+      "pattern": "Unless you save every month, you will not have enough.",
+      "task": "___ you save every month, you will not have enough.",
+      "answer": "Unless",
+      "example": "Unless you save every month, you will not have enough.",
+      "context": [
+        "Maya talks to Daniel about a budget for a new house.",
+        "They hope to pay off the mortgage by 2040. They live on a tight budget this year."
+      ],
+      "dialogue": [
+        "Maya: Daniel, what is a mortgage?",
+        "Daniel: It is a loan from a bank to buy a house.",
+        "Maya: Yes. They pay their mortgage every month for many years.",
+        "Priya: They will take out a mortgage to buy the flat next year.",
+        "Daniel: And a surplus is money left after you pay for all you need.",
+        "Maya: Good. Unless you save every month, you will not have enough."
+      ],
+      "listening": "On Friday, Maya talks to Daniel about a budget for a house. A mortgage is a loan from a bank to buy a house. They pay it every month. They will take out a mortgage to buy the flat next year. A surplus is money left after you pay for all you need. Maya says, 'Unless you save every month, you will not have enough.'",
+      "question": "What is a mortgage?",
+      "correct": "A loan from a bank to buy a house",
+      "other": "A loan from a bank to buy a car",
+      "reading": "On Friday, Maya talks to Daniel about a budget for a house. Daniel asks, 'What is a mortgage?' Maya says, 'A mortgage is a loan from a bank to buy a house. You pay it back over many years.' Daniel says, 'They pay their mortgage every month. They hope to pay off the mortgage by 2040.' Priya says, 'They will take out a mortgage to buy the flat next year. The flat is small, but it is a good home.' Maya says, 'We live on a tight budget this year. We must save and plan.' Daniel asks, 'What is a surplus?' Maya says, 'A surplus is money left after you pay for all you need. Put any surplus into savings.' Priya says, 'Unless you save every month, you will not have enough.' Maya says, 'Good. A budget helps you see where the money goes.'",
+      "readingQ": "When do they hope to pay off the mortgage?",
+      "readingA": "By 2040.",
+      "speaking": "Tell a friend about planning a budget for a house. What would you save for?",
+      "speakingSample": "A mortgage is a loan from a bank to buy a house. They pay their mortgage every month. They hope to pay off the mortgage by 2040. They will take out a mortgage to buy the flat next year. We live on a tight budget this year. A surplus is money left after you pay for all you need. Unless you save every month, you will not have enough.",
+      "writing": "Write a short email to a friend. Tell them about a budget for a new house. Say what you would save for.",
+      "writingSample": "Dear Sam, I want to tell you about a budget for a new house. A mortgage is a loan from a bank to buy a house. They pay their mortgage every month. They hope to pay off the mortgage by 2040. They will take out a mortgage to buy the flat next year. We live on a tight budget this year. A surplus is money left after you pay for all you need. Put any surplus into savings. Unless you save every month, you will not have enough. Best, Daniel",
+      "sound": "Mortgage has its strongest beat on MOR. In mortgage, say MOR clearly at the start. In surplus, say SUR clearly at the start.",
+      "model": "They pay their mortgage every month.",
+      "wordTask": "What is a mortgage?",
+      "wordSample": "A mortgage is a loan from a bank to buy a house."
+    },
+    {
+      "unit": 8,
+      "day": 62,
+      "title": "Money and happiness",
+      "goal": "I can talk about money and happiness.",
+      "newItems": [
+        {
+          "word": "wealth",
+          "ipa": "/wɛlθ/",
+          "pos": "noun",
+          "definition": "A large amount of money or valuable things.",
+          "example": "She used her wealth to build a school.",
+          "category": "new_word",
+          "status": "new",
+          "day": 62
+        },
+        {
+          "word": "inherit",
+          "ipa": "/ɪnˈhɛrət/",
+          "pos": "verb",
+          "definition": "To receive money or a house from someone after they die.",
+          "example": "He will inherit the house from his father.",
+          "category": "new_word",
+          "status": "new",
+          "day": 62
+        },
+        {
+          "word": "money doesn't grow on trees",
+          "ipa": "/ˈmʌni ˈdʌzənt ɡroʊ ɑn triz/",
+          "pos": "fixed phrase",
+          "definition": "Money is not easy to get; do not waste it.",
+          "example": "Money doesn't grow on trees, so save some.",
+          "category": "fixed_phrase",
+          "status": "new",
+          "day": 62
+        },
+        {
+          "word": "cost an arm and a leg",
+          "ipa": "/kɔst ən ɑrm ənd ə lɛɡ/",
+          "pos": "fixed phrase",
+          "definition": "To cost a lot of money.",
+          "example": "The new car costs an arm and a leg.",
+          "category": "fixed_phrase",
+          "status": "new",
+          "day": 62
+        },
+        {
+          "word": "tighten your belt",
+          "ipa": "/ˈtaɪtən jɔr bɛlt/",
+          "pos": "fixed phrase",
+          "definition": "To spend less money than before.",
+          "example": "We must tighten our belts this year.",
+          "category": "fixed_phrase",
+          "status": "new",
+          "day": 62
+        }
+      ],
+      "reviewWords": [
+        "free",
+        "today",
+        "morning",
+        "night",
+        "water"
+      ],
+      "mainWord": {
+        "word": "wealth",
+        "ipa": "/wɛlθ/",
+        "pos": "noun",
+        "definition": "A large amount of money or valuable things.",
+        "example": "She used her wealth to build a school.",
+        "category": "new_word",
+        "status": "new",
+        "day": 62
+      },
+      "mainWordForms": "Wealth is a noun. A large amount of money or valuable things. She used her wealth to build a school.",
+      "pronunciationTarget": {
+        "word": "wealth",
+        "ipa": "/wɛlθ/"
+      },
+      "expression": "Money doesn't grow on trees, so save some.",
+      "use": "Use this when you tell someone not to waste money.",
+      "expressionTask": "Priya talks about money. What does she say about trees?",
+      "grammar": "As if and as though: He spends money as if it grew on trees",
+      "pattern": "He spends money as if it grew on trees.",
+      "task": "He spends money ___ it grew on trees.",
+      "answer": "as if",
+      "example": "He spends money as if it grew on trees.",
+      "context": [
+        "Priya talks to Daniel about money and happiness.",
+        "Money doesn't grow on trees, so save some. A new car can cost an arm and a leg."
+      ],
+      "dialogue": [
+        "Maya: Daniel, what is wealth?",
+        "Daniel: Wealth is a large amount of money or valuable things.",
+        "Maya: Yes. She used her wealth to build a school for the town.",
+        "Priya: Money doesn't grow on trees, so save some for later.",
+        "Daniel: True. A new car can cost an arm and a leg. I must tighten my belt this year.",
+        "Maya: Good. He will inherit the house from his father one day."
+      ],
+      "listening": "On Saturday, Priya talks to Daniel about money and happiness. Wealth is a large amount of money or valuable things. She used it to build a school. Priya says, 'Money doesn't grow on trees, so save some.' A car can cost an arm and a leg. Daniel says, 'I must tighten my belt this year.' Maya says, 'He will inherit the house from his father.'",
+      "question": "What is wealth?",
+      "correct": "A large amount of money or valuable things",
+      "other": "A large amount of food",
+      "reading": "On Saturday, Priya talks to Daniel about money and happiness. Daniel asks, 'What is wealth?' Maya says, 'Wealth is a large amount of money or valuable things. She used her wealth to build a school for the town and its children.' Priya says, 'Money doesn't grow on trees, so save some for later. A new car can cost an arm and a leg. Tighten your belt this year, and save some.' Daniel says, 'He spends money as if it grew on trees. He will inherit the house from his father one day.' Maya says, 'Money does not buy happiness. A kind heart and good friends matter more.' Priya says, 'Yes. I am happy with a small house and good food.' Daniel says, 'I agree. We must save, but we must also enjoy life.'",
+      "readingQ": "What does Priya say about money?",
+      "readingA": "Money doesn't grow on trees, so save some for later.",
+      "speaking": "Tell a friend about money and happiness. Does money buy happiness? Why?",
+      "speakingSample": "Wealth is a large amount of money or valuable things. She used her wealth to build a school. Money doesn't grow on trees, so save some. A new car can cost an arm and a leg. I must tighten my belt this year. He spends money as if it grew on trees. He will inherit the house from his father. Money does not buy happiness.",
+      "writing": "Write a short email to a friend. Tell them what you think about money and happiness.",
+      "writingSample": "Dear Tom, I want to tell you what I think about money and happiness. Wealth is a large amount of money or valuable things. She used her wealth to build a school. Money doesn't grow on trees, so save some for later. A new car can cost an arm and a leg. I must tighten my belt this year. He spends money as if it grew on trees. He will inherit the house from his father one day. Money does not buy happiness. A kind heart matters more. Best, Daniel",
+      "sound": "Wealth has its strongest beat on WEALTH. In wealth, say WEALTH clearly. In inherit, say HER clearly in the middle.",
+      "model": "She used her wealth to build a school.",
+      "wordTask": "What is wealth?",
+      "wordSample": "Wealth is a large amount of money."
+    },
+    {
+      "unit": 8,
+      "day": 63,
+      "title": "The future of money",
+      "goal": "I can talk about the future of money.",
+      "newItems": [
+        {
+          "word": "speculate",
+          "ipa": "/ˈspɛkjəˌleɪt/",
+          "pos": "verb",
+          "definition": "To buy or sell something in the hope of making a quick profit.",
+          "example": "Some people speculate on house prices.",
+          "category": "new_word",
+          "status": "new",
+          "day": 63
+        },
+        {
+          "word": "cryptocurrency",
+          "ipa": "/ˌkrɪptoʊˈkɝrənsi/",
+          "pos": "noun",
+          "definition": "Digital money that is not made by a bank or government.",
+          "example": "Some shops now take cryptocurrency.",
+          "category": "new_word",
+          "status": "new",
+          "day": 63
+        },
+        {
+          "word": "in the short term",
+          "ipa": "/ɪn ðə ʃɔrt tɝm/",
+          "pos": "fixed phrase",
+          "definition": "Over a short time from now.",
+          "example": "In the short term, prices may fall.",
+          "category": "fixed_phrase",
+          "status": "new",
+          "day": 63
+        },
+        {
+          "word": "look ahead",
+          "ipa": "/lʊk əˈhɛd/",
+          "pos": "fixed phrase",
+          "definition": "To think about the future and plan for it.",
+          "example": "Good savers always look ahead.",
+          "category": "fixed_phrase",
+          "status": "new",
+          "day": 63
+        },
+        {
+          "word": "think ahead",
+          "ipa": "/θɪŋk əˈhɛd/",
+          "pos": "fixed phrase",
+          "definition": "To think about the future before you act.",
+          "example": "Think ahead before you spend.",
+          "category": "fixed_phrase",
+          "status": "new",
+          "day": 63
+        }
+      ],
+      "reviewWords": [
+        "book",
+        "teacher",
+        "team",
+        "city",
+        "home"
+      ],
+      "mainWord": {
+        "word": "speculate",
+        "ipa": "/ˈspɛkjəˌleɪt/",
+        "pos": "verb",
+        "definition": "To buy or sell something in the hope of making a quick profit.",
+        "example": "Some people speculate on house prices.",
+        "category": "new_word",
+        "status": "new",
+        "day": 63
+      },
+      "mainWordForms": "Speculate is a verb. To buy or sell something in the hope of making a quick profit. Some people speculate on house prices.",
+      "pronunciationTarget": {
+        "word": "cryptocurrency",
+        "ipa": "/ˌkrɪptoʊˈkɝrənsi/"
+      },
+      "expression": "Good savers always look ahead.",
+      "use": "Use this when you talk about planning for the future.",
+      "expressionTask": "Maya talks about the future of money. What do good savers do?",
+      "grammar": "Be bound to and be due to: Prices are bound to rise next year",
+      "pattern": "Prices are bound to rise next year.",
+      "task": "Prices are ___ to rise next year.",
+      "answer": "bound",
+      "example": "Prices are bound to rise next year.",
+      "context": [
+        "Maya talks to Daniel about the future of money.",
+        "Good savers always look ahead. In the short term, prices may fall."
+      ],
+      "dialogue": [
+        "Maya: Daniel, what is cryptocurrency?",
+        "Daniel: It is digital money that is not made by a bank.",
+        "Maya: Yes. Some shops now take cryptocurrency for food and clothes.",
+        "Priya: Some people speculate on house prices. They hope to win fast.",
+        "Daniel: In the short term, prices may fall. In the long term, they rise.",
+        "Maya: Good. Think ahead before you spend, and look ahead to the future."
+      ],
+      "listening": "On Sunday, Maya talks to Daniel about the future of money. Cryptocurrency is digital money that is not made by a bank. Some shops now take it for food and clothes. Some people speculate on house prices. In the short term, prices may fall. Maya says, 'Think ahead before you spend, and look ahead to the future. Prices are bound to rise next year.'",
+      "question": "What is cryptocurrency?",
+      "correct": "Digital money not made by a bank",
+      "other": "Paper money made by a bank",
+      "reading": "On Sunday, Maya talks to Daniel about the future of money. Daniel asks, 'What is cryptocurrency?' Maya says, 'Cryptocurrency is digital money that is not made by a bank or government. Some shops now take cryptocurrency for food, clothes, and books.' Priya says, 'Some people speculate on house prices. They hope to win fast, but they may lose too.' Daniel asks, 'Will prices rise?' Maya says, 'In the short term, prices may fall. In the long term, house prices rise. Prices are bound to rise next year.' Priya says, 'Good savers always look ahead. Think ahead before you spend.' Daniel says, 'I will look ahead to the future. I want to save and learn more.' Maya says, 'Good. The future of money will change, but good habits stay the same.'",
+      "readingQ": "What do good savers do?",
+      "readingA": "They always look ahead.",
+      "speaking": "Tell a friend about the future of money. What will change? What will stay the same?",
+      "speakingSample": "Cryptocurrency is digital money that is not made by a bank. Some shops now take it for food and clothes. Some people speculate on house prices. In the short term, prices may fall. Good savers always look ahead. Think ahead before you spend. Prices are bound to rise next year. The future of money will change. I will look ahead to the future and save more.",
+      "writing": "Write a short email to a friend. Tell them what you think about the future of money.",
+      "writingSample": "Dear Anna, I want to tell you what I think about the future of money. Cryptocurrency is digital money that is not made by a bank. Some shops now take it for food and clothes. Some people speculate on house prices. In the short term, prices may fall. Good savers always look ahead. Think ahead before you spend. Prices are bound to rise next year. I will look ahead to the future and save more. Best, Daniel",
+      "sound": "Cryptocurrency has its strongest beat on CUR. In cryptocurrency, say CUR clearly at the start. In speculate, say SPEC clearly at the start.",
+      "model": "Some shops now take cryptocurrency.",
+      "wordTask": "What is cryptocurrency?",
+      "wordSample": "Cryptocurrency is digital money."
+    },
+    {
+      "unit": 8,
+      "day": 64,
+      "title": "Use money English in a new situation",
+      "goal": "I can use money English in a new situation.",
+      "newItems": [
+        {
+          "word": "deficit",
+          "ipa": "/ˈdɛfəsət/",
+          "pos": "noun",
+          "definition": "The amount by which money spent is more than money received.",
+          "example": "The shop has a deficit this year.",
+          "category": "new_word",
+          "status": "new",
+          "day": 64
+        },
+        {
+          "word": "expenditure",
+          "ipa": "/ɪkˈspɛndətʃɚ/",
+          "pos": "noun",
+          "definition": "The money that is spent on something.",
+          "example": "The family's biggest expenditure is food.",
+          "category": "new_word",
+          "status": "new",
+          "day": 64
+        },
+        {
+          "word": "build a nest egg",
+          "ipa": "/bɪld ə nɛst ɛɡ/",
+          "pos": "fixed phrase",
+          "definition": "To save money slowly for the future.",
+          "example": "She is building a nest egg for her old age.",
+          "category": "fixed_phrase",
+          "status": "new",
+          "day": 64
+        },
+        {
+          "word": "financial freedom",
+          "ipa": "/fəˈnænʃəl ˈfridəm/",
+          "pos": "fixed phrase",
+          "definition": "Having enough money to live without work or worry.",
+          "example": "He wants financial freedom before fifty.",
+          "category": "fixed_phrase",
+          "status": "new",
+          "day": 64
+        },
+        {
+          "word": "passive income",
+          "ipa": "/ˈpæsɪv ˈɪnkʌm/",
+          "pos": "fixed phrase",
+          "definition": "Money you earn without working every day for it.",
+          "example": "Rent from the flat is passive income.",
+          "category": "fixed_phrase",
+          "status": "new",
+          "day": 64
+        }
+      ],
+      "reviewWords": [
+        "life",
+        "way",
+        "thing",
+        "good",
+        "new"
+      ],
+      "mainWord": {
+        "word": "deficit",
+        "ipa": "/ˈdɛfəsət/",
+        "pos": "noun",
+        "definition": "The amount by which money spent is more than money received.",
+        "example": "The shop has a deficit this year.",
+        "category": "new_word",
+        "status": "new",
+        "day": 64
+      },
+      "mainWordForms": "Deficit is a noun. The amount by which money spent is more than money received. The shop has a deficit this year.",
+      "pronunciationTarget": {
+        "word": "deficit",
+        "ipa": "/ˈdɛfəsət/"
+      },
+      "expression": "She is building a nest egg for her old age.",
+      "use": "Use this when you talk about saving slowly for the future.",
+      "expressionTask": "Daniel meets Tom at the bank. What is Sara building?",
+      "grammar": "Review: I can use money English in a new situation",
+      "pattern": "I can use money English in a new situation.",
+      "task": "I can ___ money English in a new situation.",
+      "answer": "use",
+      "example": "I can use money English in a new situation.",
+      "context": [
+        "Daniel meets Tom at the bank on Monday.",
+        "She is building a nest egg for her old age. Rent from the flat is passive income."
+      ],
+      "dialogue": [
+        "Daniel: Tom, have you met my friend Sara? She is building a nest egg.",
+        "Tom: What is a nest egg?",
+        "Daniel: It is money you save slowly for the future.",
+        "Sara: Yes. I want financial freedom before I am fifty.",
+        "Tom: Rent from the flat is passive income. It comes each month.",
+        "Daniel: Good. I can use money English in a new situation."
+      ],
+      "listening": "On Monday, Daniel meets Tom at the bank. Tom meets Sara, a new friend. Tom asks what a nest egg is. Sara is building a nest egg for her old age. She wants financial freedom before fifty. Rent from the flat is passive income. It comes each month. Daniel says, 'I can use money English in a new situation.'",
+      "question": "What is Sara building?",
+      "correct": "A nest egg for her old age",
+      "other": "A new bank for her old age",
+      "reading": "On Monday, Daniel meets Tom at the bank. Tom meets Sara, a new friend. Tom asks, 'What is a nest egg?' Sara says, 'I am building a nest egg for my old age. It is money I save slowly for the future.' Daniel says, 'She wants financial freedom before fifty. That means enough money to live without worry.' Tom asks, 'How will you do it?' Sara says, 'Rent from the flat is passive income. It comes each month, even when I do not work.' Daniel says, 'The shop has a deficit this year. It spent more than it made.' Tom says, 'The family's biggest expenditure is food. We must plan and save.' Sara says, 'Yes. I can use money English in a new situation. Build a nest egg for your old age. Save a little each month, and it will grow.'",
+      "readingQ": "What does Sara want before fifty?",
+      "readingA": "Financial freedom.",
+      "speaking": "Tell a friend about a money plan in a new situation. What would you save for? How?",
+      "speakingSample": "Sara wants to build a nest egg for her old age. She wants financial freedom before fifty. Rent from the flat is passive income. It comes each month. The shop has a deficit this year. The family's biggest expenditure is food. Build a nest egg for your old age. Save a little each month, and it will grow. I can use money English in a new situation.",
+      "writing": "Write a short email to a friend. Tell them about a money plan for the future. Say what you would save for.",
+      "writingSample": "Dear Anna, I want to tell you about a money plan for the future. Sara wants to build a nest egg for her old age. She wants financial freedom before fifty. Rent from the flat is passive income. It comes each month. The shop has a deficit this year. The family's biggest expenditure is food. Build a nest egg for your old age. Save a little each month, and it will grow. I can use money English in a new situation. Please tell me what you think. Best, Daniel",
+      "sound": "Deficit has its strongest beat on DEF. In deficit, say DEF clearly at the start. In expenditure, say PEN clearly in the middle.",
+      "model": "The shop has a deficit this year.",
+      "wordTask": "What is Sara building?",
+      "wordSample": "Sara is building a nest egg for her old age.",
+      "transferCheck": {
+        "source": "On Tuesday, Tom reads a money plan. It says Sara is building a nest egg for her old age. Tom talks to his friend Sara at the bank. He says, 'You want financial freedom before fifty, right?' Sara says, 'Yes. Rent from the flat is passive income.' Tom says, 'That is smart. The shop has a deficit this year, but you save each month.' Sara says, 'Yes. The family's biggest expenditure is food, but I still save.' Tom is happy. He says, 'Thank you. I am glad we talked.'",
+        "dictation": "Sara is building a nest egg for her old age.",
+        "answer": "1. The new checker is Tom. He reads a money plan and talks to his friend Sara at the bank. 2. Tom's first job is to say that Sara wants financial freedom before fifty and to ask if it is right. 3. On Tuesday, Tom says, 'You want financial freedom before fifty, right?' 4. Sara is building a nest egg for her old age. 5. Sample: On Tuesday, Tom reads a money plan. It says Sara is building a nest egg for her old age. Tom talks to his friend Sara at the bank. He says, 'You want financial freedom before fifty, right?' Sara says, 'Yes. Rent from the flat is passive income.' Tom says, 'That is smart. The shop has a deficit this year, but you save each month.' Sara says, 'Yes. The family's biggest expenditure is food, but I still save.' Follow-up: What does Sara say about the family's biggest expenditure? Food.",
+        "tasks": [
+          [
+            "1 · Identify the people and the new situation",
+            "Who is the new checker, and what does he read?"
+          ],
+          [
+            "2 · Work out what Tom does first",
+            "What is Tom's first job, and what does he say?"
+          ],
+          [
+            "3 · Notice the sentence on Tuesday",
+            "What does Tom say on Tuesday?"
+          ],
+          [
+            "4 · Listen and write",
+            "Write the sentence you hear."
+          ],
+          [
+            "5 · Retell and answer",
+            "Tell the story in order, including the people, the new situation, the first talk, and the result. Then answer one follow-up question."
+          ]
+        ]
+      }
+    }
+  ]
+}

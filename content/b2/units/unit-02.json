@@ -1,0 +1,905 @@
+{
+  "number": 2,
+  "title": "Negotiation and persuasion",
+  "lessons": [
+    {
+      "unit": 2,
+      "day": 9,
+      "title": "Make a first proposal",
+      "goal": "I can make a first proposal in a business talk.",
+      "newItems": [
+        {
+          "word": "negotiate",
+          "ipa": "/nɪˈɡoʊʃieɪt/",
+          "pos": "verb",
+          "definition": "To talk with someone to reach an agreement.",
+          "example": "We need to negotiate a better price with the client.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "proposal",
+          "ipa": "/prəˈpoʊzəl/",
+          "pos": "noun",
+          "definition": "A plan or idea that you suggest.",
+          "example": "She sent a proposal to the client.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "reach an agreement",
+          "ipa": "/ritʃ ən əˈɡrimənt/",
+          "pos": "fixed phrase",
+          "definition": "To come to a decision that both sides accept.",
+          "example": "After two hours, we reached an agreement.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "in principle",
+          "ipa": "/ɪn ˈprɪnsəpəl/",
+          "pos": "fixed phrase",
+          "definition": "In general, although details may change.",
+          "example": "We agree in principle, but not on the price.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "the bottom line",
+          "ipa": "/ðə ˈbɑtəm laɪn/",
+          "pos": "fixed phrase",
+          "definition": "The most important fact, or the final result.",
+          "example": "The bottom line is that we need more time.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "price",
+        "client",
+        "meeting",
+        "plan",
+        "agree"
+      ],
+      "mainWord": {
+        "word": "negotiate",
+        "ipa": "/nɪˈɡoʊʃieɪt/",
+        "pos": "verb",
+        "definition": "To talk with someone to reach an agreement.",
+        "example": "We need to negotiate a better price with the client.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Negotiate is a verb. To negotiate is to talk with someone to reach an agreement. We need to negotiate a better price with the client.",
+      "pronunciationTarget": {
+        "word": "negotiate",
+        "ipa": "/nɪˈɡoʊʃieɪt/"
+      },
+      "expression": "We would like to propose a new deadline.",
+      "use": "Use this when you want to suggest a plan at the start of a talk.",
+      "expressionTask": "Maya and Daniel meet the client for the first time. What do they propose?",
+      "grammar": "Making a proposal: If + past simple, would + verb",
+      "pattern": "If you agreed to a longer deadline, we could lower the price.",
+      "task": "If you ___ to a longer deadline, we could lower the price.",
+      "answer": "agreed",
+      "example": "If you agreed to a longer deadline, we could lower the price.",
+      "context": [
+        "Maya and Daniel meet Mr. Carter, a new client, for the first time.",
+        "We would like to propose a new deadline."
+      ],
+      "dialogue": [
+        "Maya: Good morning, Mr. Carter. Thank you for meeting us today. We would like to propose a new deadline.",
+        "Carter: Good morning, Maya. Tell me about your proposal. What do you want to change?",
+        "Maya: In principle, we agree on the price. The bottom line is that we need more time.",
+        "Daniel: Yes. If you agreed to a longer deadline, we could lower the price.",
+        "Carter: That sounds fair. Let us talk about the details. Can we reach an agreement today?",
+        "Maya: I hope so. Let us negotiate the details now, and we can reach an agreement this week."
+      ],
+      "listening": "On Monday, Maya and Daniel meet Mr. Carter at the office. Maya says, 'Good morning, Mr. Carter. We would like to propose a new deadline.' Mr. Carter says, 'Tell me about your proposal.' Maya says, 'In principle, we agree on the price. The bottom line is that we need more time.' Daniel says, 'If you agreed to a longer deadline, we could lower the price.'",
+      "question": "What does Maya propose to Mr. Carter?",
+      "correct": "A new deadline",
+      "other": "A higher price",
+      "reading": "On Monday, Maya and Daniel meet Mr. Carter, a new client, at the office. They want to negotiate a new contract for chairs. Maya starts the meeting. She says, 'Good morning, Mr. Carter. We would like to propose a new deadline. In principle, we agree on the price. The bottom line is that we need more time to make the chairs.' Mr. Carter listens and asks about the proposal. He says, 'Tell me more. How much time do you need?' Daniel says, 'We need two more weeks. If you agreed to a longer deadline, we could lower the price.' Mr. Carter thinks for a minute. He says, 'That sounds fair. I want good chairs, and I want a fair price. Let us talk about the details now.' Maya smiles. She says, 'Good. Let us negotiate the details and reach an agreement this week.' Daniel is happy. The first meeting went well, and the team is ready to talk more.",
+      "readingQ": "What does Maya propose to Mr. Carter?",
+      "readingA": "She proposes a new deadline, with more time to make the chairs.",
+      "speaking": "Tell a friend about a time you made a proposal at work. What did you propose? What did the other person say? Did you reach an agreement?",
+      "speakingSample": "Last month, I met a new client. I said, 'We would like to propose a new deadline. In principle, we agree on the price. The bottom line is that we need more time.' The client listened and asked about the proposal. He said, 'If you agreed to a longer deadline, we could lower the price.' We talked. In the end, we reached an agreement, and I was happy.",
+      "writing": "Write a short email to a client. Propose a new deadline. Say what you agree on and what you need.",
+      "writingSample": "Dear Mr. Carter, Thank you for meeting us on Monday. We would like to propose a new deadline for the chairs. In principle, we agree on the price. The bottom line is that we need more time to make the chairs well. If you agreed to a longer deadline, we could lower the price. We want to negotiate the details with you this week. Please tell us what you think. We hope we can reach an agreement soon. We are glad to work with you. Best, Maya",
+      "sound": "Negotiate has its strongest beat on GO. In negotiate, say ATE clearly at the end. In proposal, say POS clearly at the start.",
+      "model": "We need to negotiate a better price with the client.",
+      "wordTask": "What does Maya propose to Mr. Carter?",
+      "wordSample": "She proposes a new deadline for the chairs."
+    },
+    {
+      "unit": 2,
+      "day": 10,
+      "title": "Make concessions",
+      "goal": "I can make concessions in a business talk.",
+      "newItems": [
+        {
+          "word": "concession",
+          "ipa": "/kənˈsɛʃən/",
+          "pos": "noun",
+          "definition": "Something you give up in a discussion to reach an agreement.",
+          "example": "We made a small concession on the price.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "compromise",
+          "ipa": "/ˈkɑmprəˌmaɪz/",
+          "pos": "noun",
+          "definition": "An agreement in which both sides give up something.",
+          "example": "We reached a compromise on the price.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "mutual",
+          "ipa": "/ˈmjutʃuəl/",
+          "pos": "adjective",
+          "definition": "Shared by two or more people.",
+          "example": "We want a mutual agreement, not a fight.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "give and take",
+          "ipa": "/ɡɪv ənd teɪk/",
+          "pos": "fixed phrase",
+          "definition": "A fair exchange: each side gives something and gets something.",
+          "example": "Good talks need give and take.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "meet in the middle",
+          "ipa": "/mit ɪn ðə ˈmɪdəl/",
+          "pos": "fixed phrase",
+          "definition": "To agree by giving up something on both sides.",
+          "example": "We met in the middle on the price.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "team",
+        "project",
+        "deadline",
+        "time",
+        "report"
+      ],
+      "mainWord": {
+        "word": "concession",
+        "ipa": "/kənˈsɛʃən/",
+        "pos": "noun",
+        "definition": "Something you give up in a discussion to reach an agreement.",
+        "example": "We made a small concession on the price.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Concession is a noun. The plural is concessions. A concession is something you give up in a discussion to reach an agreement. We made a small concession on the price.",
+      "pronunciationTarget": {
+        "word": "concession",
+        "ipa": "/kənˈsɛʃən/"
+      },
+      "expression": "Let us meet in the middle on the price.",
+      "use": "Use this when both sides need to give up a little.",
+      "expressionTask": "Mr. Carter wants a lower price. What does Maya offer in return?",
+      "grammar": "Making concessions: If + present simple, will + verb",
+      "pattern": "If you agree to pay early, we will give you a discount.",
+      "task": "If you ___ to pay early, we will give you a discount.",
+      "answer": "agree",
+      "example": "If you agree to pay early, we will give you a discount.",
+      "context": [
+        "Mr. Carter wants a lower price for the chairs.",
+        "Let us meet in the middle on the price."
+      ],
+      "dialogue": [
+        "Carter: Maya, your price is too high. I need a lower price for the chairs.",
+        "Maya: I understand. If you agree to pay early, we will give you a discount.",
+        "Daniel: That is a fair compromise. Good talks need give and take.",
+        "Carter: What do you want in return for the lower price?",
+        "Maya: We need a mutual agreement: early payment for a lower price. Let us meet in the middle on the price.",
+        "Carter: Good. A small concession from each side, and we have a deal."
+      ],
+      "listening": "On Tuesday, Mr. Carter calls Maya. He says, 'Your price is too high. I need a lower price.' Maya says, 'I understand. If you agree to pay early, we will give you a discount.' Daniel says, 'That is a fair compromise. Good talks need give and take.' Maya says, 'We need a mutual agreement. Let us meet in the middle on the price.'",
+      "question": "What does Maya offer Mr. Carter?",
+      "correct": "A discount for early payment",
+      "other": "A higher price",
+      "reading": "On Tuesday, Mr. Carter calls Maya about the price of the chairs. He says, 'Your price is too high. I need a lower price.' Maya listens. She knows that a good talk needs give and take. She says, 'If you agree to pay early, we will give you a discount.' Daniel says, 'That is a fair compromise. A small concession from each side can help us reach an agreement.' Maya says, 'We need a mutual agreement: early payment for a lower price. Let us meet in the middle on the price.' Mr. Carter thinks. He says, 'That sounds fair. I will pay early, and you will lower the price.' Maya smiles. She says, 'Good. A small concession from each side is the way to reach an agreement.' Daniel is glad. The talks are moving again.",
+      "readingQ": "What does Maya offer Mr. Carter for early payment?",
+      "readingA": "She offers a discount on the price of the chairs.",
+      "speaking": "Tell a friend about a time you made a concession. What did you give up? What did you get in return? Was it a fair compromise?",
+      "speakingSample": "Last year, I talked with a client about a price. The client wanted a lower price. I said, 'If you agree to pay early, we will give you a discount.' The client said yes. Good talks need give and take. We made a small concession on the price, and the client paid early. We reached a mutual agreement, and we met in the middle on the price.",
+      "writing": "Write a short email to a client. Offer a concession. Say what you will give and what you want in return.",
+      "writingSample": "Dear Mr. Carter, Thank you for your call on Tuesday. We understand the price is too high. If you agree to pay early, we will give you a discount on the chairs. That is a fair compromise. Good talks need give and take. We need a mutual agreement: early payment for a lower price. Let us meet in the middle on the price. A small concession from each side will help us agree this week. Please tell us what you think. We are glad to work with you. Best, Maya",
+      "sound": "Concession has its strongest beat on SESH. In concession, say SHUN clearly at the end. In compromise, say COM clearly at the start.",
+      "model": "We made a small concession on the price.",
+      "wordTask": "What does Maya offer Mr. Carter?",
+      "wordSample": "She offers a discount on the chairs for early payment."
+    },
+    {
+      "unit": 2,
+      "day": 11,
+      "title": "Soften a demand",
+      "goal": "I can soften a demand with careful language.",
+      "newItems": [
+        {
+          "word": "tentative",
+          "ipa": "/ˈtɛntətɪv/",
+          "pos": "adjective",
+          "definition": "Not final; still open to change.",
+          "example": "We have a tentative plan for Friday.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "reluctant",
+          "ipa": "/rɪˈlʌktənt/",
+          "pos": "adjective",
+          "definition": "Not willing to do something.",
+          "example": "She was reluctant to change the plan.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "take a step back",
+          "ipa": "/teɪk ə stɛp bæk/",
+          "pos": "fixed phrase",
+          "definition": "To stop and think calmly about a situation.",
+          "example": "Let us take a step back and look at the facts.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "see things differently",
+          "ipa": "/si θɪŋz ˈdɪfɚrəntli/",
+          "pos": "fixed phrase",
+          "definition": "To have a different opinion.",
+          "example": "I see things differently from the client.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "in the long run",
+          "ipa": "/ɪn ðə lɔŋ rʌn/",
+          "pos": "fixed phrase",
+          "definition": "Over a long period of time.",
+          "example": "In the long run, a good plan saves money.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "idea",
+        "problem",
+        "question",
+        "email",
+        "change"
+      ],
+      "mainWord": {
+        "word": "tentative",
+        "ipa": "/ˈtɛntətɪv/",
+        "pos": "adjective",
+        "definition": "Not final; still open to change.",
+        "example": "We have a tentative plan for Friday.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Tentative is an adjective. A tentative plan is not final; it is still open to change. We have a tentative plan for Friday.",
+      "pronunciationTarget": {
+        "word": "tentative",
+        "ipa": "/ˈtɛntətɪv/"
+      },
+      "expression": "It seems to me that the price is a little high.",
+      "use": "Use this to share a difficult opinion in a soft way.",
+      "expressionTask": "Daniel thinks the price is too high. How does he say it softly?",
+      "grammar": "Hedging: It seems to me that + sentence",
+      "pattern": "It seems to me that the price is a little high.",
+      "task": "It seems to me that the price ___ a little high.",
+      "answer": "is",
+      "example": "It seems to me that the price is a little high.",
+      "context": [
+        "Daniel thinks the price of the chairs is too high, but he does not want to sound rude.",
+        "It seems to me that the price is a little high."
+      ],
+      "dialogue": [
+        "Daniel: Maya, I have a worry about the price. It seems to me that the price is a little high.",
+        "Maya: I understand. Let us take a step back and look at the facts.",
+        "Daniel: In the long run, a high price may lose the client. I am reluctant to push him too hard.",
+        "Maya: You are right. We see things differently from the client, but we can find a soft way.",
+        "Daniel: We have a tentative plan for Friday. Can we talk about the price again?",
+        "Maya: Yes. A soft word now can save the talks later."
+      ],
+      "listening": "On Wednesday, Daniel talks to Maya about the price. He says, 'It seems to me that the price is a little high.' Maya says, 'Let us take a step back and look at the facts.' Daniel says, 'In the long run, a high price may lose the client. I am reluctant to push him too hard.' Maya says, 'You are right.'",
+      "question": "Why is Daniel worried?",
+      "correct": "The price is a little high",
+      "other": "The client is too slow",
+      "reading": "On Wednesday, Daniel talks to Maya about the price of the chairs. He is worried. He says, 'It seems to me that the price is a little high.' Maya listens. She says, 'Let us take a step back and look at the facts.' Daniel says, 'In the long run, a high price may lose the client. I am reluctant to push him too hard. We have a tentative plan for Friday, and I want to keep the client happy.' Maya says, 'You are right. We see things differently from the client, but we can find a soft way to talk about the price. Let us think about what the client needs, and then we can talk to him again.' Daniel is glad. Maya listens well, and she helps him say a hard thing in a soft way.",
+      "readingQ": "Why does Daniel want to talk about the price again?",
+      "readingA": "Because he thinks the price is a little high and may lose the client.",
+      "speaking": "Tell a friend about a time you had to say something difficult in a soft way. What did you say? How did the other person react?",
+      "speakingSample": "Last week, I told a client that his plan was too slow. I said, 'It seems to me that the plan is a little slow.' I said, 'Let us take a step back and look at the facts. In the long run, a slow plan may lose time.' I was reluctant to push him too hard. We see things differently, but we talked softly. We have a tentative plan.",
+      "writing": "Write a short email to a colleague. Share a difficult opinion in a soft way. Say what you think and why.",
+      "writingSample": "Dear Priya, I want to share a difficult opinion. It seems to me that our price is a little high. Let us take a step back and look at the facts. In the long run, a high price may lose the client. I am reluctant to push the client too hard. We see things differently, but we can talk about the price in a soft way. We have a tentative plan for Friday. Can we talk about the price again on Friday? Please tell me what you think. Best, Daniel",
+      "sound": "Tentative has its strongest beat on TEN. In tentative, say TIVE clearly at the end. In reluctant, say LUC clearly in the middle.",
+      "model": "We have a tentative plan for Friday.",
+      "wordTask": "Why is Daniel worried about the price?",
+      "wordSample": "He thinks the price is a little high and may lose the client."
+    },
+    {
+      "unit": 2,
+      "day": 12,
+      "title": "Talk about what went wrong",
+      "goal": "I can talk about what went wrong with a third conditional.",
+      "newItems": [
+        {
+          "word": "deadlock",
+          "ipa": "/ˈdɛdˌlɑk/",
+          "pos": "noun",
+          "definition": "A situation where two sides cannot agree.",
+          "example": "The talks ended in deadlock.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "ultimatum",
+          "ipa": "/ˌʌltəˈmeɪtəm/",
+          "pos": "noun",
+          "definition": "A final demand: accept it, or the talks end.",
+          "example": "The client gave us an ultimatum: decide by Friday.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "stalemate",
+          "ipa": "/ˈsteɪlˌmeɪt/",
+          "pos": "noun",
+          "definition": "A situation where neither side can move forward.",
+          "example": "The talks reached a stalemate after two days.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "stand firm",
+          "ipa": "/stænd fɝm/",
+          "pos": "fixed phrase",
+          "definition": "To refuse to change your position.",
+          "example": "We must stand firm on the deadline.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "back down",
+          "ipa": "/bæk daʊn/",
+          "pos": "fixed phrase",
+          "definition": "To give up your position in a disagreement.",
+          "example": "He refused to back down on the price.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "work",
+        "office",
+        "month",
+        "week",
+        "money"
+      ],
+      "mainWord": {
+        "word": "deadlock",
+        "ipa": "/ˈdɛdˌlɑk/",
+        "pos": "noun",
+        "definition": "A situation where two sides cannot agree.",
+        "example": "The talks ended in deadlock.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Deadlock is a noun. A deadlock is a situation where two sides cannot agree. The talks ended in deadlock.",
+      "pronunciationTarget": {
+        "word": "deadlock",
+        "ipa": "/ˈdɛdˌlɑk/"
+      },
+      "expression": "If we had started earlier, we would have finished on time.",
+      "use": "Use this to talk about a past mistake and its result.",
+      "expressionTask": "The first meeting with Mr. Carter went badly. What does Maya say about the past?",
+      "grammar": "Third conditional: If + past perfect, would have + past participle",
+      "pattern": "If we had started earlier, we would have finished on time.",
+      "task": "If we had started earlier, we ___ have finished on time.",
+      "answer": "would",
+      "example": "If we had started earlier, we would have finished on time.",
+      "context": [
+        "The first meeting with Mr. Carter went badly. Maya and Daniel talk about what went wrong.",
+        "If we had started earlier, we would have finished on time."
+      ],
+      "dialogue": [
+        "Daniel: Maya, the meeting went badly. Mr. Carter gave us an ultimatum: decide by Friday, or the talks end.",
+        "Maya: I know. If we had started earlier, we would have finished on time.",
+        "Daniel: Should we stand firm on the price, or should we back down?",
+        "Maya: We must not back down on everything. But we can move a little.",
+        "Daniel: The talks are in deadlock. It feels like a stalemate.",
+        "Maya: Yes. But if we had talked about the price first, we would have avoided this problem."
+      ],
+      "listening": "On Thursday, Maya and Daniel talk about the meeting. Daniel says, 'It went badly. Mr. Carter gave us an ultimatum: decide by Friday, or the talks end.' Maya says, 'If we had started earlier, we would have finished on time.' Daniel asks, 'Should we stand firm, or back down?' Maya says, 'We must not back down. But we can move a little.'",
+      "question": "What did Mr. Carter say?",
+      "correct": "Decide by Friday, or the talks end",
+      "other": "Pay more for the chairs",
+      "reading": "On Thursday, Maya and Daniel talk about the meeting with Mr. Carter. The meeting went badly. Daniel says, 'Mr. Carter gave us an ultimatum: decide by Friday, or the talks end.' Maya says, 'If we had started earlier, we would have finished on time. Now the talks are in deadlock.' Daniel asks, 'Should we stand firm on the price, or should we back down?' Maya says, 'We must not back down on everything. But we can move a little. If we had talked about the price first, we would have avoided this problem.' Daniel says, 'It feels like a stalemate. Neither side can move.' Maya says, 'Yes. But a hard talk is not the end. Let us think again and call Mr. Carter tomorrow.' Daniel is glad. Maya listens well, and she helps him think.",
+      "readingQ": "What does Maya say they should have done?",
+      "readingA": "She says they should have started earlier and talked about the price first.",
+      "speaking": "Tell a friend about a time something went wrong at work. What happened? What would you have done differently?",
+      "speakingSample": "Last month, a meeting went badly. The client gave us an ultimatum: decide by Friday, or the talks end. If we had started earlier, we would have finished on time. The talks were in deadlock. I asked my manager, 'Should we stand firm on the price, or should we back down?' She said, 'We must not back down on everything. But we can move a little.' We called again.",
+      "writing": "Write a short email to a colleague. Talk about a meeting that went badly. Say what went wrong and what you would have done differently.",
+      "writingSample": "Dear Priya, Our meeting with Mr. Carter went badly. He gave us an ultimatum: decide by Friday, or the talks end. If we had started earlier, we would have finished on time. Now the talks are in deadlock. Should we stand firm on the price, or should we back down? I think we must not back down on everything, but we can move a little. If we had talked about the price first, we would have avoided this problem. Let us think again and call Mr. Carter tomorrow. Best, Daniel",
+      "sound": "Deadlock has its strongest beat on DEAD. In deadlock, say LOCK clearly at the end. In ultimatum, say MAY clearly in the middle.",
+      "model": "The talks ended in deadlock.",
+      "wordTask": "What did Mr. Carter say on Thursday?",
+      "wordSample": "He said they must decide by Friday, or the talks end."
+    },
+    {
+      "unit": 2,
+      "day": 13,
+      "title": "Connect past choices to present results",
+      "goal": "I can use a mixed conditional to connect the past to the present.",
+      "newItems": [
+        {
+          "word": "incentive",
+          "ipa": "/ɪnˈsɛntɪv/",
+          "pos": "noun",
+          "definition": "Something that makes someone want to do something.",
+          "example": "The company offers an incentive for early delivery.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "counteroffer",
+          "ipa": "/ˈkaʊntɚˌɔfɚ/",
+          "pos": "noun",
+          "definition": "An offer you make in reply to someone's offer.",
+          "example": "We sent a counteroffer with a lower price.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "sweeten the deal",
+          "ipa": "/ˈswitən ðə dil/",
+          "pos": "fixed phrase",
+          "definition": "To make an offer better.",
+          "example": "They sweetened the deal with free delivery.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "a trade-off",
+          "ipa": "/ə ˈtreɪd ɔf/",
+          "pos": "fixed phrase",
+          "definition": "Giving up one thing to get another.",
+          "example": "A lower price is a trade-off for slower delivery.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "room to maneuver",
+          "ipa": "/rum tə məˈnuvɚ/",
+          "pos": "fixed phrase",
+          "definition": "Space to change your position a little.",
+          "example": "We have some room to maneuver on the price.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "result",
+        "decision",
+        "clear",
+        "easy",
+        "schedule"
+      ],
+      "mainWord": {
+        "word": "incentive",
+        "ipa": "/ɪnˈsɛntɪv/",
+        "pos": "noun",
+        "definition": "Something that makes someone want to do something.",
+        "example": "The company offers an incentive for early delivery.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Incentive is a noun. The plural is incentives. An incentive is something that makes someone want to do something. The company offers an incentive for early delivery.",
+      "pronunciationTarget": {
+        "word": "incentive",
+        "ipa": "/ɪnˈsɛntɪv/"
+      },
+      "expression": "If we had signed last week, we would be saving money now.",
+      "use": "Use this to show how a past choice affects the present.",
+      "expressionTask": "Maya talks about the contract they did not sign last week. What does she say?",
+      "grammar": "Mixed conditional: If + past perfect, would + verb (present result)",
+      "pattern": "If we had signed last week, we would be saving money now.",
+      "task": "If we had signed last week, we ___ be saving money now.",
+      "answer": "would",
+      "example": "If we had signed last week, we would be saving money now.",
+      "context": [
+        "Maya talks about the contract they did not sign last week.",
+        "If we had signed last week, we would be saving money now."
+      ],
+      "dialogue": [
+        "Maya: If we had signed last week, we would be saving money now.",
+        "Daniel: What can we do now? Can we sweeten the deal for Mr. Carter?",
+        "Maya: Yes. We can offer an incentive: free delivery for early payment.",
+        "Daniel: Is that a good trade-off? Free delivery costs us money.",
+        "Maya: It is. A small incentive now can help us later. We have some room to maneuver on the price.",
+        "Daniel: Good. Let us send a counteroffer with free delivery today."
+      ],
+      "listening": "On Friday, Maya talks to Daniel. She says, 'If we had signed last week, we would be saving money now.' Daniel says, 'What can we do now? Can we sweeten the deal?' Maya says, 'Yes. We can offer an incentive: free delivery for early payment.' Daniel says, 'Is that a good trade-off?' Maya says, 'It is. A small incentive can help us later.'",
+      "question": "What does Maya offer Mr. Carter?",
+      "correct": "Free delivery for early payment",
+      "other": "A higher price",
+      "reading": "On Friday, Maya talks to Daniel about the contract they did not sign last week. She says, 'If we had signed last week, we would be saving money now.' Daniel asks, 'What can we do now? Can we sweeten the deal for Mr. Carter?' Maya says, 'Yes. We can offer an incentive: free delivery for early payment.' Daniel says, 'Is that a good trade-off? Free delivery costs us money.' Maya says, 'It is a trade-off. A small incentive now can help us later. We have some room to maneuver on the price, but not much. Let us send a counteroffer with free delivery today.' Daniel is happy. He says, 'Good. A clear offer is better than a long talk.' Maya smiles. She says, 'Yes. Let us send the counteroffer now.'",
+      "readingQ": "What is Maya's new offer to Mr. Carter?",
+      "readingA": "Free delivery for early payment.",
+      "speaking": "Tell a friend about a past choice and its result now. What did you do? What would be different now if you had chosen differently?",
+      "speakingSample": "Last year, I did not sign on time. If I had signed last week, I would be saving money now. I talked to my manager. I said, 'Can we sweeten the deal for the client?' She said, 'Yes. Offer an incentive: free delivery for early payment.' It was a good trade-off. A small incentive now can help us later. We sent a counteroffer, and the client said yes.",
+      "writing": "Write a short email to a client. Send a counteroffer. Say what you offer and why it is a good trade-off.",
+      "writingSample": "Dear Mr. Carter, Thank you for your time this week. If we had signed last week, we would be saving money now. We want to sweeten the deal for you. We can offer an incentive: free delivery for early payment. Is that a good trade-off? Free delivery costs us money, but a small incentive now can help us work together. We send you a counteroffer with free delivery today. Please tell us what you think. We hope we can reach an agreement soon. Best, Maya",
+      "sound": "Incentive has its strongest beat on SEN. In incentive, say TIVE clearly at the end. In counteroffer, say COUNT clearly at the start.",
+      "model": "The company offers an incentive for early delivery.",
+      "wordTask": "What does Maya offer Mr. Carter on Friday?",
+      "wordSample": "She offers free delivery for early payment."
+    },
+    {
+      "unit": 2,
+      "day": 14,
+      "title": "Report what was said",
+      "goal": "I can report what someone said in a discussion.",
+      "newItems": [
+        {
+          "word": "persuade",
+          "ipa": "/pɚˈsweɪd/",
+          "pos": "verb",
+          "definition": "To make someone believe or do something by talking to them.",
+          "example": "She persuaded the client to wait one more week.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "persuasive",
+          "ipa": "/pɚˈsweɪsɪv/",
+          "pos": "adjective",
+          "definition": "Good at making people believe or agree.",
+          "example": "He made a persuasive case for the new plan.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "mediator",
+          "ipa": "/ˈmidiˌeɪtɚ/",
+          "pos": "noun",
+          "definition": "A person who helps two sides reach an agreement.",
+          "example": "A mediator helped the two teams agree.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "find common ground",
+          "ipa": "/faɪnd ˈkɑmən ɡraʊnd/",
+          "pos": "fixed phrase",
+          "definition": "To find things both sides agree on.",
+          "example": "We found common ground on the deadline.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "a middle ground",
+          "ipa": "/ə ˈmɪdəl ɡraʊnd/",
+          "pos": "fixed phrase",
+          "definition": "A position between two different opinions.",
+          "example": "There must be a middle ground on price.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "person",
+        "company",
+        "morning",
+        "afternoon",
+        "today"
+      ],
+      "mainWord": {
+        "word": "persuade",
+        "ipa": "/pɚˈsweɪd/",
+        "pos": "verb",
+        "definition": "To make someone believe or do something by talking to them.",
+        "example": "She persuaded the client to wait one more week.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Persuade is a verb. To persuade is to make someone believe or do something by talking to them. She persuaded the client to wait one more week.",
+      "pronunciationTarget": {
+        "word": "persuade",
+        "ipa": "/pɚˈsweɪd/"
+      },
+      "expression": "Maya said that she would call the client the next day.",
+      "use": "Use this to report what someone said.",
+      "expressionTask": "Priya tells Daniel what Maya said about the talks. What does she report?",
+      "grammar": "Reported speech: She said that she would + verb",
+      "pattern": "Maya said that she would call the client the next day.",
+      "task": "Maya said that she ___ call the client the next day.",
+      "answer": "would",
+      "example": "Maya said that she would call the client the next day.",
+      "context": [
+        "Priya tells Daniel what Maya said about the talks with Mr. Carter.",
+        "Maya said that she would call the client the next day."
+      ],
+      "dialogue": [
+        "Priya: Daniel, Maya said that she would call the client the next day.",
+        "Daniel: Did she say anything about the price?",
+        "Priya: She said that we need to find common ground on the price.",
+        "Daniel: Can we persuade Mr. Carter to accept our offer?",
+        "Priya: Maya said that a persuasive plan and a middle ground can help. She also said that a mediator can help two sides agree.",
+        "Daniel: Good. Let us find a middle ground and call him tomorrow."
+      ],
+      "listening": "On Monday, Priya tells Daniel what Maya said. She says, 'Maya said that she would call the client the next day.' Daniel asks, 'Did she say anything about the price?' Priya says, 'She said that we need to find common ground.' Daniel asks, 'Can we persuade Mr. Carter to accept our offer?' Priya says, 'Maya said that a persuasive plan can help.'",
+      "question": "What did Maya say she would do?",
+      "correct": "Call the client the next day",
+      "other": "Cancel the talks",
+      "reading": "On Monday, Priya tells Daniel what Maya said about the talks with Mr. Carter. Priya says, 'Maya said that she would call the client the next day. She said that we need to find common ground on the price.' Daniel asks, 'Can we persuade Mr. Carter to accept our offer?' Priya says, 'Maya said that a persuasive plan and a middle ground can help. She said that a mediator can help two sides agree, if the talks are hard.' Daniel says, 'Good. Let us find a middle ground and call him tomorrow.' Priya says, 'Maya also said that she was happy with our work. She said that we listen well and learn fast.' Daniel smiles. He says, 'Good. Let us call Mr. Carter tomorrow and find common ground.' Daniel smiles. He is glad to have a plan.",
+      "readingQ": "What did Maya say about the talks?",
+      "readingA": "She said she would call the client the next day and that they need to find common ground on the price.",
+      "speaking": "Tell a friend what someone said about your work. What did they say? How did you report it to another person?",
+      "speakingSample": "Yesterday, Priya told me what Maya said. She said, 'Maya said that she would call the client the next day. She said that we need to find common ground.' I asked, 'Can we persuade Mr. Carter to accept our offer?' Priya said, 'Maya said that a persuasive plan can help. She said that a mediator can help two sides agree.' I said, 'Good. Let us find common ground.'",
+      "writing": "Write a short email to a colleague. Report what your manager said about the talks. Say what will happen next.",
+      "writingSample": "Dear Daniel, Priya told me what Maya said about the talks. Maya said that she would call the client the next day. She said that we need to find common ground. I asked, 'Can we persuade Mr. Carter to accept our offer?' Priya said, 'Maya said that a persuasive plan and a middle ground can help. She said that a mediator can help two sides agree, if the talks are hard.' Let us find a middle ground and call him tomorrow. Please tell me what you think. Best, Priya",
+      "sound": "Persuade has its strongest beat on SWADE. In persuade, say SWADE clearly at the end. In persuasive, say SWA clearly at the start.",
+      "model": "Can you persuade the client to wait one more week?",
+      "wordTask": "What did Maya say she would do?",
+      "wordSample": "She said she would call the client the next day."
+    },
+    {
+      "unit": 2,
+      "day": 15,
+      "title": "Emphasize what matters",
+      "goal": "I can emphasize what matters with a cleft sentence.",
+      "newItems": [
+        {
+          "word": "clause",
+          "ipa": "/klɔz/",
+          "pos": "noun",
+          "definition": "One part of a contract or agreement.",
+          "example": "Read the clause about late delivery.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "supplier",
+          "ipa": "/səˈplaɪɚ/",
+          "pos": "noun",
+          "definition": "A company that sells you things you need.",
+          "example": "Our supplier raised the price this month.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "split the difference",
+          "ipa": "/splɪt ðə ˈdɪfɚrəns/",
+          "pos": "fixed phrase",
+          "definition": "To agree on a number in the middle.",
+          "example": "Let us split the difference and say fifty.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "meet halfway",
+          "ipa": "/mit ˈhæfˈweɪ/",
+          "pos": "fixed phrase",
+          "definition": "To agree in the middle.",
+          "example": "Can we meet halfway on the price?",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "have the upper hand",
+          "ipa": "/hæv ði ˈʌpɚ hænd/",
+          "pos": "fixed phrase",
+          "definition": "To be in the stronger position.",
+          "example": "With three offers, she has the upper hand.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "phone",
+        "order",
+        "delivery",
+        "service",
+        "hard"
+      ],
+      "mainWord": {
+        "word": "clause",
+        "ipa": "/klɔz/",
+        "pos": "noun",
+        "definition": "One part of a contract or agreement.",
+        "example": "Read the clause about late delivery.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Clause is a noun. The plural is clauses. A clause is one part of a contract or agreement. Read the clause about late delivery.",
+      "pronunciationTarget": {
+        "word": "clause",
+        "ipa": "/klɔz/"
+      },
+      "expression": "What we need is more time.",
+      "use": "Use this to emphasize the most important thing.",
+      "expressionTask": "Maya and Daniel talk about the contract. What does Maya say they need most?",
+      "grammar": "Cleft sentences: What + subject + verb + is + noun",
+      "pattern": "What we need is more time.",
+      "task": "What we need ___ more time.",
+      "answer": "is",
+      "example": "What we need is more time.",
+      "context": [
+        "Maya and Daniel talk about the contract with Mr. Carter. What do they need most?",
+        "What we need is more time."
+      ],
+      "dialogue": [
+        "Maya: What we need is more time. Let us read the clause about late delivery again.",
+        "Daniel: The clause says we must pay the supplier on time. What about the delivery date?",
+        "Maya: The chairs will arrive on Monday. What we need is a clear plan.",
+        "Daniel: Can we split the difference on the price? Or meet halfway?",
+        "Maya: Yes. Let us meet halfway on the price and split the difference on the delivery date.",
+        "Daniel: Good. With three offers, we have the upper hand. But what we need is a fair price."
+      ],
+      "listening": "On Tuesday, Maya and Daniel talk. Maya says, 'What we need is more time. Let us read the clause again.' Daniel says, 'The clause says we must pay the supplier on time.' Maya says, 'What we need is a clear plan.' Daniel says, 'Can we split the difference on the price? Or meet halfway?' Maya says, 'Yes. Let us meet halfway on the price.'",
+      "question": "What does Maya say they need most?",
+      "correct": "More time",
+      "other": "A new client",
+      "reading": "On Tuesday, Maya and Daniel talk about the contract with Mr. Carter. Maya says, 'What we need is more time. Let us read the clause about late delivery again.' Daniel reads it. He says, 'The clause says we must pay the supplier on time. What about the delivery date?' Maya says, 'The chairs will arrive on Monday. What we need is a clear plan.' Daniel says, 'Can we split the difference on the price? Or meet halfway?' Maya says, 'Yes. Let us meet halfway on the price and split the difference on the delivery date. With three offers, we have the upper hand. But what we need is a fair price and a clear plan.' Daniel is happy. He says, 'Good. Let us call Mr. Carter and talk about the price today.'",
+      "readingQ": "What does Maya say they need most?",
+      "readingA": "She says what they need is more time, a fair price, and a clear plan.",
+      "speaking": "Tell a friend about something you need most at work. What is it? Why does it matter most?",
+      "speakingSample": "At work, what I need most is more time. Last week, I read the clause about late delivery. The clause says we must pay the supplier on time. I said, 'Can we split the difference on the price? Or meet halfway?' My manager said, 'Yes. Let us meet halfway and split the difference.' With three offers, we have the upper hand. What we need is a fair price.",
+      "writing": "Write a short email to a client. Emphasize what matters most. Say what you need and suggest a middle price.",
+      "writingSample": "Dear Mr. Carter, Thank you for your time. What we need is more time. Let us read the clause about late delivery again. The clause says we must pay the supplier on time. What we need is a clear plan. Can we split the difference on the price? Or meet halfway? Let us meet halfway on the price and split the difference on the delivery date. With three offers, we have the upper hand. But what we need is a fair price. Please tell us what you think. Best, Maya",
+      "sound": "Clause has its strongest beat on CLAUSE. In clause, say AU clearly in the middle. In supplier, say PLY clearly in the middle.",
+      "model": "Read the clause about late delivery.",
+      "wordTask": "What does Maya say they need most?",
+      "wordSample": "She says what they need is more time."
+    },
+    {
+      "unit": 2,
+      "day": 16,
+      "title": "Use negotiation English in a new situation",
+      "goal": "I can use negotiation English in a new situation.",
+      "newItems": [
+        {
+          "word": "negotiation",
+          "ipa": "/nɪˌɡoʊʃiˈeɪʃən/",
+          "pos": "noun",
+          "definition": "A discussion to reach an agreement.",
+          "example": "The negotiation took three days.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "bargain",
+          "ipa": "/ˈbɑrɡən/",
+          "pos": "noun",
+          "definition": "Something you buy for a low price, or an agreement.",
+          "example": "That laptop was a real bargain.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "quote",
+          "ipa": "/kwoʊt/",
+          "pos": "noun",
+          "definition": "A price a company says it will charge.",
+          "example": "We asked three companies for a quote.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "seal the deal",
+          "ipa": "/sil ðə dil/",
+          "pos": "fixed phrase",
+          "definition": "To finish an agreement.",
+          "example": "One phone call sealed the deal.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "a fair deal",
+          "ipa": "/ə fɛr dil/",
+          "pos": "fixed phrase",
+          "definition": "An agreement that is good for both sides.",
+          "example": "We want a fair deal, not a quick win.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "job",
+        "goal",
+        "next",
+        "happy",
+        "careful"
+      ],
+      "mainWord": {
+        "word": "negotiation",
+        "ipa": "/nɪˌɡoʊʃiˈeɪʃən/",
+        "pos": "noun",
+        "definition": "A discussion to reach an agreement.",
+        "example": "The negotiation took three days.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Negotiation is a noun. The plural is negotiations. A negotiation is a discussion to reach an agreement. The negotiation took three days.",
+      "pronunciationTarget": {
+        "word": "negotiation",
+        "ipa": "/nɪˌɡoʊʃiˈeɪʃən/"
+      },
+      "expression": "Let us seal the deal today.",
+      "use": "Use this to finish an agreement in a friendly way.",
+      "expressionTask": "Emma talks to her landlord about the rent. What does she say to finish the talks?",
+      "grammar": "Review: I can use negotiation English in a new situation",
+      "pattern": "I can use negotiation English in a new situation.",
+      "task": "I can ___ negotiation English in a new situation.",
+      "answer": "use",
+      "example": "I can use negotiation English in a new situation.",
+      "context": [
+        "Emma talks to her landlord, Mr. Lee, about the rent for her apartment.",
+        "Let us seal the deal today."
+      ],
+      "dialogue": [
+        "Emma: Good morning, Mr. Lee. I would like to talk about the rent for my apartment.",
+        "Lee: Good morning, Emma. What do you want to change?",
+        "Emma: The rent is too high. Can you give me a quote for a lower rent?",
+        "Lee: I can offer a small discount, but the apartment is a real bargain at this price.",
+        "Emma: I understand. But this negotiation is important to me. Can we meet in the middle on the rent?",
+        "Lee: Good. Let us seal the deal today. A fair deal is good for us both."
+      ],
+      "listening": "On Monday, Emma talks to her landlord, Mr. Lee, about the rent. She says, 'The rent is too high. Can you give me a quote for a lower rent?' Mr. Lee says, 'I can offer a small discount, but it is a real bargain.' Emma says, 'This negotiation is important. Can we meet in the middle?' Mr. Lee says, 'Let us seal the deal today.'",
+      "question": "What does Emma ask Mr. Lee to do?",
+      "correct": "Give her a quote for a lower rent",
+      "other": "Sell her the apartment",
+      "reading": "On Monday, Emma talks to her landlord, Mr. Lee, about the rent for her apartment. She says, 'The rent is too high. Can you give me a quote for a lower rent?' Mr. Lee says, 'I can offer a small discount, but the apartment is a real bargain at this price.' Emma says, 'This negotiation is important to me. I like the apartment, and I want to stay. Can we meet in the middle on the rent?' Mr. Lee thinks. He says, 'Good. Let us seal the deal today. A fair deal is good for us both.' Emma is happy. She says, 'Thank you, Mr. Lee. I am glad we talked. A fair deal helps us both.' Mr. Lee smiles. He says, 'Yes. Good talks need give and take. I am happy to have you here.'",
+      "readingQ": "What does Emma ask Mr. Lee for?",
+      "readingA": "She asks him for a quote for a lower rent.",
+      "speaking": "Tell a friend about a new situation where you negotiated something. What did you talk about? What did you agree on? What was the result?",
+      "speakingSample": "Last month, I talked to my landlord about the rent. I said, 'The rent is too high. Can you give me a quote for a lower rent?' He said, 'I can offer a small discount, but it is a real bargain.' I said, 'This negotiation is important. Can we meet in the middle?' He said, 'Good. Let us seal the deal today.' I was happy.",
+      "writing": "Write a short email to a friend about a new situation. Say what happened, what you talked about, and what you agreed on.",
+      "writingSample": "Dear Tom, I talked to my landlord, Mr. Lee, about the rent on Monday. I said, 'The rent is too high. Can you give me a quote for a lower rent?' He said, 'I can offer a small discount, but it is a real bargain.' I said, 'This negotiation is important to me. Can we meet in the middle on the rent?' He said, 'Good. Let us seal the deal today. A fair deal is good for us both.' I was happy. A fair deal helps us both. Best, Emma",
+      "sound": "Negotiation has its strongest beat on A. In negotiation, say A clearly in the middle. In bargain, say BAR clearly at the start.",
+      "model": "The negotiation took three days.",
+      "wordTask": "What does Emma ask Mr. Lee for?",
+      "wordSample": "She asks him for a quote for a lower rent.",
+      "transferCheck": {
+        "source": "On Saturday, Tom wants to buy a used car. He meets the seller, Lisa, at the car shop. He says, 'The price is too high. Can you give me a quote for a lower price?' Lisa says, 'I can offer a small discount, but the car is a real bargain at this price.' Tom says, 'This negotiation is important to me. Can we meet in the middle on the price?' Lisa thinks. She says, 'Good. Let us seal the deal today. A fair deal is good for us both.' Tom is happy. He says, 'Thank you, Lisa. I am glad we talked.'",
+        "dictation": "Let us seal the deal today.",
+        "answer": "1. The new buyer is Tom. He wants to buy a used car at a car shop. 2. Tom's first job is to ask Lisa for a quote for a lower price. 3. On Saturday, Tom asks Lisa, 'Can you give me a quote for a lower price?' 4. Let us seal the deal today. 5. Sample: On Saturday, Tom wants to buy a used car. He meets the seller, Lisa, at the car shop. He says, 'The price is too high. Can you give me a quote for a lower price?' Lisa says, 'I can offer a small discount, but the car is a real bargain at this price.' Tom says, 'This negotiation is important to me. Can we meet in the middle on the price?' Lisa says, 'Good. Let us seal the deal today. A fair deal is good for us both.' Follow-up: What does Lisa say about the car? She says it is a real bargain at this price.",
+        "tasks": [
+          [
+            "1 · Identify the people and the new situation",
+            "Who is the new buyer, and what does he want to buy?"
+          ],
+          [
+            "2 · Work out what Tom does first",
+            "What is Tom's first job, and what does he ask Lisa?"
+          ],
+          [
+            "3 · Notice the quote on Saturday",
+            "What does Tom ask Lisa on Saturday?"
+          ],
+          [
+            "4 · Listen and write",
+            "Write the sentence you hear."
+          ],
+          [
+            "5 · Retell and answer",
+            "Tell the story in order, including the people, the new situation, the first talk, and the result. Then answer one follow-up question."
+          ]
+        ]
+      }
+    }
+  ]
+}

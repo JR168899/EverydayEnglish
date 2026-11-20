@@ -1,0 +1,905 @@
+{
+  "number": 1,
+  "title": "Giving and receiving feedback at work",
+  "lessons": [
+    {
+      "unit": 1,
+      "day": 1,
+      "title": "Ask for feedback on your work",
+      "goal": "I can ask for feedback on my work.",
+      "newItems": [
+        {
+          "word": "feedback",
+          "ipa": "/ˈfidˌbæk/",
+          "pos": "noun",
+          "definition": "Comments about what someone did, to help them do better.",
+          "example": "My manager gave me useful feedback on my report.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "specific",
+          "ipa": "/spəˈsɪfɪk/",
+          "pos": "adjective",
+          "definition": "Clear and exact, about one thing only.",
+          "example": "Please give me specific examples, not general comments.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "give feedback",
+          "ipa": "/ɡɪv ˈfidˌbæk/",
+          "pos": "fixed phrase",
+          "definition": "To share comments about someone's work.",
+          "example": "My manager gives feedback every Friday.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "have you considered",
+          "ipa": "/hæv ju kənˈsɪdɚd/",
+          "pos": "fixed phrase",
+          "definition": "Used to ask if someone has thought about an idea.",
+          "example": "Have you considered a shorter meeting?",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "it might help to",
+          "ipa": "/ɪt maɪt hɛlp tə/",
+          "pos": "fixed phrase",
+          "definition": "Used to suggest something that could be useful.",
+          "example": "It might help to ask the team first.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "job",
+        "team",
+        "meeting",
+        "office",
+        "help"
+      ],
+      "mainWord": {
+        "word": "feedback",
+        "ipa": "/ˈfidˌbæk/",
+        "pos": "noun",
+        "definition": "Comments about what someone did, to help them do better.",
+        "example": "My manager gave me useful feedback on my report.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Feedback is a noun. Feedback has no plural. Feedback is comments about what someone did, to help them do better. My manager gave me useful feedback on my report.",
+      "pronunciationTarget": {
+        "word": "feedback",
+        "ipa": "/ˈfidˌbæk/"
+      },
+      "expression": "Could you give me some feedback on my report?",
+      "use": "Use this when you want someone to tell you what they think of your work.",
+      "expressionTask": "Daniel finishes his first report at work. What does he ask Maya?",
+      "grammar": "Asking for opinions: Could you give me some feedback on + noun?",
+      "pattern": "Could you give me some feedback on my report?",
+      "task": "Could you give me some ___ on my report?",
+      "answer": "feedback",
+      "example": "Could you give me some feedback on my report?",
+      "context": [
+        "Daniel finishes his first report at work. He wants Maya's opinion.",
+        "Could you give me some feedback on my report?"
+      ],
+      "dialogue": [
+        "Daniel: Good morning, Maya. I finished my first report. Could you give me some feedback on my report?",
+        "Maya: Of course, Daniel. I will read it this morning. Do you want specific comments?",
+        "Daniel: Yes, please. Specific comments help me a lot.",
+        "Maya: Good. Have you considered a shorter title? It might help to keep the title short.",
+        "Daniel: That is a good idea. I will change the title today.",
+        "Maya: Good. I will give feedback on the report this afternoon."
+      ],
+      "listening": "On Monday, Daniel finishes his report at the office. He asks his team lead, Maya, for help. He says, 'Could you give me some feedback on my report?' Maya says, 'Of course. I will read it this morning. Do you want specific comments?' Daniel says, 'Yes, please. Specific comments help me a lot.' Maya says she will give feedback on the report in the afternoon.",
+      "question": "Who does Daniel ask for feedback?",
+      "correct": "Maya, his team lead",
+      "other": "Priya, his colleague",
+      "reading": "Daniel is new at work. On Monday, he finishes his first report, and he wants to know what his team thinks of it. He goes to his team lead, Maya, and says, 'Could you give me some feedback on my report?' Maya says, 'Of course. I will read it this morning.' Daniel says, 'Please give me specific comments. I want to learn.' Maya reads the report after lunch. She likes the ideas, but the title is very long. She says, 'Have you considered a shorter title? It might help to keep the title short and clear.' Daniel says, 'That is a good idea. I will change it today.' In the afternoon, Maya gives feedback on the report. She says the first part is clear and the last part is strong. Daniel is happy. He says, 'Thank you, Maya. Your feedback helps me a lot. Now I know what to do next.'",
+      "readingQ": "What does Daniel ask Maya to do?",
+      "readingA": "He asks her to give him feedback on his first report.",
+      "speaking": "Tell a friend about a time you asked someone for feedback. What did you ask? What did they say? How did it help you?",
+      "speakingSample": "I asked my manager for feedback on my first report. I said, 'Could you give me some feedback on my report?' She read it in the morning and gave me specific comments in the afternoon. She said, 'Have you considered a shorter title? It might help to keep the title short.' I changed the title that day. Her feedback helped me a lot.",
+      "writing": "Write a short email to a colleague. Ask for feedback on a report. Say what you want them to look at.",
+      "writingSample": "Dear Priya, I have finished my first report, and I would like your opinion. Could you give me some feedback on my report? Please give me specific comments. I want to know if my ideas are clear and if my title is good. Have you considered the last part? It might help to read the last part first. I will change the report after your feedback. Thank you for your help. I am happy to learn from you. Best, Daniel",
+      "sound": "Feedback has its strongest beat on FEED. In feedback, say BACK clearly at the end. In specific, say CIF clearly in the middle.",
+      "model": "My manager gave me useful feedback on my report.",
+      "wordTask": "Who gave Daniel feedback on his first report?",
+      "wordSample": "Maya, his team lead, gave Daniel feedback on his first report."
+    },
+    {
+      "unit": 1,
+      "day": 2,
+      "title": "Give constructive feedback to a colleague",
+      "goal": "I can give constructive feedback to a colleague.",
+      "newItems": [
+        {
+          "word": "constructive",
+          "ipa": "/kənˈstrʌktɪv/",
+          "pos": "adjective",
+          "definition": "Helpful, and made to improve something, not just to criticize.",
+          "example": "She gave me constructive advice about my presentation.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "criticism",
+          "ipa": "/ˈkrɪtəˌsɪzəm/",
+          "pos": "noun",
+          "definition": "Comments that say what is wrong with something.",
+          "example": "He took the criticism calmly and asked how to improve.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "one thing I'd suggest",
+          "ipa": "/wʌn θɪŋ aɪd səˈdʒɛst/",
+          "pos": "fixed phrase",
+          "definition": "Used to give a gentle suggestion.",
+          "example": "One thing I'd suggest is to start earlier.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "to be honest",
+          "ipa": "/tə bi ˈɑnəst/",
+          "pos": "fixed phrase",
+          "definition": "Used to say what you really think.",
+          "example": "To be honest, I did not like the first plan.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "let me put it this way",
+          "ipa": "/lɛt mi pʊt ɪt ðɪs weɪ/",
+          "pos": "fixed phrase",
+          "definition": "Used to explain something in a different way.",
+          "example": "Let me put it this way: the cost is too high.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "work",
+        "report",
+        "project",
+        "plan",
+        "goal"
+      ],
+      "mainWord": {
+        "word": "constructive",
+        "ipa": "/kənˈstrʌktɪv/",
+        "pos": "adjective",
+        "definition": "Helpful, and made to improve something, not just to criticize.",
+        "example": "She gave me constructive advice about my presentation.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Constructive is an adjective. Constructive feedback is helpful, and it is made to improve something, not just to criticize. She gave me constructive advice about my presentation.",
+      "pronunciationTarget": {
+        "word": "constructive",
+        "ipa": "/kənˈstrʌktɪv/"
+      },
+      "expression": "One thing I'd suggest is to start with a short summary.",
+      "use": "Use this when you want to give a gentle suggestion.",
+      "expressionTask": "Priya wants to give Daniel feedback. What does Maya suggest she say first?",
+      "grammar": "Giving suggestions: It might be better to + verb",
+      "pattern": "It might be better to start with a short summary.",
+      "task": "It might be better to ___ with a short summary.",
+      "answer": "start",
+      "example": "It might be better to start with a short summary.",
+      "context": [
+        "Priya asks Maya how to give feedback to Daniel.",
+        "One thing I'd suggest is to start with a short summary."
+      ],
+      "dialogue": [
+        "Priya: Maya, Daniel asked me for feedback on his report. How can I give constructive feedback?",
+        "Maya: Start with the good parts. Then talk about the parts that need work.",
+        "Priya: What if my criticism is hard to hear?",
+        "Maya: Be kind and clear. One thing I'd suggest is to start with a short summary.",
+        "Priya: To be honest, the ending is too long. Let me put it this way: the first part is clear, but the last part is hard to follow.",
+        "Maya: That is good. Daniel will listen to constructive feedback like that."
+      ],
+      "listening": "On Tuesday, Priya reads Daniel's report. Daniel asked her for feedback, and she wants to give constructive feedback. She starts with the good parts. She says, 'Your first part is clear.' Then she talks about the ending. She says, 'One thing I'd suggest is to start with a short summary.' Daniel listens and says, 'Thank you, Priya. That helps me a lot.'",
+      "question": "What does Priya say first about the report?",
+      "correct": "The first part is clear",
+      "other": "The ending is too long",
+      "reading": "On Tuesday, Priya reads Daniel's report. Daniel asked her for feedback, and she wants to give constructive feedback. She knows that good feedback starts with the good parts. First, she says, 'Your first part is clear, and your ideas are easy to follow.' Then she talks about the ending. She says, 'To be honest, the ending is too long. Let me put it this way: the first part is clear, but the last part is hard to follow.' Priya is a little afraid. She does not want her criticism to hurt Daniel. Maya says, 'Do not be afraid. One thing I'd suggest is to start with a short summary. Then talk about the problem in a kind way.' Priya follows Maya's advice. Daniel listens to her and says, 'Thank you, Priya. Your feedback is clear, and I know what to do next.' Priya is happy. She gave constructive feedback, and Daniel is glad to hear it.",
+      "readingQ": "How does Priya give feedback to Daniel?",
+      "readingA": "She starts with the good parts, then talks about the ending in a kind way.",
+      "speaking": "Tell a friend how you give feedback to a colleague. What do you say first? How do you talk about a problem?",
+      "speakingSample": "When I give feedback to a colleague, I start with the good parts. Then I talk about the problem. I say, 'To be honest, the ending is too long. Let me put it this way: the first part is clear, but the last part is hard to follow.' I do not want my criticism to hurt my colleague. One thing I'd suggest is a short summary.",
+      "writing": "Write a short email to a colleague. Give feedback on their report. Start with the good parts, then talk about one problem.",
+      "writingSample": "Dear Daniel, Thank you for your report. I read it this morning, and I want to give you some feedback. Your first part is clear, and your ideas are easy to follow. To be honest, the ending is too long. Let me put it this way: the first part is clear, but the last part is hard to follow. One thing I'd suggest is to start with a short summary. Then the report will be easy to read. I am glad to work with you. Best, Priya",
+      "sound": "Constructive has its strongest beat on STRUC. In constructive, say TIVE clearly at the end. In criticism, say CRIT clearly at the start.",
+      "model": "She gave me constructive advice about my presentation.",
+      "wordTask": "What does Priya say first to Daniel?",
+      "wordSample": "She says his first part is clear and his ideas are easy to follow."
+    },
+    {
+      "unit": 1,
+      "day": 3,
+      "title": "Respond to criticism without getting defensive",
+      "goal": "I can respond to criticism without getting defensive.",
+      "newItems": [
+        {
+          "word": "defensive",
+          "ipa": "/dɪˈfɛnsɪv/",
+          "pos": "adjective",
+          "definition": "Trying to protect yourself from criticism, often too quickly.",
+          "example": "Try not to sound defensive when someone points out a mistake.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "acknowledge",
+          "ipa": "/əkˈnɑlɪdʒ/",
+          "pos": "verb",
+          "definition": "To accept that something is true or exists.",
+          "example": "She acknowledged her mistake and apologized.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "I see what you mean",
+          "ipa": "/aɪ si wʌt ju min/",
+          "pos": "fixed phrase",
+          "definition": "Used to say you understand someone.",
+          "example": "I see what you mean. The plan is too long.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "that's a fair point",
+          "ipa": "/ðæts ə fɛr pɔɪnt/",
+          "pos": "fixed phrase",
+          "definition": "Used to agree that someone's idea is reasonable.",
+          "example": "That's a fair point. Let us change the time.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "thanks for pointing that out",
+          "ipa": "/θæŋks fɔr ˈpɔɪntɪŋ ðæt aʊt/",
+          "pos": "fixed phrase",
+          "definition": "Used to thank someone for showing a problem.",
+          "example": "Thanks for pointing that out. I will fix it.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "client",
+        "data",
+        "presentation",
+        "supervisor",
+        "coworker"
+      ],
+      "mainWord": {
+        "word": "defensive",
+        "ipa": "/dɪˈfɛnsɪv/",
+        "pos": "adjective",
+        "definition": "Trying to protect yourself from criticism, often too quickly.",
+        "example": "Try not to sound defensive when someone points out a mistake.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Defensive is an adjective. To be defensive is to try to protect yourself from criticism, often too quickly. Try not to sound defensive when someone points out a mistake.",
+      "pronunciationTarget": {
+        "word": "defensive",
+        "ipa": "/dɪˈfɛnsɪv/"
+      },
+      "expression": "Thanks for pointing that out.",
+      "use": "Use this when someone shows you a problem and you want to thank them.",
+      "expressionTask": "Daniel hears criticism about his report. What does he say to Priya?",
+      "grammar": "Responding to criticism: Thank you for + verb-ing",
+      "pattern": "Thank you for pointing that out.",
+      "task": "Thank you for ___ that out.",
+      "answer": "pointing",
+      "example": "Thank you for pointing that out.",
+      "context": [
+        "Priya gives Daniel feedback about the ending of his report.",
+        "Thanks for pointing that out."
+      ],
+      "dialogue": [
+        "Priya: Daniel, your first part is clear, but the ending is too long.",
+        "Daniel: I see what you mean. The last part is hard to follow.",
+        "Priya: Yes. It is a fair point, I think. The report will be better with a short ending.",
+        "Daniel: That's a fair point. I will make the ending shorter today.",
+        "Priya: Good. I am glad you are not defensive. You listen well.",
+        "Daniel: Thanks for pointing that out. I acknowledge the problem, and I will fix it."
+      ],
+      "listening": "On Wednesday, Priya talks to Daniel about his report. She says the ending is too long. Daniel does not get angry. He says, 'I see what you mean. The last part is hard to follow.' Priya says she is glad he listens well. Daniel says, 'That's a fair point. Thanks for pointing that out. I will make the ending shorter today.'",
+      "question": "How does Daniel respond to Priya's criticism?",
+      "correct": "He listens and thanks her",
+      "other": "He gets angry and leaves",
+      "reading": "On Wednesday, Priya talks to Daniel about his report. She says the ending is too long and hard to follow. Daniel takes a deep breath. He does not want to sound defensive. He says, 'I see what you mean. The last part is hard to follow.' Priya says, 'I am glad you listen well. Many people get angry when they hear criticism.' Daniel says, 'That's a fair point. I acknowledge the problem, and I will fix it today.' He makes the ending shorter. In the afternoon, he shows the new ending to Priya. She reads it and says, 'This is much better. The report is clear now.' Daniel says, 'Thanks for pointing that out. Your feedback helped me a lot.' Maya hears them and says, 'Good work. Daniel, you listened well. Priya, your feedback was kind and clear.'",
+      "readingQ": "What does Daniel do when Priya talks about the ending?",
+      "readingA": "He listens, acknowledges the problem, and fixes it the same day.",
+      "speaking": "Tell a friend about a time someone criticized your work. How did you respond? What did you say? What did you do next?",
+      "speakingSample": "Last week, my colleague said my report was too long. I took a deep breath. I said, 'I see what you mean. The last part is hard to follow.' I said, 'That's a fair point. I acknowledge the problem, and I will fix it today.' I made the ending shorter. Then I said, 'Thanks for pointing that out.' I did not sound defensive, and my colleague was glad.",
+      "writing": "Write a short email to a colleague. Thank them for their feedback. Say what you will change.",
+      "writingSample": "Dear Priya, Thank you for your feedback on my report. You said the ending was too long, and you were right. I see what you mean. The last part was hard to follow. I acknowledge the problem, and I will fix it today. I will make the ending shorter and clearer. Thanks for pointing that out. Your feedback helped me a lot. I did not feel defensive, because your words were kind and clear. I will show you the new ending in the afternoon. Best, Daniel",
+      "sound": "Defensive has its strongest beat on FEN. In defensive, say SIVE clearly at the end. In acknowledge, say NOWL clearly in the middle.",
+      "model": "Try not to sound defensive when someone points out a mistake.",
+      "wordTask": "What does Daniel say when Priya talks about the ending?",
+      "wordSample": "He says, 'I see what you mean. The last part is hard to follow.'"
+    },
+    {
+      "unit": 1,
+      "day": 4,
+      "title": "Praise good work in specific detail",
+      "goal": "I can praise good work in specific detail.",
+      "newItems": [
+        {
+          "word": "outstanding",
+          "ipa": "/aʊtˈstændɪŋ/",
+          "pos": "adjective",
+          "definition": "Extremely good; better than most.",
+          "example": "His outstanding work won the team an award.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "remarkable",
+          "ipa": "/rɪˈmɑrkəbəl/",
+          "pos": "adjective",
+          "definition": "Unusual and worth noticing.",
+          "example": "She made remarkable progress in six months.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "valuable",
+          "ipa": "/ˈvæljuəbəl/",
+          "pos": "adjective",
+          "definition": "Very useful or worth a lot.",
+          "example": "Your advice is very valuable to me.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "well done on",
+          "ipa": "/wɛl dʌn ɑn/",
+          "pos": "fixed phrase",
+          "definition": "Used to praise someone for something they did.",
+          "example": "Well done on your presentation!",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "keep up the good work",
+          "ipa": "/kip ʌp ðə ɡʊd wɝk/",
+          "pos": "fixed phrase",
+          "definition": "Used to praise someone and ask them to continue.",
+          "example": "Your report was excellent. Keep up the good work!",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "deadline",
+        "idea",
+        "problem",
+        "question",
+        "email"
+      ],
+      "mainWord": {
+        "word": "outstanding",
+        "ipa": "/aʊtˈstændɪŋ/",
+        "pos": "adjective",
+        "definition": "Extremely good; better than most.",
+        "example": "His outstanding work won the team an award.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Outstanding is an adjective. Outstanding work is extremely good, better than most. His outstanding work won the team an award.",
+      "pronunciationTarget": {
+        "word": "outstanding",
+        "ipa": "/aʊtˈstændɪŋ/"
+      },
+      "expression": "Well done on your presentation!",
+      "use": "Use this to praise someone for something they did well.",
+      "expressionTask": "Daniel gives a presentation to the team. What does Maya say to him?",
+      "grammar": "Present perfect for achievements: have or has + past participle",
+      "pattern": "Daniel has done outstanding work this week.",
+      "task": "Daniel has ___ outstanding work this week.",
+      "answer": "done",
+      "example": "Daniel has done outstanding work this week.",
+      "context": [
+        "Daniel gives a presentation to the team on Thursday.",
+        "Well done on your presentation!"
+      ],
+      "dialogue": [
+        "Maya: Daniel, your presentation was excellent. Well done on your presentation!",
+        "Daniel: Thank you, Maya. I worked hard on it all week.",
+        "Maya: Your work was outstanding. The first part was clear and strong.",
+        "Priya: Yes. Your ideas were remarkable. I learned a lot from you.",
+        "Daniel: Thank you both. Your feedback helped me a lot.",
+        "Maya: Keep up the good work, Daniel. Your help is valuable to the team."
+      ],
+      "listening": "On Thursday morning, Daniel gives a presentation to the team. He talks about his report and his new ending. Maya listens and says, 'Well done on your presentation! Your work was outstanding.' Priya says, 'Your ideas were remarkable. I learned a lot from you.' Daniel says, 'Thank you both. Your feedback helped me a lot.'",
+      "question": "What does Maya say about Daniel's work?",
+      "correct": "It was outstanding",
+      "other": "It was too long",
+      "reading": "On Thursday morning, Daniel gives a presentation to the team. He talks about his report and his new ending. He speaks clearly, and his ideas are easy to follow. When he finishes, Maya says, 'Well done on your presentation! Your work was outstanding.' Priya says, 'Your ideas were remarkable. I learned a lot from you.' Daniel smiles. He worked hard all week, and now his team is happy with his work. Maya says, 'Daniel, your help is valuable to the team. You listen well, and you learn fast. Keep up the good work!' Daniel says, 'Thank you both. Your feedback helped me a lot. I asked for help, I listened, and I made my work better.' Maya says, 'That is the way to learn. Good work is not luck. It is clear ideas, hard work, and good feedback.'",
+      "readingQ": "What does Maya say to Daniel after his presentation?",
+      "readingA": "She says his work was outstanding and tells him to keep up the good work.",
+      "speaking": "Tell a friend about a time someone praised your work. What did they say? How did you feel? What did you do next?",
+      "speakingSample": "Last week, I gave a presentation to my team. When I finished, my manager said, 'Well done on your presentation! Your work was outstanding.' My colleague said, 'Your ideas were remarkable. I learned a lot from you.' My manager said, 'Your help is valuable to the team. Keep up the good work!' I thanked them both. Their words gave me new energy for my next report.",
+      "writing": "Write a short email to a colleague. Praise their work in specific detail. Say what was good and why it helped the team.",
+      "writingSample": "Dear Priya, I want to thank you for your help with my report. Well done on your presentation on Thursday! Your ideas were remarkable, and I learned a lot from you. Your work was outstanding. The first part was clear, and the last part was strong. Your help is valuable to the team. You listen well, and you explain ideas in a clear way. Keep up the good work! I am glad to work with you, and I hope we can work together again soon. Best, Daniel",
+      "sound": "Outstanding has its strongest beat on STAND. In outstanding, say ING clearly at the end. In remarkable, say MARK clearly at the start.",
+      "model": "His outstanding work won the team an award.",
+      "wordTask": "What does Maya say about Daniel's presentation?",
+      "wordSample": "She says, 'Well done on your presentation! Your work was outstanding.'"
+    },
+    {
+      "unit": 1,
+      "day": 5,
+      "title": "Suggest improvements diplomatically",
+      "goal": "I can suggest improvements diplomatically.",
+      "newItems": [
+        {
+          "word": "tactful",
+          "ipa": "/ˈtæktfəl/",
+          "pos": "adjective",
+          "definition": "Careful not to upset people when you say something difficult.",
+          "example": "A tactful manager gives bad news kindly.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "candid",
+          "ipa": "/ˈkændɪd/",
+          "pos": "adjective",
+          "definition": "Honest and direct, even if it is hard to hear.",
+          "example": "I want your candid opinion, not polite praise.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "improvement",
+          "ipa": "/ɪmˈpruvmənt/",
+          "pos": "noun",
+          "definition": "A change that makes something better.",
+          "example": "There has been a big improvement in his writing.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "room for improvement",
+          "ipa": "/rum fɔr ɪmˈpruvmənt/",
+          "pos": "fixed phrase",
+          "definition": "A chance to do something better.",
+          "example": "The report is good, but there is room for improvement.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "areas to improve on",
+          "ipa": "/ˈɛriəz tə ɪmˈpruv ɑn/",
+          "pos": "fixed phrase",
+          "definition": "The parts of your work that could be better.",
+          "example": "Let us talk about areas to improve on.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "time",
+        "morning",
+        "week",
+        "month",
+        "year"
+      ],
+      "mainWord": {
+        "word": "tactful",
+        "ipa": "/ˈtæktfəl/",
+        "pos": "adjective",
+        "definition": "Careful not to upset people when you say something difficult.",
+        "example": "A tactful manager gives bad news kindly.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Tactful is an adjective. A tactful person is careful not to upset people when they say something difficult. A tactful manager gives bad news kindly.",
+      "pronunciationTarget": {
+        "word": "tactful",
+        "ipa": "/ˈtæktfəl/"
+      },
+      "expression": "Perhaps you could make the ending shorter.",
+      "use": "Use this to suggest a change in a polite way.",
+      "expressionTask": "Priya wants Daniel to change his report. How does she say it politely?",
+      "grammar": "Diplomatic language: Perhaps you could + verb",
+      "pattern": "Perhaps you could make the ending shorter.",
+      "task": "Perhaps you could ___ the ending shorter.",
+      "answer": "make",
+      "example": "Perhaps you could make the ending shorter.",
+      "context": [
+        "Priya talks to Daniel about his report on Friday.",
+        "Perhaps you could make the ending shorter."
+      ],
+      "dialogue": [
+        "Priya: Daniel, your report is good. Can I share a candid thought?",
+        "Daniel: Of course, Priya. I want to hear what you really think.",
+        "Priya: Perhaps you could make the ending shorter. The ideas are good, but the last part is long.",
+        "Daniel: Thank you. I will make it shorter today.",
+        "Priya: You are a good listener. A tactful word can help a lot.",
+        "Daniel: Yes. There is always room for improvement, and I want to learn."
+      ],
+      "listening": "On Friday, Priya talks to Daniel about his report. She has a candid thought, and she wants to be tactful. She says, 'Perhaps you could make the ending shorter.' Daniel says, 'Thank you. I will make it shorter today.' Priya says, 'There is always room for improvement.' Daniel says he wants to learn more every week.",
+      "question": "How does Priya suggest the change?",
+      "correct": "Perhaps you could make the ending shorter",
+      "other": "You must change the ending now",
+      "reading": "On Friday, Priya talks to Daniel about his report. She has a candid thought: the ending is still a little long. She wants to be tactful, so she says, 'Perhaps you could make the ending shorter. The ideas are good, but the last part is long.' Daniel says, 'Thank you. I will make it shorter today.' Priya is glad. She says, 'There is always room for improvement. We can talk about areas to improve on every week.' Daniel says, 'Yes. I want to learn. What is one improvement I can make this week?' Priya says, 'Your first part is clear. Keep the first part, and make the last part short. That is one improvement.' Daniel makes the change in the afternoon. He shows the new ending to Priya. She reads it and says, 'This is much better. Your report is clear now.' Daniel says, 'Thank you. A tactful word can help a lot.'",
+      "readingQ": "What does Priya suggest to Daniel?",
+      "readingA": "She suggests he make the ending shorter.",
+      "speaking": "Tell a friend how you suggest a change to a colleague. What do you say? How do you stay polite? What did they do?",
+      "speakingSample": "When I want a colleague to change something, I try to be tactful. I say, 'Perhaps you could make the ending shorter. The ideas are good, but the last part is long.' I say, 'There is always room for improvement. We can talk about areas to improve on every week.' My colleague listens and makes the change. A tactful word can help a lot.",
+      "writing": "Write a short email to a colleague. Suggest one improvement to their report. Be polite and clear.",
+      "writingSample": "Dear Daniel, Thank you for your report. It is clear and easy to follow. I have one candid thought. Perhaps you could make the ending shorter. The ideas are good, but the last part is long. I want to be tactful, because your work is good. There is always room for improvement. We can talk about areas to improve on every week. One small improvement is a shorter ending. Please tell me what you think. I am glad to work with you. Best, Priya",
+      "sound": "Tactful has its strongest beat on TACT. In tactful, say FUL clearly at the end. In candid, say CAN clearly at the start.",
+      "model": "A tactful manager gives bad news kindly.",
+      "wordTask": "What does Priya suggest to Daniel?",
+      "wordSample": "She suggests he make the ending shorter."
+    },
+    {
+      "unit": 1,
+      "day": 6,
+      "title": "Write a short performance review",
+      "goal": "I can write a short performance review.",
+      "newItems": [
+        {
+          "word": "performance",
+          "ipa": "/pɚˈfɔrməns/",
+          "pos": "noun",
+          "definition": "How well someone does their work.",
+          "example": "Her performance this year has been excellent.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "assess",
+          "ipa": "/əˈsɛs/",
+          "pos": "verb",
+          "definition": "To judge the quality or value of something.",
+          "example": "We need to assess the results before we decide.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "evaluate",
+          "ipa": "/ɪˈvæljueɪt/",
+          "pos": "verb",
+          "definition": "To study something carefully and judge how good it is.",
+          "example": "The teacher will evaluate our essays this week.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "strengths and weaknesses",
+          "ipa": "/strɛŋθs ənd ˈwiknəsəz/",
+          "pos": "fixed phrase",
+          "definition": "The things you do well and the things you do not.",
+          "example": "Every review looks at strengths and weaknesses.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "to sum up",
+          "ipa": "/tə sʌm ʌp/",
+          "pos": "fixed phrase",
+          "definition": "Used to give a short ending to what you said.",
+          "example": "To sum up, the project went well.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "today",
+        "tomorrow",
+        "yesterday",
+        "friend",
+        "family"
+      ],
+      "mainWord": {
+        "word": "performance",
+        "ipa": "/pɚˈfɔrməns/",
+        "pos": "noun",
+        "definition": "How well someone does their work.",
+        "example": "Her performance this year has been excellent.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Performance is a noun. Performance is how well someone does their work. Her performance this year has been excellent.",
+      "pronunciationTarget": {
+        "word": "performance",
+        "ipa": "/pɚˈfɔrməns/"
+      },
+      "expression": "To sum up, Daniel has done very good work.",
+      "use": "Use this to give a short ending to a review.",
+      "expressionTask": "Maya writes a review of Daniel's first month. How does she end it?",
+      "grammar": "Passive voice for formal writing: is or are + past participle",
+      "pattern": "Daniel's work is praised by the team.",
+      "task": "Daniel's work is ___ by the team.",
+      "answer": "praised",
+      "example": "Daniel's work is praised by the team.",
+      "context": [
+        "Maya writes a short performance review for Daniel.",
+        "To sum up, Daniel has done very good work."
+      ],
+      "dialogue": [
+        "Maya: Priya, I am writing a performance review for Daniel. Can you help me assess his work?",
+        "Priya: Of course. I will evaluate his report and his presentation.",
+        "Maya: Good. What are his strengths and weaknesses?",
+        "Priya: His ideas are clear. His endings are too long.",
+        "Maya: Thank you. To sum up, Daniel has done very good work.",
+        "Priya: Yes. His performance this month has been excellent."
+      ],
+      "listening": "On Monday, Maya writes a performance review for Daniel. She asks Priya to help her assess his work. Priya says she will evaluate his report and his presentation. Maya asks about his strengths and weaknesses. Priya says his ideas are clear, but his endings are too long. Maya says, 'To sum up, Daniel has done very good work.'",
+      "question": "What does Maya write for Daniel?",
+      "correct": "A performance review",
+      "other": "A new report",
+      "reading": "On Monday, Maya writes a performance review for Daniel. It is the end of his first month at work. First, she asks Priya to help her assess his work. Priya says she will evaluate his report and his presentation. They sit together and talk about his strengths and weaknesses. His ideas are clear, and his first parts are strong. His endings are too long, but he listens well and he learns fast. Maya writes, 'Daniel has done very good work this month. His report is clear, and his presentation was excellent. He asks for feedback, and he uses it well.' To sum up, Daniel has done very good work. His performance this month has been excellent. Maya gives the review to Daniel. He reads it and says, 'Thank you, Maya. I am happy. I will work on my endings next month.'",
+      "readingQ": "What does Maya write in Daniel's review?",
+      "readingA": "She writes that his work has been very good and his performance this month has been excellent.",
+      "speaking": "Tell a friend about a performance review you had. What did your manager say was good? What will you work on next?",
+      "speakingSample": "Last month, my manager wrote a performance review for me. She asked my colleague to help her assess my work. My colleague said she would evaluate my report. They talked about my strengths and weaknesses. To sum up, I had done very good work. My performance that month had been excellent. I was happy, and I said I would work on my endings.",
+      "writing": "Write a short performance review for a colleague. Say what they did well and what they can work on next.",
+      "writingSample": "Performance Review: Daniel Lee. This month, Daniel has done very good work. His report is clear, and his presentation was excellent. He asks for feedback, and he uses it well. We talked about his strengths and weaknesses. His ideas are clear, and his first parts are strong. His endings are too long, but he listens well and he learns fast. To sum up, Daniel has done very good work. His performance this month has been excellent. Next month, he will work on short endings. Maya Chen, Team Lead",
+      "sound": "Performance has its strongest beat on FOR. In performance, say MANCE clearly at the end. In assess, say SESS clearly at the end.",
+      "model": "Her performance this year has been excellent.",
+      "wordTask": "What does Maya write for Daniel?",
+      "wordSample": "She writes a performance review for his first month at work."
+    },
+    {
+      "unit": 1,
+      "day": 7,
+      "title": "Discuss strengths and areas to improve",
+      "goal": "I can discuss strengths and areas to improve.",
+      "newItems": [
+        {
+          "word": "strength",
+          "ipa": "/strɛŋθ/",
+          "pos": "noun",
+          "definition": "Something you do well.",
+          "example": "One of my strengths is explaining ideas clearly.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "weakness",
+          "ipa": "/ˈwiknəs/",
+          "pos": "noun",
+          "definition": "Something you do not do well, or a fault.",
+          "example": "Public speaking is still a weakness for me.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "perspective",
+          "ipa": "/pɚˈspɛktɪv/",
+          "pos": "noun",
+          "definition": "A way of looking at or thinking about something.",
+          "example": "From her perspective, the plan was too risky.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "from my perspective",
+          "ipa": "/frʌm maɪ pɚˈspɛktɪv/",
+          "pos": "fixed phrase",
+          "definition": "In the way I see it.",
+          "example": "From my perspective, the problem is the schedule.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "a fresh perspective",
+          "ipa": "/ə frɛʃ pɚˈspɛktɪv/",
+          "pos": "fixed phrase",
+          "definition": "A new way of looking at something.",
+          "example": "A new colleague can bring a fresh perspective.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "school",
+        "book",
+        "story",
+        "water",
+        "food"
+      ],
+      "mainWord": {
+        "word": "strength",
+        "ipa": "/strɛŋθ/",
+        "pos": "noun",
+        "definition": "Something you do well.",
+        "example": "One of my strengths is explaining ideas clearly.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Strength is a noun. The plural is strengths. A strength is something you do well. One of my strengths is explaining ideas clearly.",
+      "pronunciationTarget": {
+        "word": "strength",
+        "ipa": "/strɛŋθ/"
+      },
+      "expression": "From my perspective, clear ideas are your strength.",
+      "use": "Use this to share your view of someone's work.",
+      "expressionTask": "Maya talks to Daniel about his work. What does she say from her perspective?",
+      "grammar": "Comparatives for self-assessment: clearer than",
+      "pattern": "My first part is clearer than my ending.",
+      "task": "My first part is ___ than my ending.",
+      "answer": "clearer",
+      "example": "My first part is clearer than my ending.",
+      "context": [
+        "Maya talks to Daniel about his strengths and areas to improve.",
+        "From my perspective, clear ideas are your strength."
+      ],
+      "dialogue": [
+        "Maya: Daniel, let us talk about your strengths and areas to improve.",
+        "Daniel: Good. I want to know what I do well and what I can do better.",
+        "Maya: From my perspective, clear ideas are your strength. Your first part is clearer than your ending.",
+        "Daniel: Thank you. What is my weakness?",
+        "Maya: Your weakness is long endings. But you listen well, and you learn fast.",
+        "Daniel: A fresh perspective helps me a lot. I will make my endings shorter."
+      ],
+      "listening": "On Tuesday, Maya talks to Daniel about his work. She says, 'Let us talk about your strengths and areas to improve on.' Daniel says he wants to know what he does well. Maya says, 'From my perspective, clear ideas are your strength.' Daniel asks about his weakness. Maya says his weakness is long endings. Daniel says a fresh perspective helps him a lot.",
+      "question": "What does Maya say is Daniel's strength?",
+      "correct": "Clear ideas",
+      "other": "Long endings",
+      "reading": "On Tuesday, Maya talks to Daniel about his work. She says, 'Let us talk about your strengths and areas to improve on.' Daniel says, 'Good. I want to know what I do well and what I can do better.' Maya says, 'From my perspective, clear ideas are your strength. Your first part is clearer than your ending.' Daniel says, 'Thank you. What is my weakness?' Maya says, 'Your weakness is long endings. But you listen well, and you learn fast. A fresh perspective helps us all. When a new person joins the team, they see our work in a new way.' Daniel says, 'Yes. Priya gave me a fresh perspective on my report. She said my ending was too long, and she was right.' Maya says, 'Good. Every person has a strength and a weakness. The key is to know them both and to keep learning.'",
+      "readingQ": "What does Maya say is Daniel's strength?",
+      "readingA": "She says clear ideas are his strength.",
+      "speaking": "Tell a friend about your strengths and weaknesses at work. What do you do well? What can you do better? What will you do next?",
+      "speakingSample": "We talked about my strengths and areas to improve on. From my perspective, clear ideas are my strength. My first part is clearer than my ending. My weakness is long endings. But I listen well, and I learn fast. A fresh perspective helps me a lot. My colleague gave me a fresh perspective on my report. Now I know what to do next. I will make my endings shorter.",
+      "writing": "Write a short email to a colleague. Talk about your strengths and areas to improve. Say what you will do next.",
+      "writingSample": "Dear Maya, Thank you for our talk about my work. From my perspective, clear ideas are my strength. My first part is clearer than my ending. My weakness is long endings. But I listen well, and I learn fast. A fresh perspective helps me a lot. Priya gave me a fresh perspective on my report. She said my ending was too long, and she was right. Now I know what to do next. I will make my endings shorter. Thank you for your help. Best, Daniel",
+      "sound": "Strength has its strongest beat on STRENGTH. In strength, say NGTH clearly at the end. In perspective, say SPEC clearly at the start.",
+      "model": "Clear ideas are my strength.",
+      "wordTask": "What does Maya say is Daniel's strength?",
+      "wordSample": "She says clear ideas are his strength."
+    },
+    {
+      "unit": 1,
+      "day": 8,
+      "title": "Use feedback English in a new situation",
+      "goal": "I can use feedback English in a new situation.",
+      "newItems": [
+        {
+          "word": "outcome",
+          "ipa": "/ˈaʊtˌkʌm/",
+          "pos": "noun",
+          "definition": "The result of a situation or action.",
+          "example": "The outcome of the meeting was a new plan.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "significant",
+          "ipa": "/sɪɡˈnɪfəkənt/",
+          "pos": "adjective",
+          "definition": "Important or large in amount.",
+          "example": "There was a significant increase in sales.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "take feedback on board",
+          "ipa": "/teɪk ˈfidˌbæk ɑn bɔrd/",
+          "pos": "fixed phrase",
+          "definition": "To listen to advice and use it.",
+          "example": "I took her feedback on board and changed the report.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "if you ask me",
+          "ipa": "/ɪf ju æsk mi/",
+          "pos": "fixed phrase",
+          "definition": "Used to give your opinion.",
+          "example": "If you ask me, the new plan is better.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "to be fair",
+          "ipa": "/tə bi fɛr/",
+          "pos": "fixed phrase",
+          "definition": "Used to show a balanced view.",
+          "example": "To be fair, the team worked very hard.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "money",
+        "price",
+        "shop",
+        "store",
+        "phone"
+      ],
+      "mainWord": {
+        "word": "outcome",
+        "ipa": "/ˈaʊtˌkʌm/",
+        "pos": "noun",
+        "definition": "The result of a situation or action.",
+        "example": "The outcome of the meeting was a new plan.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Outcome is a noun. The plural is outcomes. An outcome is the result of a situation or action. The outcome of the meeting was a new plan.",
+      "pronunciationTarget": {
+        "word": "outcome",
+        "ipa": "/ˈaʊtˌkʌm/"
+      },
+      "expression": "If you ask me, the new plan is better.",
+      "use": "Use this to give your opinion in a friendly way.",
+      "expressionTask": "Emma starts a new job at a hotel. What does she say about the new plan?",
+      "grammar": "Review: I can use feedback English in a new situation",
+      "pattern": "I can use feedback English in a new situation.",
+      "task": "I can ___ feedback English in a new situation.",
+      "answer": "use",
+      "example": "I can use feedback English in a new situation.",
+      "context": [
+        "Emma starts a new job at a hotel on Monday.",
+        "If you ask me, the new plan is better."
+      ],
+      "dialogue": [
+        "Emma: Good morning. I am Emma. Today is my first day at the hotel.",
+        "Sara: Good morning, Emma. Welcome aboard! I am Sara, your supervisor.",
+        "Emma: Thank you. I would like some feedback on my first report. Could you give me some feedback on my report?",
+        "Sara: Of course. To be fair, your first part is clear. Your ending is a little long.",
+        "Emma: I see what you mean. I will take feedback on board and make the ending shorter.",
+        "Sara: Good. If you ask me, the new plan is better. The outcome will be significant for the team."
+      ],
+      "listening": "On Monday, Emma starts a new job at a hotel. Her supervisor, Sara, meets her at the door. Emma asks, 'Could you give me some feedback on my report?' Sara says, 'To be fair, your first part is clear. Your ending is a little long.' Emma says, 'I will take feedback on board and make the ending shorter.'",
+      "question": "What does Emma ask Sara to do?",
+      "correct": "Give her feedback on her report",
+      "other": "Show her the hotel",
+      "reading": "Emma starts a new job at a hotel on Monday. Her supervisor, Sara, meets her at the door. Emma's first job is to write a short report about the hotel. She finishes it on Friday and asks Sara, 'Could you give me some feedback on my report?' Sara reads the report. She says, 'To be fair, your first part is clear. Your ending is a little long.' Emma says, 'I see what you mean. I will take feedback on board and make the ending shorter.' Sara says, 'Good. Your ideas are clear, and your work is valuable to the team.' Emma makes the ending shorter. On Monday, she shows the new report to Sara. Sara reads it and says, 'Well done on your report! If you ask me, the new plan is better. The outcome will be significant for the team.' Emma says, 'Thank you. I am happy to learn here.'",
+      "readingQ": "What does Sara say about Emma's report?",
+      "readingA": "She says the first part is clear, but the ending is a little long.",
+      "speaking": "Tell a friend about a new situation at work. What did you do? What feedback did you get? What was the outcome?",
+      "speakingSample": "Last month, I started a new job at a hotel. My supervisor read my first report. She said, 'To be fair, your first part is clear.' I said, 'I will take feedback on board.' I made the ending shorter. On Monday, she said, 'Well done on your report! If you ask me, the new plan is better.' I was happy.",
+      "writing": "Write a short email to a friend about a new situation at work. Say what happened, what feedback you got, and what the outcome was.",
+      "writingSample": "Dear Tom, I started a new job at a hotel last month. My supervisor, Sara, read my first report. She said, 'To be fair, your first part is clear. Your ending is a little long.' I said, 'I will take feedback on board and make the ending shorter.' On Monday, Sara read the new report. She said, 'Well done on your report! If you ask me, the new plan is better. The outcome will be significant for the team.' I was happy. Best, Emma",
+      "sound": "Outcome has its strongest beat on OUT. In outcome, say COME clearly at the end. In significant, say NIF clearly in the middle.",
+      "model": "The outcome of the meeting was a new plan.",
+      "wordTask": "What does Sara say about Emma's new report?",
+      "wordSample": "She says, 'Well done on your report! If you ask me, the new plan is better.'",
+      "transferCheck": {
+        "source": "On Monday, Tom starts a new job at a shop in the city. His supervisor, Lisa, meets him at the door. She says, 'Welcome aboard! I am Lisa. I am happy to work with you.' Tom's first job is to write a short report about the shop. He finishes it on Friday and asks Lisa, 'Could you give me some feedback on my report?' Lisa reads the report. She says, 'To be fair, your first part is clear. Your ending is a little long.' Tom says, 'I see what you mean. I will take feedback on board and make the ending shorter.' On Monday, Tom shows the new report to Lisa. She reads it and says, 'Well done on your report! If you ask me, the new plan is better. The outcome will be significant for the team.'",
+        "dictation": "If you ask me, the new plan is better.",
+        "answer": "1. The new worker is Tom. His new job is at a shop in the city. 2. Tom's first job is to write a short report about the shop. 3. On Friday, Tom asks Lisa, 'Could you give me some feedback on my report?' 4. If you ask me, the new plan is better. 5. Sample: On Monday, Tom starts a new job at a shop in the city. His supervisor, Lisa, meets him at the door. She says, 'Welcome aboard!' Tom's first job is to write a short report about the shop. On Friday, he asks Lisa for feedback. Lisa says, 'To be fair, your first part is clear. Your ending is a little long.' Tom says, 'I will take feedback on board and make the ending shorter.' On Monday, Lisa reads the new report and says, 'Well done on your report! If you ask me, the new plan is better.' Follow-up: What does Lisa say about the new report? She says the outcome will be significant for the team.",
+        "tasks": [
+          [
+            "1 · Identify the people and the new job",
+            "Who is the new worker, and where is his new job?"
+          ],
+          [
+            "2 · Work out what Tom does in his first week",
+            "What is Tom's first job, and what does he do on Friday?"
+          ],
+          [
+            "3 · Notice the feedback on Friday",
+            "What does Lisa say about Tom's report on Friday?"
+          ],
+          [
+            "4 · Listen and write",
+            "Write the sentence you hear."
+          ],
+          [
+            "5 · Retell and answer",
+            "Tell the story in order, including the people, the new job, the first week, and the outcome. Then answer one follow-up question."
+          ]
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,953 @@
+{
+  "number": 16,
+  "title": "Cities, housing and urban life",
+  "lessons": [
+    {
+      "unit": 16,
+      "day": 121,
+      "title": "Life in a big city",
+      "goal": "I can talk about city life.",
+      "newItems": [
+        {
+          "category": "new_word",
+          "day": 121,
+          "definition": "Relating to a city or town.",
+          "example": "Urban life is busy and exciting.",
+          "ipa": "/ˈɝbən/",
+          "pos": "adjective",
+          "status": "new",
+          "word": "urban"
+        },
+        {
+          "category": "new_word",
+          "day": 121,
+          "definition": "A very large and busy city.",
+          "example": "London is a great metropolis.",
+          "ipa": "/məˈtrɑpələs/",
+          "pos": "noun",
+          "status": "new",
+          "word": "metropolis"
+        },
+        {
+          "category": "new_word",
+          "day": 121,
+          "definition": "The shape of a city's buildings against the sky.",
+          "example": "The skyline is full of tall towers.",
+          "ipa": "/ˈskaɪˌlaɪn/",
+          "pos": "noun",
+          "status": "new",
+          "word": "skyline"
+        },
+        {
+          "category": "fixed_phrase",
+          "day": 121,
+          "definition": "The busy noise and activity of a place.",
+          "example": "I love the hustle and bustle of the city.",
+          "ipa": "/ðə ˈhʌsəl ənd ˈbʌsəl/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "the hustle and bustle"
+        },
+        {
+          "category": "fixed_phrase",
+          "day": 121,
+          "definition": "In the central part of a city.",
+          "example": "We live in the heart of the city.",
+          "ipa": "/ɪn ðə hɑrt ʌv ðə ˈsɪti/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "in the heart of the city"
+        }
+      ],
+      "reviewWords": [
+        "city",
+        "town",
+        "street",
+        "home",
+        "road"
+      ],
+      "mainWord": {
+        "category": "new_word",
+        "day": 121,
+        "definition": "Relating to a city or town.",
+        "example": "Urban life is busy and exciting.",
+        "ipa": "/ˈɝbən/",
+        "pos": "adjective",
+        "status": "new",
+        "word": "urban"
+      },
+      "mainWordForms": "Urban is an adjective. Relating to a city or town. Urban life is busy and exciting.",
+      "pronunciationTarget": {
+        "word": "urban",
+        "ipa": "/ˈɝbən/"
+      },
+      "expression": "We live in the heart of the city.",
+      "use": "Use this when you talk about life in a city.",
+      "expressionTask": "Daniel talks to Maya about city life. What does he do?",
+      "grammar": "Third conditional: If the city had planned better, it would have saved the old market",
+      "pattern": "If the city had planned better, it would have saved the old market.",
+      "task": "If the city had planned better, it would have ___ the old market.",
+      "answer": "saved",
+      "example": "If the city had planned better, it would have saved the old market.",
+      "context": [
+        "Daniel talks to Maya about city life at work.",
+        "We live in the heart of the city. The skyline is full of tall towers."
+      ],
+      "dialogue": [
+        "Daniel: Maya, what is urban life like?",
+        "Maya: Urban life is fast. A metropolis never sleeps.",
+        "Daniel: What is a metropolis?",
+        "Maya: A metropolis is a very large and busy city.",
+        "Daniel: And the skyline?",
+        "Maya: The skyline is the shape of the buildings. We live in the heart of the city, and I love the hustle and bustle."
+      ],
+      "listening": "On Monday, Daniel talks to Maya about city life at work. He asks, 'Maya, what is urban life like?' Maya says, 'Urban life is fast. A metropolis never sleeps.' Daniel asks, 'What is a metropolis?' Maya says, 'A metropolis is a very large and busy city.' Daniel is happy. He says, 'Thank you, Maya.' Daniel smiles.",
+      "question": "What does Daniel ask about?",
+      "correct": "City life",
+      "other": "A new car",
+      "reading": "On Monday, Daniel talks to Maya about city life at work at Carter Retail Group. He asks, 'Maya, what is urban life like?' Maya says, 'Urban life is fast and full of change. A metropolis is a very large and busy city, and it never sleeps. People come here from many towns to work, to study, and to find work.' Daniel asks, 'What is a skyline?' Maya says, 'The skyline is the shape of a city's buildings against the sky. We live in the heart of the city, so we see tall towers every day. I love the hustle and bustle of the streets, the shops, and the markets.' Daniel is happy. He says, 'Thank you, Maya. I want to live in the heart of the city too.' Maya says, 'Good. Urban life is busy, but it is full of chances to learn and grow.'",
+      "readingQ": "What does Maya say about city life?",
+      "readingA": "Urban life is fast, and a metropolis never sleeps.",
+      "speaking": "Tell a friend about city life. What is it like? What do you love about it?",
+      "speakingSample": "I want to tell you about city life. On Monday, Daniel talked about city life at work. He said, 'Urban life is fast and full of change.' A metropolis is a very large and busy city, and it never sleeps. The skyline is the shape of a city's buildings against the sky. We live in the heart of the city, and I love the hustle and bustle of the streets.",
+      "writing": "Write a short email to a friend. Tell them about city life. Say what you love about it.",
+      "writingSample": "Dear Tom, I want to tell you about city life. On Monday, Daniel talked about city life at work. He said, 'Urban life is fast and full of change.' A metropolis is a very large and busy city, and it never sleeps. The skyline is the shape of a city's buildings against the sky. We live in the heart of the city, and I love the hustle and bustle of the streets. I hope you will visit us one day. Please tell me about your town. Best, Daniel",
+      "sound": "Urban has its strongest beat on UR. In urban, say UR clearly at the start. In metropolis, say TROP clearly in the middle.",
+      "model": "We love the urban skyline.",
+      "wordTask": "What does Daniel ask about?",
+      "wordSample": "City life."
+    },
+    {
+      "unit": 16,
+      "day": 122,
+      "title": "Moving to the city",
+      "goal": "I can talk about moving to a city.",
+      "newItems": [
+        {
+          "category": "new_word",
+          "day": 122,
+          "definition": "To move to a new place to live or work.",
+          "example": "We relocate to a new city.",
+          "ipa": "/ˌriˈloʊkeɪt/",
+          "pos": "verb",
+          "status": "new",
+          "word": "relocate"
+        },
+        {
+          "category": "new_word",
+          "day": 122,
+          "definition": "The parts of a town or city that are far from the centre.",
+          "example": "They live on the outskirts of town.",
+          "ipa": "/ˈaʊtˌskɝts/",
+          "pos": "noun",
+          "status": "new",
+          "word": "outskirts"
+        },
+        {
+          "category": "fixed_phrase",
+          "day": 122,
+          "definition": "To start to live in a place and feel at home there.",
+          "example": "We put down roots in our new town.",
+          "ipa": "/pʊt daʊn ruts/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "put down roots"
+        },
+        {
+          "category": "fixed_phrase",
+          "day": 122,
+          "definition": "To begin again in a new way.",
+          "example": "We make a fresh start in a new city.",
+          "ipa": "/meɪk ə frɛʃ stɑrt/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "make a fresh start"
+        },
+        {
+          "category": "fixed_phrase",
+          "day": 122,
+          "definition": "To go and live in a rural area.",
+          "example": "They move to the countryside.",
+          "ipa": "/muv tə ðə ˈkʌntrisaɪd/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "move to the countryside"
+        }
+      ],
+      "reviewWords": [
+        "house",
+        "flat",
+        "move",
+        "big",
+        "small"
+      ],
+      "mainWord": {
+        "category": "new_word",
+        "day": 122,
+        "definition": "To move to a new place to live or work.",
+        "example": "We relocate to a new city.",
+        "ipa": "/ˌriˈloʊkeɪt/",
+        "pos": "verb",
+        "status": "new",
+        "word": "relocate"
+      },
+      "mainWordForms": "Relocate is a verb. To move to a new place to live or work. We relocate to a new city.",
+      "pronunciationTarget": {
+        "word": "relocate",
+        "ipa": "/ˌriˈloʊkeɪt/"
+      },
+      "expression": "We put down roots in our new town.",
+      "use": "Use this when you talk about moving to a new place.",
+      "expressionTask": "Priya talks to Daniel about moving. What does he do?",
+      "grammar": "Mixed conditional: If more homes had been built, rents would be lower now",
+      "pattern": "If more homes had been built, rents would be lower now.",
+      "task": "If more homes had been built, rents would be ___ now.",
+      "answer": "lower",
+      "example": "If more homes had been built, rents would be lower now.",
+      "context": [
+        "Priya talks to Daniel about moving at work.",
+        "We put down roots in our new town. We make a fresh start."
+      ],
+      "dialogue": [
+        "Priya: Daniel, why did you relocate to this city?",
+        "Daniel: I relocate for work. My job moved here.",
+        "Priya: Where do you live now?",
+        "Daniel: We live on the outskirts of town. It is quiet there.",
+        "Priya: Do you like it?",
+        "Daniel: Yes. We put down roots in our new town, and we make a fresh start."
+      ],
+      "listening": "On Tuesday, Priya talks to Daniel about moving at work. She asks, 'Daniel, why did you relocate to this city?' Daniel says, 'I relocate for work. My job moved here.' Priya asks, 'Where do you live now?' Daniel says, 'We live on the outskirts of town.' Daniel is happy. He says, 'Thank you, Priya.' Daniel smiles.",
+      "question": "Why did Daniel relocate?",
+      "correct": "For work",
+      "other": "For fun",
+      "reading": "On Tuesday, Priya talks to Daniel about moving at work at Carter Retail Group. She asks, 'Daniel, why did you relocate to this city?' Daniel says, 'I relocate for work. My job moved here, so we moved too. We live on the outskirts of town. It is quiet there, and the air is clean.' Priya asks, 'Do you like it?' Daniel says, 'Yes. We put down roots in our new town, and we make a fresh start. If more homes had been built, rents would be lower now, but our home is good.' Priya says, 'Some people move to the countryside for more space. Do you want that?' Daniel says, 'No. I like the city. We put down roots here, and I am happy.' Priya is happy. She says, 'Thank you, Daniel. I hope you enjoy your new town.'",
+      "readingQ": "Why did Daniel relocate?",
+      "readingA": "For work. His job moved to the city.",
+      "speaking": "Tell a friend about moving to a city. Why did you move? Where do you live now?",
+      "speakingSample": "I want to tell you about moving. On Tuesday, Priya talked about moving at work. She said, 'Daniel, why did you relocate to this city?' Daniel said, 'I relocate for work. My job moved here.' We live on the outskirts of town. It is quiet there, and the air is clean. We put down roots in our new town, and we make a fresh start.",
+      "writing": "Write a short email to a friend. Tell them about moving. Say where you live now.",
+      "writingSample": "Dear Tom, I want to tell you about moving. On Tuesday, Priya talked about moving at work. She said, 'Daniel, why did you relocate to this city?' Daniel said, 'I relocate for work. My job moved here.' We live on the outskirts of town. It is quiet there, and the air is clean. We put down roots in our new town, and we make a fresh start. Some people move to the countryside for more space. Please tell me about your town. Best, Daniel",
+      "sound": "Relocate has its strongest beat on LO. In relocate, say LO clearly in the middle. In outskirts, say OUT clearly at the start.",
+      "model": "We relocate to a new city for work.",
+      "wordTask": "Why did Daniel relocate?",
+      "wordSample": "For work."
+    },
+    {
+      "unit": 16,
+      "day": 123,
+      "title": "Renting a place",
+      "goal": "I can talk about renting a place.",
+      "newItems": [
+        {
+          "category": "new_word",
+          "day": 123,
+          "definition": "The right to live in a rented home for a time.",
+          "example": "Her tenancy lasts for one year.",
+          "ipa": "/ˈtɛnənsi/",
+          "pos": "noun",
+          "status": "new",
+          "word": "tenancy"
+        },
+        {
+          "category": "new_word",
+          "day": 123,
+          "definition": "Having a lot of space.",
+          "example": "The flat is bright and spacious.",
+          "ipa": "/ˈspeɪʃəs/",
+          "pos": "adjective",
+          "status": "new",
+          "word": "spacious"
+        },
+        {
+          "category": "new_word",
+          "day": 123,
+          "definition": "With too little space.",
+          "example": "Our old flat was small and cramped.",
+          "ipa": "/kræmpt/",
+          "pos": "adjective",
+          "status": "new",
+          "word": "cramped"
+        },
+        {
+          "category": "fixed_phrase",
+          "day": 123,
+          "definition": "To go and look at a home you may buy or rent.",
+          "example": "We view a property near the park.",
+          "ipa": "/vju ə ˈprɑpɚti/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "view a property"
+        },
+        {
+          "category": "fixed_phrase",
+          "day": 123,
+          "definition": "To share the cost of renting a home.",
+          "example": "We split the rent with friends.",
+          "ipa": "/splɪt ðə rɛnt/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "split the rent"
+        }
+      ],
+      "reviewWords": [
+        "room",
+        "door",
+        "window",
+        "key",
+        "floor"
+      ],
+      "mainWord": {
+        "category": "new_word",
+        "day": 123,
+        "definition": "The right to live in a rented home for a time.",
+        "example": "Her tenancy lasts for one year.",
+        "ipa": "/ˈtɛnənsi/",
+        "pos": "noun",
+        "status": "new",
+        "word": "tenancy"
+      },
+      "mainWordForms": "Tenancy is a noun. The right to live in a rented home for a time. Her tenancy lasts for one year.",
+      "pronunciationTarget": {
+        "word": "tenancy",
+        "ipa": "/ˈtɛnənsi/"
+      },
+      "expression": "We view a property near the park.",
+      "use": "Use this when you talk about renting a home.",
+      "expressionTask": "Maya talks to Daniel about renting. What does he do?",
+      "grammar": "Participle clauses: Living near the park, Sara walks there every day",
+      "pattern": "Living near the park, Sara walks there every day.",
+      "task": "Living near the park, Sara ___ there every day.",
+      "answer": "walks",
+      "example": "Living near the park, Sara walks there every day.",
+      "context": [
+        "Maya talks to Daniel about renting at work.",
+        "We view a property near the park. We split the rent with friends."
+      ],
+      "dialogue": [
+        "Maya: Daniel, how is your new flat?",
+        "Daniel: It is bright and spacious. I love it.",
+        "Maya: What is tenancy?",
+        "Daniel: Tenancy is the right to live in a rented home.",
+        "Maya: How do you pay for it?",
+        "Daniel: We view a property near the park, and we split the rent with friends."
+      ],
+      "listening": "On Wednesday, Maya talks to Daniel about renting at work. She asks, 'Daniel, how is your new flat?' Daniel says, 'It is bright and spacious. I love it.' Maya asks, 'What is tenancy?' Daniel says, 'Tenancy is the right to live in a rented home.' Daniel is happy. He says, 'Thank you, Maya.' Daniel smiles.",
+      "question": "How is Daniel's new flat?",
+      "correct": "Bright and spacious",
+      "other": "Small and dark",
+      "reading": "On Wednesday, Maya talks to Daniel about renting at work at Carter Retail Group. She asks, 'Daniel, how is your new flat?' Daniel says, 'It is bright and spacious. I love it. Our old flat was small and cramped, so we moved.' Maya asks, 'What is tenancy?' Daniel says, 'Tenancy is the right to live in a rented home for a time. Her tenancy lasts for one year.' Maya asks, 'How do you pay for it?' Daniel says, 'We view a property near the park, and we split the rent with friends. Living near the park, Sara walks there every day, and we walk there too.' Daniel says, 'Yes. It is bright and spacious, and the park is close. We are happy here.' Maya is happy. She says, 'Thank you, Daniel. Your flat sounds great.'",
+      "readingQ": "What does Daniel say about his new flat?",
+      "readingA": "It is bright and spacious.",
+      "speaking": "Tell a friend about renting. How is your home? How do you pay for it?",
+      "speakingSample": "I want to tell you about renting. On Wednesday, Maya talked about renting at work. She said, 'Daniel, how is your new flat?' Daniel said, 'It is bright and spacious. I love it.' Tenancy is the right to live in a rented home for a time. We view a property near the park, and we split the rent with friends.",
+      "writing": "Write a short email to a friend. Tell them about renting. Say how your home is.",
+      "writingSample": "Dear Tom, I want to tell you about renting. On Wednesday, Maya talked about renting at work. She said, 'Daniel, how is your new flat?' Daniel said, 'It is bright and spacious. I love it.' Tenancy is the right to live in a rented home for a time. We view a property near the park, and we split the rent with friends. Our old flat was small and cramped, so we moved. Please tell me about your home. Best, Daniel",
+      "sound": "Tenancy has its strongest beat on TEN. In tenancy, say TEN clearly at the start. In spacious, say SPA clearly at the start.",
+      "model": "Her tenancy lasts for one year.",
+      "wordTask": "How is Daniel's new flat?",
+      "wordSample": "Bright and spacious."
+    },
+    {
+      "unit": 16,
+      "day": 124,
+      "title": "Buying an old house",
+      "goal": "I can talk about buying an old house.",
+      "newItems": [
+        {
+          "category": "new_word",
+          "day": 124,
+          "definition": "A tall, narrow house in a town or city.",
+          "example": "They bought a small townhouse.",
+          "ipa": "/ˈtaʊnˌhaʊs/",
+          "pos": "noun",
+          "status": "new",
+          "word": "townhouse"
+        },
+        {
+          "category": "new_word",
+          "day": 124,
+          "definition": "Old and in very bad condition.",
+          "example": "The house is old and dilapidated.",
+          "ipa": "/dɪˈlæpəˌdeɪtəd/",
+          "pos": "adjective",
+          "status": "new",
+          "word": "dilapidated"
+        },
+        {
+          "category": "fixed_phrase",
+          "day": 124,
+          "definition": "A house in bad condition that you can repair.",
+          "example": "They bought a fixer-upper.",
+          "ipa": "/ə ˈfɪksɚ ˈʌpɚ/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "a fixer-upper"
+        },
+        {
+          "category": "fixed_phrase",
+          "day": 124,
+          "definition": "To repair and improve a house.",
+          "example": "We do up a house near the park.",
+          "ipa": "/du ʌp ə haʊs/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "do up a house"
+        },
+        {
+          "category": "fixed_phrase",
+          "day": 124,
+          "definition": "A small amount of paint to make a place look better.",
+          "example": "The room needs a lick of paint.",
+          "ipa": "/ə lɪk ʌv peɪnt/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "a lick of paint"
+        }
+      ],
+      "reviewWords": [
+        "old",
+        "bright",
+        "clean",
+        "safe",
+        "quiet"
+      ],
+      "mainWord": {
+        "category": "new_word",
+        "day": 124,
+        "definition": "A tall, narrow house in a town or city.",
+        "example": "They bought a small townhouse.",
+        "ipa": "/ˈtaʊnˌhaʊs/",
+        "pos": "noun",
+        "status": "new",
+        "word": "townhouse"
+      },
+      "mainWordForms": "Townhouse is a noun. A tall, narrow house in a town or city. They bought a small townhouse.",
+      "pronunciationTarget": {
+        "word": "townhouse",
+        "ipa": "/ˈtaʊnˌhaʊs/"
+      },
+      "expression": "We do up a house near the park.",
+      "use": "Use this when you talk about buying and repairing a house.",
+      "expressionTask": "Daniel talks to Priya about buying a house. What does she do?",
+      "grammar": "Advanced passive: The new flats are being built near the station",
+      "pattern": "The new flats are being built near the station.",
+      "task": "The new flats are ___ built near the station.",
+      "answer": "being",
+      "example": "The new flats are being built near the station.",
+      "context": [
+        "Daniel talks to Priya about buying a house at work.",
+        "We do up a house near the park. A fixer-upper is a good buy."
+      ],
+      "dialogue": [
+        "Daniel: Priya, why did you buy an old house?",
+        "Priya: We bought a fixer-upper. It was cheap.",
+        "Daniel: What is a fixer-upper?",
+        "Priya: A fixer-upper is a house in bad condition that you can repair.",
+        "Daniel: Is it a townhouse?",
+        "Priya: Yes. It is old and dilapidated, but a lick of paint will help a lot."
+      ],
+      "listening": "On Thursday, Daniel talks to Priya about buying a house at work. He asks, 'Priya, why did you buy an old house?' Priya says, 'We bought a fixer-upper. It was cheap.' Daniel asks, 'What is a fixer-upper?' Priya says, 'A fixer-upper is a house in bad condition that you can repair.' Daniel is happy. He says, 'Thank you, Priya.'",
+      "question": "Why did Priya buy an old house?",
+      "correct": "It was cheap",
+      "other": "It was new",
+      "reading": "On Thursday, Daniel talks to Priya about buying a house at work at Carter Retail Group. He asks, 'Priya, why did you buy an old house?' Priya says, 'We bought a fixer-upper. It was cheap, and it is near the park.' Daniel asks, 'What is a fixer-upper?' Priya says, 'A fixer-upper is a house in bad condition that you can repair. Our townhouse is old and dilapidated, but we do up a house near the park, and it needs a lick of paint.' Daniel asks, 'What will you do first?' Priya says, 'The new flats are being built near the station, but our house is old. We will paint the rooms first. A lick of paint will make it bright.' Daniel is happy. He says, 'Thank you, Priya. Your house will be lovely.'",
+      "readingQ": "Why did Priya buy an old house?",
+      "readingA": "It was cheap, and it is near the park.",
+      "speaking": "Tell a friend about buying a house. Why did you buy it? What will you do first?",
+      "speakingSample": "I want to tell you about buying a house. On Thursday, Priya talked about buying a house at work. She said, 'We bought a fixer-upper. It was cheap.' A fixer-upper is a house in bad condition that you can repair. Our townhouse is old and dilapidated, but we do up a house near the park, and it needs a lick of paint.",
+      "writing": "Write a short email to a friend. Tell them about buying a house. Say what you will do first.",
+      "writingSample": "Dear Tom, I want to tell you about buying a house. On Thursday, Priya talked about buying a house at work. She said, 'We bought a fixer-upper. It was cheap.' A fixer-upper is a house in bad condition that you can repair. Our townhouse is old and dilapidated, but we do up a house near the park, and it needs a lick of paint. I hope you will visit us one day. Please tell me about your home. Best, Daniel",
+      "sound": "Townhouse has its strongest beat on TOWN. In townhouse, say TOWN clearly at the start. In dilapidated, say LAP clearly in the middle.",
+      "model": "They bought a small townhouse.",
+      "wordTask": "Why did Priya buy an old house?",
+      "wordSample": "It was cheap."
+    },
+    {
+      "unit": 16,
+      "day": 125,
+      "title": "City problems",
+      "goal": "I can talk about city problems.",
+      "newItems": [
+        {
+          "category": "new_word",
+          "day": 125,
+          "definition": "Too much traffic on the roads.",
+          "example": "Congestion is bad at rush hour.",
+          "ipa": "/kənˈdʒɛstʃən/",
+          "pos": "noun",
+          "status": "new",
+          "word": "congestion"
+        },
+        {
+          "category": "new_word",
+          "day": 125,
+          "definition": "With too many people in a place.",
+          "example": "The train is hot and overcrowded.",
+          "ipa": "/ˌoʊvɚˈkraʊdəd/",
+          "pos": "adjective",
+          "status": "new",
+          "word": "overcrowded"
+        },
+        {
+          "category": "new_word",
+          "day": 125,
+          "definition": "The spread of a city over a wide area.",
+          "example": "Urban sprawl eats up green land.",
+          "ipa": "/sprɔl/",
+          "pos": "noun",
+          "status": "new",
+          "word": "sprawl"
+        },
+        {
+          "category": "fixed_phrase",
+          "day": 125,
+          "definition": "A city area full of tall buildings and no nature.",
+          "example": "The city centre is a concrete jungle.",
+          "ipa": "/ə ˈkɑŋkrit ˈdʒʌŋɡəl/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "a concrete jungle"
+        },
+        {
+          "category": "fixed_phrase",
+          "day": 125,
+          "definition": "The boring routine of daily work.",
+          "example": "He is tired of the daily grind.",
+          "ipa": "/ðə ˈdeɪli ɡraɪnd/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "the daily grind"
+        }
+      ],
+      "reviewWords": [
+        "busy",
+        "car",
+        "bus",
+        "train",
+        "crowd"
+      ],
+      "mainWord": {
+        "category": "new_word",
+        "day": 125,
+        "definition": "Too much traffic on the roads.",
+        "example": "Congestion is bad at rush hour.",
+        "ipa": "/kənˈdʒɛstʃən/",
+        "pos": "noun",
+        "status": "new",
+        "word": "congestion"
+      },
+      "mainWordForms": "Congestion is a noun. Too much traffic on the roads. Congestion is bad at rush hour.",
+      "pronunciationTarget": {
+        "word": "congestion",
+        "ipa": "/kənˈdʒɛstʃən/"
+      },
+      "expression": "The city centre is a concrete jungle.",
+      "use": "Use this when you talk about problems in a city.",
+      "expressionTask": "Maya talks to Daniel about city problems. What does he do?",
+      "grammar": "Hedging: It seems that rents in the city centre are rising fast",
+      "pattern": "It seems that rents in the city centre are rising fast.",
+      "task": "It seems that rents in the city centre are ___ fast.",
+      "answer": "rising",
+      "example": "It seems that rents in the city centre are rising fast.",
+      "context": [
+        "Maya talks to Daniel about city problems at work.",
+        "The city centre is a concrete jungle. We need more trains."
+      ],
+      "dialogue": [
+        "Maya: Daniel, what is wrong with the city?",
+        "Daniel: Congestion is bad at rush hour.",
+        "Maya: What is congestion?",
+        "Daniel: Congestion is too much traffic on the roads.",
+        "Maya: And the trains?",
+        "Daniel: The train is hot and overcrowded. The city centre is a concrete jungle, and I am tired of the daily grind."
+      ],
+      "listening": "On Friday, Maya talks to Daniel about city problems at work. She asks, 'Daniel, what is wrong with the city?' Daniel says, 'Congestion is bad at rush hour.' Maya asks, 'What is congestion?' Daniel says, 'Congestion is too much traffic on the roads.' Daniel is happy. He says, 'Thank you, Maya.' Daniel smiles. He likes his job.",
+      "question": "What is wrong with the city?",
+      "correct": "Congestion",
+      "other": "Bad weather",
+      "reading": "On Friday, Maya talks to Daniel about city problems at work at Carter Retail Group. She asks, 'Daniel, what is wrong with the city?' Daniel says, 'Congestion is bad at rush hour. The train is hot and overcrowded, and the roads are full.' Maya asks, 'What is congestion?' Daniel says, 'Congestion is too much traffic on the roads. Urban sprawl eats up green land, so more people drive to work.' Maya asks, 'What can we do?' Daniel says, 'It seems that rents in the city centre are rising fast. The city centre is a concrete jungle, and I am tired of the daily grind. We need more trains and more parks.' Daniel says, 'Good. Let us walk to work tomorrow.' Maya is happy. She says, 'Thank you, Daniel. I hope the city gets better.'",
+      "readingQ": "What does Daniel say about the city?",
+      "readingA": "Congestion is bad, and the trains are overcrowded.",
+      "speaking": "Tell a friend about city problems. What is wrong? What can we do?",
+      "speakingSample": "I want to tell you about city problems. On Friday, Maya talked about city problems at work. She said, 'Daniel, what is wrong with the city?' Daniel said, 'Congestion is bad at rush hour.' Congestion is too much traffic on the roads. The train is hot and overcrowded. The city centre is a concrete jungle, and I am tired of the daily grind.",
+      "writing": "Write a short email to a friend. Tell them about city problems. Say what can help.",
+      "writingSample": "Dear Tom, I want to tell you about city problems. On Friday, Maya talked about city problems at work. She said, 'Daniel, what is wrong with the city?' Daniel said, 'Congestion is bad at rush hour.' Congestion is too much traffic on the roads. Urban sprawl eats up green land, so more people drive to work. The city centre is a concrete jungle, and I am tired of the daily grind. Please tell me about your town. Best, Daniel",
+      "sound": "Congestion has its strongest beat on JEST. In congestion, say JEST clearly in the middle. In overcrowded, say CROWD clearly in the middle.",
+      "model": "The city has bad congestion every day.",
+      "wordTask": "What is wrong with the city?",
+      "wordSample": "Congestion."
+    },
+    {
+      "unit": 16,
+      "day": 126,
+      "title": "Neighbourhoods and change",
+      "goal": "I can talk about neighbourhoods and change.",
+      "newItems": [
+        {
+          "category": "new_word",
+          "day": 126,
+          "definition": "When an old area becomes more expensive and richer people move in.",
+          "example": "Gentrification changed the old street.",
+          "ipa": "/ˌdʒɛntrəfəˈkeɪʃən/",
+          "pos": "noun",
+          "status": "new",
+          "word": "gentrification"
+        },
+        {
+          "category": "new_word",
+          "day": 126,
+          "definition": "Old buildings and traditions from the past.",
+          "example": "The old market is part of our heritage.",
+          "ipa": "/ˈhɛrətədʒ/",
+          "pos": "noun",
+          "status": "new",
+          "word": "heritage"
+        },
+        {
+          "category": "new_word",
+          "day": 126,
+          "definition": "In bad condition because it has not been cared for.",
+          "example": "The flats are old and rundown.",
+          "ipa": "/ˈrʌnˌdaʊn/",
+          "pos": "adjective",
+          "status": "new",
+          "word": "rundown"
+        },
+        {
+          "category": "fixed_phrase",
+          "day": 126,
+          "definition": "Close enough to reach on foot.",
+          "example": "The school is within walking distance of home.",
+          "ipa": "/wɪˈðɪn ˈwɔkɪŋ ˈdɪstəns ʌv/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "within walking distance of"
+        },
+        {
+          "category": "fixed_phrase",
+          "day": 126,
+          "definition": "How much money you need to live.",
+          "example": "The cost of living is high here.",
+          "ipa": "/ðə kɔst ʌv ˈlɪvɪŋ/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "the cost of living"
+        }
+      ],
+      "reviewWords": [
+        "shop",
+        "park",
+        "school",
+        "market",
+        "bank"
+      ],
+      "mainWord": {
+        "category": "new_word",
+        "day": 126,
+        "definition": "When an old area becomes more expensive and richer people move in.",
+        "example": "Gentrification changed the old street.",
+        "ipa": "/ˌdʒɛntrəfəˈkeɪʃən/",
+        "pos": "noun",
+        "status": "new",
+        "word": "gentrification"
+      },
+      "mainWordForms": "Gentrification is a noun. When an old area becomes more expensive and richer people move in. Gentrification changed the old street.",
+      "pronunciationTarget": {
+        "word": "gentrification",
+        "ipa": "/ˌdʒɛntrəfəˈkeɪʃən/"
+      },
+      "expression": "The school is within walking distance of home.",
+      "use": "Use this when you talk about a changing neighbourhood.",
+      "expressionTask": "Daniel talks to Priya about his street. What does she do?",
+      "grammar": "Advanced reported speech: The agent said that the flat had been sold the day before",
+      "pattern": "The agent said that the flat had been sold the day before.",
+      "task": "The agent said that the flat had been ___ the day before.",
+      "answer": "sold",
+      "example": "The agent said that the flat had been sold the day before.",
+      "context": [
+        "Daniel talks to Priya about his street at work.",
+        "The school is within walking distance of home. The cost of living is high here."
+      ],
+      "dialogue": [
+        "Daniel: Priya, why is our street changing?",
+        "Priya: Gentrification changed the old street.",
+        "Daniel: What is gentrification?",
+        "Priya: Gentrification is when an old area becomes more expensive.",
+        "Daniel: What about the old market?",
+        "Priya: The old market is part of our heritage. The school is within walking distance of home, but the cost of living is high here."
+      ],
+      "listening": "On Saturday, Daniel talks to Priya about his street at work. He asks, 'Priya, why is our street changing?' Priya says, 'Gentrification changed the old street.' Daniel asks, 'What is gentrification?' Priya says, 'Gentrification is when an old area becomes more expensive.' Daniel is happy. He says, 'Thank you, Priya.' Daniel smiles. He likes his street.",
+      "question": "Why is the street changing?",
+      "correct": "Gentrification",
+      "other": "Bad weather",
+      "reading": "On Saturday, Daniel talks to Priya about his street at work at Carter Retail Group. He asks, 'Priya, why is our street changing?' Priya says, 'Gentrification changed the old street. The flats are old and rundown, but new shops are coming.' Daniel asks, 'What is gentrification?' Priya says, 'Gentrification is when an old area becomes more expensive and richer people move in. The old market is part of our heritage, and we must keep it.' Daniel asks, 'Is it good for us?' Priya says, 'The agent said that the flat had been sold the day before. The school is within walking distance of home, but the cost of living is high here.' Priya smiles. She says, 'Yes. Our street is changing fast.' Daniel is happy. He says, 'Thank you, Priya. I hope our street stays friendly.'",
+      "readingQ": "What does Priya say about the street?",
+      "readingA": "Gentrification changed it, and the cost of living is high.",
+      "speaking": "Tell a friend about your street. How is it changing? What do you want to keep?",
+      "speakingSample": "I want to tell you about our street. On Saturday, Priya talked about our street at work. She said, 'Gentrification changed the old street.' Gentrification is when an old area becomes more expensive and richer people move in. The old market is part of our heritage. The school is within walking distance of home, but the cost of living is high here.",
+      "writing": "Write a short email to a friend. Tell them about your street. Say how it is changing.",
+      "writingSample": "Dear Tom, I want to tell you about our street. On Saturday, Priya talked about our street at work. She said, 'Gentrification changed the old street.' Gentrification is when an old area becomes more expensive and richer people move in. The old market is part of our heritage, and we must keep it. The school is within walking distance of home, but the cost of living is high here. Please tell me about your street. Best, Daniel",
+      "sound": "Gentrification has its strongest beat on KAY. In gentrification, say KAY clearly in the middle. In heritage, say HAIR clearly at the start.",
+      "model": "We see gentrification on our street.",
+      "wordTask": "Why is the street changing?",
+      "wordSample": "Gentrification."
+    },
+    {
+      "unit": 16,
+      "day": 127,
+      "title": "City services and planning",
+      "goal": "I can talk about city services and planning.",
+      "newItems": [
+        {
+          "category": "new_word",
+          "day": 127,
+          "definition": "The roads, water and power systems a place needs.",
+          "example": "Good infrastructure helps a city grow.",
+          "ipa": "/ˈɪnfrəˌstrʌktʃɚ/",
+          "pos": "noun",
+          "status": "new",
+          "word": "infrastructure"
+        },
+        {
+          "category": "new_word",
+          "day": 127,
+          "definition": "Useful things in a place, like shops, parks and schools.",
+          "example": "The town has good amenities.",
+          "ipa": "/əˈmɛnətiz/",
+          "pos": "noun",
+          "status": "new",
+          "word": "amenities"
+        },
+        {
+          "category": "fixed_phrase",
+          "day": 127,
+          "definition": "A very short distance from a place.",
+          "example": "The flat is a stone's throw from the park.",
+          "ipa": "/ə stoʊnz θroʊ frʌm/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "a stone's throw from"
+        },
+        {
+          "category": "fixed_phrase",
+          "day": 127,
+          "definition": "Close to and easy to get to.",
+          "example": "Shops are within easy reach of home.",
+          "ipa": "/wɪˈðɪn ˈizi ritʃ ʌv/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "within easy reach of"
+        },
+        {
+          "category": "fixed_phrase",
+          "day": 127,
+          "definition": "To travel before the roads get busy.",
+          "example": "We leave early to beat the traffic.",
+          "ipa": "/bit ðə ˈtræfɪk/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "beat the traffic"
+        }
+      ],
+      "reviewWords": [
+        "water",
+        "light",
+        "power",
+        "phone",
+        "money"
+      ],
+      "mainWord": {
+        "category": "new_word",
+        "day": 127,
+        "definition": "The roads, water and power systems a place needs.",
+        "example": "Good infrastructure helps a city grow.",
+        "ipa": "/ˈɪnfrəˌstrʌktʃɚ/",
+        "pos": "noun",
+        "status": "new",
+        "word": "infrastructure"
+      },
+      "mainWordForms": "Infrastructure is a noun. The roads, water and power systems a place needs. Good infrastructure helps a city grow.",
+      "pronunciationTarget": {
+        "word": "infrastructure",
+        "ipa": "/ˈɪnfrəˌstrʌktʃɚ/"
+      },
+      "expression": "The flat is a stone's throw from the park.",
+      "use": "Use this when you talk about services in a town.",
+      "expressionTask": "Maya talks to Daniel about the town. What does he do?",
+      "grammar": "Subjunctive: It is essential that every new home have good light",
+      "pattern": "It is essential that every new home have good light.",
+      "task": "It is essential that every new home ___ good light.",
+      "answer": "have",
+      "example": "It is essential that every new home have good light.",
+      "context": [
+        "Maya talks to Daniel about the town at work.",
+        "The flat is a stone's throw from the park. Shops are within easy reach of home."
+      ],
+      "dialogue": [
+        "Maya: Daniel, what does our town need?",
+        "Daniel: Good infrastructure helps a city grow.",
+        "Maya: What is infrastructure?",
+        "Daniel: Infrastructure is the roads, water and power systems a place needs.",
+        "Maya: What about amenities?",
+        "Daniel: The town has good amenities. The flat is a stone's throw from the park, and shops are within easy reach of home."
+      ],
+      "listening": "On Sunday, Maya talks to Daniel about the town at work. She asks, 'Daniel, what does our town need?' Daniel says, 'Good infrastructure helps a city grow.' Maya asks, 'What is infrastructure?' Daniel says, 'Infrastructure is the roads, water and power systems a place needs.' Daniel is happy. He says, 'Thank you, Maya.' Daniel smiles.",
+      "question": "What does the town need?",
+      "correct": "Good infrastructure",
+      "other": "More cars",
+      "reading": "On Sunday, Maya talks to Daniel about the town at work at Carter Retail Group. She asks, 'Daniel, what does our town need?' Daniel says, 'Good infrastructure helps a city grow. The town has good amenities, like shops, parks and schools.' Maya asks, 'What is infrastructure?' Daniel says, 'Infrastructure is the roads, water and power systems a place needs. It is essential that every new home have good light and clean water.' Maya asks, 'What about the new flats?' Daniel says, 'The flat is a stone's throw from the park, and shops are within easy reach of home. We leave early to beat the traffic every day.' Daniel says, 'Yes. Good services make life easy for us all.' Maya is happy. She says, 'Thank you, Daniel. Our town sounds great.'",
+      "readingQ": "What does Daniel say about the town?",
+      "readingA": "Good infrastructure helps a city grow.",
+      "speaking": "Tell a friend about your town. What does it need? What is close to your home?",
+      "speakingSample": "I want to tell you about our town. On Sunday, Maya talked about our town at work. She said, 'Daniel, what does our town need?' Daniel said, 'Good infrastructure helps a city grow.' Infrastructure is the roads, water and power systems a place needs. The flat is a stone's throw from the park, and shops are within easy reach of home.",
+      "writing": "Write a short email to a friend. Tell them about our town. Say what is close to your home.",
+      "writingSample": "Dear Tom, I want to tell you about our town. On Sunday, Maya talked about our town at work. She said, 'Daniel, what does our town need?' Daniel said, 'Good infrastructure helps a city grow.' The town has good amenities, like shops, parks and schools. The flat is a stone's throw from the park, and shops are within easy reach of home. We leave early to beat the traffic every day. Please tell me about your town. Best, Daniel",
+      "sound": "Infrastructure has its strongest beat on STRUK. In infrastructure, say STRUK clearly in the middle. In amenities, say MEN clearly in the middle.",
+      "model": "Good infrastructure helps a city grow.",
+      "wordTask": "What does the town need?",
+      "wordSample": "Good infrastructure."
+    },
+    {
+      "unit": 16,
+      "day": 128,
+      "title": "Use city English in a new situation",
+      "goal": "I can use city English in a new situation.",
+      "newItems": [
+        {
+          "category": "new_word",
+          "day": 128,
+          "definition": "A very tall building in a city.",
+          "example": "The city has a new skyscraper.",
+          "ipa": "/ˈskaɪˌskreɪpɚ/",
+          "pos": "noun",
+          "status": "new",
+          "word": "skyscraper"
+        },
+        {
+          "category": "new_word",
+          "day": 128,
+          "definition": "With people and food from many countries.",
+          "example": "Our city is lively and cosmopolitan.",
+          "ipa": "/ˌkɑzməˈpɑlətən/",
+          "pos": "adjective",
+          "status": "new",
+          "word": "cosmopolitan"
+        },
+        {
+          "category": "fixed_phrase",
+          "day": 128,
+          "definition": "A home where you feel safe and happy.",
+          "example": "A place to call home is important.",
+          "ipa": "/ə pleɪs tə kɔl hoʊm/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "a place to call home"
+        },
+        {
+          "category": "fixed_phrase",
+          "day": 128,
+          "definition": "To start living in the same home.",
+          "example": "They move in together.",
+          "ipa": "/muv ɪn təˈɡɛðɚ/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "move in together"
+        },
+        {
+          "category": "fixed_phrase",
+          "day": 128,
+          "definition": "To start a calm, permanent life in a new place.",
+          "example": "We settle down in a new town.",
+          "ipa": "/ˈsɛtəl daʊn ɪn ə nu taʊn/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "settle down in a new town"
+        }
+      ],
+      "reviewWords": [
+        "morning",
+        "evening",
+        "night",
+        "weekend",
+        "holiday"
+      ],
+      "mainWord": {
+        "category": "new_word",
+        "day": 128,
+        "definition": "A very tall building in a city.",
+        "example": "The city has a new skyscraper.",
+        "ipa": "/ˈskaɪˌskreɪpɚ/",
+        "pos": "noun",
+        "status": "new",
+        "word": "skyscraper"
+      },
+      "mainWordForms": "Skyscraper is a noun. A very tall building in a city. The city has a new skyscraper.",
+      "pronunciationTarget": {
+        "word": "skyscraper",
+        "ipa": "/ˈskaɪˌskreɪpɚ/"
+      },
+      "expression": "A place to call home is important.",
+      "use": "Use this when you talk about a new home in a city.",
+      "expressionTask": "Daniel meets Sara at a park. What does he ask her?",
+      "grammar": "Wish and if only for review: I wish I had bought a flat near the park",
+      "pattern": "I wish I had bought a flat near the park.",
+      "task": "I wish I had ___ a flat near the park.",
+      "answer": "bought",
+      "example": "I wish I had bought a flat near the park.",
+      "context": [
+        "Daniel meets Sara at a park and talks about the city.",
+        "A place to call home is important. We move in together soon."
+      ],
+      "dialogue": [
+        "Daniel: Sara, do you know what a skyscraper is?",
+        "Sara: Yes. A skyscraper is a very tall building in a city.",
+        "Daniel: What is cosmopolitan?",
+        "Sara: Cosmopolitan means a place has people and food from many countries.",
+        "Daniel: What is a place to call home?",
+        "Sara: A place to call home is a home where you feel safe. We move in together soon, and we settle down in a new town."
+      ],
+      "listening": "On Monday, Daniel meets Sara at a park. He asks, 'Sara, do you know what a skyscraper is?' Sara says, 'Yes. A skyscraper is a very tall building in a city.' Daniel asks, 'What is cosmopolitan?' Sara says, 'Cosmopolitan means a place has people and food from many countries.' Daniel is happy. He says, 'Thank you, Sara.'",
+      "question": "What is a skyscraper?",
+      "correct": "A very tall building",
+      "other": "A kind of bridge",
+      "reading": "On Monday, Daniel meets Sara at a park and talks about the city. He asks, 'Sara, do you know what a skyscraper is?' Sara says, 'Yes. A skyscraper is a very tall building in a city. Our city is lively and cosmopolitan, with people and food from many countries.' Daniel asks, 'What is a place to call home?' Sara says, 'For me, a place to call home is a home where you feel safe. A place to call home is important.' Daniel says, 'I wish I had bought a flat near the park. We move in together soon, and we settle down in a new town.' Daniel smiles. He says, 'Good. Our new town will be our home.' Sara is happy. She says, 'Thank you, Daniel. We will move in together, and we will settle down in a new town.'",
+      "readingQ": "What does Sara say about the city?",
+      "readingA": "It is lively and cosmopolitan.",
+      "speaking": "Tell a friend about the city. What is a skyscraper? What does cosmopolitan mean?",
+      "speakingSample": "I want to tell you about the city. On Monday, Daniel talked to Sara at a park. He said, 'Sara, do you know what a skyscraper is?' Sara said, 'Yes. A skyscraper is a very tall building in a city.' Our city is lively and cosmopolitan. A place to call home is a safe home. We move in together soon, and we settle down in a new town.",
+      "writing": "Write a short email to a friend. Tell them about the city. Say what you will do.",
+      "writingSample": "Dear Tom, I want to tell you about the city. On Monday, Daniel talked to Sara at a park. He said, 'Sara, do you know what a skyscraper is?' Sara said, 'Yes. A skyscraper is a very tall building in a city.' Our city is lively and cosmopolitan, with people and food from many countries. A place to call home is a home where you feel safe. We move in together soon, and we settle down in a new town. Please tell me about your week. Best, Daniel",
+      "sound": "Skyscraper has its strongest beat on SKY. In skyscraper, say SKY clearly at the start. In cosmopolitan, say POL clearly in the middle.",
+      "model": "The city has a new skyscraper.",
+      "wordTask": "What is a skyscraper?",
+      "wordSample": "A very tall building.",
+      "transferCheck": {
+        "source": "On Wednesday, Sara reads a note from her neighbour about a new flat. It says a place to call home is important. Sara talks to her friend Tom at a community garden. She says, 'The city is lively and cosmopolitan. A place to call home is important.' Tom says, 'Good. We move in together soon.' Sara says, 'Yes. We settle down in a new town.' Tom says, 'Good. The city has a new skyscraper.' Sara is happy.",
+        "dictation": "A place to call home is important.",
+        "answer": "1. The new checker is Sara. She reads a note from her neighbour about a new flat and talks to her friend Tom at a community garden. 2. Sara's first job is to say that the city is lively and cosmopolitan. 3. On Wednesday, Sara says, 'The city is lively and cosmopolitan. A place to call home is important.' 4. A place to call home is important. 5. Sample: On Wednesday, Sara reads a note from her neighbour about a new flat. It says a place to call home is important. Sara talks to her friend Tom at a community garden. She says, 'The city is lively and cosmopolitan. A place to call home is important.' Tom says, 'Good. We move in together soon.' Sara says, 'Yes. We settle down in a new town.' Tom says, 'Good. The city has a new skyscraper.' Follow-up: What does Tom tell Sara about the city? The city has a new skyscraper.",
+        "tasks": [
+          [
+            "1 · Identify the people and the new situation",
+            "Who is the new checker, and what does she read?"
+          ],
+          [
+            "2 · Work out what Sara does first",
+            "What is Sara's first job, and what does she say?"
+          ],
+          [
+            "3 · Notice the sentence on Wednesday",
+            "What does Sara say on Wednesday?"
+          ],
+          [
+            "4 · Listen and write",
+            "Write the sentence you hear."
+          ],
+          [
+            "5 · Retell and answer",
+            "Tell the story in order, including the people, the new situation, the first talk, and the result. Then answer one follow-up question."
+          ]
+        ]
+      }
+    }
+  ]
+}

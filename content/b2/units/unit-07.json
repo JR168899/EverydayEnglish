@@ -1,0 +1,905 @@
+{
+  "number": 7,
+  "title": "Advertising and consumer choices",
+  "lessons": [
+    {
+      "unit": 7,
+      "day": 49,
+      "title": "What makes a good advert?",
+      "goal": "I can talk about what makes a good advert.",
+      "newItems": [
+        {
+          "word": "advert",
+          "ipa": "/ˈædvɚt/",
+          "pos": "noun",
+          "definition": "A short film, picture, or text that tries to sell something.",
+          "example": "The new advert for the bikes is very funny.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "slogan",
+          "ipa": "/ˈsloʊɡən/",
+          "pos": "noun",
+          "definition": "A short, easy-to-remember phrase used in ads.",
+          "example": "The slogan says, 'Ride fast, feel free.'",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "catchy",
+          "ipa": "/ˈkætʃi/",
+          "pos": "adjective",
+          "definition": "Easy to remember, like a song or a slogan.",
+          "example": "The ad has a catchy song.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "catch your eye",
+          "ipa": "/kætʃ jʊr aɪ/",
+          "pos": "fixed phrase",
+          "definition": "To get your attention because it looks good.",
+          "example": "The bright poster caught my eye.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "stand out from the crowd",
+          "ipa": "/stænd aʊt frʌm ðə kraʊd/",
+          "pos": "fixed phrase",
+          "definition": "To be easy to notice because you are different.",
+          "example": "The red ad stands out from the crowd.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "morning",
+        "today",
+        "friend",
+        "photo",
+        "week"
+      ],
+      "mainWord": {
+        "word": "advert",
+        "ipa": "/ˈædvɚt/",
+        "pos": "noun",
+        "definition": "A short film, picture, or text that tries to sell something.",
+        "example": "The new advert for the bikes is very funny.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Advert is a noun. An advert is a short film, picture, or text that tries to sell something. The new advert for the bikes is very funny.",
+      "pronunciationTarget": {
+        "word": "advert",
+        "ipa": "/ˈædvɚt/"
+      },
+      "expression": "The bright poster caught my eye.",
+      "use": "Use this when something looks good and gets your attention.",
+      "expressionTask": "Maya shows the team a new advert. What catches her eye?",
+      "grammar": "Superlatives: The most memorable advert is the one with the catchy song",
+      "pattern": "The most memorable advert is the one with the catchy song.",
+      "task": "The most memorable advert is the one with the ___ song.",
+      "answer": "catchy",
+      "example": "The most memorable advert is the one with the catchy song.",
+      "context": [
+        "Maya shows the team a new advert for the shop.",
+        "The bright poster caught my eye. The red bike stands out from the crowd."
+      ],
+      "dialogue": [
+        "Maya: Team, look at this new advert for the shop. What do you think?",
+        "Daniel: The slogan is very good. I can say it after one look.",
+        "Priya: The song is catchy too. It stays in my head all day.",
+        "Maya: Good. The bright poster caught my eye at once.",
+        "Daniel: The red bike stands out from the crowd in the picture.",
+        "Priya: Yes. A good advert is simple, and people remember it."
+      ],
+      "listening": "On Monday, Maya shows the team a new advert for the shop. The slogan is short and easy to remember. The song is catchy, and the bright poster caught Maya's eye. The red bike stands out from the crowd. Daniel likes the slogan, and Priya likes the song. Maya says, 'A good advert is simple. People must see it, like it, and remember it.'",
+      "question": "What does Maya show the team?",
+      "correct": "A new advert for the shop",
+      "other": "A new bike for the shop",
+      "reading": "On Monday, Maya shows the team a new advert for the shop. The advert is for a red bike. The slogan is short and easy to remember: 'Ride fast, feel free.' The song in the advert is catchy, and the bright poster caught my eye. The bike stands out from the crowd in the picture. Maya says, 'A good advert is simple. People must see it, like it, and remember it.' Daniel likes the advert. He says, 'The slogan is good. I can say it after one look.' Priya likes the song. She says, 'The catchy song stays in my head all day.' Maya asks the team to think about the best advert they know. She says, 'Tell me what makes it good. Is it the picture, the song, or the words?' The team talks about adverts. They agree: a good advert must catch your eye, stand out from the crowd, and make you smile.",
+      "readingQ": "What does the team agree about a good advert?",
+      "readingA": "It must catch your eye, stand out from the crowd, and make you smile.",
+      "speaking": "Tell a friend about an advert you like. What is it for? Why do you like it?",
+      "speakingSample": "I like the advert for the red bike. The slogan is short and easy to remember, and the song is very catchy. The bright poster caught my eye. The red bike stands out from the crowd. A good advert is simple. People must see it, like it, and remember it. I think the best advert is the one with the catchy song. It makes me smile.",
+      "writing": "Write a short email to a friend. Tell them about an advert you like. Say what it is for and why you like it.",
+      "writingSample": "Dear Tom, I want to tell you about an advert I like. It is for a red bike. The slogan is short and easy to remember, and the song is very catchy. The bright poster caught my eye at once. The red bike stands out from the crowd in the picture. A good advert is simple. People must see it, like it, and remember it. I think the best advert is the one with the catchy song. It makes me smile every time I see it. Best, Daniel",
+      "sound": "Advert has its strongest beat on AD. In advert, say AD clearly at the start. In slogan, say SLO clearly at the start.",
+      "model": "The new advert for the bikes is very funny.",
+      "wordTask": "What makes a good advert?",
+      "wordSample": "A good advert has a catchy slogan."
+    },
+    {
+      "unit": 7,
+      "day": 50,
+      "title": "How ads try to persuade you",
+      "goal": "I can talk about how ads try to persuade people.",
+      "newItems": [
+        {
+          "word": "target",
+          "ipa": "/ˈtɑrɡət/",
+          "pos": "verb",
+          "definition": "To aim something, like an ad, at a group of people.",
+          "example": "The ad targets young people.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "tempting",
+          "ipa": "/ˈtɛmptɪŋ/",
+          "pos": "adjective",
+          "definition": "So nice that you want to have it or do it.",
+          "example": "The offer is very tempting.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "convince",
+          "ipa": "/kənˈvɪns/",
+          "pos": "verb",
+          "definition": "To make someone believe something is true.",
+          "example": "The ad convinced me to try it.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "too good to be true",
+          "ipa": "/tu ɡʊd tə bi tru/",
+          "pos": "fixed phrase",
+          "definition": "So good that it is probably not true.",
+          "example": "A free phone? It sounds too good to be true.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "take advantage of",
+          "ipa": "/teɪk ədˈvæntɪdʒ əv/",
+          "pos": "fixed phrase",
+          "definition": "To use something in a good way for yourself.",
+          "example": "Take advantage of the sale this week.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "team",
+        "city",
+        "plan",
+        "news",
+        "story"
+      ],
+      "mainWord": {
+        "word": "target",
+        "ipa": "/ˈtɑrɡət/",
+        "pos": "verb",
+        "definition": "To aim something, like an ad, at a group of people.",
+        "example": "The ad targets young people.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Target is a verb. To target is to aim something, like an ad, at a group of people. The ad targets young people.",
+      "pronunciationTarget": {
+        "word": "target",
+        "ipa": "/ˈtɑrɡət/"
+      },
+      "expression": "A free phone? It sounds too good to be true.",
+      "use": "Use this when something sounds so good that it is probably not true.",
+      "expressionTask": "Daniel sees an ad for a free phone. What does he say about it?",
+      "grammar": "Modal perfects: She must have seen the ad ten times",
+      "pattern": "She must have seen the ad ten times.",
+      "task": "She must have ___ the ad ten times.",
+      "answer": "seen",
+      "example": "She must have seen the ad ten times.",
+      "context": [
+        "Daniel sees an ad for a free phone on his phone.",
+        "A free phone? It sounds too good to be true. The ad targets young people."
+      ],
+      "dialogue": [
+        "Daniel: Maya, look at this ad. A free phone! It sounds too good to be true.",
+        "Maya: Be careful. The ad targets young people, and the offer is very tempting.",
+        "Priya: She must have seen the ad ten times. The ad tries to convince us all.",
+        "Daniel: Take advantage of the sale this week, the ad says. Should I believe it?",
+        "Maya: No. Ask what the ad really gives you. A free phone is never free.",
+        "Priya: Good. Ads try to persuade us. We must think before we buy."
+      ],
+      "listening": "On Tuesday, Daniel sees an ad for a free phone. The ad is made to target young people, and the offer is very tempting. Maya says, 'Be careful. A free phone sounds too good to be true.' Priya says, 'She must have seen the ad ten times.' Daniel asks, 'Should I take advantage of the sale?' Maya says, 'Ask what the ad really gives you.'",
+      "question": "What does the ad offer?",
+      "correct": "A free phone",
+      "other": "A free bike",
+      "reading": "On Tuesday, Daniel sees an ad for a free phone on his phone. The ad is made to target young people, and the offer is very tempting. Maya says, 'Be careful. A free phone sounds too good to be true.' Priya says, 'She must have seen the ad ten times. The ad tries to convince us all.' Daniel asks, 'Should I take advantage of the sale this week?' Maya says, 'No. Ask what the ad really gives you. A free phone is never free.' Daniel thinks about it. He says, 'You are right. The ad targets young people because we love free things.' Priya says, 'Good. Ads try to persuade us. We must think before we buy.' The team talks about the ad all morning. They agree: a tempting offer can convince people fast, so buyers must stop and think first.",
+      "readingQ": "What does the team agree about tempting offers?",
+      "readingA": "They can convince people fast, so buyers must stop and think first.",
+      "speaking": "Tell a friend about an ad that tried to persuade you. What did it offer? Did you believe it?",
+      "speakingSample": "I saw an ad for a free phone. The ad targets young people, and the offer is tempting. It sounds too good to be true. The ad tries to convince us all. My friend saw the ad ten times. I asked, 'Should I take advantage of the sale?' My friend said, 'No. Ask what the ad really gives you.' Ads try to persuade us. Think before you buy.",
+      "writing": "Write a short email to a friend. Tell them about an ad that tried to persuade you. Say what it offered and if you believed it.",
+      "writingSample": "Dear Anna, I want to tell you about an ad that tried to persuade me. I saw an ad for a free phone. The ad targets young people, and the offer is tempting. It sounds too good to be true. The ad tries to convince us all. My friend saw the ad ten times. I asked, 'Should I take advantage of the sale?' She said, 'No. Ask what the ad really gives you.' Ads try to persuade us, so we must think before we buy. Best, Daniel",
+      "sound": "Target has its strongest beat on TAR. In target, say TAR clearly at the start. In tempting, say TEMPT clearly at the start.",
+      "model": "The ad will target young people.",
+      "wordTask": "What does the ad try to do?",
+      "wordSample": "The ad tries to convince us to buy the phone."
+    },
+    {
+      "unit": 7,
+      "day": 51,
+      "title": "Brands and slogans",
+      "goal": "I can talk about brands and their slogans.",
+      "newItems": [
+        {
+          "word": "logo",
+          "ipa": "/ˈloʊɡoʊ/",
+          "pos": "noun",
+          "definition": "A small picture or design that stands for a company.",
+          "example": "The logo is a red bird.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "jingle",
+          "ipa": "/ˈdʒɪŋɡəl/",
+          "pos": "noun",
+          "definition": "A short, catchy song used in an ad.",
+          "example": "The jingle plays on the radio all day.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "sponsor",
+          "ipa": "/ˈspɑnsɚ/",
+          "pos": "verb",
+          "definition": "To pay for an event or show so your name is seen.",
+          "example": "The bank sponsors the football team.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "a household name",
+          "ipa": "/ə ˈhaʊsˌhoʊld neɪm/",
+          "pos": "fixed phrase",
+          "definition": "A brand that almost everyone knows.",
+          "example": "The drink is a household name now.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "as seen on TV",
+          "ipa": "/æz sin ɑn ˈtivi/",
+          "pos": "fixed phrase",
+          "definition": "Shown in a TV ad; often used to sell things.",
+          "example": "Buy the pan as seen on TV.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "paper",
+        "radio",
+        "television",
+        "report",
+        "meeting"
+      ],
+      "mainWord": {
+        "word": "logo",
+        "ipa": "/ˈloʊɡoʊ/",
+        "pos": "noun",
+        "definition": "A small picture or design that stands for a company.",
+        "example": "The logo is a red bird.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Logo is a noun. A logo is a small picture or design that stands for a company. The logo is a red bird.",
+      "pronunciationTarget": {
+        "word": "logo",
+        "ipa": "/ˈloʊɡoʊ/"
+      },
+      "expression": "Buy the pan as seen on TV.",
+      "use": "Use this when something was shown in a TV ad.",
+      "expressionTask": "Priya reads about a brand. What does the ad say about the pan?",
+      "grammar": "Participle clauses: Featuring a famous singer, the ad sells more shoes",
+      "pattern": "Featuring a famous singer, the ad sells more shoes.",
+      "task": "Featuring a famous singer, the ad ___ more shoes.",
+      "answer": "sells",
+      "example": "Featuring a famous singer, the ad sells more shoes.",
+      "context": [
+        "Priya reads a story about a brand in the paper.",
+        "Buy the pan as seen on TV. The drink is a household name now."
+      ],
+      "dialogue": [
+        "Priya: Maya, I read about a brand. The drink is a household name now.",
+        "Maya: What makes it so well known? The logo? The jingle?",
+        "Priya: The jingle plays on the radio all day. Featuring a famous singer, the ad sells more drinks.",
+        "Daniel: The bank sponsors the football team. Its logo is on every shirt.",
+        "Maya: Good. Buy the pan as seen on TV, the ad says. But is the pan good?",
+        "Priya: We must look at the product, not only the ad."
+      ],
+      "listening": "On Wednesday, Priya reads a story about a brand. The drink is a household name now. The jingle plays on the radio all day. Featuring a famous singer, the ad sells more drinks. The bank sponsors the football team, and its logo is on every shirt. Maya says, 'Buy the pan as seen on TV, the ad says. But is the pan good?'",
+      "question": "What does the bank sponsor?",
+      "correct": "The football team",
+      "other": "The radio show",
+      "reading": "On Wednesday, Priya reads a story about a brand in the paper. The drink is a household name now. The jingle plays on the radio all day. Featuring a famous singer, the ad sells more drinks. The bank wants to sponsor the football team, and its logo is on every shirt. Maya asks, 'What makes it so well known? The logo? The jingle?' Priya says, 'The jingle plays on the radio all day.' Daniel says, 'The bank sponsors the football team.' Maya says, 'Buy the pan as seen on TV, the ad says. But is the pan good?' Priya says, 'We must look at the product, not only the ad.' The team talks about brands all morning. They agree: a good logo and a catchy jingle help, but a brand must sell a good product too.",
+      "readingQ": "What does the team agree about brands?",
+      "readingA": "A good logo and a catchy jingle help, but a brand must sell a good product too.",
+      "speaking": "Tell a friend about a brand you know well. What is its logo? What is its slogan or jingle?",
+      "speakingSample": "I know a drink brand well. The drink is a household name now. The jingle plays on the radio all day. Featuring a famous singer, the ad sells more drinks. The logo is a red bird. The bank sponsors the football team, and its logo is on every shirt. I like the brand because the drink is good, not only because the ad is fun.",
+      "writing": "Write a short email to a friend. Tell them about a brand you know well. Say what its logo and jingle are like.",
+      "writingSample": "Dear Tom, I want to tell you about a brand. The drink is a household name now. The jingle plays on the radio all day. Featuring a famous singer, the ad sells more drinks. The logo is a red bird. The bank sponsors the football team, and its logo is on every shirt. I like the brand because the drink is good, not only because the ad is fun. The ad says, 'Buy the pan as seen on TV,' but I look at the product first. Best, Daniel",
+      "sound": "Logo has its strongest beat on LO. In logo, say LO clearly at the start. In jingle, say JIN clearly at the start.",
+      "model": "The logo is a red bird.",
+      "wordTask": "What is the drink brand like?",
+      "wordSample": "The drink is a household name now."
+    },
+    {
+      "unit": 7,
+      "day": 52,
+      "title": "When ads mislead people",
+      "goal": "I can talk about ads that mislead people.",
+      "newItems": [
+        {
+          "word": "endorse",
+          "ipa": "/ɪnˈdɔrs/",
+          "pos": "verb",
+          "definition": "To say in public that you like a product.",
+          "example": "A famous singer endorses the cream.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "exaggerate",
+          "ipa": "/ɪɡˈzædʒəˌreɪt/",
+          "pos": "verb",
+          "definition": "To say something is bigger or better than it is.",
+          "example": "The ad exaggerates the size of the room.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "in small print",
+          "ipa": "/ɪn smɔl prɪnt/",
+          "pos": "fixed phrase",
+          "definition": "In the small words at the bottom of an ad, with the real facts.",
+          "example": "The real price is in small print.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "read the small print",
+          "ipa": "/rid ðə smɔl prɪnt/",
+          "pos": "fixed phrase",
+          "definition": "To read the small words with the real facts in an ad.",
+          "example": "Read the small print before you buy.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "be taken in by",
+          "ipa": "/bi ˈteɪkən ɪn baɪ/",
+          "pos": "fixed phrase",
+          "definition": "To be tricked by something.",
+          "example": "She was taken in by the ad.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "office",
+        "school",
+        "park",
+        "water",
+        "month"
+      ],
+      "mainWord": {
+        "word": "endorse",
+        "ipa": "/ɪnˈdɔrs/",
+        "pos": "verb",
+        "definition": "To say in public that you like a product.",
+        "example": "A famous singer endorses the cream.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Endorse is a verb. To endorse is to say in public that you like a product. A famous singer endorses the cream.",
+      "pronunciationTarget": {
+        "word": "endorse",
+        "ipa": "/ɪnˈdɔrs/"
+      },
+      "expression": "Read the small print before you buy.",
+      "use": "Use this when you tell someone to read the small words in an ad.",
+      "expressionTask": "Maya reads an ad for a cream. What does she tell the team to do?",
+      "grammar": "Passive with modals: The ad should be checked before it goes on TV",
+      "pattern": "The ad should be checked before it goes on TV.",
+      "task": "The ad should be ___ before it goes on TV.",
+      "answer": "checked",
+      "example": "The ad should be checked before it goes on TV.",
+      "context": [
+        "Maya reads an ad for a cream in the office.",
+        "Read the small print before you buy. The real price is in small print."
+      ],
+      "dialogue": [
+        "Maya: Team, look at this ad for a cream. A famous singer endorses the cream, and the ad says the cream works in one day.",
+        "Daniel: The ad exaggerates how fast the cream works. The ad should be checked before it goes on TV.",
+        "Priya: Read the small print before you buy. The real price is in small print.",
+        "Maya: Good. My friend was taken in by the ad last month. She paid too much.",
+        "Daniel: Ads must be fair. People should not be taken in by big claims.",
+        "Priya: Yes. We must check the facts, not only the famous face."
+      ],
+      "listening": "On Thursday, Maya reads an ad for a cream. A famous singer endorses the cream, and the ad says the cream works in one day. The ad exaggerates how fast the cream works. The ad should be checked. Read the small print before you buy. The real price is in small print. Maya says, 'My friend was taken in by the ad last month.'",
+      "question": "What does the ad say about the cream?",
+      "correct": "It works in one day",
+      "other": "It works in one week",
+      "reading": "On Thursday, Maya reads an ad for a cream in the office. A famous singer endorses the cream, and the ad says the cream works in one day. The ad exaggerates how fast the cream works. The ad should be checked before it goes on TV. Priya says, 'Read the small print before you buy. The real price is in small print.' Maya says, 'My friend was taken in by the ad last month. She paid too much.' Daniel says, 'Ads must be fair. People should not be taken in by big claims.' Priya says, 'Yes. We must check the facts, not only the famous face.' The team talks about the ad all morning. They agree: a famous face can endorse a product, but the ad must not exaggerate, and buyers must read the small print.",
+      "readingQ": "What does the team agree about ads?",
+      "readingA": "A famous face can endorse a product, but the ad must not exaggerate, and buyers must read the small print.",
+      "speaking": "Tell a friend about an ad that misled people. What did the ad say? What was the real fact?",
+      "speakingSample": "Last month, I saw an ad for a cream. A famous singer endorses the cream, and the ad says the cream works in one day. The ad exaggerates how fast the cream works. Read the small print before you buy. The real price is in small print. My friend was taken in by the ad. She paid too much. I think the ad should be checked.",
+      "writing": "Write a short email to a friend. Tell them about an ad that misled people. Say what the ad said and what the real fact was.",
+      "writingSample": "Dear Lisa, I want to tell you about an ad that misled people. Last month, I saw an ad for a cream. A famous singer endorses the cream, and the ad says the cream works in one day. The ad exaggerates how fast the cream works. Read the small print before you buy. The real price is in small print. My friend was taken in by the ad. She paid too much. I think the ad should be checked before it goes on TV. Ads must be fair. Best, Daniel",
+      "sound": "Endorse has its strongest beat on DORS. In endorse, say DORS clearly at the end. In exaggerate, say ZADGE clearly in the middle.",
+      "model": "A famous singer can endorse the cream.",
+      "wordTask": "What must buyers do before they buy?",
+      "wordSample": "Read the small print before you buy."
+    },
+    {
+      "unit": 7,
+      "day": 53,
+      "title": "Online ads and your data",
+      "goal": "I can talk about online ads and my data.",
+      "newItems": [
+        {
+          "word": "banner",
+          "ipa": "/ˈbænɚ/",
+          "pos": "noun",
+          "definition": "A long ad at the top or side of a webpage.",
+          "example": "A banner for cheap flights filled the page.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "spam",
+          "ipa": "/spæm/",
+          "pos": "noun",
+          "definition": "Unwanted messages sent to many people.",
+          "example": "I delete spam every morning.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "subscribe",
+          "ipa": "/səbˈskraɪb/",
+          "pos": "verb",
+          "definition": "To sign up to get something each time.",
+          "example": "I subscribe to the town paper.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "targeted ads",
+          "ipa": "/ˈtɑrɡətəd ædz/",
+          "pos": "fixed phrase",
+          "definition": "Ads chosen for you because of what you looked at online.",
+          "example": "Targeted ads follow me everywhere.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "skip the ad",
+          "ipa": "/skɪp ði æd/",
+          "pos": "fixed phrase",
+          "definition": "To stop an online ad and go to the video.",
+          "example": "I always skip the ad after five seconds.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "year",
+        "class",
+        "teacher",
+        "student",
+        "book"
+      ],
+      "mainWord": {
+        "word": "banner",
+        "ipa": "/ˈbænɚ/",
+        "pos": "noun",
+        "definition": "A long ad at the top or side of a webpage.",
+        "example": "A banner for cheap flights filled the page.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Banner is a noun. A banner is a long ad at the top or side of a webpage. A banner for cheap flights filled the page.",
+      "pronunciationTarget": {
+        "word": "banner",
+        "ipa": "/ˈbænɚ/"
+      },
+      "expression": "Targeted ads follow me everywhere.",
+      "use": "Use this when ads seem to follow you online.",
+      "expressionTask": "Daniel watches a video online. What follows him everywhere?",
+      "grammar": "Inversion: Not only do ads follow you online",
+      "pattern": "Not only do ads follow you online, but they also know what you like.",
+      "task": "Not only do ads follow you online, but they also ___ what you like.",
+      "answer": "know",
+      "example": "Not only do ads follow you online, but they also know what you like.",
+      "context": [
+        "Daniel watches a video online at night.",
+        "Targeted ads follow me everywhere. I always skip the ad after five seconds."
+      ],
+      "dialogue": [
+        "Daniel: Maya, I watched a video last night. Targeted ads follow me everywhere.",
+        "Maya: Not only do ads follow you online, but they also know what you like.",
+        "Priya: A banner for cheap flights filled the page. I delete spam every morning.",
+        "Daniel: I always skip the ad after five seconds. But the ads come back.",
+        "Maya: I subscribe to the town paper, but online ads still find me.",
+        "Priya: Yes. Our data is the price we pay for free videos."
+      ],
+      "listening": "On Friday, Daniel watches a video online. Targeted ads follow him everywhere. A banner filled the page. He deletes spam every morning. He can skip the ad after five seconds, but the ads come back. Maya says, 'Not only do ads follow you online, but they also know what you like.' Daniel says, 'I subscribe to the town paper, but ads still find me.'",
+      "question": "What does Daniel do every morning?",
+      "correct": "He deletes spam",
+      "other": "He reads the paper",
+      "reading": "On Friday, Daniel watches a video online at night. Targeted ads follow him everywhere. A banner for cheap flights filled the page. He deletes spam every morning. He can skip the ad after five seconds, but the ads come back. Maya says, 'Not only do ads follow you online, but they also know what you like.' Daniel says, 'I subscribe to the town paper, but online ads still find me.' Daniel says, 'I will not pay for a video, but the ads still find me.' Priya says, 'Yes. Our data is the price we pay for free videos.' The team talks about online ads all morning. They agree: to subscribe to a page is easy, but your data stays with the shop. A banner can be closed, and an ad can be skipped, but the next ad is never far away.",
+      "readingQ": "What does the team agree about online ads?",
+      "readingA": "Your data stays with the shop, and the next ad is never far away.",
+      "speaking": "Tell a friend about online ads. Do they follow you? What do you do about them?",
+      "speakingSample": "I watch videos online. Targeted ads follow me everywhere. A banner filled the page. I delete spam every morning. I always skip the ad after five seconds, but the ads come back. Not only do ads follow you online, but they also know what you like. I subscribe to the town paper, but ads still find me. Our data is the price we pay for free videos.",
+      "writing": "Write a short email to a friend. Tell them about online ads. Say how they follow you and what you do about them.",
+      "writingSample": "Dear Tom, I want to tell you about online ads. I watch videos online every night. Targeted ads follow me everywhere. A banner for cheap flights filled the page. I delete spam every morning. I always skip the ad after five seconds, but the ads come back. Not only do ads follow you online, but they also know what you like. I subscribe to the town paper, but online ads still find me. I think our data is the price we pay for free videos. Best, Daniel",
+      "sound": "Banner has its strongest beat on BAN. In banner, say BAN clearly at the start. In spam, say SPAM clearly.",
+      "model": "A banner for cheap flights filled the page.",
+      "wordTask": "What follows Daniel everywhere?",
+      "wordSample": "Targeted ads follow me everywhere."
+    },
+    {
+      "unit": 7,
+      "day": 54,
+      "title": "Buying on impulse",
+      "goal": "I can talk about buying on impulse.",
+      "newItems": [
+        {
+          "word": "impulse",
+          "ipa": "/ˈɪmpʌls/",
+          "pos": "noun",
+          "definition": "A sudden wish to do something, without thinking.",
+          "example": "She bought the shoes on impulse.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "warranty",
+          "ipa": "/ˈwɔrənti/",
+          "pos": "noun",
+          "definition": "A promise that a company will fix or replace a product.",
+          "example": "The phone has a two-year warranty.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "buy now, pay later",
+          "ipa": "/baɪ naʊ peɪ ˈleɪtɚ/",
+          "pos": "fixed phrase",
+          "definition": "To take a product now and pay for it in small parts.",
+          "example": "Buy now, pay later sounds easy.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "a limited-time offer",
+          "ipa": "/ə ˈlɪmətəd taɪm ˈɔfɚ/",
+          "pos": "fixed phrase",
+          "definition": "A sale that ends soon, so you must buy fast.",
+          "example": "A limited-time offer ends on Sunday.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "an impulse buy",
+          "ipa": "/ən ˈɪmpʌls baɪ/",
+          "pos": "fixed phrase",
+          "definition": "A buy made fast, without thinking.",
+          "example": "The hat was an impulse buy.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "family",
+        "phone",
+        "video",
+        "online",
+        "money"
+      ],
+      "mainWord": {
+        "word": "impulse",
+        "ipa": "/ˈɪmpʌls/",
+        "pos": "noun",
+        "definition": "A sudden wish to do something, without thinking.",
+        "example": "She bought the shoes on impulse.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Impulse is a noun. An impulse is a sudden wish to do something, without thinking. She bought the shoes on impulse.",
+      "pronunciationTarget": {
+        "word": "impulse",
+        "ipa": "/ˈɪmpʌls/"
+      },
+      "expression": "Buy now, pay later sounds easy.",
+      "use": "Use this when you take a product now and pay in small parts.",
+      "expressionTask": "Priya sees a hat in a shop. What does the ad say about paying?",
+      "grammar": "Hedging: The offer seems to be a good deal",
+      "pattern": "The offer seems to be a good deal.",
+      "task": "The offer seems to be a ___ deal.",
+      "answer": "good",
+      "example": "The offer seems to be a good deal.",
+      "context": [
+        "Priya sees a hat in a shop on Saturday.",
+        "Buy now, pay later sounds easy. A limited-time offer ends on Sunday."
+      ],
+      "dialogue": [
+        "Priya: Maya, look at this hat. Buy now, pay later sounds easy.",
+        "Maya: Be careful. A limited-time offer ends on Sunday, but the hat is an impulse buy.",
+        "Daniel: The offer seems to be a good deal. But do you need the hat?",
+        "Priya: She bought the shoes on impulse last year. I do not want the same mistake.",
+        "Maya: Good. The phone has a two-year warranty. Ask about the hat too.",
+        "Daniel: Yes. Think first, and the money stays in your pocket."
+      ],
+      "listening": "On Saturday, Priya sees a hat. Buy now, pay later sounds easy. A limited-time offer ends on Sunday, but the hat is an impulse buy. The offer seems to be a good deal. Priya says, 'She bought the shoes on impulse. I do not want the same mistake.' Maya says, 'The phone has a two-year warranty. Ask about the hat.' Daniel says, 'Think first.'",
+      "question": "What does Priya not want?",
+      "correct": "The same mistake as last year",
+      "other": "A new hat",
+      "reading": "On Saturday, Priya sees a hat in a shop. Buy now, pay later sounds easy. A limited-time offer ends on Sunday, but the hat is an impulse buy. The offer seems to be a good deal. Priya says, 'She bought the shoes on impulse last year. I do not want the same mistake.' Maya says, 'The phone has a two-year warranty. Ask about the hat too.' Daniel says, 'Think first, and the money stays in your pocket.' Priya thinks about it. She says, 'You are right. An impulse buy feels good for a day, but the money is gone for a month.' The team talks about the hat all morning. They agree: buy now, pay later is easy to say, but a short offer and a fast wish can cost a lot.",
+      "readingQ": "What does the team agree about buy now, pay later?",
+      "readingA": "It is easy to say, but a short offer and a fast wish can cost a lot.",
+      "speaking": "Tell a friend about something you bought on impulse. What was it? Are you happy you bought it?",
+      "speakingSample": "Last year, I bought shoes on impulse. The shop said, 'Buy now, pay later.' It sounds easy. A limited-time offer ends on Sunday, the ad said. The hat was an impulse buy too. The offer seems to be a good deal. But I did not need the shoes. The phone has a two-year warranty, but the shoes have none. Now I think first, and the money stays in my pocket.",
+      "writing": "Write a short email to a friend. Tell them about something you bought on impulse. Say what it was and if you are happy you bought it.",
+      "writingSample": "Dear Anna, I want to tell you about something I bought on impulse. Last year, I bought shoes on impulse. The shop said, 'Buy now, pay later.' It sounds easy. A limited-time offer ends on Sunday, the ad said. The hat was an impulse buy too. The offer seems to be a good deal. But I did not need the shoes. The phone has a two-year warranty, but the shoes have none. Now I think first, and the money stays in my pocket. Best, Daniel",
+      "sound": "Impulse has its strongest beat on IM. In impulse, say IM clearly at the start. In warranty, say WAR clearly at the start.",
+      "model": "She bought the shoes on impulse.",
+      "wordTask": "What was the hat?",
+      "wordSample": "The hat was an impulse buy."
+    },
+    {
+      "unit": 7,
+      "day": 55,
+      "title": "Your rights as a buyer",
+      "goal": "I can talk about my rights as a buyer.",
+      "newItems": [
+        {
+          "word": "consumer",
+          "ipa": "/kənˈsumɚ/",
+          "pos": "noun",
+          "definition": "A person who buys things.",
+          "example": "The new law protects consumers.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "boycott",
+          "ipa": "/ˈbɔɪˌkɑt/",
+          "pos": "verb",
+          "definition": "To refuse to buy something, to show you do not agree.",
+          "example": "Many people boycott the brand.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "terms and conditions",
+          "ipa": "/tɝmz ənd kənˈdɪʃənz/",
+          "pos": "fixed phrase",
+          "definition": "The rules of a sale or a service, in small words.",
+          "example": "Read the terms and conditions first.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "a money-back guarantee",
+          "ipa": "/ə ˈmʌni bæk ˌɡærənˈti/",
+          "pos": "fixed phrase",
+          "definition": "A promise to give your money back if you are not happy.",
+          "example": "It comes with a money-back guarantee.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "fall for",
+          "ipa": "/fɔl fɔr/",
+          "pos": "fixed phrase",
+          "definition": "To believe something that is not true.",
+          "example": "Do not fall for the trick.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "question",
+        "result",
+        "letter",
+        "firm",
+        "night"
+      ],
+      "mainWord": {
+        "word": "consumer",
+        "ipa": "/kənˈsumɚ/",
+        "pos": "noun",
+        "definition": "A person who buys things.",
+        "example": "The new law protects consumers.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Consumer is a noun. A consumer is a person who buys things. The new law protects consumers.",
+      "pronunciationTarget": {
+        "word": "consumer",
+        "ipa": "/kənˈsumɚ/"
+      },
+      "expression": "Read the terms and conditions first.",
+      "use": "Use this when you tell someone to read the rules of a sale.",
+      "expressionTask": "Daniel buys a phone that does not work. What must he read first?",
+      "grammar": "Modals of obligation: Shops must tell buyers the true price",
+      "pattern": "Shops must tell buyers the true price.",
+      "task": "Shops must tell buyers the ___ price.",
+      "answer": "true",
+      "example": "Shops must tell buyers the true price.",
+      "context": [
+        "Daniel buys a phone that does not work.",
+        "Read the terms and conditions first. It comes with a money-back guarantee."
+      ],
+      "dialogue": [
+        "Daniel: Maya, I bought a phone, but it does not work. What can I do?",
+        "Maya: Read the terms and conditions first. It comes with a money-back guarantee.",
+        "Priya: Shops must tell buyers the true price. The new law protects consumers.",
+        "Daniel: The shop said no. I will not fall for the trick.",
+        "Maya: Good. Many people boycott the brand when a shop is not fair.",
+        "Priya: Yes. A buyer has rights. Ask for your money back."
+      ],
+      "listening": "On Sunday, Daniel buys a phone that does not work. He reads the terms and conditions first. The phone comes with a money-back guarantee. Shops must tell buyers the true price. The new law protects consumers. Maya says, 'Do not fall for the trick.' Daniel says, 'I will not fall for it. Many people boycott the brand when a shop is not fair.'",
+      "question": "What does Daniel buy?",
+      "correct": "A phone that does not work",
+      "other": "A phone that works well",
+      "reading": "On Sunday, Daniel buys a phone that does not work. He reads the terms and conditions first. The phone comes with a money-back guarantee. Shops must tell buyers the true price. The new law protects consumers. Maya says, 'Do not fall for the trick.' Daniel says, 'I will not fall for it. Many people boycott the brand when a shop is not fair.' Priya says, 'Yes. A buyer has rights. Ask for your money back.' Daniel goes back to the shop. He shows the terms and conditions. The shop gives him a new phone. The shop says sorry for the bad phone. Daniel keeps the new phone, and the old one goes back in the box. The team talks about the phone all morning. They agree: a consumer must know the rules, and a shop must be fair.",
+      "readingQ": "What does the team agree about buyers and shops?",
+      "readingA": "A consumer must know the rules, and a shop must be fair.",
+      "speaking": "Tell a friend about a time a shop was not fair to you. What did you do?",
+      "speakingSample": "I bought a phone that does not work. I read the terms and conditions first. The phone comes with a money-back guarantee. Shops must tell buyers the true price. The new law protects consumers. My friend said, 'Do not fall for the trick.' I did not fall for it. Many people boycott the brand when a shop is not fair. I asked for my money back.",
+      "writing": "Write a short email to a friend. Tell them about a time a shop was not fair to you. Say what you did.",
+      "writingSample": "Dear Tom, I want to tell you about a time a shop was not fair to me. I bought a phone that does not work. I read the terms and conditions first. The phone comes with a money-back guarantee. Shops must tell buyers the true price. The new law protects consumers. My friend said, 'Do not fall for the trick.' I did not fall for it. Many people boycott the brand when a shop is not fair. I asked for my money back. Best, Daniel",
+      "sound": "Consumer has its strongest beat on SUM. In consumer, say SUM clearly in the middle. In boycott, say BOY clearly at the start.",
+      "model": "The new law protects the consumer.",
+      "wordTask": "What protects buyers?",
+      "wordSample": "The new law protects consumers."
+    },
+    {
+      "unit": 7,
+      "day": 56,
+      "title": "Use advertising English in a new situation",
+      "goal": "I can use advertising English in a new situation.",
+      "newItems": [
+        {
+          "word": "ethical",
+          "ipa": "/ˈɛθəkəl/",
+          "pos": "adjective",
+          "definition": "Right and fair, in the way people should act.",
+          "example": "She buys from ethical shops.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "commercial",
+          "ipa": "/kəˈmɝʃəl/",
+          "pos": "noun",
+          "definition": "A short ad on TV or radio.",
+          "example": "The commercial shows a happy family.",
+          "category": "new_word",
+          "status": "new"
+        },
+        {
+          "word": "a must-have",
+          "ipa": "/ə mʌst hæv/",
+          "pos": "fixed phrase",
+          "definition": "Something everyone says you must buy or have.",
+          "example": "The new phone is a must-have.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "no strings attached",
+          "ipa": "/noʊ strɪŋz əˈtætʃt/",
+          "pos": "fixed phrase",
+          "definition": "With no hidden rules or extra costs.",
+          "example": "The free gift comes with no strings attached.",
+          "category": "fixed_phrase",
+          "status": "new"
+        },
+        {
+          "word": "think twice",
+          "ipa": "/θɪŋk twaɪs/",
+          "pos": "fixed phrase",
+          "definition": "To think carefully before you act.",
+          "example": "Think twice before you buy it.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "rain",
+        "storm",
+        "worker",
+        "hospital",
+        "town"
+      ],
+      "mainWord": {
+        "word": "ethical",
+        "ipa": "/ˈɛθəkəl/",
+        "pos": "adjective",
+        "definition": "Right and fair, in the way people should act.",
+        "example": "She buys from ethical shops.",
+        "category": "new_word",
+        "status": "new"
+      },
+      "mainWordForms": "Ethical is an adjective. Ethical means right and fair, in the way people should act. She buys from ethical shops.",
+      "pronunciationTarget": {
+        "word": "ethical",
+        "ipa": "/ˈɛθəkəl/"
+      },
+      "expression": "Think twice before you buy it.",
+      "use": "Use this when you tell someone to think carefully before they buy.",
+      "expressionTask": "Daniel meets Ana at a market. What does he tell her to do before she buys?",
+      "grammar": "Review: I can use advertising English in a new situation",
+      "pattern": "I can use advertising English in a new situation.",
+      "task": "I can ___ advertising English in a new situation.",
+      "answer": "use",
+      "example": "I can use advertising English in a new situation.",
+      "context": [
+        "Daniel meets Ana at a market on Monday.",
+        "Think twice before you buy it. The new bike is a must-have this year."
+      ],
+      "dialogue": [
+        "Daniel: Ana, have you seen the ad for the new bike? The new bike is a must-have this year.",
+        "Ana: Yes. The commercial shows a happy family. But is the bike good?",
+        "Daniel: Think twice before you buy it. She buys from ethical shops, and so do I.",
+        "Ana: The free gift comes with no strings attached, the ad says. Is that true?",
+        "Daniel: Read the small print. A good bike is not only a must-have, it is a good buy.",
+        "Ana: Good. I will think twice, and I will ask the shop first."
+      ],
+      "listening": "On Monday, Daniel meets Ana at a market. The new bike is a must-have this year. The commercial shows a happy family. Daniel says, 'Think twice before you buy it. She buys from ethical shops, and so do I.' Ana asks, 'The free gift comes with no strings attached, the ad says. Is that true?' Daniel says, 'Read the small print.'",
+      "question": "What does Ana ask about the free gift?",
+      "correct": "If it comes with no strings attached",
+      "other": "If it costs a lot",
+      "reading": "On Monday, Daniel meets Ana at a market. The new bike is a must-have this year. The commercial shows a happy family. Daniel says, 'Think twice before you buy it. She buys from ethical shops, and so do I.' Ana asks, 'The free gift comes with no strings attached, the ad says. Is that true?' Daniel says, 'Read the small print. A good bike is not only a must-have, it is a good buy.' Ana says, 'Good. I will think twice, and I will ask the shop first.' Daniel is happy. He says, 'Good. I can use advertising English in a new situation. Think twice, read the small print, and ask the shop.' The team talks about the bike all morning. They agree: an ethical shop is fair, and a good buyer thinks twice.",
+      "readingQ": "What does the team agree about good buyers?",
+      "readingA": "An ethical shop is fair, and a good buyer thinks twice.",
+      "speaking": "Tell a friend about an advert in a new situation. What is it for? What will you do before you buy?",
+      "speakingSample": "This week, I met Ana at a market. The new bike is a must-have this year. The commercial shows a happy family. I said, 'Think twice before you buy it. She buys from ethical shops, and so do I.' Ana asked, 'The free gift comes with no strings attached?' I said, 'Read the small print.' I can use advertising English in a new situation. A good buyer thinks twice.",
+      "writing": "Write a short email to a friend about an advert. Say what it is for and what you will do before you buy.",
+      "writingSample": "Dear Anna, I want to tell you about an advert. This week, I met Ana at a market. The new bike is a must-have this year. The commercial shows a happy family. I said, 'Think twice before you buy it. She buys from ethical shops, and so do I.' Ana asked, 'The free gift comes with no strings attached?' I said, 'Read the small print.' I can use advertising English in a new situation. A good buyer thinks twice. Please tell me what you think. Best, Daniel",
+      "sound": "Ethical has its strongest beat on ETH. In ethical, say ETH clearly at the start. In commercial, say MER clearly in the middle.",
+      "model": "She buys from ethical shops.",
+      "wordTask": "What does Daniel tell Ana to do?",
+      "wordSample": "Think twice before you buy it.",
+      "transferCheck": {
+        "source": "On Tuesday, Ana reads an ad for a new bike. It says the new bike is a must-have this year. Ana talks to the shop assistant. She says, 'The commercial shows a happy family. Is the bike good?' The assistant says, 'Yes. The free gift comes with no strings attached.' Ana says, 'Think twice before you buy it, I always say. Is the bike from an ethical shop?' The assistant says, 'Yes. We are an ethical shop.' Ana is happy. She says, 'Thank you. I am glad we talked.'",
+        "dictation": "The new bike is a must-have this year.",
+        "answer": "1. The new checker is Ana. She reads an ad for a new bike and talks to the shop assistant. 2. Ana's first job is to say that the commercial shows a happy family and to ask if the bike is good. 3. On Tuesday, Ana says, 'Think twice before you buy it, I always say.' 4. The new bike is a must-have this year. 5. Sample: On Tuesday, Ana reads an ad for a new bike. It says the new bike is a must-have this year. Ana talks to the shop assistant. She says, 'The commercial shows a happy family. Is the bike good?' The assistant says, 'Yes. The free gift comes with no strings attached.' Ana says, 'Think twice before you buy it, I always say. Is the bike from an ethical shop?' The assistant says, 'Yes. We are an ethical shop.' Follow-up: What does the assistant say about the shop? We are an ethical shop.",
+        "tasks": [
+          [
+            "1 · Identify the people and the new situation",
+            "Who is the new checker, and what does she read?"
+          ],
+          [
+            "2 · Work out what Ana does first",
+            "What is Ana's first job, and what does she say?"
+          ],
+          [
+            "3 · Notice the sentence on Tuesday",
+            "What does Ana say on Tuesday?"
+          ],
+          [
+            "4 · Listen and write",
+            "Write the sentence you hear."
+          ],
+          [
+            "5 · Retell and answer",
+            "Tell the story in order, including the people, the new situation, the first talk, and the result. Then answer one follow-up question."
+          ]
+        ]
+      }
+    }
+  ]
+}
