@@ -314,7 +314,7 @@
       wrap.className = 'font-size';
       wrap.setAttribute('role', 'group');
       wrap.setAttribute('aria-label', 'Text size');
-      wrap.innerHTML = '<span class="font-size-label">Text size</span>' +
+      wrap.innerHTML =
         '<button type="button" data-font-size="xsmall" aria-label="Extra small text size">A--</button>' +
         '<button type="button" data-font-size="small" aria-label="Small text size">A-</button>' +
         '<button type="button" data-font-size="normal" aria-label="Normal text size">A</button>' +
