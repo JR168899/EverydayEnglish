@@ -5,6 +5,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Level — Everyday English</title>
 <link rel="stylesheet" href="styles.css">
+<style>body{background:#FFF6E0;color:#3D2314;font-family:'Nunito',system-ui,sans-serif}img{max-width:100%}</style>
 <script src="data/data.js"></script>
 <script src="app.js"></script>
 </head>
@@ -12,9 +13,9 @@
 <header class="site"><div class="bar">
   <a class="logo" href="home.html"><img src="assets/logo-wordmark-1.webp" alt="Everyday English"></a>
   <nav class="main">
-    <a href="home.html">Today's News</a>
-    <a href="courses.html" class="active">Courses</a>
-    <a href="settings.html">Settings</a>
+    <a href="home.html"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 22h16"/><path d="M18 14h-8"/><path d="M18 18h-8"/><path d="M18 10h-8"/><path d="M10 6h8v4h-8zM4 10v6a2 2 0 0 0 2 2h2"/></svg>Today's News</a>
+    <a href="courses.html" class="active"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M2 3h6a4 4 0 0 1 4 4v14a3 3 0 0 0-3-3H2z"/><path d="M22 3h-6a4 4 0 0 0-4 4v14a3 3 0 0 1 3-3h7z"/></svg>Courses</a>
+    <a href="settings.html"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="3"/><path d="M19.4 15a1.65 1.65 0 0 0 .33 1.82l.06.06a2 2 0 1 1-2.83 2.83l-.06-.06a1.65 1.65 0 0 0-1.82-.33 1.65 1.65 0 0 0-1 1.51V21a2 2 0 1 1-4 0v-.09A1.65 1.65 0 0 0 9 19.4a1.65 1.65 0 0 0-1.82.33l-.06.06a2 2 0 1 1-2.83-2.83l.06-.06a1.65 1.65 0 0 0 .33-1.82 1.65 1.65 0 0 0-1.51-1H3a2 2 0 1 1 0-4h.09A1.65 1.65 0 0 0 4.6 9a1.65 1.65 0 0 0-.33-1.82l-.06-.06a2 2 0 1 1 2.83-2.83l.06.06a1.65 1.65 0 0 0 1.82.33H9a1.65 1.65 0 0 0 1-1.51V3a2 2 0 1 1 4 0v.09a1.65 1.65 0 0 0 1 1.51 1.65 1.65 0 0 0 1.82-.33l.06-.06a2 2 0 1 1 2.83 2.83l-.06.06a1.65 1.65 0 0 0-.33 1.82V9a1.65 1.65 0 0 0 1.51 1H21a2 2 0 1 1 0 4h-.09a1.65 1.65 0 0 0-1.51 1z"/></svg>Settings</a>
   </nav>
 </div></header>
 
@@ -40,13 +41,17 @@
   var units = data.units[key] || [];
   var total = lv.days;
   var vc = EE.visitedCount(key, total);
+  var pct = total ? Math.round(100 * vc.done / total) : 0;
+  var darkOnLight = key === 'a2'; /* yellow header needs dark text / dark ring */
   document.getElementById('levelHead').innerHTML =
-    '<div class="card accent" style="--level:' + lv.color + '">' +
+    '<section class="lesson-head" data-level="' + key + '" style="--level:' + lv.color + '">' +
     '<div class="top" style="display:flex;gap:16px;align-items:center">' +
-    '<span class="ring">' + EE.ring(vc.done, vc.total, lv.color, 84) + '</span>' +
-    '<div><h1 style="margin:0">' + lv.name + '</h1>' +
-    '<p class="muted">' + EE.esc(lv.note) + '<br>' + total + ' days · ' + units.length +
-    ' units · ' + vc.done + ' visited · ' + lv.status.replace('-', ' ') + '</p></div></div></div>';
+    '<span class="ring" style="color:' + (darkOnLight ? '#3D2314' : '#fff') + '">' + EE.ring(vc.done, vc.total, lv.color, 84) + '</span>' +
+    '<div><span class="pill level" data-level="' + key + '">' + lv.status.replace('-', ' ') + '</span>' +
+    '<h1 style="margin:.2em 0">' + lv.name + '</h1>' +
+    '<p style="color:' + (darkOnLight ? 'rgba(61,35,20,.85)' : 'rgba(255,255,255,.92)') + '">' + EE.esc(lv.note) + '<br>' + total + ' days · ' + units.length +
+    ' units · ' + vc.done + ' visited · ' + pct + '% done</p></div></div>' +
+    '<div class="progress" style="height:10px;border-radius:999px;background:' + (darkOnLight ? 'rgba(61,35,20,.18)' : 'rgba(255,255,255,.3)') + ';overflow:hidden;margin-top:14px"><i style="display:block;height:100%;width:' + pct + '%;background:' + (darkOnLight ? '#3D2314' : '#fff') + ';border-radius:999px"></i></div></section>';
 
   var list = document.getElementById('unitList');
   units.forEach(function (u) {
@@ -56,8 +61,8 @@
     var unitDays = to - from + 1;
     var card = document.createElement('section');
     card.className = 'card';
+    card.style.setProperty('--level', lv.color);
     var lessons = '';
-    /* Day list: real lesson titles where we have them. */
     var titles = {};
     if (data.unitLessons && data.unitLessons[key] && data.unitLessons[key][String(u.number)]) {
       data.unitLessons[key][String(u.number)].forEach(function (l) { titles[l.day] = l.title; });
@@ -68,12 +73,12 @@
       var v = EE.isVisited(key, day);
       var title = titles[day] || ('Day ' + day);
       lessons += '<a class="day-row' + (v ? ' done' : '') + '" href="day.html?level=' + key + '&day=' + day + '">' +
-        '<span class="n">' + (v ? '✓' : day) + '</span>' +
+        '<span class="n">' + (v ? EE.icon('check') : day) + '</span>' +
         '<span class="t"><strong>Day ' + day + '</strong> — ' + EE.esc(title) + '</span>' +
         '<span class="visited-dot' + (v ? ' done' : '') + '"><span class="dot"></span>' + (v ? 'Visited' : 'Not visited') + '</span></a>';
     }
     card.innerHTML =
-      '<div class="top" style="display:flex;gap:14px;align-items:center">' +
+      '<div class="unit-head" style="--level:' + lv.color + '">' +
       '<span class="ring">' + EE.ring(done, unitDays, lv.color, 56) + '</span>' +
       '<div><h2 style="margin:0">Unit ' + u.number + ' — ' + EE.esc(u.title) + '</h2>' +
       '<p class="muted" style="margin:2px 0">Days ' + from + '–' + to + ' · ' + done + ' of ' + unitDays + ' visited</p></div></div>' +

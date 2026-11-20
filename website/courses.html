@@ -5,6 +5,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Courses — Everyday English</title>
 <link rel="stylesheet" href="styles.css">
+<style>body{background:#FFF6E0;color:#3D2314;font-family:'Nunito',system-ui,sans-serif}img{max-width:100%}</style>
 <script src="data/data.js"></script>
 <script src="app.js"></script>
 </head>
@@ -12,22 +13,28 @@
 <header class="site"><div class="bar">
   <a class="logo" href="home.html"><img src="assets/logo-wordmark-1.webp" alt="Everyday English"></a>
   <nav class="main">
-    <a href="home.html">Today's News</a>
-    <a href="courses.html" class="active">Courses</a>
-    <a href="settings.html">Settings</a>
+    <a href="home.html"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 22h16"/><path d="M18 14h-8"/><path d="M18 18h-8"/><path d="M18 10h-8"/><path d="M10 6h8v4h-8zM4 10v6a2 2 0 0 0 2 2h2"/></svg>Today's News</a>
+    <a href="courses.html" class="active"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M2 3h6a4 4 0 0 1 4 4v14a3 3 0 0 0-3-3H2z"/><path d="M22 3h-6a4 4 0 0 0-4 4v14a3 3 0 0 1 3-3h7z"/></svg>Courses</a>
+    <a href="settings.html"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="3"/><path d="M19.4 15a1.65 1.65 0 0 0 .33 1.82l.06.06a2 2 0 1 1-2.83 2.83l-.06-.06a1.65 1.65 0 0 0-1.82-.33 1.65 1.65 0 0 0-1 1.51V21a2 2 0 1 1-4 0v-.09A1.65 1.65 0 0 0 9 19.4a1.65 1.65 0 0 0-1.82.33l-.06.06a2 2 0 1 1-2.83-2.83l.06-.06a1.65 1.65 0 0 0 .33-1.82 1.65 1.65 0 0 0-1.51-1H3a2 2 0 1 1 0-4h.09A1.65 1.65 0 0 0 4.6 9a1.65 1.65 0 0 0-.33-1.82l-.06-.06a2 2 0 1 1 2.83-2.83l.06.06a1.65 1.65 0 0 0 1.82.33H9a1.65 1.65 0 0 0 1-1.51V3a2 2 0 1 1 4 0v.09a1.65 1.65 0 0 0 1 1.51 1.65 1.65 0 0 0 1.82-.33l.06-.06a2 2 0 1 1 2.83 2.83l-.06.06a1.65 1.65 0 0 0-.33 1.82V9a1.65 1.65 0 0 0 1.51 1H21a2 2 0 1 1 0 4h-.09a1.65 1.65 0 0 0-1.51 1z"/></svg>Settings</a>
   </nav>
 </div></header>
 
 <div class="wrap">
-  <h1>Your courses</h1>
-  <p class="muted">Seven levels, rainbow in order — red, orange, yellow, green, blue, indigo, violet.
-  Foundation to B2 are open now. C1 and C2 come later. Each ring shows how much of the
-  level you have visited. Tap a level to see its units.</p>
+  <section class="hero" style="padding:28px 30px">
+    <span class="hero-badge"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M2 3h6a4 4 0 0 1 4 4v14a3 3 0 0 0-3-3H2z"/><path d="M22 3h-6a4 4 0 0 0-4 4v14a3 3 0 0 1 3-3h7z"/></svg>Your courses</span>
+    <h1>Pick a level. Learn a little every day.</h1>
+    <p>Seven levels, rainbow in order — red, orange, yellow, green, blue, indigo, violet.
+    Foundation to B2 are open now. C1 and C2 come later. Each ring shows how much of the
+    level you have visited. Tap a level to see its units.</p>
+  </section>
 
-  <div class="grid cols2" id="levelGrid"></div>
+  <div class="grid cols2" id="levelGrid" style="margin-top:18px"></div>
 
   <section class="card">
-    <h2>How a day works</h2>
+    <div class="section-head">
+      <span class="ic-tile"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg></span>
+      <h2>How a day works</h2>
+    </div>
     <p>One day = <strong>10 cards</strong> from the main course, then the supplements that use
     the <em>same</em> words: a phrasal verb, an idiom, a sentence pattern, flashcards,
     a joke — and writing once a week. They live on the same day page, not in a separate menu.</p>
@@ -49,19 +56,24 @@
     var units = (data.units[key] || []).length;
     var total = lv.days;
     var vc = EE.visitedCount(key, total);
+    var pct = total ? Math.round(100 * vc.done / total) : 0;
     var open = lv.status !== 'coming-soon';
     var a = document.createElement('a');
-    a.className = 'card accent level-card';
+    a.className = 'level-card' + (open ? '' : ' coming') + (key === 'foundation' ? ' featured' : '');
+    a.setAttribute('data-level', key);
     a.style.setProperty('--level', lv.color);
     a.href = open ? 'level.html?level=' + key : '#';
-    if (!open) { a.style.opacity = '.65'; a.onclick = function (e) { e.preventDefault(); }; }
+    if (!open) { a.onclick = function (e) { e.preventDefault(); }; }
     a.innerHTML =
-      '<div class="top"><span class="ring">' + EE.ring(vc.done, vc.total, lv.color, 72) + '</span>' +
-      '<div><h3>' + lv.name + '</h3>' +
-      '<span class="pill level" style="--level:' + lv.color + '">' + lv.status.replace('-', ' ') + '</span><br>' +
-      '<span class="small muted">' + total + ' days · ' + units + ' units · ' + vc.done + ' visited</span></div></div>' +
+      '<span class="big-icon">' + EE.icon('book') + '</span>' +
+      (key === 'foundation' ? '<span class="start-badge">' + EE.icon('star') + ' Start here — your first step</span>' : '') +
+      '<div class="top"><span class="ring">' + EE.ring(vc.done, vc.total, lv.color, 76) + '</span>' +
+      '<div class="body"><h3>' + lv.name + '</h3>' +
+      '<span class="pill level" data-level="' + key + '">' + lv.status.replace('-', ' ') + '</span><br>' +
+      '<span class="small">' + total + ' days · ' + units + ' units · ' + vc.done + ' visited</span></div></div>' +
+      '<div class="progress"><i style="width:' + pct + '%"></i></div>' +
       '<p>' + EE.esc(lv.note) + '</p>' +
-      (open ? '<p><strong>Open ' + lv.name + ' →</strong></p>' : '<p><strong>Coming later</strong></p>');
+      '<span class="go">' + (open ? 'Open ' + lv.name + ' ' + EE.icon('arrow') : 'Coming later') + '</span>';
     grid.appendChild(a);
   });
 })();

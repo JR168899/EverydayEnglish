@@ -5,6 +5,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Today's lesson — Everyday English</title>
 <link rel="stylesheet" href="styles.css">
+<style>body{background:#FFF6E0;color:#3D2314;font-family:'Nunito',system-ui,sans-serif}img{max-width:100%}</style>
 <script src="data/data.js"></script>
 <script src="app.js"></script>
 </head>
@@ -12,9 +13,9 @@
 <header class="site"><div class="bar">
   <a class="logo" href="home.html"><img src="assets/logo-wordmark-1.webp" alt="Everyday English"></a>
   <nav class="main">
-    <a href="home.html">Today's News</a>
-    <a href="courses.html" class="active">Courses</a>
-    <a href="settings.html">Settings</a>
+    <a href="home.html"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 22h16"/><path d="M18 14h-8"/><path d="M18 18h-8"/><path d="M18 10h-8"/><path d="M10 6h8v4h-8zM4 10v6a2 2 0 0 0 2 2h2"/></svg>Today's News</a>
+    <a href="courses.html" class="active"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M2 3h6a4 4 0 0 1 4 4v14a3 3 0 0 0-3-3H2z"/><path d="M22 3h-6a4 4 0 0 0-4 4v14a3 3 0 0 1 3-3h7z"/></svg>Courses</a>
+    <a href="settings.html"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="3"/><path d="M19.4 15a1.65 1.65 0 0 0 .33 1.82l.06.06a2 2 0 1 1-2.83 2.83l-.06-.06a1.65 1.65 0 0 0-1.82-.33 1.65 1.65 0 0 0-1 1.51V21a2 2 0 1 1-4 0v-.09A1.65 1.65 0 0 0 9 19.4a1.65 1.65 0 0 0-1.82.33l-.06.06a2 2 0 1 1-2.83-2.83l.06-.06a1.65 1.65 0 0 0 .33-1.82 1.65 1.65 0 0 0-1.51-1H3a2 2 0 1 1 0-4h.09A1.65 1.65 0 0 0 4.6 9a1.65 1.65 0 0 0-.33-1.82l-.06-.06a2 2 0 1 1 2.83-2.83l.06.06a1.65 1.65 0 0 0 1.82.33H9a1.65 1.65 0 0 0 1-1.51V3a2 2 0 1 1 4 0v.09a1.65 1.65 0 0 0 1 1.51 1.65 1.65 0 0 0 1.82-.33l.06-.06a2 2 0 1 1 2.83 2.83l-.06.06a1.65 1.65 0 0 0-.33 1.82V9a1.65 1.65 0 0 0 1.51 1H21a2 2 0 1 1 0 4h-.09a1.65 1.65 0 0 0-1.51 1z"/></svg>Settings</a>
   </nav>
 </div></header>
 
@@ -24,14 +25,17 @@
 
   <!-- Supplements: tabs on the SAME day page, not a separate menu (CI) -->
   <section class="card">
-    <h2>Today's extras — same words, more practice</h2>
+    <div class="section-head">
+      <span class="ic-tile"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></svg></span>
+      <h2>Today's extras — same words, more practice</h2>
+    </div>
     <p class="muted">These follow today's lesson. They are steps on this page, not a separate course.</p>
-    <div class="tabs" id="tabs"></div>
+    <div class="tabs" id="tabs" style="--level:#F68A1E"></div>
     <div id="panes"></div>
   </section>
 
-  <p><button class="btn" id="doneBtn">✓ Mark this day visited</button>
-  <a class="btn ghost" id="nextBtn" href="#">Next day →</a></p>
+  <p><button class="btn" id="doneBtn">Mark this day visited</button>
+  <a class="btn ghost" id="nextBtn" href="#">Next day <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="5" y1="12" x2="19" y2="12"/><polyline points="12 5 19 12 12 19"/></svg></a></p>
 </div>
 
 <footer class="site"><p class="small muted">Everyday English · everydayenglish.app</p></footer>
@@ -47,6 +51,7 @@
   if (!lv) { box.innerHTML = '<h1>Lesson not found</h1>'; return; }
   document.title = lv.name + ' Day ' + day + ' — Everyday English';
   document.documentElement.style.setProperty('--level', lv.color);
+  document.getElementById('tabs').style.setProperty('--level', lv.color);
 
   /* ---- lesson title (real data) ---- */
   var title = 'Day ' + day, goal = '';
@@ -59,16 +64,17 @@
     });
   }
 
-  var html = '<p><a href="level.html?level=' + level + '">← ' + lv.name + '</a> ' +
-    '<span class="pill level" style="--level:' + lv.color + '">' + lv.name + ' · Day ' + day + '</span></p>' +
-    '<h1>' + EE.esc(title) + '</h1>';
+  var html = '<section class="lesson-head" data-level="' + level + '" style="--level:' + lv.color + '">' +
+    '<p style="margin:0"><a href="level.html?level=' + level + '" style="color:inherit">← ' + lv.name + '</a> ' +
+    '<span class="pill level" data-level="' + level + '">' + lv.name + ' · Day ' + day + '</span></p>' +
+    '<h1>' + EE.esc(title) + '</h1></section>';
 
   /* ---- main lesson: full data where we have it ---- */
   if (level === 'a1' && day === 1 && data.a1Day1) {
     html += '<p class="muted">' + EE.esc(data.a1Day1.goal || '') + '</p>';
-    html += '<h2>Today\'s 10 cards</h2>';
+    html += '<div class="section-head"><span class="ic-tile"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polygon points="12 2 2 7 12 12 22 7 12 2"/><polyline points="2 17 12 22 22 17"/><polyline points="2 12 12 17 22 12"/></svg></span><h2>Today\'s 10 cards</h2></div>';
     data.a1Day1.cards.forEach(function (c) {
-      html += '<div class="flashcard"><div class="word">' + c.number + '. ' + EE.esc(c.title) + '</div>' +
+      html += '<div class="flashcard" style="--level:' + lv.color + '"><div class="word"><span class="num-badge" style="background:' + lv.color + '">' + c.number + '</span>' + EE.esc(c.title) + '</div>' +
         (c.pronunciation ? '<p><strong>' + EE.esc(c.pronunciation) + '</strong></p>' : '') +
         (c.meaning ? '<p>' + EE.esc(c.meaning) + '</p>' : '') +
         (c.context ? '<p><em>' + EE.esc(c.context) + '</em></p>' : '') +
@@ -78,18 +84,18 @@
   } else if (level === 'a2' && day === 1 && data.a2Day1) {
     var L = data.a2Day1;
     html += '<p class="muted">' + EE.esc(L.goal || '') + '</p>';
-    html += '<p><strong>Expression:</strong> ' + EE.esc(L.expression || '') + ' — ' + EE.esc(L.use || '') + '</p>';
-    html += '<p><strong>Grammar:</strong> ' + EE.esc(L.grammar || '') + '. ' + EE.esc(L.pattern || '') + '</p>';
-    html += '<h2>New words today</h2>';
+    html += '<div class="grammar-block" style="--level:' + lv.color + '"><p><strong>Expression:</strong> ' + EE.esc(L.expression || '') + ' — ' + EE.esc(L.use || '') + '</p>' +
+      '<p><strong>Grammar:</strong> ' + EE.esc(L.grammar || '') + '. ' + EE.esc(L.pattern || '') + '</p></div>';
+    html += '<div class="section-head"><span class="ic-tile">' + EE.icon('book') + '</span><h2>New words today</h2></div>';
     (L.newItems || []).forEach(function (w) {
-      html += '<div class="flashcard"><div class="word">' + EE.esc(w.word) + '</div>' +
+      html += '<div class="flashcard" style="--level:' + lv.color + '"><div class="word">' + EE.esc(w.word) + '</div>' +
         '<p class="ipa">' + EE.esc(w.ipa || '') + ' · ' + EE.esc(w.pos || '') + '</p>' +
         '<p>' + EE.esc(w.definition || '') + '</p><p><em>' + EE.esc(w.example || '') + '</em></p></div>';
     });
-    html += '<h2>Dialogue</h2><p>' + (L.dialogue || []).map(EE.esc).join('<br>') + '</p>';
-    html += '<h2>Reading</h2><p>' + EE.esc(L.reading || '') + '</p>';
-    html += '<p><strong>Check:</strong> ' + EE.esc(L.readingQ || '') + '<br><span class="muted">' + EE.esc(L.readingA || '') + '</span></p>';
-    html += '<h2>Your turn</h2><p>' + EE.esc(L.speaking || '') + '</p>';
+    html += '<div class="section-head"><span class="ic-tile">' + EE.icon('chat') + '</span><h2>Dialogue</h2></div><div class="card flat"><p>' + (L.dialogue || []).map(EE.esc).join('<br>') + '</p></div>';
+    html += '<div class="section-head"><span class="ic-tile">' + EE.icon('book') + '</span><h2>Reading</h2></div><div class="card flat"><p>' + EE.esc(L.reading || '') + '</p></div>';
+    html += '<div class="grammar-block" style="--level:' + lv.color + '"><p><strong>Check:</strong> ' + EE.esc(L.readingQ || '') + '<br><span class="muted">' + EE.esc(L.readingA || '') + '</span></p></div>';
+    html += '<div class="section-head"><span class="ic-tile">' + EE.icon('users') + '</span><h2>Your turn</h2></div><p>' + EE.esc(L.speaking || '') + '</p>';
     html += '<p><strong>Writing:</strong> ' + EE.esc(L.writing || '') + '</p>';
   } else {
     html += '<div class="notice"><strong>Full cards for this day are not in this preview yet.</strong> ' +
@@ -103,27 +109,27 @@
   /* ---- supplements (real A1 sample items) ---- */
   var S = data.supplementsA1;
   var tabs = [
-    { id: 'phrasal', label: 'Phrasal verb', body:
-      '<div class="flashcard"><div class="word">' + EE.esc(S.phrasalVerbs.entry) + '</div>' +
+    { id: 'phrasal', label: 'Phrasal verb', icon: 'chat', body:
+      '<div class="flashcard" style="--level:' + lv.color + '"><div class="word">' + EE.esc(S.phrasalVerbs.entry) + '</div>' +
       '<p>' + EE.esc(S.phrasalVerbs.definition) + '</p><p><em>' + EE.esc(S.phrasalVerbs.example) + '</em></p>' +
       '<p class="small muted">Try it: ' + (S.phrasalVerbs.conversation || []).map(function (x) { return EE.esc(x.speaker + ': ' + x.line); }).join('<br>') + '</p></div>' },
-    { id: 'idiom', label: 'Idiom', body:
-      '<div class="flashcard"><div class="word">' + EE.esc(S.idioms.entry) + '</div>' +
+    { id: 'idiom', label: 'Idiom', icon: 'spark', body:
+      '<div class="flashcard" style="--level:' + lv.color + '"><div class="word">' + EE.esc(S.idioms.entry) + '</div>' +
       '<p>' + EE.esc(S.idioms.definition) + '</p><p><em>' + EE.esc(S.idioms.example) + '</em></p></div>' },
-    { id: 'pattern', label: 'Sentence pattern', body:
-      '<div class="flashcard"><div class="word">' + EE.esc(S.sentencePatterns.pattern) + '</div>' +
+    { id: 'pattern', label: 'Sentence pattern', icon: 'pen', body:
+      '<div class="flashcard" style="--level:' + lv.color + '"><div class="word">' + EE.esc(S.sentencePatterns.pattern) + '</div>' +
       '<p>' + EE.esc(S.sentencePatterns.explanation) + '</p>' +
       (S.sentencePatterns.examples || []).map(function (e) { return '<p><em>' + EE.esc(e.sentence) + '</em> <span class="muted">— ' + EE.esc(e.situation) + '</span></p>'; }).join('') + '</div>' },
-    { id: 'flash', label: 'Flashcard', body:
-      '<div class="flashcard"><div class="word">' + EE.esc(S.flashcards.word) + '</div>' +
+    { id: 'flash', label: 'Flashcard', icon: 'layers', body:
+      '<div class="flashcard" style="--level:' + lv.color + '"><div class="word">' + EE.esc(S.flashcards.word) + '</div>' +
       '<p class="ipa">' + EE.esc(S.flashcards.ipa || '') + ' · ' + EE.esc(S.flashcards.partOfSpeech || '') + '</p>' +
       '<p>' + EE.esc(S.flashcards.definition) + '</p><p><em>' + EE.esc(S.flashcards.example) + '</em></p></div>' },
-    { id: 'joke', label: 'Joke', body:
-      '<div class="flashcard"><div class="word">' + EE.esc(S.jokes.joke) + '</div>' +
+    { id: 'joke', label: 'Joke', icon: 'smile', body:
+      '<div class="flashcard" style="--level:' + lv.color + '"><div class="word">' + EE.esc(S.jokes.joke) + '</div>' +
       '<p>' + EE.esc(S.jokes.whyFunny) + '</p>' +
       '<p><strong>Key words:</strong> ' + (S.jokes.keyWords || []).map(function (k) { return EE.esc(k.word) + ' — ' + EE.esc(k.explanation); }).join('; ') + '</p></div>' },
-    { id: 'writing', label: 'Writing · weekly', body:
-      '<div class="flashcard"><div class="word">' + EE.esc(S.writing.topic) + ' (' + S.writing.wordCount + ' words)</div>' +
+    { id: 'writing', label: 'Writing · weekly', icon: 'pen', body:
+      '<div class="flashcard" style="--level:' + lv.color + '"><div class="word">' + EE.esc(S.writing.topic) + ' (' + S.writing.wordCount + ' words)</div>' +
       '<p><strong>Your task:</strong> ' + EE.esc(S.writing.task) + '</p>' +
       '<p><strong>Model text:</strong><br>' + EE.esc(S.writing.modelText) + '</p>' +
       '<p><strong>Patterns to reuse:</strong> ' + (S.writing.patterns || []).map(EE.esc).join(' · ') + '</p>' +
@@ -133,7 +139,7 @@
   tabs.forEach(function (t, i) {
     var b = document.createElement('button');
     b.className = 'tab' + (i === 0 ? ' active' : '');
-    b.textContent = t.label;
+    b.innerHTML = EE.icon(t.icon) + EE.esc(t.label);
     b.onclick = function () {
       tabsEl.querySelectorAll('.tab').forEach(function (x) { x.classList.remove('active'); });
       panesEl.querySelectorAll('.tabpane').forEach(function (x) { x.classList.remove('active'); });
@@ -152,7 +158,7 @@
   var doneBtn = document.getElementById('doneBtn');
   function refreshDone() {
     var v = EE.isVisited(level, day);
-    doneBtn.textContent = v ? '✓ Visited — tap to undo' : '✓ Mark this day visited';
+    doneBtn.innerHTML = EE.icon('check') + (v ? 'Visited — tap to undo' : 'Mark this day visited');
   }
   doneBtn.onclick = function () {
     if (EE.isVisited(level, day)) EE.unmarkVisited(level, day);
