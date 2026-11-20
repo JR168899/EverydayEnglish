@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Level — Everyday English</title>
+<link rel="stylesheet" href="styles.css">
+<script src="data/data.js"></script>
+<script src="app.js"></script>
+</head>
+<body>
+<header class="site"><div class="bar">
+  <a class="logo" href="home.html"><img src="assets/logo-wordmark-1.webp" alt="Everyday English"></a>
+  <nav class="main">
+    <a href="home.html">Today's News</a>
+    <a href="courses.html" class="active">Courses</a>
+    <a href="settings.html">Settings</a>
+  </nav>
+</div></header>
+
+<div class="wrap" id="page">
+  <p><a href="courses.html">← All courses</a></p>
+  <div id="levelHead"></div>
+  <div id="unitList"></div>
+</div>
+
+<footer class="site"><p class="small muted">Everyday English · everydayenglish.app</p></footer>
+
+<script>
+(function () {
+  var params = new URLSearchParams(location.search);
+  var key = params.get('level') || 'a1';
+  var data = window.EE_DATA;
+  var lv = data.levels[key];
+  var page = document.getElementById('page');
+  if (!lv) { page.innerHTML = '<h1>Level not found</h1><p><a href="courses.html">Back to courses</a></p>'; return; }
+  document.title = lv.name + ' — Everyday English';
+  document.documentElement.style.setProperty('--level', lv.color);
+
+  var units = data.units[key] || [];
+  var total = lv.days;
+  var vc = EE.visitedCount(key, total);
+  document.getElementById('levelHead').innerHTML =
+    '<div class="card accent" style="--level:' + lv.color + '">' +
+    '<div class="top" style="display:flex;gap:16px;align-items:center">' +
+    '<span class="ring">' + EE.ring(vc.done, vc.total, lv.color, 84) + '</span>' +
+    '<div><h1 style="margin:0">' + lv.name + '</h1>' +
+    '<p class="muted">' + EE.esc(lv.note) + '<br>' + total + ' days · ' + units.length +
+    ' units · ' + vc.done + ' visited · ' + lv.status.replace('-', ' ') + '</p></div></div></div>';
+
+  var list = document.getElementById('unitList');
+  units.forEach(function (u) {
+    var from = u.days[0], to = u.days[1];
+    var done = 0;
+    for (var d = from; d <= to; d++) if (EE.isVisited(key, d)) done++;
+    var unitDays = to - from + 1;
+    var card = document.createElement('section');
+    card.className = 'card';
+    var lessons = '';
+    /* Day list: real lesson titles where we have them. */
+    var titles = {};
+    if (data.unitLessons && data.unitLessons[key] && data.unitLessons[key][String(u.number)]) {
+      data.unitLessons[key][String(u.number)].forEach(function (l) { titles[l.day] = l.title; });
+    } else if (key === 'a1' && data.a1Lessons) {
+      data.a1Lessons.forEach(function (l) { if (l.day >= from && l.day <= to) titles[l.day] = l.title; });
+    }
+    for (var day = from; day <= to; day++) {
+      var v = EE.isVisited(key, day);
+      var title = titles[day] || ('Day ' + day);
+      lessons += '<a class="day-row' + (v ? ' done' : '') + '" href="day.html?level=' + key + '&day=' + day + '">' +
+        '<span class="n">' + (v ? '✓' : day) + '</span>' +
+        '<span class="t"><strong>Day ' + day + '</strong> — ' + EE.esc(title) + '</span>' +
+        '<span class="visited-dot' + (v ? ' done' : '') + '"><span class="dot"></span>' + (v ? 'Visited' : 'Not visited') + '</span></a>';
+    }
+    card.innerHTML =
+      '<div class="top" style="display:flex;gap:14px;align-items:center">' +
+      '<span class="ring">' + EE.ring(done, unitDays, lv.color, 56) + '</span>' +
+      '<div><h2 style="margin:0">Unit ' + u.number + ' — ' + EE.esc(u.title) + '</h2>' +
+      '<p class="muted" style="margin:2px 0">Days ' + from + '–' + to + ' · ' + done + ' of ' + unitDays + ' visited</p></div></div>' +
+      '<div>' + lessons + '</div>';
+    list.appendChild(card);
+  });
+})();
+</script>
+</body>
+</html>

@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Courses — Everyday English</title>
+<link rel="stylesheet" href="styles.css">
+<script src="data/data.js"></script>
+<script src="app.js"></script>
+</head>
+<body>
+<header class="site"><div class="bar">
+  <a class="logo" href="home.html"><img src="assets/logo-wordmark-1.webp" alt="Everyday English"></a>
+  <nav class="main">
+    <a href="home.html">Today's News</a>
+    <a href="courses.html" class="active">Courses</a>
+    <a href="settings.html">Settings</a>
+  </nav>
+</div></header>
+
+<div class="wrap">
+  <h1>Your courses</h1>
+  <p class="muted">Seven levels, rainbow in order — red, orange, yellow, green, blue, indigo, violet.
+  Foundation to B2 are open now. C1 and C2 come later. Each ring shows how much of the
+  level you have visited. Tap a level to see its units.</p>
+
+  <div class="grid cols2" id="levelGrid"></div>
+
+  <section class="card">
+    <h2>How a day works</h2>
+    <p>One day = <strong>10 cards</strong> from the main course, then the supplements that use
+    the <em>same</em> words: a phrasal verb, an idiom, a sentence pattern, flashcards,
+    a joke — and writing once a week. They live on the same day page, not in a separate menu.</p>
+    <p class="small muted">Course data comes from the real course files in the EverydayEnglish repo:
+    A2 has 30 units, B1 has 26, B2 has 20. Foundation (60 days) and A1 (180 days) are
+    complete; their lessons are listed from their course files.</p>
+  </section>
+</div>
+
+<footer class="site"><p class="small muted">Everyday English · everydayenglish.app</p></footer>
+
+<script>
+(function () {
+  var data = window.EE_DATA;
+  var order = ['foundation','a1','a2','b1','b2','c1','c2'];
+  var grid = document.getElementById('levelGrid');
+  order.forEach(function (key) {
+    var lv = data.levels[key];
+    var units = (data.units[key] || []).length;
+    var total = lv.days;
+    var vc = EE.visitedCount(key, total);
+    var open = lv.status !== 'coming-soon';
+    var a = document.createElement('a');
+    a.className = 'card accent level-card';
+    a.style.setProperty('--level', lv.color);
+    a.href = open ? 'level.html?level=' + key : '#';
+    if (!open) { a.style.opacity = '.65'; a.onclick = function (e) { e.preventDefault(); }; }
+    a.innerHTML =
+      '<div class="top"><span class="ring">' + EE.ring(vc.done, vc.total, lv.color, 72) + '</span>' +
+      '<div><h3>' + lv.name + '</h3>' +
+      '<span class="pill level" style="--level:' + lv.color + '">' + lv.status.replace('-', ' ') + '</span><br>' +
+      '<span class="small muted">' + total + ' days · ' + units + ' units · ' + vc.done + ' visited</span></div></div>' +
+      '<p>' + EE.esc(lv.note) + '</p>' +
+      (open ? '<p><strong>Open ' + lv.name + ' →</strong></p>' : '<p><strong>Coming later</strong></p>');
+    grid.appendChild(a);
+  });
+})();
+</script>
+</body>
+</html>

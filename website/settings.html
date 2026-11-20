@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Settings — Everyday English</title>
+<link rel="stylesheet" href="styles.css">
+<script src="data/data.js"></script>
+<script src="app.js"></script>
+</head>
+<body>
+<header class="site"><div class="bar">
+  <a class="logo" href="home.html"><img src="assets/logo-wordmark-1.webp" alt="Everyday English"></a>
+  <nav class="main">
+    <a href="home.html">Today's News</a>
+    <a href="courses.html">Courses</a>
+    <a href="settings.html" class="active">Settings</a>
+  </nav>
+</div></header>
+
+<div class="wrap narrow">
+  <h1>Settings</h1>
+
+  <section class="card">
+    <h2>Colour theme</h2>
+    <p class="muted">Pick the colours you like. You can change this any time. We never ask
+    for your gender — only which theme you like.</p>
+    <div class="theme-pick" id="themePick">
+      <button class="theme-swatch" data-theme="default">
+        <span class="dots"><i style="background:#FFF6E0;border:1px solid #ddd"></i><i style="background:#F68A1E"></i><i style="background:#7A2A1A"></i></span>
+        Warm cream<br><span class="small muted">Default · warm orange + brown</span>
+      </button>
+      <button class="theme-swatch" data-theme="male">
+        <span class="dots"><i style="background:#1E3A5F"></i><i style="background:#0F766E"></i><i style="background:#F68A1E"></i></span>
+        Navy &amp; teal<br><span class="small muted">Deep navy + teal + warm orange</span>
+      </button>
+      <button class="theme-swatch" data-theme="female">
+        <span class="dots"><i style="background:#F9A8D4"></i><i style="background:#C4B5FD"></i><i style="background:#FFF6E0;border:1px solid #ddd"></i></span>
+        Pink &amp; lavender<br><span class="small muted">Soft pink + lavender + cream</span>
+      </button>
+    </div>
+    <p class="small" id="themeNote"></p>
+  </section>
+
+  <section class="card">
+    <h2>Your account</h2>
+    <div class="notice"><strong>Placeholder — no backend yet.</strong> Sign-in with Google
+    and Apple, and saving progress to the cloud, need Firebase Auth + Firestore.
+    No credentials exist in this build. In this preview your progress is stored
+    only in this browser, and the demo sign-in on the landing page creates no account.</div>
+    <p id="accountLine" class="muted">Not signed in (demo preview).</p>
+    <p><button class="btn ghost small" id="resetBtn">Clear my local progress</button></p>
+  </section>
+
+  <section class="card">
+    <h2>Daily goal &amp; reminder</h2>
+    <label for="goalMinutes">Daily goal</label>
+    <select id="goalMinutes">
+      <option value="10">10 minutes</option>
+      <option value="20">20 minutes</option>
+      <option value="30">30 minutes</option>
+    </select>
+    <label for="reminderTime">Remind me at</label>
+    <input type="time" id="reminderTime" value="09:00">
+    <p><button class="btn small" id="saveBtn">Save</button> <span id="savedNote" class="small muted"></span></p>
+  </section>
+
+  <section class="card">
+    <h2>Plan</h2>
+    <p><strong>Free</strong> — everything is free at launch.</p>
+    <p class="small muted">Your account already carries a paid-entitlement flag
+    (<code>paidEntitlement: false</code>), so if charging is added later, no rebuild
+    is needed. Ads: Google AdSense only after enough content and traffic, and
+    never inside a lesson. Before earning any ad income, check with your school's
+    international student office (F-1).</p>
+  </section>
+</div>
+
+<footer class="site"><p class="small muted">Everyday English · everydayenglish.app</p></footer>
+
+<script>
+(function () {
+  var pick = document.getElementById('themePick');
+  function refresh() {
+    var cur = EE.theme();
+    pick.querySelectorAll('.theme-swatch').forEach(function (b) {
+      b.classList.toggle('on', b.dataset.theme === cur);
+    });
+    document.getElementById('themeNote').textContent = 'Current theme: ' + cur + '.';
+  }
+  pick.querySelectorAll('.theme-swatch').forEach(function (b) {
+    b.onclick = function () { EE.setTheme(b.dataset.theme); refresh(); };
+  });
+  refresh();
+
+  var p = EE.progress();
+  if (p.provider) document.getElementById('accountLine').textContent =
+    'Demo learner — ' + p.provider + '. Level: ' + (p.level || '—') + '.';
+  if (p.goalMinutes) document.getElementById('goalMinutes').value = String(p.goalMinutes);
+  if (p.reminderTime) document.getElementById('reminderTime').value = p.reminderTime;
+  document.getElementById('saveBtn').onclick = function () {
+    var q = EE.progress();
+    q.goalMinutes = Number(document.getElementById('goalMinutes').value);
+    q.reminderTime = document.getElementById('reminderTime').value;
+    EE.saveProgress(q);
+    document.getElementById('savedNote').textContent = 'Saved (in this browser for now).';
+  };
+  document.getElementById('resetBtn').onclick = function () {
+    if (confirm('Clear all local progress in this browser?')) {
+      localStorage.removeItem('ee-progress-v1');
+      location.reload();
+    }
+  };
+})();
+</script>
+</body>
+</html>
