@@ -1,0 +1,905 @@
+{
+  "number": 1,
+  "title": "Precision, nuance and tone at work",
+  "lessons": [
+    {
+      "unit": 1,
+      "day": 1,
+      "title": "Say exactly what you mean",
+      "goal": "I can say exactly what I mean at work.",
+      "newItems": [
+        {
+          "category": "new_word",
+          "definition": "The quality of being small and hard to notice.",
+          "example": "The subtlety of his answer surprised everyone.",
+          "ipa": "/ˈsʌtəlti/",
+          "pos": "noun",
+          "status": "new",
+          "word": "subtlety"
+        },
+        {
+          "category": "new_word",
+          "definition": "The state of having more than one possible meaning.",
+          "example": "The ambiguity in the contract caused a long argument.",
+          "ipa": "/ˌæmbəˈɡjuəti/",
+          "pos": "noun",
+          "status": "new",
+          "word": "ambiguity"
+        },
+        {
+          "category": "new_word",
+          "definition": "The quality of being exact and correct.",
+          "example": "The report shows great precision in its numbers.",
+          "ipa": "/prəˈsɪʒən/",
+          "pos": "noun",
+          "status": "new",
+          "word": "precision"
+        },
+        {
+          "category": "fixed_phrase",
+          "definition": "Used to say something in a weaker way than the truth.",
+          "example": "To put it mildly, the meeting did not go well.",
+          "ipa": "/tə pʊt ɪt ˈmaɪldli/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "to put it mildly"
+        },
+        {
+          "word": "in no uncertain terms",
+          "ipa": "/ɪn noʊ ʌnˈsɝtən tɝmz/",
+          "pos": "fixed phrase",
+          "definition": "Very clearly, leaving no doubt.",
+          "example": "She told him in no uncertain terms that the deadline would not move.",
+          "category": "fixed_phrase",
+          "status": "new"
+        }
+      ],
+      "reviewWords": [
+        "job",
+        "team",
+        "meeting",
+        "office",
+        "help"
+      ],
+      "mainWord": {
+        "category": "new_word",
+        "definition": "The quality of being small and hard to notice.",
+        "example": "The subtlety of his answer surprised everyone.",
+        "ipa": "/ˈsʌtəlti/",
+        "pos": "noun",
+        "status": "new",
+        "word": "subtlety"
+      },
+      "mainWordForms": "Subtlety is a noun. Subtlety is the quality of being small and hard to notice. The subtlety of his answer surprised everyone.",
+      "pronunciationTarget": {
+        "word": "subtlety",
+        "ipa": "/ˈsʌtəlti/"
+      },
+      "expression": "To put it mildly, the plan needs more work.",
+      "use": "Use this when you want to criticize something gently, without sounding harsh.",
+      "expressionTask": "Elena reads the first plan for the new project. What does she say about it?",
+      "grammar": "Hedging with might well",
+      "pattern": "might well + verb",
+      "task": "The plan ___ fail without more time.",
+      "answer": "might well",
+      "example": "The plan might well fail without more time.",
+      "context": [
+        "Elena reads the first plan for the new project. She wants to tell Marcus the truth without upsetting him.",
+        "To put it mildly, the plan needs more work."
+      ],
+      "dialogue": [
+        "Good morning, Marcus. I read your plan for the new project last night.",
+        "Good morning, Elena. What did you think of it? Please tell me the truth.",
+        "To put it mildly, the plan needs more work. The budget part is not clear.",
+        "I see. Which part is unclear? The costs, or the dates?",
+        "The costs. The numbers change from page to page, and the total is hard to find.",
+        "Thank you. I will fix the numbers and send you a new plan today."
+      ],
+      "listening": "On Monday morning, Elena meets Marcus in the office. Marcus has written a plan for a new project, and Elena has read it. She wants to help him, but the plan has problems. The budget part is not clear, and the dates do not match. Elena speaks in a kind and careful way. She says the plan needs more work, and she explains what is wrong. Marcus thanks her and promises a new plan today.",
+      "question": "What does Elena say about the budget part of the plan?",
+      "correct": "It is not clear",
+      "other": "It is too long",
+      "reading": "Elena is a communications director at a large firm. Her job is to help people write and speak with precision. On Monday, she reads a plan from Marcus, a new manager. The plan is long, but its meaning is not clear. There is ambiguity in the budget part: the numbers on page two do not match the numbers on page five, and nobody can tell which total is right. The subtlety of the problem is easy to miss. At first, the plan looks fine. The words are polite, and the dates look right. But Elena sees the danger. If the team follows these numbers, the project will run out of money in June. She calls Marcus to her office. She does not want to upset him, so she starts with kind words. Then, to put it mildly, the plan needs more work. She shows him the two different totals and asks him to fix them. She tells him in no uncertain terms that the deadline will not move, but she offers to help him finish on time.",
+      "readingQ": "Why does Elena say the plan needs more work?",
+      "readingA": "Because the budget numbers do not match, and the project would run out of money in June.",
+      "speaking": "Tell a colleague about a time when unclear words caused a problem at work. What was unclear? What happened? What would you change?",
+      "speakingSample": "Last year, I worked on a report with a colleague. The report gave two different dates for the same meeting, and nobody knew which date was right. To put it mildly, the report caused a lot of trouble. Half the team came on Tuesday, and the other half came on Wednesday. Our manager was not happy. She told us in no uncertain terms that we must check every date before we send a report. Now I always read my work twice before I send it.",
+      "writing": "Write a short email to a colleague. Ask them to make one part of a report clearer. Say what is unclear and what you need.",
+      "writingSample": "Dear Marcus, Thank you for sending the plan for the new project. I read it last night, and I have one question about the budget part. The numbers on page two do not match the numbers on page five. To put it mildly, the two totals are hard to follow. Could you check them and send me the right total today? The deadline will not move, so I want to fix this now, not next week. Please tell me if you need help with the numbers. I am happy to look at them with you this afternoon. Thank you for your hard work. Best wishes, Elena",
+      "sound": "Subtlety has its strongest beat on SUB. In subtlety, say TLE clearly at the end. In ambiguity, say BIG clearly in the middle.",
+      "model": "Her reply showed great subtlety in every word.",
+      "wordTask": "What is Elena's job at the firm?",
+      "wordSample": "Elena is a communications director at a large firm."
+    },
+    {
+      "unit": 1,
+      "day": 2,
+      "title": "When words are too vague",
+      "goal": "I can describe vague language and ask for clear words.",
+      "newItems": [
+        {
+          "category": "new_word",
+          "definition": "Polite and kind in behavior.",
+          "example": "She wrote a courteous reply to the angry customer.",
+          "ipa": "/ˈkɝtiəs/",
+          "pos": "adjective",
+          "status": "new",
+          "word": "courteous"
+        },
+        {
+          "category": "new_word",
+          "definition": "Using more words than are needed.",
+          "example": "His verbose report took an hour to read.",
+          "ipa": "/vɝˈboʊs/",
+          "pos": "adjective",
+          "status": "new",
+          "word": "verbose"
+        },
+        {
+          "category": "fixed_phrase",
+          "definition": "Used to say something in a general, not exact, way.",
+          "example": "Loosely speaking, they are the same problem.",
+          "ipa": "/ˈlusli ˈspikɪŋ/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "loosely speaking"
+        },
+        {
+          "category": "fixed_phrase",
+          "definition": "In the most exact meaning of the words.",
+          "example": "In the strictest sense, he is not the boss.",
+          "ipa": "/ɪn ðə ˈstrɪktəst sɛns/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "in the strictest sense"
+        },
+        {
+          "category": "fixed_phrase",
+          "definition": "As something first appears to be.",
+          "example": "Do not judge a promise at face value.",
+          "ipa": "/æt feɪs ˈvælju/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "at face value"
+        }
+      ],
+      "reviewWords": [
+        "email",
+        "report",
+        "plan",
+        "time",
+        "book"
+      ],
+      "mainWord": {
+        "category": "new_word",
+        "definition": "Polite and kind in behavior.",
+        "example": "She wrote a courteous reply to the angry customer.",
+        "ipa": "/ˈkɝtiəs/",
+        "pos": "adjective",
+        "status": "new",
+        "word": "courteous"
+      },
+      "mainWordForms": "Courteous is an adjective. Courteous means polite and kind in behavior. She wrote a courteous reply to the angry customer.",
+      "pronunciationTarget": {
+        "word": "courteous",
+        "ipa": "/ˈkɝtiəs/"
+      },
+      "expression": "Loosely speaking, the two reports say the same thing.",
+      "use": "Use this when you describe something in a general way, not an exact way.",
+      "expressionTask": "Ana reads two long reports about the same project. What does she say about them?",
+      "grammar": "Inversion in conditionals with had",
+      "pattern": "Had + subject + past participle",
+      "task": "___ I known the price, I would have waited.",
+      "answer": "Had",
+      "example": "Had I known the price, I would have waited.",
+      "context": [
+        "Ana reads two long reports about the same project. The reports are long and hard to follow.",
+        "Loosely speaking, the two reports say the same thing."
+      ],
+      "dialogue": [
+        "Ana, did you read the two reports about the new shop?",
+        "Yes, I did. They are both very long, and they use too many words.",
+        "Loosely speaking, the two reports say the same thing.",
+        "That is true. But the first report is polite, and the second one is not.",
+        "The second writer should learn from the first. A kind reply helps everyone.",
+        "I agree. I will ask him to write shorter reports from now on."
+      ],
+      "listening": "On Tuesday, Ana reads two reports about a new shop. Both reports are long, and both use too many words. Ana finds it hard to follow them. In the strictest sense, the reports are not wrong. The facts are right, but the words are too many. Ana writes a short note to the writers. She asks them to use fewer words and shorter sentences. She says a short report is easier to read and saves time for the team.",
+      "question": "What does Ana ask the writers to do?",
+      "correct": "To use fewer words and shorter sentences",
+      "other": "To write longer reports",
+      "reading": "Ana works in the office of a large shop. Her job is to read reports and write short notes about them. On Tuesday, she reads two reports about a new shop. Both reports are verbose: they use far too many words to say simple things. Ana reads them twice, and she still feels tired. In the strictest sense, the reports are not wrong. The facts are right, and the numbers are right. But the writing is hard to follow, and nobody has time to read forty pages. Ana decides to write a courteous note to the two writers. She thanks them for their hard work, and she asks them to use fewer words. Loosely speaking, the two reports say the same thing, so one short report would be enough. She also warns them not to judge a promise at face value. A short note can look simple, but the work behind it is real, and the team needs clear words, not long ones.",
+      "readingQ": "Why does Ana ask the writers to use fewer words?",
+      "readingA": "Because the reports are too long and hard to follow, and nobody has time to read forty pages.",
+      "speaking": "Tell a colleague about a report that was too long. What was in it? Why was it hard to read? What would you change?",
+      "speakingSample": "Last month, I read a report about our new shop. The report was forty pages long, and it used too many words to say simple things. Loosely speaking, it said the shop was doing well, but I could not find the real numbers. I read it twice, and I still felt tired. In the strictest sense, the report was not wrong, but it was hard to follow. I wrote a short note to the writer and asked for a shorter version with clear numbers.",
+      "writing": "Write a short email to a writer. Thank them for a report and ask for a shorter version. Say what you need.",
+      "writingSample": "Dear Tom, Thank you for your report about the new shop. I read it yesterday, and the facts are right. In the strictest sense, the report is not wrong. But the report is forty pages long, and it uses too many words to say simple things. Loosely speaking, it says the shop is doing well, but I could not find the real numbers in it. Could you send me a shorter version, about five pages, with the numbers on the first page? A short report is easier to read, and it will save time for the whole team. Thank you for your hard work. Best wishes, Ana",
+      "sound": "Courteous has its strongest beat on KURT. In courteous, say TE clearly in the middle. In verbose, say BOS clearly at the end.",
+      "model": "His courteous reply calmed the angry client.",
+      "wordTask": "What does Ana ask the two writers to do?",
+      "wordSample": "Ana asks the two writers to use fewer words and shorter sentences."
+    },
+    {
+      "unit": 1,
+      "day": 3,
+      "title": "What did they really mean?",
+      "goal": "I can work out what people really mean.",
+      "newItems": [
+        {
+          "category": "new_word",
+          "definition": "Saying less than the truth, often to be polite or funny.",
+          "example": "To call the delay an understatement would be kind.",
+          "ipa": "/ˈʌndɚˌsteɪtmənt/",
+          "pos": "noun",
+          "status": "new",
+          "word": "understatement"
+        },
+        {
+          "category": "new_word",
+          "definition": "Saying more than the truth.",
+          "example": "To say everyone loved it is an overstatement.",
+          "ipa": "/ˈoʊvɚˌsteɪtmənt/",
+          "pos": "noun",
+          "status": "new",
+          "word": "overstatement"
+        },
+        {
+          "category": "fixed_phrase",
+          "definition": "To accept something as it first appears, without checking.",
+          "example": "Never take a sales claim at face value.",
+          "ipa": "/teɪk æt feɪs ˈvælju/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "take at face value"
+        },
+        {
+          "category": "fixed_phrase",
+          "definition": "To understand words in their exact meaning, not as a joke.",
+          "example": "Do not take something literally when he jokes.",
+          "ipa": "/teɪk ˈsʌmθɪŋ ˈlɪtərəli/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "take something literally"
+        },
+        {
+          "category": "fixed_phrase",
+          "definition": "To understand something in a completely wrong way.",
+          "example": "You got the wrong end of the stick; I never said no.",
+          "ipa": "/ɡɛt ðə rɔŋ ɛnd ʌv ðə stɪk/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "get the wrong end of the stick"
+        }
+      ],
+      "reviewWords": [
+        "story",
+        "call",
+        "friend",
+        "good",
+        "fun"
+      ],
+      "mainWord": {
+        "category": "new_word",
+        "definition": "Saying less than the truth, often to be polite or funny.",
+        "example": "To call the delay an understatement would be kind.",
+        "ipa": "/ˈʌndɚˌsteɪtmənt/",
+        "pos": "noun",
+        "status": "new",
+        "word": "understatement"
+      },
+      "mainWordForms": "Understatement is a noun. Understatement is saying less than the truth, often to be polite or funny. To call the delay an understatement would be kind.",
+      "pronunciationTarget": {
+        "word": "understatement",
+        "ipa": "/ˈʌndɚˌsteɪtmənt/"
+      },
+      "expression": "You got the wrong end of the stick.",
+      "use": "Use this when someone understands something in a completely wrong way.",
+      "expressionTask": "Marcus tells Ana about a meeting with a client. What does Ana say about the client?",
+      "grammar": "Ellipsis with so and not",
+      "pattern": "verb + so",
+      "task": "Will it rain? I think ___.",
+      "answer": "so",
+      "example": "Will it rain? I think so.",
+      "context": [
+        "Marcus tells Ana about a meeting with a client. The client left the meeting unhappy.",
+        "You got the wrong end of the stick."
+      ],
+      "dialogue": [
+        "Ana, the client left our meeting unhappy. I do not know why.",
+        "What did you tell him about the price?",
+        "I said the price might go up a little. I did not want to shock him.",
+        "You got the wrong end of the stick. He thought the price would double.",
+        "Oh no. I should have told him the real number in my first sentence.",
+        "Yes. Next time, give him the number first, and then explain the rest."
+      ],
+      "listening": "On Wednesday, Marcus meets a client. The client asks about the price of a new plan. Marcus does not want to shock him, so he says the price might go up a little. The client hears something very different. He thinks the price will double, and he leaves unhappy. Marcus tells Ana what happened. Ana says to give the real number first. Marcus calls him back with the true price. The client is happy, and the plan goes ahead.",
+      "question": "Why did the client leave the meeting unhappy?",
+      "correct": "He thought the price would double",
+      "other": "He did not like the office",
+      "reading": "Marcus is a project manager, and he meets clients every week. On Wednesday, he meets a new client to talk about the price of a plan. Marcus wants to be kind, so he does not give the real number. He says the price might go up a little. It is a big understatement, but he thinks it will help. The client hears something very different. He takes at face value every word Marcus says, and he thinks the price will double. Nobody tells him to take something literally, but he does. He leaves the meeting unhappy, and he tells his team the plan costs too much. Ana hears the story and laughs. She says Marcus got the wrong end of the stick. The client did not hear an understatement; he heard bad news. She tells Marcus that an overstatement can also cause trouble. If you say the price will double when it will not, the client will walk away. Marcus learns the lesson. He calls the client back, gives the true number, and the plan goes ahead.",
+      "readingQ": "Why did the client think the price would double?",
+      "readingA": "Because he took Marcus's words at face value and did not hear the understatement.",
+      "speaking": "Tell a colleague about a time when someone misunderstood your words. What did you say? What did they think? What happened?",
+      "speakingSample": "Last year, I told a client that the price might go up a little. I wanted to be kind, but it was a big understatement. The client took my words at face value and thought the price would double. He left the meeting unhappy, and he told his team the plan cost too much. I called him back the next day and gave him the true number. He laughed at the mistake. Now I always give the real number first.",
+      "writing": "Write a short email to a client. Correct a misunderstanding about a price. Give the true number and apologize for the confusion.",
+      "writingSample": "Dear Mr. Lee, I am writing about our meeting on Wednesday. I think you got the wrong end of the stick, and I want to fix that now. The price of the plan will go up by five percent, not double. I said the price might go up a little, and that was a big understatement. I am sorry for the confusion. The true price is 500 dollars a month, and it will not change for one year. Please call me if you have questions. I want to make sure we understand each other. Thank you for your time. Best wishes, Marcus",
+      "sound": "Understatement has its strongest beat on UN. In understatement, say STATE clearly in the middle. In overstatement, say STATE clearly too.",
+      "model": "To call the delay an understatement would be kind.",
+      "wordTask": "What did the client think about the price?",
+      "wordSample": "The client thought the price would double."
+    },
+    {
+      "unit": 1,
+      "day": 4,
+      "title": "The feeling behind the words",
+      "goal": "I can explain the feeling behind a word.",
+      "newItems": [
+        {
+          "category": "new_word",
+          "definition": "The feeling a word gives, not its dictionary meaning.",
+          "example": "The word home has a warm connotation for most people.",
+          "ipa": "/ˌkɑnəˈteɪʃən/",
+          "pos": "noun",
+          "status": "new",
+          "word": "connotation"
+        },
+        {
+          "category": "new_word",
+          "definition": "The dictionary meaning of a word.",
+          "example": "The denotation of cheap is low in price.",
+          "ipa": "/ˌdinoʊˈteɪʃən/",
+          "pos": "noun",
+          "status": "new",
+          "word": "denotation"
+        },
+        {
+          "category": "fixed_phrase",
+          "definition": "To speak plainly and directly about something.",
+          "example": "He calls a spade a spade, even with the boss.",
+          "ipa": "/kɔl ə speɪd ə speɪd/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "call a spade a spade"
+        },
+        {
+          "category": "fixed_phrase",
+          "definition": "To speak less directly in order to be polite.",
+          "example": "She does not mince words when the plan is bad.",
+          "ipa": "/mɪns wɝdz/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "mince words"
+        },
+        {
+          "category": "fixed_phrase",
+          "definition": "In real life, not just as an idea.",
+          "example": "In practice, the rule is hard to follow.",
+          "ipa": "/ɪn ˈpræktəs/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "in practice"
+        }
+      ],
+      "reviewWords": [
+        "town",
+        "noise",
+        "pain",
+        "grass",
+        "hat"
+      ],
+      "mainWord": {
+        "category": "new_word",
+        "definition": "The feeling a word gives, not its dictionary meaning.",
+        "example": "The word home has a warm connotation for most people.",
+        "ipa": "/ˌkɑnəˈteɪʃən/",
+        "pos": "noun",
+        "status": "new",
+        "word": "connotation"
+      },
+      "mainWordForms": "Connotation is a noun. Connotation is the feeling a word gives, not its dictionary meaning. The word home has a warm connotation for most people.",
+      "pronunciationTarget": {
+        "word": "connotation",
+        "ipa": "/ˌkɑnəˈteɪʃən/"
+      },
+      "expression": "He calls a spade a spade, even with the boss.",
+      "use": "Use this when someone speaks plainly and directly about something.",
+      "expressionTask": "Ana talks about her new manager with Marcus. What does she say about him?",
+      "grammar": "Concessive clauses with however",
+      "pattern": "However + adjective + subject + verb",
+      "task": "___ polite his words were, the message was clear.",
+      "answer": "However",
+      "example": "However polite his words were, the message was clear.",
+      "context": [
+        "Ana talks about her new manager with Marcus. The new manager is direct and honest.",
+        "He calls a spade a spade, even with the boss."
+      ],
+      "dialogue": [
+        "Ana, what do you think of our new manager?",
+        "I like him. He calls a spade a spade, even with the boss.",
+        "Is that a good thing? Some people find him too direct.",
+        "In practice, his direct words save us time. We always know where we stand.",
+        "That is true. But he should be kind when he gives bad news.",
+        "He is learning. Last week he thanked the team before he shared the bad news."
+      ],
+      "listening": "On Thursday, Ana meets her new manager for the first time. The manager is direct and honest. He does not mince words when the plan is bad, and he tells the team what must change. Ana likes his style. In practice, his direct words save time, because everyone knows what to do. Ana tells Marcus that the new manager is fair. He thanks good work and shares bad news kindly. The team works better now, and the office feels calmer.",
+      "question": "Why does Ana like the new manager's style?",
+      "correct": "His direct words save time",
+      "other": "He never speaks in meetings",
+      "reading": "Ana has a new manager, and the whole office talks about his words. The manager calls a spade a spade, even with the boss. He does not mince words when a plan is bad. Some people love his style, and some people fear it. Ana tries to explain the feeling behind his words. The denotation of cheap is low in price, but the connotation is very different. Cheap can sound like poor quality, and nobody wants to hear it about their work. In practice, the manager knows this. He does not call the report cheap. He calls it short and clear, and he thanks the team for their work. Ana says the connotation of his words matters more than the denotation. A word can be right in the dictionary and still hurt. The team agrees. They want a manager who speaks plainly, but they also want kind words when the news is bad.",
+      "readingQ": "Why does the manager avoid the word cheap?",
+      "readingA": "Because cheap has a bad connotation: it can sound like poor quality.",
+      "speaking": "Tell a colleague about a word with a strong feeling behind it. What is the word? What feeling does it give? When would you use it?",
+      "speakingSample": "The word cheap is a good example. The denotation of cheap is low in price, but the connotation is very different. Cheap can sound like poor quality, and nobody wants to hear it about their work. In practice, I never call a report cheap. I call it short and clear, and I thank the team for their work. I try to choose words with a kind feeling, not just a right meaning.",
+      "writing": "Write a short note to a new manager. Thank them for their clear words and suggest one kinder way to share bad news.",
+      "writingSample": "Dear Mr. Chen, Thank you for your clear words in our meeting on Thursday. You call a spade a spade, even with the boss, and the team knows where it stands. In practice, your direct words save us time, and we finish our work faster. I have one small idea for you. When the news is bad, please start with kind words before you share it. The denotation of a word is its dictionary meaning, but the connotation is the feeling it gives. A kind first sentence can soften bad news and keep the team calm. Thank you for listening. Best wishes, Ana",
+      "sound": "Connotation has its strongest beat on NOT. In connotation, say TA clearly in the middle. In denotation, say TA clearly too.",
+      "model": "The word home has a warm connotation for most people.",
+      "wordTask": "Why does the manager avoid the word cheap?",
+      "wordSample": "Because cheap has a bad connotation: it can sound like poor quality."
+    },
+    {
+      "unit": 1,
+      "day": 5,
+      "title": "When meaning goes wrong",
+      "goal": "I can explain a misunderstanding and fix it.",
+      "newItems": [
+        {
+          "category": "new_word",
+          "definition": "To understand something in a wrong way.",
+          "example": "Please do not misconstrue my silence as agreement.",
+          "ipa": "/ˌmɪskənˈstru/",
+          "pos": "verb",
+          "status": "new",
+          "word": "misconstrue"
+        },
+        {
+          "category": "new_word",
+          "definition": "To change facts so that they are no longer true.",
+          "example": "The article distorts what the manager really said.",
+          "ipa": "/dɪˈstɔrt/",
+          "pos": "verb",
+          "status": "new",
+          "word": "distort"
+        },
+        {
+          "category": "fixed_phrase",
+          "definition": "Used to add a true fact, often to correct someone.",
+          "example": "As a matter of fact, I finished it yesterday.",
+          "ipa": "/æz ə ˈmætɚ ʌv fækt/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "as a matter of fact"
+        },
+        {
+          "category": "fixed_phrase",
+          "definition": "To make bad news less painful.",
+          "example": "Good news first can soften the blow.",
+          "ipa": "/ˈsɔfən ðə bloʊ/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "soften the blow"
+        },
+        {
+          "category": "fixed_phrase",
+          "definition": "To make someone understand what you mean.",
+          "example": "At last I got through to him about the risk.",
+          "ipa": "/ɡɛt θru tə ˈsʌmwʌn/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "get through to someone"
+        }
+      ],
+      "reviewWords": [
+        "sweater",
+        "lesson",
+        "class",
+        "teacher",
+        "student"
+      ],
+      "mainWord": {
+        "category": "new_word",
+        "definition": "To understand something in a wrong way.",
+        "example": "Please do not misconstrue my silence as agreement.",
+        "ipa": "/ˌmɪskənˈstru/",
+        "pos": "verb",
+        "status": "new",
+        "word": "misconstrue"
+      },
+      "mainWordForms": "Misconstrue is a verb. Misconstrue means to understand something in a wrong way. Please do not misconstrue my silence as agreement.",
+      "pronunciationTarget": {
+        "word": "misconstrue",
+        "ipa": "/ˌmɪskənˈstru/"
+      },
+      "expression": "As a matter of fact, I finished the report yesterday.",
+      "use": "Use this to add a true fact, often to correct someone.",
+      "expressionTask": "Elena talks to a client who heard a false story about the firm. What does she say?",
+      "grammar": "Nominalisation: turning verbs into nouns",
+      "pattern": "decision + to + verb",
+      "task": "The ___ to delay the plan surprised us.",
+      "answer": "decision",
+      "example": "The decision to delay the plan surprised us.",
+      "context": [
+        "A client tells Elena that the team missed the deadline. Elena knows the story is not true.",
+        "As a matter of fact, I finished the report yesterday."
+      ],
+      "dialogue": [
+        "Elena, I read in the newspaper that your firm missed the deadline.",
+        "That story is not true. As a matter of fact, I finished the report yesterday.",
+        "But the newspaper says your team was late. Why would it say that?",
+        "The writer did not check the facts. The story distorts what really happened.",
+        "I see. Can you show me the report so I can tell my team the truth?",
+        "Of course. I will send it to you now, and you can share it with them."
+      ],
+      "listening": "On Friday, a client calls Elena about a story in the newspaper. The story says her firm missed the deadline. The story is not true. Elena finished the report on Thursday, and her team sent it on time. Elena speaks to the client. She explains the facts and offers to send the report. The client thanks her and says he will tell his team the truth. A short call can fix a big misunderstanding when people share the facts.",
+      "question": "What does Elena offer to do for the client?",
+      "correct": "To send the report",
+      "other": "To call the newspaper",
+      "reading": "Elena is a communications director, and part of her job is to fix false stories. On Friday, a client calls her about a story in the newspaper. The story says her firm missed the deadline. The story is not true, but many people will misconstrue the facts if nobody corrects them. Elena knows she must act fast. A false story can distort the truth in one day, and a late correction may not help. She calls the client and speaks in a calm voice. As a matter of fact, I finished the report yesterday, she says. Her team sent it on time. The client listens, and Elena can finally get through to someone who will share the truth. She also knows how to soften the blow. She thanks the client for calling, and she offers to send the report at once. The client is happy. He tells his team the true story, and the firm keeps its good name.",
+      "readingQ": "Why must Elena act fast?",
+      "readingA": "Because a false story can distort the truth in one day, and many people will misconstrue the facts.",
+      "speaking": "Tell a colleague about a false story you heard. What did it say? How did you find the truth? What did you do?",
+      "speakingSample": "Last week, a client told me that our firm had missed the deadline. The story was not true. As a matter of fact, I had finished the report the day before, and my team had sent it on time. I called the client and explained the facts calmly. I could finally get through to someone who would share the truth. I thanked him for calling and offered to send the report at once. He was happy, and he told his team the true story.",
+      "writing": "Write a short email to a client. Correct a false story about your firm. Give the true facts and offer to send proof.",
+      "writingSample": "Dear Ms. Park, Thank you for your call about the story in the newspaper. The story says our firm missed the deadline, but that is not true. As a matter of fact, I finished the report on Thursday, and my team sent it on time. I am sorry that the story caused trouble for you. A false story can distort the truth in one day, and I want to fix it now. I have attached the report to this email. Please read it and share it with your team. If you have questions, please call me. I want to make sure we understand each other. Best wishes, Elena",
+      "sound": "Misconstrue has its strongest beat on CON. In misconstrue, say STRUE clearly at the end. In distort, say TORT clearly at the end.",
+      "model": "Please do not misconstrue my silence as agreement.",
+      "wordTask": "What does Elena do after the client calls her?",
+      "wordSample": "Elena explains the facts, offers to send the report, and the client tells his team the truth."
+    },
+    {
+      "unit": 1,
+      "day": 6,
+      "title": "Strong words, soft words",
+      "goal": "I can use strong and soft words well.",
+      "newItems": [
+        {
+          "category": "new_word",
+          "definition": "A polite word used for something unpleasant.",
+          "example": "Let go is a euphemism for fired in some offices.",
+          "ipa": "/ˈjufəˌmɪzəm/",
+          "pos": "noun",
+          "status": "new",
+          "word": "euphemism"
+        },
+        {
+          "category": "new_word",
+          "definition": "Saying much more than the truth for effect.",
+          "example": "I have told you a million times is hyperbole.",
+          "ipa": "/haɪˈpɝbəli/",
+          "pos": "noun",
+          "status": "new",
+          "word": "hyperbole"
+        },
+        {
+          "category": "fixed_phrase",
+          "definition": "Almost directly, but not in those exact words.",
+          "example": "In so many words, she told him to leave.",
+          "ipa": "/ɪn soʊ ˈmɛni wɝdz/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "in so many words"
+        },
+        {
+          "category": "fixed_phrase",
+          "definition": "To describe something honestly, as it really is.",
+          "example": "She tells it like it is, even to the boss.",
+          "ipa": "/tɛl ɪt laɪk ɪt ɪz/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "tell it like it is"
+        },
+        {
+          "category": "fixed_phrase",
+          "definition": "To go directly to the main point.",
+          "example": "Cut to the chase: do we have the money?",
+          "ipa": "/kʌt tə ðə tʃeɪs/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "cut to the chase"
+        }
+      ],
+      "reviewWords": [
+        "school",
+        "morning",
+        "evening",
+        "today",
+        "yesterday"
+      ],
+      "mainWord": {
+        "category": "new_word",
+        "definition": "A polite word used for something unpleasant.",
+        "example": "Let go is a euphemism for fired in some offices.",
+        "ipa": "/ˈjufəˌmɪzəm/",
+        "pos": "noun",
+        "status": "new",
+        "word": "euphemism"
+      },
+      "mainWordForms": "Euphemism is a noun. Euphemism is a polite word used for something unpleasant. Let go is a euphemism for fired in some offices.",
+      "pronunciationTarget": {
+        "word": "euphemism",
+        "ipa": "/ˈjufəˌmɪzəm/"
+      },
+      "expression": "Tell it like it is, and we can fix the problem.",
+      "use": "Use this when you want someone to describe something honestly, as it really is.",
+      "expressionTask": "Marcus talks to Ana about a report that hides bad news. What does he say to her?",
+      "grammar": "Cleft sentences for emphasis",
+      "pattern": "It is + noun + that + clause",
+      "task": "It is the ___ that matters most.",
+      "answer": "tone",
+      "example": "It is the tone that matters most.",
+      "context": [
+        "Marcus reads a report that hides bad news with soft words. He wants Ana to be honest with him.",
+        "Tell it like it is, and we can fix the problem."
+      ],
+      "dialogue": [
+        "Ana, I read your report. It says the plan is fine, but I know it is not.",
+        "I did not want to upset you, Marcus. The news is bad.",
+        "Tell it like it is, and we can fix the problem.",
+        "All right. We lost the client, and the budget is too small.",
+        "Thank you. Now we know the truth, and we can make a new plan.",
+        "Yes. I will write a short report with the real numbers today."
+      ],
+      "listening": "On Monday, Marcus reads a report from Ana. The report uses soft words, and it hides bad news. Marcus knows the plan has problems, but the report does not say so. He tells her to describe the problem honestly. Ana is afraid at first, but then she tells the truth. They lost the client, and the budget is too small. Marcus thanks her. Now they know the truth, and they can make a new plan together.",
+      "question": "What does Ana finally tell Marcus?",
+      "correct": "They lost the client and the budget is too small",
+      "other": "The plan is fine",
+      "reading": "Marcus is a manager, and he hates reports that hide bad news. On Monday, he reads a report from Ana. The report uses a euphemism for every problem. A late plan is called a work in progress, and a lost client is called a new chance. In so many words, the report tells him to wait and hope. Marcus is not happy. He calls Ana to his office and asks her to tell it like it is. Ana is afraid at first, but then she speaks plainly. They lost the client, and the budget is too small. Marcus thanks her for the truth. He says hyperbole will not save the plan. To say the plan is perfect would be hyperbole, and the team needs real numbers, not big words. He asks Ana to cut to the chase in her next report. Give me the facts first, he says, and then tell me what we must do.",
+      "readingQ": "Why does Marcus dislike Ana's report?",
+      "readingA": "Because it uses a euphemism for every problem and hides the bad news.",
+      "speaking": "Tell a colleague about a time when soft words hid bad news. What did the words hide? How did you find the truth?",
+      "speakingSample": "Last month, I read a report about our plan. The report used a euphemism for every problem. A late plan was called a work in progress, and a lost client was called a new chance. In so many words, the report told me to wait and hope. I asked the writer to tell it like it is. She told me the truth: we had lost the client, and the budget was too small. Now I ask for facts first.",
+      "writing": "Write a short email to a writer. Ask them to describe a problem honestly. Say what you need and why.",
+      "writingSample": "Dear Ana, Thank you for your report about the new plan. I read it yesterday, and I have one request for you. The report uses a euphemism for every problem, and I cannot see the real news in it. In so many words, it tells me to wait and hope, but our team needs facts. Please tell it like it is in your next report. If we lost the client, say so. If the budget is too small, give me the number. I want the truth. Please cut to the chase and give me the facts first. Best wishes, Marcus",
+      "sound": "Euphemism has its strongest beat on FEW. In euphemism, say MISM clearly at the end. In hyperbole, say PER clearly in the middle.",
+      "model": "Let go is a euphemism for fired in some offices.",
+      "wordTask": "What does Marcus ask Ana to do in her next report?",
+      "wordSample": "Marcus asks Ana to cut to the chase and give him the facts first."
+    },
+    {
+      "unit": 1,
+      "day": 7,
+      "title": "Saying more with fewer words",
+      "goal": "I can speak and write more briefly.",
+      "newItems": [
+        {
+          "category": "new_word",
+          "definition": "The art of speaking or writing well in order to persuade.",
+          "example": "Good rhetoric can change how people vote.",
+          "ipa": "/ˈrɛtərɪk/",
+          "pos": "noun",
+          "status": "new",
+          "word": "rhetoric"
+        },
+        {
+          "category": "new_word",
+          "definition": "The ability to speak well and clearly.",
+          "example": "Her eloquence won the room in five minutes.",
+          "ipa": "/ˈɛləkwəns/",
+          "pos": "noun",
+          "status": "new",
+          "word": "eloquence"
+        },
+        {
+          "category": "fixed_phrase",
+          "definition": "Used before telling only the main part of a story.",
+          "example": "To cut a long story short, we lost the deal.",
+          "ipa": "/tə kʌt ə lɔŋ ˈstɔri ʃɔrt/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "to cut a long story short"
+        },
+        {
+          "category": "fixed_phrase",
+          "definition": "In a few words; briefly.",
+          "example": "In brief, we need a new supplier.",
+          "ipa": "/ɪn brif/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "in brief"
+        },
+        {
+          "category": "fixed_phrase",
+          "definition": "In ideas, but perhaps not in real life.",
+          "example": "In theory, the plan works well.",
+          "ipa": "/ɪn ˈθiəri/",
+          "pos": "fixed phrase",
+          "status": "new",
+          "word": "in theory"
+        }
+      ],
+      "reviewWords": [
+        "question",
+        "water",
+        "food",
+        "house",
+        "room"
+      ],
+      "mainWord": {
+        "category": "new_word",
+        "definition": "The art of speaking or writing well in order to persuade.",
+        "example": "Good rhetoric can change how people vote.",
+        "ipa": "/ˈrɛtərɪk/",
+        "pos": "noun",
+        "status": "new",
+        "word": "rhetoric"
+      },
+      "mainWordForms": "Rhetoric is a noun. Rhetoric is the art of speaking or writing well in order to persuade. Good rhetoric can change how people vote.",
+      "pronunciationTarget": {
+        "word": "rhetoric",
+        "ipa": "/ˈrɛtərɪk/"
+      },
+      "expression": "To cut a long story short, we lost the client.",
+      "use": "Use this before telling only the main part of a story.",
+      "expressionTask": "Elena tells Marcus about a long meeting with a client. What does she say about it?",
+      "grammar": "Discourse markers: admittedly",
+      "pattern": "Admittedly + clause",
+      "task": "___ the plan costs more, but it still works.",
+      "answer": "Admittedly,",
+      "example": "Admittedly, the plan costs more, but it still works.",
+      "context": [
+        "Elena tells Marcus about a long meeting with a client. The meeting took three hours.",
+        "To cut a long story short, we lost the client."
+      ],
+      "dialogue": [
+        "Elena, how was your meeting with the client? It took three hours.",
+        "To cut a long story short, we lost the client.",
+        "That is bad news. Did they give a reason?",
+        "In brief, they found a cheaper plan with another firm.",
+        "I see. In theory, our plan is better, but the price is too high.",
+        "Yes. We must cut our price, or we will lose more clients."
+      ],
+      "listening": "On Thursday, Elena meets a client for three hours. The client likes the plan, but the price is too high. In theory, the plan is better than the other plans, but the client cannot pay for it. Elena speaks well and explains every part of the plan. In the end, the client chooses a cheaper plan with another firm. Elena tells Marcus the news in one short sentence. They must cut the price, or they will lose more clients.",
+      "question": "Why does the client choose another firm?",
+      "correct": "The price is too high",
+      "other": "The plan is too short",
+      "reading": "Elena is a communications director, and she teaches her team to speak briefly. On Thursday, she meets a client for three hours. The client likes the plan, but the price is too high. In theory, the plan is better than the other plans. It is faster, safer, and easier to use. But the client cannot pay for it, and good rhetoric cannot change the price. Elena speaks with great eloquence. Her words are clear, strong, and kind. She explains every part of the plan, and she answers every question. In the end, the client chooses a cheaper plan with another firm. Elena tells Marcus the news in one short sentence. To cut a long story short, we lost the client. In brief, they found a cheaper plan. Elena is sad, but she learns a lesson. A good speech can win hearts, but it cannot change a price. She will try again with a lower price next week.",
+      "readingQ": "Why does the client choose another firm?",
+      "readingA": "Because the price is too high, even though the plan is better in theory.",
+      "speaking": "Tell a colleague about a long meeting you had. What happened? Can you tell the story in a few short sentences?",
+      "speakingSample": "Last week, I met a client for three hours. The client liked our plan, but the price was too high. In theory, our plan was better than the other plans. It was faster, safer, and easier to use. But the client could not pay for it. To cut a long story short, we lost the client. In brief, they found a cheaper plan. I was sad, but I learned a lesson. A good speech can win hearts, but it cannot change a price.",
+      "writing": "Write a short email to your manager. Tell them the result of a long meeting in a few short sentences.",
+      "writingSample": "Dear Marcus, I met the client on Thursday, and the meeting took three hours. To cut a long story short, we lost the client. In brief, they found a cheaper plan with another firm. In theory, our plan is better. It is faster, safer, and easier to use. But the price is too high, and the client cannot pay for it. I spoke with great care, and I answered every question. Admittedly, the price is our weak point. I think we must cut the price, or we will lose more clients. Please tell me what you think. Best wishes, Elena",
+      "sound": "Rhetoric has its strongest beat on RET. In rhetoric, say TOR clearly in the middle. In eloquence, say LO clearly in the middle.",
+      "model": "Good rhetoric can change how people vote.",
+      "wordTask": "Why did Elena's team lose the client?",
+      "wordSample": "They lost the client because the price was too high, even though their plan was better."
+    },
+    {
+      "unit": 1,
+      "day": 8,
+      "title": "Use precise English in a new situation",
+      "goal": "I can use precise English in a new situation.",
+      "newItems": [
+        {
+          "category": "new_word",
+          "definition": "The state of not being clear or exact.",
+          "example": "The vagueness of the plan worries the team.",
+          "ipa": "/ˈveɪɡnəs/",
+          "pos": "noun",
+          "status": "new",
+          "word": "vagueness"
+        },
+        {
+          "category": "new_word",
+          "definition": "Saying what you think, even when it is not welcome.",
+          "example": "The outspoken manager criticized the plan in public.",
+          "ipa": "/ˌaʊtˈspoʊkən/",
+          "pos": "adjective",
+          "status": "new",
+          "word": "outspoken"
+        },
+        {
+          "category": "new_word",
+          "definition": "Not showing feelings or opinions freely.",
+          "example": "He is reserved in meetings and speaks only when asked.",
+          "ipa": "/rɪˈzɝvd/",
+          "pos": "adjective",
+          "status": "new",
+          "word": "reserved"
+        },
+        {
+          "category": "new_word",
+          "definition": "Careful about what you say.",
+          "example": "She gave a guarded answer to the difficult question.",
+          "ipa": "/ˈɡɑrdəd/",
+          "pos": "adjective",
+          "status": "new",
+          "word": "guarded"
+        },
+        {
+          "category": "new_word",
+          "definition": "Careful, slow and controlled.",
+          "example": "He gave a measured reply to the angry email.",
+          "ipa": "/ˈmɛʒɚd/",
+          "pos": "adjective",
+          "status": "new",
+          "word": "measured"
+        }
+      ],
+      "reviewWords": [
+        "door",
+        "window",
+        "table",
+        "chair",
+        "phone"
+      ],
+      "mainWord": {
+        "category": "new_word",
+        "definition": "The state of not being clear or exact.",
+        "example": "The vagueness of the plan worries the team.",
+        "ipa": "/ˈveɪɡnəs/",
+        "pos": "noun",
+        "status": "new",
+        "word": "vagueness"
+      },
+      "mainWordForms": "Vagueness is a noun. Vagueness is the state of not being clear or exact. The vagueness of the plan worries the team.",
+      "pronunciationTarget": {
+        "word": "vagueness",
+        "ipa": "/ˈveɪɡnəs/"
+      },
+      "expression": "Let me be clear: the plan is ready and the dates are fixed.",
+      "use": "Use this when you want to speak with precision and remove all doubt.",
+      "expressionTask": "Lucas meets his new team for the first time. What does he say to them?",
+      "grammar": "Review: I can use precise English in a new situation",
+      "pattern": "I can use precise English in a new situation.",
+      "task": "I can ___ precise English in a new situation.",
+      "answer": "use",
+      "example": "I can use precise English in a new situation.",
+      "context": [
+        "Lucas meets his new team for the first time. He wants them to trust his words.",
+        "Let me be clear: the plan is ready and the dates are fixed."
+      ],
+      "dialogue": [
+        "Good morning. I am Lucas, your new team lead. Let me be clear about our plan.",
+        "Good morning, Lucas. What is the first step?",
+        "The plan is ready and the dates are fixed. We start on Monday.",
+        "That is clear. What should we do first?",
+        "Please read the plan today and write down your questions.",
+        "We will do that. Thank you for your clear words."
+      ],
+      "listening": "On Monday, Lucas meets his new team for the first time. He is their new team lead. Lucas speaks in a clear and careful way. He tells them the plan is ready and the dates are fixed. The team asks good questions, and Lucas answers each one with exact words. Nobody leaves the room with doubts. Lucas is happy. He knows that clear words build trust. The team starts work on the same day, and the first week goes well.",
+      "question": "Why does nobody leave the room with doubts?",
+      "correct": "Lucas answers each question with exact words",
+      "other": "Lucas tells a long story",
+      "reading": "Lucas is a new team lead at a design firm. On Monday, he meets his team for the first time. He knows that vagueness can destroy trust. If his words are not clear, the team will not know what to do. Lucas is not an outspoken person by nature. He is reserved in large meetings, and he thinks before he speaks. But today he must lead, so he speaks in a clear and careful way. He gives a guarded answer to one hard question about money, because the number is not final yet. Then he gives a measured reply to every other question. His words are careful and controlled, and the team listens. By the end of the meeting, everyone knows the plan and the dates. Lucas is happy. Clear words build trust, and his first week as a team lead goes well. The team thanks him for his clear words and starts work the same day.",
+      "readingQ": "Why does Lucas speak in a clear and careful way?",
+      "readingA": "Because vagueness can destroy trust, and the team must know what to do.",
+      "speaking": "Tell a colleague about a time when you had to lead a meeting. How did you speak? What did you say? How did people react?",
+      "speakingSample": "Last month, I led my first meeting as a team lead. I knew that vagueness can destroy trust, so I spoke in a clear and careful way. I am not an outspoken person, and I am reserved in large meetings. But I gave a measured reply to every question. By the end of the meeting, everyone knew the plan and the dates. The team thanked me for my clear words, and the first week went well.",
+      "writing": "Write a short email to your new team. Introduce yourself as the team lead. Give the plan and the dates in clear words.",
+      "writingSample": "Dear Team, I am Lucas, your new team lead. I want to start with clear words. The plan is ready, and the dates are fixed. We start on Monday, and the first part must be ready by Friday. I am not an outspoken person, and I am reserved in large meetings. But I will always give you a measured reply to your questions. If I do not know an answer, I will say so and find it for you. Please read the plan today and write down your questions. I will answer each one this week. Thank you for your hard work. Best wishes, Lucas",
+      "sound": "Vagueness has its strongest beat on VAIG. In vagueness, say NESS clearly at the end. In measured, say MEA clearly at the start.",
+      "model": "The vagueness of the plan worries the team.",
+      "wordTask": "Why does Lucas speak in a clear and careful way?",
+      "wordSample": "Because vagueness can destroy trust, and the team must know what to do.",
+      "transferCheck": {
+        "source": "On Tuesday, Lucas starts a new job as a team lead at a design firm. His manager, Sofia, meets him at the door. She says, 'Welcome aboard! I am Sofia. I am happy to work with you.' Lucas's first job is to lead a meeting with his new team. He meets them on Monday and speaks in a clear and careful way. He tells them the plan is ready and the dates are fixed. The team asks good questions, and Lucas answers each one with exact words. Sofia watches the meeting and smiles. She says, 'Well done, Lucas! Your words were clear, and the team trusts you. The result will be good for the firm.'",
+        "dictation": "I can use precise English in a new situation.",
+        "answer": "1. The new team lead is Lucas. His new job is at a design firm. 2. Lucas's first job is to lead a meeting with his new team. 3. On Monday, Lucas tells the team, 'Let me be clear: the plan is ready and the dates are fixed.' 4. I can use precise English in a new situation. 5. Sample: On Tuesday, Lucas starts a new job as a team lead at a design firm. His manager, Sofia, meets him at the door. She says, 'Welcome aboard!' Lucas's first job is to lead a meeting with his new team. On Monday, he speaks in a clear and careful way and tells them the plan is ready and the dates are fixed. Sofia watches the meeting and says, 'Well done, Lucas! Your words were clear, and the team trusts you.' Follow-up: What does Sofia say about the result? She says the result will be good for the firm.",
+        "tasks": [
+          [
+            "1 · Identify the people and the new job",
+            "Who is the new team lead, and where is his new job?"
+          ],
+          [
+            "2 · Work out what Lucas does in his first week",
+            "What is Lucas's first job, and what does he do on Monday?"
+          ],
+          [
+            "3 · Notice the clear words on Monday",
+            "What does Lucas say to the team on Monday?"
+          ],
+          [
+            "4 · Listen and write",
+            "Write the sentence you hear."
+          ],
+          [
+            "5 · Retell and answer",
+            "Tell the story in order, including the people, the new job, the first week, and the outcome. Then answer one follow-up question."
+          ]
+        ]
+      }
+    }
+  ]
+}
