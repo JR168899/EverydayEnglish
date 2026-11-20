@@ -601,3 +601,27 @@ header.site .bar .font-size{order:10;flex:1 1 100%;padding:8px 0 6px;margin-top:
 .font-size button{height:44px;min-width:48px;font-size:16px}
 .font-size button[data-font-size="large"]{font-size:18px}
 .font-size button[data-font-size="extra"]{font-size:20px}
+
+/* ---------- Header v2 (2026-11-20): big logo left, text size far right ----------
+   One row when it fits: logo | nav | account | Start learning | Text size.
+   The header wraps only when the screen is too narrow, and then Text size
+   always lands on its own row, right-aligned — never in the middle, never jumping. */
+header.site .bar{max-width:1440px;flex-wrap:wrap}
+header.site .bar .logo{order:1}
+header.site .bar nav.main{order:2;margin-left:auto}
+header.site .bar .account-chip{order:3}
+header.site .bar .header-cta{order:4}
+header.site .bar .font-size{order:5;flex:0 0 auto;padding:0;margin:0 0 0 8px;border-top:0}
+.logo img{height:72px}
+@media (max-width:1440px){
+  .logo img{height:60px}
+  header.site .bar nav.main a{padding:8px 10px}
+  .font-size-label{display:none}
+}
+@media (max-width:1024px){
+  .logo img{height:56px}
+}
+@media (max-width:640px){
+  header.site .bar .font-size{order:10;flex:1 1 100%;justify-content:flex-end;padding:6px 0 2px;margin-left:0}
+  .logo img{height:48px}
+}
