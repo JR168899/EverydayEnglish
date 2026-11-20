@@ -1,0 +1,27 @@
+{
+  "scope": "Internal content and technical acceptance for continued local A2 development only; not Cambridge accreditation, exhaustive human listening review, publication approval or proof of learner mastery.",
+  "foundation": {
+    "days": 60,
+    "cards": 600,
+    "recordings": 1894,
+    "acceptedForNextStage": true
+  },
+  "a1": {
+    "days": 180,
+    "cards": 1800,
+    "recordings": 6162,
+    "acceptedForNextStage": true
+  },
+  "evidence": [
+    "foundation-a1-internal-review.md",
+    "../../../../outputs/A1-recording-completion-check.json",
+    "../../../../outputs/Foundation-A1-final-export-check.json"
+  ],
+  "limits": [
+    "No external Cambridge review",
+    "Playback and phoneme checks are sampled; no exhaustive human listening review.",
+    "Real learner outcomes still need independent performance checks"
+  ],
+  "nextStage": "A2: first eight days revised; continue ordered local authoring and unit acceptance",
+  "localOnly": true
+}
