@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Review — Everyday English</title>
+<link rel="stylesheet" href="styles.css">
+<style>body{background:#FFF6E0;color:#3D2314;font-family:'Nunito',system-ui,sans-serif}img{max-width:100%}</style>
+<script src="data/data.js"></script>
+<script src="data/supplements.js"></script>
+<script src="app.js"></script>
+</head>
+<body>
+<header class="site"><div class="bar">
+  <a class="logo" href="home.html"><img src="assets/logo-wordmark-1.webp" alt="Everyday English"></a>
+  <nav class="main" aria-label="Main navigation">
+    <a href="home.html" data-nav="news"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 22h16"/><path d="M18 14h-8"/><path d="M18 18h-8"/><path d="M18 10h-8"/><path d="M10 6h8v4h-8zM4 10v6a2 2 0 0 0 2 2h2"/></svg>News</a>
+    <a href="courses.html" data-nav="courses"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M2 3h6a4 4 0 0 1 4 4v14a3 3 0 0 0-3-3H2z"/><path d="M22 3h-6a4 4 0 0 0-4 4v14a3 3 0 0 0-3-3h7z"/></svg>Courses</a>
+    <a href="supplements.html" data-nav="supplements"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polygon points="12 2 2 7 12 12 22 7 12 2"/><polyline points="2 17 12 22 22 17"/><polyline points="2 12 12 17 22 12"/></svg>Supplements</a>
+    <a href="review.html" data-nav="review"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 12a9 9 0 1 0 2.6-6.4"/><polyline points="3 4 3 9 8 9"/></svg>Review</a>
+    <a href="settings.html" data-nav="me"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"/><circle cx="12" cy="7" r="4"/></svg>Me</a>
+  </nav>
+  <a class="btn small header-cta" href="home.html">Start learning</a>
+</div></header>
+
+<div class="wrap">
+  <section class="hero fullbleed">
+    <span class="hero-badge"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 12a9 9 0 1 0 2.6-6.4"/><polyline points="3 4 3 9 8 9"/></svg>Review — what you have learned</span>
+    <h1>Look back before you move on.</h1>
+    <p>Review is built from the days you have actually visited — nothing here is made up.
+    Quizzes and your error book arrive in the next build; this page is their home.</p>
+  </section>
+
+  <div class="stat-row" id="reviewStats"></div>
+
+  <div class="layout">
+    <div class="layout-main">
+      <section class="card">
+        <div class="section-head">
+          <span class="ic-tile"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M2 3h6a4 4 0 0 1 4 4v14a3 3 0 0 0-3-3H2z"/><path d="M22 3h-6a4 4 0 0 0-4 4v14a3 3 0 0 1 3-3h7z"/></svg></span>
+          <h2>Days you have visited, by level</h2>
+        </div>
+        <p class="muted">These numbers come from your own visited marks — tap a level to go back to a day and read it again.</p>
+        <div id="levelReview"></div>
+      </section>
+
+      <section class="card">
+        <div class="section-head">
+          <span class="ic-tile"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg></span>
+          <h2>Quick quiz — coming in the next build</h2>
+        </div>
+        <p>Short quizzes will ask you about words from the lessons you have visited — the newest words first, then the ones you have not seen for a while. No quiz questions exist yet, so there is nothing to answer here today. When quizzes arrive, your score will be saved with your account.</p>
+        <p class="small muted">Planned: 5 questions per quiz, drawn only from visited days; wrong answers go straight into your error book below.</p>
+      </section>
+
+      <section class="card">
+        <div class="section-head">
+          <span class="ic-tile"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M17 3a2.828 2.828 0 1 1 4 4L7.5 20.5 2 22l1.5-5.5L17 3z"/></svg></span>
+          <h2>Error book — coming in the next build</h2>
+        </div>
+        <p>Words and patterns you get wrong in a quiz will be collected here automatically, so you can practise just those. Your error book is empty right now because no quiz has run yet — nothing has been invented to fill it.</p>
+      </section>
+    </div>
+
+    <aside class="sidebar">
+      <section class="card">
+        <h3>Keep going</h3>
+        <p class="muted" id="continueLine">Your next lesson is waiting.</p>
+        <p><a class="btn" id="continueBtn" href="day.html?level=a1&amp;day=1">Continue learning</a></p>
+        <p><a class="btn ghost" href="home.html">Today's News</a></p>
+      </section>
+      <section class="card">
+        <h3>Supplements to review</h3>
+        <p class="muted">The six supplement types, level by level — start with the A1 sample in each one.</p>
+        <div id="suppLinks"></div>
+      </section>
+    </aside>
+  </div>
+</div>
+
+<footer class="site"><p class="small muted">Everyday English · everydayenglish.app · Review uses only your real visited days. Quizzes and the error book are the next build.</p></footer>
+<nav class="tabbar" aria-label="App navigation">
+  <a href="home.html" data-tab="news"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 22h16"/><path d="M18 14h-8"/><path d="M18 18h-8"/><path d="M18 10h-8"/><path d="M10 6h8v4h-8zM4 10v6a2 2 0 0 0 2 2h2"/></svg><span>News</span></a>
+  <a href="courses.html" data-tab="courses"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M2 3h6a4 4 0 0 1 4 4v14a3 3 0 0 0-3-3H2z"/><path d="M22 3h-6a4 4 0 0 0-4 4v14a3 3 0 0 1 3-3h7z"/></svg><span>Courses</span></a>
+  <a href="supplements.html" data-tab="supplements"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polygon points="12 2 2 7 12 12 22 7 12 2"/><polyline points="2 17 12 22 22 17"/><polyline points="2 12 12 17 22 12"/></svg><span>Supplements</span></a>
+  <a href="review.html" data-tab="review"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 12a9 9 0 1 0 2.6-6.4"/><polyline points="3 4 3 9 8 9"/></svg><span>Review</span></a>
+  <a href="settings.html" data-tab="me"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"/><circle cx="12" cy="7" r="4"/></svg><span>Me</span></a>
+</nav>
+
+<script>
+(function () {
+  var data = window.EE_DATA;
+  var order = ['foundation', 'a1', 'a2', 'b1', 'b2', 'c1', 'c2'];
+  var totalVisited = 0, totalDays = 0, levelsTouched = 0;
+  var rows = '';
+  order.forEach(function (key) {
+    var lv = data.levels[key];
+    var vc = EE.visitedCount(key, lv.days);
+    totalVisited += vc.done; totalDays += lv.days;
+    if (vc.done > 0) levelsTouched++;
+    var pct = lv.days ? Math.round(100 * vc.done / lv.days) : 0;
+    rows += '<a class="day-row" href="level.html?level=' + key + '">' +
+      '<span class="n" style="background:' + lv.color + ';color:#fff">' + lv.name.slice(0, 2) + '</span>' +
+      '<span class="t"><strong>' + lv.name + '</strong> — ' + vc.done + ' of ' + lv.days + ' days visited' +
+      '<span class="progress" style="display:block;height:8px;border-radius:999px;background:#F0D9A8;overflow:hidden;margin-top:6px"><i style="display:block;height:100%;width:' + pct + '%;background:' + lv.color + '"></i></span></span>' +
+      '<span class="visited-dot' + (vc.done > 0 ? ' done' : '') + '"><span class="dot"></span>' + pct + '%</span></a>';
+  });
+  document.getElementById('levelReview').innerHTML = rows;
+  var t = EE.continueTarget();
+  var lv = data.levels[t.level];
+  document.getElementById('reviewStats').innerHTML =
+    '<div class="stat-tile"><span class="ic-tile">' + EE.icon('check') + '</span><div class="num">' + totalVisited + '</div><div class="lbl">days visited · of ' + totalDays + '</div></div>' +
+    '<div class="stat-tile"><span class="ic-tile">' + EE.icon('book') + '</span><div class="num">' + levelsTouched + '</div><div class="lbl">levels started</div></div>' +
+    '<div class="stat-tile"><span class="ic-tile">' + EE.icon('layers') + '</span><div class="num">6</div><div class="lbl">supplement types to review</div></div>' +
+    '<div class="stat-tile"><span class="ic-tile">' + EE.icon('refresh') + '</span><div class="num">0</div><div class="lbl">quiz errors yet — quizzes coming</div></div>';
+  document.getElementById('continueLine').textContent =
+    'Next up: ' + (lv ? lv.name : t.level) + ' · Day ' + t.day + '.';
+  document.getElementById('continueBtn').href =
+    'day.html?level=' + encodeURIComponent(t.level) + '&day=' + t.day;
+  document.getElementById('suppLinks').innerHTML = EE.supplementTypes().map(function (s) {
+    return '<a class="side-link" href="supplement.html?type=' + encodeURIComponent(s.id) + '&level=a1">' +
+      '<span class="ic-tile" style="background:' + s.color + ';color:#fff;width:40px;height:40px;border-radius:12px">' + EE.icon(s.icon) + '</span>' +
+      '<span>' + EE.esc(s.name) + '<small>' + EE.esc(s.perLevelLabel) + '</small></span></a>';
+  }).join('');
+})();
+</script>
+</body>
+</html>

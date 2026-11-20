@@ -37,9 +37,32 @@
       arrow: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><line x1="5" y1="12" x2="19" y2="12"/><polyline points="12 5 19 12 12 19"/></svg>',
       trophy: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M8 21h8M12 17v4M7 4h10v6a5 5 0 0 1-10 0V4z"/><path d="M7 6H4a1 1 0 0 0-1 1c0 2.5 2 4 4 4M17 6h3a1 1 0 0 1 1 1c0 2.5-2 4-4 4"/></svg>',
       spark: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 2l2.4 4.8L20 8l-4 3.9.9 5.6L12 14.9 7.1 17.5 8 11.9 4 8l5.6-1.2L12 2z"/></svg>',
-      users: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/><path d="M23 21v-2a4 4 0 0 0-3-3.87"/><path d="M16 3.13a4 4 0 0 1 0 7.75"/></svg>'
+      users: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/><path d="M23 21v-2a4 4 0 0 0-3-3.87"/><path d="M16 3.13a4 4 0 0 1 0 7.75"/></svg>',
+      user: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"/><circle cx="12" cy="7" r="4"/></svg>',
+      refresh: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M3 12a9 9 0 1 0 2.6-6.4"/><polyline points="3 4 3 9 8 9"/></svg>',
+      grid: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="3" y="3" width="7" height="7" rx="1"/><rect x="14" y="3" width="7" height="7" rx="1"/><rect x="14" y="14" width="7" height="7" rx="1"/><rect x="3" y="14" width="7" height="7" rx="1"/></svg>'
     },
     icon: function (name) { return (window.EE.icons && window.EE.icons[name]) || ''; },
+    /* Supplement registry (data/supplements.js). Returns [] if not loaded. */
+    supplementTypes: function () {
+      return (window.EE_SUPPLEMENTS && window.EE_SUPPLEMENTS.types) || [];
+    },
+    supplementById: function (id) {
+      var list = this.supplementTypes();
+      for (var i = 0; i < list.length; i++) if (list[i].id === id) return list[i];
+      return null;
+    },
+    /* Map the current page to one of the 5 app tabs, for nav highlighting. */
+    navTab: function () {
+      var f = (location.pathname.split('/').pop() || 'index.html').split('?')[0];
+      var map = {
+        'home.html': 'news', 'index.html': '',
+        'courses.html': 'courses', 'level.html': 'courses', 'day.html': 'courses',
+        'supplements.html': 'supplements', 'supplement.html': 'supplements',
+        'review.html': 'review', 'settings.html': 'me'
+      };
+      return map[f] || '';
+    },
     data: function () { return window.EE_DATA || {}; },
     progress: load,
     saveProgress: save,
@@ -97,9 +120,17 @@
     }
   };
 
-  /* Apply saved theme as early as possible. */
+  /* Apply saved theme as early as possible, and highlight the current
+     tab in both the desktop top bar and the mobile bottom tab bar. */
   document.addEventListener('DOMContentLoaded', function () {
     var t = window.EE.theme();
     if (t && t !== 'default') document.documentElement.setAttribute('data-theme', t);
+    var tab = window.EE.navTab();
+    if (tab) {
+      document.querySelectorAll('nav.main a, nav.tabbar a').forEach(function (a) {
+        var key = a.getAttribute('data-nav') || a.getAttribute('data-tab');
+        a.classList.toggle('active', key === tab);
+      });
+    }
   });
 })();

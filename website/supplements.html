@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Supplements — Everyday English</title>
+<link rel="stylesheet" href="styles.css">
+<style>body{background:#FFF6E0;color:#3D2314;font-family:'Nunito',system-ui,sans-serif}img{max-width:100%}</style>
+<script src="data/data.js"></script>
+<script src="data/supplements.js"></script>
+<script src="app.js"></script>
+</head>
+<body>
+<header class="site"><div class="bar">
+  <a class="logo" href="home.html"><img src="assets/logo-wordmark-1.webp" alt="Everyday English"></a>
+  <nav class="main" aria-label="Main navigation">
+    <a href="home.html" data-nav="news"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 22h16"/><path d="M18 14h-8"/><path d="M18 18h-8"/><path d="M18 10h-8"/><path d="M10 6h8v4h-8zM4 10v6a2 2 0 0 0 2 2h2"/></svg>News</a>
+    <a href="courses.html" data-nav="courses"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M2 3h6a4 4 0 0 1 4 4v14a3 3 0 0 0-3-3H2z"/><path d="M22 3h-6a4 4 0 0 0-4 4v14a3 3 0 0 1 3-3h7z"/></svg>Courses</a>
+    <a href="supplements.html" data-nav="supplements"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polygon points="12 2 2 7 12 12 22 7 12 2"/><polyline points="2 17 12 22 22 17"/><polyline points="2 12 12 17 22 12"/></svg>Supplements</a>
+    <a href="review.html" data-nav="review"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 12a9 9 0 1 0 2.6-6.4"/><polyline points="3 4 3 9 8 9"/></svg>Review</a>
+    <a href="settings.html" data-nav="me"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"/><circle cx="12" cy="7" r="4"/></svg>Me</a>
+  </nav>
+  <a class="btn small header-cta" href="home.html">Start learning</a>
+</div></header>
+
+<div class="wrap">
+  <section class="hero fullbleed">
+    <span class="hero-badge"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polygon points="12 2 2 7 12 12 22 7 12 2"/><polyline points="2 17 12 22 22 17"/><polyline points="2 12 12 17 22 12"/></svg>Supplements — extra practice, same words</span>
+    <h1>Six ways to practise the same words.</h1>
+    <p>Supplements follow your main course day by day. Five of them come every day;
+    writing comes once a week. They are not a separate course — they are the same
+    words, practised from a different angle.</p>
+    <div class="stat-chips">
+      <span class="stat-chip"><b>6</b> supplement types</span>
+      <span class="stat-chip"><b>10,813</b> items in total</span>
+      <span class="stat-chip"><b>7</b> levels each</span>
+      <span class="stat-chip"><b>5</b> daily + <b>1</b> weekly</span>
+    </div>
+  </section>
+
+  <div class="section-head" style="margin-top:22px">
+    <span class="ic-tile"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><circle cx="12" cy="12" r="6"/><circle cx="12" cy="12" r="2"/></svg></span>
+    <h2>First pick your level</h2>
+  </div>
+  <p class="muted">Tap a level, then tap a supplement. Each type has its own set for every level.</p>
+  <div class="level-chips" id="levelChips"></div>
+
+  <div class="grid cols3" id="suppGrid" style="margin-top:8px"></div>
+
+  <div class="grid cols3" style="margin-top:18px">
+    <div class="feature-card">
+      <span class="ic-tile"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M2 3h6a4 4 0 0 1 4 4v14a3 3 0 0 0-3-3H2z"/><path d="M22 3h-6a4 4 0 0 0-4 4v14a3 3 0 0 1 3-3h7z"/></svg></span>
+      <h3>Same words, new angle</h3>
+      <p>Today's phrasal verb, idiom and flashcard all use the words from today's main lesson. Nothing is random.</p>
+    </div>
+    <div class="feature-card">
+      <span class="ic-tile"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="4" width="18" height="18" rx="2"/><line x1="16" y1="2" x2="16" y2="6"/><line x1="8" y1="2" x2="8" y2="6"/><line x1="3" y1="10" x2="21" y2="10"/></svg></span>
+      <h3>Daily, except writing</h3>
+      <p>Five supplements arrive every day. Writing is once a week — one composition, done properly.</p>
+    </div>
+    <div class="feature-card">
+      <span class="ic-tile"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polygon points="12 2 2 7 12 12 22 7 12 2"/><polyline points="2 17 12 22 22 17"/><polyline points="2 12 12 17 22 12"/></svg></span>
+      <h3>Room to grow</h3>
+      <p>New supplement types can be added later without rebuilding this page — each one is a single entry in the supplement list.</p>
+    </div>
+  </div>
+
+  <section class="card">
+    <div class="section-head">
+      <span class="ic-tile"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polygon points="6 3 20 12 6 21 6 3"/></svg></span>
+      <h2>Or keep going with today's lesson</h2>
+    </div>
+    <p>Supplements also live on every day page, as tabs under the main lesson — so you never have to leave your lesson to find them.</p>
+    <p><a class="btn" id="todayBtn" href="day.html?level=a1&amp;day=1">Go to today's lesson</a>
+    <a class="btn ghost" href="courses.html">Main Course</a></p>
+  </section>
+</div>
+
+<footer class="site"><p class="small muted">Everyday English · everydayenglish.app · Supplements: 10,500 daily items + 313 writing compositions = 10,813</p></footer>
+<nav class="tabbar" aria-label="App navigation">
+  <a href="home.html" data-tab="news"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 22h16"/><path d="M18 14h-8"/><path d="M18 18h-8"/><path d="M18 10h-8"/><path d="M10 6h8v4h-8zM4 10v6a2 2 0 0 0 2 2h2"/></svg><span>News</span></a>
+  <a href="courses.html" data-tab="courses"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M2 3h6a4 4 0 0 1 4 4v14a3 3 0 0 0-3-3H2z"/><path d="M22 3h-6a4 4 0 0 0-4 4v14a3 3 0 0 1 3-3h7z"/></svg><span>Courses</span></a>
+  <a href="supplements.html" data-tab="supplements"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polygon points="12 2 2 7 12 12 22 7 12 2"/><polyline points="2 17 12 22 22 17"/><polyline points="2 12 12 17 22 12"/></svg><span>Supplements</span></a>
+  <a href="review.html" data-tab="review"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 12a9 9 0 1 0 2.6-6.4"/><polyline points="3 4 3 9 8 9"/></svg><span>Review</span></a>
+  <a href="settings.html" data-tab="me"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"/><circle cx="12" cy="7" r="4"/></svg><span>Me</span></a>
+</nav>
+
+<script>
+(function () {
+  var data = window.EE_DATA;
+  var order = ['foundation', 'a1', 'a2', 'b1', 'b2', 'c1', 'c2'];
+  var t = EE.continueTarget();
+  var chosenLevel = (data.levels[t.level] ? t.level : 'a1');
+  var chipsEl = document.getElementById('levelChips');
+  var grid = document.getElementById('suppGrid');
+
+  function renderChips() {
+    chipsEl.innerHTML = '';
+    order.forEach(function (key) {
+      var lv = data.levels[key];
+      var b = document.createElement('button');
+      b.className = 'level-chip' + (key === chosenLevel ? ' active' : '');
+      b.style.setProperty('--level', lv.color);
+      b.innerHTML = '<span class="dot" style="background:' + lv.color + '"></span>' + lv.name;
+      b.onclick = function () { chosenLevel = key; renderChips(); renderGrid(); };
+      chipsEl.appendChild(b);
+    });
+  }
+  function renderGrid() {
+    grid.innerHTML = '';
+    EE.supplementTypes().forEach(function (s) {
+      var count = (typeof s.perLevel === 'number')
+        ? s.perLevel + ' per level · ' + s.total.toLocaleString() + ' in total'
+        : s.perLevelLabel + ' · ' + s.total + ' in total';
+      var a = document.createElement('a');
+      a.className = 'supp-card';
+      a.style.setProperty('--supp', s.color);
+      a.href = 'supplement.html?type=' + encodeURIComponent(s.id) + '&level=' + chosenLevel;
+      a.innerHTML =
+        '<div class="band" style="background:' + s.color + '"></div><div class="body">' +
+        '<span class="ic-tile" style="background:' + s.color + '">' + EE.icon(s.icon) + '</span>' +
+        '<h3>' + EE.esc(s.name) + '</h3><div class="zh">' + EE.esc(s.zh) + '</div>' +
+        '<p>' + EE.esc(s.description) + '</p>' +
+        '<p><span class="pill">' + EE.esc(count) + '</span> ' +
+        '<span class="pill">' + (s.cadence === 'weekly' ? 'Weekly' : 'Daily') + '</span></p>' +
+        '<span class="go">Open ' + EE.esc(data.levels[chosenLevel].name) + ' ' + EE.icon('arrow') + '</span></div>';
+      grid.appendChild(a);
+    });
+  }
+  renderChips();
+  renderGrid();
+  var today = EE.continueTarget();
+  document.getElementById('todayBtn').href =
+    'day.html?level=' + encodeURIComponent(today.level) + '&day=' + today.day;
+})();
+</script>
+</body>
+</html>

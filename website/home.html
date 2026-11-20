@@ -7,21 +7,25 @@
 <link rel="stylesheet" href="styles.css">
 <style>body{background:#FFF6E0;color:#3D2314;font-family:'Nunito',system-ui,sans-serif}img{max-width:100%}</style>
 <script src="data/data.js"></script>
+<script src="data/supplements.js"></script>
 <script src="app.js"></script>
 </head>
 <body>
 <header class="site"><div class="bar">
   <a class="logo" href="home.html"><img src="assets/logo-wordmark-1.webp" alt="Everyday English"></a>
-  <nav class="main">
-    <a href="home.html" class="active"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 22h16"/><path d="M18 14h-8"/><path d="M18 18h-8"/><path d="M18 10h-8"/><path d="M10 6h8v4h-8zM4 10v6a2 2 0 0 0 2 2h2"/></svg>Today's News</a>
-    <a href="courses.html"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M2 3h6a4 4 0 0 1 4 4v14a3 3 0 0 0-3-3H2z"/><path d="M22 3h-6a4 4 0 0 0-4 4v14a3 3 0 0 1 3-3h7z"/></svg>Courses</a>
-    <a href="settings.html"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="3"/><path d="M19.4 15a1.65 1.65 0 0 0 .33 1.82l.06.06a2 2 0 1 1-2.83 2.83l-.06-.06a1.65 1.65 0 0 0-1.82-.33 1.65 1.65 0 0 0-1 1.51V21a2 2 0 1 1-4 0v-.09A1.65 1.65 0 0 0 9 19.4a1.65 1.65 0 0 0-1.82.33l-.06.06a2 2 0 1 1-2.83-2.83l.06-.06a1.65 1.65 0 0 0 .33-1.82 1.65 1.65 0 0 0-1.51-1H3a2 2 0 1 1 0-4h.09A1.65 1.65 0 0 0 4.6 9a1.65 1.65 0 0 0-.33-1.82l-.06-.06a2 2 0 1 1 2.83-2.83l.06.06a1.65 1.65 0 0 0 1.82.33H9a1.65 1.65 0 0 0 1-1.51V3a2 2 0 1 1 4 0v.09a1.65 1.65 0 0 0 1 1.51 1.65 1.65 0 0 0 1.82-.33l.06-.06a2 2 0 1 1 2.83 2.83l-.06.06a1.65 1.65 0 0 0-.33 1.82V9a1.65 1.65 0 0 0 1.51 1H21a2 2 0 1 1 0 4h-.09a1.65 1.65 0 0 0-1.51 1z"/></svg>Settings</a>
+  <nav class="main" aria-label="Main navigation">
+    <a href="home.html" data-nav="news"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 22h16"/><path d="M18 14h-8"/><path d="M18 18h-8"/><path d="M18 10h-8"/><path d="M10 6h8v4h-8zM4 10v6a2 2 0 0 0 2 2h2"/></svg>News</a>
+    <a href="courses.html" data-nav="courses"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M2 3h6a4 4 0 0 1 4 4v14a3 3 0 0 0-3-3H2z"/><path d="M22 3h-6a4 4 0 0 0-4 4v14a3 3 0 0 1 3-3h7z"/></svg>Courses</a>
+    <a href="supplements.html" data-nav="supplements"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polygon points="12 2 2 7 12 12 22 7 12 2"/><polyline points="2 17 12 22 22 17"/><polyline points="2 12 12 17 22 12"/></svg>Supplements</a>
+    <a href="review.html" data-nav="review"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 12a9 9 0 1 0 2.6-6.4"/><polyline points="3 4 3 9 8 9"/></svg>Review</a>
+    <a href="settings.html" data-nav="me"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"/><circle cx="12" cy="7" r="4"/></svg>Me</a>
   </nav>
+  <a class="btn small header-cta" href="home.html">Start learning</a>
 </div></header>
 
 <div class="wrap">
-  <!-- Continue learning -->
-  <section class="hero" id="continueCard">
+  <!-- Continue learning — full-bleed hero -->
+  <section class="hero fullbleed" id="continueCard">
     <span class="hero-badge"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M8 21h8M12 17v4M7 4h10v6a5 5 0 0 1-10 0V4z"/><path d="M7 6H4a1 1 0 0 0-1 1c0 2.5 2 4 4 4M17 6h3a1 1 0 0 1 1 1c0 2.5-2 4-4 4"/></svg>Welcome back — continue learning</span>
     <h1 style="margin-top:14px">Your next lesson is waiting.</h1>
     <p id="continueText">Your next lesson is waiting.</p>
@@ -32,8 +36,27 @@
     Firebase Auth + Firestore are connected.</p>
   </section>
 
-  <!-- The daily news lesson — CI structure, one global hottest story, no categories -->
-  <article class="news-hero">
+  <!-- Today at a glance: lesson + progress + supplements, full width -->
+  <div class="grid cols3" style="margin-top:18px">
+    <section class="card" style="margin:0">
+      <div class="section-head"><span class="ic-tile"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polygon points="6 3 20 12 6 21 6 3"/></svg></span><h2>Today's lesson</h2></div>
+      <p id="todayLessonText">Your next lesson is waiting.</p>
+      <p><a class="btn" id="todayLessonBtn" href="day.html?level=a1&amp;day=1">Go to today's lesson</a></p>
+    </section>
+    <section class="card" style="margin:0">
+      <div class="section-head"><span class="ic-tile"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M8.5 14.5A2.5 2.5 0 0 0 11 12c0-1.38-.5-2-1-3-1.072-2.143-.224-4.054 2-6 .5 2.5 2 4.9 4 6.5 2 1.6 3 3.5 3 5.5a7 7 0 1 1-14 0c0-1.153.433-2.294 1-3a2.5 2.5 0 0 0 2.5 2.5z"/></svg></span><h2>Your progress</h2></div>
+      <p id="progressText">Nothing visited yet — your first lesson is Day 1.</p>
+      <p><a class="btn ghost" href="review.html">Review what you learned</a></p>
+    </section>
+    <section class="card" style="margin:0">
+      <div class="section-head"><span class="ic-tile"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polygon points="12 2 2 7 12 12 22 7 12 2"/><polyline points="2 17 12 22 22 17"/><polyline points="2 12 12 17 22 12"/></svg></span><h2>Today's supplements</h2></div>
+      <p>Six types, same words as today's lesson. Five daily, writing once a week.</p>
+      <p><a class="btn ghost" href="supplements.html">Open Supplements</a></p>
+    </section>
+  </div>
+
+  <!-- The daily news lesson — full-bleed banner, then main + sidebar -->
+  <article class="news-hero fullbleed">
     <p style="margin:0">
       <span class="pill white"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 22h16"/><path d="M18 14h-8"/><path d="M18 18h-8"/><path d="M18 10h-8"/><path d="M10 6h8v4h-8zM4 10v6a2 2 0 0 0 2 2h2"/></svg>Today's News English</span>
       <span class="pill white"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="4" width="18" height="18" rx="2"/><line x1="16" y1="2" x2="16" y2="6"/><line x1="8" y1="2" x2="8" y2="6"/><line x1="3" y1="10" x2="21" y2="10"/></svg>Friday, 20 November 2026</span>
@@ -45,110 +68,114 @@
     <p class="small" style="color:rgba(255,255,255,.85)">New every morning · only this page changes daily · one global hottest story, no categories</p>
   </article>
 
-  <article class="card">
-    <div class="section-head">
-      <span class="ic-tile"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><line x1="2" y1="12" x2="22" y2="12"/><path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"/></svg></span>
-      <h2>What is this story about?</h2>
-    </div>
-    <p>Voyager 1 is a small spacecraft — a machine that flies in space. NASA sent it
-    into space in 1977, almost 50 years ago. Now it is so far from Earth that a radio
-    message takes <strong>one whole day</strong> to reach it. On Wednesday 18 November 2026,
-    it became the first human-made object ever to be <strong>one light-day</strong> away from
-    Earth. A light-day is the distance light travels in 24 hours: about 26 billion
-    kilometres (16 billion miles). NASA received its message on Thursday, exactly
-    24 hours after it was sent.</p>
+  <div class="layout">
+    <article class="card layout-main" style="margin:0">
+      <div class="section-head">
+        <span class="ic-tile"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><line x1="2" y1="12" x2="22" y2="12"/><path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"/></svg></span>
+        <h2>What is this story about?</h2>
+      </div>
+      <p>Voyager 1 is a small spacecraft — a machine that flies in space. NASA sent it
+      into space in 1977, almost 50 years ago. Now it is so far from Earth that a radio
+      message takes <strong>one whole day</strong> to reach it. On Wednesday 18 November 2026,
+      it became the first human-made object ever to be <strong>one light-day</strong> away from
+      Earth. A light-day is the distance light travels in 24 hours: about 26 billion
+      kilometres (16 billion miles). NASA received its message on Thursday, exactly
+      24 hours after it was sent.</p>
 
-    <div class="section-head">
-      <span class="ic-tile"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"/></svg></span>
-      <h2>News excerpt</h2>
-    </div>
-    <blockquote>“NASA's Voyager 1 has phoned home from one light-day away, humanity's first
-    emissary to cross this monumental threshold way out in interstellar space.
-    Flight controllers received the spacecraft's call Thursday, exactly 24 hours
-    after it was sent.”<br>— Associated Press</blockquote>
-    <p class="small muted">Excerpt only — we do not republish the full article. Read the full story at
-    the link at the bottom of this lesson.</p>
+      <div class="section-head">
+        <span class="ic-tile"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"/></svg></span>
+        <h2>News excerpt</h2>
+      </div>
+      <blockquote>“NASA's Voyager 1 has phoned home from one light-day away, humanity's first
+      emissary to cross this monumental threshold way out in interstellar space.
+      Flight controllers received the spacecraft's call Thursday, exactly 24 hours
+      after it was sent.”<br>— Associated Press</blockquote>
+      <p class="small muted">Excerpt only — we do not republish the full article. Read the full story at
+      the link at the bottom of this lesson.</p>
 
-    <div class="section-head">
-      <span class="ic-tile"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></svg></span>
-      <h2>Key vocabulary</h2>
-    </div>
-    <div class="vocab-grid">
-      <div class="vocab-card"><div class="word">spacecraft</div><div class="ipa">/ˈspeɪskrɑːft/ · noun</div><p>A machine that travels in space. <em>“Voyager 1 is a spacecraft.”</em></p></div>
-      <div class="vocab-card"><div class="word">light-day</div><div class="ipa">noun</div><p>The distance light travels in one day — about 26 billion kilometres.</p></div>
-      <div class="vocab-card"><div class="word">signal</div><div class="ipa">noun</div><p>A message sent by radio or light. <em>“The signal took 24 hours to arrive.”</em></p></div>
-      <div class="vocab-card"><div class="word">interstellar space</div><div class="ipa">noun</div><p>The space between the stars, far outside our solar system.</p></div>
-      <div class="vocab-card"><div class="word">threshold</div><div class="ipa">noun</div><p>A point you cross to enter a new place or stage. <em>“It crossed a monumental threshold.”</em></p></div>
-      <div class="vocab-card"><div class="word">emissary</div><div class="ipa">noun</div><p>A person or thing sent to represent others far away. Here, Voyager 1 represents humanity.</p></div>
-      <div class="vocab-card"><div class="word">monumental</div><div class="ipa">adjective</div><p>Very big and very important.</p></div>
-      <div class="vocab-card"><div class="word">traverse</div><div class="ipa">verb</div><p>To travel across something. <em>“The signal traversed 16 billion miles.”</em></p></div>
-    </div>
+      <div class="section-head">
+        <span class="ic-tile"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></svg></span>
+        <h2>Key vocabulary</h2>
+      </div>
+      <div class="vocab-grid">
+        <div class="vocab-card"><div class="word">spacecraft</div><div class="ipa">/ˈspeɪskrɑːft/ · noun</div><p>A machine that travels in space. <em>“Voyager 1 is a spacecraft.”</em></p></div>
+        <div class="vocab-card"><div class="word">light-day</div><div class="ipa">noun</div><p>The distance light travels in one day — about 26 billion kilometres.</p></div>
+        <div class="vocab-card"><div class="word">signal</div><div class="ipa">noun</div><p>A message sent by radio or light. <em>“The signal took 24 hours to arrive.”</em></p></div>
+        <div class="vocab-card"><div class="word">interstellar space</div><div class="ipa">noun</div><p>The space between the stars, far outside our solar system.</p></div>
+        <div class="vocab-card"><div class="word">threshold</div><div class="ipa">noun</div><p>A point you cross to enter a new place or stage. <em>“It crossed a monumental threshold.”</em></p></div>
+        <div class="vocab-card"><div class="word">emissary</div><div class="ipa">noun</div><p>A person or thing sent to represent others far away. Here, Voyager 1 represents humanity.</p></div>
+        <div class="vocab-card"><div class="word">monumental</div><div class="ipa">adjective</div><p>Very big and very important.</p></div>
+        <div class="vocab-card"><div class="word">traverse</div><div class="ipa">verb</div><p>To travel across something. <em>“The signal traversed 16 billion miles.”</em></p></div>
+      </div>
 
-    <div class="section-head">
-      <span class="ic-tile"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M17 3a2.828 2.828 0 1 1 4 4L7.5 20.5 2 22l1.5-5.5L17 3z"/></svg></span>
-      <h2>Key grammar</h2>
-    </div>
-    <div class="grammar-block" style="--level:#4F46E5">
-      <h3>Present perfect — <em>“has phoned home.”</em></h3>
-      <p>The news uses the present perfect for a recent event with a result now: <em>has</em> + past participle.
-      Compare: “It phoned home” (past simple — finished time) vs “It has phoned home”
-      (present perfect — the news is new, and it matters now).</p>
-    </div>
-    <div class="grammar-block" style="--level:#22C55E">
-      <h3>Distance as time — <em>“one light-day away.”</em></h3>
-      <p>English often measures far distances by how long light takes to travel: a light-second, a light-minute,
-      a light-day. “Away” tells you the distance from here.</p>
-    </div>
-    <div class="grammar-block" style="--level:#F97316">
-      <h3>Exactly — <em>“exactly 24 hours after it was sent.”</em></h3>
-      <p>“Exactly” makes a number precise. In news writing it shows the fact was checked.</p>
-    </div>
+      <div class="section-head">
+        <span class="ic-tile"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M17 3a2.828 2.828 0 1 1 4 4L7.5 20.5 2 22l1.5-5.5L17 3z"/></svg></span>
+        <h2>Key grammar</h2>
+      </div>
+      <div class="grammar-block" style="--level:#4F46E5">
+        <h3>Present perfect — <em>“has phoned home.”</em></h3>
+        <p>The news uses the present perfect for a recent event with a result now: <em>has</em> + past participle.
+        Compare: “It phoned home” (past simple — finished time) vs “It has phoned home”
+        (present perfect — the news is new, and it matters now).</p>
+      </div>
+      <div class="grammar-block" style="--level:#22C55E">
+        <h3>Distance as time — <em>“one light-day away.”</em></h3>
+        <p>English often measures far distances by how long light takes to travel: a light-second, a light-minute,
+        a light-day. “Away” tells you the distance from here.</p>
+      </div>
+      <div class="grammar-block" style="--level:#F97316">
+        <h3>Exactly — <em>“exactly 24 hours after it was sent.”</em></h3>
+        <p>“Exactly” makes a number precise. In news writing it shows the fact was checked.</p>
+      </div>
 
-    <div class="section-head">
-      <span class="ic-tile"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polygon points="12 2 2 7 12 12 22 7 12 2"/><polyline points="2 17 12 22 22 17"/><polyline points="2 12 12 17 22 12"/></svg></span>
-      <h2>Paragraph structure</h2>
-    </div>
-    <ol class="num-list">
-      <li><strong>Headline</strong> — the whole story in one line. “Phones home” is a friendly,
-      human way to say “sent a message back.”</li>
-      <li><strong>Lead (first paragraph)</strong> — who (Voyager 1), what (phoned home from one
-      light-day away), and why it matters (a first for humanity).</li>
-      <li><strong>Detail</strong> — the numbers: 24 hours, 16 billion miles, 26 billion kilometres.
-      Numbers make the scale real.</li>
-      <li><strong>Background</strong> — launched in 1977, now in interstellar space, still
-      sending data after almost 50 years.</li>
-      <li><strong>What happens next</strong> — NASA hopes to stay in touch into the early 2030s,
-      until its power runs too low.</li>
-    </ol>
+      <div class="section-head">
+        <span class="ic-tile"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polygon points="12 2 2 7 12 12 22 7 12 2"/><polyline points="2 17 12 22 22 17"/><polyline points="2 12 12 17 22 12"/></svg></span>
+        <h2>Paragraph structure</h2>
+      </div>
+      <ol class="num-list">
+        <li><strong>Headline</strong> — the whole story in one line. “Phones home” is a friendly,
+        human way to say “sent a message back.”</li>
+        <li><strong>Lead (first paragraph)</strong> — who (Voyager 1), what (phoned home from one
+        light-day away), and why it matters (a first for humanity).</li>
+        <li><strong>Detail</strong> — the numbers: 24 hours, 16 billion miles, 26 billion kilometres.
+        Numbers make the scale real.</li>
+        <li><strong>Background</strong> — launched in 1977, now in interstellar space, still
+        sending data after almost 50 years.</li>
+        <li><strong>What happens next</strong> — NASA hopes to stay in touch into the early 2030s,
+        until its power runs too low.</li>
+      </ol>
 
-    <div class="section-head">
-      <span class="ic-tile"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M2 3h6a4 4 0 0 1 4 4v14a3 3 0 0 0-3-3H2z"/><path d="M22 3h-6a4 4 0 0 0-4 4v14a3 3 0 0 1 3-3h7z"/></svg></span>
-      <h2>How to read a news article</h2>
-    </div>
-    <ol class="num-list">
-      <li>Read the <strong>headline</strong> first — it is the story in one sentence.</li>
-      <li>Read the <strong>first paragraph</strong>. It answers: who, what, when, where, why.</li>
-      <li>Look for <strong>numbers</strong>. They tell you how big, how far, how long.</li>
-      <li>Look for <strong>quotes</strong> — words in “…” are what a real person said.</li>
-      <li>Do not worry about every word. Find the <strong>main idea</strong> of each paragraph,
-      then go back for the words you need.</li>
-    </ol>
+      <div class="section-head">
+        <span class="ic-tile"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M2 3h6a4 4 0 0 1 4 4v14a3 3 0 0 0-3-3H2z"/><path d="M22 3h-6a4 4 0 0 0-4 4v14a3 3 0 0 1 3-3h7z"/></svg></span>
+        <h2>How to read a news article</h2>
+      </div>
+      <ol class="num-list">
+        <li>Read the <strong>headline</strong> first — it is the story in one sentence.</li>
+        <li>Read the <strong>first paragraph</strong>. It answers: who, what, when, where, why.</li>
+        <li>Look for <strong>numbers</strong>. They tell you how big, how far, how long.</li>
+        <li>Look for <strong>quotes</strong> — words in “…” are what a real person said.</li>
+        <li>Do not worry about every word. Find the <strong>main idea</strong> of each paragraph,
+        then go back for the words you need.</li>
+      </ol>
 
-    <div class="section-head">
-      <span class="ic-tile"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 2l2.4 4.8L20 8l-4 3.9.9 5.6L12 14.9 7.1 17.5 8 11.9 4 8l5.6-1.2L12 2z"/></svg></span>
-      <h2>Try it yourself</h2>
-    </div>
-    <p>1. How long does a message take to travel from Earth to Voyager 1 now?<br>
-    2. What does “one light-day” mean?<br>
-    3. In your own words, why is this story news?</p>
-    <p class="small muted">Answers: 1. 24 hours (one day). 2. The distance light travels in 24 hours.
-    3. Your answer — for example: “Because Voyager 1 is the first human-made object to be that far away.”</p>
+      <div class="section-head">
+        <span class="ic-tile"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 2l2.4 4.8L20 8l-4 3.9.9 5.6L12 14.9 7.1 17.5 8 11.9 4 8l5.6-1.2L12 2z"/></svg></span>
+        <h2>Try it yourself</h2>
+      </div>
+      <p>1. How long does a message take to travel from Earth to Voyager 1 now?<br>
+      2. What does “one light-day” mean?<br>
+      3. In your own words, why is this story news?</p>
+      <p class="small muted">Answers: 1. 24 hours (one day). 2. The distance light travels in 24 hours.
+      3. Your answer — for example: “Because Voyager 1 is the first human-made object to be that far away.”</p>
 
-    <p><a class="btn" href="https://spaceflightnow.com/2026/11/18/nasas-voyager-1-is-one-light-day-from-earth/" target="_blank" rel="noopener">Read the full story <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="5" y1="12" x2="19" y2="12"/><polyline points="12 5 19 12 12 19"/></svg></a></p>
-    <p class="small muted">Full story: Spaceflight Now, “NASA's Voyager 1 is one light-day from Earth”
-    (18 Nov 2026). The same story led Google News Top Stories on 19–20 Nov 2026 under the
-    Associated Press headline above. A new news lesson appears here every morning.</p>
-  </article>
+      <p><a class="btn" href="https://spaceflightnow.com/2026/11/18/nasas-voyager-1-is-one-light-day-from-earth/" target="_blank" rel="noopener">Read the full story <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="5" y1="12" x2="19" y2="12"/><polyline points="12 5 19 12 12 19"/></svg></a></p>
+      <p class="small muted">Full story: Spaceflight Now, “NASA's Voyager 1 is one light-day from Earth”
+      (18 Nov 2026). The same story led Google News Top Stories on 19–20 Nov 2026 under the
+      Associated Press headline above. A new news lesson appears here every morning.</p>
+    </article>
+
+    <aside class="sidebar" id="newsSide"></aside>
+  </div>
 
   <section class="card">
     <div class="section-head">
@@ -163,17 +190,49 @@
 
 <footer class="site"><p class="small muted">Everyday English · everydayenglish.app ·
 News lessons use short excerpts with a link to the original. Full articles belong to their publishers.</p></footer>
+<nav class="tabbar" aria-label="App navigation">
+  <a href="home.html" data-tab="news"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 22h16"/><path d="M18 14h-8"/><path d="M18 18h-8"/><path d="M18 10h-8"/><path d="M10 6h8v4h-8zM4 10v6a2 2 0 0 0 2 2h2"/></svg><span>News</span></a>
+  <a href="courses.html" data-tab="courses"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M2 3h6a4 4 0 0 1 4 4v14a3 3 0 0 0-3-3H2z"/><path d="M22 3h-6a4 4 0 0 0-4 4v14a3 3 0 0 1 3-3h7z"/></svg><span>Courses</span></a>
+  <a href="supplements.html" data-tab="supplements"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polygon points="12 2 2 7 12 12 22 7 12 2"/><polyline points="2 17 12 22 22 17"/><polyline points="2 12 12 17 22 12"/></svg><span>Supplements</span></a>
+  <a href="review.html" data-tab="review"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 12a9 9 0 1 0 2.6-6.4"/><polyline points="3 4 3 9 8 9"/></svg><span>Review</span></a>
+  <a href="settings.html" data-tab="me"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"/><circle cx="12" cy="7" r="4"/></svg><span>Me</span></a>
+</nav>
 
 <script>
 (function () {
   var t = EE.continueTarget();
   var lv = (EE.data().levels || {})[t.level];
   var name = lv ? lv.name : t.level.toUpperCase();
+  var href = 'day.html?level=' + encodeURIComponent(t.level) + '&day=' + t.day;
   document.getElementById('continueText').textContent =
     'Next up: ' + name + ' · Day ' + t.day + '. Pick up exactly where you left off.';
-  var href = 'day.html?level=' + encodeURIComponent(t.level) + '&day=' + t.day;
   document.getElementById('continueBtn').href = href;
   document.getElementById('afterNewsBtn').href = href;
+  document.getElementById('todayLessonBtn').href = href;
+  document.getElementById('todayLessonText').textContent =
+    name + ' · Day ' + t.day + ' — 10 cards, then today\'s supplements on the same page.';
+  var totalVisited = 0;
+  Object.keys(EE.data().levels || {}).forEach(function (k) {
+    totalVisited += EE.visitedCount(k, EE.data().levels[k].days).done;
+  });
+  document.getElementById('progressText').textContent =
+    totalVisited > 0
+      ? totalVisited + ' days visited so far. You are on ' + name + ' · Day ' + t.day + '.'
+      : 'Nothing visited yet — your first lesson is Day 1.';
+
+  /* Sidebar: today's supplements (from the registry) + up next. */
+  var links = EE.supplementTypes().map(function (s) {
+    return '<a class="side-link" href="supplement.html?type=' + encodeURIComponent(s.id) + '&level=' + encodeURIComponent(t.level) + '">' +
+      '<span class="ic-tile" style="background:' + s.color + ';color:#fff;width:40px;height:40px;border-radius:12px">' + EE.icon(s.icon) + '</span>' +
+      '<span>' + EE.esc(s.name) + '<small>' + EE.esc(s.perLevelLabel) + '</small></span></a>';
+  }).join('');
+  document.getElementById('newsSide').innerHTML =
+    '<section class="card"><h3>Today\'s supplements</h3>' + links +
+    '<p><a class="btn small" href="supplements.html">All supplements</a></p></section>' +
+    '<section class="card"><h3>Up next</h3><p class="muted">' + name + ' · Day ' + t.day + ' — 10 cards, then the supplements above.</p>' +
+    '<p><a class="btn small" href="' + href + '">Start today\'s lesson</a></p></section>' +
+    '<section class="card"><h3>Main Course</h3><p class="muted">7 levels, Foundation to C2. Your level: ' + name + '.</p>' +
+    '<p><a class="btn ghost small" href="courses.html">All courses</a></p></section>';
 })();
 </script>
 </body>

@@ -416,3 +416,124 @@ footer.site{border-top:2px solid var(--border);padding:20px;text-align:center}
 /* A2 yellow: dark text on its lesson header, and a dark progress bar. */
 .lesson-head[data-level="a2"] p{color:rgba(61,35,20,.85)}
 .lesson-head[data-level="a2"] .progress{background:rgba(61,35,20,.18)}
+
+/* ================= v3 — full-width web layout + app-ready navigation ================ */
+/* James, 2026-11-20: web must fill the whole page (no narrow centre column);
+   mobile must adapt to a phone aspect ratio; the site will become an app, so
+   the same 5 destinations are the app's tab bar. Breakpoints: 1024px and 640px. */
+html,body{overflow-x:hidden}
+.wrap{max-width:1360px;padding:0 32px 64px}
+.narrow{max-width:880px}
+header.site .bar{max-width:1360px;padding:10px 32px}
+.header-cta{margin-left:8px}
+nav.main a.active{background:var(--primary);color:#fff}
+
+/* Full-bleed heroes: edge-to-edge bands inside the wide wrap. */
+.fullbleed{
+  width:100vw;max-width:100vw;
+  margin-left:calc(50% - 50vw);margin-right:calc(50% - 50vw);
+  border-radius:0;
+  padding-left:max(32px,calc((100vw - 1360px)/2 + 32px));
+  padding-right:max(32px,calc((100vw - 1360px)/2 + 32px));
+}
+.hero.fullbleed,.news-hero.fullbleed{box-shadow:none}
+
+/* Grids that stretch across the page. */
+.grid.cols3{grid-template-columns:repeat(3,minmax(0,1fr))}
+.grid.cols4{grid-template-columns:repeat(4,minmax(0,1fr))}
+.grid.cols2{grid-template-columns:repeat(2,minmax(0,1fr))}
+.grid.cols2.wide{grid-template-columns:repeat(2,minmax(0,1fr))}
+
+/* Two-column content + right sidebar (home / level / day on desktop). */
+.layout{display:grid;grid-template-columns:minmax(0,1fr) 340px;gap:24px;align-items:start}
+.layout-main{min-width:0}
+.sidebar{position:sticky;top:88px;display:flex;flex-direction:column;gap:16px}
+.sidebar .card{margin:0}
+.sidebar h3{margin:0 0 6px}
+.side-link{display:flex;align-items:center;gap:10px;padding:10px 4px;border-bottom:1px solid var(--border);text-decoration:none;color:inherit;font-weight:800}
+.side-link:last-child{border-bottom:0}
+.side-link svg{width:20px;height:20px;color:var(--primary-dark)}
+.side-link small{display:block;font-weight:600;color:var(--muted)}
+
+/* Stat row: 3–4 tiles across the full width. */
+.stat-row{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:16px;margin:18px 0}
+.stat-tile{background:var(--surface);border:2px solid var(--border);border-radius:var(--radius);padding:18px 20px;box-shadow:var(--shadow)}
+.stat-tile .num{font-size:1.9rem;font-weight:900;line-height:1.1}
+.stat-tile .lbl{font-weight:800;color:var(--muted)}
+.stat-tile .ic-tile{margin-bottom:8px}
+
+/* Supplement cards (hub + detail). Colour comes from the registry entry. */
+.supp-card{
+  display:block;text-decoration:none;color:inherit;background:var(--surface);
+  border:2px solid var(--border);border-radius:var(--radius-lg);overflow:hidden;
+  box-shadow:var(--shadow);
+}
+.supp-card .band{height:12px;background:var(--supp,#F68A1E)}
+.supp-card .body{padding:20px 22px}
+.supp-card h3{margin:10px 0 2px}
+.supp-card .zh{font-weight:800;color:var(--muted)}
+.supp-card p{color:var(--muted)}
+.supp-card .ic-tile{background:var(--supp,#F68A1E);color:#fff}
+.supp-card .go{font-weight:900;color:var(--primary-dark)}
+.level-chips{display:flex;gap:8px;flex-wrap:wrap;margin:12px 0}
+.level-chip{
+  display:inline-flex;align-items:center;gap:6px;text-decoration:none;
+  border:2px solid var(--border);background:var(--surface);color:var(--text);
+  font-weight:800;padding:9px 16px;border-radius:999px;font-family:inherit;cursor:pointer;
+}
+.level-chip .dot{width:12px;height:12px;border-radius:50%;background:var(--level,#F68A1E)}
+.level-chip.active{background:var(--text);border-color:var(--text);color:var(--surface)}
+.level-chip.active .dot{background:#fff}
+
+/* IA strip: News / Main Course / Supplements / Review cards on landing + courses. */
+.ia-strip{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:16px;margin:18px 0}
+.ia-card{display:block;text-decoration:none;color:inherit;background:var(--surface);border:2px solid var(--border);border-radius:var(--radius);padding:20px;box-shadow:var(--shadow)}
+.ia-card h3{margin:10px 0 4px}
+.ia-card p{margin:0;color:var(--muted)}
+.ia-card .step-no{font-size:.85rem;font-weight:900;color:var(--primary-dark);letter-spacing:.04em}
+
+/* Mobile bottom tab bar — the app's tab bar. Hidden on desktop. */
+.tabbar{
+  display:none;position:fixed;left:0;right:0;bottom:0;z-index:50;
+  background:var(--surface);border-top:2px solid var(--border);
+  padding:6px 4px calc(6px + env(safe-area-inset-bottom));
+  box-shadow:0 -6px 24px rgba(122,42,26,.10);
+}
+.tabbar a{
+  flex:1;display:flex;flex-direction:column;align-items:center;gap:2px;
+  text-decoration:none;color:var(--muted);font-weight:800;font-size:.78rem;
+  padding:6px 2px;border-radius:12px;min-height:52px;justify-content:center;
+}
+.tabbar a svg{width:24px;height:24px}
+.tabbar a.active{color:var(--primary-dark)}
+.tabbar a.active svg{color:var(--primary)}
+
+/* ---------- breakpoints ---------- */
+@media (max-width:1024px){
+  .wrap{padding:0 24px 64px}
+  header.site .bar{padding:10px 24px}
+  nav.main{display:none}              /* top nav links move to the bottom tab bar */
+  .header-cta{display:none}
+  .tabbar{display:flex}
+  body{padding-bottom:72px}           /* keep footer/content clear of the tab bar */
+  .layout{grid-template-columns:minmax(0,1fr)}
+  .sidebar{position:static}
+  .grid.cols4{grid-template-columns:repeat(2,minmax(0,1fr))}
+  .ia-strip{grid-template-columns:repeat(2,minmax(0,1fr))}
+  .stat-row{grid-template-columns:repeat(2,minmax(0,1fr))}
+  .level-card.featured{padding:24px}
+}
+@media (max-width:640px){
+  body{font-size:17px}
+  .wrap{padding:0 16px 64px}
+  header.site .bar{padding:8px 16px}
+  .logo img{height:40px}
+  .grid.cols2,.grid.cols3,.grid.cols4,.ia-strip,.stat-row{grid-template-columns:minmax(0,1fr)}
+  .hero{padding:26px 20px}
+  .hero h1{font-size:1.9rem}
+  .news-hero{padding:24px 20px}
+  .fullbleed{padding-left:16px;padding-right:16px}
+  .btn{padding:13px 20px}
+  .tabbar a{font-size:.72rem;min-height:56px}
+  .level-choice.featured{padding:20px}
+}

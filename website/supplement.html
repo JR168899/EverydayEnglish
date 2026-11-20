@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Supplement — Everyday English</title>
+<link rel="stylesheet" href="styles.css">
+<style>body{background:#FFF6E0;color:#3D2314;font-family:'Nunito',system-ui,sans-serif}img{max-width:100%}</style>
+<script src="data/data.js"></script>
+<script src="data/supplements.js"></script>
+<script src="app.js"></script>
+</head>
+<body>
+<header class="site"><div class="bar">
+  <a class="logo" href="home.html"><img src="assets/logo-wordmark-1.webp" alt="Everyday English"></a>
+  <nav class="main" aria-label="Main navigation">
+    <a href="home.html" data-nav="news"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 22h16"/><path d="M18 14h-8"/><path d="M18 18h-8"/><path d="M18 10h-8"/><path d="M10 6h8v4h-8zM4 10v6a2 2 0 0 0 2 2h2"/></svg>News</a>
+    <a href="courses.html" data-nav="courses"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M2 3h6a4 4 0 0 1 4 4v14a3 3 0 0 0-3-3H2z"/><path d="M22 3h-6a4 4 0 0 0-4 4v14a3 3 0 0 1 3-3h7z"/></svg>Courses</a>
+    <a href="supplements.html" data-nav="supplements"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polygon points="12 2 2 7 12 12 22 7 12 2"/><polyline points="2 17 12 22 22 17"/><polyline points="2 12 12 17 22 12"/></svg>Supplements</a>
+    <a href="review.html" data-nav="review"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 12a9 9 0 1 0 2.6-6.4"/><polyline points="3 4 3 9 8 9"/></svg>Review</a>
+    <a href="settings.html" data-nav="me"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"/><circle cx="12" cy="7" r="4"/></svg>Me</a>
+  </nav>
+  <a class="btn small header-cta" href="home.html">Start learning</a>
+</div></header>
+
+<div class="wrap" id="page">
+  <p><a href="supplements.html">← All supplements</a></p>
+  <div id="suppHead"></div>
+  <div class="level-chips" id="levelChips"></div>
+  <div class="layout">
+    <div class="layout-main" id="suppBody"></div>
+    <aside class="sidebar" id="suppSide"></aside>
+  </div>
+</div>
+
+<footer class="site"><p class="small muted">Everyday English · everydayenglish.app</p></footer>
+<nav class="tabbar" aria-label="App navigation">
+  <a href="home.html" data-tab="news"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 22h16"/><path d="M18 14h-8"/><path d="M18 18h-8"/><path d="M18 10h-8"/><path d="M10 6h8v4h-8zM4 10v6a2 2 0 0 0 2 2h2"/></svg><span>News</span></a>
+  <a href="courses.html" data-tab="courses"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M2 3h6a4 4 0 0 1 4 4v14a3 3 0 0 0-3-3H2z"/><path d="M22 3h-6a4 4 0 0 0-4 4v14a3 3 0 0 1 3-3h7z"/></svg><span>Courses</span></a>
+  <a href="supplements.html" data-tab="supplements"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polygon points="12 2 2 7 12 12 22 7 12 2"/><polyline points="2 17 12 22 22 17"/><polyline points="2 12 12 17 22 12"/></svg><span>Supplements</span></a>
+  <a href="review.html" data-tab="review"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 12a9 9 0 1 0 2.6-6.4"/><polyline points="3 4 3 9 8 9"/></svg><span>Review</span></a>
+  <a href="settings.html" data-tab="me"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"/><circle cx="12" cy="7" r="4"/></svg><span>Me</span></a>
+</nav>
+
+<script>
+(function () {
+  var params = new URLSearchParams(location.search);
+  var typeId = params.get('type') || 'phrasal-verbs';
+  var level = params.get('level') || 'a1';
+  var data = window.EE_DATA;
+  var s = EE.supplementById(typeId);
+  var page = document.getElementById('page');
+  if (!s || !data.levels[level]) {
+    page.innerHTML = '<h1>Supplement not found</h1><p><a href="supplements.html">Back to all supplements</a></p>';
+    return;
+  }
+  var lv = data.levels[level];
+  document.title = s.name + ' · ' + lv.name + ' — Everyday English';
+  document.documentElement.style.setProperty('--level', lv.color);
+
+  var count = (typeof s.perLevel === 'number')
+    ? s.perLevel + ' items at this level · ' + s.total.toLocaleString() + ' across all 7 levels'
+    : s.perLevelLabel + ' · ' + (s.perLevelCounts ? s.perLevelCounts[level] : s.total) +
+      ' at ' + lv.name + ' · ' + s.total + ' across all 7 levels';
+
+  document.getElementById('suppHead').innerHTML =
+    '<section class="hero fullbleed" style="background:linear-gradient(135deg,' + s.color + ' 0%,' + s.color + ' 60%,' + lv.color + ' 130%)">' +
+    '<span class="hero-badge">' + EE.icon(s.icon) + ' Supplement · ' + (s.cadence === 'weekly' ? 'Weekly' : 'Daily') + '</span>' +
+    '<h1>' + EE.esc(s.name) + ' · ' + lv.name + '</h1>' +
+    '<p>' + EE.esc(s.description) + '</p>' +
+    '<div class="stat-chips"><span class="stat-chip">' + EE.esc(count) + '</span>' +
+    '<span class="stat-chip">' + EE.esc(s.zh) + '</span></div></section>';
+
+  var chipsEl = document.getElementById('levelChips');
+  ['foundation', 'a1', 'a2', 'b1', 'b2', 'c1', 'c2'].forEach(function (key) {
+    var L = data.levels[key];
+    var a = document.createElement('a');
+    a.className = 'level-chip' + (key === level ? ' active' : '');
+    a.style.setProperty('--level', L.color);
+    a.href = 'supplement.html?type=' + encodeURIComponent(s.id) + '&level=' + key;
+    a.innerHTML = '<span class="dot" style="background:' + L.color + '"></span>' + L.name;
+    chipsEl.appendChild(a);
+  });
+
+  /* ---- body: the real A1 sample where it exists, otherwise a clear notice ---- */
+  var body = document.getElementById('suppBody');
+  var S = data.supplementsA1 || {};
+  var sample = S[s.sampleKey];
+  var html = '';
+  function flash(inner) {
+    return '<div class="flashcard" style="--level:' + s.color + '">' + inner + '</div>';
+  }
+  if (level === 'a1' && sample) {
+    html += '<div class="section-head"><span class="ic-tile" style="background:' + s.color + ';color:#fff">' + EE.icon(s.icon) + '</span><h2>Sample item — ' + lv.name + '</h2></div>';
+    if (s.id === 'phrasal-verbs') {
+      html += flash('<div class="word">' + EE.esc(sample.entry) + '</div><p>' + EE.esc(sample.definition) + '</p><p><em>' + EE.esc(sample.example) + '</em></p>' +
+        '<p><strong>Try it:</strong><br>' + (sample.conversation || []).map(function (x) { return EE.esc(x.speaker + ': ' + x.line); }).join('<br>') + '</p>');
+    } else if (s.id === 'idioms') {
+      html += flash('<div class="word">' + EE.esc(sample.entry) + '</div><p>' + EE.esc(sample.definition) + '</p><p><em>' + EE.esc(sample.example) + '</em></p>');
+    } else if (s.id === 'sentence-patterns') {
+      html += flash('<div class="word">' + EE.esc(sample.pattern) + '</div><p><strong>Form:</strong> ' + EE.esc(sample.form) + '</p><p>' + EE.esc(sample.explanation) + '</p>' +
+        (sample.examples || []).map(function (e) { return '<p><em>' + EE.esc(e.sentence) + '</em> <span class="muted">— ' + EE.esc(e.situation) + '</span></p>'; }).join(''));
+    } else if (s.id === 'flashcards') {
+      html += flash('<div class="word">' + EE.esc(sample.word) + '</div><p class="ipa">' + EE.esc(sample.ipa || '') + ' · ' + EE.esc(sample.partOfSpeech || '') + '</p><p>' + EE.esc(sample.definition) + '</p><p><em>' + EE.esc(sample.example) + '</em></p>');
+    } else if (s.id === 'jokes') {
+      html += flash('<div class="word">' + EE.esc(sample.joke) + '</div><p>' + EE.esc(sample.whyFunny) + '</p><p><strong>Key words:</strong> ' + (sample.keyWords || []).map(function (k) { return EE.esc(k.word) + ' — ' + EE.esc(k.explanation); }).join('; ') + '</p>');
+    } else if (s.id === 'writing') {
+      html += flash('<div class="word">' + EE.esc(sample.topic) + ' (' + sample.wordCount + ' words)</div><p><strong>Your task:</strong> ' + EE.esc(sample.task) + '</p><p><strong>Model text:</strong><br>' + EE.esc(sample.modelText) + '</p><p><strong>Patterns to reuse:</strong> ' + (sample.patterns || []).map(EE.esc).join(' · ') + '</p><p class="small muted">Self-check: ' + (sample.selfCheck || []).map(EE.esc).join(' · ') + '</p>');
+    }
+    html += '<p class="small muted">This is the real A1 sample item. The full set for ' + lv.name + ' — ' +
+      (typeof s.perLevel === 'number' ? s.perLevel + ' items' : 'one composition a week') +
+      ' — is the next build step; items are added level by level from the course files, never invented.</p>';
+  } else {
+    html += '<div class="notice"><strong>The full ' + lv.name + ' set for ' + EE.esc(s.name) + ' is not in this preview yet.</strong> ' +
+      'Each level gets ' + (typeof s.perLevel === 'number' ? s.perLevel + ' items' : 'one composition a week') +
+      ', built from the course files — the same no-repeat rule as the main course. ' +
+      'The A1 sample below shows exactly what an item looks like.</div>';
+    var a1 = S[s.sampleKey];
+    if (a1) {
+      html += '<p><a class="btn" href="supplement.html?type=' + encodeURIComponent(s.id) + '&level=a1">See the A1 sample</a></p>';
+    }
+  }
+  html += '<section class="card"><div class="section-head"><span class="ic-tile">' + EE.icon('book') + '</span><h2>How this fits your day</h2></div>' +
+    '<p>' + EE.esc(s.name) + ' follows the main course: the items use the words from that day\'s lesson. ' +
+    'You can also open it here on its own, level by level. On every day page it appears as a tab under the lesson.</p>' +
+    '<p><a class="btn" href="day.html?level=' + level + '&day=1">Open ' + lv.name + ' Day 1</a> ' +
+    '<a class="btn ghost" href="level.html?level=' + level + '">' + lv.name + ' units</a></p></section>';
+  body.innerHTML = html;
+
+  /* ---- sidebar: the other supplement types ---- */
+  var side = document.getElementById('suppSide');
+  var links = EE.supplementTypes().filter(function (x) { return x.id !== s.id; }).map(function (x) {
+    return '<a class="side-link" href="supplement.html?type=' + encodeURIComponent(x.id) + '&level=' + level + '">' +
+      '<span class="ic-tile" style="background:' + x.color + ';color:#fff;width:40px;height:40px;border-radius:12px">' + EE.icon(x.icon) + '</span>' +
+      '<span>' + EE.esc(x.name) + '<small>' + EE.esc(x.perLevelLabel) + '</small></span></a>';
+  }).join('');
+  side.innerHTML =
+    '<section class="card"><h3>Other supplements · ' + lv.name + '</h3>' + links + '</section>' +
+    '<section class="card"><h3>Your progress</h3><p class="muted">' +
+    EE.visitedCount(level, lv.days).done + ' of ' + lv.days + ' ' + lv.name + ' days visited.</p>' +
+    '<p><a class="btn small" href="review.html">Review what you learned</a></p></section>';
+})();
+</script>
+</body>
+</html>
