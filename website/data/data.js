@@ -1601,6 +1601,249 @@ window.EE_DATA = {
    "title": "Use your English beyond the cards"
   }
  ],
+ // Foundation day titles (full-day rendering build, 2026-11-20).
+ "foundationLessons":  [
+  {
+   "day": 1,
+   "title": "Meet A, B and C"
+  },
+  {
+   "day": 2,
+   "title": "Meet D, E and F"
+  },
+  {
+   "day": 3,
+   "title": "Meet G, H and I"
+  },
+  {
+   "day": 4,
+   "title": "Meet J, K and L"
+  },
+  {
+   "day": 5,
+   "title": "Meet M, N and O"
+  },
+  {
+   "day": 6,
+   "title": "Meet P, Q and R"
+  },
+  {
+   "day": 7,
+   "title": "Meet S, T and U"
+  },
+  {
+   "day": 8,
+   "title": "Meet V, W and X"
+  },
+  {
+   "day": 9,
+   "title": "Meet Y and Z"
+  },
+  {
+   "day": 10,
+   "title": "Your whole alphabet"
+  },
+  {
+   "day": 11,
+   "title": "Spell a name"
+  },
+  {
+   "day": 12,
+   "title": "Alphabet checkpoint: ready for sounds"
+  },
+  {
+   "day": 13,
+   "title": "Meet the sound /m/"
+  },
+  {
+   "day": 14,
+   "title": "Open a little more: /ɛ/ and /æ/"
+  },
+  {
+   "day": 15,
+   "title": "Your tongue tip: /t/ and /d/"
+  },
+  {
+   "day": 16,
+   "title": "A puff of air: /p/ and /b/"
+  },
+  {
+   "day": 17,
+   "title": "Two front vowels: /i/ and /ɪ/"
+  },
+  {
+   "day": 18,
+   "title": "The tongue-tip hum: /n/"
+  },
+  {
+   "day": 19,
+   "title": "Back of the tongue: /k/ and /g/"
+  },
+  {
+   "day": 20,
+   "title": "Open vowels: /ʌ/ and /ɑ/"
+  },
+  {
+   "day": 21,
+   "title": "Air at the lip: /f/ and /v/"
+  },
+  {
+   "day": 22,
+   "title": "A narrow stream: /s/ and /z/"
+  },
+  {
+   "day": 23,
+   "title": "Rounded vowels: /ʊ/ and /u/"
+  },
+  {
+   "day": 24,
+   "title": "Easy breath: /h/"
+  },
+  {
+   "day": 25,
+   "title": "Rounded lips: /w/"
+  },
+  {
+   "day": 26,
+   "title": "The tongue tip for /l/"
+  },
+  {
+   "day": 27,
+   "title": "An American /r/"
+  },
+  {
+   "day": 28,
+   "title": "The glide /j/"
+  },
+  {
+   "day": 29,
+   "title": "The back-of-mouth hum: /ŋ/"
+  },
+  {
+   "day": 30,
+   "title": "Listen for /ʃ/, /tʃ/ and /dʒ/"
+  },
+  {
+   "day": 31,
+   "title": "Gentle air: /θ/"
+  },
+  {
+   "day": 32,
+   "title": "Add voice: /ð/"
+  },
+  {
+   "day": 33,
+   "title": "The quiet vowel /ə/"
+  },
+  {
+   "day": 34,
+   "title": "Let the last sound stay"
+  },
+  {
+   "day": 35,
+   "title": "Blend sounds into a word"
+  },
+  {
+   "day": 36,
+   "title": "Change one sound: short a"
+  },
+  {
+   "day": 37,
+   "title": "Read short-i words"
+  },
+  {
+   "day": 38,
+   "title": "Read short-e words"
+  },
+  {
+   "day": 39,
+   "title": "Read short-o words"
+  },
+  {
+   "day": 40,
+   "title": "Read short-u words"
+  },
+  {
+   "day": 41,
+   "title": "Choose the vowel, keep the meaning"
+  },
+  {
+   "day": 42,
+   "title": "Two letters, one sound"
+  },
+  {
+   "day": 43,
+   "title": "Blend consonant groups"
+  },
+  {
+   "day": 44,
+   "title": "Notice a final silent e"
+  },
+  {
+   "day": 45,
+   "title": "Read ai and ay"
+  },
+  {
+   "day": 46,
+   "title": "Read ee and ea"
+  },
+  {
+   "day": 47,
+   "title": "Read oa and ow"
+  },
+  {
+   "day": 48,
+   "title": "Read ou and ow"
+  },
+  {
+   "day": 49,
+   "title": "Read oi and oy"
+  },
+  {
+   "day": 50,
+   "title": "Read vowels with r"
+  },
+  {
+   "day": 51,
+   "title": "One spelling, two useful sounds"
+  },
+  {
+   "day": 52,
+   "title": "Find syllables and stress"
+  },
+  {
+   "day": 53,
+   "title": "Remember common exceptions"
+  },
+  {
+   "day": 54,
+   "title": "Read useful word endings"
+  },
+  {
+   "day": 55,
+   "title": "Read in small word parts"
+  },
+  {
+   "day": 56,
+   "title": "Read for meaning"
+  },
+  {
+   "day": 57,
+   "title": "Try an unfamiliar simple word"
+  },
+  {
+   "day": 58,
+   "title": "Check and repair your first attempt"
+  },
+  {
+   "day": 59,
+   "title": "Use your first words"
+  },
+  {
+   "day": 60,
+   "title": "Foundation exit: letters to first words"
+  }
+ ],
  "unitLessons": {
   "a2": {
    "1": [

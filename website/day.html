@@ -68,116 +68,312 @@
   document.documentElement.style.setProperty('--level', lv.color);
   document.getElementById('tabs').style.setProperty('--level', lv.color);
 
-  /* ---- lesson title (real data) ---- */
-  var title = 'Day ' + day, goal = '';
-  if (level === 'a1' && data.a1Lessons) {
-    var l = data.a1Lessons.find(function (x) { return x.day === day; });
-    if (l) title = l.title;
-  } else if (data.unitLessons && data.unitLessons[level]) {
-    Object.keys(data.unitLessons[level]).forEach(function (u) {
-      data.unitLessons[level][u].forEach(function (x) { if (x.day === day) title = x.title; });
-    });
+  function pad(n) { return ('00' + n).slice(-3); }
+  function pad2(n) { return ('0' + n).slice(-2); }
+  function br(s) { return EE.esc(s == null ? '' : s).replace(/\n/g, '<br>'); }
+  function secHead(icon, text) {
+    return '<div class="section-head"><span class="ic-tile">' + EE.icon(icon) + '</span><h2>' + EE.esc(text) + '</h2></div>';
+  }
+  function answerBox(summary, inner) {
+    return '<details class="card flat"><summary><strong>' + EE.esc(summary) + '</strong></summary><div style="margin-top:8px">' + inner + '</div></details>';
   }
 
-  var html = '<section class="lesson-head" data-level="' + level + '" style="--level:' + lv.color + '">' +
-    '<p style="margin:0"><a href="level.html?level=' + level + '" style="color:inherit">← ' + lv.name + '</a> ' +
-    '<span class="pill level" data-level="' + level + '">' + lv.name + ' · Day ' + day + '</span></p>' +
-    '<h1>' + EE.esc(title) + '</h1></section>';
+  /* ---- Load one JSON file. Try the course files next to the site
+     (live site: the repo root serves both website/ and content/), then the
+     local VM mirror (repo/content/), then website/content/. ---- */
+  function fetchJSON(rel) {
+    var bases = ['../content/', '../repo/content/', 'content/'];
+    var i = 0;
+    function next() {
+      if (i >= bases.length) return Promise.reject(new Error('content not found: ' + rel));
+      var url = bases[i++] + rel;
+      return fetch(url).then(function (r) {
+        if (!r.ok) return next();
+        return r.json();
+      }).catch(function () { return next(); });
+    }
+    return next();
+  }
 
-  /* ---- main lesson: full data where we have it ---- */
-  if (level === 'a1' && day === 1 && data.a1Day1) {
-    html += '<p class="muted">' + EE.esc(data.a1Day1.goal || '') + '</p>';
-    html += '<div class="section-head"><span class="ic-tile"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polygon points="12 2 2 7 12 12 22 7 12 2"/><polyline points="2 17 12 22 22 17"/><polyline points="2 12 12 17 22 12"/></svg></span><h2>Today\'s 10 cards</h2></div>';
-    data.a1Day1.cards.forEach(function (c) {
-      var say = c.title + '. ' + (c.context || c.meaning || '');
-      html += '<div class="flashcard" style="--level:' + lv.color + '"><div class="word speakable" data-speak="' + EE.esc(c.title) + '"><span class="num-badge" style="background:' + lv.color + '">' + c.number + '</span>' + EE.esc(c.title) + '</div>' +
-        EE.speakBtn(say) +
-        (c.pronunciation ? '<p><strong>' + EE.esc(c.pronunciation) + '</strong></p>' : '') +
-        (c.meaning ? '<p>' + EE.esc(c.meaning) + '</p>' : '') +
-        (c.context ? '<p><em>' + EE.esc(c.context) + '</em></p>' : '') +
-        (c.yourTurn ? '<p><strong>Your turn:</strong> ' + EE.esc(c.yourTurn) + '</p>' : '') +
-        '</div>';
-    });
-  } else if (level === 'a2' && day === 1 && data.a2Day1) {
-    var L = data.a2Day1;
-    html += '<p class="muted">' + EE.esc(L.goal || '') + '</p>';
+  /* ---- Lesson title from the bundled title lists (before the fetch returns) ---- */
+  function titleFromData() {
+    var title = 'Day ' + day;
+    if (level === 'a1' && data.a1Lessons) {
+      var l = data.a1Lessons.find(function (x) { return x.day === day; });
+      if (l) title = l.title;
+    } else if (level === 'foundation' && data.foundationLessons) {
+      var f = data.foundationLessons.find(function (x) { return x.day === day; });
+      if (f) title = f.title;
+    } else if (data.unitLessons && data.unitLessons[level]) {
+      Object.keys(data.unitLessons[level]).forEach(function (u) {
+        data.unitLessons[level][u].forEach(function (x) { if (x.day === day) title = x.title; });
+      });
+    }
+    return title;
+  }
+
+  function lessonHead(title) {
+    return '<section class="lesson-head" data-level="' + level + '" style="--level:' + lv.color + '">' +
+      '<p style="margin:0"><a href="level.html?level=' + level + '" style="color:inherit">← ' + EE.esc(lv.name) + '</a> ' +
+      '<span class="pill level" data-level="' + level + '">' + EE.esc(lv.name) + ' · Day ' + day + '</span></p>' +
+      '<h1>' + EE.esc(title) + '</h1></section>';
+  }
+
+  /* ============ A2 / B1 / B2: one lesson from a unit file ============ */
+  function renderUnitLesson(L) {
+    var html = '<p class="muted">' + EE.esc(L.goal || '') + '</p>';
     html += '<div class="grammar-block" style="--level:' + lv.color + '"><p><strong>Expression:</strong> ' + EE.esc(L.expression || '') + ' — ' + EE.esc(L.use || '') + '</p>' +
       '<p><strong>Grammar:</strong> ' + EE.esc(L.grammar || '') + '. ' + EE.esc(L.pattern || '') + '</p>' +
       EE.speakBtn((L.expression || '') + '. ' + (L.use || '') + '. ' + (L.grammar || '') + '. ' + (L.pattern || '')) + '</div>';
-    html += '<div class="section-head"><span class="ic-tile">' + EE.icon('book') + '</span><h2>New words today</h2></div>';
-    (L.newItems || []).forEach(function (w) {
-      html += '<div class="flashcard" style="--level:' + lv.color + '"><div class="word speakable" data-speak="' + EE.esc(w.word) + '">' + EE.esc(w.word) + '</div>' +
-        EE.speakBtn(w.word + '. ' + (w.example || w.definition || '')) +
-        '<p class="ipa">' + EE.esc(w.ipa || '') + ' · ' + EE.esc(w.pos || '') + '</p>' +
-        '<p>' + EE.esc(w.definition || '') + '</p><p><em>' + EE.esc(w.example || '') + '</em></p></div>';
-    });
-    html += '<div class="section-head"><span class="ic-tile">' + EE.icon('chat') + '</span><h2>Dialogue</h2></div><div class="card flat"><p>' + (L.dialogue || []).map(function (line) { return EE.speakBtn(line) + ' ' + EE.esc(line); }).join('<br>') + '</p></div>';
-    html += '<div class="section-head"><span class="ic-tile">' + EE.icon('book') + '</span><h2>Reading</h2></div><div class="card flat"><p>' + EE.speakBtn(L.reading || '') + EE.esc(L.reading || '') + '</p></div>';
-    html += '<div class="grammar-block" style="--level:' + lv.color + '"><p><strong>Check:</strong> ' + EE.esc(L.readingQ || '') + '<br><span class="muted">' + EE.esc(L.readingA || '') + '</span></p></div>';
-    html += '<div class="section-head"><span class="ic-tile">' + EE.icon('users') + '</span><h2>Your turn</h2></div><p>' + EE.speakBtn(L.speaking || '') + EE.esc(L.speaking || '') + '</p>';
-    html += '<p><strong>Writing:</strong> ' + EE.speakBtn(L.writing || '') + EE.esc(L.writing || '') + '</p>';
-  } else {
-    html += '<div class="notice"><strong>Full cards for this day are not in this preview yet.</strong> ' +
-      'The lesson title above is real — it comes from the course files in the repo ' +
-      '(<code>repo/content/' + level + '/</code>). The next build step renders every day\'s ' +
-      'full 10 cards from those unit files, the way A1 Day 1 and A2 Day 1 are rendered here. ' +
-      'The extras below already work.</div>';
+    if (L.example) html += '<p><strong>Example:</strong> ' + EE.speakBtn(L.example) + ' ' + EE.esc(L.example) + '</p>';
+    if (L.task) html += answerBox('Try it: ' + L.task, 'Answer: <strong>' + EE.esc(L.answer || '') + '</strong>');
+    if (L.mainWord && L.mainWord.word) {
+      var mw = L.mainWord;
+      html += secHead('star', 'Today\'s main word');
+      html += '<div class="flashcard" style="--level:' + lv.color + '"><div class="word speakable" data-speak="' + EE.esc(mw.word) + '">' + EE.esc(mw.word) + '</div>' +
+        EE.speakBtn(mw.word + '. ' + (mw.example || mw.definition || '')) +
+        '<p class="ipa">' + EE.esc(mw.ipa || '') + ' · ' + EE.esc(mw.pos || '') + '</p>' +
+        '<p>' + EE.esc(mw.definition || '') + '</p><p><em>' + EE.esc(mw.example || '') + '</em></p>' +
+        (L.mainWordForms ? '<p class="small muted">' + EE.esc(L.mainWordForms) + '</p>' : '') + '</div>';
+    }
+    if (L.newItems && L.newItems.length) {
+      html += secHead('book', 'New words today');
+      L.newItems.forEach(function (w) {
+        html += '<div class="flashcard" style="--level:' + lv.color + '"><div class="word speakable" data-speak="' + EE.esc(w.word) + '">' + EE.esc(w.word) + '</div>' +
+          EE.speakBtn(w.word + '. ' + (w.example || w.definition || '')) +
+          '<p class="ipa">' + EE.esc(w.ipa || '') + ' · ' + EE.esc(w.pos || '') + '</p>' +
+          '<p>' + EE.esc(w.definition || '') + '</p><p><em>' + EE.esc(w.example || '') + '</em></p></div>';
+      });
+    }
+    if (L.sound || L.model) {
+      html += secHead('speaker', 'Pronunciation');
+      if (L.sound) html += '<p>' + EE.speakBtn(L.sound) + ' ' + EE.esc(L.sound) + '</p>';
+      if (L.model) html += '<p><strong>Model:</strong> ' + EE.speakBtn(L.model) + ' ' + EE.esc(L.model) + '</p>';
+    }
+    if (L.context && L.context.length) {
+      html += secHead('chat', 'In context');
+      html += '<div class="card flat"><p>' + L.context.map(function (line) { return EE.speakBtn(line) + ' ' + EE.esc(line); }).join('<br>') + '</p></div>';
+    }
+    if (L.dialogue && L.dialogue.length) {
+      html += secHead('chat', 'Dialogue');
+      html += '<div class="card flat"><p>' + L.dialogue.map(function (line) { return EE.speakBtn(line) + ' ' + EE.esc(line); }).join('<br>') + '</p></div>';
+    }
+    if (L.listening) {
+      html += secHead('speaker', 'Listening');
+      html += '<p>' + EE.speakBtn(L.listening) + ' ' + EE.esc(L.listening) + '</p>';
+      if (L.question) html += '<p><strong>Question:</strong> ' + EE.esc(L.question) + '</p>' +
+        answerBox('Show the answer', EE.esc(L.correct || '') + (L.other ? ' <span class="muted">(not: ' + EE.esc(L.other) + ')</span>' : ''));
+    }
+    if (L.reading) {
+      html += secHead('book', 'Reading');
+      html += '<div class="card flat"><p>' + EE.speakBtn(L.reading) + ' ' + br(L.reading) + '</p></div>';
+      if (L.readingQ) html += '<div class="grammar-block" style="--level:' + lv.color + '"><p><strong>Check:</strong> ' + EE.esc(L.readingQ) + '<br><span class="muted">' + EE.esc(L.readingA || '') + '</span></p></div>';
+    }
+    html += secHead('users', 'Your turn');
+    if (L.speaking) html += '<p>' + EE.speakBtn(L.speaking) + ' ' + EE.esc(L.speaking) + '</p>';
+    if (L.wordTask) html += '<p><strong>Word task:</strong> ' + EE.esc(L.wordTask) + '</p>';
+    if (L.expressionTask) html += '<p><strong>Expression task:</strong> ' + EE.esc(L.expressionTask) + '</p>';
+    if (L.speakingSample) html += answerBox('Model answer — speaking', br(L.speakingSample));
+    if (L.wordSample) html += answerBox('Model answer — words', br(L.wordSample));
+    if (L.writing) html += '<p><strong>Writing:</strong> ' + EE.speakBtn(L.writing) + ' ' + EE.esc(L.writing) + '</p>';
+    if (L.writingSample) html += answerBox('Model answer — writing', br(L.writingSample));
+    if (L.reviewWords && L.reviewWords.length) html += '<p><strong>Review words:</strong> ' + L.reviewWords.map(EE.esc).join(' · ') + '</p>';
+    return html;
   }
-  box.innerHTML = html;
 
-  /* ---- supplements (real A1 sample items) ---- */
-  var S = data.supplementsA1;
-  var tabs = [
-    { id: 'flash', label: 'Flashcard', icon: 'layers', body:
-      '<div class="flashcard" style="--level:' + lv.color + '"><div class="word speakable" data-speak="' + EE.esc(S.flashcards.word) + '">' + EE.esc(S.flashcards.word) + '</div>' +
-      EE.speakBtn(S.flashcards.word + '. ' + (S.flashcards.example || '')) +
-      '<p class="ipa">' + EE.esc(S.flashcards.ipa || '') + ' · ' + EE.esc(S.flashcards.partOfSpeech || '') + '</p>' +
-      '<p>' + EE.esc(S.flashcards.definition) + '</p><p><em>' + EE.esc(S.flashcards.example) + '</em></p></div>' },
-{ id: 'phrasal', label: 'Phrasal verb', icon: 'chat', body:
-      '<div class="flashcard" style="--level:' + lv.color + '"><div class="word speakable" data-speak="' + EE.esc(S.phrasalVerbs.entry) + '">' + EE.esc(S.phrasalVerbs.entry) + '</div>' +
-      EE.speakBtn(S.phrasalVerbs.entry + '. ' + (S.phrasalVerbs.example || '')) +
-      '<p>' + EE.esc(S.phrasalVerbs.definition) + '</p><p><em>' + EE.esc(S.phrasalVerbs.example) + '</em></p>' +
-      '<p class="small muted">Try it: ' + (S.phrasalVerbs.conversation || []).map(function (x) { return EE.speakBtn(x.line) + ' ' + EE.esc(x.speaker + ': ' + x.line); }).join('<br>') + '</p></div>' },
-{ id: 'idiom', label: 'Idiom', icon: 'spark', body:
-      '<div class="flashcard" style="--level:' + lv.color + '"><div class="word speakable" data-speak="' + EE.esc(S.idioms.entry) + '">' + EE.esc(S.idioms.entry) + '</div>' +
-      EE.speakBtn(S.idioms.entry + '. ' + (S.idioms.example || '')) +
-      '<p>' + EE.esc(S.idioms.definition) + '</p><p><em>' + EE.esc(S.idioms.example) + '</em></p></div>' },
-{ id: 'pattern', label: 'Sentence pattern', icon: 'pen', body:
-      '<div class="flashcard" style="--level:' + lv.color + '"><div class="word speakable" data-speak="' + EE.esc(S.sentencePatterns.pattern) + '">' + EE.esc(S.sentencePatterns.pattern) + '</div>' +
-      EE.speakBtn(S.sentencePatterns.pattern + '. ' + ((S.sentencePatterns.examples || [])[0] ? (S.sentencePatterns.examples || [])[0].sentence : '')) +
-      '<p>' + EE.esc(S.sentencePatterns.explanation) + '</p>' +
-      (S.sentencePatterns.examples || []).map(function (e) { return '<p>' + EE.speakBtn(e.sentence) + '<em>' + EE.esc(e.sentence) + '</em> <span class="muted">— ' + EE.esc(e.situation) + '</span></p>'; }).join('') + '</div>' },
-{ id: 'joke', label: 'Joke', icon: 'smile', body:
-      '<div class="flashcard" style="--level:' + lv.color + '"><div class="word">' + EE.esc(S.jokes.joke) + '</div>' +
-      EE.speakBtn(S.jokes.joke) +
-      '<p>' + EE.esc(S.jokes.whyFunny) + '</p>' +
-      '<p><strong>Key words:</strong> ' + (S.jokes.keyWords || []).map(function (k) { return EE.esc(k.word) + ' — ' + EE.esc(k.explanation); }).join('; ') + '</p></div>' },
-{ id: 'writing', label: 'Writing · weekly', icon: 'pen', body:
-      '<div class="flashcard" style="--level:' + lv.color + '"><div class="word">' + EE.esc(S.writing.topic) + ' (' + S.writing.wordCount + ' words)</div>' +
-      EE.speakBtn(S.writing.modelText) +
-      '<p><strong>Your task:</strong> ' + EE.esc(S.writing.task) + '</p>' +
-      '<p><strong>Model text:</strong><br>' + EE.esc(S.writing.modelText) + '</p>' +
-      '<p><strong>Patterns to reuse:</strong> ' + (S.writing.patterns || []).map(EE.esc).join(' · ') + '</p>' +
-      '<p class="small muted">Writing is once a week, not every day. Self-check: ' + (S.writing.selfCheck || []).slice(0, 3).map(EE.esc).join(' · ') + '</p></div>' }
-  ];
-  var tabsEl = document.getElementById('tabs'), panesEl = document.getElementById('panes');
-  tabs.forEach(function (t, i) {
-    var b = document.createElement('button');
-    b.className = 'tab' + (i === 0 ? ' active' : '');
-    b.innerHTML = EE.icon(t.icon) + EE.esc(t.label);
-    b.onclick = function () {
-      tabsEl.querySelectorAll('.tab').forEach(function (x) { x.classList.remove('active'); });
-      panesEl.querySelectorAll('.tabpane').forEach(function (x) { x.classList.remove('active'); });
-      b.classList.add('active');
-      document.getElementById('pane-' + t.id).classList.add('active');
-    };
-    tabsEl.appendChild(b);
-    var p = document.createElement('div');
-    p.className = 'tabpane' + (i === 0 ? ' active' : '');
-    p.id = 'pane-' + t.id;
-    p.innerHTML = t.body + '<p class="small muted">Sample items from the A1 supplement set — linked to today\'s words. Full supplement sets per level are the next build step.</p>';
-    panesEl.appendChild(p);
+  /* ============ A1 / Foundation: 10 practice cards built from sections ============ */
+  var KNOWN_SECTIONS = ['Pronunciation & form', 'Meaning', 'Word forms', 'In context', 'Your turn'];
+  function secOf(card, label) {
+    var s = (card.sections || []).find(function (x) { return x[0] === label; });
+    return s ? s[1] : '';
+  }
+  function renderPracticeCard(c) {
+    var pron = secOf(c, 'Pronunciation & form') || c.pronunciation || '';
+    var meaning = secOf(c, 'Meaning') || c.meaning || '';
+    var forms = secOf(c, 'Word forms') || c.forms || '';
+    var context = secOf(c, 'In context') || c.context || '';
+    var yourTurn = secOf(c, 'Your turn') || c.yourTurn || '';
+    var sayParts = [c.title, c.introduction || ''];
+    (c.sections || []).forEach(function (x) { sayParts.push(x[1]); });
+    var say = c.titleAudio || sayParts.join(' ');
+    var html = '<div class="flashcard" style="--level:' + lv.color + '">' +
+      '<div class="word speakable" data-speak="' + EE.esc(c.title) + '"><span class="num-badge" style="background:' + lv.color + '">' + c.number + '</span>' + EE.esc(c.title) + '</div>' +
+      '<p class="small muted">' + EE.esc(c.type || '') + '</p>' +
+      EE.speakBtn(say);
+    if (c.letterDisplay) html += '<p><strong>' + EE.esc(c.letterDisplay) + '</strong></p>';
+    if (pron) html += '<p><strong>' + EE.esc(pron) + '</strong></p>';
+    if (meaning) html += '<p>' + EE.esc(meaning) + '</p>';
+    if (forms) html += '<p>' + EE.esc(forms) + '</p>';
+    if (context) html += '<p><em>' + br(context) + '</em></p>';
+    (c.sections || []).forEach(function (x, i) {
+      if (KNOWN_SECTIONS.indexOf(x[0]) !== -1) return;
+      var audio = (c.sectionAudio && c.sectionAudio[i]) || '';
+      html += '<p>' + (audio ? EE.speakBtn(audio) + ' ' : '') + '<strong>' + EE.esc(x[0]) + ':</strong> ' + br(x[1]) + '</p>';
+    });
+    if (yourTurn) html += '<p><strong>Your turn:</strong> ' + EE.esc(yourTurn) + '</p>';
+    if (c.articulation && c.articulation.length) {
+      var art = c.articulation.map(function (a) {
+        var t = '';
+        if (a.audioText) t += EE.speakBtn(a.audioText) + ' ';
+        t += '<strong>' + EE.esc(a.label || '') + (a.ipa ? ' ' + EE.esc(a.ipa) : '') + (a.sequence ? ' — ' + EE.esc(a.sequence) : '') + '</strong>';
+        if (a.notes && a.notes.length) t += '<br>' + a.notes.map(EE.esc).join('<br>');
+        if (a.note) t += '<br><span class="muted">' + EE.esc(a.note) + '</span>';
+        return '<p>' + t + '</p>';
+      }).join('');
+      html += answerBox('Mouth guide', art);
+    }
+    html += '</div>';
+    return html;
+  }
+
+  function renderA1Lesson(L) {
+    var html = '<p class="muted">' + EE.esc(L.goal || '') + '</p>';
+    html += secHead('layers', 'Today\'s 10 cards');
+    (L.cards || []).forEach(function (c) { html += renderPracticeCard(c); });
+    if (L.wordBank && L.wordBank.length) html += '<p><strong>Word bank:</strong> ' + L.wordBank.map(EE.esc).join(' · ') + '</p>';
+    if (L.reviewWords && L.reviewWords.length) html += '<p><strong>Review words:</strong> ' + L.reviewWords.map(EE.esc).join(' · ') + '</p>';
+    return html;
+  }
+
+  function renderFoundationLesson(L) {
+    var html = '';
+    if (L.kind === 'checkpoint') html += '<p class="muted"><strong>Checkpoint</strong> — ' + EE.esc(L.focus || '') + '</p>';
+    html += '<p class="muted">' + EE.esc(L.goal || '') + '</p>';
+    if (L.cue) html += '<p>' + EE.esc(L.cue) + '</p>';
+    if (L.words && L.words.length) {
+      html += secHead('layers', 'Today\'s letters and words');
+      html += L.words.map(function (w) {
+        var audio = (L.wordAudioText && L.wordAudioText[w[0]]) || w[0];
+        return '<div class="flashcard" style="--level:' + lv.color + '"><div class="word speakable" data-speak="' + EE.esc(w[0]) + '">' + EE.esc(w[0]) + '</div>' +
+          EE.speakBtn(audio) + '<p class="ipa">' + EE.esc(w[1] || '') + '</p></div>';
+      }).join('');
+    }
+    if (L.letters) html += '<p><strong>Letters:</strong> ' + EE.esc(L.letters) + '</p>';
+    if (L.cards && L.cards.length) {
+      html += secHead('book', 'Practice cards');
+      L.cards.forEach(function (c) { html += renderPracticeCard(c); });
+    }
+    if (L.dialogue && L.dialogue.length) {
+      html += secHead('chat', 'Dialogue');
+      html += '<div class="card flat"><p>' + L.dialogue.map(function (d) {
+        var line = (d.name ? d.name + ': ' : '') + d.text;
+        return EE.speakBtn(d.text) + ' ' + EE.esc(line);
+      }).join('<br>') + '</p></div>';
+    }
+    if (L.spelling) html += '<p><strong>Spelling:</strong> ' + br(L.spelling) + '</p>';
+    if (L.rhythm) html += '<p><strong>Rhythm:</strong> ' + br(L.rhythm) + '</p>';
+    if (L.task) html += '<p><strong>Your task:</strong> ' + EE.speakBtn(L.task) + ' ' + EE.esc(L.task) + '</p>';
+    if (L.story) {
+      html += secHead('book', 'Story');
+      html += '<div class="card flat"><p>' + EE.speakBtn(L.story) + ' ' + br(L.story) + '</p></div>';
+      if (L.storyQuestion) html += '<p><strong>' + EE.esc(L.storyQuestion) + '</strong></p>' +
+        (L.storyAnswer ? answerBox('Show the answer', EE.esc(L.storyAnswer)) : '');
+    }
+    if (L.reviewPrompt) html += '<p><strong>Review:</strong> ' + EE.esc(L.reviewPrompt) + '</p>';
+    if (L.reviewDays && L.reviewDays.length) html += '<p class="small muted">Reviewing days: ' + L.reviewDays.join(', ') + '</p>';
+    if (L.wordBank && L.wordBank.length) html += '<p><strong>Word bank:</strong> ' + L.wordBank.map(EE.esc).join(' · ') + '</p>';
+    if (L.reviewWords && L.reviewWords.length) html += '<p><strong>Review words:</strong> ' + L.reviewWords.map(EE.esc).join(' · ') + '</p>';
+    return html;
+  }
+
+  /* ---- load the day ---- */
+  box.innerHTML = lessonHead(titleFromData()) + '<p class="muted">Loading today\'s lesson…</p>';
+  var loader;
+  if (level === 'a1') {
+    loader = fetchJSON('a1/days/day-' + pad(day) + '.json');
+  } else if (level === 'foundation') {
+    loader = fetchJSON('foundation/days/day-' + pad(day) + '.json');
+  } else if (level === 'a2' || level === 'b1' || level === 'b2') {
+    loader = fetchJSON(level + '/units/unit-' + pad2(Math.ceil(day / 8)) + '.json').then(function (u) {
+      var L = (u.lessons || []).find(function (x) { return x.day === day; });
+      if (!L) throw new Error('day ' + day + ' not in unit');
+      return L;
+    });
+  } else {
+    loader = Promise.reject(new Error('This level has no lessons yet.'));
+  }
+  loader.then(function (L) {
+    document.title = lv.name + ' Day ' + day + ' — ' + (L.title || titleFromData()) + ' — Everyday English';
+    var body = '';
+    if (level === 'a1') body = renderA1Lesson(L);
+    else if (level === 'foundation') body = renderFoundationLesson(L);
+    else body = renderUnitLesson(L);
+    box.innerHTML = lessonHead(L.title || titleFromData()) + body;
+  }).catch(function () {
+    /* Offline fallback: the two Day 1 lessons are also bundled in data.js. */
+    if (day === 1 && level === 'a1' && data.a1Day1) {
+      box.innerHTML = lessonHead(data.a1Day1.title) + renderA1Lesson(data.a1Day1);
+    } else if (day === 1 && level === 'a2' && data.a2Day1) {
+      box.innerHTML = lessonHead(data.a2Day1.title) + renderUnitLesson(data.a2Day1);
+    } else {
+      box.innerHTML = lessonHead(titleFromData()) +
+        '<div class="notice"><strong>Today\'s full lesson could not be loaded.</strong> ' +
+        'The lesson file may not be published yet, or the connection failed. ' +
+        'Please check your connection and reload the page.</div>';
+    }
   });
+
+  /* ---- supplements: the A1 samples live only on A1 days ---- */
+  var tabsEl = document.getElementById('tabs'), panesEl = document.getElementById('panes');
+  if (level === 'a1') {
+    var S = data.supplementsA1;
+    var tabs = [
+      { id: 'flash', label: 'Flashcard', icon: 'layers', body:
+        '<div class="flashcard" style="--level:' + lv.color + '"><div class="word speakable" data-speak="' + EE.esc(S.flashcards.word) + '">' + EE.esc(S.flashcards.word) + '</div>' +
+        EE.speakBtn(S.flashcards.word + '. ' + (S.flashcards.example || '')) +
+        '<p class="ipa">' + EE.esc(S.flashcards.ipa || '') + ' · ' + EE.esc(S.flashcards.partOfSpeech || '') + '</p>' +
+        '<p>' + EE.esc(S.flashcards.definition) + '</p><p><em>' + EE.esc(S.flashcards.example) + '</em></p></div>' },
+      { id: 'phrasal', label: 'Phrasal verb', icon: 'chat', body:
+        '<div class="flashcard" style="--level:' + lv.color + '"><div class="word speakable" data-speak="' + EE.esc(S.phrasalVerbs.entry) + '">' + EE.esc(S.phrasalVerbs.entry) + '</div>' +
+        EE.speakBtn(S.phrasalVerbs.entry + '. ' + (S.phrasalVerbs.example || '')) +
+        '<p>' + EE.esc(S.phrasalVerbs.definition) + '</p><p><em>' + EE.esc(S.phrasalVerbs.example) + '</em></p>' +
+        '<p class="small muted">Try it: ' + (S.phrasalVerbs.conversation || []).map(function (x) { return EE.speakBtn(x.line) + ' ' + EE.esc(x.speaker + ': ' + x.line); }).join('<br>') + '</p></div>' },
+      { id: 'idiom', label: 'Idiom', icon: 'spark', body:
+        '<div class="flashcard" style="--level:' + lv.color + '"><div class="word speakable" data-speak="' + EE.esc(S.idioms.entry) + '">' + EE.esc(S.idioms.entry) + '</div>' +
+        EE.speakBtn(S.idioms.entry + '. ' + (S.idioms.example || '')) +
+        '<p>' + EE.esc(S.idioms.definition) + '</p><p><em>' + EE.esc(S.idioms.example) + '</em></p></div>' },
+      { id: 'pattern', label: 'Sentence pattern', icon: 'pen', body:
+        '<div class="flashcard" style="--level:' + lv.color + '"><div class="word speakable" data-speak="' + EE.esc(S.sentencePatterns.pattern) + '">' + EE.esc(S.sentencePatterns.pattern) + '</div>' +
+        EE.speakBtn(S.sentencePatterns.pattern + '. ' + ((S.sentencePatterns.examples || [])[0] ? (S.sentencePatterns.examples || [])[0].sentence : '')) +
+        '<p>' + EE.esc(S.sentencePatterns.explanation) + '</p>' +
+        (S.sentencePatterns.examples || []).map(function (e) { return '<p>' + EE.speakBtn(e.sentence) + '<em>' + EE.esc(e.sentence) + '</em> <span class="muted">— ' + EE.esc(e.situation) + '</span></p>'; }).join('') + '</div>' },
+      { id: 'joke', label: 'Joke', icon: 'smile', body:
+        '<div class="flashcard" style="--level:' + lv.color + '"><div class="word">' + EE.esc(S.jokes.joke) + '</div>' +
+        EE.speakBtn(S.jokes.joke) +
+        '<p>' + EE.esc(S.jokes.whyFunny) + '</p>' +
+        '<p><strong>Key words:</strong> ' + (S.jokes.keyWords || []).map(function (k) { return EE.esc(k.word) + ' — ' + EE.esc(k.explanation); }).join('; ') + '</p></div>' },
+      { id: 'writing', label: 'Writing · weekly', icon: 'pen', body:
+        '<div class="flashcard" style="--level:' + lv.color + '"><div class="word">' + EE.esc(S.writing.topic) + ' (' + S.writing.wordCount + ' words)</div>' +
+        EE.speakBtn(S.writing.modelText) +
+        '<p><strong>Your task:</strong> ' + EE.esc(S.writing.task) + '</p>' +
+        '<p><strong>Model text:</strong><br>' + EE.esc(S.writing.modelText) + '</p>' +
+        '<p><strong>Patterns to reuse:</strong> ' + (S.writing.patterns || []).map(EE.esc).join(' · ') + '</p>' +
+        '<p class="small muted">Writing is once a week, not every day. Self-check: ' + (S.writing.selfCheck || []).slice(0, 3).map(EE.esc).join(' · ') + '</p></div>' }
+    ];
+    tabs.forEach(function (t, i) {
+      var b = document.createElement('button');
+      b.className = 'tab' + (i === 0 ? ' active' : '');
+      b.innerHTML = EE.icon(t.icon) + EE.esc(t.label);
+      b.onclick = function () {
+        tabsEl.querySelectorAll('.tab').forEach(function (x) { x.classList.remove('active'); });
+        panesEl.querySelectorAll('.tabpane').forEach(function (x) { x.classList.remove('active'); });
+        b.classList.add('active');
+        document.getElementById('pane-' + t.id).classList.add('active');
+      };
+      tabsEl.appendChild(b);
+      var p = document.createElement('div');
+      p.className = 'tabpane' + (i === 0 ? ' active' : '');
+      p.id = 'pane-' + t.id;
+      p.innerHTML = t.body + '<p class="small muted">Sample items from the A1 supplement set — linked to today\'s words. Full supplement sets per level are the next build step.</p>';
+      panesEl.appendChild(p);
+    });
+  } else {
+    tabsEl.innerHTML = '';
+    panesEl.innerHTML = '<div class="notice"><strong>' + EE.esc(lv.name) + ' supplement items are coming next.</strong> ' +
+      'The supplement samples on this site are from A1, so they are shown only on A1 days — not here. ' +
+      'This level\'s own flashcards, phrasal verbs, idioms, sentence patterns, jokes and writing items will appear here once they are published. ' +
+      'You can already browse the A1 set on the <a href="supplements.html">Supplements hub</a>.</div>';
+  }
 
   /* ---- visited + next ---- */
   var doneBtn = document.getElementById('doneBtn');
@@ -208,7 +404,12 @@
       '<p><a class="btn ghost small" href="review.html">Open Review</a></p></section>';
   })();
   refreshDone();
-  document.getElementById('nextBtn').href = 'day.html?level=' + level + '&day=' + (day + 1);
+  var nextBtn = document.getElementById('nextBtn');
+  if (day >= lv.days) {
+    nextBtn.style.display = 'none';
+  } else {
+    nextBtn.href = 'day.html?level=' + level + '&day=' + (day + 1);
+  }
 })();
 </script>
 <nav class="tabbar" aria-label="App navigation">
