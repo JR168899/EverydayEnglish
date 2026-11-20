@@ -62,12 +62,14 @@
       <span class="ic-tile"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/><path d="M23 21v-2a4 4 0 0 0-3-3.87"/><path d="M16 3.13a4 4 0 0 1 0 7.75"/></svg></span>
       <h2>Your account</h2>
     </div>
-    <div class="notice"><strong>Placeholder — no backend yet.</strong> Sign-in with Google
-    and Apple, and saving progress to the cloud, need Firebase Auth + Firestore.
-    No credentials exist in this build. In this preview your progress is stored
-    only in this browser, and the demo sign-in on the landing page creates no account.</div>
-    <p id="accountLine" class="muted">Not signed in (demo preview).</p>
-    <p><button class="btn ghost small" id="resetBtn">Clear my local progress</button></p>
+    <div class="notice"><strong>Preview — no backend yet.</strong> Your account is saved
+    in this browser only for now. Real sign-in with Google and Apple, and saving
+    progress to the cloud, need Firebase Auth + Firestore. Your password is never
+    saved or sent anywhere.</div>
+    <p id="accountLine" class="muted">Not registered yet.</p>
+    <p><a class="btn small" href="index.html">Create a free account</a>
+    <button class="btn ghost small" id="signOutBtn">Sign out</button>
+    <button class="btn ghost small" id="resetBtn">Clear my local progress</button></p>
   </section>
 
   </div>
@@ -134,8 +136,18 @@
   });
   refresh();
 
+  var acct = EE.account();
+  if (acct) document.getElementById('accountLine').textContent =
+    'Signed in as ' + acct.name + (acct.email ? ' (' + acct.email + ')' : '') +
+    ' — ' + acct.provider + '. Level: ' + (EE.progress().level || '—') + '.';
+  document.getElementById('signOutBtn').onclick = function () {
+    if (confirm('Sign out on this browser? Your local progress stays, but courses will ask you to register again.')) {
+      EE.signOut();
+      location.reload();
+    }
+  };
   var p = EE.progress();
-  if (p.provider) document.getElementById('accountLine').textContent =
+  if (p.provider && !acct) document.getElementById('accountLine').textContent =
     'Demo learner — ' + p.provider + '. Level: ' + (p.level || '—') + '.';
   if (p.goalMinutes) document.getElementById('goalMinutes').value = String(p.goalMinutes);
   if (p.reminderTime) document.getElementById('reminderTime').value = p.reminderTime;

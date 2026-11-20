@@ -192,6 +192,11 @@
     setFontSize: setFontSize,
     speakRate: getSpeakRate,
     setSpeakRate: setSpeakRate,
+    /* Account: registration required for courses; News is free. */
+    account: loadAccount,
+    isRegistered: function () { return !!loadAccount(); },
+    register: register,
+    signOut: function () { localStorage.removeItem(ACCOUNT_KEY); },
     /* Shared read-aloud. speakBtn returns a Listen button for one item. */
     speak: speak,
     speakBtn: function (text, label) {
@@ -200,6 +205,71 @@
         (label || 'Listen') + '</button>';
     }
   };
+
+
+  /* ---- Accounts: registration is required for courses. ----
+     DEMO GATE (front-end only): the account is saved in this browser's
+     localStorage until Firebase Auth is connected. A static site cannot
+     enforce this server-side — the real gate comes with Firebase Auth +
+     Firestore, where progress lives in the cloud. The password is never
+     saved or sent anywhere. */
+  var ACCOUNT_KEY = 'ee-account-v1';
+  var PROTECTED = ['courses.html', 'level.html', 'day.html',
+    'supplements.html', 'supplement.html', 'review.html'];
+  function loadAccount() {
+    try { return JSON.parse(localStorage.getItem(ACCOUNT_KEY)) || null; }
+    catch (e) { return null; }
+  }
+  function register(name, email, provider) {
+    var a = { name: name, email: email || '', provider: provider || 'email',
+      created: new Date().toISOString().slice(0, 10) };
+    localStorage.setItem(ACCOUNT_KEY, JSON.stringify(a));
+    return a;
+  }
+  function showGate() {
+    if (document.getElementById('gateOverlay')) return;
+    var o = document.createElement('div');
+    o.className = 'gate-overlay'; o.id = 'gateOverlay';
+    o.setAttribute('role', 'dialog'); o.setAttribute('aria-modal', 'true');
+    o.setAttribute('aria-label', 'Create your free account');
+    o.innerHTML =
+      '<div class="gate-card"><h2>Create your free account</h2>' +
+      '<p>Today\'s News is free for everyone. To start a course, create a free ' +
+      'account — it saves your place, your level and your streak.</p>' +
+      '<form id="gateForm">' +
+      '<label for="gateName">Your name</label>' +
+      '<input id="gateName" name="name" autocomplete="name" required>' +
+      '<label for="gateEmail">Email</label>' +
+      '<input id="gateEmail" name="email" type="email" autocomplete="email" required>' +
+      '<label for="gatePassword">Choose a password</label>' +
+      '<input id="gatePassword" name="password" type="password" autocomplete="new-password" minlength="6" required>' +
+      '<p class="small muted">Preview: your account is saved in this browser only. ' +
+      'Your password is never saved or sent anywhere — real sign-in with Google ' +
+      'and Apple (Firebase) is the next step.</p>' +
+      '<button class="btn" type="submit">Create my free account</button>' +
+      '</form>' +
+      '<p class="small muted">or</p>' +
+      '<p><button class="btn google" type="button" id="gateGoogle">Continue with Google</button> ' +
+      '<button class="btn apple" type="button" id="gateApple">Continue with Apple</button></p>' +
+      '<p><a href="home.html">Read today\'s News instead — no account needed</a></p>' +
+      '<p class="small muted" id="gateNote"></p></div>';
+    document.body.appendChild(o);
+    document.getElementById('gateForm').addEventListener('submit', function (e) {
+      e.preventDefault();
+      var name = document.getElementById('gateName').value.trim();
+      var email = document.getElementById('gateEmail').value.trim();
+      if (!name || !email) return;
+      register(name, email, 'email');
+      location.reload();
+    });
+    document.getElementById('gateGoogle').onclick = function () {
+      register('Learner', '', 'Google (demo)'); location.reload();
+    };
+    document.getElementById('gateApple').onclick = function () {
+      register('Learner', '', 'Apple (demo)'); location.reload();
+    };
+    var first = document.getElementById('gateName'); if (first) first.focus();
+  }
 
   /* One delegated handler: every [data-speak] element (Listen buttons and
      .speakable words) speaks only its own text when tapped. */
@@ -212,6 +282,21 @@
   /* Apply saved theme as early as possible, and highlight the current
      tab in both the desktop top bar and the mobile bottom tab bar. */
   document.addEventListener('DOMContentLoaded', function () {
+    /* Registration gate: News (home) and the landing page are free;
+       courses, levels, days, supplements and review need an account. */
+    var page = (location.pathname.split('/').pop() || 'index.html').split('?')[0];
+    if (PROTECTED.indexOf(page) !== -1 && !loadAccount()) showGate();
+    /* Header shows who is signed in, or a Create account link. */
+    document.querySelectorAll('header.site .bar').forEach(function (bar) {
+      if (bar.querySelector('.account-chip')) return;
+      var a = loadAccount();
+      var chip = document.createElement('a');
+      chip.className = 'account-chip';
+      chip.href = a ? 'settings.html' : 'index.html';
+      chip.textContent = a ? ('Hi, ' + a.name) : 'Create account';
+      var cta = bar.querySelector('.header-cta');
+      if (cta) bar.insertBefore(chip, cta); else bar.appendChild(chip);
+    });
     var t = window.EE.theme();
     if (t && t !== 'default') document.documentElement.setAttribute('data-theme', t);
     var tab = window.EE.navTab();

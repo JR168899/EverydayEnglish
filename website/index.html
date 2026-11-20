@@ -97,15 +97,26 @@
   <section class="card" id="step2" hidden>
     <div class="section-head">
       <span class="ic-tile"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/><path d="M23 21v-2a4 4 0 0 0-3-3.87"/><path d="M16 3.13a4 4 0 0 1 0 7.75"/></svg></span>
-      <h2>Step 2 — Sign in to save your progress</h2>
+      <h2>Step 2 — Create your free account</h2>
     </div>
     <p>Your progress lives in your account, so it follows you from your computer
-    to your phone. We never ask for your gender — only which colour theme you like,
+    to your phone. Without an account you can read today's News, but you cannot
+    start a course. We never ask for your gender — only which colour theme you like,
     in Settings.</p>
-    <div class="notice"><strong>Demo placeholder.</strong> Google and Apple sign-in are
-    not connected yet — Firebase Auth is the next build step, and no account is
-    created here. For this preview, tap a button to continue as a demo learner.
-    Nothing is sent anywhere.</div>
+    <div class="notice"><strong>Preview.</strong> Your account is saved in this browser
+    only for now. Your password is never saved or sent anywhere. Real sign-in with
+    Google and Apple (Firebase Auth) is the next step — then your progress follows
+    you to any device.</div>
+    <form id="signupForm" class="gate-card" style="box-shadow:none;padding:0;margin-top:6px">
+      <label for="suName">Your name</label>
+      <input id="suName" name="name" autocomplete="name" required>
+      <label for="suEmail">Email</label>
+      <input id="suEmail" name="email" type="email" autocomplete="email" required>
+      <label for="suPassword">Choose a password</label>
+      <input id="suPassword" name="password" type="password" autocomplete="new-password" minlength="6" required>
+      <p><button class="btn" type="submit">Create my free account</button></p>
+    </form>
+    <p class="small muted">or</p>
     <p>
       <button class="btn google" id="googleBtn">Continue with Google</button>
       <button class="btn apple" id="appleBtn">Continue with Apple</button>
@@ -170,16 +181,32 @@
     if (n >= 2) document.getElementById('step2').scrollIntoView({behavior:'smooth', block:'start'});
   }
   function demoSignIn(provider) {
+    var a = EE.register('Learner', '', provider + ' (demo)');
     var p = EE.progress();
     p.provider = provider + ' (demo — Firebase Auth placeholder)';
     p.level = chosen;
     p.paidEntitlement = false; /* free at launch; flag exists from day one */
     EE.saveProgress(p);
     document.getElementById('signinNote').textContent =
-      'Signed in as a demo learner with ' + provider + '. No real account was created.';
+      'Welcome! Your account is saved in this browser for now (' + a.provider + ').';
     show(3);
     document.getElementById('step3').scrollIntoView({behavior:'smooth'});
   }
+  document.getElementById('signupForm').addEventListener('submit', function (e) {
+    e.preventDefault();
+    var name = document.getElementById('suName').value.trim();
+    var email = document.getElementById('suEmail').value.trim();
+    if (!name || !email) return;
+    var a = EE.register(name, email, 'email');
+    var p = EE.progress();
+    p.level = chosen;
+    p.paidEntitlement = false;
+    EE.saveProgress(p);
+    document.getElementById('signinNote').textContent =
+      'Welcome, ' + a.name + '! Your account is saved in this browser for now.';
+    show(3);
+    document.getElementById('step3').scrollIntoView({behavior:'smooth'});
+  });
   document.getElementById('googleBtn').onclick = function () { demoSignIn('Google'); };
   document.getElementById('appleBtn').onclick = function () { demoSignIn('Apple'); };
   document.getElementById('startBtn').onclick = function () {

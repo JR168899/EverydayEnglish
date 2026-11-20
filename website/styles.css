@@ -572,3 +572,14 @@ details.unit[open] .unit-hint{display:none}
 /* Tappable words: tap any .speakable word to hear it. */
 .speakable{cursor:pointer}
 .speakable:focus-visible{outline:3px solid var(--primary);outline-offset:2px;border-radius:8px}
+
+/* Registration gate: News is free, courses need an account. */
+.gate-overlay{position:fixed;inset:0;background:rgba(61,35,20,.55);display:flex;align-items:flex-start;justify-content:center;padding:24px;z-index:200;overflow:auto}
+.gate-card{background:var(--surface);border-radius:var(--radius-lg);max-width:520px;width:100%;padding:28px;box-shadow:var(--shadow-lg);margin-top:6vh}
+.gate-card h2{margin-top:0}
+.gate-card label{display:block;font-weight:800;margin:14px 0 4px}
+.gate-card input{width:100%;font-family:inherit;font-size:1.05rem;padding:12px 14px;border:2px solid var(--border);border-radius:12px;background:#fff}
+.gate-card input:focus{outline:3px solid var(--primary);outline-offset:1px}
+.gate-card .btn{margin-top:14px}
+.account-chip{display:inline-flex;align-items:center;gap:6px;font-weight:800;color:var(--text);text-decoration:none;padding:8px 12px;border:2px solid var(--border);border-radius:999px;background:var(--surface);white-space:nowrap}
+.account-chip:hover{border-color:var(--primary)}
