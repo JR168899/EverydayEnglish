@@ -26,6 +26,11 @@
 <div class="wrap" id="page">
   <p><a href="courses.html">← All courses</a></p>
   <div id="levelHead"></div>
+  <div class="howto">
+    <span><b>1.</b> Tap a unit to open it.</span>
+    <span><b>2.</b> Tap Listen to hear every word.</span>
+    <span><b>3.</b> Tap Mark visited when you finish.</span>
+  </div>
   <div class="layout">
     <div class="layout-main" id="unitList"></div>
     <aside class="sidebar" id="levelSide"></aside>
@@ -72,14 +77,19 @@
     '<section class="card"><h3>Review</h3><p class="muted">' + vc.done + ' of ' + total + ' days visited. Look back before you move on.</p>' +
     '<p><a class="btn ghost small" href="review.html">Open Review</a></p></section>';
 
+  /* Only the unit with the next unvisited day starts open; the rest start closed. */
+  var firstUnvisited = null;
+  for (var fd = 1; fd <= total; fd++) { if (!EE.isVisited(key, fd)) { firstUnvisited = fd; break; } }
+
   var list = document.getElementById('unitList');
   units.forEach(function (u) {
     var from = u.days[0], to = u.days[1];
     var done = 0;
     for (var d = from; d <= to; d++) if (EE.isVisited(key, d)) done++;
     var unitDays = to - from + 1;
-    var card = document.createElement('section');
-    card.className = 'card';
+    var card = document.createElement('details');
+    card.className = 'card unit';
+    if (firstUnvisited !== null && firstUnvisited >= from && firstUnvisited <= to) card.open = true;
     card.style.setProperty('--level', lv.color);
     var lessons = '';
     var titles = {};
@@ -97,10 +107,11 @@
         '<span class="visited-dot' + (v ? ' done' : '') + '"><span class="dot"></span>' + (v ? 'Visited' : 'Not visited') + '</span></a>';
     }
     card.innerHTML =
-      '<div class="unit-head" style="--level:' + lv.color + '">' +
+      '<summary><div class="unit-head" style="--level:' + lv.color + '">' +
       '<span class="ring">' + EE.ring(done, unitDays, lv.color, 56) + '</span>' +
       '<div><h2 style="margin:0">Unit ' + u.number + ' — ' + EE.esc(u.title) + '</h2>' +
-      '<p class="muted" style="margin:2px 0">Days ' + from + '–' + to + ' · ' + done + ' of ' + unitDays + ' visited</p></div></div>' +
+      '<p class="muted" style="margin:2px 0">Days ' + from + '–' + to + ' · ' + done + ' of ' + unitDays + ' visited</p></div>' +
+      '<span class="unit-hint">Tap to open</span></div></summary>' +
       '<div>' + lessons + '</div>';
     list.appendChild(card);
   });

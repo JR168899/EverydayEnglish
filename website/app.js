@@ -17,6 +17,74 @@
   }
   function save(p) { localStorage.setItem(KEY, JSON.stringify(p)); }
 
+  var FONT_KEY = 'ee-font-size';
+  var RATE_KEY = 'ee-speech-rate';
+  var FONT_SIZES = { normal: '16px', large: '18px', extra: '20px' };
+
+  /* ---- Text size: applied immediately (script is in <head>) so pages
+     never flash at the small size first. ---- */
+  function getFontSize() {
+    var s = null;
+    try { s = localStorage.getItem(FONT_KEY); } catch (e) { s = null; }
+    return FONT_SIZES[s] ? s : 'normal';
+  }
+  function applyFontSize() {
+    document.documentElement.style.fontSize = FONT_SIZES[getFontSize()];
+  }
+  function refreshFontButtons() {
+    var cur = getFontSize();
+    document.querySelectorAll('[data-font-size]').forEach(function (b) {
+      var on = b.getAttribute('data-font-size') === cur;
+      b.classList.toggle('active', on);
+      b.setAttribute('aria-pressed', on ? 'true' : 'false');
+    });
+  }
+  function setFontSize(size) {
+    if (!FONT_SIZES[size]) size = 'normal';
+    try { localStorage.setItem(FONT_KEY, size); } catch (e) { /* private mode */ }
+    applyFontSize();
+    refreshFontButtons();
+  }
+  applyFontSize();
+
+  /* ---- Shared read-aloud (speechSynthesis, en-US). One item at a time,
+     never read-everything: every Listen button speaks only its own text.
+     No audio files exist in the repo, so this is the voice everywhere. ---- */
+  var currentSpeakBtn = null;
+  function getSpeakRate() {
+    var r = 0.9;
+    try { r = parseFloat(localStorage.getItem(RATE_KEY)); } catch (e) { r = NaN; }
+    return (isFinite(r) && r > 0 && r <= 2) ? r : 0.9;
+  }
+  function setSpeakRate(r) {
+    if (!isFinite(r) || r <= 0 || r > 2) return;
+    try { localStorage.setItem(RATE_KEY, String(r)); } catch (e) { /* private mode */ }
+  }
+  function resetSpeakBtn() {
+    if (currentSpeakBtn) {
+      currentSpeakBtn.classList.remove('playing');
+      currentSpeakBtn.innerHTML = window.EE.icons.speaker + 'Listen';
+    }
+    currentSpeakBtn = null;
+  }
+  function speak(text, btn) {
+    if (!('speechSynthesis' in window) || !text) return;
+    if (btn && currentSpeakBtn === btn) { window.speechSynthesis.cancel(); resetSpeakBtn(); return; }
+    window.speechSynthesis.cancel();
+    resetSpeakBtn();
+    var u = new SpeechSynthesisUtterance(String(text).replace(/\s+/g, ' ').trim());
+    u.lang = 'en-US';
+    u.rate = getSpeakRate();
+    u.onend = resetSpeakBtn;
+    u.onerror = resetSpeakBtn;
+    if (btn) {
+      currentSpeakBtn = btn;
+      btn.classList.add('playing');
+      btn.innerHTML = window.EE.icons.speaker + 'Stop';
+    }
+    window.speechSynthesis.speak(u);
+  }
+
   window.EE = {
     /* Inline SVG icons (stroke style, currentColor). No emoji as icons. */
     icons: {
@@ -26,6 +94,7 @@
       star: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></svg>',
       check: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><polyline points="20 6 9 17 4 12"/></svg>',
       play: '<svg viewBox="0 0 24 24" fill="currentColor" stroke="none" aria-hidden="true"><polygon points="6 3 20 12 6 21 6 3"/></svg>',
+      speaker: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><polygon points="11 5 6 9 2 9 2 15 6 15 11 19 11 5"/><path d="M15.54 8.46a5 5 0 0 1 0 7.07"/></svg>',
       calendar: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="3" y="4" width="18" height="18" rx="2"/><line x1="16" y1="2" x2="16" y2="6"/><line x1="8" y1="2" x2="8" y2="6"/><line x1="3" y1="10" x2="21" y2="10"/></svg>',
       flame: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M8.5 14.5A2.5 2.5 0 0 0 11 12c0-1.38-.5-2-1-3-1.072-2.143-.224-4.054 2-6 .5 2.5 2 4.9 4 6.5 2 1.6 3 3.5 3 5.5a7 7 0 1 1-14 0c0-1.153.433-2.294 1-3a2.5 2.5 0 0 0 2.5 2.5z"/></svg>',
       target: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="10"/><circle cx="12" cy="12" r="6"/><circle cx="12" cy="12" r="2"/></svg>',
@@ -117,8 +186,28 @@
       return String(s == null ? '' : s).replace(/[&<>"']/g, function (c) {
         return { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c];
       });
+    },
+    /* Text size (normal / large / extra) and speech rate, both saved. */
+    fontSize: getFontSize,
+    setFontSize: setFontSize,
+    speakRate: getSpeakRate,
+    setSpeakRate: setSpeakRate,
+    /* Shared read-aloud. speakBtn returns a Listen button for one item. */
+    speak: speak,
+    speakBtn: function (text, label) {
+      return '<button type="button" class="listen-btn" data-speak="' + this.esc(text) +
+        '" aria-label="Listen: ' + this.esc(text) + '">' + this.icons.speaker +
+        (label || 'Listen') + '</button>';
     }
   };
+
+  /* One delegated handler: every [data-speak] element (Listen buttons and
+     .speakable words) speaks only its own text when tapped. */
+  document.addEventListener('click', function (e) {
+    var el = e.target && e.target.closest ? e.target.closest('[data-speak]') : null;
+    if (!el) return;
+    speak(el.getAttribute('data-speak'), el.classList.contains('listen-btn') ? el : null);
+  });
 
   /* Apply saved theme as early as possible, and highlight the current
      tab in both the desktop top bar and the mobile bottom tab bar. */
@@ -130,6 +219,36 @@
       document.querySelectorAll('nav.main a, nav.tabbar a').forEach(function (a) {
         var key = a.getAttribute('data-nav') || a.getAttribute('data-tab');
         a.classList.toggle('active', key === tab);
+      });
+    }
+
+    /* Text size control in every page header (before the Start button). */
+    document.querySelectorAll('header.site .bar').forEach(function (bar) {
+      if (bar.querySelector('.font-size')) return;
+      var wrap = document.createElement('div');
+      wrap.className = 'font-size';
+      wrap.setAttribute('role', 'group');
+      wrap.setAttribute('aria-label', 'Text size');
+      wrap.innerHTML = '<span class="font-size-label">Text size</span>' +
+        '<button type="button" data-font-size="normal" aria-label="Normal text size">A</button>' +
+        '<button type="button" data-font-size="large" aria-label="Large text size">A+</button>' +
+        '<button type="button" data-font-size="extra" aria-label="Extra large text size">A++</button>';
+      var cta = bar.querySelector('.header-cta');
+      if (cta) bar.insertBefore(wrap, cta); else bar.appendChild(wrap);
+    });
+    /* Every text-size button on the page (header + Settings) does the same thing. */
+    document.querySelectorAll('[data-font-size]').forEach(function (b) {
+      b.addEventListener('click', function () { setFontSize(b.getAttribute('data-font-size')); });
+    });
+    refreshFontButtons();
+
+    /* News page speed select shares the same saved rate as EE.speak. */
+    var speedEl = document.getElementById('readSpeed');
+    if (speedEl) {
+      var saved = String(getSpeakRate());
+      if (speedEl.querySelector('option[value="' + saved + '"]')) speedEl.value = saved;
+      speedEl.addEventListener('change', function () {
+        setSpeakRate(parseFloat(speedEl.value));
       });
     }
   });
