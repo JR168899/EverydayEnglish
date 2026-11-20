@@ -583,3 +583,21 @@ details.unit[open] .unit-hint{display:none}
 .gate-card .btn{margin-top:14px}
 .account-chip{display:inline-flex;align-items:center;gap:6px;font-weight:800;color:var(--text);text-decoration:none;padding:8px 12px;border:2px solid var(--border);border-radius:999px;background:var(--surface);white-space:nowrap}
 .account-chip:hover{border-color:var(--primary)}
+
+/* ---------- Header: fixed two-row layout (2026-11-20) ----------
+   Text size (A / A+ / A++) must never move the header around: the header
+   is chrome, so its controls are fixed px sizes and fixed positions, while
+   only the page content below grows with the text-size setting.
+   Row 1: logo | nav | account | Start learning. Row 2: Text size, always
+   on its own row, left-aligned, same place at every text size. */
+header.site .bar{flex-wrap:wrap;row-gap:0}
+header.site .bar .logo{order:1;flex:0 0 auto}
+header.site .bar nav.main{order:2;flex:0 1 auto}
+header.site .bar nav.main a{font-size:16px;white-space:nowrap}
+header.site .bar .account-chip{order:3;flex:0 0 auto;font-size:15px;padding:8px 14px;white-space:nowrap}
+header.site .bar .header-cta{order:4;flex:0 0 auto;font-size:15px;padding:10px 18px;white-space:nowrap}
+header.site .bar .font-size{order:10;flex:1 1 100%;padding:8px 0 6px;margin-top:8px;border-top:2px solid var(--border)}
+.font-size-label{font-size:15px}
+.font-size button{height:44px;min-width:48px;font-size:16px}
+.font-size button[data-font-size="large"]{font-size:18px}
+.font-size button[data-font-size="extra"]{font-size:20px}
