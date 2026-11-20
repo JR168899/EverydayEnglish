@@ -16,7 +16,6 @@ window.EE_SUPPLEMENTS = {
     {
       id: 'flashcards',
       name: 'Vocabulary Flashcards',
-      zh: '生字卡',
       color: '#3B82F6',
       icon: 'layers',
       description: 'New words as picture cards: word, sound, meaning and one example sentence you can say yourself.',
@@ -29,7 +28,6 @@ window.EE_SUPPLEMENTS = {
     {
       id: 'phrasal-verbs',
       name: 'Phrasal Verbs',
-      zh: '動詞片語',
       color: '#F97316',
       icon: 'chat',
       description: 'Two- and three-word verbs you hear every day — cheer up, look for, give up — learned in a short conversation, never alone.',
@@ -42,7 +40,6 @@ window.EE_SUPPLEMENTS = {
     {
       id: 'idioms',
       name: 'Idioms & Slang',
-      zh: '成語俚語',
       color: '#8B5CF6',
       icon: 'spark',
       description: 'Sayings that do not mean what the words say — break a leg, piece of cake — with the story behind each one.',
@@ -55,7 +52,6 @@ window.EE_SUPPLEMENTS = {
     {
       id: 'sentence-patterns',
       name: 'Universal Sentence Patterns',
-      zh: '萬用句型',
       color: '#22C55E',
       icon: 'pen',
       description: 'Sentence frames you can reuse everywhere — I am good at … — with examples for real situations.',
@@ -68,7 +64,6 @@ window.EE_SUPPLEMENTS = {
     {
       id: 'jokes',
       name: 'Jokes',
-      zh: '笑話',
       color: '#EC4899',
       icon: 'smile',
       description: 'One short joke a day. Laugh first, then learn why it is funny and the key words that make it work.',
@@ -81,7 +76,6 @@ window.EE_SUPPLEMENTS = {
     {
       id: 'writing',
       name: 'Writing',
-      zh: '寫作',
       color: '#7A2A1A',
       icon: 'book',
       description: 'One composition a week — quality over quantity. A model text, a structure map, patterns to reuse, a writing task and a self-check list.',
