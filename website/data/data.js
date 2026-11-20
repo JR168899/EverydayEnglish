@@ -40,15 +40,15 @@ window.EE_DATA = {
    "name": "C1",
    "color": "#4F46E5",
    "days": 420,
-   "status": "coming-soon",
-   "note": "Coming after B2."
+   "status": "in-progress",
+   "note": "Precision, nuance and professional discussion."
   },
   "c2": {
    "name": "C2",
    "color": "#8B5CF6",
    "days": 420,
-   "status": "coming-soon",
-   "note": "Coming after C1."
+   "status": "in-progress",
+   "note": "Precision, nuance and tone at work."
   }
  },
  "units": {
@@ -671,6 +671,26 @@ window.EE_DATA = {
     "days": [
      153,
      160
+    ]
+   }
+  ],
+  "c1": [
+   {
+    "number": 1,
+    "title": "Precision and nuance in professional discussion",
+    "days": [
+     1,
+     8
+    ]
+   }
+  ],
+  "c2": [
+   {
+    "number": 1,
+    "title": "Precision, nuance and tone at work",
+    "days": [
+     1,
+     8
     ]
    }
   ],
@@ -4440,6 +4460,78 @@ window.EE_DATA = {
     {
      "day": 160,
      "title": "Use language English in a new situation"
+    }
+   ]
+  },
+  "c1": {
+   "1": [
+    {
+     "day": 1,
+     "title": "Say exactly what you mean"
+    },
+    {
+     "day": 2,
+     "title": "Check what someone really means"
+    },
+    {
+     "day": 3,
+     "title": "Soften a strong opinion without losing it"
+    },
+    {
+     "day": 4,
+     "title": "Challenge an idea politely"
+    },
+    {
+     "day": 5,
+     "title": "Admit uncertainty honestly"
+    },
+    {
+     "day": 6,
+     "title": "Summarise a complex discussion"
+    },
+    {
+     "day": 7,
+     "title": "Respond to a surprising proposal"
+    },
+    {
+     "day": 8,
+     "title": "Use precise language in a new situation"
+    }
+   ]
+  },
+  "c2": {
+   "1": [
+    {
+     "day": 1,
+     "title": "Say exactly what you mean"
+    },
+    {
+     "day": 2,
+     "title": "When words are too vague"
+    },
+    {
+     "day": 3,
+     "title": "What did they really mean?"
+    },
+    {
+     "day": 4,
+     "title": "The feeling behind the words"
+    },
+    {
+     "day": 5,
+     "title": "When meaning goes wrong"
+    },
+    {
+     "day": 6,
+     "title": "Strong words, soft words"
+    },
+    {
+     "day": 7,
+     "title": "Saying more with fewer words"
+    },
+    {
+     "day": 8,
+     "title": "Use precise English in a new situation"
     }
    ]
   }
