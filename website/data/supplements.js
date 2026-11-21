@@ -11,8 +11,8 @@
    - perLevel: items per level (300 for the five daily types); writing is
      weekly, so perLevel is the string '1 per week' and perLevelCounts holds
      the confirmed weekly totals per level (313 in total).
-   - sampleKey: key in EE_DATA.supplementsA1 with the real A1 sample item
-     (only A1 samples exist so far). */
+   - Samples were removed 2026-11-20: no sample items ship on the site.
+     Only formal, published items appear. */
 window.EE_SUPPLEMENTS = {
   totalItems: 10813,
   types: [
@@ -26,7 +26,6 @@ window.EE_SUPPLEMENTS = {
       perLevelLabel: '300 items per level',
       total: 2100,
       cadence: 'daily',
-      sampleKey: 'flashcards'
     },
     {
       id: 'phrasal-verbs',
@@ -38,7 +37,6 @@ window.EE_SUPPLEMENTS = {
       perLevelLabel: '300 items per level',
       total: 2100,
       cadence: 'daily',
-      sampleKey: 'phrasalVerbs'
     },
     {
       id: 'idioms',
@@ -50,7 +48,6 @@ window.EE_SUPPLEMENTS = {
       perLevelLabel: '300 items per level',
       total: 2100,
       cadence: 'daily',
-      sampleKey: 'idioms'
     },
     {
       id: 'sentence-patterns',
@@ -62,7 +59,6 @@ window.EE_SUPPLEMENTS = {
       perLevelLabel: '300 items per level',
       total: 2100,
       cadence: 'daily',
-      sampleKey: 'sentencePatterns'
     },
     {
       id: 'jokes',
@@ -74,7 +70,6 @@ window.EE_SUPPLEMENTS = {
       perLevelLabel: '300 items per level',
       total: 2100,
       cadence: 'daily',
-      sampleKey: 'jokes'
     },
     {
       id: 'writing',
@@ -87,7 +82,6 @@ window.EE_SUPPLEMENTS = {
       perLevelCounts: { foundation: 9, a1: 26, a2: 34, b1: 51, b2: 73, c1: 60, c2: 60 },
       total: 313,
       cadence: 'weekly',
-      sampleKey: 'writing'
     }
 
   ]
