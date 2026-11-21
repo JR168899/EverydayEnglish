@@ -670,3 +670,17 @@ header.site .bar .font-size{order:5;flex:0 0 auto;padding:0;margin:0 0 0 auto;bo
      the logo is out of flow — keep it where it was, above the orange line). */
   header.site .bar .font-size{order:10;flex:1 1 100%;justify-content:flex-end;padding:8px 0 6px;margin-top:8px;border-top:2px solid var(--border)}
 }
+
+/* ---------- Saved cards (2026-11-21, JR) ----------
+   Save for later: a bookmark button on every lesson and supplement card.
+   Saved cards collect in Review, with a Got it / Still hard drill. */
+.save-btn{display:inline-flex;align-items:center;gap:6px;margin:10px 0 2px;padding:6px 12px;border:2px solid var(--border);border-radius:999px;background:var(--surface);color:var(--text);font:inherit;font-size:.9rem;font-weight:800;cursor:pointer}
+.save-btn svg{width:16px;height:16px}
+.save-btn:hover{border-color:var(--primary)}
+.save-btn.saved{background:var(--primary);border-color:var(--primary);color:#fff}
+.saved-item{display:flex;justify-content:space-between;align-items:flex-start;gap:12px;padding:12px 0;border-top:2px solid var(--border)}
+.saved-item:first-of-type{border-top:0}
+.saved-actions{flex:0 0 auto;display:flex;gap:8px}
+.drill-card{margin-top:12px;padding:20px;border:2px solid var(--primary);border-radius:16px;background:var(--surface)}
+.drill-card .word{font-size:1.5rem;font-weight:900;margin:6px 0}
+.drill-done{margin-top:12px;padding:16px;border:2px solid var(--border);border-radius:16px}

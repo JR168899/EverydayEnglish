@@ -17,6 +17,15 @@
   }
   function save(p) { localStorage.setItem(KEY, JSON.stringify(p)); }
 
+  /* Saved cards live beside progress until Firebase lands. */
+  var SAVED_KEY = 'ee-saved-cards-v1';
+  function loadSaved() {
+    try { return JSON.parse(localStorage.getItem(SAVED_KEY)) || {}; }
+    catch (e) { return {}; }
+  }
+  function saveSaved(s) { try { localStorage.setItem(SAVED_KEY, JSON.stringify(s)); } catch (e) { /* private mode */ } }
+  function savedKey(level, day, kind, index) { return level + ':' + day + ':' + kind + ':' + index; }
+
   var FONT_KEY = 'ee-font-size';
   var RATE_KEY = 'ee-speech-rate';
   var FONT_SIZES = { xsmall: '14px', small: '15px', normal: '16px', large: '18px', extra: '20px' };
@@ -92,6 +101,7 @@
       chat: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"/></svg>',
       news: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M4 22h16"/><path d="M18 14h-8"/><path d="M18 18h-8"/><path d="M18 10h-8"/><path d="M10 6h8v4h-8zM4 10v6a2 2 0 0 0 2 2h2"/></svg>',
       star: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></svg>',
+      bookmark: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M19 21l-7-5-7 5V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2z"/></svg>',
       check: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><polyline points="20 6 9 17 4 12"/></svg>',
       play: '<svg viewBox="0 0 24 24" fill="currentColor" stroke="none" aria-hidden="true"><polygon points="6 3 20 12 6 21 6 3"/></svg>',
       speaker: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><polygon points="11 5 6 9 2 9 2 15 6 15 11 19 11 5"/><path d="M15.54 8.46a5 5 0 0 1 0 7.07"/></svg>',
@@ -165,6 +175,56 @@
       var p = load(), n = 0;
       if (p.visited && p.visited[level]) n = Object.keys(p.visited[level]).length;
       return { done: Math.min(n, total), total: total };
+    },
+    /* ---- Saved cards: "Save for later" on any lesson card. ----
+       DEMO (same as progress): saved in this browser's localStorage
+       (ee-saved-cards-v1) until Firebase lands; then these move into
+       the user's Firestore document, keyed the same way:
+       users/{uid}.savedCards = { "level:day:kind:index": {...} }.
+       The snapshot (word/definition/example) is stored with the card so
+       Review can list and drill it without re-fetching the lesson. */
+    savedList: function () {
+      var s = loadSaved(), list = Object.keys(s).map(function (k) { return s[k]; });
+      list.sort(function (a, b) { return (a.savedAt || 0) - (b.savedAt || 0); });
+      return list;
+    },
+    savedCount: function () { return Object.keys(loadSaved()).length; },
+    isSaved: function (level, day, kind, index) {
+      return !!loadSaved()[savedKey(level, day, kind, index)];
+    },
+    saveCard: function (entry) {
+      var s = loadSaved(), k = savedKey(entry.level, entry.day, entry.kind, entry.index);
+      entry.savedAt = Date.now();
+      s[k] = entry;
+      saveSaved(s);
+      return entry;
+    },
+    unsaveCard: function (level, day, kind, index) {
+      var s = loadSaved(), k = savedKey(level, day, kind, index);
+      delete s[k];
+      saveSaved(s);
+    },
+    toggleSaved: function (entry) {
+      if (this.isSaved(entry.level, entry.day, entry.kind, entry.index)) {
+        this.unsaveCard(entry.level, entry.day, entry.kind, entry.index);
+        return false;
+      }
+      this.saveCard(entry);
+      return true;
+    },
+    /* Save-for-later button for one card. Values ride in data-* attributes
+       (already escaped); a delegated handler in this file does the toggle. */
+    saveBtn: function (entry) {
+      var saved = this.isSaved(entry.level, entry.day, entry.kind, entry.index);
+      var esc = window.EE.esc;
+      var a = function (v) { return esc(v == null ? '' : String(v)); };
+      return '<button type="button" class="save-btn' + (saved ? ' saved' : '') + '"' +
+        ' data-save-level="' + a(entry.level) + '" data-save-day="' + a(entry.day) + '"' +
+        ' data-save-kind="' + a(entry.kind) + '" data-save-index="' + a(entry.index) + '"' +
+        ' data-save-word="' + a(entry.word) + '" data-save-title="' + a(entry.title) + '"' +
+        ' data-save-def="' + a(entry.definition) + '" data-save-ex="' + a(entry.example) + '"' +
+        ' aria-pressed="' + (saved ? 'true' : 'false') + '">' +
+        window.EE.icons.bookmark + (saved ? 'Saved' : 'Save for later') + '</button>';
     },
     continueTarget: function () {
       var p = load();
@@ -277,6 +337,22 @@
     var el = e.target && e.target.closest ? e.target.closest('[data-speak]') : null;
     if (!el) return;
     speak(el.getAttribute('data-speak'), el.classList.contains('listen-btn') ? el : null);
+  });
+
+  /* Save-for-later buttons: toggle the card in the saved store and flip
+     the button's own label. Delegated, so it works for buttons rendered
+     later (the day page renders after load). */
+  document.addEventListener('click', function (e) {
+    var btn = e.target && e.target.closest ? e.target.closest('.save-btn') : null;
+    if (!btn) return;
+    var d = btn.dataset;
+    var entry = { level: d.saveLevel, day: Number(d.saveDay) || 0, kind: d.saveKind,
+      index: d.saveIndex || '', word: d.saveWord || '', title: d.saveTitle || '',
+      definition: d.saveDef || '', example: d.saveEx || '' };
+    var nowSaved = window.EE.toggleSaved(entry);
+    btn.classList.toggle('saved', nowSaved);
+    btn.setAttribute('aria-pressed', nowSaved ? 'true' : 'false');
+    btn.innerHTML = window.EE.icons.bookmark + (nowSaved ? 'Saved' : 'Save for later');
   });
 
   /* Apply saved theme as early as possible, and highlight the current

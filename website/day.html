@@ -125,7 +125,8 @@
     var html = '<p class="muted">' + EE.esc(L.goal || '') + '</p>';
     html += '<div class="grammar-block" style="--level:' + lv.color + '"><p><strong>Expression:</strong> ' + EE.esc(L.expression || '') + ' — ' + EE.esc(L.use || '') + '</p>' +
       '<p><strong>Grammar:</strong> ' + EE.esc(L.grammar || '') + '. ' + EE.esc(L.pattern || '') + '</p>' +
-      EE.speakBtn((L.expression || '') + '. ' + (L.use || '') + '. ' + (L.grammar || '') + '. ' + (L.pattern || '')) + '</div>';
+      EE.speakBtn((L.expression || '') + '. ' + (L.use || '') + '. ' + (L.grammar || '') + '. ' + (L.pattern || '')) +
+      EE.saveBtn({ level: level, day: day, kind: 'expression', index: '0', word: L.expression || 'Expression', title: 'Expression', definition: L.use || '', example: L.example || '' }) + '</div>';
     if (L.example) html += '<p><strong>Example:</strong> ' + EE.speakBtn(L.example) + ' ' + EE.esc(L.example) + '</p>';
     if (L.task) html += answerBox('Try it: ' + L.task, 'Answer: <strong>' + EE.esc(L.answer || '') + '</strong>');
     if (L.mainWord && L.mainWord.word) {
@@ -135,15 +136,17 @@
         EE.speakBtn(mw.word + '. ' + (mw.example || mw.definition || '')) +
         '<p class="ipa">' + EE.esc(mw.ipa || '') + ' · ' + EE.esc(mw.pos || '') + '</p>' +
         '<p>' + EE.esc(mw.definition || '') + '</p><p><em>' + EE.esc(mw.example || '') + '</em></p>' +
-        (L.mainWordForms ? '<p class="small muted">' + EE.esc(L.mainWordForms) + '</p>' : '') + '</div>';
+        (L.mainWordForms ? '<p class="small muted">' + EE.esc(L.mainWordForms) + '</p>' : '') +
+        EE.saveBtn({ level: level, day: day, kind: 'mainword', index: '0', word: mw.word, title: 'Main word', definition: mw.definition || '', example: mw.example || '' }) + '</div>';
     }
     if (L.newItems && L.newItems.length) {
       html += secHead('book', 'New words today');
-      L.newItems.forEach(function (w) {
+      L.newItems.forEach(function (w, i) {
         html += '<div class="flashcard" style="--level:' + lv.color + '"><div class="word speakable" data-speak="' + EE.esc(w.word) + '">' + EE.esc(w.word) + '</div>' +
           EE.speakBtn(w.word + '. ' + (w.example || w.definition || '')) +
           '<p class="ipa">' + EE.esc(w.ipa || '') + ' · ' + EE.esc(w.pos || '') + '</p>' +
-          '<p>' + EE.esc(w.definition || '') + '</p><p><em>' + EE.esc(w.example || '') + '</em></p></div>';
+          '<p>' + EE.esc(w.definition || '') + '</p><p><em>' + EE.esc(w.example || '') + '</em></p>' +
+          EE.saveBtn({ level: level, day: day, kind: 'newword', index: String(i), word: w.word, title: 'New word', definition: w.definition || '', example: w.example || '' }) + '</div>';
       });
     }
     if (L.sound || L.model) {
@@ -162,12 +165,14 @@
     if (L.listening) {
       html += secHead('speaker', 'Listening');
       html += '<p>' + EE.speakBtn(L.listening) + ' ' + EE.esc(L.listening) + '</p>';
+      html += EE.saveBtn({ level: level, day: day, kind: 'listening', index: '0', word: 'Listening', title: 'Listening', definition: (L.listening || '').slice(0, 300), example: L.question || '' });
       if (L.question) html += '<p><strong>Question:</strong> ' + EE.esc(L.question) + '</p>' +
         answerBox('Show the answer', EE.esc(L.correct || '') + (L.other ? ' <span class="muted">(not: ' + EE.esc(L.other) + ')</span>' : ''));
     }
     if (L.reading) {
       html += secHead('book', 'Reading');
       html += '<div class="card flat"><p>' + EE.speakBtn(L.reading) + ' ' + br(L.reading) + '</p></div>';
+      html += EE.saveBtn({ level: level, day: day, kind: 'reading', index: '0', word: 'Reading', title: 'Reading', definition: (L.reading || '').slice(0, 300), example: L.readingQ || '' });
       if (L.readingQ) html += '<div class="grammar-block" style="--level:' + lv.color + '"><p><strong>Check:</strong> ' + EE.esc(L.readingQ) + '<br><span class="muted">' + EE.esc(L.readingA || '') + '</span></p></div>';
     }
     html += secHead('users', 'Your turn');
@@ -200,7 +205,8 @@
     var html = '<div class="flashcard" style="--level:' + lv.color + '">' +
       '<div class="word speakable" data-speak="' + EE.esc(c.title) + '"><span class="num-badge" style="background:' + lv.color + '">' + c.number + '</span>' + EE.esc(c.title) + '</div>' +
       '<p class="small muted">' + EE.esc(c.type || '') + '</p>' +
-      EE.speakBtn(say);
+      EE.speakBtn(say) +
+      EE.saveBtn({ level: level, day: day, kind: 'practice', index: String(c.number), word: c.title, title: c.type || 'Practice card', definition: (meaning || '').slice(0, 300), example: (context || '').slice(0, 300) });
     if (c.letterDisplay) html += '<p><strong>' + EE.esc(c.letterDisplay) + '</strong></p>';
     if (pron) html += '<p><strong>' + EE.esc(pron) + '</strong></p>';
     if (meaning) html += '<p>' + EE.esc(meaning) + '</p>';
@@ -243,10 +249,11 @@
     if (L.cue) html += '<p>' + EE.esc(L.cue) + '</p>';
     if (L.words && L.words.length) {
       html += secHead('layers', 'Today\'s letters and words');
-      html += L.words.map(function (w) {
+      html += L.words.map(function (w, i) {
         var audio = (L.wordAudioText && L.wordAudioText[w[0]]) || w[0];
         return '<div class="flashcard" style="--level:' + lv.color + '"><div class="word speakable" data-speak="' + EE.esc(w[0]) + '">' + EE.esc(w[0]) + '</div>' +
-          EE.speakBtn(audio) + '<p class="ipa">' + EE.esc(w[1] || '') + '</p></div>';
+          EE.speakBtn(audio) + '<p class="ipa">' + EE.esc(w[1] || '') + '</p>' +
+          EE.saveBtn({ level: level, day: day, kind: 'word', index: String(i), word: w[0], title: 'Word', definition: w[1] || '', example: '' }) + '</div>';
       }).join('');
     }
     if (L.letters) html += '<p><strong>Letters:</strong> ' + EE.esc(L.letters) + '</p>';
@@ -323,33 +330,39 @@
         '<div class="flashcard" style="--level:' + lv.color + '"><div class="word speakable" data-speak="' + EE.esc(S.flashcards.word) + '">' + EE.esc(S.flashcards.word) + '</div>' +
         EE.speakBtn(S.flashcards.word + '. ' + (S.flashcards.example || '')) +
         '<p class="ipa">' + EE.esc(S.flashcards.ipa || '') + ' · ' + EE.esc(S.flashcards.partOfSpeech || '') + '</p>' +
-        '<p>' + EE.esc(S.flashcards.definition) + '</p><p><em>' + EE.esc(S.flashcards.example) + '</em></p></div>' },
+        '<p>' + EE.esc(S.flashcards.definition) + '</p><p><em>' + EE.esc(S.flashcards.example) + '</em></p>' +
+        EE.saveBtn({ level: level, day: day, kind: 'supp', index: 'flashcards', word: S.flashcards.word, title: 'Flashcard', definition: S.flashcards.definition || '', example: S.flashcards.example || '' }) + '</div>' },
       { id: 'phrasal', label: 'Phrasal verb', icon: 'chat', body:
         '<div class="flashcard" style="--level:' + lv.color + '"><div class="word speakable" data-speak="' + EE.esc(S.phrasalVerbs.entry) + '">' + EE.esc(S.phrasalVerbs.entry) + '</div>' +
         EE.speakBtn(S.phrasalVerbs.entry + '. ' + (S.phrasalVerbs.example || '')) +
         '<p>' + EE.esc(S.phrasalVerbs.definition) + '</p><p><em>' + EE.esc(S.phrasalVerbs.example) + '</em></p>' +
-        '<p class="small muted">Try it: ' + (S.phrasalVerbs.conversation || []).map(function (x) { return EE.speakBtn(x.line) + ' ' + EE.esc(x.speaker + ': ' + x.line); }).join('<br>') + '</p></div>' },
+        '<p class="small muted">Try it: ' + (S.phrasalVerbs.conversation || []).map(function (x) { return EE.speakBtn(x.line) + ' ' + EE.esc(x.speaker + ': ' + x.line); }).join('<br>') + '</p>' +
+        EE.saveBtn({ level: level, day: day, kind: 'supp', index: 'phrasal-verbs', word: S.phrasalVerbs.entry, title: 'Phrasal verb', definition: S.phrasalVerbs.definition || '', example: S.phrasalVerbs.example || '' }) + '</div>' },
       { id: 'idiom', label: 'Idiom', icon: 'spark', body:
         '<div class="flashcard" style="--level:' + lv.color + '"><div class="word speakable" data-speak="' + EE.esc(S.idioms.entry) + '">' + EE.esc(S.idioms.entry) + '</div>' +
         EE.speakBtn(S.idioms.entry + '. ' + (S.idioms.example || '')) +
-        '<p>' + EE.esc(S.idioms.definition) + '</p><p><em>' + EE.esc(S.idioms.example) + '</em></p></div>' },
+        '<p>' + EE.esc(S.idioms.definition) + '</p><p><em>' + EE.esc(S.idioms.example) + '</em></p>' +
+        EE.saveBtn({ level: level, day: day, kind: 'supp', index: 'idioms', word: S.idioms.entry, title: 'Idiom', definition: S.idioms.definition || '', example: S.idioms.example || '' }) + '</div>' },
       { id: 'pattern', label: 'Sentence pattern', icon: 'pen', body:
         '<div class="flashcard" style="--level:' + lv.color + '"><div class="word speakable" data-speak="' + EE.esc(S.sentencePatterns.pattern) + '">' + EE.esc(S.sentencePatterns.pattern) + '</div>' +
         EE.speakBtn(S.sentencePatterns.pattern + '. ' + ((S.sentencePatterns.examples || [])[0] ? (S.sentencePatterns.examples || [])[0].sentence : '')) +
         '<p>' + EE.esc(S.sentencePatterns.explanation) + '</p>' +
-        (S.sentencePatterns.examples || []).map(function (e) { return '<p>' + EE.speakBtn(e.sentence) + '<em>' + EE.esc(e.sentence) + '</em> <span class="muted">— ' + EE.esc(e.situation) + '</span></p>'; }).join('') + '</div>' },
+        (S.sentencePatterns.examples || []).map(function (e) { return '<p>' + EE.speakBtn(e.sentence) + '<em>' + EE.esc(e.sentence) + '</em> <span class="muted">— ' + EE.esc(e.situation) + '</span></p>'; }).join('') +
+        EE.saveBtn({ level: level, day: day, kind: 'supp', index: 'sentence-patterns', word: S.sentencePatterns.pattern, title: 'Sentence pattern', definition: S.sentencePatterns.explanation || '', example: ((S.sentencePatterns.examples || [])[0] || {}).sentence || '' }) + '</div>' },
       { id: 'joke', label: 'Joke', icon: 'smile', body:
         '<div class="flashcard" style="--level:' + lv.color + '"><div class="word">' + EE.esc(S.jokes.joke) + '</div>' +
         EE.speakBtn(S.jokes.joke) +
         '<p>' + EE.esc(S.jokes.whyFunny) + '</p>' +
-        '<p><strong>Key words:</strong> ' + (S.jokes.keyWords || []).map(function (k) { return EE.esc(k.word) + ' — ' + EE.esc(k.explanation); }).join('; ') + '</p></div>' },
+        '<p><strong>Key words:</strong> ' + (S.jokes.keyWords || []).map(function (k) { return EE.esc(k.word) + ' — ' + EE.esc(k.explanation); }).join('; ') + '</p>' +
+        EE.saveBtn({ level: level, day: day, kind: 'supp', index: 'jokes', word: 'Joke', title: 'Joke', definition: S.jokes.whyFunny || '', example: (S.jokes.joke || '').slice(0, 300) }) + '</div>' },
       { id: 'writing', label: 'Writing · weekly', icon: 'pen', body:
         '<div class="flashcard" style="--level:' + lv.color + '"><div class="word">' + EE.esc(S.writing.topic) + ' (' + S.writing.wordCount + ' words)</div>' +
         EE.speakBtn(S.writing.modelText) +
         '<p><strong>Your task:</strong> ' + EE.esc(S.writing.task) + '</p>' +
         '<p><strong>Model text:</strong><br>' + EE.esc(S.writing.modelText) + '</p>' +
         '<p><strong>Patterns to reuse:</strong> ' + (S.writing.patterns || []).map(EE.esc).join(' · ') + '</p>' +
-        '<p class="small muted">Writing is once a week, not every day. Self-check: ' + (S.writing.selfCheck || []).slice(0, 3).map(EE.esc).join(' · ') + '</p></div>' }
+        '<p class="small muted">Writing is once a week, not every day. Self-check: ' + (S.writing.selfCheck || []).slice(0, 3).map(EE.esc).join(' · ') + '</p>' +
+        EE.saveBtn({ level: level, day: day, kind: 'supp', index: 'writing', word: S.writing.topic, title: 'Writing', definition: S.writing.task || '', example: (S.writing.modelText || '').slice(0, 300) }) + '</div>' }
     ];
     tabs.forEach(function (t, i) {
       var b = document.createElement('button');

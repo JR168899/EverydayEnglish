@@ -28,7 +28,7 @@
     <span class="hero-badge"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 12a9 9 0 1 0 2.6-6.4"/><polyline points="3 4 3 9 8 9"/></svg>Review — what you have learned</span>
     <h1>Look back before you move on.</h1>
     <p>Review is built from the days you have actually visited — nothing here is made up.
-    Quizzes and your error book arrive in the next build; this page is their home.</p>
+    Cards you saved for later live here now. Quizzes and your error book arrive in the next build; this page is their home.</p>
   </section>
 
   <div class="stat-row" id="reviewStats"></div>
@@ -46,11 +46,21 @@
 
       <section class="card">
         <div class="section-head">
+          <span class="ic-tile"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M19 21l-7-5-7 5V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2z"/></svg></span>
+          <h2>Saved for later</h2>
+        </div>
+        <p class="muted">Cards you tapped <strong>Save for later</strong> on — the words that will not stick, or the cards you want again. Review just these, as often as you like. Saved cards are kept in this browser for now; they will follow your account when real sign-in arrives.</p>
+        <div id="savedList"></div>
+        <div id="savedDrill"></div>
+      </section>
+
+      <section class="card">
+        <div class="section-head">
           <span class="ic-tile"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg></span>
           <h2>Quick quiz — coming in the next build</h2>
         </div>
         <p>Short quizzes will ask you about words from the lessons you have visited — the newest words first, then the ones you have not seen for a while. No quiz questions exist yet, so there is nothing to answer here today. When quizzes arrive, your score will be saved with your account.</p>
-        <p class="small muted">Planned: 5 questions per quiz, drawn only from visited days; wrong answers go straight into your error book below.</p>
+        <p class="small muted">Planned: 5 questions per quiz, drawn only from visited days — your saved cards asked first; wrong answers go straight into your error book below.</p>
       </section>
 
       <section class="card">
@@ -71,14 +81,14 @@
       </section>
       <section class="card">
         <h3>Supplements to review</h3>
-        <p class="muted">The six supplement types, level by level — start with the A1 sample in each one.</p>
+        <p class="muted">The six supplement types, level by level — start with the first item in each one.</p>
         <div id="suppLinks"></div>
       </section>
     </aside>
   </div>
 </div>
 
-<footer class="site"><p class="small muted">Everyday English · everydayenglish.app · Review uses only your real visited days. Quizzes and the error book are the next build.</p></footer>
+<footer class="site"><p class="small muted">Everyday English · everydayenglish.app · Review uses only your real visited days and the cards you saved. Quizzes and the error book are the next build.</p></footer>
 <nav class="tabbar" aria-label="App navigation">
   <a href="home.html" data-tab="news"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 22h16"/><path d="M18 14h-8"/><path d="M18 18h-8"/><path d="M18 10h-8"/><path d="M10 6h8v4h-8zM4 10v6a2 2 0 0 0 2 2h2"/></svg><span>News</span></a>
   <a href="courses.html" data-tab="courses"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M2 3h6a4 4 0 0 1 4 4v14a3 3 0 0 0-3-3H2z"/><path d="M22 3h-6a4 4 0 0 0-4 4v14a3 3 0 0 1 3-3h7z"/></svg><span>Courses</span></a>
@@ -122,6 +132,84 @@
       '<span class="ic-tile" style="background:var(--surface-2);color:var(--text);border:2px solid var(--border);width:40px;height:40px;border-radius:12px">' + EE.icon(s.icon) + '</span>' +
       '<span>' + EE.esc(s.name) + '<small>' + EE.esc(s.perLevelLabel) + '</small></span></a>';
   }).join('');
+
+  /* ---- Saved for later: list + drill ----
+     One pass through the saved cards, oldest first. "Got it" removes the
+     card from the saved set; "Still hard" leaves it saved, so it comes
+     back the next time the drill runs. */
+  var savedEl = document.getElementById('savedList');
+  var drillEl = document.getElementById('savedDrill');
+  var drillQueue = [], drillPos = 0, drillActive = false;
+  function levelName(k) { var l = data.levels[k]; return l ? l.name : k; }
+  function renderSaved() {
+    var list = EE.savedList();
+    if (!list.length) {
+      savedEl.innerHTML = '<p class="muted">No saved cards yet. On any lesson day, tap <strong>Save for later</strong> on a card you want to see again — a word that will not stick, or a card you find especially useful.</p>';
+      drillEl.innerHTML = '';
+      return;
+    }
+    savedEl.innerHTML = '<p><strong>' + list.length + ' saved card' + (list.length > 1 ? 's' : '') + '</strong> · <button type="button" class="btn small" id="startDrill">Review saved cards</button></p>' +
+      list.map(function (s) {
+        var d = s.savedAt ? new Date(s.savedAt).toISOString().slice(0, 10) : '';
+        return '<div class="saved-item"><div><strong>' + EE.esc(s.word || s.title || 'Card') + '</strong>' +
+          (s.definition ? '<br><span class="muted">' + EE.esc(s.definition) + '</span>' : '') +
+          '<br><span class="small muted">' + EE.esc(levelName(s.level)) + ' · Day ' + s.day + (d ? ' · saved ' + d : '') + '</span></div>' +
+          '<div class="saved-actions"><a class="btn ghost small" href="day.html?level=' + encodeURIComponent(s.level) + '&day=' + s.day + '">Open day</a> ' +
+          '<button type="button" class="btn ghost small" data-unsave="' + EE.esc(s.level + ':' + s.day + ':' + s.kind + ':' + s.index) + '">Remove</button></div></div>';
+      }).join('');
+    document.getElementById('startDrill').onclick = startDrill;
+    savedEl.querySelectorAll('[data-unsave]').forEach(function (b) {
+      b.onclick = function () {
+        var p = b.getAttribute('data-unsave').split(':');
+        EE.unsaveCard(p[0], Number(p[1]), p[2], p.slice(3).join(':'));
+        renderSaved();
+      };
+    });
+  }
+  function startDrill() {
+    drillQueue = EE.savedList();
+    drillPos = 0; drillActive = true;
+    renderDrill(false);
+  }
+  function renderDrill(showAnswer) {
+    if (!drillActive || drillPos >= drillQueue.length) {
+      var n = drillQueue.length;
+      drillEl.innerHTML = drillActive ?
+        '<div class="drill-done"><strong>Done — you reviewed ' + n + ' saved card' + (n > 1 ? 's' : '') + '.</strong>' +
+        '<p class="muted">Cards you marked "Still hard" stay saved — review them again any time.</p>' +
+        '<p><button type="button" class="btn small" id="drillAgain">Review again</button></p></div>' : '';
+      var again = document.getElementById('drillAgain');
+      if (again) again.onclick = startDrill;
+      drillActive = false;
+      renderSaved();
+      return;
+    }
+    var s = drillQueue[drillPos];
+    var h = '<div class="drill-card"><p class="small muted">Saved card ' + (drillPos + 1) + ' of ' + drillQueue.length + ' · ' + EE.esc(levelName(s.level)) + ' · Day ' + s.day + '</p>' +
+      '<div class="word">' + EE.esc(s.word || s.title || 'Card') + '</div>' +
+      EE.speakBtn((s.word || '') + '. ' + (s.definition || '') + '. ' + (s.example || ''));
+    if (showAnswer) {
+      h += (s.definition ? '<p>' + EE.esc(s.definition) + '</p>' : '') +
+        (s.example ? '<p><em>' + EE.esc(s.example) + '</em></p>' : '') +
+        '<p><button type="button" class="btn small" id="drillGot">Got it — remove from saved</button> ' +
+        '<button type="button" class="btn ghost small" id="drillHard">Still hard — keep it</button></p>';
+    } else {
+      h += '<p><button type="button" class="btn small" id="drillShow">Show answer</button></p>';
+    }
+    h += '</div>';
+    drillEl.innerHTML = h;
+    var show = document.getElementById('drillShow');
+    if (show) show.onclick = function () { renderDrill(true); };
+    var got = document.getElementById('drillGot');
+    if (got) got.onclick = function () {
+      EE.unsaveCard(s.level, s.day, s.kind, s.index);
+      drillQueue.splice(drillPos, 1);
+      renderDrill(false);
+    };
+    var hard = document.getElementById('drillHard');
+    if (hard) hard.onclick = function () { drillPos++; renderDrill(false); };
+  }
+  renderSaved();
 })();
 </script>
 </body>
