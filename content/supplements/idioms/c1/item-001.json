@@ -1,0 +1,34 @@
+{
+  "id": "idioms-c1-001",
+  "type": "idiom",
+  "level": "c1",
+  "entry": "cut corners",
+  "definition": "To do something in the cheapest or quickest way, by skipping steps that should not be skipped.",
+  "synonyms": [
+    "take shortcuts",
+    "skimp"
+  ],
+  "example": "If you cut corners on safety checks, the whole project is at risk.",
+  "conversation": [
+    {
+      "speaker": "A",
+      "line": "Why was the report sent back? It looked fine to me."
+    },
+    {
+      "speaker": "B",
+      "line": "The writer cut corners and left out half the data."
+    },
+    {
+      "speaker": "A",
+      "line": "That explains it. A quick job is not always a good job."
+    },
+    {
+      "speaker": "B",
+      "line": "Right. When you cut corners, the cost always shows up later."
+    }
+  ],
+  "checks": {
+    "date": "2026-11-20",
+    "newness": "PASS — checked with lexical_history.check_item against Foundation + A1 + A2 + B1 Units 1-27 + B2 Units 1-20 + C1 Unit 1 + C2 Unit 1 and the shared ledger (5,182 known keys, 1,960 ledger items)"
+  }
+}

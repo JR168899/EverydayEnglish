@@ -1,0 +1,43 @@
+{
+  "id": "writing-b1-001",
+  "type": "writing",
+  "level": "b1",
+  "topic": "My first week at a new job",
+  "wordTarget": 200,
+  "wordCount": 200,
+  "modelText": "My first week at a new job was very busy, but I learned a lot. On Monday morning, I talked to my new colleagues in the office. They were kind and happy to help me. My manager showed me my desk and my first tasks. She said, \"Please ask for help.\" I was a little nervous, but her words made me feel better. On Tuesday, I learned the office rules. I learned when to start work and when to take a break. In the afternoon, I joined my first team meeting. I listened and made notes. At the end of the meeting, my manager asked for my ideas. I shared one small idea, and the team was happy. On Wednesday, I worked on a project with two colleagues. We planned the work together and shared the tasks. When we had a problem, we talked about it and found a good solution. I also worked on my first work email to ask for information. My colleague helped me check the email first. On Friday, I shared a short update on my work. My manager said, \"Good work. You did well.\" I was proud and very happy. A good plan really helps.",
+  "structureMap": [
+    {
+      "part": "Beginning",
+      "sentences": "1-6",
+      "job": "Introduce the topic: a first week at a new job, and the first day in the office."
+    },
+    {
+      "part": "Middle",
+      "sentences": "7-17",
+      "job": "Tell what happened each day: office rules, a team meeting, teamwork, and a first work email."
+    },
+    {
+      "part": "End",
+      "sentences": "18-21",
+      "job": "Finish the week with an update, the manager's words, and what the writer learned."
+    }
+  ],
+  "patterns": [
+    "On Monday morning, I ...",
+    "I learned when to ... and when to ...",
+    "When we had a problem, we ... and found a good solution.",
+    "At the end of the meeting, ... asked for my ideas."
+  ],
+  "task": "Write about 200 words about your first week at a new job, a new school, or a new club. Say what happened on different days, what you learned, and how you felt at the end of the week.",
+  "selfCheck": [
+    "Is my text about 200 words?",
+    "Did I write about different days of the week?",
+    "Did I use past forms like learned, worked, and shared?",
+    "Did I say how I felt at the end?"
+  ],
+  "checks": {
+    "date": "2026-11-20",
+    "newness": "Topic recycles B1 Days 1-8 work vocabulary (colleagues, office rules, first tasks, team meeting, work email). Model-text words checked with check42.py writing: unknown NONE, above-level NONE. Word count verified by script: exactly 200 words."
+  }
+}

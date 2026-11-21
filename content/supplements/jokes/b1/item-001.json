@@ -1,0 +1,33 @@
+{
+  "id": "jokes-b1-001",
+  "type": "joke",
+  "level": "b1",
+  "joke": "I told my boss I needed a raise because three other companies are after me. He asked which ones. I said the gas company, the water company, and the electric company.",
+  "whyFunny": "The joke plays on the word 'companies'. The boss thinks three businesses want to hire the worker, but they are really the gas, water, and electric companies — the businesses the worker pays every month. The 'raise' is not about a new job at all.",
+  "keyWords": [
+    {
+      "word": "boss",
+      "explanation": "the person you work for"
+    },
+    {
+      "word": "raise",
+      "explanation": "more money for your work"
+    },
+    {
+      "word": "company",
+      "explanation": "a business"
+    },
+    {
+      "word": "gas",
+      "explanation": "the fuel used for cooking and heating"
+    },
+    {
+      "word": "electric",
+      "explanation": "using power"
+    }
+  ],
+  "checks": {
+    "date": "2026-11-20",
+    "newness": "PASS — checked against the daily-joke used list (used_jokes.txt, 31 jokes delivered) — this joke was never used. All key words are words a B1 learner can follow."
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "phrasal-verbs-c2-001",
+  "type": "phrasal-verb",
+  "level": "c2",
+  "entry": "flesh out",
+  "definition": "To add more details to an idea, a plan, or a story so that it becomes fuller and clearer.",
+  "synonyms": [
+    "expand on",
+    "develop in detail"
+  ],
+  "example": "The first draft was only two pages, so she fleshed it out with examples and data.",
+  "conversation": [
+    {
+      "speaker": "A",
+      "line": "My plan for the new project is still very short."
+    },
+    {
+      "speaker": "B",
+      "line": "You need to flesh it out. Add the costs, the dates, and the people you need."
+    },
+    {
+      "speaker": "A",
+      "line": "Good idea. I will flesh it out this weekend."
+    },
+    {
+      "speaker": "B",
+      "line": "Then we can show it to the team on Monday."
+    }
+  ],
+  "checks": {
+    "date": "2026-11-20",
+    "newness": "PASS — checked with lexical_history.check_item against Foundation + A1 + A2 + B1 Units 1-27 + B2 Units 1-20 + C1 Unit 1 + C2 Unit 1 and the shared ledger (5,182 known keys, 1,960 ledger items). Component check: ALL CLEAN — neither 'flesh' nor 'out' is a taught new word, and 'flesh out' is not a taught phrase."
+  }
+}
