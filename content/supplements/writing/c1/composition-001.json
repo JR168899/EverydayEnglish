@@ -1,0 +1,44 @@
+{
+  "id": "writing-c1-001",
+  "type": "writing",
+  "level": "c1",
+  "topic": "Saying what you mean at work: why precise language matters in professional discussion",
+  "wordTarget": 400,
+  "wordCount": 400,
+  "modelText": "In a work meeting, the difference between a clear message and a vague one can decide if a team moves forward or spends weeks fixing a mistake. To my mind, precise language is not a small skill at work; it is the key part of trust, and it shapes each new choice. For the most part, problems at work do not start with bad plans or data; they start with words that sound clear but mean two things. A manager may say that a report is fine, and the team may infer that no change is needed, while the manager meant fine for now, not ready for a client. The implication is simple: when we understate a problem or overstate a result, we ask other people to decide for us. In plain terms, to be precise is to say what you mean, to qualify a claim when you are not sure, and to retract a point when new facts show that it is wrong. On reflection, the best people in a meeting are often the most forthright ones: they assert a view, they concede a point when facts are against them, and they invite others to contradict them. This does not mean that direct speech must be hard to hear; a polite person can be explicit and still kind, because a clear no is kind. There is also a subtle distinction between saying a view in a kind way and not saying it at all. One who says a view in a kind way still says it, while one who is evasive leaves other people to infer a view never said, and that silence can undermine a whole plan. In hindsight, most of us can remember a time when we said too little, or said it too late, and watched a small doubt grow. What it comes down to is this: in essence, a coherent message, one that is explicit about facts and honest about doubt, saves time, saves money, and keeps trust. So the next time you speak in a meeting, ask yourself one question before you begin: can the people here repeat my point in their own words, and would they repeat it as I meant it? If the answer is no, elaborate, give an example, and say it again in plain words, because a clear point today is a problem you do not have to fix tomorrow.",
+  "structureMap": [
+    {
+      "part": "Beginning",
+      "sentences": "1-2",
+      "job": "State the main idea: precise language builds trust at work."
+    },
+    {
+      "part": "Middle",
+      "sentences": "3-10",
+      "job": "Show how vague words cause problems, then explain what precise speech looks like."
+    },
+    {
+      "part": "End",
+      "sentences": "11-14",
+      "job": "Reflect on past mistakes and give the reader a clear test to use before speaking."
+    }
+  ],
+  "patterns": [
+    "To my mind, ...",
+    "In plain terms, ...",
+    "What it comes down to is ...",
+    "On reflection, ..."
+  ],
+  "task": "Write about 400 words on this question: why does precise language matter in a work meeting? Use at least three patterns from the list above, give one real example from work, and end with one piece of advice for the reader.",
+  "selfCheck": [
+    "Is my text about 400 words long?",
+    "Did I use at least three of the patterns?",
+    "Did I give one clear work example?",
+    "Can a reader repeat my main point in their own words?",
+    "Did I check every sentence for clear, precise words?"
+  ],
+  "checks": {
+    "date": "2026-11-20",
+    "newness": "Topic recycles C1 Unit 1 vocabulary (assert, concede, contradict, distinction, elaborate, evasive, explicit, forthright, implication, infer, precise, qualify, retract, subtle, undermine, understate, overstate, coherent, in essence, on reflection, in hindsight, to my mind, for the most part, in plain terms, what it comes down to) and B2 work vocabulary. Model-text words checked with check42.py writing: unknown NONE. Word count verified by script: exactly 400 words."
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "id": "writing-c2-001",
+  "type": "writing",
+  "level": "c2",
+  "topic": "Say Exactly What You Mean: The Power of Precise Language",
+  "wordTarget": 600,
+  "wordCount": 600,
+  "modelText": "Words are tools, and like all tools, they work best when we choose them with care. A vague word can keep the truth from us, while a precise word can make it clear. In this essay, I want to show why precise language matters in our life and at work. My point is simple: when we say exactly what we mean, we think more clearly, and other people understand us better.\n\nFirst, let us look at ambiguity, the problem that starts when words have more than one meaning. For example, if a manager says, \"We need to improve our results soon,\" the word \"soon\" is vague. The team can not work with confidence because the message is not clear. A person who speaks with care would say, \"We need to finish the work before the end of this month.\" Now the goal and the time are clear.\n\nNext, precise language helps us stop mistakes that come from words with different connotations. Every word has a denotation, its real meaning, and a connotation, the feeling it brings with it. The words \"cheap\" and \"good value\" both tell about a low price, but they feel very different. A careful person knows this and chooses the word that fits the message. A euphemism can soften the blow, but it can also keep the truth from us. To say a worker was \"let go\" is soft, but to say the worker \"lost the job\" is hard. Soft words have a place, but at times we should call a spade a spade and tell it like it is.\n\nPrecision also stops hyperbole and overstatement. When people call a small change \"a big problem,\" they use big words for small things. To put it mildly, a problem is serious; in the strictest sense, a big problem is one that makes people sad and costs a lot. Understatement can also be a problem. If a doctor says a test result is \"not quite what we hoped for,\" a patient may not know the danger.\n\nAs a matter of fact, precise language is also a mark of eloquence and respect. An eloquent, measured person does not use long, verbose words to show off; an eloquent person uses the right words to make a hard idea clear. They cut to the chase, they do not mince words, and they get through to their listeners. In this way, we show respect for the time and the mind of the people who listen to us.\n\nHow, then, can we become more precise? The first step is to listen to our own words. When we catch a vague word, we can stop and ask, \"What do I really mean?\" Next, ask for the meaning behind the words of other people. If a friend says, \"I am fine,\" ask, in a courteous way, \"Are you sure?\" Often, people keep true feelings behind guarded words. The last step is to learn the fine distinctions between words that seem the same. For example, \"reserved\" and \"shy\" are not the same. To know this subtlety is to hold a good tool.\n\nIn brief, precise language is not a nice extra; in practice, it is a skill that we use every day. It also helps us think, because when we must find the right word, we must first find the right thought. So let us choose our words with care, say exactly what we mean, and listen for the meaning behind the words of others. When we do, our words carry more weight, our ideas travel further, and our talks with other people become warm and honest.",
+  "structureMap": [
+    {
+      "part": "Beginning",
+      "sentences": "1-4",
+      "job": "Say why precise language matters and what the essay will show."
+    },
+    {
+      "part": "Middle",
+      "sentences": "5-25",
+      "job": "Show the problems precise language solves: ambiguity, connotation, overstatement, and empty talk."
+    },
+    {
+      "part": "How to improve",
+      "sentences": "26-34",
+      "job": "Give three steps to become more precise: listen to your own words, ask what others mean, and learn fine distinctions."
+    },
+    {
+      "part": "End",
+      "sentences": "35-38",
+      "job": "Sum up the value of precise language and call the reader to use it."
+    }
+  ],
+  "patterns": [
+    "A ... word can ..., while a ... word can ...",
+    "To put it mildly, ... ; in the strictest sense, ...",
+    "When we say exactly what we mean, we ...",
+    "The first step is to ... . The last step is to ...",
+    "In brief, ... ; in practice, ..."
+  ],
+  "task": "Write about why precise language matters in about 600 words. Use at least three C2 Unit 1 words (ambiguity, connotation, denotation, euphemism, hyperbole, understatement, eloquence, rhetoric, subtlety, precision) and at least two of the patterns from the model text. Give clear examples with real words and real situations.",
+  "selfCheck": [
+    "I wrote about 600 words.",
+    "I used at least three C2 Unit 1 words.",
+    "I used at least two patterns from the model text.",
+    "I gave clear examples with real words and real situations.",
+    "I said how to become more precise.",
+    "I checked my spelling and ended every sentence with a full stop or a question mark."
+  ],
+  "checks": {
+    "date": "2026-11-20",
+    "newness": "Topic recycles C2 Unit 1 'Say exactly what you mean' (ambiguity, connotation, denotation, euphemism, hyperbole, understatement, eloquence, rhetoric, subtlety, precision) and C1 Unit 1 'Say exactly what you mean' (precise, explicit, distinction, forthright). Model-text words checked with check42.py writing: unknown NONE, above-level NONE. Word count verified by script: exactly 600 words."
+  }
+}

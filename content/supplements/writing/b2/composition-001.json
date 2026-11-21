@@ -1,0 +1,57 @@
+{
+ "checks": {
+  "date": "2026-11-20",
+  "newness": "Topic recycles B2 Days 113-120 environment unit (climate change, energy, air quality, public transport) and Days 121-128 city unit (city problems, neighbourhoods and change, city services and planning). Model-text words checked with check42.py writing: unknown NONE. Word count verified by script: exactly 300 words."
+ },
+ "id": "writing-b2-001",
+ "level": "b2",
+ "modelText": "Many cities now ask a question: should cars stay out of the city center? In my view, the answer is yes, but the change must be slow and fair. Cars bring noise, dirty air, and traffic jams to the center of a city. They make streets dangerous, and they push people away from shops and parks. A city center should be a place for people, not for cars. First, keeping cars out would improve air quality and public health. When not so many cars use the streets, the air becomes clean, and people feel better. Doctors say dirty air can damage the heart and the body. Clean streets also mean less noise and less stress. In short, less traffic can mean a healthy city. Second, a limit on cars would change how people move. If cars can not enter the center, more people will walk, ride a bicycle, or take a bus. This is good for the climate, because public transport uses far less energy. It is also good for local shops, because people on foot stop and buy more. A street full of people walking is often a street full of life. But a limit on cars must be fair. Some people need a car because of bad health, or because they live far from a bus. Small firms need vans to bring goods to shops. For this reason, a city should spend more on buses and build safe bicycle lanes. Workers who drive at night also need clear rules and safe parking nearby. In conclusion, keeping cars out can cut pollution, protect health, and bring life back to our streets. The change will only work if it is slow and fair. If cities invest in better transport, the center can become clean, safe, and more pleasant for all.",
+ "patterns": [
+  "In my view, ...",
+  "This is good for ..., because ...",
+  "For this reason, ...",
+  "In conclusion, ...",
+  "If ..., ... can ..."
+ ],
+ "selfCheck": [
+  "I wrote about 300 words.",
+  "I said what I think about cars in the city center.",
+  "I gave two reasons for my view.",
+  "I said what problems the change could cause.",
+  "I said how the city should solve them.",
+  "I used 'In my view, ...' and 'For this reason, ...'.",
+  "I checked my spelling and my sentence endings."
+ ],
+ "structureMap": [
+  {
+   "job": "State the question and say what you think.",
+   "part": "Beginning",
+   "sentences": "1-5"
+  },
+  {
+   "job": "Give the first reason: cleaner air and better health.",
+   "part": "Middle",
+   "sentences": "6-10"
+  },
+  {
+   "job": "Give the second reason: how people move and shop.",
+   "part": "Middle",
+   "sentences": "11-15"
+  },
+  {
+   "job": "Say what problems the change could cause and how to solve them.",
+   "part": "Balance",
+   "sentences": "16-20"
+  },
+  {
+   "job": "Give your conclusion.",
+   "part": "End",
+   "sentences": "21-23"
+  }
+ ],
+ "task": "Write about 300 words: Should your city keep cars out of the city center? Give two reasons for your view, say what problems the change could cause, and say how the city should solve them. Use the patterns from the model text.",
+ "topic": "Should cities keep cars out of the city center?",
+ "type": "writing",
+ "wordCount": 300,
+ "wordTarget": 300
+}
