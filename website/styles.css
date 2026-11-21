@@ -654,3 +654,19 @@ header.site .bar .font-size{order:5;flex:0 0 auto;padding:0;margin:0 0 0 auto;bo
   header.site .bar .font-size{order:10;flex:1 1 100%;justify-content:flex-end;padding:6px 0 2px;margin-left:0}
   .logo img{height:72px}
 }
+
+/* ---------- Header logo: full-height wordmark (2026-11-20, JR) ----------
+   Wide screens only: the logo spans from the News row down to the orange
+   line — its top no higher than the nav row, its bottom on the header's
+   bottom border, as large as fits (180px). The logo is absolutely
+   positioned, so the bar gets a fixed min-height and the two rows spread
+   top (nav) / bottom (text size). The SVG viewBox is cropped to the
+   artwork so the element box is the visible letters, not empty margins. */
+@media (min-width:1441px){
+  header.site .bar{position:relative;min-height:220px;align-content:space-between}
+  header.site .bar .logo{position:absolute;left:32px;top:40px}
+  .logo img{height:180px}
+  /* Text size stays on its own bottom row (it would fit up top now that
+     the logo is out of flow — keep it where it was, above the orange line). */
+  header.site .bar .font-size{order:10;flex:1 1 100%;justify-content:flex-end;padding:8px 0 6px;margin-top:8px;border-top:2px solid var(--border)}
+}
