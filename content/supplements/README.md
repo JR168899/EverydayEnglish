@@ -91,9 +91,10 @@ genre, sentence/linking complexity, writing skills.
 - **Jokes** follow the locked joke format: the joke, why it is funny,
   key words with short English explanations. Never repeat a joke already
   delivered (check `used_jokes.txt`).
-- **Status: samples only.** A1 `item-001` (and writing `composition-001`)
-  are the first samples, made 2026-11-20. Bulk production has not
-  started. Phase 1 (main course Foundation–B2) comes first; supplements
+- **Status: samples removed 2026-11-20.** One sample per type per level
+  (42 total) was made 2026-11-20 and then deleted at James's request —
+  only formal, published items ship from now on. Bulk production has
+  not started. Phase 1 (main course Foundation–B2) comes first; supplements
   are Phase 2.
 
 ## Item formats
