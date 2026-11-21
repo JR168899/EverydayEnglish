@@ -314,12 +314,66 @@
     }
   });
 
-  /* ---- supplements: formal items only — no samples ship on the site ---- */
+  /* ---- supplements: this level's first items, on every day ---- */
   var tabsEl = document.getElementById('tabs'), panesEl = document.getElementById('panes');
-  tabsEl.innerHTML = '';
-  panesEl.innerHTML = '<div class="notice"><strong>' + EE.esc(lv.name) + ' supplement items are coming next.</strong> ' +
-    'The flashcards, phrasal verbs, idioms, sentence patterns, jokes and writing items for this level will appear here once they are published. ' +
-    'You can already browse the types on the <a href="supplements.html">Supplements hub</a>.</div>';
+  var S = (data.supplements && data.supplements[level]) || null;
+  if (S) {
+    var tabs = [
+      { id: 'flash', label: 'Flashcard', icon: 'layers', body:
+        '<div class="flashcard" style="--level:' + lv.color + '"><div class="word speakable" data-speak="' + EE.esc(S.flashcards.word) + '">' + EE.esc(S.flashcards.word) + '</div>' +
+        EE.speakBtn(S.flashcards.word + '. ' + (S.flashcards.example || '')) +
+        '<p class="ipa">' + EE.esc(S.flashcards.ipa || '') + ' · ' + EE.esc(S.flashcards.partOfSpeech || '') + '</p>' +
+        '<p>' + EE.esc(S.flashcards.definition) + '</p><p><em>' + EE.esc(S.flashcards.example) + '</em></p></div>' },
+      { id: 'phrasal', label: 'Phrasal verb', icon: 'chat', body:
+        '<div class="flashcard" style="--level:' + lv.color + '"><div class="word speakable" data-speak="' + EE.esc(S.phrasalVerbs.entry) + '">' + EE.esc(S.phrasalVerbs.entry) + '</div>' +
+        EE.speakBtn(S.phrasalVerbs.entry + '. ' + (S.phrasalVerbs.example || '')) +
+        '<p>' + EE.esc(S.phrasalVerbs.definition) + '</p><p><em>' + EE.esc(S.phrasalVerbs.example) + '</em></p>' +
+        '<p class="small muted">Try it: ' + (S.phrasalVerbs.conversation || []).map(function (x) { return EE.speakBtn(x.line) + ' ' + EE.esc(x.speaker + ': ' + x.line); }).join('<br>') + '</p></div>' },
+      { id: 'idiom', label: 'Idiom', icon: 'spark', body:
+        '<div class="flashcard" style="--level:' + lv.color + '"><div class="word speakable" data-speak="' + EE.esc(S.idioms.entry) + '">' + EE.esc(S.idioms.entry) + '</div>' +
+        EE.speakBtn(S.idioms.entry + '. ' + (S.idioms.example || '')) +
+        '<p>' + EE.esc(S.idioms.definition) + '</p><p><em>' + EE.esc(S.idioms.example) + '</em></p></div>' },
+      { id: 'pattern', label: 'Sentence pattern', icon: 'pen', body:
+        '<div class="flashcard" style="--level:' + lv.color + '"><div class="word speakable" data-speak="' + EE.esc(S.sentencePatterns.pattern) + '">' + EE.esc(S.sentencePatterns.pattern) + '</div>' +
+        EE.speakBtn(S.sentencePatterns.pattern + '. ' + ((S.sentencePatterns.examples || [])[0] ? (S.sentencePatterns.examples || [])[0].sentence : '')) +
+        '<p>' + EE.esc(S.sentencePatterns.explanation) + '</p>' +
+        (S.sentencePatterns.examples || []).map(function (e) { return '<p>' + EE.speakBtn(e.sentence) + '<em>' + EE.esc(e.sentence) + '</em> <span class="muted">— ' + EE.esc(e.situation) + '</span></p>'; }).join('') + '</div>' },
+      { id: 'joke', label: 'Joke', icon: 'smile', body:
+        '<div class="flashcard" style="--level:' + lv.color + '"><div class="word">' + EE.esc(S.jokes.joke) + '</div>' +
+        EE.speakBtn(S.jokes.joke) +
+        '<p>' + EE.esc(S.jokes.whyFunny) + '</p>' +
+        '<p><strong>Key words:</strong> ' + (S.jokes.keyWords || []).map(function (k) { return EE.esc(k.word) + ' — ' + EE.esc(k.explanation); }).join('; ') + '</p></div>' },
+      { id: 'writing', label: 'Writing · weekly', icon: 'pen', body:
+        '<div class="flashcard" style="--level:' + lv.color + '"><div class="word">' + EE.esc(S.writing.topic) + ' (' + S.writing.wordCount + ' words)</div>' +
+        EE.speakBtn(S.writing.modelText) +
+        '<p><strong>Your task:</strong> ' + EE.esc(S.writing.task) + '</p>' +
+        '<p><strong>Model text:</strong><br>' + EE.esc(S.writing.modelText) + '</p>' +
+        '<p><strong>Patterns to reuse:</strong> ' + (S.writing.patterns || []).map(EE.esc).join(' · ') + '</p>' +
+        '<p class="small muted">Writing is once a week, not every day. Self-check: ' + (S.writing.selfCheck || []).slice(0, 3).map(EE.esc).join(' · ') + '</p></div>' }
+    ];
+    tabs.forEach(function (t, i) {
+      var b = document.createElement('button');
+      b.className = 'tab' + (i === 0 ? ' active' : '');
+      b.innerHTML = EE.icon(t.icon) + EE.esc(t.label);
+      b.onclick = function () {
+        tabsEl.querySelectorAll('.tab').forEach(function (x) { x.classList.remove('active'); });
+        panesEl.querySelectorAll('.tabpane').forEach(function (x) { x.classList.remove('active'); });
+        b.classList.add('active');
+        document.getElementById('pane-' + t.id).classList.add('active');
+      };
+      tabsEl.appendChild(b);
+      var p = document.createElement('div');
+      p.className = 'tabpane' + (i === 0 ? ' active' : '');
+      p.id = 'pane-' + t.id;
+      p.innerHTML = t.body + '<p class="small muted">First items from the ' + EE.esc(lv.name) + ' supplement set — linked to today\'s words. More items join the set as they are published.</p>';
+      panesEl.appendChild(p);
+    });
+  } else {
+    tabsEl.innerHTML = '';
+    panesEl.innerHTML = '<div class="notice"><strong>' + EE.esc(lv.name) + ' supplement items are coming next.</strong> ' +
+      'The flashcards, phrasal verbs, idioms, sentence patterns, jokes and writing items for this level will appear here once they are published. ' +
+      'You can already browse the types on the <a href="supplements.html">Supplements hub</a>.</div>';
+  }
 
   /* ---- visited + next ---- */
   var doneBtn = document.getElementById('doneBtn');

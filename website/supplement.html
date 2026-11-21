@@ -82,13 +82,40 @@
     chipsEl.appendChild(a);
   });
 
-  /* ---- body: formal items only — no samples ship on the site ---- */
+  /* ---- body: this level's first item ---- */
   var body = document.getElementById('suppBody');
+  var S = (data.supplements && data.supplements[level]) || {};
+  var item = S[s.itemKey];
   var html = '';
-  html += '<div class="notice"><strong>The full ' + lv.name + ' set for ' + EE.esc(s.name) + ' is being built now.</strong> ' +
-    'Each level gets ' + (typeof s.perLevel === 'number' ? s.perLevel + ' items' : 'one composition a week') +
-    ', built from the course files — the same no-repeat rule as the main course. ' +
-    'Items will appear here once they are published.</div>';
+  function flash(inner) {
+    return '<div class="flashcard" style="--level:' + lv.color + '">' + inner + '</div>';
+  }
+  if (item) {
+    html += '<div class="section-head"><span class="ic-tile">' + EE.icon(s.icon) + '</span><h2>First item — ' + lv.name + '</h2></div>';
+    if (s.id === 'phrasal-verbs') {
+      html += flash('<div class="word speakable" data-speak="' + EE.esc(item.entry) + '">' + EE.esc(item.entry) + '</div>' + EE.speakBtn(item.entry + '. ' + (item.example || '')) + '<p>' + EE.esc(item.definition) + '</p><p><em>' + EE.esc(item.example) + '</em></p>' +
+        '<p><strong>Try it:</strong><br>' + (item.conversation || []).map(function (x) { return EE.speakBtn(x.line) + ' ' + EE.esc(x.speaker + ': ' + x.line); }).join('<br>') + '</p>');
+    } else if (s.id === 'idioms') {
+      html += flash('<div class="word speakable" data-speak="' + EE.esc(item.entry) + '">' + EE.esc(item.entry) + '</div>' + EE.speakBtn(item.entry + '. ' + (item.example || '')) + '<p>' + EE.esc(item.definition) + '</p><p><em>' + EE.esc(item.example) + '</em></p>');
+    } else if (s.id === 'sentence-patterns') {
+      html += flash('<div class="word speakable" data-speak="' + EE.esc(item.pattern) + '">' + EE.esc(item.pattern) + '</div>' + EE.speakBtn(item.pattern + '. ' + ((item.examples || [])[0] ? (item.examples || [])[0].sentence : '')) + '<p><strong>Form:</strong> ' + EE.esc(item.form) + '</p><p>' + EE.esc(item.explanation) + '</p>' +
+        (item.examples || []).map(function (e) { return '<p>' + EE.speakBtn(e.sentence) + '<em>' + EE.esc(e.sentence) + '</em> <span class="muted">— ' + EE.esc(e.situation) + '</span></p>'; }).join(''));
+    } else if (s.id === 'flashcards') {
+      html += flash('<div class="word speakable" data-speak="' + EE.esc(item.word) + '">' + EE.esc(item.word) + '</div>' + EE.speakBtn(item.word + '. ' + (item.example || '')) + '<p class="ipa">' + EE.esc(item.ipa || '') + ' · ' + EE.esc(item.partOfSpeech || '') + '</p><p>' + EE.esc(item.definition) + '</p><p><em>' + EE.esc(item.example) + '</em></p>');
+    } else if (s.id === 'jokes') {
+      html += flash('<div class="word">' + EE.esc(item.joke) + '</div>' + EE.speakBtn(item.joke) + '<p>' + EE.esc(item.whyFunny) + '</p><p><strong>Key words:</strong> ' + (item.keyWords || []).map(function (k) { return EE.esc(k.word) + ' — ' + EE.esc(k.explanation); }).join('; ') + '</p>');
+    } else if (s.id === 'writing') {
+      html += flash('<div class="word">' + EE.esc(item.topic) + ' (' + item.wordCount + ' words)</div>' + EE.speakBtn(item.modelText) + '<p><strong>Your task:</strong> ' + EE.esc(item.task) + '</p><p><strong>Model text:</strong><br>' + EE.esc(item.modelText) + '</p><p><strong>Patterns to reuse:</strong> ' + (item.patterns || []).map(EE.esc).join(' · ') + '</p><p class="small muted">Self-check: ' + (item.selfCheck || []).map(EE.esc).join(' · ') + '</p>');
+    }
+    html += '<p class="small muted">This is the first item of the ' + lv.name + ' set — ' +
+      (typeof s.perLevel === 'number' ? s.perLevel + ' items' : 'one composition a week') +
+      ' in total; more items join the set as they are published, built from the course files, never invented.</p>';
+  } else {
+    html += '<div class="notice"><strong>The full ' + lv.name + ' set for ' + EE.esc(s.name) + ' is being built now.</strong> ' +
+      'Each level gets ' + (typeof s.perLevel === 'number' ? s.perLevel + ' items' : 'one composition a week') +
+      ', built from the course files — the same no-repeat rule as the main course. ' +
+      'Items will appear here once they are published.</div>';
+  }
   html += '<section class="card"><div class="section-head"><span class="ic-tile">' + EE.icon('book') + '</span><h2>How this fits your day</h2></div>' +
     '<p>' + EE.esc(s.name) + ' follows the main course: the items use the words from that day\'s lesson. ' +
     'You can also open it here on its own, level by level. On every day page it appears as a tab under the lesson.</p>' +

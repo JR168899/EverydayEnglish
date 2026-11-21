@@ -4642,6 +4642,1301 @@ window.EE_DATA = {
     "yourTurn": ""
    }
   ]
+ },
+ "supplements": {
+  "a1": {
+   "flashcards": {
+    "checks": {
+     "date": "2026-11-20",
+     "newness": "PASS — checked with lexical_history.check_item against Foundation + A1 + A2 + B1 Units 1-26 + B2 Units 1-20 and the shared b1-b2-ledger.json (5,039 known keys, 1,840 ledger items)"
+    },
+    "definition": "A very tall animal with a long neck. It has yellow skin with brown spots, and it eats leaves from trees.",
+    "example": "The giraffe is the tallest animal in the zoo.",
+    "id": "flashcards-a1-001",
+    "ipa": "/dʒəˈræf/",
+    "level": "a1",
+    "partOfSpeech": "noun",
+    "type": "flashcard",
+    "word": "giraffe"
+   },
+   "idioms": {
+    "checks": {
+     "date": "2026-11-20",
+     "newness": "PASS — checked with lexical_history.check_item against Foundation + A1 + A2 + B1 Units 1-26 + B2 Units 1-20 and the shared b1-b2-ledger.json (5,039 known keys, 1,840 ledger items)"
+    },
+    "conversation": [
+     {
+      "line": "I have a singing test tomorrow. I am so nervous.",
+      "speaker": "A"
+     },
+     {
+      "line": "Break a leg! You sing very well.",
+      "speaker": "B"
+     },
+     {
+      "line": "Thank you! I will do my best.",
+      "speaker": "A"
+     }
+    ],
+    "definition": "A friendly way to say 'good luck', especially before a test, a show, or a game. It does not mean you should really break your leg!",
+    "entry": "break a leg",
+    "example": "Break a leg in your piano show tonight, Anna!",
+    "id": "idioms-a1-001",
+    "level": "a1",
+    "synonyms": [
+     "good luck",
+     "do your best"
+    ],
+    "type": "idiom"
+   },
+   "jokes": {
+    "checks": {
+     "date": "2026-11-20",
+     "newness": "PASS — checked against the daily-joke used list (used_jokes.txt, 30 jokes delivered) — this joke was never used. All four key words are already known words, so an A1 learner can follow the joke."
+    },
+    "id": "jokes-a1-001",
+    "joke": "What do you call a snowman in the summer? A puddle!",
+    "keyWords": [
+     {
+      "explanation": "a man made of snow",
+      "word": "snowman"
+     },
+     {
+      "explanation": "the hot season of the year",
+      "word": "summer"
+     },
+     {
+      "explanation": "to change from snow or ice into water",
+      "word": "melt"
+     },
+     {
+      "explanation": "a small pool of water on the ground",
+      "word": "puddle"
+     }
+    ],
+    "level": "a1",
+    "type": "joke",
+    "whyFunny": "A snowman is made of snow. In the summer it is hot, so the snowman melts and becomes water on the ground. A puddle is a small pool of water on the ground. So the snowman is not a snowman any more — it is a puddle!"
+   },
+   "phrasalVerbs": {
+    "checks": {
+     "date": "2026-11-20",
+     "newness": "PASS — checked with lexical_history.check_item against Foundation + A1 + A2 + B1 Units 1-26 + B2 Units 1-20 and the shared b1-b2-ledger.json (5,039 known keys, 1,840 ledger items)"
+    },
+    "conversation": [
+     {
+      "line": "Why are you sad, Tom?",
+      "speaker": "A"
+     },
+     {
+      "line": "I lost my game today.",
+      "speaker": "B"
+     },
+     {
+      "line": "Cheer up! You can play again tomorrow.",
+      "speaker": "A"
+     },
+     {
+      "line": "You are right. Thank you!",
+      "speaker": "B"
+     }
+    ],
+    "definition": "To become happier, or to make someone feel happier.",
+    "entry": "cheer up",
+    "example": "Cheer up! The sun is out, and we can play outside today.",
+    "id": "phrasal-verbs-a1-001",
+    "level": "a1",
+    "synonyms": [
+     "feel better",
+     "smile again"
+    ],
+    "type": "phrasal-verb"
+   },
+   "sentencePatterns": {
+    "checks": {
+     "date": "2026-11-20",
+     "newness": "PASS — checked with lexical_history.check_item against Foundation + A1 + A2 + B1 Units 1-26 + B2 Units 1-20 and the shared b1-b2-ledger.json (5,039 known keys, 1,840 ledger items). 'Good at' does not appear in A1 teaching."
+    },
+    "examples": [
+     {
+      "sentence": "I am good at cooking.",
+      "situation": "Talking about food at home"
+     },
+     {
+      "sentence": "She is good at swimming.",
+      "situation": "Talking about sport"
+     },
+     {
+      "sentence": "Are you good at singing?",
+      "situation": "Asking a friend about music"
+     }
+    ],
+    "explanation": "Use this pattern to talk about something you can do well. After 'at', use a noun or a verb with -ing.",
+    "form": "I am good at + noun / verb-ing. She is good at ... / Are you good at ...?",
+    "id": "sentence-patterns-a1-001",
+    "level": "a1",
+    "pattern": "I am good at ...",
+    "type": "sentence-pattern"
+   },
+   "writing": {
+    "checks": {
+     "date": "2026-11-20",
+     "newness": "Topic recycles A1 Day 31 'Introduce your family' (parent, relative, cousin, aunt, uncle). Model-text words checked against the known set (Foundation + A1 + A2 + B1 Units 1-26 + B2 Units 1-20): all base forms are known words; 'football' was replaced with 'ball games' because 'football' does not appear in A1 teaching. Word count verified by script: exactly 100 words."
+    },
+    "id": "writing-a1-001",
+    "level": "a1",
+    "modelText": "My family is small. There are four people in my family: my father, my mother, my sister, and me. My father is a teacher. He teaches English at a school near our home. My mother works in a shop. She sells clothes. She is kind. My sister is ten years old. She is a student, and she likes to read books and play games. I am twelve years old. I like to play ball games with my friends after school. Every Sunday, we eat lunch together at home. My mother cooks rice and fish. I love my family very much.",
+    "patterns": [
+     "There are ... people in my family.",
+     "My ... is a ...",
+     "... likes to ...",
+     "Every ..., we ... together.",
+     "I love my family very much."
+    ],
+    "selfCheck": [
+     "I wrote about 100 words.",
+     "I said who is in my family.",
+     "I said what each person does or likes.",
+     "I used 'There are ... people in my family.'",
+     "I used 'My ... is a ...' or '... likes to ...'.",
+     "I started each sentence with a capital letter and ended it with a full stop.",
+     "I checked my spelling."
+    ],
+    "structureMap": [
+     {
+      "job": "Say how big your family is and who is in it.",
+      "part": "Beginning",
+      "sentences": "1-2"
+     },
+     {
+      "job": "Say what each person does and likes.",
+      "part": "Middle",
+      "sentences": "3-10"
+     },
+     {
+      "job": "Say what you do together and how you feel.",
+      "part": "End",
+      "sentences": "11-13"
+     }
+    ],
+    "task": "Write about your family in about 100 words. Say who is in your family, what each person does or likes, and what you do together. Use the patterns from the model text.",
+    "topic": "My family",
+    "type": "writing",
+    "wordCount": 100,
+    "wordTarget": 100
+   }
+  },
+  "a2": {
+   "flashcards": {
+    "checks": {
+     "date": "2026-11-20",
+     "newness": "PASS — checked with lexical_history.check_item against Foundation + A1 + A2 + B1 Units 1-27 + B2 Units 1-20 + C1 Unit 1 + C2 Unit 1 and the shared ledger (5,182 known keys, 1,960 ledger items). Component check: ALL CLEAN."
+    },
+    "definition": "A small animal with a big tail. It lives in trees and eats nuts.",
+    "example": "I saw a squirrel in the park. It was eating a nut.",
+    "id": "flashcards-a2-001",
+    "ipa": "/ˈskwɜːrəl/",
+    "level": "a2",
+    "partOfSpeech": "noun",
+    "type": "flashcard",
+    "word": "squirrel"
+   },
+   "idioms": {
+    "checks": {
+     "date": "2026-11-20",
+     "newness": "PASS — checked with lexical_history.check_item against Foundation + A1 + A2 + B1 Units 1-27 + B2 Units 1-20 + C1 Unit 1 + C2 Unit 1 and the shared ledger (5,182 known keys, 1,960 ledger items). Component check: ALL CLEAN. 'A piece of cake' was NOT used: it was the punchline of the 2026-11-07 daily joke, so 'once in a blue moon' is the fresher pick."
+    },
+    "conversation": [
+     {
+      "line": "Do you eat ice cream every day?",
+      "speaker": "A"
+     },
+     {
+      "line": "No, only once in a blue moon. It is a sweet treat for me.",
+      "speaker": "B"
+     },
+     {
+      "line": "I eat it every Sunday!",
+      "speaker": "A"
+     }
+    ],
+    "definition": "Very rarely, almost never. A blue moon is a very rare thing to see in the sky.",
+    "entry": "once in a blue moon",
+    "example": "We go to the zoo only once in a blue moon, but we always have a good time.",
+    "id": "idioms-a2-001",
+    "level": "a2",
+    "synonyms": [
+     "very rarely",
+     "almost never"
+    ],
+    "type": "idiom"
+   },
+   "jokes": {
+    "checks": {
+     "date": "2026-11-20",
+     "newness": "PASS — checked against the daily-joke used list (used_jokes.txt, 31 jokes delivered) — this joke was never used. All key words are words an A2 learner can follow."
+    },
+    "id": "jokes-a2-001",
+    "joke": "What is the king of the classroom? The ruler!",
+    "keyWords": [
+     {
+      "explanation": "the man who rules a country",
+      "word": "king"
+     },
+     {
+      "explanation": "a room where students learn at school",
+      "word": "classroom"
+     },
+     {
+      "explanation": "a flat tool for drawing straight lines and for measuring",
+      "word": "ruler"
+     },
+     {
+      "explanation": "to find how long or how big something is",
+      "word": "measure"
+     }
+    ],
+    "level": "a2",
+    "type": "joke",
+    "whyFunny": "A ruler is a king, the man who rules a country. But a ruler is also a flat tool for drawing straight lines and measuring things. So the 'king of the classroom' is not a real king — it is the tool every student has in the school bag!"
+   },
+   "phrasalVerbs": {
+    "checks": {
+     "date": "2026-11-20",
+     "newness": "PASS — checked with lexical_history.check_item against Foundation + A1 + A2 + B1 Units 1-27 + B2 Units 1-20 + C1 Unit 1 + C2 Unit 1 and the shared ledger (5,182 known keys, 1,960 ledger items). Component check: ALL CLEAN."
+    },
+    "conversation": [
+     {
+      "line": "Do you like your new class?",
+      "speaker": "A"
+     },
+     {
+      "line": "Yes! I get on with my new classmates very well.",
+      "speaker": "B"
+     },
+     {
+      "line": "That is good. Do you study together?",
+      "speaker": "A"
+     },
+     {
+      "line": "Yes, we study and play games together after school.",
+      "speaker": "B"
+     }
+    ],
+    "definition": "To have a friendly relationship with someone.",
+    "entry": "get on with",
+    "example": "I get on with my new classmates very well.",
+    "id": "phrasal-verbs-a2-001",
+    "level": "a2",
+    "synonyms": [
+     "have a good relationship with",
+     "be friends with"
+    ],
+    "type": "phrasal-verb"
+   },
+   "sentencePatterns": {
+    "checks": {
+     "date": "2026-11-20",
+     "newness": "PASS — checked with lexical_history.check_item against Foundation + A1 + A2 + B1 Units 1-27 + B2 Units 1-20 + C1 Unit 1 + C2 Unit 1 and the shared ledger (5,182 known keys, 1,960 ledger items). Component check: ALL CLEAN."
+    },
+    "examples": [
+     {
+      "sentence": "The more you practice English, the better you speak it.",
+      "situation": "Talking about learning English"
+     },
+     {
+      "sentence": "The more you read, the more words you learn.",
+      "situation": "Talking about reading books"
+     },
+     {
+      "sentence": "The more we run, the stronger we get.",
+      "situation": "Talking about exercise and sport"
+     }
+    ],
+    "explanation": "Use this pattern to say that when one thing grows or changes, another thing grows or changes too.",
+    "form": "The more + subject + verb, the + comparative + subject + verb.",
+    "id": "sentence-patterns-a2-001",
+    "level": "a2",
+    "pattern": "The more ..., the ...",
+    "type": "sentence-pattern"
+   },
+   "writing": {
+    "checks": {
+     "date": "2026-11-20",
+     "newness": "Topic recycles A2 Day 1 'Tell someone about a picnic' (picnic, park, food, friends). Model-text words checked with check42.py writing: unknown NONE. Word count verified by script: exactly 150 words."
+    },
+    "id": "writing-a2-001",
+    "level": "a2",
+    "modelText": "Last Sunday, my friends and I had a picnic in the park near my home. We walked to the park at ten o'clock in the morning. The sun was warm and the sky was blue. We sat on a big green mat under a big tree. For lunch, we had bread, cheese, fruit, and cold chicken. We had juice and water from our bags. After lunch, we played ball games in the sun. One friend played the guitar, and we listened to the music. We talked about our school, our work, and the summer. In the afternoon, it was hot, so we sat in the shade and read books. We had ice cream and watched the birds in the trees. At five o'clock, we cleaned the park and walked home. We were tired but very happy. It was a good day, and I hope we can do it again soon.",
+    "patterns": [
+     "Last ..., my friends and I had a picnic in the park.",
+     "We sat on ... under ...",
+     "For lunch, we had ...",
+     "After lunch, we ...",
+     "It was a good day, and I hope we can do it again soon."
+    ],
+    "selfCheck": [
+     "I wrote about 150 words.",
+     "I said when and where the picnic was.",
+     "I said what we ate and what we did.",
+     "I said how I felt at the end.",
+     "I used 'For lunch, we had ...' or 'After lunch, we ...'.",
+     "I used the past tense for things that happened.",
+     "I started each sentence with a capital letter and ended it with a full stop.",
+     "I checked my spelling."
+    ],
+    "structureMap": [
+     {
+      "job": "Say when and where the picnic was, and what the day was like.",
+      "part": "Beginning",
+      "sentences": "1-3"
+     },
+     {
+      "job": "Say what you ate and what you did at the picnic.",
+      "part": "Middle",
+      "sentences": "4-11"
+     },
+     {
+      "job": "Say how the day ended and how you felt.",
+      "part": "End",
+      "sentences": "12-14"
+     }
+    ],
+    "task": "Write about a picnic with your friends in about 150 words. Say when and where it was, what you ate and did, and how you felt. Use the patterns from the model text.",
+    "topic": "A picnic with my friends",
+    "type": "writing",
+    "wordCount": 150,
+    "wordTarget": 150
+   }
+  },
+  "b1": {
+   "flashcards": {
+    "checks": {
+     "date": "2026-11-20",
+     "newness": "PASS — checked with lexical_history.check_item against Foundation + A1 + A2 + B1 Units 1-27 + B2 Units 1-20 + C1 Unit 1 + C2 Unit 1 and the shared ledger (5,182 known keys, 1,960 ledger items)"
+    },
+    "definition": "a mountain with a hole at the top, from which hot rock and ash can come out.",
+    "example": "The volcano has not been active for many years, but people still watch it.",
+    "id": "flashcards-b1-001",
+    "ipa": "/vɑlˈkeɪnoʊ/",
+    "level": "b1",
+    "partOfSpeech": "noun",
+    "type": "flashcard",
+    "word": "volcano"
+   },
+   "idioms": {
+    "checks": {
+     "date": "2026-11-20",
+     "newness": "PASS — checked with lexical_history.check_item against Foundation + A1 + A2 + B1 Units 1-27 + B2 Units 1-20 + C1 Unit 1 + C2 Unit 1 and the shared ledger (5,182 known keys, 1,960 ledger items). 'A piece of cake' was NOT used: it was the punchline of the 2026-11-07 daily joke, so 'spill the beans' is the fresher pick."
+    },
+    "conversation": [
+     {
+      "line": "Did you tell Anna about the surprise party?",
+      "speaker": "A"
+     },
+     {
+      "line": "No! I did not spill the beans. She knows nothing.",
+      "speaker": "B"
+     },
+     {
+      "line": "Good! The party is on Saturday.",
+      "speaker": "A"
+     }
+    ],
+    "definition": "To tell a secret by mistake, or before the right time. It does not mean real beans!",
+    "entry": "spill the beans",
+    "example": "Please do not spill the beans about the new job. It is a secret.",
+    "id": "idioms-b1-001",
+    "level": "b1",
+    "synonyms": [
+     "tell a secret",
+     "give away a secret"
+    ],
+    "type": "idiom"
+   },
+   "jokes": {
+    "checks": {
+     "date": "2026-11-20",
+     "newness": "PASS — checked against the daily-joke used list (used_jokes.txt, 31 jokes delivered) — this joke was never used. All key words are words a B1 learner can follow."
+    },
+    "id": "jokes-b1-001",
+    "joke": "I told my boss I needed a raise because three other companies are after me. He asked which ones. I said the gas company, the water company, and the electric company.",
+    "keyWords": [
+     {
+      "explanation": "the person you work for",
+      "word": "boss"
+     },
+     {
+      "explanation": "more money for your work",
+      "word": "raise"
+     },
+     {
+      "explanation": "a business",
+      "word": "company"
+     },
+     {
+      "explanation": "the fuel used for cooking and heating",
+      "word": "gas"
+     },
+     {
+      "explanation": "using power",
+      "word": "electric"
+     }
+    ],
+    "level": "b1",
+    "type": "joke",
+    "whyFunny": "The joke plays on the word 'companies'. The boss thinks three businesses want to hire the worker, but they are really the gas, water, and electric companies — the businesses the worker pays every month. The 'raise' is not about a new job at all."
+   },
+   "phrasalVerbs": {
+    "checks": {
+     "date": "2026-11-20",
+     "newness": "PASS — checked with lexical_history.check_item against Foundation + A1 + A2 + B1 Units 1-27 + B2 Units 1-20 + C1 Unit 1 + C2 Unit 1 and the shared ledger (5,182 known keys, 1,960 ledger items)"
+    },
+    "conversation": [
+     {
+      "line": "Did Tom show up for the job interview?",
+      "speaker": "A"
+     },
+     {
+      "line": "Yes, he showed up ten minutes early.",
+      "speaker": "B"
+     },
+     {
+      "line": "Good. I hope he shows up for work on time every day.",
+      "speaker": "A"
+     },
+     {
+      "line": "I am sure he will. He is never late.",
+      "speaker": "B"
+     }
+    ],
+    "definition": "to arrive at a place, often when people expect you.",
+    "entry": "show up",
+    "example": "The meeting starts at nine, so please show up on time.",
+    "id": "phrasal-verbs-b1-001",
+    "level": "b1",
+    "synonyms": [
+     "arrive",
+     "appear"
+    ],
+    "type": "phrasal-verb"
+   },
+   "sentencePatterns": {
+    "checks": {
+     "date": "2026-11-20",
+     "newness": "PASS — checked with lexical_history.check_item against Foundation + A1 + A2 + B1 Units 1-27 + B2 Units 1-20 + C1 Unit 1 + C2 Unit 1 and the shared ledger (5,182 known keys, 1,960 ledger items)"
+    },
+    "examples": [
+     {
+      "sentence": "It took me two hours to finish the report.",
+      "situation": "at work"
+     },
+     {
+      "sentence": "It took us a week to plan the trip.",
+      "situation": "planning a holiday"
+     },
+     {
+      "sentence": "It took her three months to learn to drive.",
+      "situation": "learning a new skill"
+     }
+    ],
+    "explanation": "Use this pattern to say how much time you needed to do something.",
+    "form": "It took + person + time + to + verb",
+    "id": "sentence-patterns-b1-001",
+    "level": "b1",
+    "pattern": "It took me ... to ...",
+    "type": "sentence-pattern"
+   },
+   "writing": {
+    "checks": {
+     "date": "2026-11-20",
+     "newness": "Topic recycles B1 Days 1-8 work vocabulary (colleagues, office rules, first tasks, team meeting, work email). Model-text words checked with check42.py writing: unknown NONE, above-level NONE. Word count verified by script: exactly 200 words."
+    },
+    "id": "writing-b1-001",
+    "level": "b1",
+    "modelText": "My first week at a new job was very busy, but I learned a lot. On Monday morning, I talked to my new colleagues in the office. They were kind and happy to help me. My manager showed me my desk and my first tasks. She said, \"Please ask for help.\" I was a little nervous, but her words made me feel better. On Tuesday, I learned the office rules. I learned when to start work and when to take a break. In the afternoon, I joined my first team meeting. I listened and made notes. At the end of the meeting, my manager asked for my ideas. I shared one small idea, and the team was happy. On Wednesday, I worked on a project with two colleagues. We planned the work together and shared the tasks. When we had a problem, we talked about it and found a good solution. I also worked on my first work email to ask for information. My colleague helped me check the email first. On Friday, I shared a short update on my work. My manager said, \"Good work. You did well.\" I was proud and very happy. A good plan really helps.",
+    "patterns": [
+     "On Monday morning, I ...",
+     "I learned when to ... and when to ...",
+     "When we had a problem, we ... and found a good solution.",
+     "At the end of the meeting, ... asked for my ideas."
+    ],
+    "selfCheck": [
+     "Is my text about 200 words?",
+     "Did I write about different days of the week?",
+     "Did I use past forms like learned, worked, and shared?",
+     "Did I say how I felt at the end?"
+    ],
+    "structureMap": [
+     {
+      "job": "Introduce the topic: a first week at a new job, and the first day in the office.",
+      "part": "Beginning",
+      "sentences": "1-6"
+     },
+     {
+      "job": "Tell what happened each day: office rules, a team meeting, teamwork, and a first work email.",
+      "part": "Middle",
+      "sentences": "7-17"
+     },
+     {
+      "job": "Finish the week with an update, the manager's words, and what the writer learned.",
+      "part": "End",
+      "sentences": "18-21"
+     }
+    ],
+    "task": "Write about 200 words about your first week at a new job, a new school, or a new club. Say what happened on different days, what you learned, and how you felt at the end of the week.",
+    "topic": "My first week at a new job",
+    "type": "writing",
+    "wordCount": 200,
+    "wordTarget": 200
+   }
+  },
+  "b2": {
+   "flashcards": {
+    "checks": {
+     "date": "2026-11-20",
+     "newness": "PASS — checked with lexical_history.check_item against Foundation + A1 + A2 + B1 Units 1-27 + B2 Units 1-20 + C1 Unit 1 + C2 Unit 1 and the shared ledger (5,182 known keys, 1,960 ledger items)"
+    },
+    "definition": "A statement or a situation that seems impossible or strange because it holds two opposite ideas that are both true.",
+    "example": "It is a paradox that we have more ways to talk to each other than ever, yet many people feel more alone.",
+    "id": "flashcards-b2-001",
+    "ipa": "/ˈpærədɒks/",
+    "level": "b2",
+    "partOfSpeech": "noun",
+    "type": "flashcard",
+    "word": "paradox"
+   },
+   "idioms": {
+    "checks": {
+     "date": "2026-11-20",
+     "newness": "PASS — checked with lexical_history.check_item against Foundation + A1 + A2 + B1 Units 1-27 + B2 Units 1-20 + C1 Unit 1 + C2 Unit 1 and the shared ledger (5,182 known keys, 1,960 ledger items)"
+    },
+    "conversation": [
+     {
+      "line": "I told the firm we want a higher salary.",
+      "speaker": "A"
+     },
+     {
+      "line": "What did they say?",
+      "speaker": "B"
+     },
+     {
+      "line": "They will think about it this week. The ball is in their court now.",
+      "speaker": "A"
+     },
+     {
+      "line": "Then we just wait for their answer.",
+      "speaker": "B"
+     }
+    ],
+    "definition": "It is now your turn to act or to make a decision.",
+    "entry": "the ball is in your court",
+    "example": "We sent them our price. Now the ball is in their court.",
+    "id": "idioms-b2-001",
+    "level": "b2",
+    "synonyms": [
+     "it is up to you",
+     "your move"
+    ],
+    "type": "idiom"
+   },
+   "jokes": {
+    "checks": {
+     "date": "2026-11-20",
+     "newness": "PASS — checked against the daily-joke used list (used_jokes.txt, 31 jokes delivered) — this joke was never used. All key words are words a B2 learner can follow."
+    },
+    "id": "jokes-b2-001",
+    "joke": "Why do programmers prefer dark mode? Because light attracts bugs!",
+    "keyWords": [
+     {
+      "explanation": "a person who writes computer programs",
+      "word": "programmer"
+     },
+     {
+      "explanation": "a screen setting that uses dark colours instead of bright white",
+      "word": "dark mode"
+     },
+     {
+      "explanation": "to pull something towards you",
+      "word": "attract"
+     },
+     {
+      "explanation": "a small mistake in a computer program; also a small insect",
+      "word": "bug"
+     }
+    ],
+    "level": "b2",
+    "type": "joke",
+    "whyFunny": "In a computer program, a 'bug' is a small mistake that stops the program from working well. In real life, light attracts real bugs, small insects that fly around lamps at night. The joke mixes the two meanings of 'bug': programmers choose dark mode to avoid light, but the joke says they do it to keep the bugs — the mistakes — away."
+   },
+   "phrasalVerbs": {
+    "checks": {
+     "date": "2026-11-20",
+     "newness": "PASS — checked with lexical_history.check_item against Foundation + A1 + A2 + B1 Units 1-27 + B2 Units 1-20 + C1 Unit 1 + C2 Unit 1 and the shared ledger (5,182 known keys, 1,960 ledger items)"
+    },
+    "conversation": [
+     {
+      "line": "The firm offered me a job in another city. I do not know what to do.",
+      "speaker": "A"
+     },
+     {
+      "line": "Mull it over for a few days. It is a big decision.",
+      "speaker": "B"
+     },
+     {
+      "line": "You are right. I will mull it over this weekend.",
+      "speaker": "A"
+     },
+     {
+      "line": "Good. And talk to your family about it too.",
+      "speaker": "B"
+     }
+    ],
+    "definition": "To think about something carefully for a long time before you decide.",
+    "entry": "mull over",
+    "example": "Take your time and mull over the job offer before you say yes.",
+    "id": "phrasal-verbs-b2-001",
+    "level": "b2",
+    "synonyms": [
+     "think over",
+     "consider carefully"
+    ],
+    "type": "phrasal-verb"
+   },
+   "sentencePatterns": {
+    "checks": {
+     "date": "2026-11-20",
+     "newness": "PASS — checked with lexical_history.check_item against Foundation + A1 + A2 + B1 Units 1-27 + B2 Units 1-20 + C1 Unit 1 + C2 Unit 1 and the shared ledger (5,182 known keys, 1,960 ledger items)"
+    },
+    "examples": [
+     {
+      "sentence": "It is high time we changed the way we travel to work.",
+      "situation": "Talking about transport and the climate"
+     },
+     {
+      "sentence": "It is high time the city built more bicycle lanes.",
+      "situation": "Talking about city planning"
+     },
+     {
+      "sentence": "It is high time to act on air pollution.",
+      "situation": "Talking about the environment in a debate"
+     }
+    ],
+    "explanation": "Use this pattern to say that something should have happened already, or that it is late and must happen now. After the pattern, use the past simple, even though you mean the present or the future.",
+    "form": "It is high time + subject + past simple. / It is high time to + verb.",
+    "id": "sentence-patterns-b2-001",
+    "level": "b2",
+    "pattern": "It is high time ...",
+    "type": "sentence-pattern"
+   },
+   "writing": {
+    "checks": {
+     "date": "2026-11-20",
+     "newness": "Topic recycles B2 Days 113-120 environment unit (climate change, energy, air quality, public transport) and Days 121-128 city unit (city problems, neighbourhoods and change, city services and planning). Model-text words checked with check42.py writing: unknown NONE. Word count verified by script: exactly 300 words."
+    },
+    "id": "writing-b2-001",
+    "level": "b2",
+    "modelText": "Many cities now ask a question: should cars stay out of the city center? In my view, the answer is yes, but the change must be slow and fair. Cars bring noise, dirty air, and traffic jams to the center of a city. They make streets dangerous, and they push people away from shops and parks. A city center should be a place for people, not for cars. First, keeping cars out would improve air quality and public health. When not so many cars use the streets, the air becomes clean, and people feel better. Doctors say dirty air can damage the heart and the body. Clean streets also mean less noise and less stress. In short, less traffic can mean a healthy city. Second, a limit on cars would change how people move. If cars can not enter the center, more people will walk, ride a bicycle, or take a bus. This is good for the climate, because public transport uses far less energy. It is also good for local shops, because people on foot stop and buy more. A street full of people walking is often a street full of life. But a limit on cars must be fair. Some people need a car because of bad health, or because they live far from a bus. Small firms need vans to bring goods to shops. For this reason, a city should spend more on buses and build safe bicycle lanes. Workers who drive at night also need clear rules and safe parking nearby. In conclusion, keeping cars out can cut pollution, protect health, and bring life back to our streets. The change will only work if it is slow and fair. If cities invest in better transport, the center can become clean, safe, and more pleasant for all.",
+    "patterns": [
+     "In my view, ...",
+     "This is good for ..., because ...",
+     "For this reason, ...",
+     "In conclusion, ...",
+     "If ..., ... can ..."
+    ],
+    "selfCheck": [
+     "I wrote about 300 words.",
+     "I said what I think about cars in the city center.",
+     "I gave two reasons for my view.",
+     "I said what problems the change could cause.",
+     "I said how the city should solve them.",
+     "I used 'In my view, ...' and 'For this reason, ...'.",
+     "I checked my spelling and my sentence endings."
+    ],
+    "structureMap": [
+     {
+      "job": "State the question and say what you think.",
+      "part": "Beginning",
+      "sentences": "1-5"
+     },
+     {
+      "job": "Give the first reason: cleaner air and better health.",
+      "part": "Middle",
+      "sentences": "6-10"
+     },
+     {
+      "job": "Give the second reason: how people move and shop.",
+      "part": "Middle",
+      "sentences": "11-15"
+     },
+     {
+      "job": "Say what problems the change could cause and how to solve them.",
+      "part": "Balance",
+      "sentences": "16-20"
+     },
+     {
+      "job": "Give your conclusion.",
+      "part": "End",
+      "sentences": "21-23"
+     }
+    ],
+    "task": "Write about 300 words: Should your city keep cars out of the city center? Give two reasons for your view, say what problems the change could cause, and say how the city should solve them. Use the patterns from the model text.",
+    "topic": "Should cities keep cars out of the city center?",
+    "type": "writing",
+    "wordCount": 300,
+    "wordTarget": 300
+   }
+  },
+  "c1": {
+   "flashcards": {
+    "checks": {
+     "date": "2026-11-20",
+     "newness": "PASS — checked with lexical_history.check_item against Foundation + A1 + A2 + B1 Units 1-27 + B2 Units 1-20 + C1 Unit 1 + C2 Unit 1 and the shared ledger (5,182 known keys, 1,960 ledger items)"
+    },
+    "definition": "An earlier decision or event that is used as an example or a rule for later decisions.",
+    "example": "The court's ruling set a precedent for all future cases of this kind.",
+    "id": "flashcards-c1-001",
+    "ipa": "/ˈpres.ɪ.dənt/",
+    "level": "c1",
+    "partOfSpeech": "noun",
+    "type": "flashcard",
+    "word": "precedent"
+   },
+   "idioms": {
+    "checks": {
+     "date": "2026-11-20",
+     "newness": "PASS — checked with lexical_history.check_item against Foundation + A1 + A2 + B1 Units 1-27 + B2 Units 1-20 + C1 Unit 1 + C2 Unit 1 and the shared ledger (5,182 known keys, 1,960 ledger items)"
+    },
+    "conversation": [
+     {
+      "line": "Why was the report sent back? It looked fine to me.",
+      "speaker": "A"
+     },
+     {
+      "line": "The writer cut corners and left out half the data.",
+      "speaker": "B"
+     },
+     {
+      "line": "That explains it. A quick job is not always a good job.",
+      "speaker": "A"
+     },
+     {
+      "line": "Right. When you cut corners, the cost always shows up later.",
+      "speaker": "B"
+     }
+    ],
+    "definition": "To do something in the cheapest or quickest way, by skipping steps that should not be skipped.",
+    "entry": "cut corners",
+    "example": "If you cut corners on safety checks, the whole project is at risk.",
+    "id": "idioms-c1-001",
+    "level": "c1",
+    "synonyms": [
+     "take shortcuts",
+     "skimp"
+    ],
+    "type": "idiom"
+   },
+   "jokes": {
+    "checks": {
+     "date": "2026-11-20",
+     "newness": "PASS — checked against the daily-joke used list (used_jokes.txt, 31 jokes delivered) — this joke was never used. All key words are words a C1 learner can follow."
+    },
+    "id": "jokes-c1-001",
+    "joke": "Why did the boss hire a baker? Because he kneaded someone who could rise to the occasion.",
+    "keyWords": [
+     {
+      "explanation": "To give someone a job.",
+      "word": "hire"
+     },
+     {
+      "explanation": "A person whose job is to make bread and cakes.",
+      "word": "baker"
+     },
+     {
+      "explanation": "To press and fold dough with your hands. It sounds like 'need'.",
+      "word": "knead"
+     },
+     {
+      "explanation": "To succeed when a difficult situation needs it.",
+      "word": "rise to the occasion"
+     }
+    ],
+    "level": "c1",
+    "type": "joke",
+    "whyFunny": "This joke plays on two meanings at once. 'Kneaded' sounds exactly like 'needed', and 'rise to the occasion' means to succeed when it matters most — but bakers also make dough rise. So the boss both needed a good worker and hired a baker."
+   },
+   "phrasalVerbs": {
+    "checks": {
+     "date": "2026-11-20",
+     "newness": "PASS — checked with lexical_history.check_item against Foundation + A1 + A2 + B1 Units 1-27 + B2 Units 1-20 + C1 Unit 1 + C2 Unit 1 and the shared ledger (5,182 known keys, 1,960 ledger items)"
+    },
+    "conversation": [
+     {
+      "line": "Have the two teams agreed on the new contract yet?",
+      "speaker": "A"
+     },
+     {
+      "line": "Not yet. They are still trying to hammer out the last few points.",
+      "speaker": "B"
+     },
+     {
+      "line": "What is holding them up?",
+      "speaker": "A"
+     },
+     {
+      "line": "The payment date. Once they hammer that out, the deal should be done.",
+      "speaker": "B"
+     }
+    ],
+    "definition": "To reach an agreement or produce a plan after long discussion, often by working through many difficult points.",
+    "entry": "hammer out",
+    "example": "After three long meetings, the two teams finally hammered out a deal.",
+    "id": "phrasal-verbs-c1-001",
+    "level": "c1",
+    "synonyms": [
+     "work out",
+     "negotiate"
+    ],
+    "type": "phrasal-verb"
+   },
+   "sentencePatterns": {
+    "checks": {
+     "date": "2026-11-20",
+     "newness": "PASS — checked with lexical_history.check_item against Foundation + A1 + A2 + B1 Units 1-27 + B2 Units 1-20 + C1 Unit 1 + C2 Unit 1 and the shared ledger (5,182 known keys, 1,960 ledger items)"
+    },
+    "examples": [
+     {
+      "sentence": "Not only did the team finish the project early, but they also came in under budget.",
+      "situation": "At work, praising a team after a successful project."
+     },
+     {
+      "sentence": "Not only does she speak three languages, but she also writes clearly in each of them.",
+      "situation": "Describing a colleague's skills in a job interview."
+     },
+     {
+      "sentence": "Not only will regular exercise improve your health, but it will also help you sleep better.",
+      "situation": "Giving advice about health and daily habits."
+     }
+    ],
+    "explanation": "Use this pattern to stress two points at once. The first part uses inversion (the auxiliary verb comes before the subject), which makes the sentence sound strong and formal.",
+    "form": "Not only + auxiliary + subject + verb, but + subject + also + verb",
+    "id": "sentence-patterns-c1-001",
+    "level": "c1",
+    "pattern": "Not only ..., but ... also ...",
+    "type": "sentence-pattern"
+   },
+   "writing": {
+    "checks": {
+     "date": "2026-11-20",
+     "newness": "Topic recycles C1 Unit 1 vocabulary (assert, concede, contradict, distinction, elaborate, evasive, explicit, forthright, implication, infer, precise, qualify, retract, subtle, undermine, understate, overstate, coherent, in essence, on reflection, in hindsight, to my mind, for the most part, in plain terms, what it comes down to) and B2 work vocabulary. Model-text words checked with check42.py writing: unknown NONE. Word count verified by script: exactly 400 words."
+    },
+    "id": "writing-c1-001",
+    "level": "c1",
+    "modelText": "In a work meeting, the difference between a clear message and a vague one can decide if a team moves forward or spends weeks fixing a mistake. To my mind, precise language is not a small skill at work; it is the key part of trust, and it shapes each new choice. For the most part, problems at work do not start with bad plans or data; they start with words that sound clear but mean two things. A manager may say that a report is fine, and the team may infer that no change is needed, while the manager meant fine for now, not ready for a client. The implication is simple: when we understate a problem or overstate a result, we ask other people to decide for us. In plain terms, to be precise is to say what you mean, to qualify a claim when you are not sure, and to retract a point when new facts show that it is wrong. On reflection, the best people in a meeting are often the most forthright ones: they assert a view, they concede a point when facts are against them, and they invite others to contradict them. This does not mean that direct speech must be hard to hear; a polite person can be explicit and still kind, because a clear no is kind. There is also a subtle distinction between saying a view in a kind way and not saying it at all. One who says a view in a kind way still says it, while one who is evasive leaves other people to infer a view never said, and that silence can undermine a whole plan. In hindsight, most of us can remember a time when we said too little, or said it too late, and watched a small doubt grow. What it comes down to is this: in essence, a coherent message, one that is explicit about facts and honest about doubt, saves time, saves money, and keeps trust. So the next time you speak in a meeting, ask yourself one question before you begin: can the people here repeat my point in their own words, and would they repeat it as I meant it? If the answer is no, elaborate, give an example, and say it again in plain words, because a clear point today is a problem you do not have to fix tomorrow.",
+    "patterns": [
+     "To my mind, ...",
+     "In plain terms, ...",
+     "What it comes down to is ...",
+     "On reflection, ..."
+    ],
+    "selfCheck": [
+     "Is my text about 400 words long?",
+     "Did I use at least three of the patterns?",
+     "Did I give one clear work example?",
+     "Can a reader repeat my main point in their own words?",
+     "Did I check every sentence for clear, precise words?"
+    ],
+    "structureMap": [
+     {
+      "job": "State the main idea: precise language builds trust at work.",
+      "part": "Beginning",
+      "sentences": "1-2"
+     },
+     {
+      "job": "Show how vague words cause problems, then explain what precise speech looks like.",
+      "part": "Middle",
+      "sentences": "3-10"
+     },
+     {
+      "job": "Reflect on past mistakes and give the reader a clear test to use before speaking.",
+      "part": "End",
+      "sentences": "11-14"
+     }
+    ],
+    "task": "Write about 400 words on this question: why does precise language matter in a work meeting? Use at least three patterns from the list above, give one real example from work, and end with one piece of advice for the reader.",
+    "topic": "Saying what you mean at work: why precise language matters in professional discussion",
+    "type": "writing",
+    "wordCount": 400,
+    "wordTarget": 400
+   }
+  },
+  "c2": {
+   "flashcards": {
+    "checks": {
+     "date": "2026-11-20",
+     "newness": "PASS — checked with lexical_history.check_item against Foundation + A1 + A2 + B1 Units 1-27 + B2 Units 1-20 + C1 Unit 1 + C2 Unit 1 and the shared ledger (5,182 known keys, 1,960 ledger items). Component check: ALL CLEAN — 'ineffable' is not a taught new word."
+    },
+    "definition": "Too great or too fine to be described in words; beyond what words can say.",
+    "example": "Her joy when she heard the news was ineffable; she could not find words for it.",
+    "id": "flashcards-c2-001",
+    "ipa": "/ɪˈnefəbəl/",
+    "level": "c2",
+    "partOfSpeech": "adjective",
+    "type": "flashcard",
+    "word": "ineffable"
+   },
+   "idioms": {
+    "checks": {
+     "date": "2026-11-20",
+     "newness": "PASS — checked with lexical_history.check_item against Foundation + A1 + A2 + B1 Units 1-27 + B2 Units 1-20 + C1 Unit 1 + C2 Unit 1 and the shared ledger (5,182 known keys, 1,960 ledger items). Component check: ALL CLEAN — no component word is a taught new word, and no part of the idiom is a taught phrase."
+    },
+    "conversation": [
+     {
+      "line": "The meeting was strange. No one talked about the budget cuts.",
+      "speaker": "A"
+     },
+     {
+      "line": "Yes, that was the elephant in the room. Everyone knew, but no one said a word.",
+      "speaker": "B"
+     },
+     {
+      "line": "Someone has to say it first.",
+      "speaker": "A"
+     },
+     {
+      "line": "I will, at the next meeting.",
+      "speaker": "B"
+     }
+    ],
+    "definition": "A big problem or a difficult truth that everyone knows about but no one wants to talk about.",
+    "entry": "the elephant in the room",
+    "example": "The falling sales were the elephant in the room; no one at the meeting dared to mention them.",
+    "id": "idioms-c2-001",
+    "level": "c2",
+    "synonyms": [
+     "the obvious problem no one mentions",
+     "an awkward truth"
+    ],
+    "type": "idiom"
+   },
+   "jokes": {
+    "checks": {
+     "date": "2026-11-20",
+     "newness": "PASS — checked against the daily-joke used list (used_jokes.txt, 31 jokes delivered) — this joke was never used, and it is not the snowman joke. All key words are words a C2 learner can follow."
+    },
+    "id": "jokes-c2-001",
+    "joke": "I'm reading a book about anti-gravity. It's impossible to put down!",
+    "keyWords": [
+     {
+      "explanation": "the opposite of gravity — the force that pulls things down to the ground",
+      "word": "anti-gravity"
+     },
+     {
+      "explanation": "not possible; cannot be done",
+      "word": "impossible"
+     },
+     {
+      "explanation": "to stop reading a book and place it somewhere",
+      "word": "put down"
+     }
+    ],
+    "level": "c2",
+    "type": "joke",
+    "whyFunny": "A book about anti-gravity is a book about the force that pulls things down to the ground. 'To put a book down' means to stop reading it and place it on a table. But if there is no gravity, nothing stays down — so the book is impossible to put down in two ways at once: the story is so good that you cannot stop reading, and the book itself will not stay down!"
+   },
+   "phrasalVerbs": {
+    "checks": {
+     "date": "2026-11-20",
+     "newness": "PASS — checked with lexical_history.check_item against Foundation + A1 + A2 + B1 Units 1-27 + B2 Units 1-20 + C1 Unit 1 + C2 Unit 1 and the shared ledger (5,182 known keys, 1,960 ledger items). Component check: ALL CLEAN — neither 'flesh' nor 'out' is a taught new word, and 'flesh out' is not a taught phrase."
+    },
+    "conversation": [
+     {
+      "line": "My plan for the new project is still very short.",
+      "speaker": "A"
+     },
+     {
+      "line": "You need to flesh it out. Add the costs, the dates, and the people you need.",
+      "speaker": "B"
+     },
+     {
+      "line": "Good idea. I will flesh it out this weekend.",
+      "speaker": "A"
+     },
+     {
+      "line": "Then we can show it to the team on Monday.",
+      "speaker": "B"
+     }
+    ],
+    "definition": "To add more details to an idea, a plan, or a story so that it becomes fuller and clearer.",
+    "entry": "flesh out",
+    "example": "The first draft was only two pages, so she fleshed it out with examples and data.",
+    "id": "phrasal-verbs-c2-001",
+    "level": "c2",
+    "synonyms": [
+     "expand on",
+     "develop in detail"
+    ],
+    "type": "phrasal-verb"
+   },
+   "sentencePatterns": {
+    "checks": {
+     "date": "2026-11-20",
+     "newness": "PASS — checked with lexical_history.check_item against Foundation + A1 + A2 + B1 Units 1-27 + B2 Units 1-20 + C1 Unit 1 + C2 Unit 1 and the shared ledger (5,182 known keys, 1,960 ledger items). 'Had it not been for' does not appear in C2 teaching. Component check: ALL CLEAN."
+    },
+    "examples": [
+     {
+      "sentence": "Had it not been for your quick thinking, we would have missed the train.",
+      "situation": "Thanking a friend for quick help"
+     },
+     {
+      "sentence": "Had it not been for the rain, the fire would have spread to the whole forest.",
+      "situation": "Talking about a natural event"
+     },
+     {
+      "sentence": "Had it not been for her careful notes, I would have failed the exam.",
+      "situation": "Talking about study and exams"
+     }
+    ],
+    "explanation": "Use this pattern to say that one thing saved the day or changed the result: without it, something bad would have happened. It is a formal way to talk about a past event that did not happen.",
+    "form": "Had it not been for + noun / noun phrase, ... would have / could have / might have + past participle.",
+    "id": "sentence-patterns-c2-001",
+    "level": "c2",
+    "pattern": "Had it not been for ...",
+    "type": "sentence-pattern"
+   },
+   "writing": {
+    "checks": {
+     "date": "2026-11-20",
+     "newness": "Topic recycles C2 Unit 1 'Say exactly what you mean' (ambiguity, connotation, denotation, euphemism, hyperbole, understatement, eloquence, rhetoric, subtlety, precision) and C1 Unit 1 'Say exactly what you mean' (precise, explicit, distinction, forthright). Model-text words checked with check42.py writing: unknown NONE, above-level NONE. Word count verified by script: exactly 600 words."
+    },
+    "id": "writing-c2-001",
+    "level": "c2",
+    "modelText": "Words are tools, and like all tools, they work best when we choose them with care. A vague word can keep the truth from us, while a precise word can make it clear. In this essay, I want to show why precise language matters in our life and at work. My point is simple: when we say exactly what we mean, we think more clearly, and other people understand us better.\n\nFirst, let us look at ambiguity, the problem that starts when words have more than one meaning. For example, if a manager says, \"We need to improve our results soon,\" the word \"soon\" is vague. The team can not work with confidence because the message is not clear. A person who speaks with care would say, \"We need to finish the work before the end of this month.\" Now the goal and the time are clear.\n\nNext, precise language helps us stop mistakes that come from words with different connotations. Every word has a denotation, its real meaning, and a connotation, the feeling it brings with it. The words \"cheap\" and \"good value\" both tell about a low price, but they feel very different. A careful person knows this and chooses the word that fits the message. A euphemism can soften the blow, but it can also keep the truth from us. To say a worker was \"let go\" is soft, but to say the worker \"lost the job\" is hard. Soft words have a place, but at times we should call a spade a spade and tell it like it is.\n\nPrecision also stops hyperbole and overstatement. When people call a small change \"a big problem,\" they use big words for small things. To put it mildly, a problem is serious; in the strictest sense, a big problem is one that makes people sad and costs a lot. Understatement can also be a problem. If a doctor says a test result is \"not quite what we hoped for,\" a patient may not know the danger.\n\nAs a matter of fact, precise language is also a mark of eloquence and respect. An eloquent, measured person does not use long, verbose words to show off; an eloquent person uses the right words to make a hard idea clear. They cut to the chase, they do not mince words, and they get through to their listeners. In this way, we show respect for the time and the mind of the people who listen to us.\n\nHow, then, can we become more precise? The first step is to listen to our own words. When we catch a vague word, we can stop and ask, \"What do I really mean?\" Next, ask for the meaning behind the words of other people. If a friend says, \"I am fine,\" ask, in a courteous way, \"Are you sure?\" Often, people keep true feelings behind guarded words. The last step is to learn the fine distinctions between words that seem the same. For example, \"reserved\" and \"shy\" are not the same. To know this subtlety is to hold a good tool.\n\nIn brief, precise language is not a nice extra; in practice, it is a skill that we use every day. It also helps us think, because when we must find the right word, we must first find the right thought. So let us choose our words with care, say exactly what we mean, and listen for the meaning behind the words of others. When we do, our words carry more weight, our ideas travel further, and our talks with other people become warm and honest.",
+    "patterns": [
+     "A ... word can ..., while a ... word can ...",
+     "To put it mildly, ... ; in the strictest sense, ...",
+     "When we say exactly what we mean, we ...",
+     "The first step is to ... . The last step is to ...",
+     "In brief, ... ; in practice, ..."
+    ],
+    "selfCheck": [
+     "I wrote about 600 words.",
+     "I used at least three C2 Unit 1 words.",
+     "I used at least two patterns from the model text.",
+     "I gave clear examples with real words and real situations.",
+     "I said how to become more precise.",
+     "I checked my spelling and ended every sentence with a full stop or a question mark."
+    ],
+    "structureMap": [
+     {
+      "job": "Say why precise language matters and what the essay will show.",
+      "part": "Beginning",
+      "sentences": "1-4"
+     },
+     {
+      "job": "Show the problems precise language solves: ambiguity, connotation, overstatement, and empty talk.",
+      "part": "Middle",
+      "sentences": "5-25"
+     },
+     {
+      "job": "Give three steps to become more precise: listen to your own words, ask what others mean, and learn fine distinctions.",
+      "part": "How to improve",
+      "sentences": "26-34"
+     },
+     {
+      "job": "Sum up the value of precise language and call the reader to use it.",
+      "part": "End",
+      "sentences": "35-38"
+     }
+    ],
+    "task": "Write about why precise language matters in about 600 words. Use at least three C2 Unit 1 words (ambiguity, connotation, denotation, euphemism, hyperbole, understatement, eloquence, rhetoric, subtlety, precision) and at least two of the patterns from the model text. Give clear examples with real words and real situations.",
+    "topic": "Say Exactly What You Mean: The Power of Precise Language",
+    "type": "writing",
+    "wordCount": 600,
+    "wordTarget": 600
+   }
+  },
+  "foundation": {
+   "flashcards": {
+    "checks": {
+     "date": "2026-11-20",
+     "newness": "PASS — checked with lexical_history.check_item against Foundation + A1 + A2 + B1 Units 1-27 + B2 Units 1-20 + C1 Unit 1 + C2 Unit 1 and the shared ledger (5,182 known keys, 1,960 ledger items)"
+    },
+    "definition": "A big cat. It has yellow-brown hair and two big eyes. It can run fast and jump up.",
+    "example": "The lion is the king of the zoo.",
+    "id": "flashcards-foundation-001",
+    "ipa": "/ˈlaɪən/",
+    "level": "foundation",
+    "partOfSpeech": "noun",
+    "type": "flashcard",
+    "word": "lion"
+   },
+   "idioms": {
+    "checks": {
+     "date": "2026-11-20",
+     "newness": "PASS — checked with lexical_history.check_item against Foundation + A1 + A2 + B1 Units 1-27 + B2 Units 1-20 + C1 Unit 1 + C2 Unit 1 and the shared ledger (5,182 known keys, 1,960 ledger items). 'A piece of cake' was NOT used: it was the punchline of the 2026-11-07 daily joke, so 'busy as a bee' is the fresher pick."
+    },
+    "conversation": [
+     {
+      "line": "Why is your mother so tired?",
+      "speaker": "A"
+     },
+     {
+      "line": "She is busy as a bee. She works all day.",
+      "speaker": "B"
+     },
+     {
+      "line": "Tell her to sit down and rest!",
+      "speaker": "A"
+     }
+    ],
+    "definition": "Always working hard, never stopping to rest. A bee works all day, and so does this person!",
+    "entry": "busy as a bee",
+    "example": "My mother is busy as a bee. She works all day.",
+    "id": "idioms-foundation-001",
+    "level": "foundation",
+    "synonyms": [
+     "very busy",
+     "always working"
+    ],
+    "type": "idiom"
+   },
+   "jokes": {
+    "checks": {
+     "date": "2026-11-20",
+     "newness": "PASS — checked against the daily-joke used list (used_jokes.txt, 31 jokes delivered) — this joke was never used. All key words are already known words."
+    },
+    "id": "jokes-foundation-001",
+    "joke": "Why did the dog sit in the sun? He wanted to be a hot dog!",
+    "keyWords": [
+     {
+      "explanation": "a pet animal that can run and play",
+      "word": "dog"
+     },
+     {
+      "explanation": "the big light in the sky in the day",
+      "word": "sun"
+     },
+     {
+      "explanation": "very warm",
+      "word": "hot"
+     },
+     {
+      "explanation": "to rest on a chair or on the ground",
+      "word": "sit"
+     }
+    ],
+    "level": "foundation",
+    "type": "joke",
+    "whyFunny": "A hot dog is a food. But a dog in the hot sun is also a hot dog! The dog is hot, so it is a hot dog. That is the joke!"
+   },
+   "phrasalVerbs": {
+    "checks": {
+     "date": "2026-11-20",
+     "newness": "PASS — checked with lexical_history.check_item against Foundation + A1 + A2 + B1 Units 1-27 + B2 Units 1-20 + C1 Unit 1 + C2 Unit 1 and the shared ledger (5,182 known keys, 1,960 ledger items)"
+    },
+    "conversation": [
+     {
+      "line": "I am in bed. It is morning.",
+      "speaker": "A"
+     },
+     {
+      "line": "Sit up! It is time for school.",
+      "speaker": "B"
+     },
+     {
+      "line": "OK, Mom. I am up now.",
+      "speaker": "A"
+     },
+     {
+      "line": "Good. Eat your egg and bread.",
+      "speaker": "B"
+     }
+    ],
+    "definition": "To sit with your back straight, or to move from lying down to sitting.",
+    "entry": "sit up",
+    "example": "Sit up, please. The teacher is here.",
+    "id": "phrasal-verbs-foundation-001",
+    "level": "foundation",
+    "synonyms": [
+     "sit straight",
+     "sit tall"
+    ],
+    "type": "phrasal-verb"
+   },
+   "sentencePatterns": {
+    "checks": {
+     "date": "2026-11-20",
+     "newness": "PASS — checked with lexical_history.check_item against Foundation + A1 + A2 + B1 Units 1-27 + B2 Units 1-20 + C1 Unit 1 + C2 Unit 1 and the shared ledger (5,182 known keys, 1,960 ledger items)"
+    },
+    "examples": [
+     {
+      "sentence": "What is this?",
+      "situation": "Asking about a toy at home"
+     },
+     {
+      "sentence": "What is this? This is a red apple.",
+      "situation": "At school, asking about food"
+     },
+     {
+      "sentence": "What is this? This is my new book.",
+      "situation": "Asking a friend about a book"
+     }
+    ],
+    "explanation": "Use this question to ask about a thing near you. Answer with 'This is a ...'.",
+    "form": "What is this? — This is a + noun.",
+    "id": "sentence-patterns-foundation-001",
+    "level": "foundation",
+    "pattern": "What is this?",
+    "type": "sentence-pattern"
+   },
+   "writing": {
+    "checks": {
+     "date": "2026-11-20",
+     "newness": "Topic recycles Foundation vocabulary (dog, ball, yard, morning, meat, rice, run, jump). Model-text words checked with check42.py writing: unknown NONE. Word count verified by script: exactly 50 words."
+    },
+    "id": "writing-foundation-001",
+    "level": "foundation",
+    "modelText": "My dog is big. He has two eyes and a black nose. He can run fast. He can jump up. He plays with a red ball in the yard. In the morning, we walk in the yard. He eats meat and rice. I love my dog. He is my friend.",
+    "patterns": [
+     "My dog is ...",
+     "He can ...",
+     "He plays with ...",
+     "In the morning, we ...",
+     "I love my dog."
+    ],
+    "selfCheck": [
+     "I wrote about 50 words.",
+     "I said what my dog looks like.",
+     "I said what my dog can do.",
+     "I used 'My dog is ...' and 'He can ...'.",
+     "I started each sentence with a capital letter and ended it with a full stop.",
+     "I checked my spelling."
+    ],
+    "structureMap": [
+     {
+      "job": "Say what your dog is like.",
+      "part": "Beginning",
+      "sentences": "1-2"
+     },
+     {
+      "job": "Say what your dog can do and what you do with it.",
+      "part": "Middle",
+      "sentences": "3-7"
+     },
+     {
+      "job": "Say how you feel about your dog.",
+      "part": "End",
+      "sentences": "8-9"
+     }
+    ],
+    "task": "Write about your dog in about 50 words. Say what your dog looks like, what it can do, and what you do with it. Use the patterns from the model text.",
+    "topic": "My dog",
+    "type": "writing",
+    "wordCount": 50,
+    "wordTarget": 50
+   }
+  }
  }
 };
 window.EE_DATA.a2Day1 = {
