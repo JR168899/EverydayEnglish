@@ -662,13 +662,40 @@ header.site .bar .font-size{order:5;flex:0 0 auto;padding:0;margin:0 0 0 auto;bo
    positioned, so the bar gets a fixed min-height and the two rows spread
    top (nav) / bottom (text size). The SVG viewBox is cropped to the
    artwork so the element box is the visible letters, not empty margins. */
+/* Middle function strip: hidden below 1441px (wide screens only).
+   NOTE: this base rule must stay BEFORE the wide media block — same
+   specificity, so source order decides, and the block's display:flex
+   has to win at wide widths. */
+.header-status{display:none}
 @media (min-width:1441px){
   header.site .bar{position:relative;min-height:220px;align-content:space-between}
-  header.site .bar .logo{position:absolute;left:32px;top:40px}
-  .logo img{height:180px}
+  /* Logo: the visible letters' top edge sits on the News text's top edge;
+     the bottom sits on the orange line. 200px tall, 437px wide. */
+  header.site .bar .logo{position:absolute;left:32px;top:20px}
+  .logo img{height:200px}
+  /* Tighter nav links so the wider logo clears the nav. */
+  header.site .bar nav.main a{padding:8px 10px}
   /* Text size stays on its own bottom row (it would fit up top now that
-     the logo is out of flow — keep it where it was, above the orange line). */
-  header.site .bar .font-size{order:10;flex:1 1 100%;justify-content:flex-end;padding:8px 0 6px;margin-top:8px;border-top:2px solid var(--border)}
+     the logo is out of flow — keep it where it was, above the orange line).
+     No divider above it: the full-width line was the stray line across
+     the middle of the header. */
+  header.site .bar .font-size{order:10;flex:1 1 100%;justify-content:flex-end;padding:8px 0 6px;margin-top:8px;border-top:0}
+  /* Middle function strip: search + up next. Fills the band between the
+     nav row and the text-size row; hidden below 1441px. */
+  .header-status{display:flex;align-items:center;gap:20px;position:absolute;right:32px;top:50%;transform:translateY(-50%);max-width:860px}
+  .header-search{position:relative;flex:0 0 250px}
+  .header-search input{width:100%;font:inherit;font-size:15px;font-weight:700;padding:10px 14px;border:2px solid var(--border);border-radius:999px;background:#fff;color:var(--text)}
+  .header-search input:focus{outline:3px solid var(--primary);outline-offset:1px}
+  .header-search-results{position:absolute;top:calc(100% + 6px);left:0;right:0;background:#fff;border:2px solid var(--border);border-radius:14px;box-shadow:0 8px 24px rgba(122,42,26,.16);overflow:hidden;z-index:20}
+  .header-search-results a{display:block;padding:10px 14px;text-decoration:none;color:var(--text);font-weight:800;border-top:1px solid var(--border)}
+  .header-search-results a:first-child{border-top:0}
+  .header-search-results a small{display:block;font-weight:600;opacity:.65}
+  .header-search-results a:hover{background:var(--surface-2)}
+  .header-next{display:flex;flex-direction:column;gap:2px;min-width:0}
+  .header-next-label{font-size:12px;font-weight:900;letter-spacing:.08em;text-transform:uppercase;color:var(--primary)}
+  .header-next-link{font-weight:900;color:var(--text);text-decoration:none;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;max-width:520px}
+  .header-next-link:hover{color:var(--primary);text-decoration:underline}
+  .header-next-progress{font-size:13px;opacity:.7;white-space:nowrap}
 }
 
 /* ---------- Saved cards (2026-11-21, JR) ----------

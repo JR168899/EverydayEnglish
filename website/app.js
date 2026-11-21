@@ -26,6 +26,35 @@
   function saveSaved(s) { try { localStorage.setItem(SAVED_KEY, JSON.stringify(s)); } catch (e) { /* private mode */ } }
   function savedKey(level, day, kind, index) { return level + ':' + day + ':' + kind + ':' + index; }
 
+  /* Header search index: lesson titles + supplement first items.
+     Built lazily on the first search, from the bundled data.js. */
+  var searchIndex = null;
+  function buildSearchIndex() {
+    var d = window.EE_DATA || {};
+    var items = [];
+    function add(url, title, meta) { if (title) items.push({ url: url, title: title, meta: meta }); }
+    function levelName(lv) { return (d.levels && d.levels[lv]) ? d.levels[lv].name : lv; }
+    (d.a1Lessons || []).forEach(function (x) { add('day.html?level=a1&day=' + x.day, x.title, 'A1 · Day ' + x.day); });
+    (d.foundationLessons || []).forEach(function (x) { add('day.html?level=foundation&day=' + x.day, x.title, 'Foundation · Day ' + x.day); });
+    Object.keys(d.unitLessons || {}).forEach(function (lv) {
+      Object.keys(d.unitLessons[lv]).forEach(function (u) {
+        (d.unitLessons[lv][u] || []).forEach(function (x) {
+          add('day.html?level=' + lv + '&day=' + x.day, x.title, levelName(lv) + ' · Day ' + x.day);
+        });
+      });
+    });
+    Object.keys(d.supplements || {}).forEach(function (lv) {
+      var s = d.supplements[lv];
+      if (s.flashcards) add('supplement.html?type=flashcards&level=' + lv, s.flashcards.word, levelName(lv) + ' · Flashcard');
+      if (s.phrasalVerbs) add('supplement.html?type=phrasal-verbs&level=' + lv, s.phrasalVerbs.entry, levelName(lv) + ' · Phrasal verb');
+      if (s.idioms) add('supplement.html?type=idioms&level=' + lv, s.idioms.entry, levelName(lv) + ' · Idiom');
+      if (s.sentencePatterns) add('supplement.html?type=sentence-patterns&level=' + lv, s.sentencePatterns.pattern, levelName(lv) + ' · Sentence pattern');
+      if (s.jokes) add('supplement.html?type=jokes&level=' + lv, s.jokes.joke, levelName(lv) + ' · Joke');
+      if (s.writing) add('supplement.html?type=writing&level=' + lv, s.writing.topic, levelName(lv) + ' · Writing');
+    });
+    return items;
+  }
+
   var FONT_KEY = 'ee-font-size';
   var RATE_KEY = 'ee-speech-rate';
   var FONT_SIZES = { xsmall: '14px', small: '15px', normal: '16px', large: '18px', extra: '20px' };
@@ -263,6 +292,35 @@
       return '<button type="button" class="listen-btn" data-speak="' + this.esc(text) +
         '" aria-label="Listen: ' + this.esc(text) + '">' + this.icons.speaker +
         (label || 'Listen') + '</button>';
+    },
+    /* Day title from the bundled title lists (data.js). */
+    dayTitle: function (level, day) {
+      var d = window.EE_DATA || {};
+      function inList(list) {
+        var m = (list || []).find(function (x) { return x.day === day; });
+        return m ? m.title : null;
+      }
+      var t = null;
+      if (level === 'a1') t = inList(d.a1Lessons);
+      else if (level === 'foundation') t = inList(d.foundationLessons);
+      else if (d.unitLessons && d.unitLessons[level]) {
+        Object.keys(d.unitLessons[level]).forEach(function (u) {
+          var m = inList(d.unitLessons[level][u]);
+          if (m) t = m;
+        });
+      }
+      return t || ('Day ' + day);
+    },
+    /* Header search: lesson titles + supplement first items. */
+    searchLessons: function (q) {
+      q = (q || '').trim().toLowerCase();
+      if (q.length < 2) return [];
+      if (!searchIndex) searchIndex = buildSearchIndex();
+      var out = [];
+      for (var i = 0; i < searchIndex.length && out.length < 6; i++) {
+        if (searchIndex[i].title.toLowerCase().indexOf(q) !== -1) out.push(searchIndex[i]);
+      }
+      return out;
     }
   };
 
@@ -404,6 +462,38 @@
       b.addEventListener('click', function () { setFontSize(b.getAttribute('data-font-size')); });
     });
     refreshFontButtons();
+
+    /* Wide-screen status strip: search + up next. CSS shows it only
+       at 1441px and up; below that the header keeps its current layout. */
+    document.querySelectorAll('header.site .bar').forEach(function (bar) {
+      if (bar.querySelector('.header-status') || !window.EE_DATA) return;
+      var t = window.EE.continueTarget();
+      var lv = (window.EE_DATA.levels || {})[t.level];
+      var vc = lv ? window.EE.visitedCount(t.level, lv.days) : { done: 0, total: 0 };
+      var strip = document.createElement('div');
+      strip.className = 'header-status';
+      strip.innerHTML =
+        '<div class="header-search"><input type="search" placeholder="Search words &amp; lessons…" aria-label="Search words and lessons" autocomplete="off">' +
+        '<div class="header-search-results" hidden></div></div>' +
+        '<div class="header-next"><span class="header-next-label">Up next</span>' +
+        '<a class="header-next-link" href="day.html?level=' + encodeURIComponent(t.level) + '&amp;day=' + t.day + '">' +
+        window.EE.esc((lv ? lv.name : t.level) + ' · Day ' + t.day + ' — ' + window.EE.dayTitle(t.level, t.day)) + '</a>' +
+        '<span class="header-next-progress">' + vc.done + ' of ' + vc.total + ' days visited</span></div>';
+      bar.appendChild(strip);
+      var input = strip.querySelector('input');
+      var results = strip.querySelector('.header-search-results');
+      input.addEventListener('input', function () {
+        var hits = window.EE.searchLessons(input.value);
+        if (!hits.length) { results.hidden = true; results.innerHTML = ''; return; }
+        results.innerHTML = hits.map(function (h) {
+          var title = h.title.length > 60 ? h.title.slice(0, 60) + '…' : h.title;
+          return '<a href="' + h.url + '">' + window.EE.esc(title) + '<small>' + window.EE.esc(h.meta) + '</small></a>';
+        }).join('');
+        results.hidden = false;
+      });
+      input.addEventListener('blur', function () { setTimeout(function () { results.hidden = true; }, 150); });
+      input.addEventListener('keydown', function (e) { if (e.key === 'Escape') { results.hidden = true; input.blur(); } });
+    });
 
     /* News page speed select shares the same saved rate as EE.speak. */
     var speedEl = document.getElementById('readSpeed');
